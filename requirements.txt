@@ -1,0 +1,8 @@
+pandas
+spacy
+plotly
+altair
+matplotlib
+numpy
+concurrent-log-handler
+scikit-learn
