@@ -1,0 +1,579 @@
+---
+title: "Stylometric Analysis of Balzac's Works"
+author: "Thinhinane Atyamena"
+format:
+  html:
+    toc: true
+    toc-depth: 2
+    theme: cosmo
+    number-sections: true
+    code-fold: true
+    highlight-style: zenburn
+    self-contained: true
+    code-summary: "Show code"
+css: styles.css
+execute:
+  echo: false
+  warning: false
+  message: false
+  collapse: false
+code-tools: true
+source: repo
+engine: knitr
+jupyter: python3
+---
+```{r}
+# Load reticulate so that R and Python can talk to each other
+library(reticulate)
+```
+
+```{python}
+#| label: library
+#| include: false
+#| eval: false
+import os
+import json
+import pandas as pd
+import altair as alt
+from dask import delayed, compute
+from itertools import islice
+import spacy
+import json
+from pathlib import Path
+from spacy import displacy
+from dask import delayed
+
+```
+
+
+
+#  Introduction: 
+
+
+
+For this project, I used the Dataset that is available in the repository [Balzac Dataset](https://github.com/dh-trier/balzac/tree/master). The repository provides various texts of Balzac's works, which I extracted and processed to perform various analyses.
+
+The data consists of raw text files of Balzac's 92 novels, which I then cleaned, annotated with NLP techniques, and analyzed. The repository offers a structured approach to accessing the complete works, and I used it to retrieve the necessary texts for my stylometric and linguistic analysis.
+
+The extraction was done by downloading the texts directly from the GitHub repository and saving them locally in the Raw folder of my project directory.
+
+#  load/Transform  Pipeline
+
+The text cleaning process is an essential step in preparing the data for analysis. Initially, the raw texts from the Balzac dataset were loaded and then cleaned to remove unnecessary characters, formatting errors, and irrelevant content using small French language model from **spaCy**, this involved several key steps:
+
+- *Removing Special Characters*: All non-alphanumeric characters, such as punctuation marks and excessive whitespace, were removed to ensure the text is structured uniformly.
+- *Tokenization*: The text was split into individual words or tokens, which makes it easier to analyze word frequency, sentence structure, and other textual features.
+- *Stopword Removal*: Common words (such as "et", "le", 'la', etc.) that do not contribute significant meaning to the analysis were filtered out to reduce noise.
+
+This cleaning process helped in transforming the raw text into a more structured and analyzable format, making it suitable for further tasks like annotation, stylometric analysis, and visualization.
+
+
+```{python}
+#| label: Cleaning
+#| appendix: true 
+#| eval: false
+#| include: false
+
+import os
+import spacy
+import re
+
+# Load the spaCy model
+nlp = spacy.load('fr_core_news_sm')
+
+# Define stopwords
+stopwords = set([
+    'à', 'alors', 'après', 'au', 'au-delà', 'aucun', 'aucune', 'aucunes', 'aucuns',
+    'auquel', 'auquelle', 'aussi', 'autour', 'autre', 'autrement', 'autres', 'auxquels',
+    'auxquelles', 'avant', 'avec', 'autant', 'aux', 'auxquels', 'auxquelles', 'avant',
+    'beaucoup', 'bien', 'c', 'ça', 'car', 'ce', 'ceci', 'cela', 'celle', 'celles',
+    'celui', 'cependant', 'certain', 'ces', 'cet', 'cette', 'ceux', 'chacun', 'chacune',
+    'chaque', 'chez', 'ci', 'd',  'dans', 'de', 'de façon',
+    'de l', 'de la', 'dejà', 'depuis', 'des', 'donc', 'dont', 'du', 'dus', 'elle', 'elles',
+    'en', 'en cours de', 'en cours d', 'en effet', 'encore', 'enfin', 'ensuite', 'environ',
+    'et', 'etc', 'eux', 'faut', 'ici', 'il', 'ils', 'in', 'j', 'jamais', 'je', 'jusque',
+    'jusqu', 'l', 'la', 'laquelle', 'le', 'lequel', 'les', 'lesquelles', 'lesquels', 'leur',
+    'leurs', 'lors', 'lui', 'ma', 'mais', 'malgré', 'me', 'même', 'mêmes', 'mes', 'mon', 'n',
+    'ne', 'ni', 'non', 'nous', 'nos', 'notre', 'on', 'or', 'ou', 'où', 'par', 'par exemple',
+    'parce qu', 'parce que', 'parfois', 'parmi', 'pas', 'pendant', 'peu', 'plus', 'plusieurs',
+    'pour', 'près', 'presqu', 'presque', 'puis', 'puisque', 'puisqu', 'qu', 'quand', 'quant',
+    'quasi', 'que', 'quel', 'quelle', 'quelles', 'quelqu', 'quelque', 'quelques', 'quels',
+    'qui', 'quoi', 's', 'sa', 'sait', 'sans', 'se', 'selon', 'ses', 'si', 'son', 'sous',
+    'ta', 'tant', 'te', 'tel', 'telle', 'telles', 'tels', 'tes', 'ton', 'tous', 'tout', 'toutes',
+    'très', 'trop', 'tu', 'un', 'uns', 'une', 'unes', 'vers', 'vos', 'votre', 'vous', 'y', 'y compris'
+])
+
+# Directories
+raw_dir = 'D:/ParisC/Projects/BigData-HWI/DATA/Raw'
+cleaned_dir = 'D:/ParisC/Projects/BigData-HWI/DATA/Cleaned'
+
+# Function to clean the text
+def clean_text_file(path):
+    with open(path, 'r', encoding='utf-8') as f:
+        text = f.read()
+    
+    # Process the text with spaCy
+    doc = nlp(text)
+    
+    # Remove special characters using regex (keeping only letters and spaces)
+    text = re.sub(r'[^a-zA-Zàâçéèêëîïôûùüÿæœ/s!?,;.:()/-_/'0-9]', '', text)
+    
+    # Filter out stopwords
+    cleaned_text = ' '.join([token.text for token in doc if token.text not in stopwords])
+    
+    # Save the cleaned text
+    cleaned_path = os.path.join(cleaned_dir, os.path.basename(path))
+    with open(cleaned_path, 'w', encoding='utf-8') as out:
+        out.write(cleaned_text)
+    
+    return cleaned_path
+
+# Process all files in the Raw directory
+files = [os.path.join(raw_dir, f) for f in os.listdir(raw_dir) if f.endswith('.txt')]
+
+for file in files:
+    clean_text_file(file)
+
+```
+
+
+#  Annotation Pipeline
+
+This process involves using the Python library **spaCy** to analyze text data in French. The task is to read text files, process the text with **spaCy** to extract linguistic features like tokens and named entities, and then save the results in two formats: **JSON**.
+
+Key Terms: 
+
+- **spaCy**: A powerful NLP library used to process and analyze text.
+- **dask**: A library that allows for parallel computation, which helps process multiple text files at once.
+- **json**: Stores detailed information like the token text, lemma, part of speech, and dependencies.
+- **Tokens**: Individual words or punctuation marks.
+- **Entities**: Important named entities like people, places, and organizations.
+- **Parallel Processing**: Using dask and the @delayed decorator, the annotation of each text file is done in parallel, which speeds up the process when working with large datasets.
+
+
+```{python}
+#| label: Annotate_with_dask
+#| appendix: true 
+#| eval: false
+#| include: false
+
+# Load the French spaCy model
+nlp = spacy.load('fr_core_news_sm')
+
+# Directories for input and output
+input_dir = Path('D:/ParisC/Projects/BigData-HWI/DATA/Cleaned')
+output_dir = Path('D:/ParisC/Projects/BigData-HWI/NLP/annotated')
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Get sorted list of text files to annotate
+files = sorted(input_dir.glob('*.txt'))
+
+# Define a function to annotate each file
+@delayed
+def annotate_file(file_path):
+    text = file_path.read_text(encoding='utf-8')
+    doc = nlp(text)
+
+    annotations = {
+        'tokens': [
+            {
+                'text': token.text,
+                'lemma': token.lemma_,
+                'pos': token.pos_,
+                'tag': token.tag_,
+                'dep': token.dep_,
+                'head': token.head.text
+            }
+            for token in doc
+        ],
+        'entities': [
+            {
+                'text': ent.text,
+                'label': ent.label_,
+                'start_char': ent.start_char,
+                'end_char': ent.end_char
+            }
+            for ent in doc.ents
+        ]
+    }
+
+    json_path = output_dir / file_path.with_suffix('.json').name
+    html_path = output_dir / file_path.with_suffix('.html').name
+
+    with open(json_path, 'w', encoding='utf-8') as f:
+        json.dump(annotations, f, ensure_ascii=False, indent=2)
+
+    html = displacy.render(doc, style='ent', page=True)
+    with open(html_path, 'w', encoding='utf-8') as f:
+        f.write(html)
+
+    return f'{file_path.name} done'
+
+# Create a list of tasks to process each file in parallel
+tasks = [annotate_file(f) for f in files]
+
+# Compute the results in parallel
+results = compute(*tasks)
+
+# Print the results of annotation
+print(results)
+")
+
+
+```
+
+
+#  Stylometric Analysis
+
+This code is designed to analyze a collection of cleaned text files to uncover linguistic features that can help identify stylistic patterns in the writing. The process begins by setting up two directories: one to store the cleaned text files and another to save the analysis results. It uses the **spaCy** library to process the texts and extract meaningful data about their structure and complexity.
+
+The core of the analysis takes place within the **analyze_text()** function. For each text file, the function extracts several important metrics. First, it calculates **the average sentence length** by measuring how many words are typically found in each sentence. It also computes the **Flesch-Kincaid readability score**, which provides a numerical value indicating how *easy* or *difficult* the text is to read. This is followed by counting the unique words in the text, which helps gauge the richness of the vocabulary. The function also calculates **the average word length**, giving an indication of the *complexity* of the words used. Another useful metric is **the type-token ratio (TTR)**, which compares the number of *unique* words to the total number of words, helping assess the *diversity* of the vocabulary. Finally, the function counts the occurrence of various **parts of speech**, focusing on *nouns*, *verbs*, *adjectives*, and *adverbs*, which provides a deeper understanding of the text’s *grammatical structure*.
+
+Once the analysis is complete for each text file, the results are stored in a dictionary. The code then iterates through all the cleaned text files, processes them one by one, and stores the results for each. After the analysis is done, all the gathered data is saved in a **JSON** file, which makes it easy to review and further process the results later.
+
+Overall, the code generates a detailed breakdown of stylistic features for each text, offering valuable insights into the author’s writing style and the linguistic characteristics of the texts being analyzed.
+
+
+```{python}
+#| label: Stylo_analysis
+#| appendix: true 
+#| eval: false
+#| include: false
+
+
+import os
+import json
+import spacy
+from pathlib import Path
+from textstat import flesch_kincaid_grade
+from collections import Counter
+import pandas as pd
+
+# Directories
+cleaned_dir = Path("D:/ParisC/Projects/BigData-HWI/DATA/Cleaned")
+output_dir = Path("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results")
+output_dir.mkdir(parents=True, exist_ok=True)
+
+# Load spaCy model
+nlp = spacy.load("fr_core_news_sm")
+
+# Function to analyze a text
+def analyze_text(filepath):
+    with open(filepath, "r", encoding="utf-8") as f:
+        text = f.read()
+
+    doc = nlp(text[:100000])  # Limit to avoid crashing
+
+    words = [token.text for token in doc if token.is_alpha]
+    sents = list(doc.sents)
+    pos_counts = Counter([token.pos_ for token in doc if token.pos_ in ["NOUN", "VERB", "ADJ", "ADV"]])
+
+    return {
+        "Avg Sentence Length": sum(len(sent) for sent in sents) / len(sents) if sents else 0,
+        "Flesch-Kincaid": flesch_kincaid_grade(text) if text.strip() else 0,
+        "Unique Words Count": len(set(words)),
+        "Avg Word Length": sum(len(w) for w in words) / len(words) if words else 0,
+        "TTR": len(set(words)) / len(words) if words else 0,
+        "POS Distribution": dict(pos_counts)
+    }
+
+# Loop through all cleaned texts
+results = {}
+for file in cleaned_dir.glob("*.txt"):
+    print(f"Processing {file.name}...")
+    results[file.name] = analyze_text(file)
+
+# Save results
+with open(output_dir / "analysis_results.json", "w", encoding="utf-8") as f:
+    json.dump(results, f, ensure_ascii=False, indent=2)
+
+print(" Stylometric analysis complete!")
+```
+
+
+
+
+## Average Sentence Length Distribution
+```{python}
+#| label: Average_Sentence_Length_Distribution
+#| appendix: true
+#| echo: false
+
+import json
+import pandas as pd
+import altair as alt
+import os
+import random
+
+# Load the analysis results
+with open("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
+    data = json.load(f)
+
+# Function to clean file names
+def clean_title(filename):
+    name = os.path.splitext(filename)[0]  # Remove .txt extension
+    name = name.replace('_', ' ')         # Replace underscores with spaces
+    return name.capitalize()              # Capitalize the first letter
+
+# Sample 20 random texts
+sampled_data = random.sample(list(data.items()), 20)
+
+# Create the DataFrame
+avg_sentence_df = pd.DataFrame({
+    "Text": [clean_title(k) for k, _ in sampled_data],
+    "Avg Sentence Length": [v["Avg Sentence Length"] for _, v in sampled_data]
+})
+
+# Create the chart
+alt.Chart(avg_sentence_df).mark_bar().encode(
+    x=alt.X('Text:N', sort='-y', title="Title"),
+    y=alt.Y('Avg Sentence Length:Q'),
+    tooltip=['Text', 'Avg Sentence Length']
+).properties(
+    title="Average Sentence Length Distribution (20 Sampled Texts)",
+    width=600
+)
+
+```
+
+
+## Average Word Length Distribution
+
+After conducting the stylometric analysis, we can visualize the distribution of the average sentence length across the texts. 
+This graphic illustrates how sentence length varies within the analyzed works. A **peak** in the distribution indicates a common sentence length used throughout the text, while a **wider** spread suggests more variability. By examining this distribution, we can gain insights into the author's writing style, such as whether they tend to favor shorter, punchy sentences or longer, more complex structures. 
+
+```{python}
+#| label: Average_Word_Length_Distribution
+#| appendix: true
+#| echo: false
+
+import random
+import os
+import altair as alt
+# Function to clean up file names
+def clean_title(filename):
+    name = os.path.splitext(filename)[0]  # Remove .txt extension
+    name = name.replace('_', ' ')         # Replace underscores with spaces
+    return name.capitalize()              # Capitalize the first letter
+
+# Sample 20 random texts
+sampled_data = random.sample(list(data.items()), 20)
+
+# Create the DataFrame
+avg_word_df = pd.DataFrame({
+    "Text": [clean_title(k) for k, _ in sampled_data],
+    "Avg Word Length": [v["Avg Word Length"] for _, v in sampled_data]
+})
+
+# Create the chart
+alt.Chart(avg_word_df).mark_bar().encode(
+    x=alt.X('Text:N', sort='-y', title="Title"),
+    y=alt.Y('Avg Word Length:Q'),
+    tooltip=['Text', 'Avg Word Length']
+).properties(
+    title="Average Word Length Distribution (20 Sampled Texts)",
+    width=600
+)
+
+```
+
+## Flesch-Kincaid Readability Score Distribution
+
+The Flesch-Kincaid readability score is a metric used to evaluate the **readability** of a text. It measures the difficulty level based on *sentence* length and *word* length. 
+
+To explore how readable Balzac’s texts are, I plotted the Flesch-Kincaid readability scores for 20 randomly selected novels. In this metric, **higher** scores mean **easier** reading, so it’s a good way to spot which texts are more complex and which ones are more accessible. I added a red horizontal line to show the **average** **readability** score across the sample. Texts above the line are relatively easier to read, while those below are denser or more complex. This gives a quick snapshot of variation in style and accessibility within the corpus.
+
+```{python}
+#| label: Flesch-Kincaid_Readability_Score_Distribution
+#| appendix: true
+#| echo: false
+
+
+import json
+import pandas as pd
+import altair as alt
+import random
+import os
+
+# Load your data
+with open("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
+    data = json.load(f)
+
+# Function to clean and format the text titles
+def clean_title(filename):
+    name = os.path.splitext(filename)[0]  
+    name = name.replace('_', ' ')         
+    return name.capitalize()  
+
+# Sample 20 texts at random
+sampled_data = random.sample(list(data.items()), 20)
+
+# Create a DataFrame for plotting
+flesch_df = pd.DataFrame({
+    "Text": [clean_title(k) for k, _ in sampled_data],
+    "Flesch-Kincaid": [v["Flesch-Kincaid"] for _, v in sampled_data]
+})
+
+avg_score = flesch_df["Flesch-Kincaid"].mean()
+
+# Create the bar chart
+bar = alt.Chart(flesch_df).mark_bar().encode(
+    x=alt.X('Text:N', sort='-y', title="Title"),
+    y=alt.Y('Flesch-Kincaid:Q', title="Flesch-Kincaid Score"),
+    tooltip=['Text', 'Flesch-Kincaid']
+)
+
+# red reference line at the average
+rule = alt.Chart(pd.DataFrame({'y': [avg_score]})).mark_rule(color='red').encode(
+    y='y:Q'
+)
+
+# Combine the chart and the rule
+(bar + rule).properties(
+    title="Flesch-Kincaid Readability Score Distribution (20 Sampled Texts)",
+    width=600
+)
+```
+
+
+## POS Distribution (Grouped by Text)
+
+
+To better understand the grammatical makeup of Balzac's writing, I analyzed the distribution of key part-of-speech tags—nouns, verbs, adjectives, and adverbs across all the texts (but only showing 10 randomly sampled ones here for clearer visualization; [Here’s the link to view all visualizations]("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/POS_Distribution.html")). Each small chart represents one of these texts and breaks down how frequently each type of word appears. This visualization gives a quick snapshot of how language is structured in different works: for instance, some texts may rely heavily on descriptive language (adjectives), while others may lean more on action (verbs) or narrative detail (nouns). By comparing these patterns, we start to see how Balzac’s use of grammar varies from one novel to another, and how certain stylistic tendencies might emerge depending on the theme or genre of the piece.
+
+```{python}
+#| label: POS_Distribution 
+#| appendix: true
+#| echo: false
+
+import random
+
+# Sample 10 random texts
+sampled_texts = random.sample(list(data.items()), 10)
+
+pos_data = [] 
+for text_name, result in sampled_texts:
+    for pos, count in result["POS"].items():
+        pos_data.append({
+            "Text": text_name,
+            "POS": pos,
+            "Count": count
+        })
+
+pos_df = pd.DataFrame(pos_data)
+
+alt.Chart(pos_df).mark_bar().encode(
+    x='POS:N',
+    y='sum(Count):Q',
+    color='POS:N',
+    column=alt.Column('Text:N', title="Text")
+).properties(
+    width=100,
+    height=200,
+    title="POS Tag Distribution by Text (10 Random Samples)"
+)
+
+```
+
+
+## Type-Token Ratio (TTR) Distribution
+
+
+```{python}
+#| label: TTR_Distribution
+#| appendix: true
+#| echo: false
+ 
+ttr_df = pd.DataFrame({
+    "Text": list(data.keys()),
+    "TTR": [v["TTR"] for v in data.values()]
+})
+
+alt.Chart(ttr_df).mark_bar().encode(
+    x=alt.X('Text:N', sort='-y'),
+    y=alt.Y('TTR:Q'),
+    tooltip=['Text', 'TTR']
+).properties(title="Type-Token Ratio Distribution", width=600)
+```
+
+
+## Global Word Cloud
+
+Here is the global word cloud generated from all 92 Balzac novels:
+
+![Word Cloud](D:/ParisC/Projects/BigData-HWI/NLP/Visualisations/wordcloud_spacy_all.png)
+
+
+```{python}
+#| label: Global_Word_Cloud
+#| appendix: true
+#| echo: false
+#| eval: false
+#| freeze: true
+
+import spacy
+from pathlib import Path
+from collections import Counter
+from wordcloud import WordCloud
+import matplotlib.pyplot as plt
+from tqdm.auto import tqdm
+
+ Load French spaCy model
+ nlp = spacy.load("fr_core_news_lg", disable=["parser", "ner"])
+
+# Paths
+cleaned_dir = Path("D:/ParisC/Projects/BigData-HWI/DATA/Cleaned")
+output_image_path = Path("D:/ParisC/Projects/BigData-HWI/NLP/Visualisations/wordcloud_spacy_all.png")
+output_image_path.parent.mkdir(parents=True, exist_ok=True)
+
+ Get all .txt files
+ all_files = list(cleaned_dir.glob("*.txt"))
+
+ word_freq = Counter()
+
+# Process each file with progress bar
+for file_path in tqdm(all_files, desc="Processing files"):
+    with open(file_path, 'r', encoding='utf-8') as f:
+        text = f.read()
+
+    # Use spaCy pipeline in smaller chunks to avoid memory pressure
+   for doc in nlp.pipe([text], batch_size=20):
+        tokens = [
+            token.lemma_.lower()
+            for token in doc
+            if token.is_alpha and not token.is_stop and len(token) > 2
+        ]
+        word_freq.update(tokens)
+
+ Generate and save the word cloud
+if word_freq:
+    wordcloud = WordCloud(
+        width=1400,
+        height=700,
+        background_color='white',
+        max_words=200
+    ).generate_from_frequencies(word_freq)
+
+    wordcloud.to_file(str(output_image_path))
+   print(f" Word cloud saved to {output_image_path}")
+
+    plt.figure(figsize=(16, 8))
+    plt.imshow(wordcloud, interpolation='bilinear')
+    plt.axis("off")
+    plt.title("Word Cloud from All Balzac Texts (spaCy-based)", fontsize=18)
+    plt.show()
+else:
+    print("No word frequencies found.")
+
+```
+
+# Appendix {-}
+
+```{r}
+#| label: appendix-code
+#| ref.label: !expr knitr::all_labels(appendix == TRUE)
+#| echo: true
+#| eval: false
+#| code-fold: false
+
+```
