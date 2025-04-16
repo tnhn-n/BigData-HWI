@@ -1,0 +1,4348 @@
+{
+  "entities": [
+    {
+      "text": "DERNIÈRE",
+      "start": 3,
+      "end": 11,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 51,
+      "end": 60,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 67,
+      "end": 81,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 206,
+      "end": 212,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 223,
+      "end": 232,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 263,
+      "end": 269,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 346,
+      "end": 352,
+      "label": "PER"
+    },
+    {
+      "text": "A t",
+      "start": 412,
+      "end": 415,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 447,
+      "end": 461,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 666,
+      "end": 680,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu",
+      "start": 950,
+      "end": 958,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 1001,
+      "end": 1005,
+      "label": "MISC"
+    },
+    {
+      "text": "Amélie",
+      "start": 1016,
+      "end": 1022,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 1136,
+      "end": 1152,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 1225,
+      "end": 1239,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre du conseil de la Première",
+      "start": 1275,
+      "end": 1308,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 1319,
+      "end": 1326,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 1446,
+      "end": 1464,
+      "label": "PER"
+    },
+    {
+      "text": "M. de Bonald",
+      "start": 1755,
+      "end": 1767,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 1933,
+      "end": 1940,
+      "label": "PER"
+    },
+    {
+      "text": "Pichegru",
+      "start": 1979,
+      "end": 1987,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 1995,
+      "end": 2004,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 2087,
+      "end": 2105,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 2314,
+      "end": 2321,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 2370,
+      "end": 2386,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 2583,
+      "end": 2590,
+      "label": "PER"
+    },
+    {
+      "text": "Coquart",
+      "start": 2824,
+      "end": 2831,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 2935,
+      "end": 2947,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 2994,
+      "end": 3000,
+      "label": "PER"
+    },
+    {
+      "text": "Pistole",
+      "start": 3107,
+      "end": 3114,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 3308,
+      "end": 3314,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 3360,
+      "end": 3369,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 3503,
+      "end": 3510,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 3765,
+      "end": 3771,
+      "label": "PER"
+    },
+    {
+      "text": "Vraiment",
+      "start": 3816,
+      "end": 3824,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 3841,
+      "end": 3848,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 3985,
+      "end": 3995,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 4159,
+      "end": 4169,
+      "label": "PER"
+    },
+    {
+      "text": "Avancer",
+      "start": 4218,
+      "end": 4225,
+      "label": "PER"
+    },
+    {
+      "text": "Brosses",
+      "start": 4531,
+      "end": 4538,
+      "label": "LOC"
+    },
+    {
+      "text": "Molé",
+      "start": 4548,
+      "end": 4552,
+      "label": "PER"
+    },
+    {
+      "text": "Dijon",
+      "start": 4556,
+      "end": 4561,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4570,
+      "end": 4575,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4661,
+      "end": 4666,
+      "label": "LOC"
+    },
+    {
+      "text": "cour royale de Paris",
+      "start": 5054,
+      "end": 5074,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande",
+      "start": 5179,
+      "end": 5185,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 5391,
+      "end": 5400,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 5920,
+      "end": 5924,
+      "label": "LOC"
+    },
+    {
+      "text": "Religion",
+      "start": 6215,
+      "end": 6223,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice",
+      "start": 6230,
+      "end": 6237,
+      "label": "MISC"
+    },
+    {
+      "text": "Amélie Camusot",
+      "start": 6369,
+      "end": 6383,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 6723,
+      "end": 6729,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 6731,
+      "end": 6746,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse Châtelet",
+      "start": 6765,
+      "end": 6782,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 6784,
+      "end": 6799,
+      "label": "PER"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 6821,
+      "end": 6837,
+      "label": "ORG"
+    },
+    {
+      "text": "Sa Grandeur",
+      "start": 6886,
+      "end": 6897,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 7068,
+      "end": 7076,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 7080,
+      "end": 7096,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sérizy",
+      "start": 7126,
+      "end": 7142,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 7207,
+      "end": 7211,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 7266,
+      "end": 7273,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons",
+      "start": 7314,
+      "end": 7320,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 7376,
+      "end": 7384,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 7395,
+      "end": 7402,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 7531,
+      "end": 7545,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 7550,
+      "end": 7574,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 7578,
+      "end": 7584,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 7589,
+      "end": 7595,
+      "label": "MISC"
+    },
+    {
+      "text": "Amélie",
+      "start": 7755,
+      "end": 7761,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 7842,
+      "end": 7848,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 7927,
+      "end": 7943,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 7978,
+      "end": 7985,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sérizy",
+      "start": 8026,
+      "end": 8042,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 8132,
+      "end": 8146,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sérizy",
+      "start": 8150,
+      "end": 8166,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 8200,
+      "end": 8206,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 8282,
+      "end": 8306,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 8401,
+      "end": 8408,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 8414,
+      "end": 8420,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 8504,
+      "end": 8508,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandville",
+      "start": 8618,
+      "end": 8628,
+      "label": "PER"
+    },
+    {
+      "text": "Malaquais",
+      "start": 8660,
+      "end": 8669,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 8701,
+      "end": 8702,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 8720,
+      "end": 8721,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 8742,
+      "end": 8749,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 8756,
+      "end": 8762,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 8863,
+      "end": 8867,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 8949,
+      "end": 8956,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 9300,
+      "end": 9306,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 9308,
+      "end": 9315,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 9390,
+      "end": 9414,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Sérizy",
+      "start": 9421,
+      "end": 9439,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 9514,
+      "end": 9520,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 9531,
+      "end": 9546,
+      "label": "PER"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 9569,
+      "end": 9585,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérizy",
+      "start": 9878,
+      "end": 9884,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 10017,
+      "end": 10031,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 10200,
+      "end": 10207,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 10216,
+      "end": 10222,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 10329,
+      "end": 10347,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 10578,
+      "end": 10581,
+      "label": "PER"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 10586,
+      "end": 10602,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérizy",
+      "start": 10865,
+      "end": 10871,
+      "label": "MISC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 10877,
+      "end": 10889,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 10897,
+      "end": 10906,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 11035,
+      "end": 11042,
+      "label": "PER"
+    },
+    {
+      "text": "Sganarelle",
+      "start": 11104,
+      "end": 11114,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie !",
+      "start": 11184,
+      "end": 11192,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 11395,
+      "end": 11409,
+      "label": "PER"
+    },
+    {
+      "text": "Cromwell",
+      "start": 11522,
+      "end": 11530,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 11824,
+      "end": 11838,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 11893,
+      "end": 11911,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 12825,
+      "end": 12839,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 13011,
+      "end": 13018,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 13124,
+      "end": 13131,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 13327,
+      "end": 13334,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 13412,
+      "end": 13418,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 13432,
+      "end": 13438,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 13496,
+      "end": 13503,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 13578,
+      "end": 13586,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 13593,
+      "end": 13609,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 13735,
+      "end": 13739,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 13777,
+      "end": 13782,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 13802,
+      "end": 13809,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 13894,
+      "end": 13904,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 13978,
+      "end": 13992,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 14327,
+      "end": 14345,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 14373,
+      "end": 14382,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 14384,
+      "end": 14390,
+      "label": "PER"
+    },
+    {
+      "text": "Esther",
+      "start": 14400,
+      "end": 14406,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 14427,
+      "end": 14451,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 14465,
+      "end": 14481,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 14603,
+      "end": 14609,
+      "label": "MISC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 14623,
+      "end": 14640,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse Châtelet",
+      "start": 14648,
+      "end": 14665,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Maufrigneuse",
+      "start": 14697,
+      "end": 14719,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Grandlieu",
+      "start": 14736,
+      "end": 14755,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, je me charge de mesdames",
+      "start": 14815,
+      "end": 14844,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 14847,
+      "end": 14853,
+      "label": "ORG"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 14858,
+      "end": 14870,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 14877,
+      "end": 14886,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur de Grandville",
+      "start": 14947,
+      "end": 14969,
+      "label": "PER"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 15087,
+      "end": 15099,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 15525,
+      "end": 15532,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie !",
+      "start": 15612,
+      "end": 15620,
+      "label": "MISC"
+    },
+    {
+      "text": "Alençon",
+      "start": 15668,
+      "end": 15675,
+      "label": "LOC"
+    },
+    {
+      "text": "Mantes",
+      "start": 15678,
+      "end": 15684,
+      "label": "LOC"
+    },
+    {
+      "text": "Mantes",
+      "start": 15692,
+      "end": 15698,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 15733,
+      "end": 15739,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 16203,
+      "end": 16217,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 16614,
+      "end": 16628,
+      "label": "PER"
+    },
+    {
+      "text": "Bravo",
+      "start": 16632,
+      "end": 16637,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 16644,
+      "end": 16650,
+      "label": "PER"
+    },
+    {
+      "text": "Damoclès suspendue",
+      "start": 16752,
+      "end": 16770,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 16795,
+      "end": 16808,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 17012,
+      "end": 17026,
+      "label": "PER"
+    },
+    {
+      "text": "Tolède",
+      "start": 17083,
+      "end": 17089,
+      "label": "LOC"
+    },
+    {
+      "text": "Carlos Herrera",
+      "start": 17096,
+      "end": 17110,
+      "label": "PER"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 17221,
+      "end": 17230,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 17303,
+      "end": 17321,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 17436,
+      "end": 17445,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 17447,
+      "end": 17455,
+      "label": "PER"
+    },
+    {
+      "text": "Tolède",
+      "start": 17556,
+      "end": 17562,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 17596,
+      "end": 17610,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 17738,
+      "end": 17745,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 17789,
+      "end": 17803,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 17821,
+      "end": 17823,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 17852,
+      "end": 17866,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 17869,
+      "end": 17878,
+      "label": "PER"
+    },
+    {
+      "text": "Sûr",
+      "start": 17887,
+      "end": 17890,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais de Justice !",
+      "start": 18035,
+      "end": 18054,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 18132,
+      "end": 18144,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 18484,
+      "end": 18488,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 18512,
+      "end": 18519,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 18615,
+      "end": 18629,
+      "label": "PER"
+    },
+    {
+      "text": "Coquart",
+      "start": 18659,
+      "end": 18666,
+      "label": "LOC"
+    },
+    {
+      "text": "Gault",
+      "start": 18678,
+      "end": 18683,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 18704,
+      "end": 18716,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 18739,
+      "end": 18749,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 18763,
+      "end": 18777,
+      "label": "PER"
+    },
+    {
+      "text": "la Force",
+      "start": 18797,
+      "end": 18805,
+      "label": "MISC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 18811,
+      "end": 18823,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 18959,
+      "end": 18973,
+      "label": "PER"
+    },
+    {
+      "text": "feu Lucien",
+      "start": 19148,
+      "end": 19158,
+      "label": "PER"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 19212,
+      "end": 19222,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 19334,
+      "end": 19348,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 19371,
+      "end": 19377,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 19444,
+      "end": 19448,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandville",
+      "start": 19570,
+      "end": 19580,
+      "label": "PER"
+    },
+    {
+      "text": "Sois",
+      "start": 19728,
+      "end": 19732,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandville",
+      "start": 19762,
+      "end": 19772,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 19796,
+      "end": 19810,
+      "label": "PER"
+    },
+    {
+      "text": "la Force",
+      "start": 19831,
+      "end": 19839,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 19923,
+      "end": 19947,
+      "label": "PER"
+    },
+    {
+      "text": "les Grandlieu",
+      "start": 19968,
+      "end": 19981,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérizy",
+      "start": 20021,
+      "end": 20027,
+      "label": "MISC"
+    },
+    {
+      "text": "Fie toi",
+      "start": 20029,
+      "end": 20036,
+      "label": "MISC"
+    },
+    {
+      "text": "Écris",
+      "start": 20073,
+      "end": 20078,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 20189,
+      "end": 20203,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 20233,
+      "end": 20239,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 20308,
+      "end": 20324,
+      "label": "ORG"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 20355,
+      "end": 20372,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 20374,
+      "end": 20381,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 20456,
+      "end": 20462,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 20466,
+      "end": 20472,
+      "label": "MISC"
+    },
+    {
+      "text": "Vois",
+      "start": 20523,
+      "end": 20527,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20547,
+      "end": 20552,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 20683,
+      "end": 20690,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 20872,
+      "end": 20886,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 21025,
+      "end": 21031,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie de la comtesse de Sérizy",
+      "start": 21051,
+      "end": 21088,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave de Bauvan",
+      "start": 21826,
+      "end": 21842,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérizy",
+      "start": 21877,
+      "end": 21892,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 21979,
+      "end": 21985,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 22045,
+      "end": 22051,
+      "label": "PER"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 22100,
+      "end": 22114,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 22166,
+      "end": 22171,
+      "label": "LOC"
+    },
+    {
+      "text": "Mairie",
+      "start": 22221,
+      "end": 22227,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandville",
+      "start": 22342,
+      "end": 22352,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 22453,
+      "end": 22459,
+      "label": "PER"
+    },
+    {
+      "text": "Malaquais",
+      "start": 22493,
+      "end": 22502,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain des Prés",
+      "start": 22573,
+      "end": 22595,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 22650,
+      "end": 22660,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandville",
+      "start": 22688,
+      "end": 22698,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 22763,
+      "end": 22769,
+      "label": "PER"
+    },
+    {
+      "text": "Mairie",
+      "start": 22875,
+      "end": 22881,
+      "label": "LOC"
+    },
+    {
+      "text": "Paroisse",
+      "start": 22891,
+      "end": 22899,
+      "label": "LOC"
+    },
+    {
+      "text": "Pompes funèbres",
+      "start": 22924,
+      "end": 22939,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 22962,
+      "end": 22968,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 23109,
+      "end": 23116,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 23202,
+      "end": 23214,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebrun",
+      "start": 23227,
+      "end": 23233,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 23409,
+      "end": 23414,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 23604,
+      "end": 23609,
+      "label": "PER"
+    },
+    {
+      "text": "Contez",
+      "start": 23766,
+      "end": 23772,
+      "label": "LOC"
+    },
+    {
+      "text": "Gault",
+      "start": 23796,
+      "end": 23801,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 23993,
+      "end": 23999,
+      "label": "PER"
+    },
+    {
+      "text": "Académie",
+      "start": 24284,
+      "end": 24292,
+      "label": "ORG"
+    },
+    {
+      "text": "Lebrun",
+      "start": 24467,
+      "end": 24473,
+      "label": "PER"
+    },
+    {
+      "text": "Faculté",
+      "start": 24553,
+      "end": 24560,
+      "label": "ORG"
+    },
+    {
+      "text": "Mesmer",
+      "start": 24569,
+      "end": 24575,
+      "label": "PER"
+    },
+    {
+      "text": "Bouvard",
+      "start": 24622,
+      "end": 24629,
+      "label": "PER"
+    },
+    {
+      "text": "Bouvard",
+      "start": 24785,
+      "end": 24792,
+      "label": "PER"
+    },
+    {
+      "text": "Bouvard",
+      "start": 25475,
+      "end": 25482,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 25708,
+      "end": 25713,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 25803,
+      "end": 25808,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher Gault",
+      "start": 25902,
+      "end": 25916,
+      "label": "MISC"
+    },
+    {
+      "text": "Gault",
+      "start": 27138,
+      "end": 27143,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 27644,
+      "end": 27650,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 27702,
+      "end": 27710,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 27799,
+      "end": 27805,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 27835,
+      "end": 27847,
+      "label": "LOC"
+    },
+    {
+      "text": "Secret numéro",
+      "start": 27852,
+      "end": 27865,
+      "label": "MISC"
+    },
+    {
+      "text": "Vraiment",
+      "start": 27959,
+      "end": 27967,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Secret numéro",
+      "start": 28152,
+      "end": 28168,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 28226,
+      "end": 28240,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 28255,
+      "end": 28260,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Camusot",
+      "start": 28401,
+      "end": 28417,
+      "label": "PER"
+    },
+    {
+      "text": "Hercules",
+      "start": 28573,
+      "end": 28581,
+      "label": "LOC"
+    },
+    {
+      "text": "Gault",
+      "start": 28663,
+      "end": 28668,
+      "label": "PER"
+    },
+    {
+      "text": "Secrets",
+      "start": 28698,
+      "end": 28705,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Camusot",
+      "start": 28785,
+      "end": 28801,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 28848,
+      "end": 28862,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 28873,
+      "end": 28887,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 29061,
+      "end": 29068,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 29744,
+      "end": 29762,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 30424,
+      "end": 30431,
+      "label": "LOC"
+    },
+    {
+      "text": "Moore",
+      "start": 30746,
+      "end": 30751,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 30757,
+      "end": 30767,
+      "label": "PER"
+    },
+    {
+      "text": "Mathurin",
+      "start": 30773,
+      "end": 30781,
+      "label": "PER"
+    },
+    {
+      "text": "Canalis",
+      "start": 30787,
+      "end": 30794,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 30898,
+      "end": 30912,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 31042,
+      "end": 31048,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 31071,
+      "end": 31077,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 31151,
+      "end": 31157,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 31181,
+      "end": 31195,
+      "label": "PER"
+    },
+    {
+      "text": "les Grandlieu",
+      "start": 31208,
+      "end": 31221,
+      "label": "MISC"
+    },
+    {
+      "text": "Esther",
+      "start": 31277,
+      "end": 31283,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 31321,
+      "end": 31327,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 31331,
+      "end": 31345,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 31399,
+      "end": 31413,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 31973,
+      "end": 31987,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 32084,
+      "end": 32085,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 32268,
+      "end": 32274,
+      "label": "PER"
+    },
+    {
+      "text": "Paccard",
+      "start": 32440,
+      "end": 32447,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 32466,
+      "end": 32472,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 32577,
+      "end": 32585,
+      "label": "ORG"
+    },
+    {
+      "text": "Esther",
+      "start": 32588,
+      "end": 32594,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 32713,
+      "end": 32719,
+      "label": "PER"
+    },
+    {
+      "text": "Clotilde de Grandlieu",
+      "start": 32749,
+      "end": 32770,
+      "label": "PER"
+    },
+    {
+      "text": "Esther",
+      "start": 32788,
+      "end": 32794,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 32809,
+      "end": 32815,
+      "label": "PER"
+    },
+    {
+      "text": "Clotilde",
+      "start": 32902,
+      "end": 32910,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 32914,
+      "end": 32918,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 33018,
+      "end": 33024,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 33035,
+      "end": 33042,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 33279,
+      "end": 33285,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 33407,
+      "end": 33421,
+      "label": "PER"
+    },
+    {
+      "text": "Secret",
+      "start": 33655,
+      "end": 33661,
+      "label": "MISC"
+    },
+    {
+      "text": "Théodore !",
+      "start": 33744,
+      "end": 33754,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 33862,
+      "end": 33870,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 33891,
+      "end": 33905,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore Calvi",
+      "start": 33928,
+      "end": 33942,
+      "label": "PER"
+    },
+    {
+      "text": "Corse",
+      "start": 33950,
+      "end": 33955,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 34112,
+      "end": 34126,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 34167,
+      "end": 34181,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore Calvi",
+      "start": 34269,
+      "end": 34283,
+      "label": "PER"
+    },
+    {
+      "text": "Rochefort",
+      "start": 34395,
+      "end": 34404,
+      "label": "LOC"
+    },
+    {
+      "text": "Évadés ensemble",
+      "start": 34497,
+      "end": 34512,
+      "label": "ORG"
+    },
+    {
+      "text": "Théodore",
+      "start": 34582,
+      "end": 34590,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 34648,
+      "end": 34657,
+      "label": "LOC"
+    },
+    {
+      "text": "Carlos Herrera",
+      "start": 34684,
+      "end": 34698,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 34700,
+      "end": 34714,
+      "label": "PER"
+    },
+    {
+      "text": "Corse",
+      "start": 34735,
+      "end": 34740,
+      "label": "LOC"
+    },
+    {
+      "text": "Rochefort",
+      "start": 34743,
+      "end": 34752,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 34774,
+      "end": 34780,
+      "label": "PER"
+    },
+    {
+      "text": "Charente",
+      "start": 34801,
+      "end": 34809,
+      "label": "LOC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 34853,
+      "end": 34867,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 34959,
+      "end": 34965,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 35140,
+      "end": 35148,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 35150,
+      "end": 35164,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 35305,
+      "end": 35311,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 35413,
+      "end": 35427,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 35775,
+      "end": 35781,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 36146,
+      "end": 36160,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36408,
+      "end": 36416,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 36456,
+      "end": 36461,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 36567,
+      "end": 36575,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 36727,
+      "end": 36733,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 36736,
+      "end": 36750,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36868,
+      "end": 36876,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 36882,
+      "end": 36896,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 37075,
+      "end": 37093,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 37152,
+      "end": 37158,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 37232,
+      "end": 37246,
+      "label": "PER"
+    },
+    {
+      "text": "Inde",
+      "start": 37366,
+      "end": 37370,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 37419,
+      "end": 37433,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 37637,
+      "end": 37641,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 37815,
+      "end": 37819,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 37977,
+      "end": 37991,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 38188,
+      "end": 38193,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 38231,
+      "end": 38236,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38277,
+      "end": 38281,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Gault",
+      "start": 38414,
+      "end": 38428,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 38456,
+      "end": 38462,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 38499,
+      "end": 38513,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 38743,
+      "end": 38748,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 38761,
+      "end": 38767,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 38775,
+      "end": 38789,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 39108,
+      "end": 39122,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 39443,
+      "end": 39457,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 39688,
+      "end": 39702,
+      "label": "PER"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 40289,
+      "end": 40306,
+      "label": "LOC"
+    },
+    {
+      "text": "galerie Marchande",
+      "start": 40318,
+      "end": 40335,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 40344,
+      "end": 40358,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 40512,
+      "end": 40518,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 40720,
+      "end": 40725,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 40795,
+      "end": 40800,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 40927,
+      "end": 40941,
+      "label": "PER"
+    },
+    {
+      "text": "Ayez",
+      "start": 41127,
+      "end": 41131,
+      "label": "ORG"
+    },
+    {
+      "text": "Lebrun",
+      "start": 41193,
+      "end": 41199,
+      "label": "PER"
+    },
+    {
+      "text": "Vous croyez",
+      "start": 41300,
+      "end": 41311,
+      "label": "MISC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 41675,
+      "end": 41687,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 41794,
+      "end": 41808,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 41863,
+      "end": 41869,
+      "label": "PER"
+    },
+    {
+      "text": "La Mort parle",
+      "start": 42258,
+      "end": 42271,
+      "label": "MISC"
+    },
+    {
+      "text": "Vie",
+      "start": 42283,
+      "end": 42286,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 42425,
+      "end": 42439,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 42453,
+      "end": 42459,
+      "label": "PER"
+    },
+    {
+      "text": "L'ABBÉ",
+      "start": 42540,
+      "end": 42546,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon cher abbé",
+      "start": 42565,
+      "end": 42578,
+      "label": "LOC"
+    },
+    {
+      "text": "Caïn",
+      "start": 43653,
+      "end": 43657,
+      "label": "PER"
+    },
+    {
+      "text": "Abel",
+      "start": 43669,
+      "end": 43673,
+      "label": "PER"
+    },
+    {
+      "text": "Caïn",
+      "start": 43706,
+      "end": 43710,
+      "label": "PER"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 43735,
+      "end": 43745,
+      "label": "ORG"
+    },
+    {
+      "text": "Adam",
+      "start": 43784,
+      "end": 43788,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 43899,
+      "end": 43902,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 44246,
+      "end": 44255,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 44473,
+      "end": 44477,
+      "label": "MISC"
+    },
+    {
+      "text": "Moïse",
+      "start": 44513,
+      "end": 44518,
+      "label": "PER"
+    },
+    {
+      "text": "Attila",
+      "start": 44520,
+      "end": 44526,
+      "label": "PER"
+    },
+    {
+      "text": "Charlemagne",
+      "start": 44528,
+      "end": 44539,
+      "label": "PER"
+    },
+    {
+      "text": "Robespierre",
+      "start": 44541,
+      "end": 44552,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 44556,
+      "end": 44564,
+      "label": "PER"
+    },
+    {
+      "text": "Pugatcheff",
+      "start": 44688,
+      "end": 44698,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 44700,
+      "end": 44706,
+      "label": "PER"
+    },
+    {
+      "text": "Louvel",
+      "start": 44708,
+      "end": 44714,
+      "label": "PER"
+    },
+    {
+      "text": "Carlos Herrera",
+      "start": 44725,
+      "end": 44739,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 45623,
+      "end": 45628,
+      "label": "PER"
+    },
+    {
+      "text": "Ximenès",
+      "start": 45744,
+      "end": 45751,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 45762,
+      "end": 45771,
+      "label": "PER"
+    },
+    {
+      "text": "Charente",
+      "start": 45834,
+      "end": 45842,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 46014,
+      "end": 46019,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 46057,
+      "end": 46069,
+      "label": "LOC"
+    },
+    {
+      "text": "LUCIEN",
+      "start": 46147,
+      "end": 46153,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 46226,
+      "end": 46240,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 46402,
+      "end": 46408,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 46443,
+      "end": 46447,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 46606,
+      "end": 46615,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 46837,
+      "end": 46846,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 46876,
+      "end": 46890,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 46975,
+      "end": 46985,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 47072,
+      "end": 47086,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 47134,
+      "end": 47144,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 47181,
+      "end": 47187,
+      "label": "PER"
+    },
+    {
+      "text": "Malaquais",
+      "start": 47248,
+      "end": 47257,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 47812,
+      "end": 47818,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 47883,
+      "end": 47897,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 47956,
+      "end": 47962,
+      "label": "PER"
+    },
+    {
+      "text": "Bellevue",
+      "start": 49431,
+      "end": 49439,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice",
+      "start": 50230,
+      "end": 50237,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 50306,
+      "end": 50314,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Waterloo",
+      "start": 50387,
+      "end": 50407,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 50505,
+      "end": 50519,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 50751,
+      "end": 50765,
+      "label": "PER"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 50939,
+      "end": 50949,
+      "label": "PER"
+    },
+    {
+      "text": "palais des rois de France",
+      "start": 51125,
+      "end": 51150,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 51198,
+      "end": 51209,
+      "label": "PER"
+    },
+    {
+      "text": "Louvel",
+      "start": 51392,
+      "end": 51398,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonbec",
+      "start": 51544,
+      "end": 51550,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 51899,
+      "end": 51911,
+      "label": "LOC"
+    },
+    {
+      "text": "la Force",
+      "start": 52450,
+      "end": 52458,
+      "label": "MISC"
+    },
+    {
+      "text": "Poissy",
+      "start": 52471,
+      "end": 52477,
+      "label": "LOC"
+    },
+    {
+      "text": "Melun",
+      "start": 52487,
+      "end": 52492,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Pélagie",
+      "start": 52499,
+      "end": 52513,
+      "label": "PER"
+    },
+    {
+      "text": "ÉTUDES",
+      "start": 52657,
+      "end": 52663,
+      "label": "MISC"
+    },
+    {
+      "text": "MŒURS",
+      "start": 52667,
+      "end": 52672,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 52942,
+      "end": 52953,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 53833,
+      "end": 53845,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 54570,
+      "end": 54582,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Louis",
+      "start": 54707,
+      "end": 54718,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 55078,
+      "end": 55090,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 57634,
+      "end": 57646,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 58824,
+      "end": 58836,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 59031,
+      "end": 59043,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 59392,
+      "end": 59406,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 59479,
+      "end": 59493,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 59882,
+      "end": 59887,
+      "label": "PER"
+    },
+    {
+      "text": "Panthéon",
+      "start": 59949,
+      "end": 59957,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Crottat",
+      "start": 60329,
+      "end": 60343,
+      "label": "PER"
+    },
+    {
+      "text": "Dannepont",
+      "start": 60544,
+      "end": 60553,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 60559,
+      "end": 60571,
+      "label": "LOC"
+    },
+    {
+      "text": "Delsoucq",
+      "start": 60819,
+      "end": 60827,
+      "label": "PER"
+    },
+    {
+      "text": "Pouraille",
+      "start": 60950,
+      "end": 60959,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 61320,
+      "end": 61325,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibliothèque",
+      "start": 61379,
+      "end": 61391,
+      "label": "LOC"
+    },
+    {
+      "text": "Pouraille",
+      "start": 61560,
+      "end": 61569,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 61768,
+      "end": 61782,
+      "label": "PER"
+    },
+    {
+      "text": "Transférés de la Force",
+      "start": 61823,
+      "end": 61845,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 61851,
+      "end": 61863,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 61896,
+      "end": 61908,
+      "label": "LOC"
+    },
+    {
+      "text": "Séléner",
+      "start": 62079,
+      "end": 62086,
+      "label": "ORG"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 62099,
+      "end": 62108,
+      "label": "MISC"
+    },
+    {
+      "text": "Ralleau",
+      "start": 62118,
+      "end": 62125,
+      "label": "PER"
+    },
+    {
+      "text": "Rouleur",
+      "start": 62130,
+      "end": 62137,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 62210,
+      "end": 62221,
+      "label": "MISC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 62329,
+      "end": 62343,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 62382,
+      "end": 62393,
+      "label": "MISC"
+    },
+    {
+      "text": "Père Goriot",
+      "start": 62536,
+      "end": 62547,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 62589,
+      "end": 62596,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 62636,
+      "end": 62647,
+      "label": "PER"
+    },
+    {
+      "text": "Dannepont",
+      "start": 62661,
+      "end": 62670,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 62682,
+      "end": 62694,
+      "label": "LOC"
+    },
+    {
+      "text": "Riganson",
+      "start": 62903,
+      "end": 62911,
+      "label": "PER"
+    },
+    {
+      "text": "La Biffe",
+      "start": 62948,
+      "end": 62956,
+      "label": "LOC"
+    },
+    {
+      "text": "Riganson",
+      "start": 63009,
+      "end": 63017,
+      "label": "PER"
+    },
+    {
+      "text": "Le Biffon",
+      "start": 63094,
+      "end": 63103,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 63108,
+      "end": 63114,
+      "label": "MISC"
+    },
+    {
+      "text": "La Biffe",
+      "start": 63132,
+      "end": 63140,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 63402,
+      "end": 63416,
+      "label": "PER"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 63488,
+      "end": 63498,
+      "label": "PER"
+    },
+    {
+      "text": "Disons",
+      "start": 64191,
+      "end": 64197,
+      "label": "ORG"
+    },
+    {
+      "text": "Troisième Dessous",
+      "start": 64570,
+      "end": 64587,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 64642,
+      "end": 64647,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaque mot de ce langage",
+      "start": 64765,
+      "end": 64789,
+      "label": "MISC"
+    },
+    {
+      "text": "Remarquez",
+      "start": 64929,
+      "end": 64938,
+      "label": "PER"
+    },
+    {
+      "text": "Voleur",
+      "start": 65046,
+      "end": 65052,
+      "label": "LOC"
+    },
+    {
+      "text": "Soupçon",
+      "start": 65184,
+      "end": 65191,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauce",
+      "start": 65559,
+      "end": 65565,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 65639,
+      "end": 65641,
+      "label": "MISC"
+    },
+    {
+      "text": "Jouer",
+      "start": 65842,
+      "end": 65847,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 66102,
+      "end": 66111,
+      "label": "PER"
+    },
+    {
+      "text": "Parmentier",
+      "start": 66115,
+      "end": 66125,
+      "label": "MISC"
+    },
+    {
+      "text": "Garat",
+      "start": 66266,
+      "end": 66271,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillotin",
+      "start": 66582,
+      "end": 66591,
+      "label": "PER"
+    },
+    {
+      "text": "Abbaye de Monte",
+      "start": 66928,
+      "end": 66943,
+      "label": "LOC"
+    },
+    {
+      "text": "Regret",
+      "start": 66946,
+      "end": 66952,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Nodier",
+      "start": 67217,
+      "end": 67231,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 67392,
+      "end": 67400,
+      "label": "PER"
+    },
+    {
+      "text": "gironde",
+      "start": 67514,
+      "end": 67521,
+      "label": "LOC"
+    },
+    {
+      "text": "Oc",
+      "start": 67561,
+      "end": 67563,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubler",
+      "start": 67705,
+      "end": 67713,
+      "label": "PER"
+    },
+    {
+      "text": "Cent mots",
+      "start": 67818,
+      "end": 67827,
+      "label": "MISC"
+    },
+    {
+      "text": "PANURGE",
+      "start": 67877,
+      "end": 67884,
+      "label": "ORG"
+    },
+    {
+      "text": "sorbonne",
+      "start": 68191,
+      "end": 68199,
+      "label": "LOC"
+    },
+    {
+      "text": "Cervantes",
+      "start": 68308,
+      "end": 68317,
+      "label": "PER"
+    },
+    {
+      "text": "Arétin",
+      "start": 68355,
+      "end": 68361,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 71174,
+      "end": 71179,
+      "label": "LOC"
+    },
+    {
+      "text": "département de la Seine",
+      "start": 71235,
+      "end": 71258,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 71318,
+      "end": 71327,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 71366,
+      "end": 71371,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 71490,
+      "end": 71503,
+      "label": "PER"
+    },
+    {
+      "text": "Grands fanandels",
+      "start": 71644,
+      "end": 71660,
+      "label": "MISC"
+    },
+    {
+      "text": "Grands Fanandels",
+      "start": 71907,
+      "end": 71923,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour de Cassation",
+      "start": 71998,
+      "end": 72015,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut",
+      "start": 72019,
+      "end": 72027,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre des Pairs",
+      "start": 72032,
+      "end": 72049,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands Fanandels",
+      "start": 72068,
+      "end": 72084,
+      "label": "MISC"
+    },
+    {
+      "text": "Dix Mille",
+      "start": 72468,
+      "end": 72477,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez le Père Goriot",
+      "start": 72479,
+      "end": 72499,
+      "label": "MISC"
+    },
+    {
+      "text": "Lévy",
+      "start": 73001,
+      "end": 73005,
+      "label": "MISC"
+    },
+    {
+      "text": "Pastourel",
+      "start": 73011,
+      "end": 73020,
+      "label": "LOC"
+    },
+    {
+      "text": "Collonge",
+      "start": 73026,
+      "end": 73034,
+      "label": "LOC"
+    },
+    {
+      "text": "Chimaux",
+      "start": 73040,
+      "end": 73047,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 73247,
+      "end": 73261,
+      "label": "PER"
+    },
+    {
+      "text": "Dix Mille",
+      "start": 73313,
+      "end": 73322,
+      "label": "MISC"
+    },
+    {
+      "text": "Grands Fanandels",
+      "start": 73340,
+      "end": 73356,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 73759,
+      "end": 73769,
+      "label": "PER"
+    },
+    {
+      "text": "Grands Fanandels",
+      "start": 73855,
+      "end": 73871,
+      "label": "LOC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 74008,
+      "end": 74022,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 74101,
+      "end": 74115,
+      "label": "PER"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 74166,
+      "end": 74176,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 74386,
+      "end": 74400,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 74495,
+      "end": 74503,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 74505,
+      "end": 74517,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 74519,
+      "end": 74530,
+      "label": "PER"
+    },
+    {
+      "text": "Biffon",
+      "start": 74537,
+      "end": 74543,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 74549,
+      "end": 74561,
+      "label": "LOC"
+    },
+    {
+      "text": "Dix Mille",
+      "start": 74578,
+      "end": 74587,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 74599,
+      "end": 74610,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 74618,
+      "end": 74624,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Fanandel",
+      "start": 74634,
+      "end": 74648,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffe",
+      "start": 74653,
+      "end": 74658,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon",
+      "start": 74687,
+      "end": 74693,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 74942,
+      "end": 74956,
+      "label": "PER"
+    },
+    {
+      "text": "Asie",
+      "start": 75004,
+      "end": 75008,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 75027,
+      "end": 75041,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 75160,
+      "end": 75166,
+      "label": "LOC"
+    },
+    {
+      "text": "Médor",
+      "start": 76038,
+      "end": 76043,
+      "label": "PER"
+    },
+    {
+      "text": "Faculté de médecine",
+      "start": 76532,
+      "end": 76551,
+      "label": "ORG"
+    },
+    {
+      "text": "Pouraille",
+      "start": 77560,
+      "end": 77569,
+      "label": "LOC"
+    },
+    {
+      "text": "Soie",
+      "start": 77630,
+      "end": 77634,
+      "label": "MISC"
+    },
+    {
+      "text": "Paccard",
+      "start": 77713,
+      "end": 77720,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 77734,
+      "end": 77748,
+      "label": "PER"
+    },
+    {
+      "text": "Prudence Servien",
+      "start": 77773,
+      "end": 77789,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 77916,
+      "end": 77927,
+      "label": "PER"
+    },
+    {
+      "text": "Biffon",
+      "start": 77938,
+      "end": 77944,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffe",
+      "start": 78021,
+      "end": 78026,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 78107,
+      "end": 78121,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 78327,
+      "end": 78341,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 78404,
+      "end": 78410,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 78492,
+      "end": 78506,
+      "label": "PER"
+    },
+    {
+      "text": "Grands Fanandels",
+      "start": 78755,
+      "end": 78771,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 78988,
+      "end": 79002,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 79105,
+      "end": 79117,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 79140,
+      "end": 79154,
+      "label": "PER"
+    },
+    {
+      "text": "Nanti",
+      "start": 79200,
+      "end": 79205,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 79279,
+      "end": 79291,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 79778,
+      "end": 79792,
+      "label": "PER"
+    },
+    {
+      "text": "la Force",
+      "start": 79907,
+      "end": 79915,
+      "label": "MISC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 79927,
+      "end": 79939,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 80064,
+      "end": 80078,
+      "label": "PER"
+    },
+    {
+      "text": "Bonbec",
+      "start": 80251,
+      "end": 80257,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 80275,
+      "end": 80287,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 80291,
+      "end": 80301,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 80380,
+      "end": 80394,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 80409,
+      "end": 80423,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 80575,
+      "end": 80586,
+      "label": "PER"
+    },
+    {
+      "text": "Bonbec",
+      "start": 81133,
+      "end": 81139,
+      "label": "LOC"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 81301,
+      "end": 81319,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 81402,
+      "end": 81416,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 81744,
+      "end": 81758,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 81838,
+      "end": 81843,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 81858,
+      "end": 81870,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon",
+      "start": 81874,
+      "end": 81880,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 82025,
+      "end": 82036,
+      "label": "MISC"
+    },
+    {
+      "text": "Fanandels",
+      "start": 82465,
+      "end": 82474,
+      "label": "MISC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 82492,
+      "end": 82501,
+      "label": "MISC"
+    },
+    {
+      "text": "Ralleau",
+      "start": 82515,
+      "end": 82522,
+      "label": "PER"
+    },
+    {
+      "text": "Rouleur",
+      "start": 82531,
+      "end": 82538,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 82546,
+      "end": 82557,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 83678,
+      "end": 83689,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 83789,
+      "end": 83803,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 83861,
+      "end": 83872,
+      "label": "PER"
+    },
+    {
+      "text": "nankin",
+      "start": 84139,
+      "end": 84145,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 84301,
+      "end": 84312,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 84317,
+      "end": 84323,
+      "label": "MISC"
+    },
+    {
+      "text": "Soie",
+      "start": 84646,
+      "end": 84650,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon",
+      "start": 84657,
+      "end": 84663,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 84684,
+      "end": 84696,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 84828,
+      "end": 84839,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 84846,
+      "end": 84852,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 84862,
+      "end": 84874,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanoine",
+      "start": 84917,
+      "end": 84925,
+      "label": "LOC"
+    },
+    {
+      "text": "Monte",
+      "start": 84964,
+      "end": 84969,
+      "label": "LOC"
+    },
+    {
+      "text": "Regret",
+      "start": 84972,
+      "end": 84978,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 85018,
+      "end": 85029,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 85036,
+      "end": 85042,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 85054,
+      "end": 85066,
+      "label": "LOC"
+    },
+    {
+      "text": "Pouraille",
+      "start": 85071,
+      "end": 85080,
+      "label": "LOC"
+    },
+    {
+      "text": "Crottat",
+      "start": 85171,
+      "end": 85178,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon",
+      "start": 85347,
+      "end": 85353,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 85357,
+      "end": 85368,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 85773,
+      "end": 85785,
+      "label": "LOC"
+    },
+    {
+      "text": "Dix Mille",
+      "start": 85795,
+      "end": 85804,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 86024,
+      "end": 86031,
+      "label": "PER"
+    },
+    {
+      "text": "Soie",
+      "start": 86204,
+      "end": 86208,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 86452,
+      "end": 86463,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 86478,
+      "end": 86492,
+      "label": "PER"
+    },
+    {
+      "text": "Brest",
+      "start": 86532,
+      "end": 86537,
+      "label": "LOC"
+    },
+    {
+      "text": "Toulon",
+      "start": 86539,
+      "end": 86545,
+      "label": "LOC"
+    },
+    {
+      "text": "Rochefort",
+      "start": 86549,
+      "end": 86558,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 86766,
+      "end": 86772,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 86795,
+      "end": 86806,
+      "label": "MISC"
+    },
+    {
+      "text": "Brest",
+      "start": 86810,
+      "end": 86815,
+      "label": "LOC"
+    },
+    {
+      "text": "Toulon",
+      "start": 86903,
+      "end": 86909,
+      "label": "LOC"
+    },
+    {
+      "text": "Rochefort",
+      "start": 86950,
+      "end": 86959,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 87054,
+      "end": 87066,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 87073,
+      "end": 87079,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 87161,
+      "end": 87175,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 87209,
+      "end": 87223,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 87432,
+      "end": 87450,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 87530,
+      "end": 87536,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 87721,
+      "end": 87733,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 87736,
+      "end": 87747,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 87776,
+      "end": 87780,
+      "label": "LOC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 88779,
+      "end": 88793,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 89042,
+      "end": 89054,
+      "label": "LOC"
+    },
+    {
+      "text": "légion de la Seine",
+      "start": 89524,
+      "end": 89542,
+      "label": "ORG"
+    },
+    {
+      "text": "Coignard",
+      "start": 89593,
+      "end": 89601,
+      "label": "MISC"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 89653,
+      "end": 89663,
+      "label": "PER"
+    },
+    {
+      "text": "comte Pontis",
+      "start": 89706,
+      "end": 89718,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Hélène",
+      "start": 89722,
+      "end": 89735,
+      "label": "PER"
+    },
+    {
+      "text": "Coignard",
+      "start": 89742,
+      "end": 89750,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 89791,
+      "end": 89802,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 89820,
+      "end": 89834,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 89943,
+      "end": 89957,
+      "label": "PER"
+    },
+    {
+      "text": "Biffon",
+      "start": 89991,
+      "end": 89997,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 90113,
+      "end": 90124,
+      "label": "MISC"
+    },
+    {
+      "text": "Durham",
+      "start": 90401,
+      "end": 90407,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 90460,
+      "end": 90465,
+      "label": "LOC"
+    },
+    {
+      "text": "Sanson",
+      "start": 90562,
+      "end": 90568,
+      "label": "PER"
+    },
+    {
+      "text": "révolution française",
+      "start": 90705,
+      "end": 90725,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre Seigneurie",
+      "start": 90914,
+      "end": 90930,
+      "label": "PER"
+    },
+    {
+      "text": "tantes",
+      "start": 90966,
+      "end": 90972,
+      "label": "LOC"
+    },
+    {
+      "text": "Hao",
+      "start": 90980,
+      "end": 90983,
+      "label": "PER"
+    },
+    {
+      "text": "Durham",
+      "start": 90995,
+      "end": 91001,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore !",
+      "start": 91086,
+      "end": 91096,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 91101,
+      "end": 91113,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore Calvi",
+      "start": 91200,
+      "end": 91214,
+      "label": "PER"
+    },
+    {
+      "text": "Biffon",
+      "start": 91258,
+      "end": 91264,
+      "label": "MISC"
+    },
+    {
+      "text": "Te voilà",
+      "start": 91356,
+      "end": 91364,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 91382,
+      "end": 91394,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 91397,
+      "end": 91411,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 91539,
+      "end": 91543,
+      "label": "MISC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 91585,
+      "end": 91597,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon d'un air menaçant",
+      "start": 91676,
+      "end": 91700,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 91776,
+      "end": 91787,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 91935,
+      "end": 91949,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 92067,
+      "end": 92079,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 92115,
+      "end": 92129,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 92497,
+      "end": 92511,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 92895,
+      "end": 92909,
+      "label": "PER"
+    },
+    {
+      "text": "Allumez",
+      "start": 93058,
+      "end": 93065,
+      "label": "PER"
+    },
+    {
+      "text": "poitou",
+      "start": 93149,
+      "end": 93155,
+      "label": "LOC"
+    },
+    {
+      "text": "engantez",
+      "start": 93159,
+      "end": 93167,
+      "label": "LOC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 93429,
+      "end": 93440,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 93488,
+      "end": 93497,
+      "label": "PER"
+    },
+    {
+      "text": "place de Grève",
+      "start": 93552,
+      "end": 93566,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 93573,
+      "end": 93585,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 93604,
+      "end": 93618,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 93738,
+      "end": 93750,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 93812,
+      "end": 93826,
+      "label": "PER"
+    },
+    {
+      "text": "Pouraille",
+      "start": 94009,
+      "end": 94018,
+      "label": "LOC"
+    },
+    {
+      "text": "Biffon",
+      "start": 94025,
+      "end": 94031,
+      "label": "MISC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 94073,
+      "end": 94087,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 94101,
+      "end": 94112,
+      "label": "MISC"
+    },
+    {
+      "text": "Bibi Lupin",
+      "start": 94299,
+      "end": 94309,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 94320,
+      "end": 94334,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 94348,
+      "end": 94356,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 95031,
+      "end": 95045,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 95086,
+      "end": 95098,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 95195,
+      "end": 95203,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 95231,
+      "end": 95245,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre dab !",
+      "start": 95406,
+      "end": 95418,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 95423,
+      "end": 95434,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 95438,
+      "end": 95442,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 95490,
+      "end": 95504,
+      "label": "PER"
+    },
+    {
+      "text": "Cigogne",
+      "start": 95651,
+      "end": 95658,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 95663,
+      "end": 95680,
+      "label": "LOC"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 95723,
+      "end": 95735,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 96044,
+      "end": 96048,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 96053,
+      "end": 96057,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 96064,
+      "end": 96078,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 96173,
+      "end": 96177,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher monsieur",
+      "start": 96211,
+      "end": 96228,
+      "label": "MISC"
+    },
+    {
+      "text": "Gault",
+      "start": 96845,
+      "end": 96850,
+      "label": "PER"
+    },
+    {
+      "text": "La Pouraille",
+      "start": 96870,
+      "end": 96882,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 96937,
+      "end": 96951,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 96974,
+      "end": 96979,
+      "label": "PER"
+    },
+    {
+      "text": "Gault",
+      "start": 97107,
+      "end": 97112,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 97165,
+      "end": 97179,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 97210,
+      "end": 97214,
+      "label": "MISC"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 97288,
+      "end": 97299,
+      "label": "MISC"
+    },
+    {
+      "text": "Faucher",
+      "start": 97402,
+      "end": 97409,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 97420,
+      "end": 97434,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 97765,
+      "end": 97769,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 97829,
+      "end": 97843,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 97986,
+      "end": 97990,
+      "label": "MISC"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 98008,
+      "end": 98022,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 98156,
+      "end": 98160,
+      "label": "MISC"
+    },
+    {
+      "text": "Gault",
+      "start": 98473,
+      "end": 98478,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 98810,
+      "end": 98821,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 98824,
+      "end": 98838,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 98842,
+      "end": 98846,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 98868,
+      "end": 98882,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe la Mort",
+      "start": 99289,
+      "end": 99303,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 99500,
+      "end": 99514,
+      "label": "PER"
+    },
+    {
+      "text": "Remarquez",
+      "start": 99516,
+      "end": 99525,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 99620,
+      "end": 99631,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques Collin",
+      "start": 99697,
+      "end": 99711,
+      "label": "PER"
+    },
+    {
+      "text": "Fil de Soie",
+      "start": 99920,
+      "end": 99931,
+      "label": "MISC"
+    },
+    {
+      "text": "Biffon",
+      "start": 99947,
+      "end": 99953,
+      "label": "MISC"
+    }
+  ]
+}

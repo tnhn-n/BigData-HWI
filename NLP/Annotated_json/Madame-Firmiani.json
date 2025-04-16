@@ -1,0 +1,1786 @@
+{
+  "entities": [
+    {
+      "text": "MADAME",
+      "start": 0,
+      "end": 6,
+      "label": "MISC"
+    },
+    {
+      "text": "FIRMIANI",
+      "start": 7,
+      "end": 15,
+      "label": "ORG"
+    },
+    {
+      "text": "MON CHER ALEXANDRE",
+      "start": 25,
+      "end": 43,
+      "label": "MISC"
+    },
+    {
+      "text": "BERNY",
+      "start": 47,
+      "end": 52,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 72,
+      "end": 78,
+      "label": "MISC"
+    },
+    {
+      "text": "Florian",
+      "start": 2128,
+      "end": 2135,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 2481,
+      "end": 2487,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 2517,
+      "end": 2527,
+      "label": "LOC"
+    },
+    {
+      "text": "Espèces",
+      "start": 3029,
+      "end": 3036,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 3069,
+      "end": 3077,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 3082,
+      "end": 3090,
+      "label": "LOC"
+    },
+    {
+      "text": "Positifs",
+      "start": 3193,
+      "end": 3201,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 3222,
+      "end": 3237,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 3274,
+      "end": 3282,
+      "label": "PER"
+    },
+    {
+      "text": "Bac",
+      "start": 3340,
+      "end": 3343,
+      "label": "LOC"
+    },
+    {
+      "text": "département de Montenotte",
+      "start": 3467,
+      "end": 3492,
+      "label": "LOC"
+    },
+    {
+      "text": "Positif",
+      "start": 3508,
+      "end": 3515,
+      "label": "LOC"
+    },
+    {
+      "text": "Les Positifs",
+      "start": 3818,
+      "end": 3830,
+      "label": "MISC"
+    },
+    {
+      "text": "Tournez",
+      "start": 3932,
+      "end": 3939,
+      "label": "LOC"
+    },
+    {
+      "text": "Flâneurs",
+      "start": 4005,
+      "end": 4013,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 4046,
+      "end": 4061,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 4190,
+      "end": 4205,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 4598,
+      "end": 4606,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 4658,
+      "end": 4664,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 4672,
+      "end": 4687,
+      "label": "PER"
+    },
+    {
+      "text": "Française",
+      "start": 4692,
+      "end": 4701,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 4729,
+      "end": 4739,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 5206,
+      "end": 5221,
+      "label": "PER"
+    },
+    {
+      "text": "Flâneurs",
+      "start": 5237,
+      "end": 5245,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 5318,
+      "end": 5333,
+      "label": "PER"
+    },
+    {
+      "text": "Personnels",
+      "start": 5578,
+      "end": 5588,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 5956,
+      "end": 5960,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 5961,
+      "end": 5976,
+      "label": "PER"
+    },
+    {
+      "text": "Lycéen",
+      "start": 6318,
+      "end": 6324,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 6406,
+      "end": 6421,
+      "label": "PER"
+    },
+    {
+      "text": "Fat",
+      "start": 6836,
+      "end": 6839,
+      "label": "MISC"
+    },
+    {
+      "text": "Fats",
+      "start": 6931,
+      "end": 6935,
+      "label": "LOC"
+    },
+    {
+      "text": "Amateur",
+      "start": 7102,
+      "end": 7109,
+      "label": "ORG"
+    },
+    {
+      "text": "Pérignon",
+      "start": 7150,
+      "end": 7158,
+      "label": "LOC"
+    },
+    {
+      "text": "Tripet",
+      "start": 7167,
+      "end": 7173,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 7185,
+      "end": 7200,
+      "label": "PER"
+    },
+    {
+      "text": "UNE FEMME",
+      "start": 7239,
+      "end": 7248,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 7252,
+      "end": 7267,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 7360,
+      "end": 7375,
+      "label": "PER"
+    },
+    {
+      "text": "Tracassiers",
+      "start": 7531,
+      "end": 7542,
+      "label": "MISC"
+    },
+    {
+      "text": "AMBASSADE",
+      "start": 7557,
+      "end": 7566,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 7570,
+      "end": 7585,
+      "label": "PER"
+    },
+    {
+      "text": "Anvers",
+      "start": 7605,
+      "end": 7611,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 7683,
+      "end": 7687,
+      "label": "LOC"
+    },
+    {
+      "text": "Attachés",
+      "start": 7728,
+      "end": 7736,
+      "label": "MISC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 7772,
+      "end": 7782,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 8044,
+      "end": 8051,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 8056,
+      "end": 8062,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 8069,
+      "end": 8075,
+      "label": "LOC"
+    },
+    {
+      "text": "Pétersbourg",
+      "start": 8082,
+      "end": 8093,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 8204,
+      "end": 8219,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 8258,
+      "end": 8271,
+      "label": "LOC"
+    },
+    {
+      "text": "Dupin",
+      "start": 8389,
+      "end": 8394,
+      "label": "PER"
+    },
+    {
+      "text": "Lafayette",
+      "start": 8414,
+      "end": 8423,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 8583,
+      "end": 8589,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour royale",
+      "start": 8633,
+      "end": 8644,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 8648,
+      "end": 8663,
+      "label": "PER"
+    },
+    {
+      "text": "Ducs",
+      "start": 8732,
+      "end": 8736,
+      "label": "MISC"
+    },
+    {
+      "text": "Excusez",
+      "start": 8776,
+      "end": 8783,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 8810,
+      "end": 8818,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 8822,
+      "end": 8837,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 8878,
+      "end": 8886,
+      "label": "LOC"
+    },
+    {
+      "text": "Niais",
+      "start": 8904,
+      "end": 8909,
+      "label": "LOC"
+    },
+    {
+      "text": "DAMES",
+      "start": 9024,
+      "end": 9029,
+      "label": "ORG"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 9064,
+      "end": 9072,
+      "label": "MISC"
+    },
+    {
+      "text": "Paroissien",
+      "start": 9157,
+      "end": 9167,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 9220,
+      "end": 9228,
+      "label": "LOC"
+    },
+    {
+      "text": "SECONDE",
+      "start": 9234,
+      "end": 9241,
+      "label": "MISC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 9320,
+      "end": 9328,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 9365,
+      "end": 9373,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 9403,
+      "end": 9422,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 9424,
+      "end": 9439,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 9448,
+      "end": 9456,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 9531,
+      "end": 9539,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 9545,
+      "end": 9553,
+      "label": "LOC"
+    },
+    {
+      "text": "ORIGINAL",
+      "start": 9608,
+      "end": 9616,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 9620,
+      "end": 9628,
+      "label": "LOC"
+    },
+    {
+      "text": "VIEILLARD",
+      "start": 9844,
+      "end": 9853,
+      "label": "MISC"
+    },
+    {
+      "text": "OBSERVATEURS",
+      "start": 9879,
+      "end": 9891,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 9910,
+      "end": 9925,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 10552,
+      "end": 10560,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 10711,
+      "end": 10717,
+      "label": "PER"
+    },
+    {
+      "text": "Contr'",
+      "start": 10759,
+      "end": 10765,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 10772,
+      "end": 10778,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10829,
+      "end": 10834,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Observateur",
+      "start": 10891,
+      "end": 10904,
+      "label": "ORG"
+    },
+    {
+      "text": "L'Observateur",
+      "start": 11258,
+      "end": 11271,
+      "label": "ORG"
+    },
+    {
+      "text": "Bouffons ",
+      "start": 11436,
+      "end": 11445,
+      "label": "MISC"
+    },
+    {
+      "text": "Parasites",
+      "start": 11485,
+      "end": 11494,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 11676,
+      "end": 11691,
+      "label": "PER"
+    },
+    {
+      "text": "Murat",
+      "start": 11742,
+      "end": 11747,
+      "label": "PER"
+    },
+    {
+      "text": "Contradicteurs",
+      "start": 11782,
+      "end": 11796,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 12035,
+      "end": 12040,
+      "label": "LOC"
+    },
+    {
+      "text": "Mallet",
+      "start": 12065,
+      "end": 12071,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 12142,
+      "end": 12150,
+      "label": "LOC"
+    },
+    {
+      "text": "Contradicteurs",
+      "start": 12169,
+      "end": 12183,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 12206,
+      "end": 12222,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 12285,
+      "end": 12300,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 12521,
+      "end": 12536,
+      "label": "PER"
+    },
+    {
+      "text": "Envieux",
+      "start": 12749,
+      "end": 12756,
+      "label": "LOC"
+    },
+    {
+      "text": "Envie",
+      "start": 12913,
+      "end": 12918,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 13107,
+      "end": 13122,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 13479,
+      "end": 13494,
+      "label": "PER"
+    },
+    {
+      "text": "Effrayante",
+      "start": 13563,
+      "end": 13573,
+      "label": "PER"
+    },
+    {
+      "text": "Vrai",
+      "start": 13909,
+      "end": 13913,
+      "label": "LOC"
+    },
+    {
+      "text": "Mensonge",
+      "start": 13935,
+      "end": 13943,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 13985,
+      "end": 14000,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 14175,
+      "end": 14184,
+      "label": "PER"
+    },
+    {
+      "text": "classe des Planteurs de province",
+      "start": 14295,
+      "end": 14327,
+      "label": "MISC"
+    },
+    {
+      "text": "Touraine",
+      "start": 14545,
+      "end": 14553,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 14849,
+      "end": 14859,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 15270,
+      "end": 15278,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave de Camps",
+      "start": 15311,
+      "end": 15326,
+      "label": "PER"
+    },
+    {
+      "text": "Camps",
+      "start": 15357,
+      "end": 15362,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 15701,
+      "end": 15707,
+      "label": "PER"
+    },
+    {
+      "text": "château de Villaines",
+      "start": 15781,
+      "end": 15801,
+      "label": "LOC"
+    },
+    {
+      "text": "Marteau",
+      "start": 15908,
+      "end": 15915,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 15965,
+      "end": 15971,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 16193,
+      "end": 16202,
+      "label": "PER"
+    },
+    {
+      "text": "Octave de Camps",
+      "start": 16255,
+      "end": 16270,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 16328,
+      "end": 16336,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Moor",
+      "start": 16502,
+      "end": 16514,
+      "label": "PER"
+    },
+    {
+      "text": "saint Thomas",
+      "start": 17127,
+      "end": 17139,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 17153,
+      "end": 17162,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 17170,
+      "end": 17175,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 17187,
+      "end": 17193,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 17331,
+      "end": 17344,
+      "label": "LOC"
+    },
+    {
+      "text": "Listomère",
+      "start": 17353,
+      "end": 17362,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 17368,
+      "end": 17378,
+      "label": "LOC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 17386,
+      "end": 17396,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 17456,
+      "end": 17471,
+      "label": "PER"
+    },
+    {
+      "text": "Rouxellay",
+      "start": 17545,
+      "end": 17554,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 17664,
+      "end": 17670,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 17771,
+      "end": 17786,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 17885,
+      "end": 17891,
+      "label": "PER"
+    },
+    {
+      "text": "Rouxellay",
+      "start": 17947,
+      "end": 17956,
+      "label": "LOC"
+    },
+    {
+      "text": "Gymnase",
+      "start": 17992,
+      "end": 17999,
+      "label": "MISC"
+    },
+    {
+      "text": "Charte",
+      "start": 18227,
+      "end": 18233,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 18255,
+      "end": 18263,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18304,
+      "end": 18308,
+      "label": "MISC"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 18366,
+      "end": 18377,
+      "label": "LOC"
+    },
+    {
+      "text": "Mosè",
+      "start": 18547,
+      "end": 18551,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 18660,
+      "end": 18668,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Buffon",
+      "start": 18684,
+      "end": 18699,
+      "label": "PER"
+    },
+    {
+      "text": "Peyronnet",
+      "start": 18703,
+      "end": 18712,
+      "label": "LOC"
+    },
+    {
+      "text": "Gluck",
+      "start": 18729,
+      "end": 18734,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 18771,
+      "end": 18777,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 18791,
+      "end": 18812,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 18859,
+      "end": 18874,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 19034,
+      "end": 19040,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19121,
+      "end": 19129,
+      "label": "PER"
+    },
+    {
+      "text": "de Bourbonne",
+      "start": 19130,
+      "end": 19142,
+      "label": "PER"
+    },
+    {
+      "text": "Fossile",
+      "start": 19164,
+      "end": 19171,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh",
+      "start": 19260,
+      "end": 19262,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 19322,
+      "end": 19328,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 19364,
+      "end": 19369,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 19377,
+      "end": 19392,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 19572,
+      "end": 19587,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 19952,
+      "end": 19957,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 20233,
+      "end": 20243,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 20937,
+      "end": 20941,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 22008,
+      "end": 22012,
+      "label": "MISC"
+    },
+    {
+      "text": "Telle",
+      "start": 22333,
+      "end": 22338,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 22345,
+      "end": 22360,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Bourbonne",
+      "start": 22373,
+      "end": 22388,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 22533,
+      "end": 22539,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 22546,
+      "end": 22561,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 22694,
+      "end": 22709,
+      "label": "PER"
+    },
+    {
+      "text": "Mon neveu aura",
+      "start": 23172,
+      "end": 23186,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 23211,
+      "end": 23226,
+      "label": "PER"
+    },
+    {
+      "text": "Positifs",
+      "start": 23260,
+      "end": 23268,
+      "label": "LOC"
+    },
+    {
+      "text": "Firmiani",
+      "start": 23570,
+      "end": 23578,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 23681,
+      "end": 23696,
+      "label": "PER"
+    },
+    {
+      "text": "Attachés",
+      "start": 23919,
+      "end": 23927,
+      "label": "MISC"
+    },
+    {
+      "text": "Contradicteurs",
+      "start": 23982,
+      "end": 23996,
+      "label": "MISC"
+    },
+    {
+      "text": "Observateurs",
+      "start": 24067,
+      "end": 24079,
+      "label": "ORG"
+    },
+    {
+      "text": "Genres",
+      "start": 24210,
+      "end": 24216,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 24256,
+      "end": 24262,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 24340,
+      "end": 24345,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 24435,
+      "end": 24443,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la princesse",
+      "start": 24488,
+      "end": 24507,
+      "label": "PER"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 24511,
+      "end": 24526,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 24580,
+      "end": 24604,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 24620,
+      "end": 24637,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Macumer",
+      "start": 24642,
+      "end": 24659,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 25041,
+      "end": 25049,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 25196,
+      "end": 25201,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingres",
+      "start": 25390,
+      "end": 25396,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne d'Arc",
+      "start": 25631,
+      "end": 25643,
+      "label": "PER"
+    },
+    {
+      "text": "Agnès Sorel",
+      "start": 25647,
+      "end": 25658,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 25760,
+      "end": 25763,
+      "label": "LOC"
+    },
+    {
+      "text": "Dona Julia",
+      "start": 25865,
+      "end": 25875,
+      "label": "PER"
+    },
+    {
+      "text": "Haïdée",
+      "start": 25879,
+      "end": 25885,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 25889,
+      "end": 25897,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 25901,
+      "end": 25911,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 25991,
+      "end": 26006,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 26202,
+      "end": 26208,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 26248,
+      "end": 26263,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 26352,
+      "end": 26358,
+      "label": "PER"
+    },
+    {
+      "text": "Octave de Camps",
+      "start": 26388,
+      "end": 26403,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 26405,
+      "end": 26420,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 26997,
+      "end": 27006,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 27056,
+      "end": 27071,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 27153,
+      "end": 27168,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 27319,
+      "end": 27323,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 27330,
+      "end": 27336,
+      "label": "PER"
+    },
+    {
+      "text": "Arrêtez",
+      "start": 27672,
+      "end": 27679,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 27695,
+      "end": 27710,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 28931,
+      "end": 28946,
+      "label": "PER"
+    },
+    {
+      "text": "Célimène",
+      "start": 28964,
+      "end": 28972,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 29000,
+      "end": 29006,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 29089,
+      "end": 29095,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 29430,
+      "end": 29436,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29441,
+      "end": 29449,
+      "label": "PER"
+    },
+    {
+      "text": "Camps",
+      "start": 29578,
+      "end": 29583,
+      "label": "LOC"
+    },
+    {
+      "text": "Avouer",
+      "start": 29680,
+      "end": 29686,
+      "label": "PER"
+    },
+    {
+      "text": "croyez moi",
+      "start": 29809,
+      "end": 29819,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 29898,
+      "end": 29913,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 30116,
+      "end": 30120,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de l'Observance",
+      "start": 30491,
+      "end": 30510,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave de Camps",
+      "start": 30524,
+      "end": 30539,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 30673,
+      "end": 30679,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 30722,
+      "end": 30730,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 30757,
+      "end": 30766,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 30908,
+      "end": 30916,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 31310,
+      "end": 31316,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 31335,
+      "end": 31341,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 31737,
+      "end": 31746,
+      "label": "MISC"
+    },
+    {
+      "text": "confesse toi",
+      "start": 31830,
+      "end": 31842,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourse",
+      "start": 31933,
+      "end": 31939,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 31962,
+      "end": 31971,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 32212,
+      "end": 32221,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 32572,
+      "end": 32578,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 32644,
+      "end": 32648,
+      "label": "MISC"
+    },
+    {
+      "text": "rajeuni",
+      "start": 32847,
+      "end": 32854,
+      "label": "PER"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 32858,
+      "end": 32867,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 32876,
+      "end": 32882,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 32944,
+      "end": 32959,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 33090,
+      "end": 33099,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon bon oncle",
+      "start": 33231,
+      "end": 33244,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 33292,
+      "end": 33298,
+      "label": "PER"
+    },
+    {
+      "text": "Firmiani",
+      "start": 33446,
+      "end": 33454,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 33528,
+      "end": 33534,
+      "label": "PER"
+    },
+    {
+      "text": "Brouillés",
+      "start": 33674,
+      "end": 33683,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 33696,
+      "end": 33702,
+      "label": "PER"
+    },
+    {
+      "text": "Greatna Green",
+      "start": 33737,
+      "end": 33750,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 33782,
+      "end": 33791,
+      "label": "LOC"
+    },
+    {
+      "text": "Laissez",
+      "start": 33836,
+      "end": 33843,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 33884,
+      "end": 33890,
+      "label": "PER"
+    },
+    {
+      "text": "Estime",
+      "start": 34712,
+      "end": 34718,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 35410,
+      "end": 35417,
+      "label": "LOC"
+    },
+    {
+      "text": "Songe",
+      "start": 35691,
+      "end": 35696,
+      "label": "PER"
+    },
+    {
+      "text": "Camps",
+      "start": 35913,
+      "end": 35918,
+      "label": "LOC"
+    },
+    {
+      "text": "Comment",
+      "start": 35961,
+      "end": 35968,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 35990,
+      "end": 35999,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgneuf",
+      "start": 36096,
+      "end": 36105,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 36251,
+      "end": 36257,
+      "label": "PER"
+    },
+    {
+      "text": "Retire toi",
+      "start": 36336,
+      "end": 36346,
+      "label": "MISC"
+    },
+    {
+      "text": "viens",
+      "start": 37532,
+      "end": 37537,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 38547,
+      "end": 38551,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 38723,
+      "end": 38727,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 38749,
+      "end": 38755,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 38848,
+      "end": 38852,
+      "label": "MISC"
+    },
+    {
+      "text": "Arcadiâ",
+      "start": 39080,
+      "end": 39087,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher oncle",
+      "start": 39168,
+      "end": 39182,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 39747,
+      "end": 39762,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 39766,
+      "end": 39770,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgneuf",
+      "start": 39934,
+      "end": 39943,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 40032,
+      "end": 40047,
+      "label": "PER"
+    },
+    {
+      "text": "solder la somme",
+      "start": 40093,
+      "end": 40108,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 40428,
+      "end": 40433,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 40734,
+      "end": 40740,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteaubriand",
+      "start": 40952,
+      "end": 40965,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 41325,
+      "end": 41334,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 41550,
+      "end": 41555,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgneuf",
+      "start": 41805,
+      "end": 41814,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 41867,
+      "end": 41880,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 42658,
+      "end": 42668,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Firmiani",
+      "start": 43261,
+      "end": 43276,
+      "label": "PER"
+    },
+    {
+      "text": "O",
+      "start": 43664,
+      "end": 43665,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave de Camps",
+      "start": 43878,
+      "end": 43893,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 44067,
+      "end": 44082,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 44112,
+      "end": 44116,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 44185,
+      "end": 44194,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Autriche",
+      "start": 44383,
+      "end": 44393,
+      "label": "LOC"
+    },
+    {
+      "text": "Firmiani",
+      "start": 44446,
+      "end": 44454,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 44506,
+      "end": 44514,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 44517,
+      "end": 44531,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 44631,
+      "end": 44637,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 44728,
+      "end": 44732,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 44880,
+      "end": 44886,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 45114,
+      "end": 45119,
+      "label": "LOC"
+    }
+  ]
+}

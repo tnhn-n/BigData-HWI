@@ -1,0 +1,6388 @@
+{
+  "entities": [
+    {
+      "text": "MUSE",
+      "start": 3,
+      "end": 7,
+      "label": "ORG"
+    },
+    {
+      "text": "DÉPARTEMENT",
+      "start": 11,
+      "end": 22,
+      "label": "ORG"
+    },
+    {
+      "text": "COMTE FERDINAND",
+      "start": 44,
+      "end": 59,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon",
+      "start": 72,
+      "end": 75,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 81,
+      "end": 90,
+      "label": "PER"
+    },
+    {
+      "text": "fata libelli",
+      "start": 119,
+      "end": 131,
+      "label": "PER"
+    },
+    {
+      "text": "d'Hozier",
+      "start": 286,
+      "end": 294,
+      "label": "PER"
+    },
+    {
+      "text": "Chérin",
+      "start": 299,
+      "end": 305,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 310,
+      "end": 313,
+      "label": "PER"
+    },
+    {
+      "text": "ÉTUDES",
+      "start": 326,
+      "end": 332,
+      "label": "MISC"
+    },
+    {
+      "text": "MŒURS",
+      "start": 336,
+      "end": 341,
+      "label": "ORG"
+    },
+    {
+      "text": "Navarreins",
+      "start": 359,
+      "end": 369,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 375,
+      "end": 383,
+      "label": "LOC"
+    },
+    {
+      "text": "Langeais",
+      "start": 388,
+      "end": 396,
+      "label": "LOC"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 402,
+      "end": 417,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 423,
+      "end": 431,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 439,
+      "end": 445,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 453,
+      "end": 462,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 468,
+      "end": 476,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 482,
+      "end": 488,
+      "label": "PER"
+    },
+    {
+      "text": "HUMAINE",
+      "start": 559,
+      "end": 566,
+      "label": "ORG"
+    },
+    {
+      "text": "L'ARMORIAL",
+      "start": 638,
+      "end": 648,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉTUDES",
+      "start": 653,
+      "end": 659,
+      "label": "MISC"
+    },
+    {
+      "text": "FERDINAND DE GRAMONT",
+      "start": 681,
+      "end": 701,
+      "label": "PER"
+    },
+    {
+      "text": "GENTILHOMME",
+      "start": 703,
+      "end": 714,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 815,
+      "end": 823,
+      "label": "LOC"
+    },
+    {
+      "text": "Pulchrè",
+      "start": 956,
+      "end": 963,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 991,
+      "end": 1000,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 1039,
+      "end": 1045,
+      "label": "PER"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 1075,
+      "end": 1085,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre",
+      "start": 1275,
+      "end": 1280,
+      "label": "PER"
+    },
+    {
+      "text": "BALZAC",
+      "start": 1295,
+      "end": 1301,
+      "label": "MISC"
+    },
+    {
+      "text": "Berry",
+      "start": 1327,
+      "end": 1332,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 1357,
+      "end": 1362,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 1436,
+      "end": 1444,
+      "label": "ORG"
+    },
+    {
+      "text": "Nivernais",
+      "start": 1555,
+      "end": 1564,
+      "label": "LOC"
+    },
+    {
+      "text": "La Loire",
+      "start": 1566,
+      "end": 1574,
+      "label": "LOC"
+    },
+    {
+      "text": "Vistule",
+      "start": 1759,
+      "end": 1766,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire du Nord",
+      "start": 1774,
+      "end": 1787,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 1852,
+      "end": 1860,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 1934,
+      "end": 1948,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 1975,
+      "end": 1983,
+      "label": "ORG"
+    },
+    {
+      "text": "Haute",
+      "start": 2073,
+      "end": 2078,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Loire",
+      "start": 2088,
+      "end": 2099,
+      "label": "LOC"
+    },
+    {
+      "text": "pont de Cosne",
+      "start": 2143,
+      "end": 2156,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 2169,
+      "end": 2183,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2251,
+      "end": 2256,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 2259,
+      "end": 2267,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Italie",
+      "start": 2281,
+      "end": 2289,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire de Cosne",
+      "start": 2314,
+      "end": 2328,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 2331,
+      "end": 2345,
+      "label": "LOC"
+    },
+    {
+      "text": "Chassez croisez",
+      "start": 2395,
+      "end": 2410,
+      "label": "MISC"
+    },
+    {
+      "text": "Orléans",
+      "start": 2451,
+      "end": 2458,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 2613,
+      "end": 2621,
+      "label": "ORG"
+    },
+    {
+      "text": "Grands Remparts",
+      "start": 2731,
+      "end": 2746,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 3048,
+      "end": 3057,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3068,
+      "end": 3073,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 3109,
+      "end": 3117,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontenay",
+      "start": 3330,
+      "end": 3338,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Satur",
+      "start": 3340,
+      "end": 3351,
+      "label": "LOC"
+    },
+    {
+      "text": "Neufchâtel",
+      "start": 3437,
+      "end": 3447,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 3451,
+      "end": 3457,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 3587,
+      "end": 3592,
+      "label": "LOC"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 3789,
+      "end": 3800,
+      "label": "ORG"
+    },
+    {
+      "text": "Caméroniens",
+      "start": 3833,
+      "end": 3844,
+      "label": "MISC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 3848,
+      "end": 3860,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 3874,
+      "end": 3882,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 4056,
+      "end": 4061,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 4134,
+      "end": 4142,
+      "label": "LOC"
+    },
+    {
+      "text": "Cosne",
+      "start": 4200,
+      "end": 4205,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 4207,
+      "end": 4215,
+      "label": "ORG"
+    },
+    {
+      "text": "Cosne",
+      "start": 4345,
+      "end": 4350,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 5166,
+      "end": 5174,
+      "label": "LOC"
+    },
+    {
+      "text": "Médecine",
+      "start": 5235,
+      "end": 5243,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 5253,
+      "end": 5268,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne Lousteau",
+      "start": 5300,
+      "end": 5316,
+      "label": "PER"
+    },
+    {
+      "text": "Arrondissement de Sancerre",
+      "start": 5366,
+      "end": 5392,
+      "label": "LOC"
+    },
+    {
+      "text": "Élection",
+      "start": 5478,
+      "end": 5486,
+      "label": "ORG"
+    },
+    {
+      "text": "Doctrine",
+      "start": 5530,
+      "end": 5538,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 5863,
+      "end": 5871,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5874,
+      "end": 5879,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 6081,
+      "end": 6085,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre élective",
+      "start": 6124,
+      "end": 6140,
+      "label": "LOC"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 6239,
+      "end": 6253,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 6503,
+      "end": 6511,
+      "label": "ORG"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 6712,
+      "end": 6722,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 6739,
+      "end": 6744,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne Lousteau",
+      "start": 6829,
+      "end": 6845,
+      "label": "PER"
+    },
+    {
+      "text": "Revues",
+      "start": 6875,
+      "end": 6881,
+      "label": "ORG"
+    },
+    {
+      "text": "Bianchon",
+      "start": 6944,
+      "end": 6952,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 7004,
+      "end": 7020,
+      "label": "ORG"
+    },
+    {
+      "text": "Académie des sciences",
+      "start": 7036,
+      "end": 7057,
+      "label": "ORG"
+    },
+    {
+      "text": "George Sand",
+      "start": 7187,
+      "end": 7198,
+      "label": "PER"
+    },
+    {
+      "text": "Sandisme",
+      "start": 7209,
+      "end": 7217,
+      "label": "MISC"
+    },
+    {
+      "text": "Bas Bleu",
+      "start": 7590,
+      "end": 7598,
+      "label": "MISC"
+    },
+    {
+      "text": "George Sand",
+      "start": 7709,
+      "end": 7720,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 7772,
+      "end": 7781,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal de Saxe",
+      "start": 7916,
+      "end": 7932,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 7957,
+      "end": 7965,
+      "label": "ORG"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 7978,
+      "end": 7989,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Satur",
+      "start": 8118,
+      "end": 8129,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye d'aujourd'hui",
+      "start": 8135,
+      "end": 8160,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 8238,
+      "end": 8249,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 8373,
+      "end": 8382,
+      "label": "PER"
+    },
+    {
+      "text": "Milaud",
+      "start": 8409,
+      "end": 8415,
+      "label": "PER"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 8452,
+      "end": 8463,
+      "label": "MISC"
+    },
+    {
+      "text": "Édit de Nantes",
+      "start": 8505,
+      "end": 8519,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 8594,
+      "end": 8597,
+      "label": "PER"
+    },
+    {
+      "text": "Milaud",
+      "start": 8611,
+      "end": 8617,
+      "label": "PER"
+    },
+    {
+      "text": "Eaux",
+      "start": 8644,
+      "end": 8648,
+      "label": "LOC"
+    },
+    {
+      "text": "Forêts",
+      "start": 8652,
+      "end": 8658,
+      "label": "LOC"
+    },
+    {
+      "text": "Sire de la Baudraye",
+      "start": 8695,
+      "end": 8714,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 8756,
+      "end": 8767,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 8803,
+      "end": 8814,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Roi",
+      "start": 8938,
+      "end": 8947,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 8954,
+      "end": 8962,
+      "label": "PER"
+    },
+    {
+      "text": "Milaud de La Baudraye de simple Écuyer",
+      "start": 8964,
+      "end": 9002,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 9011,
+      "end": 9020,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontenoy",
+      "start": 9120,
+      "end": 9128,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 9158,
+      "end": 9161,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 9162,
+      "end": 9171,
+      "label": "PER"
+    },
+    {
+      "text": "Chloris",
+      "start": 9349,
+      "end": 9356,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Nivernois",
+      "start": 9404,
+      "end": 9420,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 9645,
+      "end": 9653,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 9674,
+      "end": 9685,
+      "label": "MISC"
+    },
+    {
+      "text": "Échevin",
+      "start": 9774,
+      "end": 9781,
+      "label": "PER"
+    },
+    {
+      "text": "Consulat",
+      "start": 9801,
+      "end": 9809,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 9923,
+      "end": 9934,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Athanase Melchior Milaud",
+      "start": 9936,
+      "end": 9965,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 9969,
+      "end": 9980,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 10282,
+      "end": 10303,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 10621,
+      "end": 10627,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 10643,
+      "end": 10654,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucullus des Milaud",
+      "start": 10659,
+      "end": 10678,
+      "label": "PER"
+    },
+    {
+      "text": "louis d'or",
+      "start": 10780,
+      "end": 10790,
+      "label": "PER"
+    },
+    {
+      "text": "Vanitas",
+      "start": 10945,
+      "end": 10952,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 10994,
+      "end": 11005,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontenelle",
+      "start": 11102,
+      "end": 11112,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 11182,
+      "end": 11190,
+      "label": "ORG"
+    },
+    {
+      "text": "val de la Loire",
+      "start": 11283,
+      "end": 11298,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 11325,
+      "end": 11336,
+      "label": "MISC"
+    },
+    {
+      "text": "la Restauration",
+      "start": 11433,
+      "end": 11448,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 11503,
+      "end": 11508,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 11558,
+      "end": 11566,
+      "label": "PER"
+    },
+    {
+      "text": "créances",
+      "start": 11685,
+      "end": 11693,
+      "label": "LOC"
+    },
+    {
+      "text": "Le vigneron",
+      "start": 11711,
+      "end": 11722,
+      "label": "MISC"
+    },
+    {
+      "text": "Navarreins",
+      "start": 11792,
+      "end": 11802,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 11858,
+      "end": 11866,
+      "label": "LOC"
+    },
+    {
+      "text": "La Restauration",
+      "start": 11952,
+      "end": 11967,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 12014,
+      "end": 12025,
+      "label": "MISC"
+    },
+    {
+      "text": "Son Éminence Monseigneur",
+      "start": 12570,
+      "end": 12594,
+      "label": "MISC"
+    },
+    {
+      "text": "de Bourges",
+      "start": 12608,
+      "end": 12618,
+      "label": "LOC"
+    },
+    {
+      "text": "Calvinisme",
+      "start": 12756,
+      "end": 12766,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 12877,
+      "end": 12886,
+      "label": "PER"
+    },
+    {
+      "text": "XVIe",
+      "start": 12900,
+      "end": 12904,
+      "label": "MISC"
+    },
+    {
+      "text": "Piédefer",
+      "start": 12917,
+      "end": 12925,
+      "label": "MISC"
+    },
+    {
+      "text": "la Réforme",
+      "start": 13005,
+      "end": 13015,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 13071,
+      "end": 13080,
+      "label": "PER"
+    },
+    {
+      "text": "Abraham Piédefer",
+      "start": 13082,
+      "end": 13098,
+      "label": "PER"
+    },
+    {
+      "text": "Tobie",
+      "start": 13239,
+      "end": 13244,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 13270,
+      "end": 13275,
+      "label": "LOC"
+    },
+    {
+      "text": "Moïse Piédefer",
+      "start": 13346,
+      "end": 13360,
+      "label": "PER"
+    },
+    {
+      "text": "Conventionnel",
+      "start": 13519,
+      "end": 13532,
+      "label": "LOC"
+    },
+    {
+      "text": "Piédefer",
+      "start": 13568,
+      "end": 13576,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 13791,
+      "end": 13796,
+      "label": "LOC"
+    },
+    {
+      "text": "Bible",
+      "start": 13878,
+      "end": 13883,
+      "label": "MISC"
+    },
+    {
+      "text": "Église romaine",
+      "start": 13933,
+      "end": 13947,
+      "label": "ORG"
+    },
+    {
+      "text": "Dinah Piédefer",
+      "start": 13962,
+      "end": 13976,
+      "label": "PER"
+    },
+    {
+      "text": "de Bourges",
+      "start": 14029,
+      "end": 14039,
+      "label": "LOC"
+    },
+    {
+      "text": "Chamarolles",
+      "start": 14063,
+      "end": 14074,
+      "label": "PER"
+    },
+    {
+      "text": "Piédefer",
+      "start": 14369,
+      "end": 14377,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 14445,
+      "end": 14450,
+      "label": "PER"
+    },
+    {
+      "text": "Cardinal",
+      "start": 14575,
+      "end": 14583,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 14708,
+      "end": 14713,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah Piédefer",
+      "start": 14820,
+      "end": 14834,
+      "label": "PER"
+    },
+    {
+      "text": "Prélat",
+      "start": 14934,
+      "end": 14940,
+      "label": "PER"
+    },
+    {
+      "text": "Chamarolles",
+      "start": 15093,
+      "end": 15104,
+      "label": "PER"
+    },
+    {
+      "text": "La Hautoy indivis",
+      "start": 15283,
+      "end": 15300,
+      "label": "MISC"
+    },
+    {
+      "text": "Melchior",
+      "start": 15482,
+      "end": 15490,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 15494,
+      "end": 15505,
+      "label": "MISC"
+    },
+    {
+      "text": "département du Cher",
+      "start": 15563,
+      "end": 15582,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 15599,
+      "end": 15606,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Piédefer",
+      "start": 15621,
+      "end": 15636,
+      "label": "PER"
+    },
+    {
+      "text": "grandes Heures",
+      "start": 15647,
+      "end": 15661,
+      "label": "MISC"
+    },
+    {
+      "text": "Berry",
+      "start": 15743,
+      "end": 15748,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardinal",
+      "start": 15785,
+      "end": 15793,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 15837,
+      "end": 15848,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 15862,
+      "end": 15873,
+      "label": "PER"
+    },
+    {
+      "text": "Cardinal",
+      "start": 15933,
+      "end": 15941,
+      "label": "PER"
+    },
+    {
+      "text": "Éminence",
+      "start": 15972,
+      "end": 15980,
+      "label": "MISC"
+    },
+    {
+      "text": "Président du Conseil",
+      "start": 16029,
+      "end": 16049,
+      "label": "PER"
+    },
+    {
+      "text": "Navarreins",
+      "start": 16102,
+      "end": 16112,
+      "label": "LOC"
+    },
+    {
+      "text": "pavillon Marsan",
+      "start": 16209,
+      "end": 16224,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 16345,
+      "end": 16355,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 16391,
+      "end": 16402,
+      "label": "MISC"
+    },
+    {
+      "text": "Président Boirouge",
+      "start": 16430,
+      "end": 16448,
+      "label": "PER"
+    },
+    {
+      "text": "Mail",
+      "start": 16527,
+      "end": 16531,
+      "label": "LOC"
+    },
+    {
+      "text": "Milaud",
+      "start": 16550,
+      "end": 16556,
+      "label": "PER"
+    },
+    {
+      "text": "Substitut de Nevers",
+      "start": 16561,
+      "end": 16580,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 16603,
+      "end": 16609,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 16643,
+      "end": 16654,
+      "label": "MISC"
+    },
+    {
+      "text": "Procureur",
+      "start": 16703,
+      "end": 16712,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 16716,
+      "end": 16719,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 16763,
+      "end": 16765,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 16843,
+      "end": 16854,
+      "label": "MISC"
+    },
+    {
+      "text": "Milaud",
+      "start": 16882,
+      "end": 16888,
+      "label": "PER"
+    },
+    {
+      "text": "Nevers",
+      "start": 16904,
+      "end": 16910,
+      "label": "LOC"
+    },
+    {
+      "text": "Milaud",
+      "start": 16937,
+      "end": 16943,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère Public",
+      "start": 17080,
+      "end": 17096,
+      "label": "ORG"
+    },
+    {
+      "text": "Marchangy",
+      "start": 17135,
+      "end": 17144,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 17302,
+      "end": 17313,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 17378,
+      "end": 17383,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministres",
+      "start": 17527,
+      "end": 17536,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 17548,
+      "end": 17560,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 17658,
+      "end": 17669,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 17682,
+      "end": 17687,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardinal",
+      "start": 17704,
+      "end": 17712,
+      "label": "PER"
+    },
+    {
+      "text": "Chambres",
+      "start": 17745,
+      "end": 17753,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 17772,
+      "end": 17789,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 17835,
+      "end": 17846,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 17870,
+      "end": 17880,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Mayence",
+      "start": 17906,
+      "end": 17922,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 17946,
+      "end": 17958,
+      "label": "PER"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 17971,
+      "end": 17984,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministres",
+      "start": 18003,
+      "end": 18012,
+      "label": "LOC"
+    },
+    {
+      "text": "Milaud de La Baudraye",
+      "start": 18332,
+      "end": 18353,
+      "label": "PER"
+    },
+    {
+      "text": "madame Piédefer",
+      "start": 18519,
+      "end": 18534,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 18566,
+      "end": 18577,
+      "label": "MISC"
+    },
+    {
+      "text": "Hurbain",
+      "start": 18852,
+      "end": 18859,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 18864,
+      "end": 18876,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 18899,
+      "end": 18903,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisien",
+      "start": 18956,
+      "end": 18964,
+      "label": "LOC"
+    },
+    {
+      "text": "créances",
+      "start": 19081,
+      "end": 19089,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 19188,
+      "end": 19201,
+      "label": "PER"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 19243,
+      "end": 19251,
+      "label": "ORG"
+    },
+    {
+      "text": "Acheter !",
+      "start": 19333,
+      "end": 19342,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 19416,
+      "end": 19424,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 19469,
+      "end": 19478,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 19625,
+      "end": 19627,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 19728,
+      "end": 19731,
+      "label": "PER"
+    },
+    {
+      "text": "Tiers État formidable",
+      "start": 19907,
+      "end": 19928,
+      "label": "ORG"
+    },
+    {
+      "text": "Roi",
+      "start": 19943,
+      "end": 19946,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 19952,
+      "end": 19961,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 20054,
+      "end": 20064,
+      "label": "LOC"
+    },
+    {
+      "text": "Noblesse",
+      "start": 20144,
+      "end": 20152,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 20164,
+      "end": 20181,
+      "label": "PER"
+    },
+    {
+      "text": "Premier Gentilhomme de la Chambre",
+      "start": 20207,
+      "end": 20240,
+      "label": "MISC"
+    },
+    {
+      "text": "Jugez",
+      "start": 20307,
+      "end": 20312,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 20430,
+      "end": 20438,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes vif",
+      "start": 20444,
+      "end": 20457,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 20467,
+      "end": 20475,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher monsieur",
+      "start": 20677,
+      "end": 20694,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 20715,
+      "end": 20722,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 20780,
+      "end": 20788,
+      "label": "ORG"
+    },
+    {
+      "text": "donnerez",
+      "start": 21001,
+      "end": 21009,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 21038,
+      "end": 21045,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre Royal de la Légion d'Honneur",
+      "start": 21111,
+      "end": 21145,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 21257,
+      "end": 21265,
+      "label": "LOC"
+    },
+    {
+      "text": "Son Excellence",
+      "start": 21299,
+      "end": 21313,
+      "label": "MISC"
+    },
+    {
+      "text": "Sa Seigneurie",
+      "start": 21327,
+      "end": 21340,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 21344,
+      "end": 21361,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 21402,
+      "end": 21410,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveur des Contributions",
+      "start": 21425,
+      "end": 21451,
+      "label": "MISC"
+    },
+    {
+      "text": "Gravier",
+      "start": 21497,
+      "end": 21504,
+      "label": "PER"
+    },
+    {
+      "text": "Finance",
+      "start": 21563,
+      "end": 21570,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 21576,
+      "end": 21584,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 21635,
+      "end": 21646,
+      "label": "MISC"
+    },
+    {
+      "text": "Receveur",
+      "start": 21681,
+      "end": 21689,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 21703,
+      "end": 21714,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 21724,
+      "end": 21729,
+      "label": "LOC"
+    },
+    {
+      "text": "Référendaire au",
+      "start": 21792,
+      "end": 21807,
+      "label": "MISC"
+    },
+    {
+      "text": "Sceau",
+      "start": 21808,
+      "end": 21813,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 21840,
+      "end": 21856,
+      "label": "ORG"
+    },
+    {
+      "text": "Référendaire au",
+      "start": 21889,
+      "end": 21904,
+      "label": "MISC"
+    },
+    {
+      "text": "Sceau",
+      "start": 21905,
+      "end": 21910,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 21924,
+      "end": 21935,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 21996,
+      "end": 22004,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 22022,
+      "end": 22041,
+      "label": "MISC"
+    },
+    {
+      "text": "Commissaire du Roi",
+      "start": 22061,
+      "end": 22079,
+      "label": "PER"
+    },
+    {
+      "text": "Compagnie Anonyme",
+      "start": 22091,
+      "end": 22108,
+      "label": "ORG"
+    },
+    {
+      "text": "Nivernais",
+      "start": 22120,
+      "end": 22129,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 22202,
+      "end": 22213,
+      "label": "MISC"
+    },
+    {
+      "text": "Loire",
+      "start": 22700,
+      "end": 22705,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 22734,
+      "end": 22742,
+      "label": "LOC"
+    },
+    {
+      "text": "Anzy",
+      "start": 22755,
+      "end": 22759,
+      "label": "LOC"
+    },
+    {
+      "text": "Philibert de Lorme",
+      "start": 22796,
+      "end": 22814,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 23031,
+      "end": 23042,
+      "label": "MISC"
+    },
+    {
+      "text": "La Hautoy",
+      "start": 23060,
+      "end": 23069,
+      "label": "LOC"
+    },
+    {
+      "text": "Lettres Patentes",
+      "start": 23083,
+      "end": 23099,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 23155,
+      "end": 23160,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 23236,
+      "end": 23247,
+      "label": "MISC"
+    },
+    {
+      "text": "Anzy",
+      "start": 23283,
+      "end": 23287,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 23410,
+      "end": 23421,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 23799,
+      "end": 23810,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 23834,
+      "end": 23848,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 24175,
+      "end": 24199,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 24286,
+      "end": 24293,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Piédefer",
+      "start": 24295,
+      "end": 24310,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 24373,
+      "end": 24384,
+      "label": "MISC"
+    },
+    {
+      "text": "La Hautoy",
+      "start": 24512,
+      "end": 24521,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 24627,
+      "end": 24632,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye une maison très agréable",
+      "start": 24670,
+      "end": 24706,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 25236,
+      "end": 25241,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 25273,
+      "end": 25284,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 25349,
+      "end": 25354,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 25589,
+      "end": 25600,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 25669,
+      "end": 25674,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 25795,
+      "end": 25806,
+      "label": "MISC"
+    },
+    {
+      "text": "Mail",
+      "start": 25869,
+      "end": 25873,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 25894,
+      "end": 25905,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 25996,
+      "end": 26004,
+      "label": "ORG"
+    },
+    {
+      "text": "Berry",
+      "start": 26094,
+      "end": 26099,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 26229,
+      "end": 26250,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 26344,
+      "end": 26355,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 26593,
+      "end": 26598,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 26831,
+      "end": 26836,
+      "label": "PER"
+    },
+    {
+      "text": "Anna Grossetête",
+      "start": 26965,
+      "end": 26980,
+      "label": "PER"
+    },
+    {
+      "text": "Chamarolles",
+      "start": 27013,
+      "end": 27024,
+      "label": "PER"
+    },
+    {
+      "text": "Receveur",
+      "start": 27042,
+      "end": 27050,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 27062,
+      "end": 27069,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 27071,
+      "end": 27075,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 27131,
+      "end": 27148,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 27174,
+      "end": 27185,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 27243,
+      "end": 27248,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 27477,
+      "end": 27485,
+      "label": "ORG"
+    },
+    {
+      "text": "Dinah",
+      "start": 27518,
+      "end": 27523,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 27638,
+      "end": 27659,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 28065,
+      "end": 28075,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 28085,
+      "end": 28093,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 28124,
+      "end": 28133,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 28256,
+      "end": 28264,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 28307,
+      "end": 28328,
+      "label": "PER"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 28376,
+      "end": 28387,
+      "label": "MISC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 28403,
+      "end": 28413,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 28456,
+      "end": 28477,
+      "label": "PER"
+    },
+    {
+      "text": "Clagny",
+      "start": 28561,
+      "end": 28567,
+      "label": "LOC"
+    },
+    {
+      "text": "Procureur",
+      "start": 28572,
+      "end": 28581,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 28585,
+      "end": 28588,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 28619,
+      "end": 28624,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 28639,
+      "end": 28647,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Gravier",
+      "start": 28975,
+      "end": 28991,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 29036,
+      "end": 29044,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 29177,
+      "end": 29184,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministre",
+      "start": 29311,
+      "end": 29319,
+      "label": "ORG"
+    },
+    {
+      "text": "Sancerre",
+      "start": 29383,
+      "end": 29391,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 29465,
+      "end": 29473,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 29504,
+      "end": 29511,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration de celles de l'Empire",
+      "start": 29607,
+      "end": 29641,
+      "label": "MISC"
+    },
+    {
+      "text": "Clagny",
+      "start": 29692,
+      "end": 29698,
+      "label": "LOC"
+    },
+    {
+      "text": "Procureur",
+      "start": 29930,
+      "end": 29939,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 29943,
+      "end": 29946,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 30118,
+      "end": 30123,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Baudraye",
+      "start": 30228,
+      "end": 30249,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 30371,
+      "end": 30382,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 30457,
+      "end": 30462,
+      "label": "PER"
+    },
+    {
+      "text": "Sapho de Saint Satur",
+      "start": 30480,
+      "end": 30500,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerroises",
+      "start": 30614,
+      "end": 30626,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 30832,
+      "end": 30837,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 31045,
+      "end": 31050,
+      "label": "PER"
+    },
+    {
+      "text": "Clagny",
+      "start": 31099,
+      "end": 31105,
+      "label": "LOC"
+    },
+    {
+      "text": "Procureur",
+      "start": 31197,
+      "end": 31206,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 31210,
+      "end": 31213,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Gravier",
+      "start": 31215,
+      "end": 31231,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 31634,
+      "end": 31645,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Piédefer",
+      "start": 31791,
+      "end": 31806,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fontaine",
+      "start": 31945,
+      "end": 31963,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 32014,
+      "end": 32023,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 32025,
+      "end": 32030,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah de La Baudraye",
+      "start": 32152,
+      "end": 32172,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 32501,
+      "end": 32522,
+      "label": "PER"
+    },
+    {
+      "text": "J'",
+      "start": 32601,
+      "end": 32603,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 32698,
+      "end": 32706,
+      "label": "ORG"
+    },
+    {
+      "text": "Sapho de Saint Satur",
+      "start": 32759,
+      "end": 32779,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 32862,
+      "end": 32873,
+      "label": "MISC"
+    },
+    {
+      "text": "Bailli de Ferrette",
+      "start": 32999,
+      "end": 33017,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 33079,
+      "end": 33087,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 33247,
+      "end": 33258,
+      "label": "PER"
+    },
+    {
+      "text": "Bailli de Ferrette",
+      "start": 33317,
+      "end": 33335,
+      "label": "ORG"
+    },
+    {
+      "text": "Grand Duc de Bade",
+      "start": 33412,
+      "end": 33429,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 33470,
+      "end": 33481,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferrette",
+      "start": 33709,
+      "end": 33717,
+      "label": "PER"
+    },
+    {
+      "text": "petit vigneron",
+      "start": 33761,
+      "end": 33775,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 34101,
+      "end": 34109,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 34780,
+      "end": 34788,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 34790,
+      "end": 34795,
+      "label": "ORG"
+    },
+    {
+      "text": "Dinah",
+      "start": 35425,
+      "end": 35430,
+      "label": "PER"
+    },
+    {
+      "text": "Cosne",
+      "start": 35820,
+      "end": 35825,
+      "label": "PER"
+    },
+    {
+      "text": "La Charité",
+      "start": 35830,
+      "end": 35840,
+      "label": "LOC"
+    },
+    {
+      "text": "Nevers",
+      "start": 35845,
+      "end": 35851,
+      "label": "LOC"
+    },
+    {
+      "text": "Léré",
+      "start": 35878,
+      "end": 35882,
+      "label": "LOC"
+    },
+    {
+      "text": "Vailly",
+      "start": 35887,
+      "end": 35893,
+      "label": "LOC"
+    },
+    {
+      "text": "Argent",
+      "start": 35897,
+      "end": 35903,
+      "label": "LOC"
+    },
+    {
+      "text": "Blancafort",
+      "start": 35908,
+      "end": 35918,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Aubigné",
+      "start": 35920,
+      "end": 35929,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 35981,
+      "end": 36002,
+      "label": "PER"
+    },
+    {
+      "text": "Suisse",
+      "start": 36013,
+      "end": 36019,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 36046,
+      "end": 36061,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 36178,
+      "end": 36183,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 36887,
+      "end": 36898,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 37182,
+      "end": 37196,
+      "label": "PER"
+    },
+    {
+      "text": "Mail",
+      "start": 37364,
+      "end": 37368,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 37426,
+      "end": 37431,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 37575,
+      "end": 37580,
+      "label": "PER"
+    },
+    {
+      "text": "Art",
+      "start": 37673,
+      "end": 37676,
+      "label": "LOC"
+    },
+    {
+      "text": "Art",
+      "start": 37760,
+      "end": 37763,
+      "label": "LOC"
+    },
+    {
+      "text": "Renaissance",
+      "start": 37922,
+      "end": 37933,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 38068,
+      "end": 38074,
+      "label": "LOC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 38077,
+      "end": 38085,
+      "label": "LOC"
+    },
+    {
+      "text": "Nivernais",
+      "start": 38184,
+      "end": 38193,
+      "label": "LOC"
+    },
+    {
+      "text": "Haute Loire",
+      "start": 38205,
+      "end": 38216,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 38372,
+      "end": 38383,
+      "label": "MISC"
+    },
+    {
+      "text": "Anzy",
+      "start": 38509,
+      "end": 38513,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 38683,
+      "end": 38688,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 38728,
+      "end": 38739,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 38922,
+      "end": 38927,
+      "label": "PER"
+    },
+    {
+      "text": "Sommerard",
+      "start": 39206,
+      "end": 39215,
+      "label": "LOC"
+    },
+    {
+      "text": "Old Mortality",
+      "start": 39221,
+      "end": 39234,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Goujon",
+      "start": 39360,
+      "end": 39371,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Columb",
+      "start": 39377,
+      "end": 39390,
+      "label": "PER"
+    },
+    {
+      "text": "Germain Pilon",
+      "start": 39396,
+      "end": 39409,
+      "label": "PER"
+    },
+    {
+      "text": "Boulle",
+      "start": 39415,
+      "end": 39421,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 39427,
+      "end": 39438,
+      "label": "PER"
+    },
+    {
+      "text": "Boucher",
+      "start": 39444,
+      "end": 39451,
+      "label": "LOC"
+    },
+    {
+      "text": "Clodion",
+      "start": 39486,
+      "end": 39493,
+      "label": "PER"
+    },
+    {
+      "text": "Brustolone",
+      "start": 39548,
+      "end": 39558,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 39578,
+      "end": 39589,
+      "label": "PER"
+    },
+    {
+      "text": "Bernard de Palissy",
+      "start": 39697,
+      "end": 39715,
+      "label": "PER"
+    },
+    {
+      "text": "Petitot",
+      "start": 39729,
+      "end": 39736,
+      "label": "LOC"
+    },
+    {
+      "text": "Albrecht Durer",
+      "start": 39757,
+      "end": 39771,
+      "label": "LOC"
+    },
+    {
+      "text": "Dur",
+      "start": 39789,
+      "end": 39792,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 39958,
+      "end": 39966,
+      "label": "ORG"
+    },
+    {
+      "text": "Société",
+      "start": 40011,
+      "end": 40018,
+      "label": "ORG"
+    },
+    {
+      "text": "Littéraire",
+      "start": 40024,
+      "end": 40034,
+      "label": "PER"
+    },
+    {
+      "text": "Boirouge",
+      "start": 40071,
+      "end": 40079,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot Chandier",
+      "start": 40163,
+      "end": 40179,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 40211,
+      "end": 40218,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 40275,
+      "end": 40296,
+      "label": "PER"
+    },
+    {
+      "text": "Société Littéraire",
+      "start": 40371,
+      "end": 40389,
+      "label": "ORG"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 40719,
+      "end": 40730,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 40861,
+      "end": 40869,
+      "label": "ORG"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 40982,
+      "end": 40992,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 40994,
+      "end": 41001,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 41006,
+      "end": 41012,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 41019,
+      "end": 41029,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 41136,
+      "end": 41141,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Gravier",
+      "start": 41311,
+      "end": 41327,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 41383,
+      "end": 41393,
+      "label": "PER"
+    },
+    {
+      "text": "Divinité",
+      "start": 41449,
+      "end": 41457,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 41714,
+      "end": 41722,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 41983,
+      "end": 41988,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 42075,
+      "end": 42086,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 42124,
+      "end": 42129,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 42312,
+      "end": 42320,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 42350,
+      "end": 42355,
+      "label": "LOC"
+    },
+    {
+      "text": "Cénacle",
+      "start": 42451,
+      "end": 42458,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 42600,
+      "end": 42605,
+      "label": "PER"
+    },
+    {
+      "text": "Kant",
+      "start": 42684,
+      "end": 42688,
+      "label": "PER"
+    },
+    {
+      "text": "La Thaumassière",
+      "start": 42702,
+      "end": 42717,
+      "label": "PER"
+    },
+    {
+      "text": "Berry",
+      "start": 42751,
+      "end": 42756,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 42983,
+      "end": 42988,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 43149,
+      "end": 43154,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 43226,
+      "end": 43236,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 43309,
+      "end": 43314,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 43536,
+      "end": 43547,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Baudraye",
+      "start": 43551,
+      "end": 43572,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 43646,
+      "end": 43653,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 43740,
+      "end": 43745,
+      "label": "PER"
+    },
+    {
+      "text": "Gardée",
+      "start": 43879,
+      "end": 43885,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 43910,
+      "end": 43931,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 44038,
+      "end": 44046,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 44106,
+      "end": 44127,
+      "label": "PER"
+    },
+    {
+      "text": "Porte César",
+      "start": 44185,
+      "end": 44196,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thibault",
+      "start": 44199,
+      "end": 44213,
+      "label": "PER"
+    },
+    {
+      "text": "Grands Remparts",
+      "start": 44269,
+      "end": 44284,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre le Casse",
+      "start": 44366,
+      "end": 44383,
+      "label": "PER"
+    },
+    {
+      "text": "Casse",
+      "start": 44550,
+      "end": 44555,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 44585,
+      "end": 44593,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 44596,
+      "end": 44607,
+      "label": "LOC"
+    },
+    {
+      "text": "Sapho de Saint Satur",
+      "start": 44636,
+      "end": 44656,
+      "label": "MISC"
+    },
+    {
+      "text": "Mail",
+      "start": 44680,
+      "end": 44684,
+      "label": "MISC"
+    },
+    {
+      "text": "Longchamps des autorités",
+      "start": 44702,
+      "end": 44726,
+      "label": "MISC"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 44806,
+      "end": 44817,
+      "label": "MISC"
+    },
+    {
+      "text": "Procureur",
+      "start": 44829,
+      "end": 44838,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 44842,
+      "end": 44845,
+      "label": "PER"
+    },
+    {
+      "text": "Mail",
+      "start": 44947,
+      "end": 44951,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 44981,
+      "end": 44992,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 45050,
+      "end": 45055,
+      "label": "LOC"
+    },
+    {
+      "text": "reine du Sancerrois",
+      "start": 45143,
+      "end": 45162,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 45176,
+      "end": 45187,
+      "label": "PER"
+    },
+    {
+      "text": "Procureur",
+      "start": 45462,
+      "end": 45471,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 45475,
+      "end": 45478,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 45656,
+      "end": 45677,
+      "label": "PER"
+    },
+    {
+      "text": "Boirouge",
+      "start": 45782,
+      "end": 45790,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 45901,
+      "end": 45912,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 46048,
+      "end": 46059,
+      "label": "MISC"
+    },
+    {
+      "text": "Dix Neuvième",
+      "start": 46178,
+      "end": 46190,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 46439,
+      "end": 46444,
+      "label": "LOC"
+    },
+    {
+      "text": "Chamarolles",
+      "start": 46536,
+      "end": 46547,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 46739,
+      "end": 46750,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah Piédefer",
+      "start": 46778,
+      "end": 46792,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 47044,
+      "end": 47049,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 47211,
+      "end": 47222,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 47339,
+      "end": 47344,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 47363,
+      "end": 47371,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 47384,
+      "end": 47390,
+      "label": "PER"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 47448,
+      "end": 47457,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 47459,
+      "end": 47468,
+      "label": "PER"
+    },
+    {
+      "text": "Pompadour",
+      "start": 47472,
+      "end": 47481,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 47540,
+      "end": 47551,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 47719,
+      "end": 47730,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 47733,
+      "end": 47738,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 47740,
+      "end": 47745,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 47945,
+      "end": 47948,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Piédefer",
+      "start": 48127,
+      "end": 48142,
+      "label": "PER"
+    },
+    {
+      "text": "La Hautoy",
+      "start": 48162,
+      "end": 48171,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 49360,
+      "end": 49365,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 49593,
+      "end": 49598,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 49612,
+      "end": 49617,
+      "label": "LOC"
+    },
+    {
+      "text": "Médor",
+      "start": 49650,
+      "end": 49655,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 49673,
+      "end": 49682,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 49898,
+      "end": 49909,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 50613,
+      "end": 50618,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 50667,
+      "end": 50678,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 50686,
+      "end": 50694,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 50893,
+      "end": 50898,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye de l'urne électorale",
+      "start": 51011,
+      "end": 51043,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 51116,
+      "end": 51121,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 51353,
+      "end": 51369,
+      "label": "ORG"
+    },
+    {
+      "text": "Procureur",
+      "start": 51525,
+      "end": 51534,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 51538,
+      "end": 51541,
+      "label": "PER"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 51546,
+      "end": 51557,
+      "label": "MISC"
+    },
+    {
+      "text": "Gravier",
+      "start": 51579,
+      "end": 51586,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 51838,
+      "end": 51843,
+      "label": "PER"
+    },
+    {
+      "text": "Anzy",
+      "start": 51999,
+      "end": 52003,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 52020,
+      "end": 52031,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 52291,
+      "end": 52296,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 52621,
+      "end": 52626,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 52925,
+      "end": 52936,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 53209,
+      "end": 53214,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 53256,
+      "end": 53261,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 53543,
+      "end": 53551,
+      "label": "LOC"
+    },
+    {
+      "text": "Sachons",
+      "start": 53717,
+      "end": 53724,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 53735,
+      "end": 53744,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53805,
+      "end": 53810,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53851,
+      "end": 53856,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53858,
+      "end": 53863,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53935,
+      "end": 53940,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 53981,
+      "end": 53985,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville",
+      "start": 53997,
+      "end": 54002,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 54016,
+      "end": 54021,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 54035,
+      "end": 54039,
+      "label": "LOC"
+    },
+    {
+      "text": "Province",
+      "start": 54044,
+      "end": 54052,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville",
+      "start": 54066,
+      "end": 54071,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah Piédefer",
+      "start": 54202,
+      "end": 54216,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 55235,
+      "end": 55240,
+      "label": "LOC"
+    },
+    {
+      "text": "Vivez",
+      "start": 55324,
+      "end": 55329,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 56332,
+      "end": 56337,
+      "label": "PER"
+    },
+    {
+      "text": "Anna Grossetête",
+      "start": 56877,
+      "end": 56892,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 57098,
+      "end": 57108,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 57526,
+      "end": 57532,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 57574,
+      "end": 57579,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 57728,
+      "end": 57739,
+      "label": "LOC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 57798,
+      "end": 57808,
+      "label": "LOC"
+    },
+    {
+      "text": "Procureur",
+      "start": 57880,
+      "end": 57889,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 57893,
+      "end": 57896,
+      "label": "PER"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 57909,
+      "end": 57920,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 57973,
+      "end": 57978,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 57980,
+      "end": 57988,
+      "label": "PER"
+    },
+    {
+      "text": "Clagny",
+      "start": 57992,
+      "end": 57998,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 58061,
+      "end": 58068,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 58082,
+      "end": 58089,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 58412,
+      "end": 58417,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 58613,
+      "end": 58618,
+      "label": "LOC"
+    },
+    {
+      "text": "Obligée",
+      "start": 58798,
+      "end": 58805,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 60152,
+      "end": 60162,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 60656,
+      "end": 60666,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60951,
+      "end": 60956,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 60971,
+      "end": 60980,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 60982,
+      "end": 60987,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 61545,
+      "end": 61566,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 61918,
+      "end": 61923,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62331,
+      "end": 62336,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 62527,
+      "end": 62532,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 63113,
+      "end": 63118,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 63189,
+      "end": 63195,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 63484,
+      "end": 63494,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 63592,
+      "end": 63597,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 63661,
+      "end": 63682,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 63863,
+      "end": 63868,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 64094,
+      "end": 64099,
+      "label": "LOC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 64193,
+      "end": 64203,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 64289,
+      "end": 64297,
+      "label": "PER"
+    },
+    {
+      "text": "Anna",
+      "start": 64332,
+      "end": 64336,
+      "label": "PER"
+    },
+    {
+      "text": "Directeur Général",
+      "start": 64345,
+      "end": 64362,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère des Finances",
+      "start": 64366,
+      "end": 64388,
+      "label": "ORG"
+    },
+    {
+      "text": "Italie",
+      "start": 64435,
+      "end": 64441,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 64461,
+      "end": 64465,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 64493,
+      "end": 64501,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 64574,
+      "end": 64578,
+      "label": "PER"
+    },
+    {
+      "text": "Chamarolles",
+      "start": 64615,
+      "end": 64626,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 64631,
+      "end": 64636,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 64658,
+      "end": 64666,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 64707,
+      "end": 64718,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 64763,
+      "end": 64767,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 64833,
+      "end": 64843,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 64912,
+      "end": 64917,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 64961,
+      "end": 64971,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 65032,
+      "end": 65037,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 65123,
+      "end": 65127,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 65225,
+      "end": 65236,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 65318,
+      "end": 65328,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 65528,
+      "end": 65533,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 65591,
+      "end": 65601,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 65691,
+      "end": 65695,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 65697,
+      "end": 65718,
+      "label": "PER"
+    },
+    {
+      "text": "Clagny",
+      "start": 65824,
+      "end": 65830,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 65858,
+      "end": 65862,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 65972,
+      "end": 65993,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 66122,
+      "end": 66132,
+      "label": "PER"
+    },
+    {
+      "text": "Clagny",
+      "start": 66146,
+      "end": 66152,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 66184,
+      "end": 66189,
+      "label": "PER"
+    },
+    {
+      "text": "Études",
+      "start": 66486,
+      "end": 66492,
+      "label": "LOC"
+    },
+    {
+      "text": "Conte",
+      "start": 66530,
+      "end": 66535,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 66603,
+      "end": 66608,
+      "label": "LOC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 66776,
+      "end": 66786,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 66788,
+      "end": 66793,
+      "label": "LOC"
+    },
+    {
+      "text": "Duret",
+      "start": 66824,
+      "end": 66829,
+      "label": "PER"
+    },
+    {
+      "text": "Allier",
+      "start": 67179,
+      "end": 67185,
+      "label": "LOC"
+    },
+    {
+      "text": "Nièvre",
+      "start": 67193,
+      "end": 67199,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 67206,
+      "end": 67210,
+      "label": "LOC"
+    },
+    {
+      "text": "PAQUITA",
+      "start": 67295,
+      "end": 67302,
+      "label": "ORG"
+    },
+    {
+      "text": "JAN DIAZ",
+      "start": 67320,
+      "end": 67328,
+      "label": "PER"
+    },
+    {
+      "text": "Écho du Morvan",
+      "start": 67347,
+      "end": 67361,
+      "label": "LOC"
+    },
+    {
+      "text": "Revue qui lutta",
+      "start": 67373,
+      "end": 67388,
+      "label": "MISC"
+    },
+    {
+      "text": "Nevers",
+      "start": 67485,
+      "end": 67491,
+      "label": "LOC"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 67496,
+      "end": 67504,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 67789,
+      "end": 67798,
+      "label": "LOC"
+    },
+    {
+      "text": "D'amour, de ciel",
+      "start": 67861,
+      "end": 67877,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristes",
+      "start": 67890,
+      "end": 67897,
+      "label": "LOC"
+    },
+    {
+      "text": "Neustrie",
+      "start": 67908,
+      "end": 67916,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous ne parleriez jamais",
+      "start": 67918,
+      "end": 67942,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'au froid pays",
+      "start": 67978,
+      "end": 67994,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 68012,
+      "end": 68016,
+      "label": "MISC"
+    },
+    {
+      "text": "On entend sur la pelouse Danser",
+      "start": 68039,
+      "end": 68070,
+      "label": "MISC"
+    },
+    {
+      "text": "Andalouse",
+      "start": 68079,
+      "end": 68088,
+      "label": "MISC"
+    },
+    {
+      "text": "De vos danses si grossières",
+      "start": 68141,
+      "end": 68168,
+      "label": "MISC"
+    },
+    {
+      "text": "De votre laid Carnaval",
+      "start": 68170,
+      "end": 68192,
+      "label": "MISC"
+    },
+    {
+      "text": "Et qui saute dans les boues",
+      "start": 68225,
+      "end": 68252,
+      "label": "MISC"
+    },
+    {
+      "text": "Chaussé",
+      "start": 68254,
+      "end": 68261,
+      "label": "MISC"
+    },
+    {
+      "text": "Que Paquita",
+      "start": 68333,
+      "end": 68344,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouen",
+      "start": 68372,
+      "end": 68377,
+      "label": "LOC"
+    },
+    {
+      "text": "Mâchent",
+      "start": 68413,
+      "end": 68420,
+      "label": "ORG"
+    },
+    {
+      "text": "Rouen",
+      "start": 68456,
+      "end": 68461,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68502,
+      "end": 68503,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68504,
+      "end": 68505,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68506,
+      "end": 68507,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68508,
+      "end": 68509,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68510,
+      "end": 68511,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68512,
+      "end": 68513,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68514,
+      "end": 68515,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68516,
+      "end": 68517,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68518,
+      "end": 68519,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68520,
+      "end": 68521,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68522,
+      "end": 68523,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68524,
+      "end": 68525,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68526,
+      "end": 68527,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68528,
+      "end": 68529,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68530,
+      "end": 68531,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68532,
+      "end": 68533,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68534,
+      "end": 68535,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68536,
+      "end": 68537,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68538,
+      "end": 68539,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouen",
+      "start": 68576,
+      "end": 68581,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 68593,
+      "end": 68598,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 68765,
+      "end": 68774,
+      "label": "LOC"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 68876,
+      "end": 68884,
+      "label": "PER"
+    },
+    {
+      "text": "Paquita",
+      "start": 68909,
+      "end": 68916,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 68925,
+      "end": 68934,
+      "label": "LOC"
+    },
+    {
+      "text": "Paquita",
+      "start": 68947,
+      "end": 68954,
+      "label": "MISC"
+    },
+    {
+      "text": "Séville",
+      "start": 68983,
+      "end": 68990,
+      "label": "LOC"
+    },
+    {
+      "text": "Elle était, à treize ans",
+      "start": 69026,
+      "end": 69050,
+      "label": "MISC"
+    },
+    {
+      "text": "Car le prix du vainqueur",
+      "start": 69155,
+      "end": 69179,
+      "label": "MISC"
+    },
+    {
+      "text": "Un seul baiser",
+      "start": 69186,
+      "end": 69200,
+      "label": "MISC"
+    },
+    {
+      "text": "Que tout Séville",
+      "start": 69234,
+      "end": 69250,
+      "label": "MISC"
+    },
+    {
+      "text": ".",
+      "start": 69267,
+      "end": 69268,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69269,
+      "end": 69270,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69271,
+      "end": 69272,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69273,
+      "end": 69274,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69275,
+      "end": 69276,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69277,
+      "end": 69278,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69279,
+      "end": 69280,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69281,
+      "end": 69282,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69283,
+      "end": 69284,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69285,
+      "end": 69286,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69287,
+      "end": 69288,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69289,
+      "end": 69290,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69291,
+      "end": 69292,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69293,
+      "end": 69294,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69295,
+      "end": 69296,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69297,
+      "end": 69298,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69299,
+      "end": 69300,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69301,
+      "end": 69302,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69303,
+      "end": 69304,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69305,
+      "end": 69306,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 69347,
+      "end": 69356,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 69543,
+      "end": 69548,
+      "label": "PER"
+    },
+    {
+      "text": "Paquita",
+      "start": 69645,
+      "end": 69652,
+      "label": "MISC"
+    },
+    {
+      "text": ".",
+      "start": 69766,
+      "end": 69767,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69768,
+      "end": 69769,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69770,
+      "end": 69771,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69772,
+      "end": 69773,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69774,
+      "end": 69775,
+      "label": "LOC"
+    },
+    {
+      "text": "On les eût vus tous succomber",
+      "start": 69800,
+      "end": 69829,
+      "label": "MISC"
+    },
+    {
+      "text": "Quand au festin d'amour",
+      "start": 69831,
+      "end": 69854,
+      "label": "MISC"
+    },
+    {
+      "text": ".",
+      "start": 69917,
+      "end": 69918,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69919,
+      "end": 69920,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69921,
+      "end": 69922,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69923,
+      "end": 69924,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69925,
+      "end": 69926,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69927,
+      "end": 69928,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69929,
+      "end": 69930,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69931,
+      "end": 69932,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69933,
+      "end": 69934,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69935,
+      "end": 69936,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69937,
+      "end": 69938,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69939,
+      "end": 69940,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69941,
+      "end": 69942,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69943,
+      "end": 69944,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69945,
+      "end": 69946,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69947,
+      "end": 69948,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69949,
+      "end": 69950,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69951,
+      "end": 69952,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69953,
+      "end": 69954,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 69955,
+      "end": 69956,
+      "label": "LOC"
+    },
+    {
+      "text": "Séville",
+      "start": 69986,
+      "end": 69993,
+      "label": "LOC"
+    },
+    {
+      "text": "Pour un soldat normand",
+      "start": 70041,
+      "end": 70063,
+      "label": "MISC"
+    },
+    {
+      "text": "Et l'entraîna",
+      "start": 70085,
+      "end": 70098,
+      "label": "MISC"
+    },
+    {
+      "text": "Andalousie",
+      "start": 70145,
+      "end": 70155,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70189,
+      "end": 70190,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70191,
+      "end": 70192,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70193,
+      "end": 70194,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70195,
+      "end": 70196,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70197,
+      "end": 70198,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70199,
+      "end": 70200,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70201,
+      "end": 70202,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70203,
+      "end": 70204,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70205,
+      "end": 70206,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70207,
+      "end": 70208,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70209,
+      "end": 70210,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70211,
+      "end": 70212,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70213,
+      "end": 70214,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70215,
+      "end": 70216,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70217,
+      "end": 70218,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70219,
+      "end": 70220,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70221,
+      "end": 70222,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70223,
+      "end": 70224,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70225,
+      "end": 70226,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70227,
+      "end": 70228,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70229,
+      "end": 70230,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 70275,
+      "end": 70281,
+      "label": "LOC"
+    },
+    {
+      "text": "grand Empereur",
+      "start": 70297,
+      "end": 70311,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 70366,
+      "end": 70375,
+      "label": "LOC"
+    },
+    {
+      "text": "Byron",
+      "start": 70481,
+      "end": 70486,
+      "label": "PER"
+    },
+    {
+      "text": "Paquita",
+      "start": 70500,
+      "end": 70507,
+      "label": "LOC"
+    },
+    {
+      "text": "cathédrale de Rouen",
+      "start": 70550,
+      "end": 70569,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge",
+      "start": 70587,
+      "end": 70593,
+      "label": "LOC"
+    },
+    {
+      "text": "Quoique vierge est femme, et jamais ne pardonne Aux traîtres en serments d'amour",
+      "start": 70599,
+      "end": 70679,
+      "label": "MISC"
+    },
+    {
+      "text": "Paquita",
+      "start": 70758,
+      "end": 70765,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouen",
+      "start": 70777,
+      "end": 70782,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 71102,
+      "end": 71103,
+      "label": "LOC"
+    },
+    {
+      "text": "Digne",
+      "start": 71143,
+      "end": 71148,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie Jusque",
+      "start": 71212,
+      "end": 71225,
+      "label": "ORG"
+    },
+    {
+      "text": "Accueillit",
+      "start": 71249,
+      "end": 71259,
+      "label": "PER"
+    },
+    {
+      "text": ".",
+      "start": 71301,
+      "end": 71302,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71303,
+      "end": 71304,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71305,
+      "end": 71306,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71307,
+      "end": 71308,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71309,
+      "end": 71310,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71311,
+      "end": 71312,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71313,
+      "end": 71314,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71315,
+      "end": 71316,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71317,
+      "end": 71318,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71319,
+      "end": 71320,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71321,
+      "end": 71322,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71323,
+      "end": 71324,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71325,
+      "end": 71326,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71327,
+      "end": 71328,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71329,
+      "end": 71330,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71331,
+      "end": 71332,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71333,
+      "end": 71334,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71335,
+      "end": 71336,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 71337,
+      "end": 71338,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 71463,
+      "end": 71473,
+      "label": "PER"
+    },
+    {
+      "text": "Paquita",
+      "start": 71475,
+      "end": 71482,
+      "label": "MISC"
+    },
+    {
+      "text": "Héloïse",
+      "start": 71559,
+      "end": 71566,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 71570,
+      "end": 71575,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 71682,
+      "end": 71686,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouen",
+      "start": 71767,
+      "end": 71772,
+      "label": "LOC"
+    },
+    {
+      "text": "Paquita",
+      "start": 71815,
+      "end": 71822,
+      "label": "MISC"
+    },
+    {
+      "text": "Poésie",
+      "start": 71970,
+      "end": 71976,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Andalouse",
+      "start": 72146,
+      "end": 72157,
+      "label": "LOC"
+    },
+    {
+      "text": "Paquita",
+      "start": 72207,
+      "end": 72214,
+      "label": "MISC"
+    },
+    {
+      "text": "Et c'était elle qui chantait :",
+      "start": 72248,
+      "end": 72278,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 72299,
+      "end": 72308,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 72742,
+      "end": 72747,
+      "label": "PER"
+    },
+    {
+      "text": "Paquita",
+      "start": 72877,
+      "end": 72884,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 72911,
+      "end": 72916,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 73023,
+      "end": 73033,
+      "label": "PER"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 73099,
+      "end": 73107,
+      "label": "PER"
+    },
+    {
+      "text": "Moulins",
+      "start": 73110,
+      "end": 73117,
+      "label": "LOC"
+    },
+    {
+      "text": "Nevers",
+      "start": 73121,
+      "end": 73127,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 73131,
+      "end": 73138,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 73146,
+      "end": 73151,
+      "label": "PER"
+    },
+    {
+      "text": "Chêne de la Messe",
+      "start": 73321,
+      "end": 73338,
+      "label": "LOC"
+    },
+    {
+      "text": "Nivernais",
+      "start": 73357,
+      "end": 73366,
+      "label": "LOC"
+    },
+    {
+      "text": "Nevers",
+      "start": 73398,
+      "end": 73404,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Saulge",
+      "start": 73416,
+      "end": 73428,
+      "label": "PER"
+    },
+    {
+      "text": "forêt de Faye",
+      "start": 73574,
+      "end": 73587,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangile ils",
+      "start": 73829,
+      "end": 73841,
+      "label": "MISC"
+    },
+    {
+      "text": "Faye",
+      "start": 73914,
+      "end": 73918,
+      "label": "LOC"
+    },
+    {
+      "text": "Paquita la Sévillane",
+      "start": 73953,
+      "end": 73973,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 74029,
+      "end": 74050,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 74193,
+      "end": 74198,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 74256,
+      "end": 74267,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges Sand",
+      "start": 74750,
+      "end": 74762,
+      "label": "PER"
+    },
+    {
+      "text": "Berry",
+      "start": 74778,
+      "end": 74783,
+      "label": "LOC"
+    },
+    {
+      "text": "La Châtre",
+      "start": 74816,
+      "end": 74825,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 74870,
+      "end": 74885,
+      "label": "PER"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 74889,
+      "end": 74903,
+      "label": "PER"
+    },
+    {
+      "text": "Dixièmes Muses",
+      "start": 75003,
+      "end": 75017,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 75021,
+      "end": 75027,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 75209,
+      "end": 75216,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 75271,
+      "end": 75277,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 75439,
+      "end": 75445,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroziers",
+      "start": 75538,
+      "end": 75548,
+      "label": "PER"
+    },
+    {
+      "text": "Moulins",
+      "start": 75552,
+      "end": 75559,
+      "label": "LOC"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 75575,
+      "end": 75583,
+      "label": "PER"
+    },
+    {
+      "text": "Lettres",
+      "start": 75645,
+      "end": 75652,
+      "label": "LOC"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 75949,
+      "end": 75957,
+      "label": "PER"
+    },
+    {
+      "text": "Bourges",
+      "start": 76008,
+      "end": 76015,
+      "label": "LOC"
+    },
+    {
+      "text": "Biographies Universelles",
+      "start": 76068,
+      "end": 76092,
+      "label": "ORG"
+    },
+    {
+      "text": "de Bourges",
+      "start": 76150,
+      "end": 76160,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 76211,
+      "end": 76219,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 76221,
+      "end": 76229,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristesse",
+      "start": 76386,
+      "end": 76395,
+      "label": "MISC"
+    },
+    {
+      "text": "Paquita la Sévillane",
+      "start": 76433,
+      "end": 76453,
+      "label": "PER"
+    },
+    {
+      "text": "Chêne",
+      "start": 76460,
+      "end": 76465,
+      "label": "LOC"
+    },
+    {
+      "text": "cathédrale de Bourges",
+      "start": 76516,
+      "end": 76537,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Cœur",
+      "start": 76555,
+      "end": 76567,
+      "label": "PER"
+    },
+    {
+      "text": "Carola",
+      "start": 76598,
+      "end": 76604,
+      "label": "ORG"
+    },
+    {
+      "text": "Nièvre",
+      "start": 76831,
+      "end": 76837,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonnais",
+      "start": 76842,
+      "end": 76853,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 76858,
+      "end": 76862,
+      "label": "LOC"
+    },
+    {
+      "text": "Morvan",
+      "start": 76869,
+      "end": 76875,
+      "label": "LOC"
+    },
+    {
+      "text": "Château Chinon",
+      "start": 76904,
+      "end": 76918,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 77168,
+      "end": 77177,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 77365,
+      "end": 77371,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 77410,
+      "end": 77415,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 77569,
+      "end": 77574,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 77630,
+      "end": 77636,
+      "label": "PER"
+    },
+    {
+      "text": "Berrichons",
+      "start": 77674,
+      "end": 77684,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 77790,
+      "end": 77798,
+      "label": "PER"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 77871,
+      "end": 77879,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 77907,
+      "end": 77915,
+      "label": "ORG"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 77931,
+      "end": 77939,
+      "label": "PER"
+    },
+    {
+      "text": "arrondissement de Sancerre",
+      "start": 77997,
+      "end": 78023,
+      "label": "LOC"
+    },
+    {
+      "text": "George Sand",
+      "start": 78097,
+      "end": 78108,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 78117,
+      "end": 78125,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 78134,
+      "end": 78141,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 78442,
+      "end": 78452,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 78468,
+      "end": 78489,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 78622,
+      "end": 78627,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna Grossetête",
+      "start": 78768,
+      "end": 78783,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 78881,
+      "end": 78891,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Duret",
+      "start": 78964,
+      "end": 78974,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 78990,
+      "end": 78995,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 79046,
+      "end": 79050,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 79299,
+      "end": 79304,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 79337,
+      "end": 79348,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 79606,
+      "end": 79611,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 79852,
+      "end": 79856,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 80063,
+      "end": 80074,
+      "label": "MISC"
+    },
+    {
+      "text": "Milaud de Nevers",
+      "start": 80247,
+      "end": 80263,
+      "label": "PER"
+    },
+    {
+      "text": "Nivernais",
+      "start": 80330,
+      "end": 80339,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 80344,
+      "end": 80354,
+      "label": "LOC"
+    },
+    {
+      "text": "Morvan",
+      "start": 80359,
+      "end": 80365,
+      "label": "LOC"
+    },
+    {
+      "text": "Berry",
+      "start": 80370,
+      "end": 80375,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 80400,
+      "end": 80421,
+      "label": "PER"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 80455,
+      "end": 80463,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 80474,
+      "end": 80485,
+      "label": "MISC"
+    },
+    {
+      "text": "Paquita la Sévillane",
+      "start": 80567,
+      "end": 80587,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 80655,
+      "end": 80660,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 80790,
+      "end": 80795,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 80942,
+      "end": 80947,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 81232,
+      "end": 81239,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 81454,
+      "end": 81465,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 81594,
+      "end": 81599,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 81744,
+      "end": 81754,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 81767,
+      "end": 81788,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 81875,
+      "end": 81896,
+      "label": "PER"
+    },
+    {
+      "text": "Président du Tribunal",
+      "start": 82037,
+      "end": 82058,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot Chandier",
+      "start": 82087,
+      "end": 82103,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 82168,
+      "end": 82179,
+      "label": "LOC"
+    },
+    {
+      "text": "Gatien",
+      "start": 82224,
+      "end": 82230,
+      "label": "PER"
+    },
+    {
+      "text": "Sapho de Saint Satur",
+      "start": 82343,
+      "end": 82363,
+      "label": "PER"
+    },
+    {
+      "text": "Présidente",
+      "start": 82368,
+      "end": 82378,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 82434,
+      "end": 82439,
+      "label": "PER"
+    },
+    {
+      "text": "Muse",
+      "start": 82517,
+      "end": 82521,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Clagny",
+      "start": 82593,
+      "end": 82609,
+      "label": "PER"
+    },
+    {
+      "text": "Berry",
+      "start": 82729,
+      "end": 82734,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 83022,
+      "end": 83027,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 83099,
+      "end": 83105,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat Général",
+      "start": 83150,
+      "end": 83164,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83167,
+      "end": 83172,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 83351,
+      "end": 83359,
+      "label": "ORG"
+    },
+    {
+      "text": "Clagny",
+      "start": 83427,
+      "end": 83433,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Baudraye",
+      "start": 83435,
+      "end": 83456,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83480,
+      "end": 83485,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 83499,
+      "end": 83507,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 83606,
+      "end": 83611,
+      "label": "PER"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 83653,
+      "end": 83669,
+      "label": "ORG"
+    },
+    {
+      "text": "Président Boirouge",
+      "start": 83789,
+      "end": 83807,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 83830,
+      "end": 83837,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 83895,
+      "end": 83900,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 83933,
+      "end": 83944,
+      "label": "MISC"
+    },
+    {
+      "text": "Doctrinaires",
+      "start": 83968,
+      "end": 83980,
+      "label": "MISC"
+    },
+    {
+      "text": "Préfet",
+      "start": 83995,
+      "end": 84001,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 84069,
+      "end": 84077,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 84107,
+      "end": 84128,
+      "label": "PER"
+    },
+    {
+      "text": "assortis",
+      "start": 84241,
+      "end": 84249,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 84326,
+      "end": 84333,
+      "label": "ORG"
+    },
+    {
+      "text": "Dinah",
+      "start": 84354,
+      "end": 84359,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 84673,
+      "end": 84678,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 84774,
+      "end": 84785,
+      "label": "MISC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 85007,
+      "end": 85017,
+      "label": "LOC"
+    },
+    {
+      "text": "Telle",
+      "start": 85323,
+      "end": 85328,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 85333,
+      "end": 85338,
+      "label": "LOC"
+    },
+    {
+      "text": "Clagny",
+      "start": 85429,
+      "end": 85435,
+      "label": "LOC"
+    },
+    {
+      "text": "château d'Anzy",
+      "start": 85494,
+      "end": 85508,
+      "label": "LOC"
+    },
+    {
+      "text": "Philibert de Lorme",
+      "start": 85632,
+      "end": 85650,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 85914,
+      "end": 85922,
+      "label": "MISC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 86028,
+      "end": 86039,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 86259,
+      "end": 86267,
+      "label": "MISC"
+    },
+    {
+      "text": "Élections une des deux célébrités du pays",
+      "start": 86291,
+      "end": 86332,
+      "label": "MISC"
+    },
+    {
+      "text": "Gatien Boirouge",
+      "start": 86375,
+      "end": 86390,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 86416,
+      "end": 86424,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 86433,
+      "end": 86440,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 86600,
+      "end": 86608,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 86673,
+      "end": 86678,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 86716,
+      "end": 86737,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 86853,
+      "end": 86861,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 86865,
+      "end": 86873,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 86931,
+      "end": 86939,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 87107,
+      "end": 87116,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 87331,
+      "end": 87339,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 87403,
+      "end": 87411,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 87450,
+      "end": 87455,
+      "label": "LOC"
+    },
+    {
+      "text": "Déjà chauve",
+      "start": 87613,
+      "end": 87624,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 87751,
+      "end": 87763,
+      "label": "MISC"
+    },
+    {
+      "text": "Presse",
+      "start": 87855,
+      "end": 87861,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 88290,
+      "end": 88305,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 88320,
+      "end": 88336,
+      "label": "ORG"
+    },
+    {
+      "text": "Clagny",
+      "start": 88713,
+      "end": 88719,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Baudraye",
+      "start": 88758,
+      "end": 88779,
+      "label": "PER"
+    },
+    {
+      "text": "Gatien Boirouge",
+      "start": 88802,
+      "end": 88817,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 88865,
+      "end": 88874,
+      "label": "LOC"
+    },
+    {
+      "text": "château d'Anzy",
+      "start": 88906,
+      "end": 88920,
+      "label": "LOC"
+    },
+    {
+      "text": "Dinah",
+      "start": 88936,
+      "end": 88941,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 89001,
+      "end": 89012,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Gravier",
+      "start": 89014,
+      "end": 89030,
+      "label": "PER"
+    },
+    {
+      "text": "Procureur",
+      "start": 89035,
+      "end": 89044,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 89048,
+      "end": 89051,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 89056,
+      "end": 89065,
+      "label": "PER"
+    },
+    {
+      "text": "Gatien Boirouge",
+      "start": 89069,
+      "end": 89084,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 89234,
+      "end": 89245,
+      "label": "MISC"
+    },
+    {
+      "text": "Jan Diaz",
+      "start": 89252,
+      "end": 89260,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 89271,
+      "end": 89280,
+      "label": "LOC"
+    },
+    {
+      "text": "Gatien",
+      "start": 89364,
+      "end": 89370,
+      "label": "PER"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 89437,
+      "end": 89448,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 89458,
+      "end": 89467,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancerrois",
+      "start": 89511,
+      "end": 89521,
+      "label": "LOC"
+    },
+    {
+      "text": "George Sand",
+      "start": 89590,
+      "end": 89601,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 89648,
+      "end": 89653,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 89712,
+      "end": 89720,
+      "label": "PER"
+    },
+    {
+      "text": "Anzy",
+      "start": 89818,
+      "end": 89822,
+      "label": "PER"
+    },
+    {
+      "text": "casimir noir",
+      "start": 89863,
+      "end": 89875,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 90001,
+      "end": 90006,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 90045,
+      "end": 90052,
+      "label": "PER"
+    },
+    {
+      "text": "Berry",
+      "start": 90271,
+      "end": 90276,
+      "label": "LOC"
+    },
+    {
+      "text": "La Baudraye",
+      "start": 90602,
+      "end": 90613,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 90712,
+      "end": 90717,
+      "label": "PER"
+    },
+    {
+      "text": "Anzy",
+      "start": 90819,
+      "end": 90823,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 91021,
+      "end": 91025,
+      "label": "MISC"
+    },
+    {
+      "text": "vendange",
+      "start": 91635,
+      "end": 91643,
+      "label": "LOC"
+    },
+    {
+      "text": "fichus",
+      "start": 91716,
+      "end": 91722,
+      "label": "LOC"
+    },
+    {
+      "text": "château d'Anzy",
+      "start": 91930,
+      "end": 91944,
+      "label": "LOC"
+    },
+    {
+      "text": "parole de Dieu",
+      "start": 92005,
+      "end": 92019,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Fritaud",
+      "start": 92037,
+      "end": 92049,
+      "label": "PER"
+    },
+    {
+      "text": "Guinard",
+      "start": 92059,
+      "end": 92066,
+      "label": "PER"
+    },
+    {
+      "text": "Mail",
+      "start": 92258,
+      "end": 92262,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 92746,
+      "end": 92754,
+      "label": "PER"
+    },
+    {
+      "text": "mulot",
+      "start": 93013,
+      "end": 93018,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 93046,
+      "end": 93051,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 93421,
+      "end": 93429,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 93560,
+      "end": 93565,
+      "label": "PER"
+    },
+    {
+      "text": "Gatien Boirouge",
+      "start": 93641,
+      "end": 93656,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 93675,
+      "end": 93683,
+      "label": "MISC"
+    },
+    {
+      "text": "Hein",
+      "start": 93738,
+      "end": 93742,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 93786,
+      "end": 93794,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 93839,
+      "end": 93844,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 93928,
+      "end": 93932,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 94016,
+      "end": 94024,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de La Baudraye",
+      "start": 94026,
+      "end": 94047,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 94115,
+      "end": 94124,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 94567,
+      "end": 94573,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 94590,
+      "end": 94595,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 94713,
+      "end": 94721,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisien",
+      "start": 94821,
+      "end": 94829,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 95327,
+      "end": 95337,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 95598,
+      "end": 95608,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 95660,
+      "end": 95668,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 95759,
+      "end": 95763,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 95768,
+      "end": 95772,
+      "label": "MISC"
+    },
+    {
+      "text": "Dinah",
+      "start": 95781,
+      "end": 95786,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 96205,
+      "end": 96213,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96445,
+      "end": 96450,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 96456,
+      "end": 96464,
+      "label": "MISC"
+    },
+    {
+      "text": "Dam",
+      "start": 96505,
+      "end": 96508,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 96785,
+      "end": 96793,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96797,
+      "end": 96802,
+      "label": "LOC"
+    },
+    {
+      "text": "États",
+      "start": 97030,
+      "end": 97035,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 97191,
+      "end": 97197,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 97202,
+      "end": 97208,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 97215,
+      "end": 97224,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 97235,
+      "end": 97241,
+      "label": "LOC"
+    },
+    {
+      "text": "États français",
+      "start": 97464,
+      "end": 97478,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 97507,
+      "end": 97515,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 97557,
+      "end": 97566,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 97611,
+      "end": 97619,
+      "label": "PER"
+    },
+    {
+      "text": "L'Angleterre",
+      "start": 97623,
+      "end": 97635,
+      "label": "ORG"
+    },
+    {
+      "text": "Dinah",
+      "start": 97671,
+      "end": 97676,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 97678,
+      "end": 97685,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 97717,
+      "end": 97722,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 97741,
+      "end": 97747,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 98141,
+      "end": 98148,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 98277,
+      "end": 98284,
+      "label": "LOC"
+    },
+    {
+      "text": "Albion du Constitutionnel",
+      "start": 98760,
+      "end": 98785,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 98795,
+      "end": 98803,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 98995,
+      "end": 99016,
+      "label": "PER"
+    },
+    {
+      "text": "Piédefer",
+      "start": 99113,
+      "end": 99121,
+      "label": "PER"
+    },
+    {
+      "text": "Piédefer",
+      "start": 99232,
+      "end": 99240,
+      "label": "PER"
+    },
+    {
+      "text": "Dinah",
+      "start": 99318,
+      "end": 99323,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 99335,
+      "end": 99344,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 99381,
+      "end": 99385,
+      "label": "MISC"
+    },
+    {
+      "text": "Gatien",
+      "start": 99396,
+      "end": 99402,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 99405,
+      "end": 99413,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 99482,
+      "end": 99490,
+      "label": "LOC"
+    },
+    {
+      "text": "Gatien",
+      "start": 99617,
+      "end": 99623,
+      "label": "PER"
+    },
+    {
+      "text": "Pardon",
+      "start": 99637,
+      "end": 99643,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 99681,
+      "end": 99689,
+      "label": "MISC"
+    },
+    {
+      "text": "Demandez",
+      "start": 99745,
+      "end": 99753,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 99756,
+      "end": 99764,
+      "label": "LOC"
+    },
+    {
+      "text": "Gatien Boirouge",
+      "start": 99929,
+      "end": 99944,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Baudraye",
+      "start": 99968,
+      "end": 99989,
+      "label": "PER"
+    }
+  ]
+}

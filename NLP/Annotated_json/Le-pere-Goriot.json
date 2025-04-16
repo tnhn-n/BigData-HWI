@@ -1,0 +1,4432 @@
+{
+  "entities": [
+    {
+      "text": "PÈRE GORIOT",
+      "start": 3,
+      "end": 14,
+      "label": "ORG"
+    },
+    {
+      "text": "GRAND",
+      "start": 25,
+      "end": 30,
+      "label": "ORG"
+    },
+    {
+      "text": "ILLUSTRE GEOFFROY SAINT",
+      "start": 34,
+      "end": 57,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 135,
+      "end": 141,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 149,
+      "end": 163,
+      "label": "PER"
+    },
+    {
+      "text": "Conflans",
+      "start": 172,
+      "end": 180,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 238,
+      "end": 243,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve Sainte Geneviève",
+      "start": 279,
+      "end": 301,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 342,
+      "end": 355,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 397,
+      "end": 411,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 1217,
+      "end": 1222,
+      "label": "LOC"
+    },
+    {
+      "text": "buttes de Montmartre",
+      "start": 1365,
+      "end": 1385,
+      "label": "LOC"
+    },
+    {
+      "text": "Montrouge",
+      "start": 1405,
+      "end": 1414,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 2392,
+      "end": 2398,
+      "label": "MISC"
+    },
+    {
+      "text": "All is true",
+      "start": 2598,
+      "end": 2609,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 2770,
+      "end": 2784,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve",
+      "start": 2824,
+      "end": 2829,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 2830,
+      "end": 2846,
+      "label": "PER"
+    },
+    {
+      "text": "rue de l'Arbalète",
+      "start": 2892,
+      "end": 2909,
+      "label": "LOC"
+    },
+    {
+      "text": "dôme du Val de Grâce",
+      "start": 3085,
+      "end": 3105,
+      "label": "LOC"
+    },
+    {
+      "text": "Panthéon",
+      "start": 3120,
+      "end": 3128,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 3567,
+      "end": 3575,
+      "label": "LOC"
+    },
+    {
+      "text": "Institutions",
+      "start": 3632,
+      "end": 3644,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 3766,
+      "end": 3771,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve",
+      "start": 3829,
+      "end": 3834,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 3835,
+      "end": 3851,
+      "label": "PER"
+    },
+    {
+      "text": "Catacombes",
+      "start": 4141,
+      "end": 4151,
+      "label": "MISC"
+    },
+    {
+      "text": "Neuve",
+      "start": 4369,
+      "end": 4374,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 4375,
+      "end": 4391,
+      "label": "PER"
+    },
+    {
+      "text": "MAISON VAUQUER",
+      "start": 4791,
+      "end": 4805,
+      "label": "MISC"
+    },
+    {
+      "text": "Pension",
+      "start": 4820,
+      "end": 4827,
+      "label": "PER"
+    },
+    {
+      "text": "Amour",
+      "start": 5149,
+      "end": 5154,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 5447,
+      "end": 5455,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5469,
+      "end": 5474,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5904,
+      "end": 5909,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 6052,
+      "end": 6066,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 6210,
+      "end": 6224,
+      "label": "PER"
+    },
+    {
+      "text": "Conflans",
+      "start": 6241,
+      "end": 6249,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 6930,
+      "end": 6935,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve",
+      "start": 7599,
+      "end": 7604,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 7605,
+      "end": 7621,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 7844,
+      "end": 7852,
+      "label": "LOC"
+    },
+    {
+      "text": "crin",
+      "start": 8226,
+      "end": 8230,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Anne",
+      "start": 8330,
+      "end": 8341,
+      "label": "PER"
+    },
+    {
+      "text": "Télémaque",
+      "start": 8622,
+      "end": 8631,
+      "label": "PER"
+    },
+    {
+      "text": "Ulysse",
+      "start": 8787,
+      "end": 8793,
+      "label": "PER"
+    },
+    {
+      "text": "Calypso",
+      "start": 8798,
+      "end": 8805,
+      "label": "ORG"
+    },
+    {
+      "text": "Tournai",
+      "start": 10347,
+      "end": 10354,
+      "label": "LOC"
+    },
+    {
+      "text": "Incurables",
+      "start": 10623,
+      "end": 10633,
+      "label": "LOC"
+    },
+    {
+      "text": "Argand",
+      "start": 10870,
+      "end": 10876,
+      "label": "LOC"
+    },
+    {
+      "text": "pourri",
+      "start": 11330,
+      "end": 11336,
+      "label": "PER"
+    },
+    {
+      "text": "invalide",
+      "start": 11373,
+      "end": 11381,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 11907,
+      "end": 11921,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 12535,
+      "end": 12549,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 13403,
+      "end": 13417,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 13642,
+      "end": 13649,
+      "label": "PER"
+    },
+    {
+      "text": "Pichegru",
+      "start": 13653,
+      "end": 13661,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 13666,
+      "end": 13673,
+      "label": "MISC"
+    },
+    {
+      "text": "Pichegru",
+      "start": 13677,
+      "end": 13685,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 13873,
+      "end": 13880,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 14276,
+      "end": 14289,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 14626,
+      "end": 14640,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 14698,
+      "end": 14712,
+      "label": "PER"
+    },
+    {
+      "text": "Commissaire Ordonnateur",
+      "start": 14725,
+      "end": 14748,
+      "label": "PER"
+    },
+    {
+      "text": "République française",
+      "start": 14755,
+      "end": 14775,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine Taillefer",
+      "start": 14830,
+      "end": 14849,
+      "label": "PER"
+    },
+    {
+      "text": "Poiret",
+      "start": 15018,
+      "end": 15024,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 15176,
+      "end": 15192,
+      "label": "MISC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 15320,
+      "end": 15330,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 15393,
+      "end": 15399,
+      "label": "LOC"
+    },
+    {
+      "text": "Père Goriot",
+      "start": 15439,
+      "end": 15450,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 15565,
+      "end": 15571,
+      "label": "MISC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 15588,
+      "end": 15598,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 15698,
+      "end": 15712,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 15918,
+      "end": 15927,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15930,
+      "end": 15935,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 15953,
+      "end": 15958,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 16076,
+      "end": 16095,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16546,
+      "end": 16551,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 16926,
+      "end": 16936,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 16944,
+      "end": 16957,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 17013,
+      "end": 17027,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 17069,
+      "end": 17074,
+      "label": "ORG"
+    },
+    {
+      "text": "Médecine",
+      "start": 17081,
+      "end": 17089,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 17670,
+      "end": 17684,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marcel",
+      "start": 18001,
+      "end": 18013,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbe",
+      "start": 18024,
+      "end": 18030,
+      "label": "LOC"
+    },
+    {
+      "text": "Salpêtrière",
+      "start": 18037,
+      "end": 18048,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 18060,
+      "end": 18074,
+      "label": "PER"
+    },
+    {
+      "text": "Michonneau",
+      "start": 19292,
+      "end": 19302,
+      "label": "PER"
+    },
+    {
+      "text": "Pitié",
+      "start": 19435,
+      "end": 19440,
+      "label": "LOC"
+    },
+    {
+      "text": "vessie",
+      "start": 20187,
+      "end": 20193,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Poiret",
+      "start": 20624,
+      "end": 20639,
+      "label": "PER"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 20742,
+      "end": 20760,
+      "label": "LOC"
+    },
+    {
+      "text": "Japhet",
+      "start": 21295,
+      "end": 21301,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de la Justice",
+      "start": 21550,
+      "end": 21573,
+      "label": "ORG"
+    },
+    {
+      "text": "Ratons",
+      "start": 21961,
+      "end": 21967,
+      "label": "MISC"
+    },
+    {
+      "text": "Bertrands",
+      "start": 22012,
+      "end": 22021,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 22201,
+      "end": 22206,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22275,
+      "end": 22280,
+      "label": "LOC"
+    },
+    {
+      "text": "Jetez",
+      "start": 22305,
+      "end": 22310,
+      "label": "LOC"
+    },
+    {
+      "text": "Parcourez",
+      "start": 22366,
+      "end": 22375,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 22692,
+      "end": 22706,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 23485,
+      "end": 23494,
+      "label": "MISC"
+    },
+    {
+      "text": "Heureuse",
+      "start": 23685,
+      "end": 23693,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 24012,
+      "end": 24021,
+      "label": "PER"
+    },
+    {
+      "text": "mère de",
+      "start": 24459,
+      "end": 24466,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 24467,
+      "end": 24476,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 24531,
+      "end": 24545,
+      "label": "PER"
+    },
+    {
+      "text": "Commissaire Ordonnateur",
+      "start": 24623,
+      "end": 24646,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine",
+      "start": 24862,
+      "end": 24871,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 25407,
+      "end": 25411,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Couture",
+      "start": 25518,
+      "end": 25532,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 25536,
+      "end": 25550,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 25704,
+      "end": 25713,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 25835,
+      "end": 25854,
+      "label": "PER"
+    },
+    {
+      "text": "flétrie",
+      "start": 26377,
+      "end": 26384,
+      "label": "PER"
+    },
+    {
+      "text": "de l'Étudiant",
+      "start": 26396,
+      "end": 26409,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 26504,
+      "end": 26511,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 27188,
+      "end": 27190,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 27261,
+      "end": 27267,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 27478,
+      "end": 27492,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 28194,
+      "end": 28201,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 28419,
+      "end": 28426,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 28873,
+      "end": 28880,
+      "label": "PER"
+    },
+    {
+      "text": "Juvénal",
+      "start": 29240,
+      "end": 29247,
+      "label": "PER"
+    },
+    {
+      "text": "Attirée",
+      "start": 29516,
+      "end": 29523,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 29610,
+      "end": 29619,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 30678,
+      "end": 30685,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 31149,
+      "end": 31154,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 31748,
+      "end": 31767,
+      "label": "PER"
+    },
+    {
+      "text": "Patiras",
+      "start": 31878,
+      "end": 31885,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 31923,
+      "end": 31929,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 32744,
+      "end": 32750,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 32812,
+      "end": 32826,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 32919,
+      "end": 32933,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 33006,
+      "end": 33011,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 33055,
+      "end": 33069,
+      "label": "PER"
+    },
+    {
+      "text": "Utrecht",
+      "start": 33297,
+      "end": 33304,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 33471,
+      "end": 33477,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 33539,
+      "end": 33545,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 33626,
+      "end": 33632,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 33761,
+      "end": 33775,
+      "label": "PER"
+    },
+    {
+      "text": "Habituellement",
+      "start": 34010,
+      "end": 34024,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 35026,
+      "end": 35040,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 35295,
+      "end": 35300,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 35588,
+      "end": 35602,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 35739,
+      "end": 35745,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 35804,
+      "end": 35818,
+      "label": "PER"
+    },
+    {
+      "text": "Conflans",
+      "start": 35827,
+      "end": 35835,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 35962,
+      "end": 35968,
+      "label": "MISC"
+    },
+    {
+      "text": "charnu",
+      "start": 36123,
+      "end": 36129,
+      "label": "PER"
+    },
+    {
+      "text": "Polytechnique",
+      "start": 36464,
+      "end": 36477,
+      "label": "ORG"
+    },
+    {
+      "text": "Goriot",
+      "start": 36789,
+      "end": 36795,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 36818,
+      "end": 36832,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 36952,
+      "end": 36959,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 36977,
+      "end": 36983,
+      "label": "MISC"
+    },
+    {
+      "text": "Choisy",
+      "start": 37176,
+      "end": 37182,
+      "label": "LOC"
+    },
+    {
+      "text": "Soissy",
+      "start": 37184,
+      "end": 37190,
+      "label": "LOC"
+    },
+    {
+      "text": "Gentilly",
+      "start": 37192,
+      "end": 37200,
+      "label": "LOC"
+    },
+    {
+      "text": "Eldorado",
+      "start": 37369,
+      "end": 37377,
+      "label": "PER"
+    },
+    {
+      "text": "sou",
+      "start": 37486,
+      "end": 37489,
+      "label": "PER"
+    },
+    {
+      "text": "sou",
+      "start": 37492,
+      "end": 37495,
+      "label": "MISC"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 37714,
+      "end": 37727,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 37817,
+      "end": 37824,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 37857,
+      "end": 37863,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 38285,
+      "end": 38291,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 38357,
+      "end": 38362,
+      "label": "LOC"
+    },
+    {
+      "text": "MAISON VAUQUER",
+      "start": 38443,
+      "end": 38457,
+      "label": "MISC"
+    },
+    {
+      "text": "vallée des Gobelins",
+      "start": 38611,
+      "end": 38630,
+      "label": "LOC"
+    },
+    {
+      "text": "S'ÉTENDAIT",
+      "start": 38703,
+      "end": 38713,
+      "label": "MISC"
+    },
+    {
+      "text": "ALLÉE",
+      "start": 38718,
+      "end": 38723,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 39024,
+      "end": 39038,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 39213,
+      "end": 39227,
+      "label": "PER"
+    },
+    {
+      "text": "Vaumerland",
+      "start": 39293,
+      "end": 39303,
+      "label": "LOC"
+    },
+    {
+      "text": "Picquoiseau",
+      "start": 39333,
+      "end": 39344,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 39383,
+      "end": 39389,
+      "label": "LOC"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 39450,
+      "end": 39464,
+      "label": "MISC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 39523,
+      "end": 39530,
+      "label": "MISC"
+    },
+    {
+      "text": "Guerre",
+      "start": 39537,
+      "end": 39543,
+      "label": "MISC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 39597,
+      "end": 39604,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 39695,
+      "end": 39709,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de l'Ambermesnil",
+      "start": 39836,
+      "end": 39859,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 39909,
+      "end": 39915,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 40028,
+      "end": 40032,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 40237,
+      "end": 40251,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 40435,
+      "end": 40447,
+      "label": "LOC"
+    },
+    {
+      "text": "Galeries de Bois",
+      "start": 40474,
+      "end": 40490,
+      "label": "ORG"
+    },
+    {
+      "text": "La Petite Jeannette",
+      "start": 40570,
+      "end": 40589,
+      "label": "LOC"
+    },
+    {
+      "text": "Bœuf",
+      "start": 40754,
+      "end": 40758,
+      "label": "LOC"
+    },
+    {
+      "text": "Mode",
+      "start": 40764,
+      "end": 40768,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 41004,
+      "end": 41010,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de l'Ambermesnil",
+      "start": 41048,
+      "end": 41071,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 41598,
+      "end": 41604,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de l'Ambermesnil",
+      "start": 41608,
+      "end": 41631,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 41849,
+      "end": 41856,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 41924,
+      "end": 41929,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 43112,
+      "end": 43126,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 43253,
+      "end": 43260,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 43415,
+      "end": 43429,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 44513,
+      "end": 44519,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 45088,
+      "end": 45094,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 45156,
+      "end": 45162,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 45431,
+      "end": 45438,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 45641,
+      "end": 45647,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 46127,
+      "end": 46133,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 46316,
+      "end": 46322,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 46361,
+      "end": 46375,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 46782,
+      "end": 46788,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 46858,
+      "end": 46865,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 47039,
+      "end": 47046,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 47102,
+      "end": 47108,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 47142,
+      "end": 47148,
+      "label": "MISC"
+    },
+    {
+      "text": "Exploration",
+      "start": 47205,
+      "end": 47216,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 47275,
+      "end": 47281,
+      "label": "MISC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 47567,
+      "end": 47573,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 47581,
+      "end": 47588,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 47628,
+      "end": 47642,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 47652,
+      "end": 47658,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourse",
+      "start": 47690,
+      "end": 47696,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 47982,
+      "end": 47989,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 48052,
+      "end": 48058,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 48613,
+      "end": 48627,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 48829,
+      "end": 48836,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 49124,
+      "end": 49130,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 49468,
+      "end": 49474,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 49476,
+      "end": 49490,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 49639,
+      "end": 49645,
+      "label": "MISC"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 49670,
+      "end": 49683,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 49774,
+      "end": 49780,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 49840,
+      "end": 49846,
+      "label": "MISC"
+    },
+    {
+      "text": "Figurez",
+      "start": 49916,
+      "end": 49923,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 50033,
+      "end": 50047,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 50088,
+      "end": 50094,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 50204,
+      "end": 50210,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 50533,
+      "end": 50539,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 50864,
+      "end": 50870,
+      "label": "MISC"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 50894,
+      "end": 50907,
+      "label": "PER"
+    },
+    {
+      "text": "brune",
+      "start": 50994,
+      "end": 50999,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 51050,
+      "end": 51056,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 51078,
+      "end": 51084,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 51271,
+      "end": 51278,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 51285,
+      "end": 51298,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 51425,
+      "end": 51431,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 51477,
+      "end": 51491,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 51687,
+      "end": 51701,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 52059,
+      "end": 52065,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 52182,
+      "end": 52189,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 52363,
+      "end": 52369,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 52577,
+      "end": 52583,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 52979,
+      "end": 52985,
+      "label": "MISC"
+    },
+    {
+      "text": "Neuve Sainte Geneviève",
+      "start": 53947,
+      "end": 53969,
+      "label": "PER"
+    },
+    {
+      "text": "Médecine",
+      "start": 54523,
+      "end": 54531,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 54744,
+      "end": 54758,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54799,
+      "end": 54803,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 54906,
+      "end": 54912,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 55032,
+      "end": 55036,
+      "label": "MISC"
+    },
+    {
+      "text": "voyez",
+      "start": 55051,
+      "end": 55056,
+      "label": "MISC"
+    },
+    {
+      "text": "Bravo",
+      "start": 55105,
+      "end": 55110,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 55117,
+      "end": 55123,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 55572,
+      "end": 55578,
+      "label": "MISC"
+    },
+    {
+      "text": "Neuve",
+      "start": 55924,
+      "end": 55929,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 55930,
+      "end": 55946,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 56081,
+      "end": 56087,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 56253,
+      "end": 56267,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 56419,
+      "end": 56425,
+      "label": "MISC"
+    },
+    {
+      "text": "Casquettifères",
+      "start": 56976,
+      "end": 56990,
+      "label": "MISC"
+    },
+    {
+      "text": "Muséum",
+      "start": 57013,
+      "end": 57019,
+      "label": "LOC"
+    },
+    {
+      "text": "Poiret",
+      "start": 57047,
+      "end": 57053,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 57093,
+      "end": 57099,
+      "label": "MISC"
+    },
+    {
+      "text": "Poiret",
+      "start": 57101,
+      "end": 57107,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 57392,
+      "end": 57398,
+      "label": "MISC"
+    },
+    {
+      "text": "Muséum",
+      "start": 57427,
+      "end": 57433,
+      "label": "LOC"
+    },
+    {
+      "text": "zéro de Réaumur",
+      "start": 57455,
+      "end": 57470,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 57472,
+      "end": 57491,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 57724,
+      "end": 57729,
+      "label": "LOC"
+    },
+    {
+      "text": "Faculté",
+      "start": 57799,
+      "end": 57806,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 57862,
+      "end": 57867,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours",
+      "start": 58158,
+      "end": 58163,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 58344,
+      "end": 58353,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra Comique",
+      "start": 58481,
+      "end": 58494,
+      "label": "ORG"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 58733,
+      "end": 58747,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 58800,
+      "end": 58806,
+      "label": "PER"
+    },
+    {
+      "text": "Lettres",
+      "start": 58911,
+      "end": 58918,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 58935,
+      "end": 58940,
+      "label": "ORG"
+    },
+    {
+      "text": "terre de Rastignac",
+      "start": 59257,
+      "end": 59275,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 59681,
+      "end": 59686,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Marcillac",
+      "start": 61094,
+      "end": 61113,
+      "label": "PER"
+    },
+    {
+      "text": "École de Droit",
+      "start": 61397,
+      "end": 61411,
+      "label": "ORG"
+    },
+    {
+      "text": "Beauséant",
+      "start": 61695,
+      "end": 61704,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 61815,
+      "end": 61821,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 61963,
+      "end": 61972,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 62004,
+      "end": 62023,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 62213,
+      "end": 62219,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 62247,
+      "end": 62266,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 62627,
+      "end": 62641,
+      "label": "PER"
+    },
+    {
+      "text": "Prado",
+      "start": 62793,
+      "end": 62798,
+      "label": "LOC"
+    },
+    {
+      "text": "Bals",
+      "start": 62806,
+      "end": 62810,
+      "label": "LOC"
+    },
+    {
+      "text": "Odéon",
+      "start": 62816,
+      "end": 62821,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 62921,
+      "end": 62931,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 62975,
+      "end": 62984,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 63070,
+      "end": 63080,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 63106,
+      "end": 63112,
+      "label": "PER"
+    },
+    {
+      "text": "alluma",
+      "start": 63179,
+      "end": 63185,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 63254,
+      "end": 63264,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 63356,
+      "end": 63362,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 63440,
+      "end": 63445,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 63499,
+      "end": 63508,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 63539,
+      "end": 63544,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 63611,
+      "end": 63624,
+      "label": "PER"
+    },
+    {
+      "text": "Marcillac",
+      "start": 63747,
+      "end": 63756,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 64137,
+      "end": 64143,
+      "label": "PER"
+    },
+    {
+      "text": "Anastasie de",
+      "start": 64322,
+      "end": 64334,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 64335,
+      "end": 64342,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 64418,
+      "end": 64423,
+      "label": "LOC"
+    },
+    {
+      "text": "Figurez",
+      "start": 64425,
+      "end": 64432,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 64548,
+      "end": 64571,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 64942,
+      "end": 64951,
+      "label": "LOC"
+    },
+    {
+      "text": "Anastasie de Restaud",
+      "start": 64960,
+      "end": 64980,
+      "label": "PER"
+    },
+    {
+      "text": "Bois",
+      "start": 65287,
+      "end": 65291,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 65297,
+      "end": 65305,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 65535,
+      "end": 65554,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 65687,
+      "end": 65696,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincourt",
+      "start": 65881,
+      "end": 65892,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 65898,
+      "end": 65910,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 65916,
+      "end": 65934,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 65943,
+      "end": 65949,
+      "label": "LOC"
+    },
+    {
+      "text": "Ajuda Pinto",
+      "start": 65955,
+      "end": 65966,
+      "label": "PER"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 65972,
+      "end": 65982,
+      "label": "PER"
+    },
+    {
+      "text": "Brandon",
+      "start": 66077,
+      "end": 66084,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 66089,
+      "end": 66109,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 66126,
+      "end": 66136,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 66138,
+      "end": 66154,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Carigliano",
+      "start": 66159,
+      "end": 66181,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 66195,
+      "end": 66202,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 66204,
+      "end": 66219,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Aiglemont",
+      "start": 66224,
+      "end": 66244,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 66246,
+      "end": 66261,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 66266,
+      "end": 66287,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 66294,
+      "end": 66311,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 66316,
+      "end": 66340,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 66348,
+      "end": 66357,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Montriveau",
+      "start": 66408,
+      "end": 66429,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 66445,
+      "end": 66465,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 66536,
+      "end": 66543,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 66561,
+      "end": 66567,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 66694,
+      "end": 66707,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 66730,
+      "end": 66739,
+      "label": "PER"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 66758,
+      "end": 66774,
+      "label": "LOC"
+    },
+    {
+      "text": "Restaud",
+      "start": 66795,
+      "end": 66802,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66844,
+      "end": 66849,
+      "label": "LOC"
+    },
+    {
+      "text": "Code et la misère",
+      "start": 67277,
+      "end": 67294,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 67315,
+      "end": 67321,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Restaud",
+      "start": 67479,
+      "end": 67496,
+      "label": "PER"
+    },
+    {
+      "text": "saint Joseph",
+      "start": 67536,
+      "end": 67548,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 67804,
+      "end": 67810,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 67812,
+      "end": 67818,
+      "label": "PER"
+    },
+    {
+      "text": "serrure",
+      "start": 67894,
+      "end": 67901,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 68131,
+      "end": 68137,
+      "label": "MISC"
+    },
+    {
+      "text": "Peste !",
+      "start": 68428,
+      "end": 68435,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 68456,
+      "end": 68465,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 68753,
+      "end": 68759,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 68847,
+      "end": 68853,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste",
+      "start": 69104,
+      "end": 69111,
+      "label": "PER"
+    },
+    {
+      "text": "Pologne",
+      "start": 69120,
+      "end": 69127,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 69137,
+      "end": 69143,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 69198,
+      "end": 69204,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 69361,
+      "end": 69367,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 69488,
+      "end": 69494,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 69512,
+      "end": 69521,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 69795,
+      "end": 69801,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 70014,
+      "end": 70030,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 70395,
+      "end": 70409,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 70477,
+      "end": 70484,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 70490,
+      "end": 70497,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 70537,
+      "end": 70547,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 70578,
+      "end": 70584,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 70683,
+      "end": 70688,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 70855,
+      "end": 70861,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Restaud",
+      "start": 70901,
+      "end": 70918,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 71229,
+      "end": 71234,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 71486,
+      "end": 71493,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 71531,
+      "end": 71541,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 71548,
+      "end": 71561,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 71694,
+      "end": 71700,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 71738,
+      "end": 71752,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 71806,
+      "end": 71812,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 71818,
+      "end": 71828,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 71861,
+      "end": 71877,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 71955,
+      "end": 71961,
+      "label": "PER"
+    },
+    {
+      "text": "Tais toi",
+      "start": 72107,
+      "end": 72115,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Couture",
+      "start": 72131,
+      "end": 72145,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 72290,
+      "end": 72296,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 72338,
+      "end": 72348,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 72417,
+      "end": 72423,
+      "label": "MISC"
+    },
+    {
+      "text": "Poiret",
+      "start": 72469,
+      "end": 72475,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 72715,
+      "end": 72718,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 72725,
+      "end": 72731,
+      "label": "PER"
+    },
+    {
+      "text": "papa Vautrin",
+      "start": 72860,
+      "end": 72872,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe",
+      "start": 72874,
+      "end": 72884,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 72920,
+      "end": 72923,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi j'ai dit :   Non, monsieur",
+      "start": 73087,
+      "end": 73117,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 73207,
+      "end": 73223,
+      "label": "MISC"
+    },
+    {
+      "text": "Réponds",
+      "start": 73275,
+      "end": 73282,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 73371,
+      "end": 73373,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 73409,
+      "end": 73413,
+      "label": "MISC"
+    },
+    {
+      "text": "Val de Grâce",
+      "start": 73614,
+      "end": 73626,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah bah !",
+      "start": 73652,
+      "end": 73660,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Couture",
+      "start": 73683,
+      "end": 73697,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Étienne",
+      "start": 73752,
+      "end": 73765,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 73791,
+      "end": 73797,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriot",
+      "start": 73942,
+      "end": 73948,
+      "label": "MISC"
+    },
+    {
+      "text": "Celles",
+      "start": 74313,
+      "end": 74319,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 74451,
+      "end": 74456,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 74457,
+      "end": 74463,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 74550,
+      "end": 74560,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 74579,
+      "end": 74585,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 74622,
+      "end": 74628,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 74819,
+      "end": 74822,
+      "label": "LOC"
+    },
+    {
+      "text": "Parle",
+      "start": 74927,
+      "end": 74932,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 74944,
+      "end": 74950,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 74966,
+      "end": 74973,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 75004,
+      "end": 75008,
+      "label": "MISC"
+    },
+    {
+      "text": "Michonnette",
+      "start": 75097,
+      "end": 75108,
+      "label": "LOC"
+    },
+    {
+      "text": "Poireau",
+      "start": 75115,
+      "end": 75122,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 75234,
+      "end": 75240,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 75316,
+      "end": 75322,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 75406,
+      "end": 75412,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 75423,
+      "end": 75439,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe",
+      "start": 75480,
+      "end": 75490,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 75565,
+      "end": 75572,
+      "label": "PER"
+    },
+    {
+      "text": "Donne moi ma camisole",
+      "start": 75651,
+      "end": 75672,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 75853,
+      "end": 75867,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris !",
+      "start": 76009,
+      "end": 76020,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 76146,
+      "end": 76152,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 76155,
+      "end": 76161,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 76166,
+      "end": 76170,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 76194,
+      "end": 76199,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 76259,
+      "end": 76269,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 76385,
+      "end": 76391,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 76553,
+      "end": 76560,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 76683,
+      "end": 76690,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 76705,
+      "end": 76711,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 76792,
+      "end": 76799,
+      "label": "PER"
+    },
+    {
+      "text": "Et l'on m'a vu de toute part",
+      "start": 76887,
+      "end": 76915,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 76921,
+      "end": 76925,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 76946,
+      "end": 76953,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 77025,
+      "end": 77031,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimer",
+      "start": 77239,
+      "end": 77244,
+      "label": "PER"
+    },
+    {
+      "text": ".",
+      "start": 77309,
+      "end": 77310,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 77359,
+      "end": 77365,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphine",
+      "start": 77399,
+      "end": 77407,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 77608,
+      "end": 77611,
+      "label": "PER"
+    },
+    {
+      "text": "Messageries royales",
+      "start": 77706,
+      "end": 77725,
+      "label": "ORG"
+    },
+    {
+      "text": "Goriot",
+      "start": 77749,
+      "end": 77755,
+      "label": "MISC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 77820,
+      "end": 77832,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 77891,
+      "end": 77898,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque",
+      "start": 78084,
+      "end": 78090,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 78126,
+      "end": 78132,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 78158,
+      "end": 78165,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 78265,
+      "end": 78271,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 78275,
+      "end": 78285,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 78300,
+      "end": 78306,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe",
+      "start": 78324,
+      "end": 78334,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 78350,
+      "end": 78356,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 78407,
+      "end": 78414,
+      "label": "PER"
+    },
+    {
+      "text": "Faire",
+      "start": 78435,
+      "end": 78440,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 78470,
+      "end": 78476,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 78513,
+      "end": 78520,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 78547,
+      "end": 78557,
+      "label": "PER"
+    },
+    {
+      "text": "Anastasie de",
+      "start": 78612,
+      "end": 78624,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 78625,
+      "end": 78632,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 78679,
+      "end": 78689,
+      "label": "PER"
+    },
+    {
+      "text": "Rue du Helder",
+      "start": 78693,
+      "end": 78706,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 78744,
+      "end": 78762,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 78802,
+      "end": 78809,
+      "label": "LOC"
+    },
+    {
+      "text": "Fourche !",
+      "start": 78932,
+      "end": 78941,
+      "label": "MISC"
+    },
+    {
+      "text": "Lascar",
+      "start": 78981,
+      "end": 78987,
+      "label": "LOC"
+    },
+    {
+      "text": "Christophe",
+      "start": 79025,
+      "end": 79035,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 79130,
+      "end": 79136,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 79163,
+      "end": 79177,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 79207,
+      "end": 79214,
+      "label": "PER"
+    },
+    {
+      "text": "Et l'on m'a vu de toute part",
+      "start": 79277,
+      "end": 79305,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Couture",
+      "start": 79330,
+      "end": 79344,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 79361,
+      "end": 79370,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 79443,
+      "end": 79450,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 79453,
+      "end": 79467,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Étienne du Mont",
+      "start": 79508,
+      "end": 79529,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 79582,
+      "end": 79591,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 79647,
+      "end": 79661,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 79774,
+      "end": 79783,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 79796,
+      "end": 79803,
+      "label": "PER"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 79845,
+      "end": 79853,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 79893,
+      "end": 79900,
+      "label": "PER"
+    },
+    {
+      "text": "marsouin",
+      "start": 80024,
+      "end": 80032,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre enfant",
+      "start": 80164,
+      "end": 80177,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 80190,
+      "end": 80197,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 80299,
+      "end": 80308,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 80381,
+      "end": 80395,
+      "label": "PER"
+    },
+    {
+      "text": "Commissaire Ordonnateur",
+      "start": 80525,
+      "end": 80548,
+      "label": "LOC"
+    },
+    {
+      "text": "O",
+      "start": 80624,
+      "end": 80625,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 80682,
+      "end": 80689,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 80810,
+      "end": 80814,
+      "label": "MISC"
+    },
+    {
+      "text": "Victorine",
+      "start": 80829,
+      "end": 80838,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 80889,
+      "end": 80896,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 81145,
+      "end": 81149,
+      "label": "MISC"
+    },
+    {
+      "text": "Soyez",
+      "start": 81161,
+      "end": 81166,
+      "label": "ORG"
+    },
+    {
+      "text": "Vautrin",
+      "start": 81239,
+      "end": 81246,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 81282,
+      "end": 81288,
+      "label": "MISC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 81303,
+      "end": 81313,
+      "label": "PER"
+    },
+    {
+      "text": "Poiret",
+      "start": 81315,
+      "end": 81321,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 81386,
+      "end": 81392,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 81579,
+      "end": 81583,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 81599,
+      "end": 81605,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 81611,
+      "end": 81617,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 81733,
+      "end": 81739,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 81870,
+      "end": 81884,
+      "label": "PER"
+    },
+    {
+      "text": "Poiret",
+      "start": 81934,
+      "end": 81940,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 81944,
+      "end": 81948,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 82009,
+      "end": 82016,
+      "label": "LOC"
+    },
+    {
+      "text": "Poiret",
+      "start": 82019,
+      "end": 82025,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82027,
+      "end": 82035,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Taillefer",
+      "start": 82065,
+      "end": 82087,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 82182,
+      "end": 82189,
+      "label": "PER"
+    },
+    {
+      "text": "Hier j'étais au bal chez",
+      "start": 82193,
+      "end": 82217,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la vicomtesse",
+      "start": 82218,
+      "end": 82238,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 82242,
+      "end": 82251,
+      "label": "PER"
+    },
+    {
+      "text": "Telet",
+      "start": 82421,
+      "end": 82426,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 82432,
+      "end": 82439,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82463,
+      "end": 82471,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 82489,
+      "end": 82495,
+      "label": "PER"
+    },
+    {
+      "text": "Poiret",
+      "start": 82688,
+      "end": 82694,
+      "label": "PER"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 83215,
+      "end": 83227,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 83297,
+      "end": 83304,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 83383,
+      "end": 83390,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 83450,
+      "end": 83455,
+      "label": "LOC"
+    },
+    {
+      "text": "Anastasie de",
+      "start": 83523,
+      "end": 83535,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 83536,
+      "end": 83543,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 83563,
+      "end": 83569,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 83609,
+      "end": 83616,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 83626,
+      "end": 83632,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe",
+      "start": 83769,
+      "end": 83779,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 83848,
+      "end": 83854,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 83875,
+      "end": 83882,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 83913,
+      "end": 83927,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 83929,
+      "end": 83935,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Vautrin",
+      "start": 84089,
+      "end": 84105,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 84140,
+      "end": 84146,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 84150,
+      "end": 84154,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 84176,
+      "end": 84183,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 84193,
+      "end": 84199,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Goriot",
+      "start": 84256,
+      "end": 84271,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Restaud",
+      "start": 84371,
+      "end": 84388,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 84392,
+      "end": 84397,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 84431,
+      "end": 84438,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 84441,
+      "end": 84448,
+      "label": "PER"
+    },
+    {
+      "text": "Michonneau",
+      "start": 84536,
+      "end": 84546,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 84611,
+      "end": 84617,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 84631,
+      "end": 84637,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 84662,
+      "end": 84681,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 84906,
+      "end": 84908,
+      "label": "MISC"
+    },
+    {
+      "text": "Hier",
+      "start": 85079,
+      "end": 85083,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 85127,
+      "end": 85134,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 85198,
+      "end": 85209,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 85456,
+      "end": 85462,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 85584,
+      "end": 85591,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 85595,
+      "end": 85599,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 85617,
+      "end": 85624,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 85727,
+      "end": 85732,
+      "label": "ORG"
+    },
+    {
+      "text": "Eugène",
+      "start": 85761,
+      "end": 85767,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 85815,
+      "end": 85820,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 85821,
+      "end": 85833,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85946,
+      "end": 85951,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 85977,
+      "end": 85982,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 86022,
+      "end": 86029,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Taillefer",
+      "start": 86031,
+      "end": 86053,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Couture",
+      "start": 86142,
+      "end": 86156,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 86246,
+      "end": 86252,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 86266,
+      "end": 86270,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 86305,
+      "end": 86312,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 86315,
+      "end": 86322,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 86481,
+      "end": 86488,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 86509,
+      "end": 86515,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 86533,
+      "end": 86540,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 86651,
+      "end": 86656,
+      "label": "LOC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 86771,
+      "end": 86781,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 86790,
+      "end": 86797,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 86895,
+      "end": 86899,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 86909,
+      "end": 86916,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 87099,
+      "end": 87108,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourse",
+      "start": 87403,
+      "end": 87409,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont de Piété",
+      "start": 87867,
+      "end": 87880,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 87925,
+      "end": 87931,
+      "label": "MISC"
+    },
+    {
+      "text": "Mettez",
+      "start": 88124,
+      "end": 88130,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 88319,
+      "end": 88326,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 88328,
+      "end": 88340,
+      "label": "LOC"
+    },
+    {
+      "text": "Restaud",
+      "start": 88401,
+      "end": 88408,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 88421,
+      "end": 88431,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 88612,
+      "end": 88618,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Restaud",
+      "start": 89071,
+      "end": 89088,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 89098,
+      "end": 89104,
+      "label": "PER"
+    },
+    {
+      "text": "Poiret",
+      "start": 89117,
+      "end": 89123,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Restaud",
+      "start": 89151,
+      "end": 89168,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 89211,
+      "end": 89217,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 89281,
+      "end": 89287,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 89317,
+      "end": 89322,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 89379,
+      "end": 89386,
+      "label": "PER"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 89569,
+      "end": 89586,
+      "label": "LOC"
+    },
+    {
+      "text": "Volez",
+      "start": 89608,
+      "end": 89613,
+      "label": "LOC"
+    },
+    {
+      "text": "Gendarmerie",
+      "start": 89708,
+      "end": 89719,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice",
+      "start": 89728,
+      "end": 89735,
+      "label": "MISC"
+    },
+    {
+      "text": "Joli !",
+      "start": 89768,
+      "end": 89774,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 89801,
+      "end": 89808,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 89818,
+      "end": 89824,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 89924,
+      "end": 89930,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 90061,
+      "end": 90067,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 90120,
+      "end": 90125,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 90178,
+      "end": 90185,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 90259,
+      "end": 90266,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 90300,
+      "end": 90314,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 90318,
+      "end": 90327,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 90357,
+      "end": 90363,
+      "label": "PER"
+    },
+    {
+      "text": "Michonneau",
+      "start": 90422,
+      "end": 90432,
+      "label": "PER"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 90471,
+      "end": 90489,
+      "label": "LOC"
+    },
+    {
+      "text": "grosse Sylvie",
+      "start": 90589,
+      "end": 90602,
+      "label": "PER"
+    },
+    {
+      "text": "Gare",
+      "start": 90745,
+      "end": 90749,
+      "label": "LOC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 90775,
+      "end": 90785,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 90807,
+      "end": 90814,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 90877,
+      "end": 90883,
+      "label": "MISC"
+    },
+    {
+      "text": "Victorine",
+      "start": 90936,
+      "end": 90945,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vauquer",
+      "start": 90976,
+      "end": 90990,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 91052,
+      "end": 91061,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 91134,
+      "end": 91143,
+      "label": "PER"
+    },
+    {
+      "text": "madame Couture",
+      "start": 91235,
+      "end": 91249,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vauquer",
+      "start": 91252,
+      "end": 91266,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 91313,
+      "end": 91322,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 91597,
+      "end": 91606,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 92138,
+      "end": 92142,
+      "label": "MISC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 92375,
+      "end": 92384,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 92688,
+      "end": 92694,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Couture",
+      "start": 92711,
+      "end": 92725,
+      "label": "PER"
+    },
+    {
+      "text": "Diorama",
+      "start": 93766,
+      "end": 93773,
+      "label": "LOC"
+    },
+    {
+      "text": "Panoramas",
+      "start": 93845,
+      "end": 93854,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 93998,
+      "end": 94005,
+      "label": "PER"
+    },
+    {
+      "text": "Muséum",
+      "start": 94073,
+      "end": 94079,
+      "label": "LOC"
+    },
+    {
+      "text": "Mesdames",
+      "start": 94150,
+      "end": 94158,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Couture",
+      "start": 94191,
+      "end": 94205,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 94211,
+      "end": 94220,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 94254,
+      "end": 94269,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 94303,
+      "end": 94312,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 94401,
+      "end": 94408,
+      "label": "LOC"
+    },
+    {
+      "text": "Dérangez",
+      "start": 94410,
+      "end": 94418,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 94435,
+      "end": 94441,
+      "label": "MISC"
+    },
+    {
+      "text": "Illustre monsieur Vautrin",
+      "start": 94502,
+      "end": 94527,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 94533,
+      "end": 94541,
+      "label": "PER"
+    },
+    {
+      "text": "Muséum",
+      "start": 94636,
+      "end": 94642,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 94701,
+      "end": 94705,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Rastignac",
+      "start": 94737,
+      "end": 94757,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 94793,
+      "end": 94801,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 94816,
+      "end": 94822,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Michonneau",
+      "start": 94896,
+      "end": 94919,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 95093,
+      "end": 95101,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 95104,
+      "end": 95111,
+      "label": "LOC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 95137,
+      "end": 95147,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 95178,
+      "end": 95182,
+      "label": "PER"
+    },
+    {
+      "text": "Judas",
+      "start": 95212,
+      "end": 95217,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 95221,
+      "end": 95229,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 95255,
+      "end": 95262,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 95315,
+      "end": 95323,
+      "label": "MISC"
+    },
+    {
+      "text": "L'espace d'un matin",
+      "start": 95572,
+      "end": 95591,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 95595,
+      "end": 95599,
+      "label": "MISC"
+    },
+    {
+      "text": "Poiret",
+      "start": 95640,
+      "end": 95646,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe",
+      "start": 95657,
+      "end": 95667,
+      "label": "PER"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 95720,
+      "end": 95729,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 95756,
+      "end": 95763,
+      "label": "PER"
+    },
+    {
+      "text": "Enfoncé",
+      "start": 95835,
+      "end": 95842,
+      "label": "LOC"
+    },
+    {
+      "text": "Poiret",
+      "start": 95844,
+      "end": 95850,
+      "label": "LOC"
+    },
+    {
+      "text": "Marquez",
+      "start": 95880,
+      "end": 95887,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 95908,
+      "end": 95915,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 95921,
+      "end": 95928,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 96022,
+      "end": 96030,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 96140,
+      "end": 96146,
+      "label": "MISC"
+    },
+    {
+      "text": "Goriorama",
+      "start": 96150,
+      "end": 96159,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 96210,
+      "end": 96212,
+      "label": "MISC"
+    },
+    {
+      "text": "Gâôriotte",
+      "start": 96221,
+      "end": 96230,
+      "label": "PER"
+    },
+    {
+      "text": "Assis",
+      "start": 96261,
+      "end": 96266,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 96342,
+      "end": 96348,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 96493,
+      "end": 96495,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauquer",
+      "start": 96530,
+      "end": 96537,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 96671,
+      "end": 96677,
+      "label": "PER"
+    },
+    {
+      "text": "Étampes",
+      "start": 96724,
+      "end": 96731,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 96753,
+      "end": 96754,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 96786,
+      "end": 96792,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquer",
+      "start": 96874,
+      "end": 96881,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 96994,
+      "end": 97000,
+      "label": "LOC"
+    },
+    {
+      "text": "Muséum",
+      "start": 97048,
+      "end": 97054,
+      "label": "LOC"
+    },
+    {
+      "text": "Laissez",
+      "start": 97088,
+      "end": 97095,
+      "label": "PER"
+    },
+    {
+      "text": "Votre",
+      "start": 97177,
+      "end": 97182,
+      "label": "LOC"
+    },
+    {
+      "text": "Muséum",
+      "start": 97236,
+      "end": 97242,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor",
+      "start": 97246,
+      "end": 97249,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 97261,
+      "end": 97269,
+      "label": "PER"
+    },
+    {
+      "text": "Cor nouille",
+      "start": 97273,
+      "end": 97284,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor nemuse",
+      "start": 97288,
+      "end": 97298,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor naline",
+      "start": 97302,
+      "end": 97312,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor niche",
+      "start": 97316,
+      "end": 97325,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor nichon",
+      "start": 97329,
+      "end": 97339,
+      "label": "LOC"
+    },
+    {
+      "text": "Cor beau",
+      "start": 97343,
+      "end": 97351,
+      "label": "PER"
+    },
+    {
+      "text": "Cor norama",
+      "start": 97366,
+      "end": 97376,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 97525,
+      "end": 97531,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 97649,
+      "end": 97656,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 97719,
+      "end": 97726,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 97759,
+      "end": 97765,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe",
+      "start": 97950,
+      "end": 97960,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 98048,
+      "end": 98054,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 98169,
+      "end": 98177,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 98304,
+      "end": 98308,
+      "label": "MISC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 98332,
+      "end": 98339,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 98361,
+      "end": 98365,
+      "label": "MISC"
+    },
+    {
+      "text": "En enfer",
+      "start": 98419,
+      "end": 98427,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 98517,
+      "end": 98521,
+      "label": "LOC"
+    },
+    {
+      "text": "Vautrin",
+      "start": 98546,
+      "end": 98553,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine",
+      "start": 98556,
+      "end": 98565,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Couture",
+      "start": 98647,
+      "end": 98661,
+      "label": "PER"
+    },
+    {
+      "text": "Vautrin",
+      "start": 98700,
+      "end": 98707,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 98721,
+      "end": 98730,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 98762,
+      "end": 98770,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 98772,
+      "end": 98784,
+      "label": "LOC"
+    },
+    {
+      "text": "Goriot",
+      "start": 98904,
+      "end": 98910,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 99121,
+      "end": 99129,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 99135,
+      "end": 99141,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 99193,
+      "end": 99199,
+      "label": "MISC"
+    },
+    {
+      "text": "Applique",
+      "start": 99249,
+      "end": 99257,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 99277,
+      "end": 99281,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 99564,
+      "end": 99572,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 99649,
+      "end": 99657,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 99724,
+      "end": 99728,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 99785,
+      "end": 99794,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Restaud",
+      "start": 99871,
+      "end": 99888,
+      "label": "PER"
+    }
+  ]
+}

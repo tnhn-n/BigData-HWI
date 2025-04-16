@@ -1,0 +1,1732 @@
+{
+  "entities": [
+    {
+      "text": "GRANDE BRETÈCHE",
+      "start": 3,
+      "end": 18,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 28,
+      "end": 32,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 33,
+      "end": 39,
+      "label": "PER"
+    },
+    {
+      "text": "Chamfort",
+      "start": 197,
+      "end": 205,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Fronsac",
+      "start": 216,
+      "end": 230,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 264,
+      "end": 276,
+      "label": "MISC"
+    },
+    {
+      "text": "Rosine",
+      "start": 376,
+      "end": 382,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon !",
+      "start": 450,
+      "end": 460,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 464,
+      "end": 473,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 547,
+      "end": 548,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 580,
+      "end": 587,
+      "label": "LOC"
+    },
+    {
+      "text": "Loir",
+      "start": 606,
+      "end": 610,
+      "label": "LOC"
+    },
+    {
+      "text": "méchante auberge",
+      "start": 765,
+      "end": 781,
+      "label": "PER"
+    },
+    {
+      "text": "buis",
+      "start": 916,
+      "end": 920,
+      "label": "LOC"
+    },
+    {
+      "text": "le Loir",
+      "start": 1029,
+      "end": 1036,
+      "label": "LOC"
+    },
+    {
+      "text": "COGITA",
+      "start": 2343,
+      "end": 2349,
+      "label": "MISC"
+    },
+    {
+      "text": "lune",
+      "start": 2639,
+      "end": 2643,
+      "label": "LOC"
+    },
+    {
+      "text": "Mystère",
+      "start": 2947,
+      "end": 2954,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 3770,
+      "end": 3774,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 3792,
+      "end": 3801,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 4023,
+      "end": 4038,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 4073,
+      "end": 4080,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 4085,
+      "end": 4093,
+      "label": "PER"
+    },
+    {
+      "text": "Vendomois",
+      "start": 4925,
+      "end": 4934,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 5054,
+      "end": 5056,
+      "label": "MISC"
+    },
+    {
+      "text": "Atrides",
+      "start": 5475,
+      "end": 5482,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 6089,
+      "end": 6097,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 6503,
+      "end": 6511,
+      "label": "PER"
+    },
+    {
+      "text": "Regnault",
+      "start": 6528,
+      "end": 6536,
+      "label": "PER"
+    },
+    {
+      "text": "Regnault",
+      "start": 6556,
+      "end": 6564,
+      "label": "PER"
+    },
+    {
+      "text": "Regnault",
+      "start": 6611,
+      "end": 6619,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7131,
+      "end": 7139,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 7312,
+      "end": 7316,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7337,
+      "end": 7345,
+      "label": "PER"
+    },
+    {
+      "text": "Regnault",
+      "start": 7364,
+      "end": 7372,
+      "label": "PER"
+    },
+    {
+      "text": "Cherche",
+      "start": 7433,
+      "end": 7440,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 7474,
+      "end": 7481,
+      "label": "LOC"
+    },
+    {
+      "text": "Permettez",
+      "start": 7673,
+      "end": 7682,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7905,
+      "end": 7913,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Merret",
+      "start": 7982,
+      "end": 8000,
+      "label": "PER"
+    },
+    {
+      "text": "Turc",
+      "start": 8075,
+      "end": 8079,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 8243,
+      "end": 8250,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 8902,
+      "end": 8918,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 9148,
+      "end": 9155,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 9279,
+      "end": 9295,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 9378,
+      "end": 9390,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 9543,
+      "end": 9551,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 10145,
+      "end": 10151,
+      "label": "LOC"
+    },
+    {
+      "text": "Tobie",
+      "start": 10236,
+      "end": 10241,
+      "label": "LOC"
+    },
+    {
+      "text": "Trim",
+      "start": 10255,
+      "end": 10259,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 10294,
+      "end": 10302,
+      "label": "PER"
+    },
+    {
+      "text": "Regnault",
+      "start": 10320,
+      "end": 10328,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 10363,
+      "end": 10369,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 10373,
+      "end": 10378,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10544,
+      "end": 10549,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 10616,
+      "end": 10621,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 10665,
+      "end": 10672,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 10746,
+      "end": 10754,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 10827,
+      "end": 10838,
+      "label": "PER"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 10842,
+      "end": 10858,
+      "label": "ORG"
+    },
+    {
+      "text": "madame la",
+      "start": 10950,
+      "end": 10959,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Merret",
+      "start": 10960,
+      "end": 10978,
+      "label": "PER"
+    },
+    {
+      "text": "château de Merret",
+      "start": 10987,
+      "end": 11004,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 11123,
+      "end": 11141,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Merret",
+      "start": 11208,
+      "end": 11223,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11244,
+      "end": 11249,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 11399,
+      "end": 11417,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 11434,
+      "end": 11449,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 11668,
+      "end": 11673,
+      "label": "MISC"
+    },
+    {
+      "text": "Merret",
+      "start": 11788,
+      "end": 11794,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 11813,
+      "end": 11819,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 12012,
+      "end": 12030,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 12094,
+      "end": 12100,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 12166,
+      "end": 12184,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 12403,
+      "end": 12418,
+      "label": "LOC"
+    },
+    {
+      "text": "Merret",
+      "start": 12432,
+      "end": 12438,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 12797,
+      "end": 12805,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 12869,
+      "end": 12885,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 13043,
+      "end": 13049,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 13214,
+      "end": 13220,
+      "label": "PER"
+    },
+    {
+      "text": "Argant",
+      "start": 13990,
+      "end": 13996,
+      "label": "LOC"
+    },
+    {
+      "text": "Merret",
+      "start": 14031,
+      "end": 14037,
+      "label": "PER"
+    },
+    {
+      "text": "Imitation",
+      "start": 14213,
+      "end": 14222,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 14226,
+      "end": 14238,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 14432,
+      "end": 14434,
+      "label": "MISC"
+    },
+    {
+      "text": "ajouta t",
+      "start": 14711,
+      "end": 14719,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 14847,
+      "end": 14863,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 15020,
+      "end": 15026,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 15344,
+      "end": 15346,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 16835,
+      "end": 16841,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 16978,
+      "end": 16996,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 17127,
+      "end": 17143,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 17513,
+      "end": 17517,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 17520,
+      "end": 17524,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 17891,
+      "end": 17907,
+      "label": "PER"
+    },
+    {
+      "text": "hôpital de Vendôme",
+      "start": 17993,
+      "end": 18011,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 18107,
+      "end": 18122,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 18725,
+      "end": 18740,
+      "label": "LOC"
+    },
+    {
+      "text": "oblong",
+      "start": 19025,
+      "end": 19031,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19139,
+      "end": 19147,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19445,
+      "end": 19453,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 19796,
+      "end": 19803,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 20162,
+      "end": 20166,
+      "label": "MISC"
+    },
+    {
+      "text": "la Radcliffe",
+      "start": 20734,
+      "end": 20746,
+      "label": "LOC"
+    },
+    {
+      "text": "Regnault",
+      "start": 20792,
+      "end": 20800,
+      "label": "PER"
+    },
+    {
+      "text": "Flamande",
+      "start": 20991,
+      "end": 20999,
+      "label": "LOC"
+    },
+    {
+      "text": "Teniers",
+      "start": 21040,
+      "end": 21047,
+      "label": "LOC"
+    },
+    {
+      "text": "Regnault",
+      "start": 21095,
+      "end": 21103,
+      "label": "PER"
+    },
+    {
+      "text": "Lepas",
+      "start": 21178,
+      "end": 21183,
+      "label": "PER"
+    },
+    {
+      "text": "madame Merret",
+      "start": 21275,
+      "end": 21288,
+      "label": "PER"
+    },
+    {
+      "text": "Lepas",
+      "start": 21503,
+      "end": 21508,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 21572,
+      "end": 21576,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 21631,
+      "end": 21635,
+      "label": "MISC"
+    },
+    {
+      "text": "Lepas",
+      "start": 21688,
+      "end": 21693,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 21773,
+      "end": 21779,
+      "label": "PER"
+    },
+    {
+      "text": "Dame",
+      "start": 21805,
+      "end": 21809,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 21823,
+      "end": 21829,
+      "label": "PER"
+    },
+    {
+      "text": "Picardie",
+      "start": 21944,
+      "end": 21952,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 22081,
+      "end": 22086,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 22332,
+      "end": 22348,
+      "label": "PER"
+    },
+    {
+      "text": "Vendômois",
+      "start": 22434,
+      "end": 22443,
+      "label": "LOC"
+    },
+    {
+      "text": "Heu",
+      "start": 22684,
+      "end": 22687,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Merret",
+      "start": 22823,
+      "end": 22839,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 22995,
+      "end": 22998,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 23133,
+      "end": 23141,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 23145,
+      "end": 23161,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 23324,
+      "end": 23328,
+      "label": "MISC"
+    },
+    {
+      "text": "Regnault",
+      "start": 23405,
+      "end": 23413,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 23455,
+      "end": 23471,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 23488,
+      "end": 23503,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 23505,
+      "end": 23507,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma chère dame Lepas !",
+      "start": 24018,
+      "end": 24039,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 24431,
+      "end": 24439,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 24457,
+      "end": 24467,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 24483,
+      "end": 24492,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 24577,
+      "end": 24585,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 24595,
+      "end": 24602,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 24672,
+      "end": 24683,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand d'Espagne",
+      "start": 24696,
+      "end": 24711,
+      "label": "MISC"
+    },
+    {
+      "text": "Excusez",
+      "start": 24714,
+      "end": 24721,
+      "label": "MISC"
+    },
+    {
+      "text": "dia",
+      "start": 24761,
+      "end": 24764,
+      "label": "MISC"
+    },
+    {
+      "text": "Bagos",
+      "start": 24772,
+      "end": 24777,
+      "label": "LOC"
+    },
+    {
+      "text": "Férédia",
+      "start": 24781,
+      "end": 24788,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 24911,
+      "end": 24919,
+      "label": "MISC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 25405,
+      "end": 25413,
+      "label": "PER"
+    },
+    {
+      "text": "Abrantès",
+      "start": 25439,
+      "end": 25447,
+      "label": "PER"
+    },
+    {
+      "text": "Decazes",
+      "start": 25458,
+      "end": 25465,
+      "label": "PER"
+    },
+    {
+      "text": "roi d'Espagne",
+      "start": 25472,
+      "end": 25485,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 26038,
+      "end": 26054,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 26475,
+      "end": 26482,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Casernes",
+      "start": 26763,
+      "end": 26779,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand d'Espagne",
+      "start": 26899,
+      "end": 26914,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 27602,
+      "end": 27606,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 27774,
+      "end": 27782,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 27922,
+      "end": 27937,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Férédia",
+      "start": 28088,
+      "end": 28101,
+      "label": "PER"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 28127,
+      "end": 28138,
+      "label": "MISC"
+    },
+    {
+      "text": "brust",
+      "start": 28187,
+      "end": 28192,
+      "label": "PER"
+    },
+    {
+      "text": "Lepas",
+      "start": 28221,
+      "end": 28226,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 28239,
+      "end": 28247,
+      "label": "MISC"
+    },
+    {
+      "text": "Moi, monsieur",
+      "start": 28262,
+      "end": 28275,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 28362,
+      "end": 28378,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 28387,
+      "end": 28394,
+      "label": "PER"
+    },
+    {
+      "text": "Férédia",
+      "start": 28566,
+      "end": 28573,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 28741,
+      "end": 28749,
+      "label": "LOC"
+    },
+    {
+      "text": "Certainement",
+      "start": 28781,
+      "end": 28793,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 28838,
+      "end": 28845,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 28862,
+      "end": 28866,
+      "label": "MISC"
+    },
+    {
+      "text": "Grande Bretèche",
+      "start": 29464,
+      "end": 29479,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 29793,
+      "end": 29800,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 29846,
+      "end": 29853,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 30527,
+      "end": 30534,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 30635,
+      "end": 30642,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie !",
+      "start": 30671,
+      "end": 30680,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 30782,
+      "end": 30786,
+      "label": "MISC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 31171,
+      "end": 31178,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 31241,
+      "end": 31257,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 31314,
+      "end": 31318,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 31378,
+      "end": 31385,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 31469,
+      "end": 31476,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 31807,
+      "end": 31814,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 32306,
+      "end": 32313,
+      "label": "LOC"
+    },
+    {
+      "text": "Raconte",
+      "start": 32318,
+      "end": 32325,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 32359,
+      "end": 32375,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 32380,
+      "end": 32384,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 32447,
+      "end": 32453,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 32582,
+      "end": 32586,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 32798,
+      "end": 32800,
+      "label": "MISC"
+    },
+    {
+      "text": "jeun",
+      "start": 33163,
+      "end": 33167,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 33233,
+      "end": 33240,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lepas",
+      "start": 33402,
+      "end": 33414,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 33597,
+      "end": 33613,
+      "label": "PER"
+    },
+    {
+      "text": "Bretèche",
+      "start": 33628,
+      "end": 33636,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 33852,
+      "end": 33868,
+      "label": "PER"
+    },
+    {
+      "text": "Cercle",
+      "start": 34113,
+      "end": 34119,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 34263,
+      "end": 34272,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 34409,
+      "end": 34416,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 34599,
+      "end": 34607,
+      "label": "LOC"
+    },
+    {
+      "text": "Merret",
+      "start": 34642,
+      "end": 34648,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 34677,
+      "end": 34684,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 34913,
+      "end": 34929,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 35032,
+      "end": 35048,
+      "label": "PER"
+    },
+    {
+      "text": "Cercle",
+      "start": 35101,
+      "end": 35107,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 35282,
+      "end": 35289,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 35426,
+      "end": 35432,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 35785,
+      "end": 35801,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 35882,
+      "end": 35889,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 36226,
+      "end": 36232,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 36268,
+      "end": 36275,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 36432,
+      "end": 36436,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 36537,
+      "end": 36544,
+      "label": "PER"
+    },
+    {
+      "text": "Retirez",
+      "start": 36585,
+      "end": 36592,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 36603,
+      "end": 36619,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 36787,
+      "end": 36794,
+      "label": "LOC"
+    },
+    {
+      "text": "Merret",
+      "start": 36896,
+      "end": 36902,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 36961,
+      "end": 36967,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 37121,
+      "end": 37127,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 37307,
+      "end": 37323,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 37743,
+      "end": 37752,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 37989,
+      "end": 38005,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 38042,
+      "end": 38047,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38103,
+      "end": 38107,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Merret",
+      "start": 38182,
+      "end": 38198,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 38292,
+      "end": 38296,
+      "label": "MISC"
+    },
+    {
+      "text": "Merret",
+      "start": 38416,
+      "end": 38422,
+      "label": "PER"
+    },
+    {
+      "text": "Duvivier",
+      "start": 38624,
+      "end": 38632,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 38685,
+      "end": 38692,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 38753,
+      "end": 38757,
+      "label": "MISC"
+    },
+    {
+      "text": "Merret",
+      "start": 38774,
+      "end": 38780,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 38828,
+      "end": 38835,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 38872,
+      "end": 38878,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 39016,
+      "end": 39025,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 39423,
+      "end": 39430,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 39456,
+      "end": 39461,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean",
+      "start": 39499,
+      "end": 39503,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 39522,
+      "end": 39528,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 39567,
+      "end": 39571,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 39676,
+      "end": 39681,
+      "label": "LOC"
+    },
+    {
+      "text": "Merret",
+      "start": 39898,
+      "end": 39904,
+      "label": "PER"
+    },
+    {
+      "text": "Cercle",
+      "start": 40109,
+      "end": 40115,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 40125,
+      "end": 40132,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 40172,
+      "end": 40188,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 40370,
+      "end": 40377,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 40637,
+      "end": 40645,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 40647,
+      "end": 40656,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 40669,
+      "end": 40676,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Merret",
+      "start": 40749,
+      "end": 40765,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 40805,
+      "end": 40814,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 41004,
+      "end": 41011,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 41037,
+      "end": 41046,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 41410,
+      "end": 41415,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosalie",
+      "start": 41693,
+      "end": 41700,
+      "label": "LOC"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 41813,
+      "end": 41822,
+      "label": "PER"
+    },
+    {
+      "text": "Sinon",
+      "start": 41867,
+      "end": 41872,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 41889,
+      "end": 41896,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 41902,
+      "end": 41918,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 42089,
+      "end": 42098,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Merret",
+      "start": 42129,
+      "end": 42145,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 42262,
+      "end": 42269,
+      "label": "LOC"
+    },
+    {
+      "text": "Mille francs de rente pour toi",
+      "start": 42274,
+      "end": 42304,
+      "label": "MISC"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 42341,
+      "end": 42350,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 42451,
+      "end": 42459,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 42463,
+      "end": 42479,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 42527,
+      "end": 42536,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 42695,
+      "end": 42711,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 42953,
+      "end": 42969,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 42974,
+      "end": 42981,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 42996,
+      "end": 43005,
+      "label": "PER"
+    },
+    {
+      "text": "Espérez !",
+      "start": 43246,
+      "end": 43255,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean",
+      "start": 43389,
+      "end": 43393,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 43410,
+      "end": 43416,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 43514,
+      "end": 43518,
+      "label": "MISC"
+    },
+    {
+      "text": "Duvivier",
+      "start": 43716,
+      "end": 43724,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 43726,
+      "end": 43733,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 43779,
+      "end": 43795,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 43802,
+      "end": 43809,
+      "label": "PER"
+    },
+    {
+      "text": "Gorenflot",
+      "start": 43918,
+      "end": 43927,
+      "label": "PER"
+    },
+    {
+      "text": "Rosalie",
+      "start": 44017,
+      "end": 44024,
+      "label": "PER"
+    },
+    {
+      "text": "merlin",
+      "start": 44047,
+      "end": 44053,
+      "label": "PER"
+    },
+    {
+      "text": "Merret",
+      "start": 44310,
+      "end": 44316,
+      "label": "PER"
+    },
+    {
+      "text": "Mettez",
+      "start": 44352,
+      "end": 44358,
+      "label": "LOC"
+    },
+    {
+      "text": "Duvivier",
+      "start": 44559,
+      "end": 44567,
+      "label": "PER"
+    },
+    {
+      "text": "Duvivier",
+      "start": 44655,
+      "end": 44663,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 44733,
+      "end": 44742,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean",
+      "start": 44867,
+      "end": 44871,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Merret",
+      "start": 44976,
+      "end": 44992,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 45219,
+      "end": 45228,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 45471,
+      "end": 45479,
+      "label": "PER"
+    }
+  ]
+}

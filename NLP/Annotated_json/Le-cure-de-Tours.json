@@ -1,0 +1,3358 @@
+{
+  "entities": [
+    {
+      "text": "CURÉ DE TOURS",
+      "start": 3,
+      "end": 16,
+      "label": "LOC"
+    },
+    {
+      "text": "DAVID",
+      "start": 26,
+      "end": 31,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 422,
+      "end": 427,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 606,
+      "end": 612,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 673,
+      "end": 682,
+      "label": "PER"
+    },
+    {
+      "text": "Cloître",
+      "start": 927,
+      "end": 934,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 972,
+      "end": 984,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 988,
+      "end": 993,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 1002,
+      "end": 1011,
+      "label": "PER"
+    },
+    {
+      "text": "Cloître",
+      "start": 1677,
+      "end": 1684,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 1714,
+      "end": 1723,
+      "label": "PER"
+    },
+    {
+      "text": "wisth",
+      "start": 1761,
+      "end": 1766,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 1772,
+      "end": 1791,
+      "label": "PER"
+    },
+    {
+      "text": "place de l'Archevêché",
+      "start": 1852,
+      "end": 1873,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 2272,
+      "end": 2291,
+      "label": "PER"
+    },
+    {
+      "text": "Chapitre métropolitain",
+      "start": 2371,
+      "end": 2393,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 2397,
+      "end": 2409,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Poirel",
+      "start": 2575,
+      "end": 2586,
+      "label": "PER"
+    },
+    {
+      "text": "Cloître",
+      "start": 3026,
+      "end": 3033,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 3049,
+      "end": 3058,
+      "label": "ORG"
+    },
+    {
+      "text": "Cathédrale",
+      "start": 3120,
+      "end": 3130,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapitre",
+      "start": 3171,
+      "end": 3179,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Psalette",
+      "start": 3288,
+      "end": 3306,
+      "label": "LOC"
+    },
+    {
+      "text": "Cloître",
+      "start": 3333,
+      "end": 3340,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 3346,
+      "end": 3355,
+      "label": "ORG"
+    },
+    {
+      "text": "grand Chantre",
+      "start": 3415,
+      "end": 3428,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 3596,
+      "end": 3608,
+      "label": "PER"
+    },
+    {
+      "text": "Cathédrale",
+      "start": 3694,
+      "end": 3704,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 4019,
+      "end": 4024,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 4063,
+      "end": 4072,
+      "label": "LOC"
+    },
+    {
+      "text": "Cloître",
+      "start": 4131,
+      "end": 4138,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 4313,
+      "end": 4325,
+      "label": "LOC"
+    },
+    {
+      "text": "choucas",
+      "start": 4746,
+      "end": 4753,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 5103,
+      "end": 5109,
+      "label": "PER"
+    },
+    {
+      "text": "Terreur",
+      "start": 5167,
+      "end": 5174,
+      "label": "MISC"
+    },
+    {
+      "text": "Gamard",
+      "start": 5204,
+      "end": 5210,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 5329,
+      "end": 5341,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapitre",
+      "start": 5463,
+      "end": 5471,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 5547,
+      "end": 5556,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 6270,
+      "end": 6274,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 6379,
+      "end": 6388,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 6686,
+      "end": 6692,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 6774,
+      "end": 6783,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 6893,
+      "end": 6901,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 6921,
+      "end": 6930,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 6934,
+      "end": 6947,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 6963,
+      "end": 6972,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 6988,
+      "end": 6997,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 7051,
+      "end": 7060,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 7088,
+      "end": 7100,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7135,
+      "end": 7144,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7392,
+      "end": 7401,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 7607,
+      "end": 7621,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7633,
+      "end": 7642,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 7849,
+      "end": 7862,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 7870,
+      "end": 7878,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 7916,
+      "end": 7925,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 7948,
+      "end": 7960,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7965,
+      "end": 7974,
+      "label": "PER"
+    },
+    {
+      "text": "Cathédrale",
+      "start": 7996,
+      "end": 8006,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 8008,
+      "end": 8017,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 8047,
+      "end": 8066,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 8076,
+      "end": 8085,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 8545,
+      "end": 8558,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 8578,
+      "end": 8586,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 8604,
+      "end": 8610,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 8676,
+      "end": 8685,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 9128,
+      "end": 9142,
+      "label": "PER"
+    },
+    {
+      "text": "Bande Noire",
+      "start": 9262,
+      "end": 9273,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulle",
+      "start": 9957,
+      "end": 9963,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 10250,
+      "end": 10259,
+      "label": "LOC"
+    },
+    {
+      "text": "Pères de l'Église",
+      "start": 10337,
+      "end": 10354,
+      "label": "ORG"
+    },
+    {
+      "text": "Birotteau",
+      "start": 10425,
+      "end": 10434,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 10918,
+      "end": 10932,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 11343,
+      "end": 11352,
+      "label": "MISC"
+    },
+    {
+      "text": "Utrecht rouge",
+      "start": 11465,
+      "end": 11478,
+      "label": "ORG"
+    },
+    {
+      "text": "Birotteau",
+      "start": 11503,
+      "end": 11512,
+      "label": "PER"
+    },
+    {
+      "text": "Aubusson",
+      "start": 11624,
+      "end": 11632,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 11696,
+      "end": 11705,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 11902,
+      "end": 11911,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 11922,
+      "end": 11931,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 12102,
+      "end": 12111,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 12222,
+      "end": 12236,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 12519,
+      "end": 12521,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 12522,
+      "end": 12531,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 12590,
+      "end": 12599,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 12786,
+      "end": 12795,
+      "label": "MISC"
+    },
+    {
+      "text": "Tours",
+      "start": 13108,
+      "end": 13113,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 13207,
+      "end": 13216,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 13341,
+      "end": 13355,
+      "label": "PER"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 13493,
+      "end": 13504,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 13617,
+      "end": 13631,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 13672,
+      "end": 13681,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 13779,
+      "end": 13798,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 13845,
+      "end": 13854,
+      "label": "LOC"
+    },
+    {
+      "text": "Gargantua",
+      "start": 13985,
+      "end": 13994,
+      "label": "MISC"
+    },
+    {
+      "text": "Pantagruel",
+      "start": 14039,
+      "end": 14049,
+      "label": "MISC"
+    },
+    {
+      "text": "Badbec",
+      "start": 14154,
+      "end": 14160,
+      "label": "ORG"
+    },
+    {
+      "text": "Pantagruel",
+      "start": 14252,
+      "end": 14262,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 14271,
+      "end": 14280,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre Chapeloud !",
+      "start": 14469,
+      "end": 14487,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 14632,
+      "end": 14641,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 14657,
+      "end": 14666,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 14684,
+      "end": 14703,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 14902,
+      "end": 14916,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 14971,
+      "end": 14976,
+      "label": "LOC"
+    },
+    {
+      "text": "Archevêque",
+      "start": 15013,
+      "end": 15023,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 15097,
+      "end": 15116,
+      "label": "PER"
+    },
+    {
+      "text": "Mail",
+      "start": 15218,
+      "end": 15222,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensez",
+      "start": 15499,
+      "end": 15505,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 15526,
+      "end": 15535,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 15538,
+      "end": 15547,
+      "label": "LOC"
+    },
+    {
+      "text": "surplis",
+      "start": 15609,
+      "end": 15616,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 16011,
+      "end": 16017,
+      "label": "PER"
+    },
+    {
+      "text": "Brst",
+      "start": 16355,
+      "end": 16359,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 16487,
+      "end": 16496,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 16890,
+      "end": 16896,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 16899,
+      "end": 16911,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Thérèse",
+      "start": 16986,
+      "end": 17000,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 17241,
+      "end": 17250,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 17510,
+      "end": 17529,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 17899,
+      "end": 17918,
+      "label": "PER"
+    },
+    {
+      "text": "Cathédrale",
+      "start": 18751,
+      "end": 18761,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 19093,
+      "end": 19101,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 19268,
+      "end": 19276,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 19427,
+      "end": 19439,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 19570,
+      "end": 19589,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi !",
+      "start": 19612,
+      "end": 19620,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianne",
+      "start": 19693,
+      "end": 19701,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 19754,
+      "end": 19763,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 19881,
+      "end": 19889,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 20003,
+      "end": 20011,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 20360,
+      "end": 20368,
+      "label": "PER"
+    },
+    {
+      "text": "Pardon",
+      "start": 20468,
+      "end": 20474,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 20527,
+      "end": 20536,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 20694,
+      "end": 20702,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 20927,
+      "end": 20935,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 21587,
+      "end": 21595,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 21867,
+      "end": 21875,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 21940,
+      "end": 21948,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 21996,
+      "end": 22005,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge du Valentin",
+      "start": 22389,
+      "end": 22407,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 22416,
+      "end": 22422,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 22426,
+      "end": 22432,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 22800,
+      "end": 22819,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 23302,
+      "end": 23311,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 23573,
+      "end": 23582,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 23711,
+      "end": 23717,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 23750,
+      "end": 23769,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 23775,
+      "end": 23783,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 23943,
+      "end": 23949,
+      "label": "PER"
+    },
+    {
+      "text": "Ergo",
+      "start": 24007,
+      "end": 24011,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 24013,
+      "end": 24032,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 24606,
+      "end": 24614,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 24882,
+      "end": 24891,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 25213,
+      "end": 25219,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 25617,
+      "end": 25626,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 26028,
+      "end": 26037,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 26864,
+      "end": 26873,
+      "label": "PER"
+    },
+    {
+      "text": "Justice",
+      "start": 26944,
+      "end": 26951,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 27112,
+      "end": 27126,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 27241,
+      "end": 27255,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 27287,
+      "end": 27306,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 27557,
+      "end": 27576,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 27805,
+      "end": 27824,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 28174,
+      "end": 28187,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 28303,
+      "end": 28322,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 28870,
+      "end": 28876,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 29364,
+      "end": 29370,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 29738,
+      "end": 29743,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 29874,
+      "end": 29880,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 30058,
+      "end": 30067,
+      "label": "MISC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 30335,
+      "end": 30354,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 30378,
+      "end": 30387,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 30480,
+      "end": 30493,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 30629,
+      "end": 30637,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 31054,
+      "end": 31073,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 31091,
+      "end": 31104,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 31351,
+      "end": 31360,
+      "label": "MISC"
+    },
+    {
+      "text": "Gamard",
+      "start": 31537,
+      "end": 31543,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 31600,
+      "end": 31608,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 31674,
+      "end": 31683,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 32038,
+      "end": 32050,
+      "label": "LOC"
+    },
+    {
+      "text": "Hongrie",
+      "start": 32179,
+      "end": 32186,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 32237,
+      "end": 32246,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 32282,
+      "end": 32291,
+      "label": "MISC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 32397,
+      "end": 32416,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 32699,
+      "end": 32705,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 32789,
+      "end": 32808,
+      "label": "PER"
+    },
+    {
+      "text": "Évangile",
+      "start": 33033,
+      "end": 33041,
+      "label": "MISC"
+    },
+    {
+      "text": "entra t",
+      "start": 33324,
+      "end": 33331,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 33363,
+      "end": 33369,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 33813,
+      "end": 33822,
+      "label": "LOC"
+    },
+    {
+      "text": "Salomon",
+      "start": 33844,
+      "end": 33851,
+      "label": "LOC"
+    },
+    {
+      "text": "Villenoix",
+      "start": 33855,
+      "end": 33864,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 33880,
+      "end": 33899,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 34096,
+      "end": 34102,
+      "label": "ORG"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 34108,
+      "end": 34121,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 34304,
+      "end": 34313,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 34372,
+      "end": 34391,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 34656,
+      "end": 34665,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 34696,
+      "end": 34705,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 35086,
+      "end": 35105,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 35646,
+      "end": 35655,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 35681,
+      "end": 35688,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 35769,
+      "end": 35777,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 35803,
+      "end": 35815,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 35830,
+      "end": 35836,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 36126,
+      "end": 36135,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 36177,
+      "end": 36184,
+      "label": "LOC"
+    },
+    {
+      "text": "Salomon de Villenoix",
+      "start": 36404,
+      "end": 36424,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 36471,
+      "end": 36476,
+      "label": "LOC"
+    },
+    {
+      "text": "Salomon",
+      "start": 36499,
+      "end": 36506,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 36564,
+      "end": 36570,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 36635,
+      "end": 36644,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 36783,
+      "end": 36802,
+      "label": "PER"
+    },
+    {
+      "text": "Merlin de La Blottière",
+      "start": 36820,
+      "end": 36842,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 36909,
+      "end": 36914,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 36937,
+      "end": 36946,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 36984,
+      "end": 36990,
+      "label": "ORG"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 37158,
+      "end": 37167,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 37226,
+      "end": 37245,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 37359,
+      "end": 37368,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 37420,
+      "end": 37427,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 37469,
+      "end": 37475,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 38713,
+      "end": 38719,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 38783,
+      "end": 38792,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 39896,
+      "end": 39915,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 40124,
+      "end": 40133,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 40396,
+      "end": 40415,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 40661,
+      "end": 40674,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 40676,
+      "end": 40685,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 40735,
+      "end": 40741,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 41043,
+      "end": 41052,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 41172,
+      "end": 41178,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 41275,
+      "end": 41294,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Salomon",
+      "start": 41307,
+      "end": 41327,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Merlin de La Blottière",
+      "start": 41353,
+      "end": 41388,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 41475,
+      "end": 41494,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 41584,
+      "end": 41593,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Birotteau",
+      "start": 41702,
+      "end": 41720,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 41765,
+      "end": 41778,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 41804,
+      "end": 41810,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 42038,
+      "end": 42044,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 42101,
+      "end": 42110,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Chapeloud",
+      "start": 42165,
+      "end": 42179,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 42214,
+      "end": 42233,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 42274,
+      "end": 42283,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 42423,
+      "end": 42442,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 42457,
+      "end": 42466,
+      "label": "PER"
+    },
+    {
+      "text": "Consolez",
+      "start": 42947,
+      "end": 42955,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 42984,
+      "end": 42990,
+      "label": "PER"
+    },
+    {
+      "text": "Cloître",
+      "start": 43086,
+      "end": 43093,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 43179,
+      "end": 43184,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 43383,
+      "end": 43392,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 43432,
+      "end": 43438,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 44232,
+      "end": 44251,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 44892,
+      "end": 44901,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 45157,
+      "end": 45165,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 45542,
+      "end": 45550,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 45727,
+      "end": 45740,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 45812,
+      "end": 45821,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 45991,
+      "end": 45999,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 46084,
+      "end": 46092,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 46132,
+      "end": 46141,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 46253,
+      "end": 46261,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 46310,
+      "end": 46319,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 46547,
+      "end": 46566,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 46590,
+      "end": 46598,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 46682,
+      "end": 46695,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 46886,
+      "end": 46894,
+      "label": "PER"
+    },
+    {
+      "text": "Ronde",
+      "start": 47016,
+      "end": 47021,
+      "label": "ORG"
+    },
+    {
+      "text": "Birotteau",
+      "start": 47049,
+      "end": 47058,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 47114,
+      "end": 47122,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 47883,
+      "end": 47902,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 48107,
+      "end": 48116,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 48278,
+      "end": 48291,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 48474,
+      "end": 48486,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 48937,
+      "end": 48945,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 49098,
+      "end": 49107,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 49184,
+      "end": 49197,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 49833,
+      "end": 49842,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 50032,
+      "end": 50041,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 50283,
+      "end": 50296,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 50411,
+      "end": 50416,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 50441,
+      "end": 50449,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 50685,
+      "end": 50694,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 50730,
+      "end": 50738,
+      "label": "PER"
+    },
+    {
+      "text": "Sixte Quint",
+      "start": 50747,
+      "end": 50758,
+      "label": "PER"
+    },
+    {
+      "text": "Évêché",
+      "start": 50787,
+      "end": 50793,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 50828,
+      "end": 50847,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 50945,
+      "end": 50954,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 51021,
+      "end": 51029,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 51309,
+      "end": 51318,
+      "label": "LOC"
+    },
+    {
+      "text": "Archevêché",
+      "start": 51416,
+      "end": 51426,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 51491,
+      "end": 51495,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51541,
+      "end": 51545,
+      "label": "MISC"
+    },
+    {
+      "text": "Troubert",
+      "start": 51562,
+      "end": 51570,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 51721,
+      "end": 51726,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 51751,
+      "end": 51757,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 51792,
+      "end": 51801,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 52090,
+      "end": 52098,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 52376,
+      "end": 52382,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 52400,
+      "end": 52409,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 52539,
+      "end": 52547,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 52694,
+      "end": 52703,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 53018,
+      "end": 53024,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 53036,
+      "end": 53045,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 53373,
+      "end": 53379,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 53643,
+      "end": 53652,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 53780,
+      "end": 53799,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 54292,
+      "end": 54300,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 54340,
+      "end": 54349,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 54382,
+      "end": 54401,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 54579,
+      "end": 54587,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54875,
+      "end": 54879,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 55071,
+      "end": 55080,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 55477,
+      "end": 55489,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 55967,
+      "end": 55980,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 56161,
+      "end": 56170,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 56187,
+      "end": 56193,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 56428,
+      "end": 56436,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVII",
+      "start": 56502,
+      "end": 56512,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 56646,
+      "end": 56659,
+      "label": "PER"
+    },
+    {
+      "text": "Chambres",
+      "start": 56703,
+      "end": 56711,
+      "label": "MISC"
+    },
+    {
+      "text": "Presse",
+      "start": 56873,
+      "end": 56879,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 57001,
+      "end": 57010,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 57048,
+      "end": 57054,
+      "label": "PER"
+    },
+    {
+      "text": "abbaye Saint Martin",
+      "start": 57351,
+      "end": 57370,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 57467,
+      "end": 57476,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 57503,
+      "end": 57515,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 57568,
+      "end": 57577,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 57927,
+      "end": 57939,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 58053,
+      "end": 58059,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 58119,
+      "end": 58132,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 58192,
+      "end": 58201,
+      "label": "LOC"
+    },
+    {
+      "text": "Sophie Gamard",
+      "start": 58314,
+      "end": 58327,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 59753,
+      "end": 59759,
+      "label": "LOC"
+    },
+    {
+      "text": "Laides",
+      "start": 60029,
+      "end": 60035,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 63198,
+      "end": 63204,
+      "label": "ORG"
+    },
+    {
+      "text": "Brune",
+      "start": 63669,
+      "end": 63674,
+      "label": "PER"
+    },
+    {
+      "text": "Commandeur",
+      "start": 65610,
+      "end": 65620,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 66120,
+      "end": 66139,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 66687,
+      "end": 66706,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 67053,
+      "end": 67062,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 67387,
+      "end": 67396,
+      "label": "LOC"
+    },
+    {
+      "text": "Sophie Gamard",
+      "start": 67437,
+      "end": 67450,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 67806,
+      "end": 67815,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 68088,
+      "end": 68097,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 68592,
+      "end": 68598,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 68604,
+      "end": 68617,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 69056,
+      "end": 69065,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 69105,
+      "end": 69111,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 69470,
+      "end": 69482,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 69761,
+      "end": 69767,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 70095,
+      "end": 70104,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Gatien",
+      "start": 70422,
+      "end": 70434,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 70622,
+      "end": 70628,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 70860,
+      "end": 70879,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 71242,
+      "end": 71251,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 71263,
+      "end": 71282,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 71637,
+      "end": 71646,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 71873,
+      "end": 71879,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 71914,
+      "end": 71922,
+      "label": "PER"
+    },
+    {
+      "text": "planer",
+      "start": 72039,
+      "end": 72045,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 72555,
+      "end": 72564,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 73232,
+      "end": 73251,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 73580,
+      "end": 73593,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 73643,
+      "end": 73662,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 73943,
+      "end": 73949,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 74277,
+      "end": 74290,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 74537,
+      "end": 74546,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 74662,
+      "end": 74670,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 74915,
+      "end": 74923,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 75423,
+      "end": 75432,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 76157,
+      "end": 76166,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 76296,
+      "end": 76315,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 76337,
+      "end": 76346,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 76541,
+      "end": 76547,
+      "label": "MISC"
+    },
+    {
+      "text": "Gamard",
+      "start": 76640,
+      "end": 76646,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 77266,
+      "end": 77275,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 77397,
+      "end": 77403,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 77618,
+      "end": 77637,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 77731,
+      "end": 77739,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 78086,
+      "end": 78091,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Georges",
+      "start": 78111,
+      "end": 78124,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 78180,
+      "end": 78199,
+      "label": "PER"
+    },
+    {
+      "text": "Alouette",
+      "start": 78384,
+      "end": 78392,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 78525,
+      "end": 78534,
+      "label": "PER"
+    },
+    {
+      "text": "Alouette",
+      "start": 78545,
+      "end": 78553,
+      "label": "LOC"
+    },
+    {
+      "text": "Caron",
+      "start": 78660,
+      "end": 78665,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 78696,
+      "end": 78701,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 78754,
+      "end": 78760,
+      "label": "ORG"
+    },
+    {
+      "text": "Birotteau",
+      "start": 78762,
+      "end": 78771,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 79063,
+      "end": 79082,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 79135,
+      "end": 79139,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 79165,
+      "end": 79174,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 79326,
+      "end": 79338,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 79547,
+      "end": 79553,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 79587,
+      "end": 79595,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 79601,
+      "end": 79610,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 79742,
+      "end": 79761,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 79812,
+      "end": 79817,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 79859,
+      "end": 79863,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 79947,
+      "end": 79956,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 80000,
+      "end": 80005,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 80123,
+      "end": 80129,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 80179,
+      "end": 80198,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 80312,
+      "end": 80321,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 80525,
+      "end": 80534,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 80823,
+      "end": 80842,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 80879,
+      "end": 80892,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 81059,
+      "end": 81065,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME DE LISTOMÈRE",
+      "start": 81124,
+      "end": 81143,
+      "label": "PER"
+    },
+    {
+      "text": "Nouvelle Héloïse",
+      "start": 81384,
+      "end": 81400,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 81476,
+      "end": 81485,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 81541,
+      "end": 81550,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 81754,
+      "end": 81760,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 82071,
+      "end": 82084,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 82146,
+      "end": 82155,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 82268,
+      "end": 82276,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 82296,
+      "end": 82301,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 82422,
+      "end": 82428,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 82454,
+      "end": 82460,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 82669,
+      "end": 82678,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 82744,
+      "end": 82752,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 82991,
+      "end": 82999,
+      "label": "LOC"
+    },
+    {
+      "text": "Habitué",
+      "start": 83035,
+      "end": 83042,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 83253,
+      "end": 83262,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeaux",
+      "start": 83380,
+      "end": 83391,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 83474,
+      "end": 83479,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 83510,
+      "end": 83514,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 83617,
+      "end": 83626,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 83673,
+      "end": 83683,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 83801,
+      "end": 83809,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 83918,
+      "end": 83927,
+      "label": "PER"
+    },
+    {
+      "text": "Sur ces entrefaites, mademoiselle",
+      "start": 84044,
+      "end": 84077,
+      "label": "MISC"
+    },
+    {
+      "text": "Salomon de Villenoix",
+      "start": 84078,
+      "end": 84098,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 84148,
+      "end": 84157,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 84176,
+      "end": 84181,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 84337,
+      "end": 84346,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 84367,
+      "end": 84375,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 84379,
+      "end": 84385,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 84538,
+      "end": 84545,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 84623,
+      "end": 84631,
+      "label": "PER"
+    },
+    {
+      "text": "Blottière",
+      "start": 84738,
+      "end": 84747,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Poirel",
+      "start": 84751,
+      "end": 84762,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 84799,
+      "end": 84808,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 84832,
+      "end": 84838,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 84926,
+      "end": 84935,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 84963,
+      "end": 84972,
+      "label": "MISC"
+    },
+    {
+      "text": "Troubert",
+      "start": 85144,
+      "end": 85152,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 85206,
+      "end": 85215,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 85236,
+      "end": 85255,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85269,
+      "end": 85278,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 85330,
+      "end": 85349,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 85391,
+      "end": 85395,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 85409,
+      "end": 85428,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 85463,
+      "end": 85476,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 85495,
+      "end": 85501,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 85563,
+      "end": 85568,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 85697,
+      "end": 85716,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 85738,
+      "end": 85747,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 85800,
+      "end": 85809,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85861,
+      "end": 85870,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 85997,
+      "end": 86010,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 86148,
+      "end": 86167,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 86331,
+      "end": 86336,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 86428,
+      "end": 86437,
+      "label": "PER"
+    },
+    {
+      "text": "Fabius",
+      "start": 86514,
+      "end": 86520,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 86652,
+      "end": 86661,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 86828,
+      "end": 86837,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 87042,
+      "end": 87061,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 87186,
+      "end": 87195,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 87262,
+      "end": 87281,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 87295,
+      "end": 87304,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 87431,
+      "end": 87440,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 87477,
+      "end": 87486,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 87732,
+      "end": 87741,
+      "label": "LOC"
+    },
+    {
+      "text": "Caron",
+      "start": 88172,
+      "end": 88177,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 88390,
+      "end": 88409,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 88536,
+      "end": 88541,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 88652,
+      "end": 88661,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 88683,
+      "end": 88702,
+      "label": "PER"
+    },
+    {
+      "text": "Caron",
+      "start": 88913,
+      "end": 88918,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 88937,
+      "end": 88941,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 88948,
+      "end": 88957,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 89032,
+      "end": 89038,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 89148,
+      "end": 89157,
+      "label": "LOC"
+    },
+    {
+      "text": "Caron",
+      "start": 89258,
+      "end": 89263,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 89317,
+      "end": 89321,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbonne",
+      "start": 89495,
+      "end": 89504,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 89587,
+      "end": 89596,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 89890,
+      "end": 89909,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 89926,
+      "end": 89933,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 90213,
+      "end": 90219,
+      "label": "ORG"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 90397,
+      "end": 90410,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 90579,
+      "end": 90588,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 90633,
+      "end": 90652,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 91208,
+      "end": 91227,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Salomon",
+      "start": 91524,
+      "end": 91544,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 91738,
+      "end": 91744,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Sombreuil",
+      "start": 92583,
+      "end": 92608,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Salomon",
+      "start": 92683,
+      "end": 92703,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 93580,
+      "end": 93585,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Villenoix",
+      "start": 93874,
+      "end": 93899,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 93946,
+      "end": 93955,
+      "label": "LOC"
+    },
+    {
+      "text": "Cathédrale",
+      "start": 93982,
+      "end": 93992,
+      "label": "LOC"
+    },
+    {
+      "text": "Cloître",
+      "start": 94028,
+      "end": 94035,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 94425,
+      "end": 94434,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianne",
+      "start": 94436,
+      "end": 94444,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 94515,
+      "end": 94528,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 94600,
+      "end": 94608,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 94624,
+      "end": 94637,
+      "label": "PER"
+    },
+    {
+      "text": "Troubert",
+      "start": 94797,
+      "end": 94805,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 94909,
+      "end": 94918,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 94960,
+      "end": 94969,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95006,
+      "end": 95015,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95042,
+      "end": 95051,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95069,
+      "end": 95078,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95105,
+      "end": 95114,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95149,
+      "end": 95158,
+      "label": "MISC"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 95208,
+      "end": 95227,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 95293,
+      "end": 95298,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 95413,
+      "end": 95422,
+      "label": "LOC"
+    },
+    {
+      "text": "Troubert",
+      "start": 95472,
+      "end": 95480,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 95523,
+      "end": 95532,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95653,
+      "end": 95662,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 95683,
+      "end": 95692,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 95731,
+      "end": 95740,
+      "label": "MISC"
+    },
+    {
+      "text": "Troubert",
+      "start": 95897,
+      "end": 95905,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 95973,
+      "end": 95982,
+      "label": "LOC"
+    },
+    {
+      "text": "Gamard",
+      "start": 96059,
+      "end": 96065,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 96230,
+      "end": 96238,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 96257,
+      "end": 96270,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 96347,
+      "end": 96353,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 96474,
+      "end": 96482,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Poirel",
+      "start": 96485,
+      "end": 96496,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 97023,
+      "end": 97032,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 97128,
+      "end": 97147,
+      "label": "PER"
+    },
+    {
+      "text": "logis",
+      "start": 97243,
+      "end": 97248,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 97252,
+      "end": 97264,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 97644,
+      "end": 97663,
+      "label": "PER"
+    },
+    {
+      "text": "Gamard",
+      "start": 97913,
+      "end": 97919,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Troubert",
+      "start": 98037,
+      "end": 98050,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 98124,
+      "end": 98133,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Gamard",
+      "start": 98156,
+      "end": 98175,
+      "label": "PER"
+    },
+    {
+      "text": "Chapeloud",
+      "start": 98488,
+      "end": 98497,
+      "label": "LOC"
+    },
+    {
+      "text": "Poirel",
+      "start": 98520,
+      "end": 98526,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 98587,
+      "end": 98596,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 98889,
+      "end": 98908,
+      "label": "PER"
+    },
+    {
+      "text": "Poirel",
+      "start": 99165,
+      "end": 99171,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 99194,
+      "end": 99203,
+      "label": "PER"
+    },
+    {
+      "text": "Heureusement",
+      "start": 99259,
+      "end": 99271,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 99286,
+      "end": 99293,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Salomon",
+      "start": 99603,
+      "end": 99623,
+      "label": "PER"
+    },
+    {
+      "text": "Alouette",
+      "start": 99712,
+      "end": 99720,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Poirel",
+      "start": 99831,
+      "end": 99842,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Gamard",
+      "start": 99889,
+      "end": 99908,
+      "label": "PER"
+    }
+  ]
+}

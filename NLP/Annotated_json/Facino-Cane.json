@@ -1,0 +1,898 @@
+{
+  "entities": [
+    {
+      "text": "CANE",
+      "start": 7,
+      "end": 11,
+      "label": "ORG"
+    },
+    {
+      "text": "LOUISE",
+      "start": 21,
+      "end": 27,
+      "label": "ORG"
+    },
+    {
+      "text": "Lesdiguières",
+      "start": 173,
+      "end": 185,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 211,
+      "end": 224,
+      "label": "PER"
+    },
+    {
+      "text": "place de la Bastille",
+      "start": 260,
+      "end": 280,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de La Cerisaie",
+      "start": 301,
+      "end": 319,
+      "label": "LOC"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 471,
+      "end": 479,
+      "label": "ORG"
+    },
+    {
+      "text": "boulevard Bourdon",
+      "start": 650,
+      "end": 667,
+      "label": "LOC"
+    },
+    {
+      "text": "Mille",
+      "start": 1431,
+      "end": 1436,
+      "label": "MISC"
+    },
+    {
+      "text": "Nuits",
+      "start": 1444,
+      "end": 1449,
+      "label": "MISC"
+    },
+    {
+      "text": "Ambigu Comique",
+      "start": 1637,
+      "end": 1651,
+      "label": "ORG"
+    },
+    {
+      "text": "boulevard du Pont aux Choux",
+      "start": 1689,
+      "end": 1716,
+      "label": "LOC"
+    },
+    {
+      "text": "boulevard Beaumarchais",
+      "start": 1726,
+      "end": 1748,
+      "label": "LOC"
+    },
+    {
+      "text": "Sachez",
+      "start": 3189,
+      "end": 3195,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 3807,
+      "end": 3814,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 4395,
+      "end": 4401,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de Charenton",
+      "start": 5630,
+      "end": 5646,
+      "label": "LOC"
+    },
+    {
+      "text": "Courtille",
+      "start": 5982,
+      "end": 5991,
+      "label": "MISC"
+    },
+    {
+      "text": "Retenez",
+      "start": 6453,
+      "end": 6460,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 6495,
+      "end": 6502,
+      "label": "LOC"
+    },
+    {
+      "text": "Quinze Vingts",
+      "start": 6790,
+      "end": 6803,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 6986,
+      "end": 6993,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 7001,
+      "end": 7010,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 7941,
+      "end": 7948,
+      "label": "PER"
+    },
+    {
+      "text": "Dante",
+      "start": 7977,
+      "end": 7982,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 8749,
+      "end": 8756,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 8788,
+      "end": 8795,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 8811,
+      "end": 8818,
+      "label": "LOC"
+    },
+    {
+      "text": "Homère",
+      "start": 8889,
+      "end": 8895,
+      "label": "PER"
+    },
+    {
+      "text": "Odyssée",
+      "start": 8924,
+      "end": 8931,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 10269,
+      "end": 10276,
+      "label": "LOC"
+    },
+    {
+      "text": "Quinze Vingts",
+      "start": 10542,
+      "end": 10555,
+      "label": "LOC"
+    },
+    {
+      "text": "De Venise",
+      "start": 10838,
+      "end": 10847,
+      "label": "ORG"
+    },
+    {
+      "text": "Venise",
+      "start": 11018,
+      "end": 11024,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 11265,
+      "end": 11271,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 11396,
+      "end": 11402,
+      "label": "MISC"
+    },
+    {
+      "text": "Canard",
+      "start": 11419,
+      "end": 11425,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitien",
+      "start": 11551,
+      "end": 11559,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 12270,
+      "end": 12274,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 12318,
+      "end": 12324,
+      "label": "LOC"
+    },
+    {
+      "text": "Canet",
+      "start": 12428,
+      "end": 12433,
+      "label": "MISC"
+    },
+    {
+      "text": "Marco Facino Cane",
+      "start": 12520,
+      "end": 12537,
+      "label": "PER"
+    },
+    {
+      "text": "Varese",
+      "start": 12551,
+      "end": 12557,
+      "label": "LOC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 12608,
+      "end": 12619,
+      "label": "PER"
+    },
+    {
+      "text": "ducs de Milan",
+      "start": 12653,
+      "end": 12666,
+      "label": "LOC"
+    },
+    {
+      "text": "E",
+      "start": 12671,
+      "end": 12672,
+      "label": "LOC"
+    },
+    {
+      "text": "Visconti",
+      "start": 12736,
+      "end": 12744,
+      "label": "LOC"
+    },
+    {
+      "text": "Cane",
+      "start": 12757,
+      "end": 12761,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 12778,
+      "end": 12784,
+      "label": "LOC"
+    },
+    {
+      "text": "Livre d'or",
+      "start": 12815,
+      "end": 12825,
+      "label": "MISC"
+    },
+    {
+      "text": "Cane",
+      "start": 12853,
+      "end": 12857,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 13006,
+      "end": 13012,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 13587,
+      "end": 13593,
+      "label": "LOC"
+    },
+    {
+      "text": "Adriatique",
+      "start": 13599,
+      "end": 13609,
+      "label": "LOC"
+    },
+    {
+      "text": "voyais",
+      "start": 13617,
+      "end": 13623,
+      "label": "LOC"
+    },
+    {
+      "text": "Rialto",
+      "start": 13730,
+      "end": 13736,
+      "label": "LOC"
+    },
+    {
+      "text": "Esclavons au Lido",
+      "start": 13765,
+      "end": 13782,
+      "label": "ORG"
+    },
+    {
+      "text": "Casa Doro",
+      "start": 13872,
+      "end": 13881,
+      "label": "MISC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 14679,
+      "end": 14690,
+      "label": "PER"
+    },
+    {
+      "text": "Sortons !",
+      "start": 14744,
+      "end": 14753,
+      "label": "MISC"
+    },
+    {
+      "text": "Voulez",
+      "start": 14901,
+      "end": 14907,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 14924,
+      "end": 14930,
+      "label": "LOC"
+    },
+    {
+      "text": "Amsterdam",
+      "start": 15048,
+      "end": 15057,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 15064,
+      "end": 15071,
+      "label": "LOC"
+    },
+    {
+      "text": "Rotschild",
+      "start": 15093,
+      "end": 15102,
+      "label": "ORG"
+    },
+    {
+      "text": "Mille",
+      "start": 15126,
+      "end": 15131,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuits",
+      "start": 15139,
+      "end": 15144,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bastille",
+      "start": 15301,
+      "end": 15312,
+      "label": "LOC"
+    },
+    {
+      "text": "canal Saint Martin",
+      "start": 15441,
+      "end": 15459,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 15476,
+      "end": 15484,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 15846,
+      "end": 15852,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 16429,
+      "end": 16439,
+      "label": "MISC"
+    },
+    {
+      "text": "Sagredo",
+      "start": 16480,
+      "end": 16487,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 16821,
+      "end": 16827,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 17024,
+      "end": 17030,
+      "label": "PER"
+    },
+    {
+      "text": "Milan",
+      "start": 17065,
+      "end": 17070,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 17134,
+      "end": 17138,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 18026,
+      "end": 18032,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 18059,
+      "end": 18065,
+      "label": "LOC"
+    },
+    {
+      "text": "Provéditeur",
+      "start": 18228,
+      "end": 18239,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 18271,
+      "end": 18277,
+      "label": "LOC"
+    },
+    {
+      "text": "Jugez",
+      "start": 18342,
+      "end": 18347,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca",
+      "start": 18500,
+      "end": 18506,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 18559,
+      "end": 18567,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitienne",
+      "start": 18677,
+      "end": 18687,
+      "label": "LOC"
+    },
+    {
+      "text": "Provéditeur",
+      "start": 18692,
+      "end": 18703,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 18817,
+      "end": 18823,
+      "label": "LOC"
+    },
+    {
+      "text": "Provéditeur",
+      "start": 18847,
+      "end": 18858,
+      "label": "LOC"
+    },
+    {
+      "text": "Arméniens",
+      "start": 21123,
+      "end": 21132,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 21250,
+      "end": 21256,
+      "label": "LOC"
+    },
+    {
+      "text": "Jugez de ma surprise",
+      "start": 22041,
+      "end": 22061,
+      "label": "PER"
+    },
+    {
+      "text": "Dix",
+      "start": 22224,
+      "end": 22227,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 22340,
+      "end": 22350,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 22417,
+      "end": 22423,
+      "label": "LOC"
+    },
+    {
+      "text": "Levant",
+      "start": 22685,
+      "end": 22691,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 22731,
+      "end": 22737,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca",
+      "start": 22818,
+      "end": 22824,
+      "label": "LOC"
+    },
+    {
+      "text": "Smyrne",
+      "start": 22849,
+      "end": 22855,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 22935,
+      "end": 22941,
+      "label": "LOC"
+    },
+    {
+      "text": "matelot",
+      "start": 23512,
+      "end": 23519,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 23551,
+      "end": 23559,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 24178,
+      "end": 24188,
+      "label": "MISC"
+    },
+    {
+      "text": "Smyrne",
+      "start": 24614,
+      "end": 24620,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 24661,
+      "end": 24670,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 24718,
+      "end": 24722,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 25102,
+      "end": 25106,
+      "label": "MISC"
+    },
+    {
+      "text": "Londres",
+      "start": 25196,
+      "end": 25203,
+      "label": "LOC"
+    },
+    {
+      "text": "Amsterdam",
+      "start": 25209,
+      "end": 25218,
+      "label": "LOC"
+    },
+    {
+      "text": "Madrid",
+      "start": 25307,
+      "end": 25313,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 25341,
+      "end": 25346,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 25405,
+      "end": 25411,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 25967,
+      "end": 25975,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Barry",
+      "start": 26039,
+      "end": 26054,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 26110,
+      "end": 26117,
+      "label": "LOC"
+    },
+    {
+      "text": "Hyde Park",
+      "start": 26213,
+      "end": 26222,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 26366,
+      "end": 26372,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 26436,
+      "end": 26442,
+      "label": "LOC"
+    },
+    {
+      "text": "Gil Blas",
+      "start": 26575,
+      "end": 26583,
+      "label": "PER"
+    },
+    {
+      "text": "Quinze Vingts",
+      "start": 26634,
+      "end": 26647,
+      "label": "LOC"
+    },
+    {
+      "text": "Bicêtre",
+      "start": 26721,
+      "end": 26728,
+      "label": "LOC"
+    },
+    {
+      "text": "Benedetto Carpi",
+      "start": 26853,
+      "end": 26868,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 26984,
+      "end": 26990,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 27028,
+      "end": 27036,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 27076,
+      "end": 27082,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 27263,
+      "end": 27269,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramino",
+      "start": 27324,
+      "end": 27334,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianca",
+      "start": 27348,
+      "end": 27354,
+      "label": "PER"
+    },
+    {
+      "text": "Dix",
+      "start": 27414,
+      "end": 27417,
+      "label": "MISC"
+    },
+    {
+      "text": "Venez",
+      "start": 27544,
+      "end": 27549,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 27564,
+      "end": 27570,
+      "label": "LOC"
+    },
+    {
+      "text": "Varese",
+      "start": 27701,
+      "end": 27707,
+      "label": "LOC"
+    },
+    {
+      "text": "Étourdi",
+      "start": 27709,
+      "end": 27716,
+      "label": "PER"
+    },
+    {
+      "text": "la Bastille",
+      "start": 27870,
+      "end": 27881,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 27922,
+      "end": 27928,
+      "label": "LOC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 27950,
+      "end": 27961,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 28168,
+      "end": 28174,
+      "label": "LOC"
+    },
+    {
+      "text": "Super flumina Babylonis",
+      "start": 28383,
+      "end": 28406,
+      "label": "MISC"
+    },
+    {
+      "text": "boulevard Bourdon",
+      "start": 28500,
+      "end": 28517,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 28658,
+      "end": 28664,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 28909,
+      "end": 28915,
+      "label": "MISC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 28977,
+      "end": 28988,
+      "label": "MISC"
+    },
+    {
+      "text": "Memmi",
+      "start": 29014,
+      "end": 29019,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 29021,
+      "end": 29029,
+      "label": "MISC"
+    },
+    {
+      "text": "Ave Maria",
+      "start": 29090,
+      "end": 29099,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 29168,
+      "end": 29174,
+      "label": "LOC"
+    },
+    {
+      "text": "Quinze Vingts",
+      "start": 29344,
+      "end": 29357,
+      "label": "LOC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 29651,
+      "end": 29662,
+      "label": "PER"
+    },
+    {
+      "text": "langui",
+      "start": 29698,
+      "end": 29704,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 29751,
+      "end": 29756,
+      "label": "LOC"
+    }
+  ]
+}

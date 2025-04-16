@@ -1,0 +1,4006 @@
+{
+  "entities": [
+    {
+      "text": "MONSIEUR",
+      "start": 28,
+      "end": 36,
+      "label": "ORG"
+    },
+    {
+      "text": "GÉNÉRAL",
+      "start": 40,
+      "end": 47,
+      "label": "ORG"
+    },
+    {
+      "text": "POMMEREUL",
+      "start": 57,
+      "end": 66,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 158,
+      "end": 164,
+      "label": "MISC"
+    },
+    {
+      "text": "Civilisation",
+      "start": 206,
+      "end": 218,
+      "label": "MISC"
+    },
+    {
+      "text": "Règne Social",
+      "start": 235,
+      "end": 247,
+      "label": "ORG"
+    },
+    {
+      "text": "Règne",
+      "start": 285,
+      "end": 290,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 663,
+      "end": 668,
+      "label": "LOC"
+    },
+    {
+      "text": "X",
+      "start": 792,
+      "end": 793,
+      "label": "ORG"
+    },
+    {
+      "text": "Trouver",
+      "start": 802,
+      "end": 809,
+      "label": "PER"
+    },
+    {
+      "text": "Trouver",
+      "start": 1176,
+      "end": 1183,
+      "label": "PER"
+    },
+    {
+      "text": "Demandez",
+      "start": 1385,
+      "end": 1393,
+      "label": "MISC"
+    },
+    {
+      "text": "Religion",
+      "start": 1415,
+      "end": 1423,
+      "label": "ORG"
+    },
+    {
+      "text": "Morale",
+      "start": 1435,
+      "end": 1441,
+      "label": "PER"
+    },
+    {
+      "text": "Collége",
+      "start": 1453,
+      "end": 1460,
+      "label": "ORG"
+    },
+    {
+      "text": "Institution",
+      "start": 1472,
+      "end": 1483,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 1512,
+      "end": 1517,
+      "label": "LOC"
+    },
+    {
+      "text": "Religions",
+      "start": 1645,
+      "end": 1654,
+      "label": "LOC"
+    },
+    {
+      "text": "Colléges",
+      "start": 1691,
+      "end": 1699,
+      "label": "LOC"
+    },
+    {
+      "text": "Institutions",
+      "start": 1705,
+      "end": 1717,
+      "label": "ORG"
+    },
+    {
+      "text": "Morales",
+      "start": 1723,
+      "end": 1730,
+      "label": "LOC"
+    },
+    {
+      "text": "Lois",
+      "start": 1766,
+      "end": 1770,
+      "label": "LOC"
+    },
+    {
+      "text": "Banquiers",
+      "start": 2210,
+      "end": 2219,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 2915,
+      "end": 2926,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 2930,
+      "end": 2936,
+      "label": "PER"
+    },
+    {
+      "text": "Société décerne à la",
+      "start": 3174,
+      "end": 3194,
+      "label": "ORG"
+    },
+    {
+      "text": "Vertu",
+      "start": 3195,
+      "end": 3200,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 3363,
+      "end": 3367,
+      "label": "LOC"
+    },
+    {
+      "text": "Code",
+      "start": 3438,
+      "end": 3442,
+      "label": "MISC"
+    },
+    {
+      "text": "Turenne",
+      "start": 3449,
+      "end": 3456,
+      "label": "PER"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 3466,
+      "end": 3478,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 3483,
+      "end": 3490,
+      "label": "ORG"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 3598,
+      "end": 3610,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 3649,
+      "end": 3656,
+      "label": "ORG"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 3684,
+      "end": 3696,
+      "label": "LOC"
+    },
+    {
+      "text": "Monnaie",
+      "start": 4051,
+      "end": 4058,
+      "label": "LOC"
+    },
+    {
+      "text": "Écoles",
+      "start": 4236,
+      "end": 4242,
+      "label": "LOC"
+    },
+    {
+      "text": "Talent",
+      "start": 4963,
+      "end": 4969,
+      "label": "LOC"
+    },
+    {
+      "text": "Vertu",
+      "start": 4979,
+      "end": 4984,
+      "label": "LOC"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 5014,
+      "end": 5026,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 5033,
+      "end": 5040,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 5150,
+      "end": 5155,
+      "label": "LOC"
+    },
+    {
+      "text": "Honneur",
+      "start": 5383,
+      "end": 5390,
+      "label": "ORG"
+    },
+    {
+      "text": "Argent",
+      "start": 5407,
+      "end": 5413,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 5530,
+      "end": 5535,
+      "label": "LOC"
+    },
+    {
+      "text": "us",
+      "start": 5625,
+      "end": 5627,
+      "label": "LOC"
+    },
+    {
+      "text": "Caisse",
+      "start": 6020,
+      "end": 6026,
+      "label": "MISC"
+    },
+    {
+      "text": "serrure",
+      "start": 6722,
+      "end": 6729,
+      "label": "LOC"
+    },
+    {
+      "text": "Sésame ouvre toi",
+      "start": 6796,
+      "end": 6812,
+      "label": "MISC"
+    },
+    {
+      "text": "Mille",
+      "start": 6819,
+      "end": 6824,
+      "label": "LOC"
+    },
+    {
+      "text": "Une Nuits",
+      "start": 6828,
+      "end": 6837,
+      "label": "MISC"
+    },
+    {
+      "text": "dragon de la Mécanique",
+      "start": 7007,
+      "end": 7029,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 7425,
+      "end": 7433,
+      "label": "ORG"
+    },
+    {
+      "text": "rue Saint Lazare",
+      "start": 7448,
+      "end": 7464,
+      "label": "LOC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 7914,
+      "end": 7921,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 8081,
+      "end": 8086,
+      "label": "LOC"
+    },
+    {
+      "text": "Employés",
+      "start": 8091,
+      "end": 8099,
+      "label": "MISC"
+    },
+    {
+      "text": "Carcel",
+      "start": 8430,
+      "end": 8436,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 9355,
+      "end": 9371,
+      "label": "ORG"
+    },
+    {
+      "text": "Dragons",
+      "start": 9415,
+      "end": 9422,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 9428,
+      "end": 9438,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 9452,
+      "end": 9460,
+      "label": "ORG"
+    },
+    {
+      "text": "Studzianka",
+      "start": 9840,
+      "end": 9850,
+      "label": "PER"
+    },
+    {
+      "text": "Moscou",
+      "start": 9874,
+      "end": 9880,
+      "label": "LOC"
+    },
+    {
+      "text": "langui",
+      "start": 9899,
+      "end": 9905,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 9917,
+      "end": 9927,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 10003,
+      "end": 10013,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 10079,
+      "end": 10088,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 10173,
+      "end": 10182,
+      "label": "PER"
+    },
+    {
+      "text": "Grand",
+      "start": 10616,
+      "end": 10621,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 10868,
+      "end": 10877,
+      "label": "PER"
+    },
+    {
+      "text": "Watschildine",
+      "start": 10983,
+      "end": 10995,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 10998,
+      "end": 11005,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 11093,
+      "end": 11101,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 11567,
+      "end": 11576,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 12048,
+      "end": 12055,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 12470,
+      "end": 12477,
+      "label": "LOC"
+    },
+    {
+      "text": "Tokay",
+      "start": 12955,
+      "end": 12960,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 13211,
+      "end": 13219,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 13271,
+      "end": 13280,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 13469,
+      "end": 13478,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 13506,
+      "end": 13513,
+      "label": "LOC"
+    },
+    {
+      "text": "Demain",
+      "start": 13537,
+      "end": 13543,
+      "label": "PER"
+    },
+    {
+      "text": "La somme",
+      "start": 13585,
+      "end": 13593,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 13714,
+      "end": 13721,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 13754,
+      "end": 13763,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 13901,
+      "end": 13910,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 14091,
+      "end": 14099,
+      "label": "LOC"
+    },
+    {
+      "text": "lettre de crédit",
+      "start": 14269,
+      "end": 14285,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre",
+      "start": 14289,
+      "end": 14294,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 14328,
+      "end": 14337,
+      "label": "PER"
+    },
+    {
+      "text": "Passez",
+      "start": 14375,
+      "end": 14381,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 14405,
+      "end": 14412,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 14414,
+      "end": 14423,
+      "label": "PER"
+    },
+    {
+      "text": "JOHN MELMOTH",
+      "start": 14502,
+      "end": 14514,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 14577,
+      "end": 14586,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 14681,
+      "end": 14688,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 14931,
+      "end": 14938,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 15095,
+      "end": 15104,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 15113,
+      "end": 15120,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 15416,
+      "end": 15425,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Nucingen",
+      "start": 15860,
+      "end": 15878,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 15915,
+      "end": 15924,
+      "label": "PER"
+    },
+    {
+      "text": "Soisy",
+      "start": 16049,
+      "end": 16054,
+      "label": "LOC"
+    },
+    {
+      "text": "Voudrez",
+      "start": 16058,
+      "end": 16065,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 16087,
+      "end": 16093,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 16105,
+      "end": 16113,
+      "label": "LOC"
+    },
+    {
+      "text": "Watschildine",
+      "start": 16142,
+      "end": 16154,
+      "label": "ORG"
+    },
+    {
+      "text": "Adieu",
+      "start": 16294,
+      "end": 16299,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 16345,
+      "end": 16351,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 16428,
+      "end": 16437,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Nucingen",
+      "start": 16471,
+      "end": 16489,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 16493,
+      "end": 16499,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 16593,
+      "end": 16597,
+      "label": "MISC"
+    },
+    {
+      "text": "Piquoizeau",
+      "start": 16642,
+      "end": 16652,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 16933,
+      "end": 16935,
+      "label": "LOC"
+    },
+    {
+      "text": "Sûr",
+      "start": 16964,
+      "end": 16967,
+      "label": "LOC"
+    },
+    {
+      "text": "Werbrust",
+      "start": 17052,
+      "end": 17060,
+      "label": "MISC"
+    },
+    {
+      "text": "Tillet",
+      "start": 17098,
+      "end": 17104,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Joubert",
+      "start": 17119,
+      "end": 17130,
+      "label": "LOC"
+    },
+    {
+      "text": "Bon !",
+      "start": 17134,
+      "end": 17139,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 17144,
+      "end": 17153,
+      "label": "PER"
+    },
+    {
+      "text": "Mille diables !",
+      "start": 17258,
+      "end": 17273,
+      "label": "MISC"
+    },
+    {
+      "text": "boulevard de Gand",
+      "start": 17300,
+      "end": 17317,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 17650,
+      "end": 17657,
+      "label": "LOC"
+    },
+    {
+      "text": "P",
+      "start": 17794,
+      "end": 17795,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 17863,
+      "end": 17869,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Ferraro",
+      "start": 17886,
+      "end": 17899,
+      "label": "PER"
+    },
+    {
+      "text": "Zembin",
+      "start": 17964,
+      "end": 17970,
+      "label": "LOC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 18331,
+      "end": 18339,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 18457,
+      "end": 18466,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 18500,
+      "end": 18507,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 18572,
+      "end": 18579,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 18638,
+      "end": 18647,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 19125,
+      "end": 19134,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 19487,
+      "end": 19495,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 19531,
+      "end": 19540,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 19777,
+      "end": 19784,
+      "label": "LOC"
+    },
+    {
+      "text": "Wastchildine",
+      "start": 19841,
+      "end": 19853,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 19888,
+      "end": 19896,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 19981,
+      "end": 19988,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Ferraro",
+      "start": 20015,
+      "end": 20028,
+      "label": "PER"
+    },
+    {
+      "text": "Portsmouth",
+      "start": 20065,
+      "end": 20075,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 20079,
+      "end": 20085,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 20221,
+      "end": 20229,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 20236,
+      "end": 20242,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 20284,
+      "end": 20292,
+      "label": "PER"
+    },
+    {
+      "text": "Naples",
+      "start": 20354,
+      "end": 20360,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 20943,
+      "end": 20948,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 20989,
+      "end": 21003,
+      "label": "LOC"
+    },
+    {
+      "text": "Versailles",
+      "start": 21035,
+      "end": 21045,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal des logis",
+      "start": 21114,
+      "end": 21132,
+      "label": "PER"
+    },
+    {
+      "text": "Naqui",
+      "start": 21322,
+      "end": 21327,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 21374,
+      "end": 21381,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 21450,
+      "end": 21457,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 21530,
+      "end": 21539,
+      "label": "PER"
+    },
+    {
+      "text": "boulevard Montmartre",
+      "start": 21599,
+      "end": 21619,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 21763,
+      "end": 21765,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21800,
+      "end": 21804,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Michel",
+      "start": 21831,
+      "end": 21843,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 21955,
+      "end": 21961,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 21990,
+      "end": 21999,
+      "label": "PER"
+    },
+    {
+      "text": "Faubourg Montmartre",
+      "start": 22015,
+      "end": 22034,
+      "label": "LOC"
+    },
+    {
+      "text": "Richer",
+      "start": 22094,
+      "end": 22100,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Garde",
+      "start": 22265,
+      "end": 22283,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 22345,
+      "end": 22354,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Garde",
+      "start": 22538,
+      "end": 22556,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 22612,
+      "end": 22621,
+      "label": "PER"
+    },
+    {
+      "text": "Piémontaise",
+      "start": 22639,
+      "end": 22650,
+      "label": "LOC"
+    },
+    {
+      "text": "Madone",
+      "start": 23111,
+      "end": 23117,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 23138,
+      "end": 23147,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 23661,
+      "end": 23665,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 23790,
+      "end": 23799,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 23977,
+      "end": 23981,
+      "label": "MISC"
+    },
+    {
+      "text": "Papa Castanier",
+      "start": 24096,
+      "end": 24110,
+      "label": "PER"
+    },
+    {
+      "text": "Piémontaise",
+      "start": 24403,
+      "end": 24414,
+      "label": "LOC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 24447,
+      "end": 24455,
+      "label": "PER"
+    },
+    {
+      "text": "VENISE SAUVÉE",
+      "start": 24481,
+      "end": 24494,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 24737,
+      "end": 24746,
+      "label": "PER"
+    },
+    {
+      "text": "La Garde",
+      "start": 24977,
+      "end": 24985,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 25414,
+      "end": 25421,
+      "label": "ORG"
+    },
+    {
+      "text": "Société",
+      "start": 25467,
+      "end": 25474,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La",
+      "start": 25728,
+      "end": 25740,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 25768,
+      "end": 25777,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 25863,
+      "end": 25872,
+      "label": "PER"
+    },
+    {
+      "text": "Naqui",
+      "start": 25966,
+      "end": 25971,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 26106,
+      "end": 26111,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 26233,
+      "end": 26242,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 26310,
+      "end": 26320,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 26840,
+      "end": 26849,
+      "label": "PER"
+    },
+    {
+      "text": "Nancy",
+      "start": 26984,
+      "end": 26989,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 27070,
+      "end": 27076,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 27078,
+      "end": 27087,
+      "label": "PER"
+    },
+    {
+      "text": "province des Redoutes",
+      "start": 27201,
+      "end": 27222,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblables",
+      "start": 27533,
+      "end": 27543,
+      "label": "LOC"
+    },
+    {
+      "text": "mourra t",
+      "start": 27838,
+      "end": 27846,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 28099,
+      "end": 28108,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 28820,
+      "end": 28829,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 29365,
+      "end": 29374,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 29505,
+      "end": 29515,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 29543,
+      "end": 29547,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 29700,
+      "end": 29704,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 29874,
+      "end": 29882,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 29933,
+      "end": 29942,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Garde",
+      "start": 30254,
+      "end": 30272,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 31541,
+      "end": 31550,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 31574,
+      "end": 31582,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 31896,
+      "end": 31904,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 32055,
+      "end": 32064,
+      "label": "PER"
+    },
+    {
+      "text": "Piémontaise",
+      "start": 32451,
+      "end": 32462,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 32726,
+      "end": 32735,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 32869,
+      "end": 32878,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier voulût",
+      "start": 33159,
+      "end": 33175,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 33642,
+      "end": 33650,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 33718,
+      "end": 33727,
+      "label": "PER"
+    },
+    {
+      "text": "Naqui",
+      "start": 33769,
+      "end": 33774,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33898,
+      "end": 33903,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 34722,
+      "end": 34731,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 34885,
+      "end": 34894,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 34967,
+      "end": 34975,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 35234,
+      "end": 35243,
+      "label": "PER"
+    },
+    {
+      "text": "Naqui",
+      "start": 35271,
+      "end": 35276,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes moyens",
+      "start": 35834,
+      "end": 35844,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 35927,
+      "end": 35936,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 36817,
+      "end": 36826,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 37044,
+      "end": 37053,
+      "label": "PER"
+    },
+    {
+      "text": "Mathéo",
+      "start": 37271,
+      "end": 37277,
+      "label": "PER"
+    },
+    {
+      "text": "Trésor Royal",
+      "start": 37294,
+      "end": 37306,
+      "label": "ORG"
+    },
+    {
+      "text": "Aquilina",
+      "start": 37435,
+      "end": 37443,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 37908,
+      "end": 37917,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 38011,
+      "end": 38019,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 38219,
+      "end": 38224,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 38337,
+      "end": 38346,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 38380,
+      "end": 38384,
+      "label": "PER"
+    },
+    {
+      "text": "La Garde",
+      "start": 38425,
+      "end": 38433,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà monsieur",
+      "start": 38499,
+      "end": 38513,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny",
+      "start": 38519,
+      "end": 38524,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 38526,
+      "end": 38535,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 38564,
+      "end": 38572,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 38679,
+      "end": 38688,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 38692,
+      "end": 38696,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38701,
+      "end": 38705,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 38725,
+      "end": 38733,
+      "label": "PER"
+    },
+    {
+      "text": "Naqui",
+      "start": 38894,
+      "end": 38899,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 38941,
+      "end": 38945,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 39041,
+      "end": 39050,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 39212,
+      "end": 39221,
+      "label": "PER"
+    },
+    {
+      "text": "Gymnase",
+      "start": 39349,
+      "end": 39356,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 39421,
+      "end": 39426,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 39434,
+      "end": 39439,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 39547,
+      "end": 39552,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 39567,
+      "end": 39572,
+      "label": "LOC"
+    },
+    {
+      "text": "Quiqui",
+      "start": 39630,
+      "end": 39636,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 39815,
+      "end": 39820,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 39835,
+      "end": 39840,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 39853,
+      "end": 39855,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 39942,
+      "end": 39946,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 40118,
+      "end": 40127,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 40174,
+      "end": 40182,
+      "label": "PER"
+    },
+    {
+      "text": "Dragons",
+      "start": 40595,
+      "end": 40602,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 40898,
+      "end": 40906,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 40911,
+      "end": 40915,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Lendore",
+      "start": 41046,
+      "end": 41059,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 41103,
+      "end": 41108,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 41184,
+      "end": 41193,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 41299,
+      "end": 41303,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 41432,
+      "end": 41437,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 41464,
+      "end": 41470,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 41474,
+      "end": 41480,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingrate",
+      "start": 41589,
+      "end": 41596,
+      "label": "MISC"
+    },
+    {
+      "text": "Ingrate",
+      "start": 41601,
+      "end": 41608,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 42420,
+      "end": 42424,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 42480,
+      "end": 42489,
+      "label": "PER"
+    },
+    {
+      "text": "Gymnase",
+      "start": 42574,
+      "end": 42581,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 42773,
+      "end": 42782,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 42805,
+      "end": 42813,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 42858,
+      "end": 42863,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 42878,
+      "end": 42882,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 42999,
+      "end": 43003,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 43046,
+      "end": 43055,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 43285,
+      "end": 43294,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 43331,
+      "end": 43333,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 43374,
+      "end": 43383,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 43392,
+      "end": 43396,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 43761,
+      "end": 43767,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 43834,
+      "end": 43843,
+      "label": "PER"
+    },
+    {
+      "text": "Gymnase",
+      "start": 43910,
+      "end": 43917,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 43971,
+      "end": 43980,
+      "label": "PER"
+    },
+    {
+      "text": "La Garde",
+      "start": 44170,
+      "end": 44178,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 44354,
+      "end": 44361,
+      "label": "PER"
+    },
+    {
+      "text": "Faussaire",
+      "start": 44502,
+      "end": 44511,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 44521,
+      "end": 44528,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 44551,
+      "end": 44560,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 44696,
+      "end": 44703,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 45050,
+      "end": 45057,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 45728,
+      "end": 45734,
+      "label": "LOC"
+    },
+    {
+      "text": "Sens",
+      "start": 45859,
+      "end": 45863,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 46096,
+      "end": 46101,
+      "label": "LOC"
+    },
+    {
+      "text": "Celui",
+      "start": 46294,
+      "end": 46299,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 46322,
+      "end": 46331,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 46425,
+      "end": 46432,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 46679,
+      "end": 46685,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Garde",
+      "start": 46702,
+      "end": 46720,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 46792,
+      "end": 46801,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Garde",
+      "start": 46872,
+      "end": 46890,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 46934,
+      "end": 46942,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 46975,
+      "end": 46982,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 46986,
+      "end": 46993,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 47054,
+      "end": 47063,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 47118,
+      "end": 47125,
+      "label": "LOC"
+    },
+    {
+      "text": "Gymnase",
+      "start": 47273,
+      "end": 47280,
+      "label": "MISC"
+    },
+    {
+      "text": "Perlet",
+      "start": 47339,
+      "end": 47345,
+      "label": "PER"
+    },
+    {
+      "text": "Comédien d'Étampes",
+      "start": 47362,
+      "end": 47380,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 47501,
+      "end": 47510,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 47599,
+      "end": 47606,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 47744,
+      "end": 47752,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 47874,
+      "end": 47883,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 48084,
+      "end": 48090,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 48129,
+      "end": 48137,
+      "label": "LOC"
+    },
+    {
+      "text": "Gymnase",
+      "start": 48174,
+      "end": 48181,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 48209,
+      "end": 48218,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 48282,
+      "end": 48289,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 48471,
+      "end": 48480,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 48572,
+      "end": 48579,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 48699,
+      "end": 48708,
+      "label": "PER"
+    },
+    {
+      "text": "Regarde",
+      "start": 48892,
+      "end": 48899,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 48911,
+      "end": 48918,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 48920,
+      "end": 48929,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 49028,
+      "end": 49037,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 49094,
+      "end": 49102,
+      "label": "PER"
+    },
+    {
+      "text": "rue Richer",
+      "start": 49161,
+      "end": 49171,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 49383,
+      "end": 49388,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi j'épouserai madame de La Garde !",
+      "start": 49591,
+      "end": 49627,
+      "label": "MISC"
+    },
+    {
+      "text": "Vieux",
+      "start": 49654,
+      "end": 49659,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 49693,
+      "end": 49702,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 49708,
+      "end": 49713,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 49724,
+      "end": 49732,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 49748,
+      "end": 49753,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 49780,
+      "end": 49784,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 49797,
+      "end": 49802,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 49804,
+      "end": 49812,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 49846,
+      "end": 49855,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 49912,
+      "end": 49920,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 49950,
+      "end": 49959,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 50071,
+      "end": 50076,
+      "label": "PER"
+    },
+    {
+      "text": "Maudite",
+      "start": 50243,
+      "end": 50250,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 50266,
+      "end": 50275,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 50290,
+      "end": 50298,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 50333,
+      "end": 50341,
+      "label": "MISC"
+    },
+    {
+      "text": "Perlet",
+      "start": 50344,
+      "end": 50350,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 50367,
+      "end": 50374,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 50466,
+      "end": 50473,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 50714,
+      "end": 50723,
+      "label": "PER"
+    },
+    {
+      "text": "Perlet",
+      "start": 50805,
+      "end": 50811,
+      "label": "LOC"
+    },
+    {
+      "text": "Richer",
+      "start": 50922,
+      "end": 50928,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 51003,
+      "end": 51013,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de l'Orangerie",
+      "start": 51069,
+      "end": 51087,
+      "label": "LOC"
+    },
+    {
+      "text": "Récollets",
+      "start": 51105,
+      "end": 51114,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal des logis",
+      "start": 51163,
+      "end": 51181,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51351,
+      "end": 51356,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 51373,
+      "end": 51380,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 51447,
+      "end": 51456,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 51550,
+      "end": 51559,
+      "label": "PER"
+    },
+    {
+      "text": "comprima",
+      "start": 51644,
+      "end": 51652,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 51666,
+      "end": 51673,
+      "label": "LOC"
+    },
+    {
+      "text": "Regarde",
+      "start": 51677,
+      "end": 51684,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 51719,
+      "end": 51726,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 51728,
+      "end": 51737,
+      "label": "PER"
+    },
+    {
+      "text": "Conciergerie",
+      "start": 51778,
+      "end": 51790,
+      "label": "LOC"
+    },
+    {
+      "text": "Caissier",
+      "start": 51840,
+      "end": 51848,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour d'Assises",
+      "start": 51898,
+      "end": 51912,
+      "label": "ORG"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 52016,
+      "end": 52033,
+      "label": "LOC"
+    },
+    {
+      "text": "Bicêtre",
+      "start": 52131,
+      "end": 52138,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 52221,
+      "end": 52229,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 52266,
+      "end": 52274,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 52369,
+      "end": 52378,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 52388,
+      "end": 52395,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Garde",
+      "start": 52424,
+      "end": 52442,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 52549,
+      "end": 52553,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 52632,
+      "end": 52640,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 52652,
+      "end": 52662,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 52737,
+      "end": 52744,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 52767,
+      "end": 52776,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 52988,
+      "end": 52992,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 53053,
+      "end": 53061,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 53349,
+      "end": 53358,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 53410,
+      "end": 53417,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 53470,
+      "end": 53479,
+      "label": "PER"
+    },
+    {
+      "text": "La Garde",
+      "start": 53491,
+      "end": 53499,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 53709,
+      "end": 53714,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 53716,
+      "end": 53725,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 53832,
+      "end": 53841,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Garde",
+      "start": 54088,
+      "end": 54106,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 54282,
+      "end": 54291,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 54294,
+      "end": 54301,
+      "label": "LOC"
+    },
+    {
+      "text": "Veux",
+      "start": 54305,
+      "end": 54309,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 54346,
+      "end": 54353,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 54419,
+      "end": 54423,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 54428,
+      "end": 54437,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 54491,
+      "end": 54499,
+      "label": "PER"
+    },
+    {
+      "text": "Parle",
+      "start": 54657,
+      "end": 54662,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 55051,
+      "end": 55060,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 55064,
+      "end": 55070,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 55259,
+      "end": 55267,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 55583,
+      "end": 55588,
+      "label": "LOC"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 55626,
+      "end": 55634,
+      "label": "MISC"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 55858,
+      "end": 55866,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 55977,
+      "end": 55986,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 56056,
+      "end": 56065,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 56242,
+      "end": 56250,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 56322,
+      "end": 56327,
+      "label": "PER"
+    },
+    {
+      "text": "Mes",
+      "start": 56380,
+      "end": 56383,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny",
+      "start": 56508,
+      "end": 56513,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 56562,
+      "end": 56569,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 56631,
+      "end": 56640,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 56642,
+      "end": 56649,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 56753,
+      "end": 56758,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 56760,
+      "end": 56765,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 56779,
+      "end": 56785,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 56791,
+      "end": 56798,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 56892,
+      "end": 56901,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 56918,
+      "end": 56927,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 56997,
+      "end": 57004,
+      "label": "PER"
+    },
+    {
+      "text": "Fascinée",
+      "start": 57047,
+      "end": 57055,
+      "label": "LOC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 57092,
+      "end": 57100,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 57263,
+      "end": 57272,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 57274,
+      "end": 57279,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 57362,
+      "end": 57369,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 57448,
+      "end": 57457,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 57469,
+      "end": 57479,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 57812,
+      "end": 57821,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 57980,
+      "end": 57988,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 58100,
+      "end": 58109,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 58273,
+      "end": 58282,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 58385,
+      "end": 58393,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 58395,
+      "end": 58404,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 58545,
+      "end": 58554,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 58638,
+      "end": 58643,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 58677,
+      "end": 58681,
+      "label": "PER"
+    },
+    {
+      "text": "Piémontaise",
+      "start": 58745,
+      "end": 58756,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 58813,
+      "end": 58822,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 58883,
+      "end": 58891,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 58938,
+      "end": 58942,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 59020,
+      "end": 59029,
+      "label": "PER"
+    },
+    {
+      "text": "place de Grève",
+      "start": 59269,
+      "end": 59283,
+      "label": "LOC"
+    },
+    {
+      "text": "Vente de Charbonniers",
+      "start": 59365,
+      "end": 59386,
+      "label": "MISC"
+    },
+    {
+      "text": "Piémontaise",
+      "start": 59464,
+      "end": 59475,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 59478,
+      "end": 59482,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 59812,
+      "end": 59820,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 59888,
+      "end": 59897,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 59945,
+      "end": 59954,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 60171,
+      "end": 60173,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 60245,
+      "end": 60254,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvez",
+      "start": 60256,
+      "end": 60262,
+      "label": "LOC"
+    },
+    {
+      "text": "Rodolphe",
+      "start": 60621,
+      "end": 60629,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 60796,
+      "end": 60800,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 60915,
+      "end": 60919,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 61066,
+      "end": 61075,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 61119,
+      "end": 61123,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 61466,
+      "end": 61475,
+      "label": "PER"
+    },
+    {
+      "text": "Mourir",
+      "start": 61574,
+      "end": 61580,
+      "label": "LOC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 61589,
+      "end": 61597,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 61724,
+      "end": 61733,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 61815,
+      "end": 61823,
+      "label": "PER"
+    },
+    {
+      "text": "Sortez",
+      "start": 61882,
+      "end": 61888,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 62074,
+      "end": 62083,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 62322,
+      "end": 62330,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 62334,
+      "end": 62338,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 62347,
+      "end": 62356,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 62368,
+      "end": 62373,
+      "label": "LOC"
+    },
+    {
+      "text": "Envoyez",
+      "start": 62383,
+      "end": 62390,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 62429,
+      "end": 62434,
+      "label": "LOC"
+    },
+    {
+      "text": "Naqui",
+      "start": 62436,
+      "end": 62441,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 62447,
+      "end": 62456,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 62620,
+      "end": 62628,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 62795,
+      "end": 62800,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonsoir",
+      "start": 62804,
+      "end": 62811,
+      "label": "LOC"
+    },
+    {
+      "text": "viens",
+      "start": 62997,
+      "end": 63002,
+      "label": "PER"
+    },
+    {
+      "text": "Aquilina",
+      "start": 63046,
+      "end": 63054,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 63148,
+      "end": 63152,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 63412,
+      "end": 63421,
+      "label": "LOC"
+    },
+    {
+      "text": "Aquilina",
+      "start": 63818,
+      "end": 63826,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 64019,
+      "end": 64027,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 64085,
+      "end": 64090,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 64133,
+      "end": 64142,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 64484,
+      "end": 64493,
+      "label": "PER"
+    },
+    {
+      "text": "Sais",
+      "start": 64589,
+      "end": 64593,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 64820,
+      "end": 64826,
+      "label": "PER"
+    },
+    {
+      "text": "Turc",
+      "start": 65061,
+      "end": 65065,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 65160,
+      "end": 65165,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 65402,
+      "end": 65411,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 65656,
+      "end": 65664,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 65702,
+      "end": 65710,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 65814,
+      "end": 65823,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 65858,
+      "end": 65867,
+      "label": "PER"
+    },
+    {
+      "text": "Démon",
+      "start": 66474,
+      "end": 66479,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 66848,
+      "end": 66855,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 67050,
+      "end": 67059,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 67415,
+      "end": 67422,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 67424,
+      "end": 67433,
+      "label": "PER"
+    },
+    {
+      "text": "Hindoustan",
+      "start": 67498,
+      "end": 67508,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 67569,
+      "end": 67576,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 69509,
+      "end": 69516,
+      "label": "LOC"
+    },
+    {
+      "text": "INCONNU",
+      "start": 69541,
+      "end": 69548,
+      "label": "MISC"
+    },
+    {
+      "text": "Satan",
+      "start": 70092,
+      "end": 70097,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70101,
+      "end": 70105,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 70178,
+      "end": 70187,
+      "label": "PER"
+    },
+    {
+      "text": "Satan",
+      "start": 70323,
+      "end": 70328,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70508,
+      "end": 70512,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 70532,
+      "end": 70541,
+      "label": "PER"
+    },
+    {
+      "text": "Néron",
+      "start": 71159,
+      "end": 71164,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 71197,
+      "end": 71202,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 71305,
+      "end": 71310,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 71426,
+      "end": 71435,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 72619,
+      "end": 72628,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 73214,
+      "end": 73221,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 73277,
+      "end": 73284,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Férou",
+      "start": 73295,
+      "end": 73304,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 73311,
+      "end": 73324,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 73473,
+      "end": 73481,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 73520,
+      "end": 73525,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 73589,
+      "end": 73598,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 73901,
+      "end": 73910,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 74139,
+      "end": 74148,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 74171,
+      "end": 74176,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 74279,
+      "end": 74288,
+      "label": "PER"
+    },
+    {
+      "text": "John Melmoth",
+      "start": 74522,
+      "end": 74534,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 74538,
+      "end": 74546,
+      "label": "PER"
+    },
+    {
+      "text": "L'Esprit",
+      "start": 74833,
+      "end": 74841,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 74910,
+      "end": 74913,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 75199,
+      "end": 75203,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 75652,
+      "end": 75656,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 75965,
+      "end": 75974,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 76027,
+      "end": 76040,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 76094,
+      "end": 76101,
+      "label": "MISC"
+    },
+    {
+      "text": "Irlandais",
+      "start": 76463,
+      "end": 76472,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 76474,
+      "end": 76483,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 77380,
+      "end": 77389,
+      "label": "PER"
+    },
+    {
+      "text": "Officier",
+      "start": 77675,
+      "end": 77683,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 78214,
+      "end": 78223,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 79380,
+      "end": 79389,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution française",
+      "start": 79897,
+      "end": 79917,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 79962,
+      "end": 79971,
+      "label": "PER"
+    },
+    {
+      "text": "Satan",
+      "start": 80761,
+      "end": 80766,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 80780,
+      "end": 80784,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 80939,
+      "end": 80946,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 81010,
+      "end": 81019,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 81715,
+      "end": 81719,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 82163,
+      "end": 82170,
+      "label": "MISC"
+    },
+    {
+      "text": "Dies irae l'épouvanta",
+      "start": 82175,
+      "end": 82196,
+      "label": "MISC"
+    },
+    {
+      "text": "Esprit",
+      "start": 82334,
+      "end": 82340,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 82489,
+      "end": 82498,
+      "label": "PER"
+    },
+    {
+      "text": "suisse",
+      "start": 82539,
+      "end": 82545,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge",
+      "start": 82720,
+      "end": 82726,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 82763,
+      "end": 82772,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 82898,
+      "end": 82911,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 83124,
+      "end": 83128,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 83178,
+      "end": 83182,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 83185,
+      "end": 83189,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 83809,
+      "end": 83814,
+      "label": "LOC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 84230,
+      "end": 84237,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 84881,
+      "end": 84888,
+      "label": "PER"
+    },
+    {
+      "text": "Pères de l'Église",
+      "start": 85151,
+      "end": 85168,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 85533,
+      "end": 85537,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 85686,
+      "end": 85695,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 85713,
+      "end": 85719,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 85874,
+      "end": 85883,
+      "label": "PER"
+    },
+    {
+      "text": "Semblable",
+      "start": 85954,
+      "end": 85963,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 86278,
+      "end": 86287,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 86677,
+      "end": 86685,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque les effets",
+      "start": 86746,
+      "end": 86763,
+      "label": "ORG"
+    },
+    {
+      "text": "Claparon",
+      "start": 86867,
+      "end": 86875,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 86982,
+      "end": 86991,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 87033,
+      "end": 87041,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 87146,
+      "end": 87154,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 87170,
+      "end": 87179,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 87289,
+      "end": 87293,
+      "label": "MISC"
+    },
+    {
+      "text": "Claparon",
+      "start": 87300,
+      "end": 87308,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 87352,
+      "end": 87358,
+      "label": "ORG"
+    },
+    {
+      "text": "Castanier",
+      "start": 87471,
+      "end": 87480,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 87484,
+      "end": 87492,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 87497,
+      "end": 87503,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 87807,
+      "end": 87816,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 87849,
+      "end": 87850,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 87860,
+      "end": 87861,
+      "label": "LOC"
+    },
+    {
+      "text": "Savez",
+      "start": 88008,
+      "end": 88013,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 88064,
+      "end": 88072,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 88196,
+      "end": 88205,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 88278,
+      "end": 88286,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 88443,
+      "end": 88452,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 88518,
+      "end": 88524,
+      "label": "ORG"
+    },
+    {
+      "text": "Claparon",
+      "start": 88597,
+      "end": 88605,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 88636,
+      "end": 88641,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 88693,
+      "end": 88702,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 88735,
+      "end": 88743,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 89036,
+      "end": 89045,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 89341,
+      "end": 89347,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 89460,
+      "end": 89466,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 89643,
+      "end": 89651,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 89664,
+      "end": 89673,
+      "label": "PER"
+    },
+    {
+      "text": "Irlandais",
+      "start": 89693,
+      "end": 89702,
+      "label": "LOC"
+    },
+    {
+      "text": "Castanier",
+      "start": 89879,
+      "end": 89888,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 89910,
+      "end": 89919,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 90013,
+      "end": 90021,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 90556,
+      "end": 90564,
+      "label": "PER"
+    },
+    {
+      "text": "Lucifer",
+      "start": 90697,
+      "end": 90704,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 90757,
+      "end": 90762,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 90794,
+      "end": 90802,
+      "label": "PER"
+    },
+    {
+      "text": "Castanier",
+      "start": 90805,
+      "end": 90814,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 90890,
+      "end": 90903,
+      "label": "PER"
+    },
+    {
+      "text": "Un prêtre !",
+      "start": 90974,
+      "end": 90985,
+      "label": "MISC"
+    },
+    {
+      "text": "Bible",
+      "start": 91225,
+      "end": 91230,
+      "label": "MISC"
+    },
+    {
+      "text": "Castanier",
+      "start": 91276,
+      "end": 91285,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 91319,
+      "end": 91327,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 91414,
+      "end": 91420,
+      "label": "ORG"
+    },
+    {
+      "text": "Moïse",
+      "start": 91708,
+      "end": 91713,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 91877,
+      "end": 91885,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 91969,
+      "end": 91975,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 92147,
+      "end": 92155,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse provisoire",
+      "start": 92651,
+      "end": 92668,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Feydeau",
+      "start": 92691,
+      "end": 92702,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Feydeau",
+      "start": 92861,
+      "end": 92872,
+      "label": "LOC"
+    },
+    {
+      "text": "Euphrasie",
+      "start": 93416,
+      "end": 93425,
+      "label": "LOC"
+    },
+    {
+      "text": "Crottat",
+      "start": 93537,
+      "end": 93544,
+      "label": "LOC"
+    },
+    {
+      "text": "Euphrasie",
+      "start": 93774,
+      "end": 93783,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Euphrasie",
+      "start": 93942,
+      "end": 93958,
+      "label": "PER"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 94018,
+      "end": 94036,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 94343,
+      "end": 94351,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 94491,
+      "end": 94499,
+      "label": "PER"
+    },
+    {
+      "text": "Euphrasie",
+      "start": 94566,
+      "end": 94575,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 94912,
+      "end": 94916,
+      "label": "MISC"
+    },
+    {
+      "text": "Euphrasie",
+      "start": 95208,
+      "end": 95217,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 95369,
+      "end": 95374,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Euphrasie",
+      "start": 95387,
+      "end": 95403,
+      "label": "PER"
+    },
+    {
+      "text": "Irlandais",
+      "start": 95687,
+      "end": 95696,
+      "label": "LOC"
+    },
+    {
+      "text": "Maturin",
+      "start": 95715,
+      "end": 95722,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 96042,
+      "end": 96054,
+      "label": "PER"
+    },
+    {
+      "text": "Honte",
+      "start": 96059,
+      "end": 96064,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 96287,
+      "end": 96292,
+      "label": "LOC"
+    },
+    {
+      "text": "Astaroth",
+      "start": 96462,
+      "end": 96470,
+      "label": "LOC"
+    },
+    {
+      "text": "Mercure",
+      "start": 96534,
+      "end": 96541,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 96685,
+      "end": 96693,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 96728,
+      "end": 96736,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacob Boehm",
+      "start": 96790,
+      "end": 96801,
+      "label": "PER"
+    },
+    {
+      "text": "TRIPLE VIE DE",
+      "start": 96846,
+      "end": 96859,
+      "label": "MISC"
+    },
+    {
+      "text": "L'HOMME",
+      "start": 96860,
+      "end": 96867,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 96890,
+      "end": 96894,
+      "label": "MISC"
+    },
+    {
+      "text": "FIAT",
+      "start": 96924,
+      "end": 96928,
+      "label": "ORG"
+    },
+    {
+      "text": "FIAT",
+      "start": 96933,
+      "end": 96937,
+      "label": "ORG"
+    },
+    {
+      "text": "Mercure",
+      "start": 97019,
+      "end": 97026,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 97033,
+      "end": 97037,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemand",
+      "start": 97066,
+      "end": 97074,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiat",
+      "start": 97141,
+      "end": 97145,
+      "label": "ORG"
+    },
+    {
+      "text": "fiat",
+      "start": 97165,
+      "end": 97169,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemand",
+      "start": 97247,
+      "end": 97255,
+      "label": "LOC"
+    },
+    {
+      "text": "Traité de la TRIPLE VIE DE",
+      "start": 97295,
+      "end": 97321,
+      "label": "MISC"
+    },
+    {
+      "text": "L'HOMME imprimé",
+      "start": 97322,
+      "end": 97337,
+      "label": "MISC"
+    },
+    {
+      "text": "Migneret",
+      "start": 97361,
+      "end": 97369,
+      "label": "PER"
+    },
+    {
+      "text": "Ha !",
+      "start": 97446,
+      "end": 97450,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 97494,
+      "end": 97499,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 97515,
+      "end": 97521,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 97533,
+      "end": 97541,
+      "label": "LOC"
+    },
+    {
+      "text": "Travaillait",
+      "start": 97545,
+      "end": 97556,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 97747,
+      "end": 97755,
+      "label": "LOC"
+    },
+    {
+      "text": "Boehm",
+      "start": 97970,
+      "end": 97975,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 98025,
+      "end": 98031,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 98044,
+      "end": 98049,
+      "label": "LOC"
+    }
+  ]
+}

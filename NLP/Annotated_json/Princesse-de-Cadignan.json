@@ -1,0 +1,3280 @@
+{
+  "entities": [
+    {
+      "text": "SECRETS",
+      "start": 4,
+      "end": 11,
+      "label": "ORG"
+    },
+    {
+      "text": "PRINCESSE",
+      "start": 18,
+      "end": 27,
+      "label": "MISC"
+    },
+    {
+      "text": "CADIGNAN",
+      "start": 31,
+      "end": 39,
+      "label": "ORG"
+    },
+    {
+      "text": "GAUTIER",
+      "start": 59,
+      "end": 66,
+      "label": "MISC"
+    },
+    {
+      "text": "Révolution de Juillet",
+      "start": 100,
+      "end": 121,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour",
+      "start": 188,
+      "end": 192,
+      "label": "ORG"
+    },
+    {
+      "text": "Cadignan",
+      "start": 217,
+      "end": 225,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 356,
+      "end": 365,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 416,
+      "end": 421,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 742,
+      "end": 750,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 800,
+      "end": 824,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 920,
+      "end": 925,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 997,
+      "end": 1021,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 1053,
+      "end": 1061,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution de Juillet",
+      "start": 1156,
+      "end": 1177,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 1210,
+      "end": 1216,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 1689,
+      "end": 1701,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 1759,
+      "end": 1772,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 1802,
+      "end": 1810,
+      "label": "PER"
+    },
+    {
+      "text": "Vanves",
+      "start": 1824,
+      "end": 1830,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 1832,
+      "end": 1840,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre de Beaujeu",
+      "start": 1917,
+      "end": 1934,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 1976,
+      "end": 1985,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 2132,
+      "end": 2138,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 2235,
+      "end": 2243,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Maufrigneuse",
+      "start": 2269,
+      "end": 2285,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 2370,
+      "end": 2378,
+      "label": "LOC"
+    },
+    {
+      "text": "Rohan",
+      "start": 2466,
+      "end": 2471,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 2488,
+      "end": 2496,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 2816,
+      "end": 2824,
+      "label": "LOC"
+    },
+    {
+      "text": "MEMINI",
+      "start": 2901,
+      "end": 2907,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 3031,
+      "end": 3036,
+      "label": "LOC"
+    },
+    {
+      "text": "Altesse",
+      "start": 3238,
+      "end": 3245,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 3331,
+      "end": 3340,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 3394,
+      "end": 3403,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 3468,
+      "end": 3474,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 3484,
+      "end": 3492,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 3552,
+      "end": 3560,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 3713,
+      "end": 3726,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 4222,
+      "end": 4228,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 4416,
+      "end": 4433,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 4661,
+      "end": 4676,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 4736,
+      "end": 4744,
+      "label": "LOC"
+    },
+    {
+      "text": "Premières",
+      "start": 4760,
+      "end": 4769,
+      "label": "LOC"
+    },
+    {
+      "text": "Baignoire du Rez de chaussée",
+      "start": 4779,
+      "end": 4807,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Cadignan",
+      "start": 4822,
+      "end": 4840,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 5275,
+      "end": 5281,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 5326,
+      "end": 5334,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 5603,
+      "end": 5627,
+      "label": "PER"
+    },
+    {
+      "text": "Georges de Maufrigneuse",
+      "start": 6017,
+      "end": 6040,
+      "label": "PER"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 6082,
+      "end": 6090,
+      "label": "PER"
+    },
+    {
+      "text": "Job",
+      "start": 6105,
+      "end": 6108,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6340,
+      "end": 6345,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 6418,
+      "end": 6425,
+      "label": "MISC"
+    },
+    {
+      "text": "Miromesnil",
+      "start": 6685,
+      "end": 6695,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles X",
+      "start": 7006,
+      "end": 7015,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mirbel",
+      "start": 7021,
+      "end": 7037,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 7127,
+      "end": 7133,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 7621,
+      "end": 7638,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 7689,
+      "end": 7707,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 7715,
+      "end": 7721,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 7726,
+      "end": 7735,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 7740,
+      "end": 7759,
+      "label": "PER"
+    },
+    {
+      "text": "général Montriveau",
+      "start": 7764,
+      "end": 7782,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 7788,
+      "end": 7811,
+      "label": "PER"
+    },
+    {
+      "text": "Adjuda Pinto",
+      "start": 7818,
+      "end": 7830,
+      "label": "PER"
+    },
+    {
+      "text": "prince Galathionne",
+      "start": 7835,
+      "end": 7853,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 7874,
+      "end": 7883,
+      "label": "PER"
+    },
+    {
+      "text": "Réthoré",
+      "start": 7888,
+      "end": 7895,
+      "label": "PER"
+    },
+    {
+      "text": "beau Lucien de Rubempré",
+      "start": 7900,
+      "end": 7923,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration",
+      "start": 8260,
+      "end": 8275,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges de Maufrigneuse",
+      "start": 8641,
+      "end": 8664,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 8826,
+      "end": 8833,
+      "label": "MISC"
+    },
+    {
+      "text": "Toby",
+      "start": 9256,
+      "end": 9260,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 9731,
+      "end": 9743,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de",
+      "start": 9754,
+      "end": 9765,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 9766,
+      "end": 9778,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 9798,
+      "end": 9803,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 9918,
+      "end": 9925,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Miromesnil",
+      "start": 10007,
+      "end": 10021,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10285,
+      "end": 10290,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 10541,
+      "end": 10545,
+      "label": "MISC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 10609,
+      "end": 10626,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 10895,
+      "end": 10917,
+      "label": "ORG"
+    },
+    {
+      "text": "Forcée",
+      "start": 11306,
+      "end": 11312,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarreins",
+      "start": 11819,
+      "end": 11829,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse d'Uxelles",
+      "start": 11956,
+      "end": 11974,
+      "label": "PER"
+    },
+    {
+      "text": "Harpagon",
+      "start": 12083,
+      "end": 12091,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 12358,
+      "end": 12366,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12396,
+      "end": 12401,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 12517,
+      "end": 12523,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 12527,
+      "end": 12533,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 13188,
+      "end": 13193,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 13536,
+      "end": 13542,
+      "label": "LOC"
+    },
+    {
+      "text": "Fronde",
+      "start": 14116,
+      "end": 14122,
+      "label": "MISC"
+    },
+    {
+      "text": "MADAME",
+      "start": 14226,
+      "end": 14232,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 14237,
+      "end": 14256,
+      "label": "PER"
+    },
+    {
+      "text": "Vendée",
+      "start": 14270,
+      "end": 14276,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 14376,
+      "end": 14382,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 14573,
+      "end": 14597,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 14997,
+      "end": 15005,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 15211,
+      "end": 15228,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 15584,
+      "end": 15590,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 15599,
+      "end": 15614,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 15692,
+      "end": 15711,
+      "label": "PER"
+    },
+    {
+      "text": "Berthe de Cinq Cygne",
+      "start": 15942,
+      "end": 15962,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 15998,
+      "end": 16013,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Cinq Cygne",
+      "start": 16161,
+      "end": 16183,
+      "label": "PER"
+    },
+    {
+      "text": "forgeron",
+      "start": 16226,
+      "end": 16234,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 16260,
+      "end": 16269,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Esgrignon",
+      "start": 16364,
+      "end": 16375,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 16503,
+      "end": 16509,
+      "label": "LOC"
+    },
+    {
+      "text": "De Marsay",
+      "start": 16514,
+      "end": 16523,
+      "label": "PER"
+    },
+    {
+      "text": "Seriez",
+      "start": 17216,
+      "end": 17222,
+      "label": "PER"
+    },
+    {
+      "text": "Jamais",
+      "start": 17338,
+      "end": 17344,
+      "label": "LOC"
+    },
+    {
+      "text": "jasmin refleuri",
+      "start": 17510,
+      "end": 17525,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 18367,
+      "end": 18382,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 18538,
+      "end": 18542,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 18647,
+      "end": 18652,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 19061,
+      "end": 19076,
+      "label": "PER"
+    },
+    {
+      "text": "Béatrix",
+      "start": 19248,
+      "end": 19255,
+      "label": "PER"
+    },
+    {
+      "text": "Conti",
+      "start": 19274,
+      "end": 19279,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 19498,
+      "end": 19513,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle des Touches",
+      "start": 19515,
+      "end": 19539,
+      "label": "PER"
+    },
+    {
+      "text": "Conti",
+      "start": 19578,
+      "end": 19583,
+      "label": "PER"
+    },
+    {
+      "text": "Béatrix",
+      "start": 19585,
+      "end": 19592,
+      "label": "PER"
+    },
+    {
+      "text": "Conti",
+      "start": 19741,
+      "end": 19746,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 19805,
+      "end": 19820,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 19918,
+      "end": 19924,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 19929,
+      "end": 19948,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 20127,
+      "end": 20136,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 20140,
+      "end": 20149,
+      "label": "PER"
+    },
+    {
+      "text": "La Vallière",
+      "start": 20307,
+      "end": 20318,
+      "label": "LOC"
+    },
+    {
+      "text": "Montespan",
+      "start": 20324,
+      "end": 20333,
+      "label": "MISC"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 20339,
+      "end": 20356,
+      "label": "PER"
+    },
+    {
+      "text": "Étampes",
+      "start": 20374,
+      "end": 20381,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteauroux",
+      "start": 20388,
+      "end": 20399,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 20768,
+      "end": 20778,
+      "label": "MISC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 20857,
+      "end": 20870,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 21088,
+      "end": 21097,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 21114,
+      "end": 21122,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Camps",
+      "start": 21127,
+      "end": 21142,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 21168,
+      "end": 21174,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 21321,
+      "end": 21327,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21586,
+      "end": 21590,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 22215,
+      "end": 22219,
+      "label": "MISC"
+    },
+    {
+      "text": "Léonard de Vinci",
+      "start": 22322,
+      "end": 22338,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 22966,
+      "end": 22970,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 23133,
+      "end": 23148,
+      "label": "PER"
+    },
+    {
+      "text": "Contez",
+      "start": 23616,
+      "end": 23622,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre",
+      "start": 24044,
+      "end": 24050,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 24761,
+      "end": 24773,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 24839,
+      "end": 24847,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 24972,
+      "end": 24980,
+      "label": "LOC"
+    },
+    {
+      "text": "voyais",
+      "start": 24988,
+      "end": 24994,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 25661,
+      "end": 25670,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Cloud",
+      "start": 25743,
+      "end": 25754,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère, m'a t il dit, j'ai failli être tué sur les quatre heures",
+      "start": 25781,
+      "end": 25847,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 25947,
+      "end": 25955,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Merry",
+      "start": 26395,
+      "end": 26406,
+      "label": "PER"
+    },
+    {
+      "text": "général Lamarque",
+      "start": 26473,
+      "end": 26489,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 26608,
+      "end": 26617,
+      "label": "LOC"
+    },
+    {
+      "text": "Panoramas",
+      "start": 26639,
+      "end": 26648,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 26664,
+      "end": 26669,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Merry",
+      "start": 26754,
+      "end": 26765,
+      "label": "PER"
+    },
+    {
+      "text": "Montrez",
+      "start": 26888,
+      "end": 26895,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 27248,
+      "end": 27252,
+      "label": "MISC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 27275,
+      "end": 27291,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 27355,
+      "end": 27361,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 27402,
+      "end": 27418,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 27484,
+      "end": 27499,
+      "label": "PER"
+    },
+    {
+      "text": "Chrestien",
+      "start": 27551,
+      "end": 27560,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Merry",
+      "start": 27591,
+      "end": 27602,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 27707,
+      "end": 27713,
+      "label": "LOC"
+    },
+    {
+      "text": "Voulez",
+      "start": 27942,
+      "end": 27948,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 27982,
+      "end": 27988,
+      "label": "LOC"
+    },
+    {
+      "text": "causerez",
+      "start": 28026,
+      "end": 28034,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 28056,
+      "end": 28066,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 28119,
+      "end": 28126,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 28130,
+      "end": 28139,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 28161,
+      "end": 28167,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 28181,
+      "end": 28196,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 28378,
+      "end": 28393,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 29310,
+      "end": 29325,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre des députés",
+      "start": 29452,
+      "end": 29471,
+      "label": "LOC"
+    },
+    {
+      "text": "Côté",
+      "start": 29493,
+      "end": 29497,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 29621,
+      "end": 29636,
+      "label": "PER"
+    },
+    {
+      "text": "baron de Rastignac",
+      "start": 29678,
+      "end": 29696,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 29716,
+      "end": 29720,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 29726,
+      "end": 29735,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 29750,
+      "end": 29756,
+      "label": "LOC"
+    },
+    {
+      "text": "Daniel",
+      "start": 29827,
+      "end": 29833,
+      "label": "PER"
+    },
+    {
+      "text": "Horace",
+      "start": 29835,
+      "end": 29841,
+      "label": "MISC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 29866,
+      "end": 29882,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Merry",
+      "start": 29934,
+      "end": 29945,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 30188,
+      "end": 30194,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 30197,
+      "end": 30206,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous secrétaire d'État",
+      "start": 30211,
+      "end": 30233,
+      "label": "MISC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 30360,
+      "end": 30376,
+      "label": "PER"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 30467,
+      "end": 30479,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon Giraud",
+      "start": 30493,
+      "end": 30504,
+      "label": "PER"
+    },
+    {
+      "text": "Maître",
+      "start": 30520,
+      "end": 30526,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 30555,
+      "end": 30572,
+      "label": "ORG"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 30589,
+      "end": 30604,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 30657,
+      "end": 30664,
+      "label": "ORG"
+    },
+    {
+      "text": "Bénédictin",
+      "start": 30765,
+      "end": 30775,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 31582,
+      "end": 31590,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 32411,
+      "end": 32427,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 32887,
+      "end": 32893,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 32925,
+      "end": 32932,
+      "label": "PER"
+    },
+    {
+      "text": "Fornarina",
+      "start": 32942,
+      "end": 32951,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 33044,
+      "end": 33068,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 33096,
+      "end": 33102,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 33455,
+      "end": 33461,
+      "label": "MISC"
+    },
+    {
+      "text": "Idéal",
+      "start": 33503,
+      "end": 33508,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 33676,
+      "end": 33682,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 33715,
+      "end": 33722,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 33729,
+      "end": 33738,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 34292,
+      "end": 34298,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 34373,
+      "end": 34380,
+      "label": "ORG"
+    },
+    {
+      "text": "Nature",
+      "start": 34419,
+      "end": 34425,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 34492,
+      "end": 34498,
+      "label": "MISC"
+    },
+    {
+      "text": "Espèce",
+      "start": 34533,
+      "end": 34539,
+      "label": "MISC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 34605,
+      "end": 34613,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 35200,
+      "end": 35206,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 35381,
+      "end": 35389,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 35399,
+      "end": 35405,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 35723,
+      "end": 35732,
+      "label": "LOC"
+    },
+    {
+      "text": "ARS",
+      "start": 36046,
+      "end": 36049,
+      "label": "MISC"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 36102,
+      "end": 36118,
+      "label": "LOC"
+    },
+    {
+      "text": "grosse Laforêt",
+      "start": 36223,
+      "end": 36237,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 36300,
+      "end": 36307,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 36497,
+      "end": 36503,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 36523,
+      "end": 36538,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 36544,
+      "end": 36553,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 36557,
+      "end": 36564,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 36581,
+      "end": 36587,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 36648,
+      "end": 36656,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 37096,
+      "end": 37103,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 37107,
+      "end": 37116,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 37140,
+      "end": 37146,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Cadignan",
+      "start": 37514,
+      "end": 37532,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 37548,
+      "end": 37555,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 37559,
+      "end": 37568,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 37767,
+      "end": 37773,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 37794,
+      "end": 37818,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 37853,
+      "end": 37859,
+      "label": "LOC"
+    },
+    {
+      "text": "Ajuda",
+      "start": 37896,
+      "end": 37901,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 37954,
+      "end": 37973,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 38012,
+      "end": 38021,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 38049,
+      "end": 38055,
+      "label": "LOC"
+    },
+    {
+      "text": "Égérie de deux Ministres des Affaires étrangères",
+      "start": 38229,
+      "end": 38277,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 38284,
+      "end": 38292,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 38387,
+      "end": 38403,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 38520,
+      "end": 38526,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 38540,
+      "end": 38548,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 38554,
+      "end": 38559,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 38739,
+      "end": 38747,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel",
+      "start": 38761,
+      "end": 38767,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 38804,
+      "end": 38808,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 38862,
+      "end": 38869,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 39078,
+      "end": 39083,
+      "label": "PER"
+    },
+    {
+      "text": "Donnez",
+      "start": 39186,
+      "end": 39192,
+      "label": "PER"
+    },
+    {
+      "text": "Déluge de Girodet",
+      "start": 39268,
+      "end": 39285,
+      "label": "PER"
+    },
+    {
+      "text": "Diane d'Uxelles",
+      "start": 39573,
+      "end": 39588,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 39609,
+      "end": 39619,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte",
+      "start": 39759,
+      "end": 39765,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 39783,
+      "end": 39789,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 39935,
+      "end": 39950,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 40134,
+      "end": 40140,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 40513,
+      "end": 40517,
+      "label": "MISC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 41727,
+      "end": 41740,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 41754,
+      "end": 41764,
+      "label": "MISC"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 41766,
+      "end": 41781,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 41783,
+      "end": 41792,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 41812,
+      "end": 41820,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Arthez",
+      "start": 41997,
+      "end": 42005,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Cadignan",
+      "start": 42012,
+      "end": 42030,
+      "label": "PER"
+    },
+    {
+      "text": "Arts",
+      "start": 42152,
+      "end": 42156,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 42429,
+      "end": 42436,
+      "label": "PER"
+    },
+    {
+      "text": "Certes Diane",
+      "start": 42614,
+      "end": 42626,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 44494,
+      "end": 44509,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 45064,
+      "end": 45069,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 45140,
+      "end": 45159,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 45191,
+      "end": 45206,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 45308,
+      "end": 45314,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 45417,
+      "end": 45427,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 45438,
+      "end": 45445,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 45447,
+      "end": 45456,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 45465,
+      "end": 45471,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 45734,
+      "end": 45747,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 46261,
+      "end": 46267,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 46597,
+      "end": 46603,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 46919,
+      "end": 46927,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 47536,
+      "end": 47552,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 47568,
+      "end": 47574,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 47585,
+      "end": 47591,
+      "label": "PER"
+    },
+    {
+      "text": "Gardez",
+      "start": 47688,
+      "end": 47694,
+      "label": "LOC"
+    },
+    {
+      "text": "Convention",
+      "start": 47790,
+      "end": 47800,
+      "label": "MISC"
+    },
+    {
+      "text": "Comité de Salut",
+      "start": 47824,
+      "end": 47839,
+      "label": "ORG"
+    },
+    {
+      "text": "Michel",
+      "start": 47854,
+      "end": 47860,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 47907,
+      "end": 47915,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel",
+      "start": 48060,
+      "end": 48066,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Merry",
+      "start": 48350,
+      "end": 48361,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 48514,
+      "end": 48522,
+      "label": "LOC"
+    },
+    {
+      "text": "Daniel",
+      "start": 48577,
+      "end": 48583,
+      "label": "PER"
+    },
+    {
+      "text": "Michel",
+      "start": 49105,
+      "end": 49111,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 49139,
+      "end": 49145,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 50172,
+      "end": 50178,
+      "label": "PER"
+    },
+    {
+      "text": "révolte de juillet",
+      "start": 50296,
+      "end": 50314,
+      "label": "MISC"
+    },
+    {
+      "text": "Théâtre Italien",
+      "start": 50467,
+      "end": 50482,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Maufrigneuse",
+      "start": 50659,
+      "end": 50681,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 50751,
+      "end": 50755,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthez",
+      "start": 51008,
+      "end": 51014,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel",
+      "start": 51274,
+      "end": 51280,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 51293,
+      "end": 51299,
+      "label": "LOC"
+    },
+    {
+      "text": "Étais",
+      "start": 51457,
+      "end": 51462,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 51540,
+      "end": 51546,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 51747,
+      "end": 51753,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez moi",
+      "start": 52373,
+      "end": 52383,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 52827,
+      "end": 52836,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauveur",
+      "start": 53059,
+      "end": 53066,
+      "label": "PER"
+    },
+    {
+      "text": "lac de Tibériade",
+      "start": 53085,
+      "end": 53101,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 53400,
+      "end": 53408,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 53818,
+      "end": 53834,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 54294,
+      "end": 54310,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 54514,
+      "end": 54520,
+      "label": "LOC"
+    },
+    {
+      "text": "Daniel",
+      "start": 54833,
+      "end": 54839,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 54981,
+      "end": 54987,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 55797,
+      "end": 55813,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 55860,
+      "end": 55866,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 56588,
+      "end": 56594,
+      "label": "PER"
+    },
+    {
+      "text": "Michel",
+      "start": 56598,
+      "end": 56604,
+      "label": "MISC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 56633,
+      "end": 56641,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 56820,
+      "end": 56826,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 56971,
+      "end": 56978,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 57048,
+      "end": 57054,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel",
+      "start": 57415,
+      "end": 57421,
+      "label": "PER"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 57423,
+      "end": 57431,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Cadignan",
+      "start": 57531,
+      "end": 57548,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 57618,
+      "end": 57625,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 57629,
+      "end": 57638,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 57793,
+      "end": 57808,
+      "label": "PER"
+    },
+    {
+      "text": "Attendez",
+      "start": 57887,
+      "end": 57895,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Montcornet",
+      "start": 58025,
+      "end": 58045,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 58073,
+      "end": 58088,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 58134,
+      "end": 58140,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 58142,
+      "end": 58151,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 58155,
+      "end": 58162,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 58260,
+      "end": 58271,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 58275,
+      "end": 58279,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 58304,
+      "end": 58309,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 58495,
+      "end": 58510,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 58555,
+      "end": 58562,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 58816,
+      "end": 58831,
+      "label": "PER"
+    },
+    {
+      "text": "Comme",
+      "start": 58896,
+      "end": 58901,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérin",
+      "start": 59110,
+      "end": 59116,
+      "label": "PER"
+    },
+    {
+      "text": "Didon",
+      "start": 59128,
+      "end": 59133,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 59199,
+      "end": 59205,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Montcornet",
+      "start": 59425,
+      "end": 59445,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 59565,
+      "end": 59571,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 59634,
+      "end": 59643,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 59652,
+      "end": 59659,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 60197,
+      "end": 60205,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 60649,
+      "end": 60655,
+      "label": "LOC"
+    },
+    {
+      "text": "baron de Rastignac",
+      "start": 60742,
+      "end": 60760,
+      "label": "MISC"
+    },
+    {
+      "text": "Michel",
+      "start": 60875,
+      "end": 60881,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthez",
+      "start": 60918,
+      "end": 60924,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 61004,
+      "end": 61013,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 61139,
+      "end": 61144,
+      "label": "LOC"
+    },
+    {
+      "text": "Daniel",
+      "start": 61216,
+      "end": 61222,
+      "label": "PER"
+    },
+    {
+      "text": "Aimez",
+      "start": 61304,
+      "end": 61309,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 61487,
+      "end": 61494,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 61498,
+      "end": 61506,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 61878,
+      "end": 61884,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 61956,
+      "end": 61965,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 61988,
+      "end": 62007,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 62167,
+      "end": 62176,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonsoir",
+      "start": 62313,
+      "end": 62320,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de",
+      "start": 62385,
+      "end": 62391,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellefond",
+      "start": 62392,
+      "end": 62401,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 62415,
+      "end": 62421,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 62507,
+      "end": 62514,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 62516,
+      "end": 62524,
+      "label": "PER"
+    },
+    {
+      "text": "Tobie",
+      "start": 62591,
+      "end": 62596,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 62791,
+      "end": 62796,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 63301,
+      "end": 63309,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 63462,
+      "end": 63467,
+      "label": "PER"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 63896,
+      "end": 63904,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 64146,
+      "end": 64150,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 64251,
+      "end": 64260,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 64527,
+      "end": 64533,
+      "label": "LOC"
+    },
+    {
+      "text": "Socrate",
+      "start": 65241,
+      "end": 65248,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 65363,
+      "end": 65369,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 66018,
+      "end": 66026,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 66160,
+      "end": 66166,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 67073,
+      "end": 67079,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartufe",
+      "start": 67519,
+      "end": 67526,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 67810,
+      "end": 67816,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 68123,
+      "end": 68129,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 68744,
+      "end": 68750,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 69105,
+      "end": 69114,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 69133,
+      "end": 69139,
+      "label": "LOC"
+    },
+    {
+      "text": "Légitimité",
+      "start": 69162,
+      "end": 69172,
+      "label": "MISC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 69174,
+      "end": 69182,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 69269,
+      "end": 69276,
+      "label": "ORG"
+    },
+    {
+      "text": "Marsay",
+      "start": 69414,
+      "end": 69420,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 69491,
+      "end": 69499,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 69525,
+      "end": 69531,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 69561,
+      "end": 69567,
+      "label": "LOC"
+    },
+    {
+      "text": "feindre",
+      "start": 70078,
+      "end": 70085,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 70182,
+      "end": 70186,
+      "label": "ORG"
+    },
+    {
+      "text": "Politique les voient grands",
+      "start": 70205,
+      "end": 70232,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthez",
+      "start": 70636,
+      "end": 70642,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 71665,
+      "end": 71671,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 72638,
+      "end": 72646,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 72694,
+      "end": 72700,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 72839,
+      "end": 72845,
+      "label": "PER"
+    },
+    {
+      "text": "Arthur",
+      "start": 73184,
+      "end": 73190,
+      "label": "MISC"
+    },
+    {
+      "text": "Juan",
+      "start": 73457,
+      "end": 73461,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 73677,
+      "end": 73685,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 73713,
+      "end": 73732,
+      "label": "PER"
+    },
+    {
+      "text": "Étrangers",
+      "start": 73819,
+      "end": 73828,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 73924,
+      "end": 73932,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 73936,
+      "end": 73955,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 73983,
+      "end": 73991,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 74130,
+      "end": 74134,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 74198,
+      "end": 74206,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles X",
+      "start": 74422,
+      "end": 74431,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 74558,
+      "end": 74571,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution",
+      "start": 74693,
+      "end": 74703,
+      "label": "MISC"
+    },
+    {
+      "text": "Charge au retour des Bourbons",
+      "start": 74723,
+      "end": 74752,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 74933,
+      "end": 74946,
+      "label": "MISC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 75187,
+      "end": 75195,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution de Juillet",
+      "start": 75226,
+      "end": 75247,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 75344,
+      "end": 75361,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 75459,
+      "end": 75478,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 75520,
+      "end": 75527,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 75565,
+      "end": 75577,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 75786,
+      "end": 75798,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 75801,
+      "end": 75808,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 76090,
+      "end": 76095,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 76257,
+      "end": 76262,
+      "label": "LOC"
+    },
+    {
+      "text": "Dauphin",
+      "start": 76295,
+      "end": 76302,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 76437,
+      "end": 76442,
+      "label": "LOC"
+    },
+    {
+      "text": "Charge",
+      "start": 76542,
+      "end": 76548,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 76590,
+      "end": 76601,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 76607,
+      "end": 76616,
+      "label": "PER"
+    },
+    {
+      "text": "Libéraux",
+      "start": 76832,
+      "end": 76840,
+      "label": "MISC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 76892,
+      "end": 76900,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 77102,
+      "end": 77115,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration",
+      "start": 77159,
+      "end": 77174,
+      "label": "MISC"
+    },
+    {
+      "text": "Turenne",
+      "start": 77270,
+      "end": 77277,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 77290,
+      "end": 77298,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 77475,
+      "end": 77487,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 77668,
+      "end": 77680,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 77826,
+      "end": 77833,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 77838,
+      "end": 77855,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 77927,
+      "end": 77935,
+      "label": "LOC"
+    },
+    {
+      "text": "Aristocratie",
+      "start": 77976,
+      "end": 77988,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Maufrigneuse",
+      "start": 78194,
+      "end": 78213,
+      "label": "PER"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 79025,
+      "end": 79033,
+      "label": "PER"
+    },
+    {
+      "text": "Diane d'Uxelles",
+      "start": 79076,
+      "end": 79091,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 79239,
+      "end": 79244,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 79540,
+      "end": 79546,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 79846,
+      "end": 79852,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 80120,
+      "end": 80126,
+      "label": "PER"
+    },
+    {
+      "text": "Semblable",
+      "start": 80482,
+      "end": 80491,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 80553,
+      "end": 80559,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 80847,
+      "end": 80852,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 81204,
+      "end": 81210,
+      "label": "LOC"
+    },
+    {
+      "text": "Épictète",
+      "start": 81948,
+      "end": 81956,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 82118,
+      "end": 82124,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 82132,
+      "end": 82137,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 82320,
+      "end": 82326,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 82428,
+      "end": 82434,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 82499,
+      "end": 82507,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 82754,
+      "end": 82762,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 83317,
+      "end": 83322,
+      "label": "PER"
+    },
+    {
+      "text": "Sommes",
+      "start": 83339,
+      "end": 83345,
+      "label": "LOC"
+    },
+    {
+      "text": "Tulou",
+      "start": 83599,
+      "end": 83604,
+      "label": "LOC"
+    },
+    {
+      "text": "Daniel",
+      "start": 83661,
+      "end": 83667,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 83899,
+      "end": 83903,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 83923,
+      "end": 83927,
+      "label": "MISC"
+    },
+    {
+      "text": "Diane",
+      "start": 83972,
+      "end": 83977,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 84450,
+      "end": 84456,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 84614,
+      "end": 84618,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthez",
+      "start": 84679,
+      "end": 84685,
+      "label": "LOC"
+    },
+    {
+      "text": "Turenne",
+      "start": 85150,
+      "end": 85157,
+      "label": "PER"
+    },
+    {
+      "text": "Turenne",
+      "start": 85235,
+      "end": 85242,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 85247,
+      "end": 85251,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 85292,
+      "end": 85300,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 85304,
+      "end": 85312,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 85486,
+      "end": 85492,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous faites de moi un homme",
+      "start": 85590,
+      "end": 85617,
+      "label": "MISC"
+    },
+    {
+      "text": "Pardon",
+      "start": 85728,
+      "end": 85734,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 86649,
+      "end": 86655,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 86715,
+      "end": 86720,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 86877,
+      "end": 86882,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 87667,
+      "end": 87671,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthez",
+      "start": 87843,
+      "end": 87849,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 87960,
+      "end": 87966,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 88022,
+      "end": 88028,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 88033,
+      "end": 88038,
+      "label": "PER"
+    },
+    {
+      "text": "D'Arthez",
+      "start": 88196,
+      "end": 88204,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 88886,
+      "end": 88892,
+      "label": "PER"
+    },
+    {
+      "text": "herbivore",
+      "start": 89021,
+      "end": 89030,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 89100,
+      "end": 89106,
+      "label": "LOC"
+    },
+    {
+      "text": "Finissez",
+      "start": 89358,
+      "end": 89366,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 89490,
+      "end": 89496,
+      "label": "LOC"
+    },
+    {
+      "text": "Trompeuse",
+      "start": 89875,
+      "end": 89884,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel",
+      "start": 89909,
+      "end": 89915,
+      "label": "PER"
+    },
+    {
+      "text": "Talma",
+      "start": 90049,
+      "end": 90054,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 90126,
+      "end": 90134,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 90489,
+      "end": 90494,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 90741,
+      "end": 90748,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 90839,
+      "end": 90851,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 92269,
+      "end": 92273,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa d'Arthez",
+      "start": 92407,
+      "end": 92421,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse d'Uxelles",
+      "start": 92461,
+      "end": 92479,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 92510,
+      "end": 92522,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 92537,
+      "end": 92542,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 92803,
+      "end": 92810,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 93090,
+      "end": 93103,
+      "label": "MISC"
+    },
+    {
+      "text": "Nivernais",
+      "start": 93130,
+      "end": 93139,
+      "label": "LOC"
+    },
+    {
+      "text": "Anzy",
+      "start": 93198,
+      "end": 93202,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 93217,
+      "end": 93229,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 93463,
+      "end": 93471,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 93475,
+      "end": 93487,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 93945,
+      "end": 93949,
+      "label": "MISC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 94970,
+      "end": 94981,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 95817,
+      "end": 95824,
+      "label": "MISC"
+    },
+    {
+      "text": "Deux Frères",
+      "start": 96458,
+      "end": 96469,
+      "label": "ORG"
+    },
+    {
+      "text": "Moi, j'allais",
+      "start": 97792,
+      "end": 97805,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 97973,
+      "end": 97977,
+      "label": "MISC"
+    },
+    {
+      "text": "Italie",
+      "start": 98027,
+      "end": 98033,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 98227,
+      "end": 98234,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 98372,
+      "end": 98383,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 98472,
+      "end": 98491,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 98785,
+      "end": 98792,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 98883,
+      "end": 98890,
+      "label": "PER"
+    },
+    {
+      "text": "Uxelles",
+      "start": 98943,
+      "end": 98950,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 99075,
+      "end": 99080,
+      "label": "LOC"
+    },
+    {
+      "text": "Uxelles",
+      "start": 99105,
+      "end": 99112,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 99313,
+      "end": 99325,
+      "label": "PER"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 99626,
+      "end": 99638,
+      "label": "PER"
+    }
+  ]
+}

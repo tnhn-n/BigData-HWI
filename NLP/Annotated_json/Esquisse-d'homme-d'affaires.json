@@ -1,0 +1,2302 @@
+{
+  "entities": [
+    {
+      "text": "ESQUISSE",
+      "start": 0,
+      "end": 8,
+      "label": "MISC"
+    },
+    {
+      "text": "D'HOMME D'AFFAIRES D'",
+      "start": 9,
+      "end": 30,
+      "label": "MISC"
+    },
+    {
+      "text": "NATURE",
+      "start": 36,
+      "end": 42,
+      "label": "MISC"
+    },
+    {
+      "text": "AUTRICHE A PARIS",
+      "start": 105,
+      "end": 121,
+      "label": "LOC"
+    },
+    {
+      "text": "BANQUIER",
+      "start": 123,
+      "end": 131,
+      "label": "ORG"
+    },
+    {
+      "text": "Académie Française",
+      "start": 274,
+      "end": 292,
+      "label": "ORG"
+    },
+    {
+      "text": "Lorette",
+      "start": 478,
+      "end": 485,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorette",
+      "start": 580,
+      "end": 587,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame de Lorette",
+      "start": 712,
+      "end": 733,
+      "label": "PER"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 847,
+      "end": 856,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Turquet",
+      "start": 967,
+      "end": 987,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 992,
+      "end": 998,
+      "label": "LOC"
+    },
+    {
+      "text": "Fausse Maîtresse",
+      "start": 1066,
+      "end": 1082,
+      "label": "MISC"
+    },
+    {
+      "text": "Cardot",
+      "start": 1469,
+      "end": 1475,
+      "label": "PER"
+    },
+    {
+      "text": "Turquet",
+      "start": 1508,
+      "end": 1515,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 1517,
+      "end": 1526,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 1536,
+      "end": 1542,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 1561,
+      "end": 1569,
+      "label": "MISC"
+    },
+    {
+      "text": "Nathan",
+      "start": 1589,
+      "end": 1595,
+      "label": "PER"
+    },
+    {
+      "text": "Comédie",
+      "start": 1628,
+      "end": 1635,
+      "label": "LOC"
+    },
+    {
+      "text": "Palférine",
+      "start": 1712,
+      "end": 1721,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorette",
+      "start": 1893,
+      "end": 1900,
+      "label": "LOC"
+    },
+    {
+      "text": "Marguerite Turquet",
+      "start": 2285,
+      "end": 2303,
+      "label": "PER"
+    },
+    {
+      "text": "Aspasie",
+      "start": 2307,
+      "end": 2314,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque Olympique",
+      "start": 2318,
+      "end": 2334,
+      "label": "ORG"
+    },
+    {
+      "text": "Cardot",
+      "start": 2494,
+      "end": 2500,
+      "label": "PER"
+    },
+    {
+      "text": "Trompe",
+      "start": 2550,
+      "end": 2556,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 2608,
+      "end": 2617,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 2621,
+      "end": 2627,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 2727,
+      "end": 2733,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 2735,
+      "end": 2743,
+      "label": "MISC"
+    },
+    {
+      "text": "Nathan",
+      "start": 2745,
+      "end": 2751,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 3049,
+      "end": 3054,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3247,
+      "end": 3252,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 3430,
+      "end": 3436,
+      "label": "PER"
+    },
+    {
+      "text": "Clichy",
+      "start": 3441,
+      "end": 3447,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3699,
+      "end": 3704,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmartre",
+      "start": 3803,
+      "end": 3813,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la",
+      "start": 3824,
+      "end": 3833,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 3834,
+      "end": 3850,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Navarin",
+      "start": 3877,
+      "end": 3891,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 4067,
+      "end": 4075,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 4181,
+      "end": 4187,
+      "label": "LOC"
+    },
+    {
+      "text": "Palférine",
+      "start": 4838,
+      "end": 4847,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 4851,
+      "end": 4855,
+      "label": "MISC"
+    },
+    {
+      "text": "Palférine",
+      "start": 4897,
+      "end": 4906,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 5037,
+      "end": 5046,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Amanda",
+      "start": 5176,
+      "end": 5195,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 5325,
+      "end": 5334,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5354,
+      "end": 5359,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5457,
+      "end": 5462,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 5538,
+      "end": 5544,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 5548,
+      "end": 5556,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 5558,
+      "end": 5564,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 5571,
+      "end": 5580,
+      "label": "LOC"
+    },
+    {
+      "text": "mer orageuse de Paris",
+      "start": 5960,
+      "end": 5981,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 6164,
+      "end": 6172,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 6255,
+      "end": 6273,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 6282,
+      "end": 6291,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 6358,
+      "end": 6367,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 6417,
+      "end": 6423,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 6566,
+      "end": 6572,
+      "label": "PER"
+    },
+    {
+      "text": "Membre",
+      "start": 7289,
+      "end": 7295,
+      "label": "ORG"
+    },
+    {
+      "text": "Palférine",
+      "start": 7446,
+      "end": 7455,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 7472,
+      "end": 7481,
+      "label": "LOC"
+    },
+    {
+      "text": "Pigale",
+      "start": 7542,
+      "end": 7548,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 7554,
+      "end": 7559,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 7594,
+      "end": 7603,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 7683,
+      "end": 7691,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 7736,
+      "end": 7742,
+      "label": "PER"
+    },
+    {
+      "text": "Chopin",
+      "start": 7800,
+      "end": 7806,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 8036,
+      "end": 8040,
+      "label": "MISC"
+    },
+    {
+      "text": "Amérique",
+      "start": 8122,
+      "end": 8130,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 8136,
+      "end": 8145,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 8316,
+      "end": 8322,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 8329,
+      "end": 8337,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 8346,
+      "end": 8355,
+      "label": "PER"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 8455,
+      "end": 8464,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 8468,
+      "end": 8476,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 8551,
+      "end": 8557,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 8614,
+      "end": 8623,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 8715,
+      "end": 8722,
+      "label": "MISC"
+    },
+    {
+      "text": "Sixième Chambre",
+      "start": 8825,
+      "end": 8840,
+      "label": "ORG"
+    },
+    {
+      "text": "Lorette",
+      "start": 8890,
+      "end": 8897,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 8919,
+      "end": 8928,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 8938,
+      "end": 8950,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet consista",
+      "start": 8968,
+      "end": 8984,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère Public",
+      "start": 9073,
+      "end": 9089,
+      "label": "ORG"
+    },
+    {
+      "text": "COURAGEUX CÉRIZET",
+      "start": 9209,
+      "end": 9226,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 9423,
+      "end": 9428,
+      "label": "LOC"
+    },
+    {
+      "text": "Gauche",
+      "start": 9472,
+      "end": 9478,
+      "label": "ORG"
+    },
+    {
+      "text": "État",
+      "start": 9711,
+      "end": 9715,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 9721,
+      "end": 9725,
+      "label": "LOC"
+    },
+    {
+      "text": "Méthode des cartes",
+      "start": 9766,
+      "end": 9784,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 9796,
+      "end": 9802,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 9855,
+      "end": 9861,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Estourny",
+      "start": 9863,
+      "end": 9873,
+      "label": "PER"
+    },
+    {
+      "text": "Courageux Cérizet",
+      "start": 10003,
+      "end": 10020,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 10081,
+      "end": 10090,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 10113,
+      "end": 10120,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 10230,
+      "end": 10237,
+      "label": "MISC"
+    },
+    {
+      "text": "Courageux Cérizet !",
+      "start": 10426,
+      "end": 10445,
+      "label": "MISC"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 10450,
+      "end": 10462,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 10526,
+      "end": 10536,
+      "label": "ORG"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 10586,
+      "end": 10598,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 10631,
+      "end": 10638,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 10925,
+      "end": 10931,
+      "label": "PER"
+    },
+    {
+      "text": "Couture",
+      "start": 10984,
+      "end": 10991,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 11049,
+      "end": 11056,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 11159,
+      "end": 11168,
+      "label": "LOC"
+    },
+    {
+      "text": "Revenons",
+      "start": 11170,
+      "end": 11178,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11443,
+      "end": 11448,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 11768,
+      "end": 11774,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 11918,
+      "end": 11925,
+      "label": "MISC"
+    },
+    {
+      "text": "Claparon",
+      "start": 11929,
+      "end": 11937,
+      "label": "PER"
+    },
+    {
+      "text": "Barbet",
+      "start": 12016,
+      "end": 12022,
+      "label": "PER"
+    },
+    {
+      "text": "Chaboisseau",
+      "start": 12028,
+      "end": 12039,
+      "label": "LOC"
+    },
+    {
+      "text": "Samanon",
+      "start": 12045,
+      "end": 12052,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 12131,
+      "end": 12139,
+      "label": "ORG"
+    },
+    {
+      "text": "rue Chabannais",
+      "start": 12184,
+      "end": 12198,
+      "label": "LOC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 12425,
+      "end": 12432,
+      "label": "LOC"
+    },
+    {
+      "text": "Commissaires Priseurs",
+      "start": 12565,
+      "end": 12586,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 12610,
+      "end": 12615,
+      "label": "LOC"
+    },
+    {
+      "text": "crin",
+      "start": 12691,
+      "end": 12695,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître Clerc",
+      "start": 12906,
+      "end": 12918,
+      "label": "PER"
+    },
+    {
+      "text": "créances",
+      "start": 13274,
+      "end": 13282,
+      "label": "LOC"
+    },
+    {
+      "text": "Études",
+      "start": 13351,
+      "end": 13357,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 13579,
+      "end": 13586,
+      "label": "MISC"
+    },
+    {
+      "text": "Claparon",
+      "start": 13590,
+      "end": 13598,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 13644,
+      "end": 13650,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 13660,
+      "end": 13666,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 13976,
+      "end": 13982,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 14057,
+      "end": 14064,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 14078,
+      "end": 14087,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 14095,
+      "end": 14102,
+      "label": "PER"
+    },
+    {
+      "text": "Chocardelle",
+      "start": 14206,
+      "end": 14217,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 14223,
+      "end": 14229,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 14287,
+      "end": 14296,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 14300,
+      "end": 14306,
+      "label": "PER"
+    },
+    {
+      "text": "Vice",
+      "start": 14387,
+      "end": 14391,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 14416,
+      "end": 14422,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 14426,
+      "end": 14432,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 14617,
+      "end": 14626,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 14644,
+      "end": 14648,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 14689,
+      "end": 14695,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 14799,
+      "end": 14805,
+      "label": "PER"
+    },
+    {
+      "text": "Chocardelle",
+      "start": 15050,
+      "end": 15061,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 15133,
+      "end": 15136,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 15177,
+      "end": 15183,
+      "label": "PER"
+    },
+    {
+      "text": "Serais",
+      "start": 15243,
+      "end": 15249,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorette",
+      "start": 15291,
+      "end": 15298,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 15301,
+      "end": 15307,
+      "label": "LOC"
+    },
+    {
+      "text": "Un matin",
+      "start": 15311,
+      "end": 15319,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 15328,
+      "end": 15337,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 15339,
+      "end": 15346,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 15385,
+      "end": 15391,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 15593,
+      "end": 15600,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 15654,
+      "end": 15660,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15798,
+      "end": 15803,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 15906,
+      "end": 15911,
+      "label": "LOC"
+    },
+    {
+      "text": "Créance",
+      "start": 16065,
+      "end": 16072,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 16083,
+      "end": 16091,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 16119,
+      "end": 16128,
+      "label": "PER"
+    },
+    {
+      "text": "Dette",
+      "start": 16144,
+      "end": 16149,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 16440,
+      "end": 16446,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime déjeune",
+      "start": 16498,
+      "end": 16512,
+      "label": "PER"
+    },
+    {
+      "text": "Smyrne",
+      "start": 16599,
+      "end": 16605,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 16722,
+      "end": 16731,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 16792,
+      "end": 16800,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 16815,
+      "end": 16822,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Claparon",
+      "start": 16855,
+      "end": 16871,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 16892,
+      "end": 16896,
+      "label": "MISC"
+    },
+    {
+      "text": "Coutelier",
+      "start": 17092,
+      "end": 17101,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 17107,
+      "end": 17113,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 17204,
+      "end": 17211,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 17332,
+      "end": 17338,
+      "label": "PER"
+    },
+    {
+      "text": "Suzon",
+      "start": 17367,
+      "end": 17372,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 17374,
+      "end": 17382,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 18186,
+      "end": 18194,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface de Claparon",
+      "start": 18581,
+      "end": 18601,
+      "label": "PER"
+    },
+    {
+      "text": "Z.   ",
+      "start": 18643,
+      "end": 18648,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 18782,
+      "end": 18789,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 18986,
+      "end": 18990,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 19027,
+      "end": 19033,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 19068,
+      "end": 19075,
+      "label": "MISC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 19141,
+      "end": 19151,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 19228,
+      "end": 19234,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 19283,
+      "end": 19290,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 19442,
+      "end": 19446,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 19475,
+      "end": 19479,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 19681,
+      "end": 19687,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19776,
+      "end": 19784,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 19799,
+      "end": 19806,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 20186,
+      "end": 20195,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 20299,
+      "end": 20305,
+      "label": "LOC"
+    },
+    {
+      "text": "Palférine",
+      "start": 20449,
+      "end": 20458,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 20462,
+      "end": 20465,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 20549,
+      "end": 20555,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 20565,
+      "end": 20571,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 20589,
+      "end": 20595,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 20601,
+      "end": 20607,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 20642,
+      "end": 20651,
+      "label": "PER"
+    },
+    {
+      "text": "Lorette",
+      "start": 20712,
+      "end": 20719,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Chocardelle",
+      "start": 20748,
+      "end": 20772,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 20781,
+      "end": 20790,
+      "label": "PER"
+    },
+    {
+      "text": "rue Coquenard",
+      "start": 20804,
+      "end": 20817,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Pigale",
+      "start": 20836,
+      "end": 20846,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 20861,
+      "end": 20867,
+      "label": "PER"
+    },
+    {
+      "text": "Chocardelle",
+      "start": 20887,
+      "end": 20898,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 21035,
+      "end": 21042,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 21124,
+      "end": 21130,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 21141,
+      "end": 21147,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 21215,
+      "end": 21224,
+      "label": "PER"
+    },
+    {
+      "text": "Ida Bonamy",
+      "start": 21252,
+      "end": 21262,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 21270,
+      "end": 21276,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 21286,
+      "end": 21293,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 21447,
+      "end": 21456,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 21630,
+      "end": 21638,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 21843,
+      "end": 21851,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 21879,
+      "end": 21887,
+      "label": "LOC"
+    },
+    {
+      "text": "Môsieur",
+      "start": 21939,
+      "end": 21946,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 22046,
+      "end": 22054,
+      "label": "PER"
+    },
+    {
+      "text": "Henri Monnier",
+      "start": 22120,
+      "end": 22133,
+      "label": "PER"
+    },
+    {
+      "text": "Espèce Coquerel",
+      "start": 22156,
+      "end": 22171,
+      "label": "ORG"
+    },
+    {
+      "text": "Coquerel",
+      "start": 22355,
+      "end": 22363,
+      "label": "PER"
+    },
+    {
+      "text": "Famille",
+      "start": 22370,
+      "end": 22377,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 22393,
+      "end": 22401,
+      "label": "LOC"
+    },
+    {
+      "text": "Antonia",
+      "start": 22462,
+      "end": 22469,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Chocardelle",
+      "start": 22523,
+      "end": 22547,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Buffault",
+      "start": 22715,
+      "end": 22730,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 23047,
+      "end": 23055,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 23427,
+      "end": 23434,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 23440,
+      "end": 23446,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 23531,
+      "end": 23538,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 23713,
+      "end": 23721,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 24040,
+      "end": 24047,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 24145,
+      "end": 24153,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 24327,
+      "end": 24335,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 24357,
+      "end": 24365,
+      "label": "PER"
+    },
+    {
+      "text": "Austerlitz",
+      "start": 24531,
+      "end": 24541,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 24760,
+      "end": 24768,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 24779,
+      "end": 24787,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 24797,
+      "end": 24805,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 24841,
+      "end": 24849,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 25007,
+      "end": 25013,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 25028,
+      "end": 25035,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 25186,
+      "end": 25193,
+      "label": "MISC"
+    },
+    {
+      "text": "Gant Jaune",
+      "start": 25244,
+      "end": 25254,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 25445,
+      "end": 25451,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 25868,
+      "end": 25875,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 25953,
+      "end": 25969,
+      "label": "ORG"
+    },
+    {
+      "text": "Maxime",
+      "start": 26058,
+      "end": 26064,
+      "label": "PER"
+    },
+    {
+      "text": "Denisart",
+      "start": 26095,
+      "end": 26103,
+      "label": "PER"
+    },
+    {
+      "text": "Caricature",
+      "start": 26486,
+      "end": 26496,
+      "label": "ORG"
+    },
+    {
+      "text": "Constitutionnel",
+      "start": 26509,
+      "end": 26524,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 26792,
+      "end": 26802,
+      "label": "MISC"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 26817,
+      "end": 26827,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 26829,
+      "end": 26837,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 26980,
+      "end": 26986,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 27036,
+      "end": 27040,
+      "label": "MISC"
+    },
+    {
+      "text": "Antonia",
+      "start": 27071,
+      "end": 27078,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 27114,
+      "end": 27121,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 27160,
+      "end": 27166,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 27225,
+      "end": 27232,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 27262,
+      "end": 27267,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 27367,
+      "end": 27373,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 27420,
+      "end": 27427,
+      "label": "PER"
+    },
+    {
+      "text": "Victoire",
+      "start": 27607,
+      "end": 27615,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau dit",
+      "start": 27803,
+      "end": 27815,
+      "label": "MISC"
+    },
+    {
+      "text": "Denisart",
+      "start": 27868,
+      "end": 27876,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 27987,
+      "end": 27995,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 28034,
+      "end": 28040,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach",
+      "start": 28051,
+      "end": 28059,
+      "label": "ORG"
+    },
+    {
+      "text": "DENISART",
+      "start": 28115,
+      "end": 28123,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de la Victoire",
+      "start": 28155,
+      "end": 28173,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 28249,
+      "end": 28257,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 28270,
+      "end": 28278,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 28391,
+      "end": 28399,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 28451,
+      "end": 28459,
+      "label": "PER"
+    },
+    {
+      "text": "Chocardelle",
+      "start": 28631,
+      "end": 28642,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 28664,
+      "end": 28672,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, dit Denisart",
+      "start": 28933,
+      "end": 28950,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 29276,
+      "end": 29282,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 29324,
+      "end": 29332,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 29407,
+      "end": 29413,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 29447,
+      "end": 29454,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 29485,
+      "end": 29494,
+      "label": "LOC"
+    },
+    {
+      "text": "Impéria du Moyen Âge",
+      "start": 29511,
+      "end": 29531,
+      "label": "PER"
+    },
+    {
+      "text": "Lorette",
+      "start": 29576,
+      "end": 29583,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 29632,
+      "end": 29640,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 29720,
+      "end": 29728,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 29827,
+      "end": 29834,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 29843,
+      "end": 29852,
+      "label": "PER"
+    },
+    {
+      "text": "de Belgique",
+      "start": 29931,
+      "end": 29942,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen Âge d'une valeur",
+      "start": 29951,
+      "end": 29973,
+      "label": "MISC"
+    },
+    {
+      "text": "Boule",
+      "start": 30004,
+      "end": 30009,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 30097,
+      "end": 30105,
+      "label": "LOC"
+    },
+    {
+      "text": "Jugez",
+      "start": 30447,
+      "end": 30452,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 30691,
+      "end": 30698,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 30717,
+      "end": 30725,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 31078,
+      "end": 31086,
+      "label": "PER"
+    },
+    {
+      "text": "roi des Lions",
+      "start": 31109,
+      "end": 31122,
+      "label": "PER"
+    },
+    {
+      "text": "Gants Jaunes",
+      "start": 31132,
+      "end": 31144,
+      "label": "ORG"
+    },
+    {
+      "text": "Lions",
+      "start": 31171,
+      "end": 31176,
+      "label": "ORG"
+    },
+    {
+      "text": "Maxime",
+      "start": 31254,
+      "end": 31260,
+      "label": "PER"
+    },
+    {
+      "text": "Chai",
+      "start": 31277,
+      "end": 31281,
+      "label": "PER"
+    },
+    {
+      "text": "Glabaron",
+      "start": 31333,
+      "end": 31341,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 31347,
+      "end": 31351,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 31380,
+      "end": 31386,
+      "label": "PER"
+    },
+    {
+      "text": "bayez les",
+      "start": 31459,
+      "end": 31468,
+      "label": "MISC"
+    },
+    {
+      "text": "Reine du Tremplin",
+      "start": 31643,
+      "end": 31660,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 31669,
+      "end": 31678,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 31738,
+      "end": 31747,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 31877,
+      "end": 31883,
+      "label": "PER"
+    },
+    {
+      "text": "ca",
+      "start": 32049,
+      "end": 32051,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 32065,
+      "end": 32071,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 32235,
+      "end": 32239,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 32250,
+      "end": 32259,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal à",
+      "start": 32441,
+      "end": 32451,
+      "label": "MISC"
+    },
+    {
+      "text": "Contribution",
+      "start": 32624,
+      "end": 32636,
+      "label": "ORG"
+    },
+    {
+      "text": "Palais",
+      "start": 32837,
+      "end": 32843,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 33005,
+      "end": 33013,
+      "label": "LOC"
+    },
+    {
+      "text": "Devinez",
+      "start": 33015,
+      "end": 33022,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 33517,
+      "end": 33523,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 33639,
+      "end": 33648,
+      "label": "PER"
+    },
+    {
+      "text": "Lorette",
+      "start": 34135,
+      "end": 34142,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 34283,
+      "end": 34292,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 34309,
+      "end": 34317,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia des Variétés",
+      "start": 34415,
+      "end": 34435,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 34677,
+      "end": 34684,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque",
+      "start": 34930,
+      "end": 34936,
+      "label": "MISC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 34973,
+      "end": 34982,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 35027,
+      "end": 35035,
+      "label": "LOC"
+    },
+    {
+      "text": "Antonia",
+      "start": 35100,
+      "end": 35107,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 35116,
+      "end": 35125,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 35605,
+      "end": 35609,
+      "label": "MISC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 35639,
+      "end": 35647,
+      "label": "MISC"
+    },
+    {
+      "text": "Antonia",
+      "start": 35653,
+      "end": 35660,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 35739,
+      "end": 35746,
+      "label": "PER"
+    },
+    {
+      "text": "Denisart",
+      "start": 35775,
+      "end": 35783,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 35956,
+      "end": 35961,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 36412,
+      "end": 36420,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 36503,
+      "end": 36511,
+      "label": "LOC"
+    },
+    {
+      "text": "Denisart",
+      "start": 36597,
+      "end": 36605,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 36822,
+      "end": 36830,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 36848,
+      "end": 36856,
+      "label": "LOC"
+    },
+    {
+      "text": "Antonia",
+      "start": 36878,
+      "end": 36885,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 36927,
+      "end": 36935,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 36990,
+      "end": 36994,
+      "label": "MISC"
+    },
+    {
+      "text": "Antonia",
+      "start": 37024,
+      "end": 37031,
+      "label": "PER"
+    },
+    {
+      "text": "Antonia",
+      "start": 37080,
+      "end": 37087,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 37141,
+      "end": 37147,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Chocardelle",
+      "start": 37298,
+      "end": 37322,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 37324,
+      "end": 37330,
+      "label": "LOC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 37354,
+      "end": 37362,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 37408,
+      "end": 37414,
+      "label": "PER"
+    },
+    {
+      "text": "Chocardelle",
+      "start": 37418,
+      "end": 37429,
+      "label": "PER"
+    },
+    {
+      "text": "Quatre mille francs d'argent",
+      "start": 37590,
+      "end": 37618,
+      "label": "MISC"
+    },
+    {
+      "text": "Croizeau",
+      "start": 37863,
+      "end": 37871,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 38016,
+      "end": 38022,
+      "label": "PER"
+    },
+    {
+      "text": "Ida Bonamy",
+      "start": 38116,
+      "end": 38126,
+      "label": "PER"
+    },
+    {
+      "text": "rue Tronchet",
+      "start": 38128,
+      "end": 38140,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 38242,
+      "end": 38248,
+      "label": "PER"
+    },
+    {
+      "text": "madras",
+      "start": 38438,
+      "end": 38444,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 38741,
+      "end": 38747,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 39071,
+      "end": 39078,
+      "label": "MISC"
+    },
+    {
+      "text": "Bouffé",
+      "start": 39250,
+      "end": 39256,
+      "label": "PER"
+    },
+    {
+      "text": "forêt de Bondy",
+      "start": 39296,
+      "end": 39310,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 39320,
+      "end": 39326,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 39382,
+      "end": 39390,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 39413,
+      "end": 39419,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 39619,
+      "end": 39627,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 39793,
+      "end": 39799,
+      "label": "PER"
+    },
+    {
+      "text": "Palférine",
+      "start": 39813,
+      "end": 39822,
+      "label": "PER"
+    },
+    {
+      "text": "Croizeau",
+      "start": 39870,
+      "end": 39878,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 39895,
+      "end": 39901,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 39905,
+      "end": 39911,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 39936,
+      "end": 39945,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 39951,
+      "end": 39959,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 39972,
+      "end": 39976,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorette",
+      "start": 40053,
+      "end": 40060,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 40144,
+      "end": 40150,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 40178,
+      "end": 40183,
+      "label": "LOC"
+    }
+  ]
+}

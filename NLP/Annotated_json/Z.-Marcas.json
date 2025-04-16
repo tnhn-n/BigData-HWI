@@ -1,0 +1,1960 @@
+{
+  "entities": [
+    {
+      "text": "COMTE GUILLAUME",
+      "start": 34,
+      "end": 49,
+      "label": "MISC"
+    },
+    {
+      "text": "WURTEMBERG",
+      "start": 53,
+      "end": 63,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 127,
+      "end": 133,
+      "label": "MISC"
+    },
+    {
+      "text": "Z",
+      "start": 487,
+      "end": 488,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 503,
+      "end": 509,
+      "label": "PER"
+    },
+    {
+      "text": "MARCAS",
+      "start": 682,
+      "end": 688,
+      "label": "MISC"
+    },
+    {
+      "text": "Répétez",
+      "start": 691,
+      "end": 698,
+      "label": "PER"
+    },
+    {
+      "text": "Sciences Occultes",
+      "start": 1537,
+      "end": 1554,
+      "label": "ORG"
+    },
+    {
+      "text": "Z",
+      "start": 1598,
+      "end": 1599,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 1818,
+      "end": 1824,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirin",
+      "start": 1836,
+      "end": 1844,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Zéphirin",
+      "start": 1846,
+      "end": 1860,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 1880,
+      "end": 1888,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 1890,
+      "end": 1896,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 1903,
+      "end": 1909,
+      "label": "PER"
+    },
+    {
+      "text": "Examinez",
+      "start": 1911,
+      "end": 1919,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2305,
+      "end": 2310,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Corneille",
+      "start": 2331,
+      "end": 2344,
+      "label": "LOC"
+    },
+    {
+      "text": "Odéon",
+      "start": 2884,
+      "end": 2889,
+      "label": "MISC"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 3297,
+      "end": 3306,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3884,
+      "end": 3889,
+      "label": "LOC"
+    },
+    {
+      "text": "Vésuve",
+      "start": 5027,
+      "end": 5033,
+      "label": "LOC"
+    },
+    {
+      "text": "Luxembourg",
+      "start": 5357,
+      "end": 5367,
+      "label": "LOC"
+    },
+    {
+      "text": "École de Droit",
+      "start": 5407,
+      "end": 5421,
+      "label": "ORG"
+    },
+    {
+      "text": "Mettez",
+      "start": 5538,
+      "end": 5544,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Italie",
+      "start": 6381,
+      "end": 6389,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7048,
+      "end": 7053,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 7215,
+      "end": 7219,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste et moi",
+      "start": 8444,
+      "end": 8456,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambres",
+      "start": 8580,
+      "end": 8588,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles X",
+      "start": 8887,
+      "end": 8896,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre des Pairs",
+      "start": 9058,
+      "end": 9075,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 9685,
+      "end": 9694,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 10061,
+      "end": 10070,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 10082,
+      "end": 10086,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 10549,
+      "end": 10554,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 10567,
+      "end": 10576,
+      "label": "LOC"
+    },
+    {
+      "text": "Imitez",
+      "start": 10678,
+      "end": 10684,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Corneille",
+      "start": 10842,
+      "end": 10855,
+      "label": "LOC"
+    },
+    {
+      "text": "bal Musard",
+      "start": 10875,
+      "end": 10885,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 11021,
+      "end": 11027,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11458,
+      "end": 11463,
+      "label": "LOC"
+    },
+    {
+      "text": "Infortune",
+      "start": 11649,
+      "end": 11658,
+      "label": "LOC"
+    },
+    {
+      "text": "Hasard",
+      "start": 11681,
+      "end": 11687,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 11719,
+      "end": 11725,
+      "label": "PER"
+    },
+    {
+      "text": "Écoles",
+      "start": 11780,
+      "end": 11786,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 11996,
+      "end": 12001,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 12006,
+      "end": 12012,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 12104,
+      "end": 12110,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 13212,
+      "end": 13218,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 13897,
+      "end": 13903,
+      "label": "LOC"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 14544,
+      "end": 14552,
+      "label": "PER"
+    },
+    {
+      "text": "Juste",
+      "start": 14611,
+      "end": 14616,
+      "label": "PER"
+    },
+    {
+      "text": "Juste",
+      "start": 14670,
+      "end": 14675,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 14888,
+      "end": 14895,
+      "label": "LOC"
+    },
+    {
+      "text": "Palmyre",
+      "start": 15028,
+      "end": 15035,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 15054,
+      "end": 15059,
+      "label": "PER"
+    },
+    {
+      "text": "Palmyre",
+      "start": 15112,
+      "end": 15119,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Harpe",
+      "start": 15190,
+      "end": 15205,
+      "label": "LOC"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 15312,
+      "end": 15321,
+      "label": "PER"
+    },
+    {
+      "text": "Z",
+      "start": 15551,
+      "end": 15552,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 15735,
+      "end": 15739,
+      "label": "MISC"
+    },
+    {
+      "text": "Juste",
+      "start": 16133,
+      "end": 16138,
+      "label": "PER"
+    },
+    {
+      "text": "Juste",
+      "start": 16248,
+      "end": 16253,
+      "label": "PER"
+    },
+    {
+      "text": "manche",
+      "start": 16431,
+      "end": 16437,
+      "label": "LOC"
+    },
+    {
+      "text": "alluma",
+      "start": 16868,
+      "end": 16874,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 16930,
+      "end": 16936,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 17738,
+      "end": 17744,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu",
+      "start": 17759,
+      "end": 17767,
+      "label": "MISC"
+    },
+    {
+      "text": "Vois toi",
+      "start": 17817,
+      "end": 17825,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 17885,
+      "end": 17891,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 18048,
+      "end": 18054,
+      "label": "PER"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 18367,
+      "end": 18376,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Chapelle",
+      "start": 18511,
+      "end": 18526,
+      "label": "PER"
+    },
+    {
+      "text": "Michel le Comte",
+      "start": 18752,
+      "end": 18767,
+      "label": "PER"
+    },
+    {
+      "text": "Mizerai",
+      "start": 18774,
+      "end": 18781,
+      "label": "ORG"
+    },
+    {
+      "text": "Marcas",
+      "start": 18881,
+      "end": 18887,
+      "label": "PER"
+    },
+    {
+      "text": "Décidément",
+      "start": 19030,
+      "end": 19040,
+      "label": "LOC"
+    },
+    {
+      "text": "Palmyre",
+      "start": 19056,
+      "end": 19063,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 19104,
+      "end": 19109,
+      "label": "PER"
+    },
+    {
+      "text": "Palmyre",
+      "start": 19819,
+      "end": 19826,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 19963,
+      "end": 19969,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 20008,
+      "end": 20016,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20019,
+      "end": 20024,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 20288,
+      "end": 20297,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 20321,
+      "end": 20330,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 21347,
+      "end": 21351,
+      "label": "MISC"
+    },
+    {
+      "text": "Lonjumeau",
+      "start": 21398,
+      "end": 21407,
+      "label": "PER"
+    },
+    {
+      "text": "Véry",
+      "start": 21494,
+      "end": 21498,
+      "label": "PER"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 21515,
+      "end": 21532,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 21729,
+      "end": 21734,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 21853,
+      "end": 21858,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 22011,
+      "end": 22015,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 22143,
+      "end": 22148,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 22189,
+      "end": 22195,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 22272,
+      "end": 22281,
+      "label": "PER"
+    },
+    {
+      "text": "Paganini",
+      "start": 22532,
+      "end": 22540,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 22542,
+      "end": 22548,
+      "label": "PER"
+    },
+    {
+      "text": "Juste et moi",
+      "start": 22612,
+      "end": 22624,
+      "label": "MISC"
+    },
+    {
+      "text": "Brésil",
+      "start": 22936,
+      "end": 22942,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 23086,
+      "end": 23100,
+      "label": "LOC"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 23168,
+      "end": 23177,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 23650,
+      "end": 23656,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 24246,
+      "end": 24252,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 24257,
+      "end": 24265,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 24328,
+      "end": 24334,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 24502,
+      "end": 24508,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 24939,
+      "end": 24944,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 24964,
+      "end": 24970,
+      "label": "LOC"
+    },
+    {
+      "text": "Quels",
+      "start": 24974,
+      "end": 24979,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 25281,
+      "end": 25286,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 25499,
+      "end": 25505,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 25635,
+      "end": 25640,
+      "label": "PER"
+    },
+    {
+      "text": "Juste",
+      "start": 25660,
+      "end": 25665,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 25739,
+      "end": 25747,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 25763,
+      "end": 25767,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 25861,
+      "end": 25866,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 26008,
+      "end": 26014,
+      "label": "MISC"
+    },
+    {
+      "text": "Toussaint Louverture",
+      "start": 26031,
+      "end": 26051,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 26087,
+      "end": 26095,
+      "label": "PER"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 26172,
+      "end": 26181,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvage",
+      "start": 26294,
+      "end": 26301,
+      "label": "MISC"
+    },
+    {
+      "text": "Iroquois",
+      "start": 26501,
+      "end": 26509,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 26522,
+      "end": 26535,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 26648,
+      "end": 26656,
+      "label": "MISC"
+    },
+    {
+      "text": "Cooper",
+      "start": 26748,
+      "end": 26754,
+      "label": "LOC"
+    },
+    {
+      "text": "Peaux rouges de dédain et de calme",
+      "start": 26767,
+      "end": 26801,
+      "label": "ORG"
+    },
+    {
+      "text": "Morey",
+      "start": 26831,
+      "end": 26836,
+      "label": "LOC"
+    },
+    {
+      "text": "Guatimozin",
+      "start": 26841,
+      "end": 26851,
+      "label": "LOC"
+    },
+    {
+      "text": "Montagne",
+      "start": 26858,
+      "end": 26866,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 26961,
+      "end": 26967,
+      "label": "LOC"
+    },
+    {
+      "text": "place de l'Odéon",
+      "start": 27143,
+      "end": 27159,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27251,
+      "end": 27256,
+      "label": "LOC"
+    },
+    {
+      "text": "Vitré",
+      "start": 27296,
+      "end": 27301,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27550,
+      "end": 27555,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 27625,
+      "end": 27630,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 27720,
+      "end": 27725,
+      "label": "ORG"
+    },
+    {
+      "text": "le Droit des gens",
+      "start": 27840,
+      "end": 27857,
+      "label": "MISC"
+    },
+    {
+      "text": "Londres",
+      "start": 27994,
+      "end": 28001,
+      "label": "LOC"
+    },
+    {
+      "text": "Berlin",
+      "start": 28003,
+      "end": 28009,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 28011,
+      "end": 28017,
+      "label": "LOC"
+    },
+    {
+      "text": "Pétersbourg",
+      "start": 28019,
+      "end": 28030,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 28034,
+      "end": 28048,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 28104,
+      "end": 28111,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambres",
+      "start": 28148,
+      "end": 28156,
+      "label": "MISC"
+    },
+    {
+      "text": "concis",
+      "start": 28399,
+      "end": 28405,
+      "label": "PER"
+    },
+    {
+      "text": "Berryer",
+      "start": 28468,
+      "end": 28475,
+      "label": "PER"
+    },
+    {
+      "text": "Thiers",
+      "start": 28561,
+      "end": 28567,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 28822,
+      "end": 28826,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 28828,
+      "end": 28834,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 28880,
+      "end": 28884,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 29013,
+      "end": 29019,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 29398,
+      "end": 29404,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 29412,
+      "end": 29421,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 29489,
+      "end": 29496,
+      "label": "LOC"
+    },
+    {
+      "text": "La guerre",
+      "start": 29575,
+      "end": 29584,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 29667,
+      "end": 29673,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 29877,
+      "end": 29886,
+      "label": "LOC"
+    },
+    {
+      "text": "place de Marcas",
+      "start": 30072,
+      "end": 30087,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 30353,
+      "end": 30362,
+      "label": "PER"
+    },
+    {
+      "text": "Barras",
+      "start": 30379,
+      "end": 30385,
+      "label": "PER"
+    },
+    {
+      "text": "Colbert",
+      "start": 30388,
+      "end": 30395,
+      "label": "PER"
+    },
+    {
+      "text": "Mazarin",
+      "start": 30413,
+      "end": 30420,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 30655,
+      "end": 30661,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 30746,
+      "end": 30751,
+      "label": "LOC"
+    },
+    {
+      "text": "Richard III",
+      "start": 30797,
+      "end": 30808,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 30850,
+      "end": 30856,
+      "label": "LOC"
+    },
+    {
+      "text": "Polichinelle",
+      "start": 31096,
+      "end": 31108,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 31207,
+      "end": 31213,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 31313,
+      "end": 31319,
+      "label": "LOC"
+    },
+    {
+      "text": "Luxembourg",
+      "start": 31426,
+      "end": 31436,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 31726,
+      "end": 31732,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 31864,
+      "end": 31868,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 31896,
+      "end": 31902,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 31918,
+      "end": 31928,
+      "label": "MISC"
+    },
+    {
+      "text": "Opposition",
+      "start": 32034,
+      "end": 32044,
+      "label": "ORG"
+    },
+    {
+      "text": "État",
+      "start": 32105,
+      "end": 32109,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 32200,
+      "end": 32210,
+      "label": "ORG"
+    },
+    {
+      "text": "Marcas",
+      "start": 32212,
+      "end": 32218,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 32362,
+      "end": 32369,
+      "label": "ORG"
+    },
+    {
+      "text": "Marcas",
+      "start": 32758,
+      "end": 32764,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 32848,
+      "end": 32854,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 32920,
+      "end": 32926,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 33097,
+      "end": 33103,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 33527,
+      "end": 33533,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 33882,
+      "end": 33892,
+      "label": "ORG"
+    },
+    {
+      "text": "Marcas",
+      "start": 33940,
+      "end": 33946,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 34415,
+      "end": 34421,
+      "label": "LOC"
+    },
+    {
+      "text": "journal de Marcas",
+      "start": 34622,
+      "end": 34639,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 35128,
+      "end": 35134,
+      "label": "LOC"
+    },
+    {
+      "text": "la somme",
+      "start": 35435,
+      "end": 35443,
+      "label": "LOC"
+    },
+    {
+      "text": "Pozzo di Borgo",
+      "start": 35602,
+      "end": 35616,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 35661,
+      "end": 35667,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 36664,
+      "end": 36680,
+      "label": "ORG"
+    },
+    {
+      "text": "Marcas",
+      "start": 36753,
+      "end": 36759,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 37422,
+      "end": 37426,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 37598,
+      "end": 37604,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon tombé",
+      "start": 37818,
+      "end": 37832,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 37953,
+      "end": 37958,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 37966,
+      "end": 37972,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 38212,
+      "end": 38218,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 38225,
+      "end": 38231,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 38266,
+      "end": 38272,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 38300,
+      "end": 38304,
+      "label": "LOC"
+    },
+    {
+      "text": "Shibolet",
+      "start": 38467,
+      "end": 38475,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 38551,
+      "end": 38557,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 38627,
+      "end": 38632,
+      "label": "PER"
+    },
+    {
+      "text": "jardin du Luxembourg",
+      "start": 38835,
+      "end": 38855,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Corneille",
+      "start": 39286,
+      "end": 39301,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 39480,
+      "end": 39485,
+      "label": "PER"
+    },
+    {
+      "text": "révolution de Juillet",
+      "start": 39605,
+      "end": 39626,
+      "label": "MISC"
+    },
+    {
+      "text": "Carrel",
+      "start": 39752,
+      "end": 39758,
+      "label": "PER"
+    },
+    {
+      "text": "Carrel",
+      "start": 39999,
+      "end": 40005,
+      "label": "PER"
+    },
+    {
+      "text": "Carrel",
+      "start": 40061,
+      "end": 40067,
+      "label": "PER"
+    },
+    {
+      "text": "Carrel",
+      "start": 40126,
+      "end": 40132,
+      "label": "PER"
+    },
+    {
+      "text": "Metternich",
+      "start": 40357,
+      "end": 40367,
+      "label": "PER"
+    },
+    {
+      "text": "Villèle",
+      "start": 40401,
+      "end": 40408,
+      "label": "MISC"
+    },
+    {
+      "text": "Juste",
+      "start": 40720,
+      "end": 40725,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas d'un ton solennel",
+      "start": 40749,
+      "end": 40773,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 40799,
+      "end": 40804,
+      "label": "LOC"
+    },
+    {
+      "text": "Août",
+      "start": 40806,
+      "end": 40810,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 41054,
+      "end": 41060,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 41824,
+      "end": 41833,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 41835,
+      "end": 41843,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 41847,
+      "end": 41857,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 41910,
+      "end": 41916,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 42184,
+      "end": 42193,
+      "label": "PER"
+    },
+    {
+      "text": "Mazarin",
+      "start": 42206,
+      "end": 42213,
+      "label": "PER"
+    },
+    {
+      "text": "Turenne",
+      "start": 42230,
+      "end": 42237,
+      "label": "PER"
+    },
+    {
+      "text": "Colbert",
+      "start": 42250,
+      "end": 42257,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 42274,
+      "end": 42278,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Just",
+      "start": 42291,
+      "end": 42301,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 42312,
+      "end": 42320,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Metternich",
+      "start": 42333,
+      "end": 42353,
+      "label": "PER"
+    },
+    {
+      "text": "Burke",
+      "start": 42387,
+      "end": 42392,
+      "label": "PER"
+    },
+    {
+      "text": "Shéridan",
+      "start": 42394,
+      "end": 42402,
+      "label": "PER"
+    },
+    {
+      "text": "Fox",
+      "start": 42404,
+      "end": 42407,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 42765,
+      "end": 42769,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 43209,
+      "end": 43215,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 43262,
+      "end": 43271,
+      "label": "LOC"
+    },
+    {
+      "text": "Harpe",
+      "start": 43441,
+      "end": 43446,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 44018,
+      "end": 44027,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 44326,
+      "end": 44331,
+      "label": "PER"
+    },
+    {
+      "text": "Amérique",
+      "start": 44709,
+      "end": 44717,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 44726,
+      "end": 44730,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste et moi n'ayons",
+      "start": 44757,
+      "end": 44777,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 44808,
+      "end": 44814,
+      "label": "LOC"
+    },
+    {
+      "text": "le Marcas",
+      "start": 45106,
+      "end": 45115,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 45329,
+      "end": 45333,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 45503,
+      "end": 45509,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 46173,
+      "end": 46181,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 46261,
+      "end": 46266,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 46503,
+      "end": 46511,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 46635,
+      "end": 46644,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 46651,
+      "end": 46659,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 46733,
+      "end": 46737,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 46759,
+      "end": 46769,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 46782,
+      "end": 46788,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 46797,
+      "end": 46806,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 47117,
+      "end": 47126,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 47143,
+      "end": 47149,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 47158,
+      "end": 47168,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 47170,
+      "end": 47179,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 47368,
+      "end": 47372,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 47381,
+      "end": 47388,
+      "label": "ORG"
+    },
+    {
+      "text": "Juste et moi",
+      "start": 47565,
+      "end": 47577,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 47640,
+      "end": 47646,
+      "label": "PER"
+    },
+    {
+      "text": "porte de Marcas",
+      "start": 48056,
+      "end": 48071,
+      "label": "LOC"
+    },
+    {
+      "text": "Entrez",
+      "start": 48159,
+      "end": 48165,
+      "label": "PER"
+    },
+    {
+      "text": "Dioclétien",
+      "start": 48241,
+      "end": 48251,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 49092,
+      "end": 49101,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 49548,
+      "end": 49557,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 49778,
+      "end": 49787,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 50172,
+      "end": 50181,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 50694,
+      "end": 50700,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 50782,
+      "end": 50786,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 51215,
+      "end": 51221,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 51297,
+      "end": 51303,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 51343,
+      "end": 51349,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 51486,
+      "end": 51492,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas !",
+      "start": 51623,
+      "end": 51631,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 51857,
+      "end": 51863,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 51994,
+      "end": 52000,
+      "label": "LOC"
+    },
+    {
+      "text": "Comptez",
+      "start": 52004,
+      "end": 52011,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 52030,
+      "end": 52035,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 52053,
+      "end": 52059,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 52354,
+      "end": 52360,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 52370,
+      "end": 52376,
+      "label": "LOC"
+    },
+    {
+      "text": "Doute boiteux",
+      "start": 52590,
+      "end": 52603,
+      "label": "MISC"
+    },
+    {
+      "text": "Espérance",
+      "start": 52621,
+      "end": 52630,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 52672,
+      "end": 52676,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensons",
+      "start": 52742,
+      "end": 52749,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 52782,
+      "end": 52787,
+      "label": "PER"
+    },
+    {
+      "text": "Luxembourg",
+      "start": 52890,
+      "end": 52900,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 53031,
+      "end": 53037,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 53376,
+      "end": 53384,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 53435,
+      "end": 53440,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'as tu trouvé ?",
+      "start": 53444,
+      "end": 53461,
+      "label": "MISC"
+    },
+    {
+      "text": "Juste",
+      "start": 53469,
+      "end": 53474,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 53478,
+      "end": 53482,
+      "label": "MISC"
+    },
+    {
+      "text": "Humann",
+      "start": 53564,
+      "end": 53570,
+      "label": "PER"
+    },
+    {
+      "text": "Humann",
+      "start": 53586,
+      "end": 53592,
+      "label": "PER"
+    },
+    {
+      "text": "Humann",
+      "start": 53999,
+      "end": 54005,
+      "label": "PER"
+    },
+    {
+      "text": "Humann habilla Marcas",
+      "start": 54199,
+      "end": 54220,
+      "label": "PER"
+    },
+    {
+      "text": "Marcas",
+      "start": 54349,
+      "end": 54355,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont de Piété",
+      "start": 54417,
+      "end": 54430,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 54658,
+      "end": 54664,
+      "label": "LOC"
+    },
+    {
+      "text": "notre Marcas",
+      "start": 54883,
+      "end": 54895,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 55046,
+      "end": 55053,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 55101,
+      "end": 55105,
+      "label": "MISC"
+    },
+    {
+      "text": "Nous",
+      "start": 55228,
+      "end": 55232,
+      "label": "MISC"
+    },
+    {
+      "text": "Marcas",
+      "start": 55247,
+      "end": 55253,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 55773,
+      "end": 55779,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 55853,
+      "end": 55857,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 56072,
+      "end": 56081,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 56785,
+      "end": 56791,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 56828,
+      "end": 56842,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 56868,
+      "end": 56874,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste et moi nous eûmes bien de la peine à",
+      "start": 56916,
+      "end": 56958,
+      "label": "MISC"
+    },
+    {
+      "text": "Z. Marcas",
+      "start": 57052,
+      "end": 57061,
+      "label": "PER"
+    },
+    {
+      "text": "cimetière de Mont Parnasse",
+      "start": 57101,
+      "end": 57127,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Rabourdin",
+      "start": 57220,
+      "end": 57237,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 57288,
+      "end": 57296,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaisie",
+      "start": 57318,
+      "end": 57326,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcas",
+      "start": 57360,
+      "end": 57366,
+      "label": "LOC"
+    },
+    {
+      "text": "Jardies",
+      "start": 57462,
+      "end": 57469,
+      "label": "MISC"
+    }
+  ]
+}

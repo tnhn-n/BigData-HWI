@@ -1,0 +1,2668 @@
+{
+  "entities": [
+    {
+      "text": "MÉMOIRES",
+      "start": 0,
+      "end": 8,
+      "label": "MISC"
+    },
+    {
+      "text": "DEUX",
+      "start": 12,
+      "end": 16,
+      "label": "ORG"
+    },
+    {
+      "text": "JEUNES MARIÉES",
+      "start": 17,
+      "end": 31,
+      "label": "MISC"
+    },
+    {
+      "text": "SAND",
+      "start": 49,
+      "end": 53,
+      "label": "ORG"
+    },
+    {
+      "text": "Georges",
+      "start": 66,
+      "end": 73,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 734,
+      "end": 741,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre ami, DE",
+      "start": 1113,
+      "end": 1126,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 1127,
+      "end": 1133,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 1135,
+      "end": 1140,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1195,
+      "end": 1200,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 1286,
+      "end": 1291,
+      "label": "LOC"
+    },
+    {
+      "text": "Relève tes beaux",
+      "start": 1366,
+      "end": 1382,
+      "label": "PER"
+    },
+    {
+      "text": "Carmélites",
+      "start": 1729,
+      "end": 1739,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2171,
+      "end": 2176,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma Renée",
+      "start": 2229,
+      "end": 2237,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvisage",
+      "start": 2609,
+      "end": 2619,
+      "label": "PER"
+    },
+    {
+      "text": "Carmélites",
+      "start": 3074,
+      "end": 3084,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 3088,
+      "end": 3093,
+      "label": "LOC"
+    },
+    {
+      "text": "La Vallière",
+      "start": 3176,
+      "end": 3187,
+      "label": "LOC"
+    },
+    {
+      "text": "Renée !",
+      "start": 3199,
+      "end": 3206,
+      "label": "PER"
+    },
+    {
+      "text": "Vie des Saints",
+      "start": 3940,
+      "end": 3954,
+      "label": "MISC"
+    },
+    {
+      "text": "Danaïde",
+      "start": 4115,
+      "end": 4122,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 5021,
+      "end": 5028,
+      "label": "ORG"
+    },
+    {
+      "text": "Gemenos",
+      "start": 5200,
+      "end": 5207,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5275,
+      "end": 5280,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5459,
+      "end": 5464,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 5496,
+      "end": 5504,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 5873,
+      "end": 5877,
+      "label": "MISC"
+    },
+    {
+      "text": "Chère",
+      "start": 6430,
+      "end": 6435,
+      "label": "PER"
+    },
+    {
+      "text": "Paraclet",
+      "start": 6510,
+      "end": 6518,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 6685,
+      "end": 6694,
+      "label": "PER"
+    },
+    {
+      "text": "Montespan",
+      "start": 6787,
+      "end": 6796,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 6800,
+      "end": 6805,
+      "label": "LOC"
+    },
+    {
+      "text": "Montespan",
+      "start": 6919,
+      "end": 6928,
+      "label": "MISC"
+    },
+    {
+      "text": "La Vallière",
+      "start": 6933,
+      "end": 6944,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaugency",
+      "start": 7133,
+      "end": 7142,
+      "label": "LOC"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 7385,
+      "end": 7401,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhétoré",
+      "start": 7452,
+      "end": 7459,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Griffith",
+      "start": 7530,
+      "end": 7551,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 7576,
+      "end": 7584,
+      "label": "PER"
+    },
+    {
+      "text": "Vaurémont",
+      "start": 7693,
+      "end": 7702,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 8381,
+      "end": 8388,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 8887,
+      "end": 8895,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 9097,
+      "end": 9110,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 9136,
+      "end": 9144,
+      "label": "PER"
+    },
+    {
+      "text": "Invalides",
+      "start": 9829,
+      "end": 9838,
+      "label": "LOC"
+    },
+    {
+      "text": "Invalides",
+      "start": 10088,
+      "end": 10097,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 10231,
+      "end": 10239,
+      "label": "LOC"
+    },
+    {
+      "text": "logis",
+      "start": 10353,
+      "end": 10358,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 10442,
+      "end": 10450,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 10551,
+      "end": 10559,
+      "label": "PER"
+    },
+    {
+      "text": "Renée",
+      "start": 11211,
+      "end": 11216,
+      "label": "PER"
+    },
+    {
+      "text": "Maucombe",
+      "start": 11400,
+      "end": 11408,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 11995,
+      "end": 12003,
+      "label": "PER"
+    },
+    {
+      "text": "Savonnerie",
+      "start": 12526,
+      "end": 12536,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 12555,
+      "end": 12563,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Saxe",
+      "start": 12634,
+      "end": 12650,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 12695,
+      "end": 12716,
+      "label": "PER"
+    },
+    {
+      "text": "Gobelins",
+      "start": 13882,
+      "end": 13890,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 14157,
+      "end": 14164,
+      "label": "ORG"
+    },
+    {
+      "text": "la Chine",
+      "start": 16356,
+      "end": 16364,
+      "label": "LOC"
+    },
+    {
+      "text": "Lomellini",
+      "start": 16682,
+      "end": 16691,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 16695,
+      "end": 16700,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 16985,
+      "end": 16993,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 17130,
+      "end": 17135,
+      "label": "LOC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 17613,
+      "end": 17623,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 17670,
+      "end": 17680,
+      "label": "LOC"
+    },
+    {
+      "text": "Dépeins",
+      "start": 18232,
+      "end": 18239,
+      "label": "LOC"
+    },
+    {
+      "text": "Rose",
+      "start": 18432,
+      "end": 18436,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 18937,
+      "end": 18945,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 19544,
+      "end": 19551,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère petite",
+      "start": 19927,
+      "end": 19942,
+      "label": "MISC"
+    },
+    {
+      "text": "miens",
+      "start": 20079,
+      "end": 20084,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 20189,
+      "end": 20197,
+      "label": "LOC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 21404,
+      "end": 21414,
+      "label": "LOC"
+    },
+    {
+      "text": "Chère",
+      "start": 22672,
+      "end": 22677,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 23182,
+      "end": 23190,
+      "label": "PER"
+    },
+    {
+      "text": "Rhétoré",
+      "start": 23888,
+      "end": 23895,
+      "label": "PER"
+    },
+    {
+      "text": "Alphonse",
+      "start": 23899,
+      "end": 23907,
+      "label": "PER"
+    },
+    {
+      "text": "Embrassez",
+      "start": 24101,
+      "end": 24110,
+      "label": "PER"
+    },
+    {
+      "text": "Blois",
+      "start": 24343,
+      "end": 24348,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 24367,
+      "end": 24374,
+      "label": "LOC"
+    },
+    {
+      "text": "Saxe",
+      "start": 25068,
+      "end": 25072,
+      "label": "LOC"
+    },
+    {
+      "text": "MÊME",
+      "start": 25192,
+      "end": 25196,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 25285,
+      "end": 25293,
+      "label": "PER"
+    },
+    {
+      "text": "Carmélites",
+      "start": 25423,
+      "end": 25433,
+      "label": "LOC"
+    },
+    {
+      "text": "Rose",
+      "start": 25460,
+      "end": 25464,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 25508,
+      "end": 25520,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère,",
+      "start": 25845,
+      "end": 25854,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Chaulieu",
+      "start": 26151,
+      "end": 26169,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 26280,
+      "end": 26287,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 26292,
+      "end": 26300,
+      "label": "PER"
+    },
+    {
+      "text": "Serais",
+      "start": 26462,
+      "end": 26468,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 27190,
+      "end": 27198,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 27536,
+      "end": 27541,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 28258,
+      "end": 28266,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 28419,
+      "end": 28428,
+      "label": "PER"
+    },
+    {
+      "text": "Janssen",
+      "start": 28787,
+      "end": 28794,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 28815,
+      "end": 28820,
+      "label": "LOC"
+    },
+    {
+      "text": "La lingère",
+      "start": 28996,
+      "end": 29006,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 29966,
+      "end": 29973,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 30293,
+      "end": 30317,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 30645,
+      "end": 30655,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma Griffith",
+      "start": 30800,
+      "end": 30811,
+      "label": "PER"
+    },
+    {
+      "text": "Rose",
+      "start": 30960,
+      "end": 30964,
+      "label": "LOC"
+    },
+    {
+      "text": "Griffith",
+      "start": 30995,
+      "end": 31003,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Espagne",
+      "start": 31614,
+      "end": 31623,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 31889,
+      "end": 31896,
+      "label": "PER"
+    },
+    {
+      "text": "le bal, les concerts",
+      "start": 32140,
+      "end": 32160,
+      "label": "MISC"
+    },
+    {
+      "text": "miss Griffith",
+      "start": 32956,
+      "end": 32969,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 33000,
+      "end": 33007,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33103,
+      "end": 33108,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 33553,
+      "end": 33561,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 33604,
+      "end": 33611,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33997,
+      "end": 34002,
+      "label": "LOC"
+    },
+    {
+      "text": "biche blanche",
+      "start": 34514,
+      "end": 34527,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 34534,
+      "end": 34542,
+      "label": "LOC"
+    },
+    {
+      "text": "Renée",
+      "start": 34544,
+      "end": 34549,
+      "label": "PER"
+    },
+    {
+      "text": "Louise !",
+      "start": 34553,
+      "end": 34561,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 34562,
+      "end": 34566,
+      "label": "MISC"
+    },
+    {
+      "text": "Corinne",
+      "start": 34733,
+      "end": 34740,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 34752,
+      "end": 34759,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 34823,
+      "end": 34838,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 34840,
+      "end": 34847,
+      "label": "PER"
+    },
+    {
+      "text": "Alphonse",
+      "start": 34861,
+      "end": 34869,
+      "label": "PER"
+    },
+    {
+      "text": "Alphonse",
+      "start": 34890,
+      "end": 34898,
+      "label": "PER"
+    },
+    {
+      "text": "Carmélites",
+      "start": 35000,
+      "end": 35010,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma fille, madame de Staël",
+      "start": 35018,
+      "end": 35043,
+      "label": "MISC"
+    },
+    {
+      "text": "douceur",
+      "start": 35082,
+      "end": 35089,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 35179,
+      "end": 35186,
+      "label": "PER"
+    },
+    {
+      "text": "Renée",
+      "start": 35248,
+      "end": 35253,
+      "label": "PER"
+    },
+    {
+      "text": "Miss Griffith",
+      "start": 35299,
+      "end": 35312,
+      "label": "PER"
+    },
+    {
+      "text": "Griffith me répéta de ne me laisser",
+      "start": 35706,
+      "end": 35741,
+      "label": "MISC"
+    },
+    {
+      "text": "MÊME",
+      "start": 36015,
+      "end": 36019,
+      "label": "LOC"
+    },
+    {
+      "text": "Connais toi toi",
+      "start": 36610,
+      "end": 36625,
+      "label": "MISC"
+    },
+    {
+      "text": "Renée",
+      "start": 36833,
+      "end": 36838,
+      "label": "PER"
+    },
+    {
+      "text": "La Provence",
+      "start": 36939,
+      "end": 36950,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 36999,
+      "end": 37008,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Chaulieu",
+      "start": 37282,
+      "end": 37302,
+      "label": "PER"
+    },
+    {
+      "text": "arrondir et modeler",
+      "start": 37518,
+      "end": 37537,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 37970,
+      "end": 37973,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes yeux bleus",
+      "start": 38390,
+      "end": 38404,
+      "label": "MISC"
+    },
+    {
+      "text": "bruni",
+      "start": 38704,
+      "end": 38709,
+      "label": "PER"
+    },
+    {
+      "text": "Apprenez",
+      "start": 39119,
+      "end": 39127,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon nez",
+      "start": 39224,
+      "end": 39231,
+      "label": "MISC"
+    },
+    {
+      "text": "Plaisanterie",
+      "start": 40220,
+      "end": 40232,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma Renée",
+      "start": 42149,
+      "end": 42157,
+      "label": "PER"
+    },
+    {
+      "text": "Demain",
+      "start": 42621,
+      "end": 42627,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 42866,
+      "end": 42873,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 42953,
+      "end": 42955,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 43288,
+      "end": 43292,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 43363,
+      "end": 43370,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 43995,
+      "end": 44000,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 44167,
+      "end": 44171,
+      "label": "LOC"
+    },
+    {
+      "text": "MÊME",
+      "start": 44336,
+      "end": 44340,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 44406,
+      "end": 44420,
+      "label": "LOC"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 44427,
+      "end": 44443,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 44530,
+      "end": 44535,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 44556,
+      "end": 44561,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 44585,
+      "end": 44593,
+      "label": "PER"
+    },
+    {
+      "text": "Ma Griffith",
+      "start": 45318,
+      "end": 45329,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 45700,
+      "end": 45704,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 45741,
+      "end": 45746,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 45884,
+      "end": 45891,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 46583,
+      "end": 46589,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 46729,
+      "end": 46737,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 47044,
+      "end": 47048,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 47059,
+      "end": 47068,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 48239,
+      "end": 48253,
+      "label": "LOC"
+    },
+    {
+      "text": "Quels",
+      "start": 48751,
+      "end": 48756,
+      "label": "LOC"
+    },
+    {
+      "text": "connaissez",
+      "start": 50038,
+      "end": 50048,
+      "label": "LOC"
+    },
+    {
+      "text": "Maucombe",
+      "start": 50066,
+      "end": 50074,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère petite",
+      "start": 50289,
+      "end": 50304,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAULIEU",
+      "start": 51357,
+      "end": 51365,
+      "label": "ORG"
+    },
+    {
+      "text": "Combien",
+      "start": 51376,
+      "end": 51383,
+      "label": "ORG"
+    },
+    {
+      "text": "château de",
+      "start": 51595,
+      "end": 51605,
+      "label": "LOC"
+    },
+    {
+      "text": "Gémenos",
+      "start": 51808,
+      "end": 51815,
+      "label": "PER"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 51974,
+      "end": 51984,
+      "label": "PER"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 52148,
+      "end": 52158,
+      "label": "PER"
+    },
+    {
+      "text": "Leipsick",
+      "start": 52292,
+      "end": 52300,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 52320,
+      "end": 52330,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 52376,
+      "end": 52386,
+      "label": "PER"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 52404,
+      "end": 52414,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 52473,
+      "end": 52479,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de l'Estorade",
+      "start": 52481,
+      "end": 52501,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 52562,
+      "end": 52568,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 52667,
+      "end": 52672,
+      "label": "LOC"
+    },
+    {
+      "text": "Espérance",
+      "start": 52677,
+      "end": 52686,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 53146,
+      "end": 53152,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 53157,
+      "end": 53164,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 53170,
+      "end": 53179,
+      "label": "LOC"
+    },
+    {
+      "text": "Berlin",
+      "start": 53218,
+      "end": 53224,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 53279,
+      "end": 53285,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade le père",
+      "start": 53299,
+      "end": 53317,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 53340,
+      "end": 53348,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 53464,
+      "end": 53474,
+      "label": "PER"
+    },
+    {
+      "text": "madame de l'Estorade",
+      "start": 53575,
+      "end": 53595,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 53699,
+      "end": 53707,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 53802,
+      "end": 53812,
+      "label": "PER"
+    },
+    {
+      "text": "Renée de Maucombe",
+      "start": 54287,
+      "end": 54304,
+      "label": "PER"
+    },
+    {
+      "text": "Renée",
+      "start": 54389,
+      "end": 54394,
+      "label": "PER"
+    },
+    {
+      "text": "Jean de Maucombe",
+      "start": 54453,
+      "end": 54469,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 54605,
+      "end": 54613,
+      "label": "LOC"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 54654,
+      "end": 54664,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Maucombe",
+      "start": 54963,
+      "end": 54980,
+      "label": "PER"
+    },
+    {
+      "text": "Maucombe",
+      "start": 55468,
+      "end": 55476,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 55817,
+      "end": 55825,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 56252,
+      "end": 56261,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 56365,
+      "end": 56370,
+      "label": "LOC"
+    },
+    {
+      "text": "sou",
+      "start": 56669,
+      "end": 56672,
+      "label": "PER"
+    },
+    {
+      "text": "sou",
+      "start": 56677,
+      "end": 56680,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 56856,
+      "end": 56866,
+      "label": "PER"
+    },
+    {
+      "text": "Triste Figure",
+      "start": 57407,
+      "end": 57420,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 57481,
+      "end": 57491,
+      "label": "PER"
+    },
+    {
+      "text": "Maucombe",
+      "start": 57732,
+      "end": 57740,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 57837,
+      "end": 57844,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis de l'Estorade",
+      "start": 57970,
+      "end": 57989,
+      "label": "PER"
+    },
+    {
+      "text": "Renée de Maucombe",
+      "start": 58038,
+      "end": 58055,
+      "label": "PER"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 58200,
+      "end": 58208,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58214,
+      "end": 58219,
+      "label": "LOC"
+    },
+    {
+      "text": "Renée",
+      "start": 58253,
+      "end": 58258,
+      "label": "PER"
+    },
+    {
+      "text": "Empyrée",
+      "start": 58298,
+      "end": 58305,
+      "label": "LOC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 58594,
+      "end": 58601,
+      "label": "LOC"
+    },
+    {
+      "text": "Gémenos",
+      "start": 58729,
+      "end": 58736,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 58846,
+      "end": 58854,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 59015,
+      "end": 59027,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 59355,
+      "end": 59365,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 59431,
+      "end": 59440,
+      "label": "LOC"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 59505,
+      "end": 59515,
+      "label": "PER"
+    },
+    {
+      "text": "Renée",
+      "start": 59746,
+      "end": 59751,
+      "label": "PER"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 60016,
+      "end": 60026,
+      "label": "PER"
+    },
+    {
+      "text": "Gémenos",
+      "start": 60224,
+      "end": 60231,
+      "label": "PER"
+    },
+    {
+      "text": "ira t",
+      "start": 60286,
+      "end": 60291,
+      "label": "PER"
+    },
+    {
+      "text": "Marseille",
+      "start": 60305,
+      "end": 60314,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 60787,
+      "end": 60797,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 60984,
+      "end": 60990,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 61333,
+      "end": 61338,
+      "label": "LOC"
+    },
+    {
+      "text": "La Crampade",
+      "start": 61379,
+      "end": 61390,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 62025,
+      "end": 62034,
+      "label": "LOC"
+    },
+    {
+      "text": "La Crampade",
+      "start": 62084,
+      "end": 62095,
+      "label": "PER"
+    },
+    {
+      "text": "Songe",
+      "start": 62097,
+      "end": 62102,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 62163,
+      "end": 62168,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 62293,
+      "end": 62298,
+      "label": "LOC"
+    },
+    {
+      "text": "Lions",
+      "start": 62456,
+      "end": 62461,
+      "label": "ORG"
+    },
+    {
+      "text": "Espagnols",
+      "start": 62487,
+      "end": 62496,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabes",
+      "start": 62543,
+      "end": 62549,
+      "label": "MISC"
+    },
+    {
+      "text": "Abencerrage",
+      "start": 62594,
+      "end": 62605,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 62656,
+      "end": 62665,
+      "label": "PER"
+    },
+    {
+      "text": "Valdez",
+      "start": 62686,
+      "end": 62692,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbon",
+      "start": 62835,
+      "end": 62842,
+      "label": "MISC"
+    },
+    {
+      "text": "Majesté",
+      "start": 62883,
+      "end": 62890,
+      "label": "LOC"
+    },
+    {
+      "text": "Valdez",
+      "start": 63048,
+      "end": 63054,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagne",
+      "start": 63135,
+      "end": 63142,
+      "label": "LOC"
+    },
+    {
+      "text": "Andalousie",
+      "start": 63161,
+      "end": 63171,
+      "label": "LOC"
+    },
+    {
+      "text": "Sardaigne",
+      "start": 63213,
+      "end": 63222,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 63340,
+      "end": 63349,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 63367,
+      "end": 63375,
+      "label": "MISC"
+    },
+    {
+      "text": "Macumer",
+      "start": 63433,
+      "end": 63440,
+      "label": "LOC"
+    },
+    {
+      "text": "de Grenade",
+      "start": 63550,
+      "end": 63560,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 63586,
+      "end": 63593,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasins",
+      "start": 63658,
+      "end": 63667,
+      "label": "LOC"
+    },
+    {
+      "text": "roi d'Espagne",
+      "start": 63795,
+      "end": 63808,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Soria",
+      "start": 63812,
+      "end": 63824,
+      "label": "PER"
+    },
+    {
+      "text": "Hénarez",
+      "start": 63841,
+      "end": 63848,
+      "label": "LOC"
+    },
+    {
+      "text": "Maures",
+      "start": 63934,
+      "end": 63940,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferdinand de Bourbon",
+      "start": 64031,
+      "end": 64051,
+      "label": "PER"
+    },
+    {
+      "text": "Abencerrages",
+      "start": 64103,
+      "end": 64115,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 64157,
+      "end": 64162,
+      "label": "LOC"
+    },
+    {
+      "text": "Queverdo",
+      "start": 64349,
+      "end": 64357,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 64890,
+      "end": 64899,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 64915,
+      "end": 64924,
+      "label": "LOC"
+    },
+    {
+      "text": "Riégo",
+      "start": 64935,
+      "end": 64940,
+      "label": "PER"
+    },
+    {
+      "text": "Aimer",
+      "start": 65130,
+      "end": 65135,
+      "label": "PER"
+    },
+    {
+      "text": "Don Fernand",
+      "start": 65525,
+      "end": 65536,
+      "label": "PER"
+    },
+    {
+      "text": "rey netto",
+      "start": 65631,
+      "end": 65640,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Hérédia",
+      "start": 65929,
+      "end": 65942,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 65951,
+      "end": 65956,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Soria",
+      "start": 65980,
+      "end": 65992,
+      "label": "PER"
+    },
+    {
+      "text": "Hérédia",
+      "start": 66060,
+      "end": 66067,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 66187,
+      "end": 66192,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 66310,
+      "end": 66315,
+      "label": "PER"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 66452,
+      "end": 66461,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 66621,
+      "end": 66630,
+      "label": "LOC"
+    },
+    {
+      "text": "Duc de Soria",
+      "start": 66632,
+      "end": 66644,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 66748,
+      "end": 66753,
+      "label": "PER"
+    },
+    {
+      "text": "Urraca",
+      "start": 66943,
+      "end": 66949,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Soria",
+      "start": 67334,
+      "end": 67346,
+      "label": "PER"
+    },
+    {
+      "text": "Macumer",
+      "start": 67522,
+      "end": 67529,
+      "label": "LOC"
+    },
+    {
+      "text": "roi d'Espagne",
+      "start": 67558,
+      "end": 67571,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 67691,
+      "end": 67695,
+      "label": "MISC"
+    },
+    {
+      "text": "maison de Soria",
+      "start": 67737,
+      "end": 67752,
+      "label": "PER"
+    },
+    {
+      "text": "Macumer",
+      "start": 67808,
+      "end": 67815,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 67859,
+      "end": 67874,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 68011,
+      "end": 68015,
+      "label": "LOC"
+    },
+    {
+      "text": "Maures vaincus",
+      "start": 68138,
+      "end": 68152,
+      "label": "MISC"
+    },
+    {
+      "text": "Ozalga",
+      "start": 68389,
+      "end": 68395,
+      "label": "PER"
+    },
+    {
+      "text": "Galignani",
+      "start": 68545,
+      "end": 68554,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 68567,
+      "end": 68574,
+      "label": "LOC"
+    },
+    {
+      "text": "francs",
+      "start": 68732,
+      "end": 68738,
+      "label": "MISC"
+    },
+    {
+      "text": "Urraca",
+      "start": 68791,
+      "end": 68797,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 68830,
+      "end": 68838,
+      "label": "MISC"
+    },
+    {
+      "text": "Hillerin Bertin",
+      "start": 68893,
+      "end": 68908,
+      "label": "PER"
+    },
+    {
+      "text": "Denys",
+      "start": 69188,
+      "end": 69193,
+      "label": "PER"
+    },
+    {
+      "text": "Corinthe",
+      "start": 69196,
+      "end": 69204,
+      "label": "LOC"
+    },
+    {
+      "text": "Maures",
+      "start": 69476,
+      "end": 69482,
+      "label": "MISC"
+    },
+    {
+      "text": "Sois",
+      "start": 69743,
+      "end": 69747,
+      "label": "LOC"
+    },
+    {
+      "text": "Fernand",
+      "start": 69762,
+      "end": 69769,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 69870,
+      "end": 69883,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 69936,
+      "end": 69944,
+      "label": "PER"
+    },
+    {
+      "text": "mon testament",
+      "start": 69985,
+      "end": 69998,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 70522,
+      "end": 70531,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 70535,
+      "end": 70542,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 71573,
+      "end": 71585,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 71588,
+      "end": 71596,
+      "label": "MISC"
+    },
+    {
+      "text": "Terrible",
+      "start": 71618,
+      "end": 71626,
+      "label": "LOC"
+    },
+    {
+      "text": "Fernand",
+      "start": 71669,
+      "end": 71676,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 71726,
+      "end": 71731,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimez",
+      "start": 71813,
+      "end": 71818,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 72082,
+      "end": 72086,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien",
+      "start": 72226,
+      "end": 72233,
+      "label": "ORG"
+    },
+    {
+      "text": "Fernand",
+      "start": 72306,
+      "end": 72313,
+      "label": "PER"
+    },
+    {
+      "text": "Felipe",
+      "start": 72343,
+      "end": 72349,
+      "label": "MISC"
+    },
+    {
+      "text": "Viendrez",
+      "start": 72641,
+      "end": 72649,
+      "label": "LOC"
+    },
+    {
+      "text": "Felipe",
+      "start": 72676,
+      "end": 72682,
+      "label": "MISC"
+    },
+    {
+      "text": "Clara",
+      "start": 72689,
+      "end": 72694,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 72857,
+      "end": 72861,
+      "label": "MISC"
+    },
+    {
+      "text": "Fernand",
+      "start": 72897,
+      "end": 72904,
+      "label": "PER"
+    },
+    {
+      "text": "Urraca",
+      "start": 72945,
+      "end": 72951,
+      "label": "PER"
+    },
+    {
+      "text": "Hénarez",
+      "start": 72995,
+      "end": 73002,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 73031,
+      "end": 73036,
+      "label": "PER"
+    },
+    {
+      "text": "Maure christianisé",
+      "start": 73104,
+      "end": 73122,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 73232,
+      "end": 73237,
+      "label": "PER"
+    },
+    {
+      "text": "Janvier",
+      "start": 73289,
+      "end": 73296,
+      "label": "PER"
+    },
+    {
+      "text": "Renée",
+      "start": 73566,
+      "end": 73571,
+      "label": "PER"
+    },
+    {
+      "text": "l'Estorade",
+      "start": 73662,
+      "end": 73672,
+      "label": "PER"
+    },
+    {
+      "text": "Hyères",
+      "start": 73819,
+      "end": 73825,
+      "label": "LOC"
+    },
+    {
+      "text": "sultane",
+      "start": 73930,
+      "end": 73937,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 74238,
+      "end": 74243,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 74511,
+      "end": 74516,
+      "label": "LOC"
+    },
+    {
+      "text": "Lundi",
+      "start": 74623,
+      "end": 74628,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 74704,
+      "end": 74712,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 74731,
+      "end": 74736,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 74806,
+      "end": 74814,
+      "label": "LOC"
+    },
+    {
+      "text": "Garcia",
+      "start": 75116,
+      "end": 75122,
+      "label": "LOC"
+    },
+    {
+      "text": "Pellegrini",
+      "start": 75152,
+      "end": 75162,
+      "label": "PER"
+    },
+    {
+      "text": "Otello",
+      "start": 75168,
+      "end": 75174,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 75176,
+      "end": 75184,
+      "label": "MISC"
+    },
+    {
+      "text": "Rossini",
+      "start": 75198,
+      "end": 75205,
+      "label": "PER"
+    },
+    {
+      "text": "Garcia",
+      "start": 75339,
+      "end": 75345,
+      "label": "LOC"
+    },
+    {
+      "text": "Shakespeare",
+      "start": 75413,
+      "end": 75424,
+      "label": "PER"
+    },
+    {
+      "text": "Othello",
+      "start": 75427,
+      "end": 75434,
+      "label": "MISC"
+    },
+    {
+      "text": "Desdémone",
+      "start": 75532,
+      "end": 75541,
+      "label": "PER"
+    },
+    {
+      "text": "Desdémone",
+      "start": 75560,
+      "end": 75569,
+      "label": "PER"
+    },
+    {
+      "text": "Madrid",
+      "start": 76240,
+      "end": 76246,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 76538,
+      "end": 76545,
+      "label": "PER"
+    },
+    {
+      "text": "Madrid",
+      "start": 76566,
+      "end": 76572,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Héreen",
+      "start": 76607,
+      "end": 76619,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Héreen",
+      "start": 76871,
+      "end": 76883,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 77098,
+      "end": 77104,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 77106,
+      "end": 77114,
+      "label": "PER"
+    },
+    {
+      "text": "Rhétoré",
+      "start": 77125,
+      "end": 77132,
+      "label": "LOC"
+    },
+    {
+      "text": "Madrid",
+      "start": 77205,
+      "end": 77211,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 77224,
+      "end": 77229,
+      "label": "LOC"
+    },
+    {
+      "text": "Miss Griffith",
+      "start": 77231,
+      "end": 77244,
+      "label": "PER"
+    },
+    {
+      "text": "Alphonse",
+      "start": 77264,
+      "end": 77272,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 77296,
+      "end": 77301,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 77432,
+      "end": 77438,
+      "label": "PER"
+    },
+    {
+      "text": "Antigone",
+      "start": 77699,
+      "end": 77707,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Majesté",
+      "start": 77728,
+      "end": 77738,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 77768,
+      "end": 77775,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 78043,
+      "end": 78050,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 79919,
+      "end": 79928,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 79932,
+      "end": 79939,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 79983,
+      "end": 79990,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 79992,
+      "end": 79998,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 80039,
+      "end": 80054,
+      "label": "PER"
+    },
+    {
+      "text": "Samedi",
+      "start": 80095,
+      "end": 80101,
+      "label": "PER"
+    },
+    {
+      "text": "Notre amour",
+      "start": 80355,
+      "end": 80366,
+      "label": "MISC"
+    },
+    {
+      "text": "Riche",
+      "start": 82548,
+      "end": 82553,
+      "label": "PER"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 83196,
+      "end": 83210,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 83934,
+      "end": 83938,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 84233,
+      "end": 84237,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Héreen",
+      "start": 84316,
+      "end": 84328,
+      "label": "PER"
+    },
+    {
+      "text": "Mon",
+      "start": 84330,
+      "end": 84333,
+      "label": "PER"
+    },
+    {
+      "text": "Chimène",
+      "start": 85006,
+      "end": 85013,
+      "label": "PER"
+    },
+    {
+      "text": "Cid",
+      "start": 85023,
+      "end": 85026,
+      "label": "MISC"
+    },
+    {
+      "text": "Cid",
+      "start": 85040,
+      "end": 85043,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 85094,
+      "end": 85100,
+      "label": "ORG"
+    },
+    {
+      "text": "MÊME",
+      "start": 85133,
+      "end": 85137,
+      "label": "LOC"
+    },
+    {
+      "text": "Janvier",
+      "start": 85139,
+      "end": 85146,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 85259,
+      "end": 85274,
+      "label": "PER"
+    },
+    {
+      "text": "fier",
+      "start": 85540,
+      "end": 85544,
+      "label": "LOC"
+    },
+    {
+      "text": "Gonzalve",
+      "start": 85562,
+      "end": 85570,
+      "label": "PER"
+    },
+    {
+      "text": "Cordoue",
+      "start": 85574,
+      "end": 85581,
+      "label": "LOC"
+    },
+    {
+      "text": "Hénarez",
+      "start": 85917,
+      "end": 85924,
+      "label": "PER"
+    },
+    {
+      "text": "Don Hénarez",
+      "start": 85949,
+      "end": 85960,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 86346,
+      "end": 86358,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 86576,
+      "end": 86580,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 86893,
+      "end": 86895,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagne",
+      "start": 86911,
+      "end": 86918,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand VII",
+      "start": 86961,
+      "end": 86974,
+      "label": "PER"
+    },
+    {
+      "text": "Don Quichotte",
+      "start": 87309,
+      "end": 87322,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 88046,
+      "end": 88055,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 88619,
+      "end": 88625,
+      "label": "PER"
+    },
+    {
+      "text": "Ximenès",
+      "start": 88699,
+      "end": 88706,
+      "label": "PER"
+    },
+    {
+      "text": "Madrid",
+      "start": 88973,
+      "end": 88979,
+      "label": "LOC"
+    },
+    {
+      "text": "Hénarez",
+      "start": 89032,
+      "end": 89039,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 89155,
+      "end": 89164,
+      "label": "LOC"
+    },
+    {
+      "text": "Hénarez",
+      "start": 89983,
+      "end": 89990,
+      "label": "LOC"
+    },
+    {
+      "text": "Chère",
+      "start": 90386,
+      "end": 90391,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 90651,
+      "end": 90657,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 90729,
+      "end": 90737,
+      "label": "MISC"
+    },
+    {
+      "text": "IX MADAME DE",
+      "start": 91120,
+      "end": 91132,
+      "label": "PER"
+    },
+    {
+      "text": "L'ESTORADE A MADEMOISELLE",
+      "start": 91133,
+      "end": 91158,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAULIEU",
+      "start": 91162,
+      "end": 91170,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de l'Estorade",
+      "start": 91236,
+      "end": 91256,
+      "label": "PER"
+    },
+    {
+      "text": "Louis de l'Estorade",
+      "start": 92536,
+      "end": 92555,
+      "label": "PER"
+    },
+    {
+      "text": "El Dorado",
+      "start": 93466,
+      "end": 93475,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 94092,
+      "end": 94097,
+      "label": "LOC"
+    },
+    {
+      "text": "X MADEMOISELLE",
+      "start": 94130,
+      "end": 94144,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAULIEU A MADAME DE L'ESTORADE",
+      "start": 94148,
+      "end": 94179,
+      "label": "MISC"
+    },
+    {
+      "text": "Janvier",
+      "start": 94181,
+      "end": 94188,
+      "label": "PER"
+    },
+    {
+      "text": "Renée !",
+      "start": 94192,
+      "end": 94199,
+      "label": "MISC"
+    },
+    {
+      "text": "Provence",
+      "start": 95854,
+      "end": 95862,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 95968,
+      "end": 95972,
+      "label": "MISC"
+    },
+    {
+      "text": "Renée",
+      "start": 96065,
+      "end": 96070,
+      "label": "PER"
+    },
+    {
+      "text": "Lundi",
+      "start": 96187,
+      "end": 96192,
+      "label": "ORG"
+    },
+    {
+      "text": "Espagnol",
+      "start": 96208,
+      "end": 96216,
+      "label": "MISC"
+    },
+    {
+      "text": "Griffith et moi",
+      "start": 96533,
+      "end": 96548,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 96840,
+      "end": 96849,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 97238,
+      "end": 97246,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 97472,
+      "end": 97480,
+      "label": "PER"
+    },
+    {
+      "text": "Hénarez",
+      "start": 97621,
+      "end": 97628,
+      "label": "LOC"
+    },
+    {
+      "text": "Nouvelle Héloïse",
+      "start": 97864,
+      "end": 97880,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Jacques Rousseau",
+      "start": 97884,
+      "end": 97905,
+      "label": "PER"
+    },
+    {
+      "text": "Clarisse",
+      "start": 98026,
+      "end": 98034,
+      "label": "LOC"
+    },
+    {
+      "text": "Richardson",
+      "start": 98126,
+      "end": 98136,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaises",
+      "start": 98194,
+      "end": 98203,
+      "label": "MISC"
+    },
+    {
+      "text": "Rousseau",
+      "start": 98214,
+      "end": 98222,
+      "label": "PER"
+    },
+    {
+      "text": "Raconte",
+      "start": 98691,
+      "end": 98698,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 98873,
+      "end": 98878,
+      "label": "PER"
+    },
+    {
+      "text": "L'ESTORADE A MADEMOISELLE",
+      "start": 98924,
+      "end": 98949,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAULIEU",
+      "start": 98953,
+      "end": 98961,
+      "label": "ORG"
+    },
+    {
+      "text": "Février",
+      "start": 99516,
+      "end": 99523,
+      "label": "LOC"
+    }
+  ]
+}

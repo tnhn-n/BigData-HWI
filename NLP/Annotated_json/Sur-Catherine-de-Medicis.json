@@ -1,0 +1,7642 @@
+{
+  "entities": [
+    {
+      "text": "CATHERINE",
+      "start": 4,
+      "end": 13,
+      "label": "MISC"
+    },
+    {
+      "text": "MÉDICIS",
+      "start": 17,
+      "end": 24,
+      "label": "ORG"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 34,
+      "end": 42,
+      "label": "ORG"
+    },
+    {
+      "text": "Membre",
+      "start": 67,
+      "end": 73,
+      "label": "ORG"
+    },
+    {
+      "text": "Académie des Beaux Arts",
+      "start": 79,
+      "end": 102,
+      "label": "ORG"
+    },
+    {
+      "text": "Alpes",
+      "start": 186,
+      "end": 191,
+      "label": "LOC"
+    },
+    {
+      "text": "Annibal",
+      "start": 203,
+      "end": 210,
+      "label": "PER"
+    },
+    {
+      "text": "Witaker",
+      "start": 284,
+      "end": 291,
+      "label": "MISC"
+    },
+    {
+      "text": "Rivaz",
+      "start": 295,
+      "end": 300,
+      "label": "LOC"
+    },
+    {
+      "text": "Lyon",
+      "start": 306,
+      "end": 310,
+      "label": "LOC"
+    },
+    {
+      "text": "Genève",
+      "start": 312,
+      "end": 318,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Bernard",
+      "start": 323,
+      "end": 336,
+      "label": "LOC"
+    },
+    {
+      "text": "val d'Aoste",
+      "start": 343,
+      "end": 354,
+      "label": "LOC"
+    },
+    {
+      "text": "Letronne",
+      "start": 367,
+      "end": 375,
+      "label": "MISC"
+    },
+    {
+      "text": "Follard",
+      "start": 377,
+      "end": 384,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Simon",
+      "start": 386,
+      "end": 397,
+      "label": "PER"
+    },
+    {
+      "text": "Fortia d'Urban",
+      "start": 401,
+      "end": 415,
+      "label": "PER"
+    },
+    {
+      "text": "Isère",
+      "start": 423,
+      "end": 428,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 430,
+      "end": 438,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Bonnet",
+      "start": 440,
+      "end": 452,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont Genèvre",
+      "start": 457,
+      "end": 469,
+      "label": "LOC"
+    },
+    {
+      "text": "Fenestrelle",
+      "start": 471,
+      "end": 482,
+      "label": "PER"
+    },
+    {
+      "text": "pas de Suze",
+      "start": 489,
+      "end": 500,
+      "label": "LOC"
+    },
+    {
+      "text": "Larauza",
+      "start": 513,
+      "end": 520,
+      "label": "PER"
+    },
+    {
+      "text": "Mont Cenis",
+      "start": 529,
+      "end": 539,
+      "label": "LOC"
+    },
+    {
+      "text": "Suze",
+      "start": 543,
+      "end": 547,
+      "label": "LOC"
+    },
+    {
+      "text": "Strabon",
+      "start": 560,
+      "end": 567,
+      "label": "PER"
+    },
+    {
+      "text": "Polybe",
+      "start": 569,
+      "end": 575,
+      "label": "PER"
+    },
+    {
+      "text": "Luc",
+      "start": 582,
+      "end": 585,
+      "label": "PER"
+    },
+    {
+      "text": "Rhône",
+      "start": 594,
+      "end": 599,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 601,
+      "end": 607,
+      "label": "LOC"
+    },
+    {
+      "text": "Yenne",
+      "start": 609,
+      "end": 614,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont du Chat",
+      "start": 621,
+      "end": 633,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 687,
+      "end": 692,
+      "label": "LOC"
+    },
+    {
+      "text": "Bochetta",
+      "start": 697,
+      "end": 705,
+      "label": "LOC"
+    },
+    {
+      "text": "Scrivia",
+      "start": 712,
+      "end": 719,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 752,
+      "end": 760,
+      "label": "PER"
+    },
+    {
+      "text": "Annibal",
+      "start": 1146,
+      "end": 1153,
+      "label": "PER"
+    },
+    {
+      "text": "Ménestrier",
+      "start": 1229,
+      "end": 1239,
+      "label": "PER"
+    },
+    {
+      "text": "Scoras",
+      "start": 1253,
+      "end": 1259,
+      "label": "LOC"
+    },
+    {
+      "text": "Polybe",
+      "start": 1272,
+      "end": 1278,
+      "label": "PER"
+    },
+    {
+      "text": "Letronne",
+      "start": 1294,
+      "end": 1302,
+      "label": "MISC"
+    },
+    {
+      "text": "Larauza",
+      "start": 1304,
+      "end": 1311,
+      "label": "PER"
+    },
+    {
+      "text": "Schweighauser",
+      "start": 1315,
+      "end": 1328,
+      "label": "PER"
+    },
+    {
+      "text": "Isère",
+      "start": 1340,
+      "end": 1345,
+      "label": "LOC"
+    },
+    {
+      "text": "Cochard",
+      "start": 1348,
+      "end": 1355,
+      "label": "PER"
+    },
+    {
+      "text": "Drôme",
+      "start": 1387,
+      "end": 1392,
+      "label": "LOC"
+    },
+    {
+      "text": "Scoras",
+      "start": 1441,
+      "end": 1447,
+      "label": "LOC"
+    },
+    {
+      "text": "Scrivia",
+      "start": 1451,
+      "end": 1458,
+      "label": "LOC"
+    },
+    {
+      "text": "Spezzia",
+      "start": 1595,
+      "end": 1602,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 1622,
+      "end": 1627,
+      "label": "LOC"
+    },
+    {
+      "text": "bataille de Cannes",
+      "start": 1676,
+      "end": 1694,
+      "label": "MISC"
+    },
+    {
+      "text": "Réformation",
+      "start": 1944,
+      "end": 1955,
+      "label": "ORG"
+    },
+    {
+      "text": "homme1",
+      "start": 2016,
+      "end": 2022,
+      "label": "MISC"
+    },
+    {
+      "text": "Barcelone",
+      "start": 2070,
+      "end": 2079,
+      "label": "LOC"
+    },
+    {
+      "text": "Luther",
+      "start": 2098,
+      "end": 2104,
+      "label": "PER"
+    },
+    {
+      "text": "Calvin",
+      "start": 2108,
+      "end": 2114,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 2290,
+      "end": 2310,
+      "label": "PER"
+    },
+    {
+      "text": "Réformation",
+      "start": 2474,
+      "end": 2485,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 2619,
+      "end": 2624,
+      "label": "LOC"
+    },
+    {
+      "text": "Barcelone",
+      "start": 2670,
+      "end": 2679,
+      "label": "LOC"
+    },
+    {
+      "text": "Caux",
+      "start": 2701,
+      "end": 2705,
+      "label": "LOC"
+    },
+    {
+      "text": "Caus",
+      "start": 2717,
+      "end": 2721,
+      "label": "LOC"
+    },
+    {
+      "text": "Salomon",
+      "start": 2809,
+      "end": 2816,
+      "label": "PER"
+    },
+    {
+      "text": "Comédie Humaine",
+      "start": 2915,
+      "end": 2930,
+      "label": "LOC"
+    },
+    {
+      "text": "Heidelberg",
+      "start": 2934,
+      "end": 2944,
+      "label": "LOC"
+    },
+    {
+      "text": "Caux",
+      "start": 2955,
+      "end": 2959,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 2963,
+      "end": 2972,
+      "label": "LOC"
+    },
+    {
+      "text": "Bénédictins",
+      "start": 3488,
+      "end": 3499,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 3520,
+      "end": 3529,
+      "label": "LOC"
+    },
+    {
+      "text": "M. de Launoy",
+      "start": 3897,
+      "end": 3909,
+      "label": "PER"
+    },
+    {
+      "text": "Dénicheur",
+      "start": 3923,
+      "end": 3932,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 4008,
+      "end": 4014,
+      "label": "MISC"
+    },
+    {
+      "text": "Bénédictins",
+      "start": 4038,
+      "end": 4049,
+      "label": "LOC"
+    },
+    {
+      "text": "Académie des Inscriptions",
+      "start": 4084,
+      "end": 4109,
+      "label": "ORG"
+    },
+    {
+      "text": "Belles Lettres",
+      "start": 4113,
+      "end": 4127,
+      "label": "MISC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 4255,
+      "end": 4263,
+      "label": "PER"
+    },
+    {
+      "text": "Diderot",
+      "start": 4387,
+      "end": 4394,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 4485,
+      "end": 4489,
+      "label": "LOC"
+    },
+    {
+      "text": "révolution française",
+      "start": 4499,
+      "end": 4519,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 4627,
+      "end": 4636,
+      "label": "LOC"
+    },
+    {
+      "text": "Bénédictins",
+      "start": 4706,
+      "end": 4717,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 4719,
+      "end": 4728,
+      "label": "PER"
+    },
+    {
+      "text": "Walpole",
+      "start": 4792,
+      "end": 4799,
+      "label": "PER"
+    },
+    {
+      "text": "Richard III",
+      "start": 4821,
+      "end": 4832,
+      "label": "PER"
+    },
+    {
+      "text": "Marlborough",
+      "start": 5080,
+      "end": 5091,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles IX",
+      "start": 5217,
+      "end": 5227,
+      "label": "PER"
+    },
+    {
+      "text": "Mémorial",
+      "start": 5450,
+      "end": 5458,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Hélène",
+      "start": 5462,
+      "end": 5475,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 5589,
+      "end": 5597,
+      "label": "PER"
+    },
+    {
+      "text": "Pradt",
+      "start": 5632,
+      "end": 5637,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 5700,
+      "end": 5708,
+      "label": "PER"
+    },
+    {
+      "text": "Comment l'erreur",
+      "start": 5723,
+      "end": 5739,
+      "label": "MISC"
+    },
+    {
+      "text": "prince de Polignac",
+      "start": 6068,
+      "end": 6086,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 6108,
+      "end": 6117,
+      "label": "LOC"
+    },
+    {
+      "text": "coup d'État du prince de Polignac",
+      "start": 6201,
+      "end": 6234,
+      "label": "MISC"
+    },
+    {
+      "text": "Shakespeare",
+      "start": 6263,
+      "end": 6274,
+      "label": "PER"
+    },
+    {
+      "text": "Beaumarchais",
+      "start": 6325,
+      "end": 6337,
+      "label": "PER"
+    },
+    {
+      "text": "Bergasse",
+      "start": 6345,
+      "end": 6353,
+      "label": "LOC"
+    },
+    {
+      "text": "Begearss",
+      "start": 6355,
+      "end": 6363,
+      "label": "LOC"
+    },
+    {
+      "text": "Falstaff",
+      "start": 6366,
+      "end": 6374,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 6383,
+      "end": 6393,
+      "label": "LOC"
+    },
+    {
+      "text": "Falstaff",
+      "start": 6560,
+      "end": 6568,
+      "label": "MISC"
+    },
+    {
+      "text": "ordre de la Jarretière",
+      "start": 6644,
+      "end": 6666,
+      "label": "ORG"
+    },
+    {
+      "text": "Henri V",
+      "start": 6724,
+      "end": 6731,
+      "label": "PER"
+    },
+    {
+      "text": "Falstaff",
+      "start": 6746,
+      "end": 6754,
+      "label": "PER"
+    },
+    {
+      "text": "bataille d'Azincourt",
+      "start": 6826,
+      "end": 6846,
+      "label": "MISC"
+    },
+    {
+      "text": "duc d'Alençon",
+      "start": 6870,
+      "end": 6883,
+      "label": "PER"
+    },
+    {
+      "text": "Montereau",
+      "start": 6898,
+      "end": 6907,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri VI",
+      "start": 6952,
+      "end": 6960,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 6982,
+      "end": 6990,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 7120,
+      "end": 7128,
+      "label": "PER"
+    },
+    {
+      "text": "Mille",
+      "start": 7234,
+      "end": 7239,
+      "label": "PER"
+    },
+    {
+      "text": "Pantagruel",
+      "start": 7343,
+      "end": 7353,
+      "label": "MISC"
+    },
+    {
+      "text": "Arétin",
+      "start": 7357,
+      "end": 7363,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 7374,
+      "end": 7380,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 7387,
+      "end": 7395,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 7758,
+      "end": 7764,
+      "label": "LOC"
+    },
+    {
+      "text": "Brunehault",
+      "start": 7847,
+      "end": 7857,
+      "label": "LOC"
+    },
+    {
+      "text": "Frédégonde",
+      "start": 7861,
+      "end": 7871,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 7918,
+      "end": 7938,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 7952,
+      "end": 7968,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 8019,
+      "end": 8028,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie",
+      "start": 8078,
+      "end": 8083,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 8118,
+      "end": 8126,
+      "label": "PER"
+    },
+    {
+      "text": "Épernon",
+      "start": 8226,
+      "end": 8233,
+      "label": "PER"
+    },
+    {
+      "text": "Ravaillac",
+      "start": 8264,
+      "end": 8273,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 8355,
+      "end": 8364,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 8418,
+      "end": 8424,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 8449,
+      "end": 8458,
+      "label": "PER"
+    },
+    {
+      "text": "Dupes",
+      "start": 8486,
+      "end": 8491,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 8545,
+      "end": 8555,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 8598,
+      "end": 8606,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 8608,
+      "end": 8628,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 8664,
+      "end": 8673,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 8855,
+      "end": 8860,
+      "label": "LOC"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 8870,
+      "end": 8887,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 8928,
+      "end": 8936,
+      "label": "LOC"
+    },
+    {
+      "text": "Balafré",
+      "start": 8955,
+      "end": 8962,
+      "label": "LOC"
+    },
+    {
+      "text": "Condé",
+      "start": 8984,
+      "end": 8989,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne d'Albret",
+      "start": 9000,
+      "end": 9015,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 9017,
+      "end": 9025,
+      "label": "PER"
+    },
+    {
+      "text": "connétable de Montmorency",
+      "start": 9030,
+      "end": 9055,
+      "label": "PER"
+    },
+    {
+      "text": "Calvin",
+      "start": 9057,
+      "end": 9063,
+      "label": "PER"
+    },
+    {
+      "text": "Coligny",
+      "start": 9069,
+      "end": 9076,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore de Bèze",
+      "start": 9078,
+      "end": 9094,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 9181,
+      "end": 9185,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 9345,
+      "end": 9351,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 9366,
+      "end": 9386,
+      "label": "PER"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 9883,
+      "end": 9894,
+      "label": "MISC"
+    },
+    {
+      "text": "Charlemagne",
+      "start": 10015,
+      "end": 10026,
+      "label": "PER"
+    },
+    {
+      "text": "connétable de Bourbon",
+      "start": 10097,
+      "end": 10118,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 10134,
+      "end": 10143,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Valois",
+      "start": 10482,
+      "end": 10498,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 10504,
+      "end": 10512,
+      "label": "MISC"
+    },
+    {
+      "text": "Réformés",
+      "start": 10547,
+      "end": 10555,
+      "label": "MISC"
+    },
+    {
+      "text": "Radicaux",
+      "start": 10561,
+      "end": 10569,
+      "label": "ORG"
+    },
+    {
+      "text": "Valois",
+      "start": 10719,
+      "end": 10725,
+      "label": "PER"
+    },
+    {
+      "text": "Thou",
+      "start": 10807,
+      "end": 10811,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 10919,
+      "end": 10928,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 11449,
+      "end": 11455,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmes",
+      "start": 11594,
+      "end": 11600,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 11652,
+      "end": 11662,
+      "label": "PER"
+    },
+    {
+      "text": "le Louvre",
+      "start": 11688,
+      "end": 11697,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fayette",
+      "start": 11817,
+      "end": 11827,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Merri",
+      "start": 11865,
+      "end": 11876,
+      "label": "PER"
+    },
+    {
+      "text": "rue Transnonain",
+      "start": 11880,
+      "end": 11895,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles X",
+      "start": 12309,
+      "end": 12318,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 12530,
+      "end": 12543,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Barthélemi",
+      "start": 12574,
+      "end": 12590,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 12877,
+      "end": 12897,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 12901,
+      "end": 12911,
+      "label": "PER"
+    },
+    {
+      "text": "Casimir Périer",
+      "start": 12943,
+      "end": 12957,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 13150,
+      "end": 13156,
+      "label": "LOC"
+    },
+    {
+      "text": "Appliquez",
+      "start": 13285,
+      "end": 13294,
+      "label": "PER"
+    },
+    {
+      "text": "Laubardemont",
+      "start": 13577,
+      "end": 13589,
+      "label": "LOC"
+    },
+    {
+      "text": "Laffemas",
+      "start": 13593,
+      "end": 13601,
+      "label": "PER"
+    },
+    {
+      "text": "Soldats",
+      "start": 13701,
+      "end": 13708,
+      "label": "MISC"
+    },
+    {
+      "text": "Orthez",
+      "start": 13774,
+      "end": 13780,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles IX",
+      "start": 13856,
+      "end": 13866,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 14053,
+      "end": 14062,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe II",
+      "start": 14070,
+      "end": 14081,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albe",
+      "start": 14088,
+      "end": 14098,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 14110,
+      "end": 14115,
+      "label": "LOC"
+    },
+    {
+      "text": "Granvelle",
+      "start": 14131,
+      "end": 14140,
+      "label": "PER"
+    },
+    {
+      "text": "Réformation",
+      "start": 14169,
+      "end": 14180,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Europe",
+      "start": 14193,
+      "end": 14201,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 14266,
+      "end": 14275,
+      "label": "PER"
+    },
+    {
+      "text": "des France",
+      "start": 14322,
+      "end": 14332,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 14424,
+      "end": 14433,
+      "label": "PER"
+    },
+    {
+      "text": "Édit de Nantes",
+      "start": 14474,
+      "end": 14488,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 14565,
+      "end": 14574,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 14599,
+      "end": 14609,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 14614,
+      "end": 14622,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 14626,
+      "end": 14634,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 14706,
+      "end": 14712,
+      "label": "LOC"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 14857,
+      "end": 14868,
+      "label": "ORG"
+    },
+    {
+      "text": "Stratagème",
+      "start": 14898,
+      "end": 14908,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles IX",
+      "start": 14912,
+      "end": 14922,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 14940,
+      "end": 14949,
+      "label": "LOC"
+    },
+    {
+      "text": "Religionnaires",
+      "start": 15065,
+      "end": 15079,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 15206,
+      "end": 15215,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 15385,
+      "end": 15394,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 15429,
+      "end": 15434,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 15552,
+      "end": 15557,
+      "label": "PER"
+    },
+    {
+      "text": "Catilina",
+      "start": 15607,
+      "end": 15615,
+      "label": "LOC"
+    },
+    {
+      "text": "Cicéron",
+      "start": 15638,
+      "end": 15645,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 15681,
+      "end": 15691,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 15778,
+      "end": 15787,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 15791,
+      "end": 15801,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 15805,
+      "end": 15811,
+      "label": "LOC"
+    },
+    {
+      "text": "Luthériens",
+      "start": 15932,
+      "end": 15942,
+      "label": "PER"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 15948,
+      "end": 15959,
+      "label": "ORG"
+    },
+    {
+      "text": "Protestants",
+      "start": 15967,
+      "end": 15978,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 16411,
+      "end": 16420,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 16426,
+      "end": 16432,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 16648,
+      "end": 16657,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 16788,
+      "end": 16797,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 16827,
+      "end": 16836,
+      "label": "LOC"
+    },
+    {
+      "text": "Élection",
+      "start": 16968,
+      "end": 16976,
+      "label": "ORG"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 17527,
+      "end": 17540,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 17640,
+      "end": 17649,
+      "label": "PER"
+    },
+    {
+      "text": "Catholiques",
+      "start": 19006,
+      "end": 19017,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 19104,
+      "end": 19113,
+      "label": "LOC"
+    },
+    {
+      "text": "Vaudois",
+      "start": 19861,
+      "end": 19868,
+      "label": "LOC"
+    },
+    {
+      "text": "Albigeois",
+      "start": 19876,
+      "end": 19885,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 20325,
+      "end": 20331,
+      "label": "LOC"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 20690,
+      "end": 20707,
+      "label": "MISC"
+    },
+    {
+      "text": "maison de Valois",
+      "start": 20727,
+      "end": 20743,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 20800,
+      "end": 20820,
+      "label": "PER"
+    },
+    {
+      "text": "Supposez",
+      "start": 20822,
+      "end": 20830,
+      "label": "PER"
+    },
+    {
+      "text": "Balafré debout",
+      "start": 20841,
+      "end": 20855,
+      "label": "MISC"
+    },
+    {
+      "text": "Béarnais",
+      "start": 20884,
+      "end": 20892,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Mayenne",
+      "start": 20966,
+      "end": 20980,
+      "label": "PER"
+    },
+    {
+      "text": "parti des Guise",
+      "start": 20998,
+      "end": 21013,
+      "label": "ORG"
+    },
+    {
+      "text": "Catherine",
+      "start": 21074,
+      "end": 21083,
+      "label": "PER"
+    },
+    {
+      "text": "François II",
+      "start": 21118,
+      "end": 21129,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 21142,
+      "end": 21152,
+      "label": "PER"
+    },
+    {
+      "text": "Paré",
+      "start": 21443,
+      "end": 21447,
+      "label": "PER"
+    },
+    {
+      "text": "François II",
+      "start": 21541,
+      "end": 21552,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 21563,
+      "end": 21573,
+      "label": "PER"
+    },
+    {
+      "text": "Thou",
+      "start": 21825,
+      "end": 21829,
+      "label": "PER"
+    },
+    {
+      "text": "L'Hospital",
+      "start": 21835,
+      "end": 21845,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 22074,
+      "end": 22083,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 22183,
+      "end": 22188,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 22214,
+      "end": 22223,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 22230,
+      "end": 22238,
+      "label": "PER"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 22373,
+      "end": 22384,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 22386,
+      "end": 22394,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 22437,
+      "end": 22446,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 22510,
+      "end": 22519,
+      "label": "PER"
+    },
+    {
+      "text": "Amboise",
+      "start": 22561,
+      "end": 22568,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 22589,
+      "end": 22598,
+      "label": "PER"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 22607,
+      "end": 22618,
+      "label": "LOC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 22760,
+      "end": 22772,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 22792,
+      "end": 22801,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Anjou",
+      "start": 22860,
+      "end": 22871,
+      "label": "PER"
+    },
+    {
+      "text": "Henri III",
+      "start": 22918,
+      "end": 22927,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 23107,
+      "end": 23117,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Alençon",
+      "start": 23177,
+      "end": 23190,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 23218,
+      "end": 23227,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 23255,
+      "end": 23264,
+      "label": "PER"
+    },
+    {
+      "text": "Chenonceaux",
+      "start": 23413,
+      "end": 23424,
+      "label": "PER"
+    },
+    {
+      "text": "Pologne",
+      "start": 23439,
+      "end": 23446,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 23476,
+      "end": 23485,
+      "label": "PER"
+    },
+    {
+      "text": "Henri III",
+      "start": 23751,
+      "end": 23760,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Lorraine",
+      "start": 23949,
+      "end": 23967,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 24033,
+      "end": 24038,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 24129,
+      "end": 24138,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 24218,
+      "end": 24227,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 24295,
+      "end": 24301,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 24390,
+      "end": 24395,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 24474,
+      "end": 24483,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourguignons",
+      "start": 24501,
+      "end": 24513,
+      "label": "LOC"
+    },
+    {
+      "text": "Armagnacs",
+      "start": 24521,
+      "end": 24530,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 24542,
+      "end": 24547,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 24555,
+      "end": 24561,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 24637,
+      "end": 24646,
+      "label": "LOC"
+    },
+    {
+      "text": "Isabelle de Bavière",
+      "start": 24660,
+      "end": 24679,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 24681,
+      "end": 24690,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 24694,
+      "end": 24710,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 24823,
+      "end": 24832,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 24855,
+      "end": 24864,
+      "label": "PER"
+    },
+    {
+      "text": "Isabelle",
+      "start": 24984,
+      "end": 24992,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 25050,
+      "end": 25066,
+      "label": "PER"
+    },
+    {
+      "text": "Isabelle",
+      "start": 25068,
+      "end": 25076,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 25088,
+      "end": 25095,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 25099,
+      "end": 25105,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 25131,
+      "end": 25144,
+      "label": "PER"
+    },
+    {
+      "text": "Boisbourdon",
+      "start": 25165,
+      "end": 25176,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 25191,
+      "end": 25207,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 25375,
+      "end": 25384,
+      "label": "PER"
+    },
+    {
+      "text": "ÉTUDES PHILOSOPHIQUES",
+      "start": 25773,
+      "end": 25794,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 25934,
+      "end": 25943,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 26256,
+      "end": 26261,
+      "label": "LOC"
+    },
+    {
+      "text": "Medici",
+      "start": 26416,
+      "end": 26422,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditchi",
+      "start": 26424,
+      "end": 26432,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 26444,
+      "end": 26450,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 26471,
+      "end": 26478,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 26550,
+      "end": 26556,
+      "label": "LOC"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 26618,
+      "end": 26626,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 26716,
+      "end": 26723,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 26802,
+      "end": 26809,
+      "label": "PER"
+    },
+    {
+      "text": "Avérard de Médicis",
+      "start": 26817,
+      "end": 26835,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 26852,
+      "end": 26860,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 26904,
+      "end": 26912,
+      "label": "LOC"
+    },
+    {
+      "text": "République toscane",
+      "start": 27054,
+      "end": 27072,
+      "label": "LOC"
+    },
+    {
+      "text": "Salvestro de Médicis",
+      "start": 27078,
+      "end": 27098,
+      "label": "PER"
+    },
+    {
+      "text": "Salvestro",
+      "start": 27134,
+      "end": 27143,
+      "label": "MISC"
+    },
+    {
+      "text": "Cosme",
+      "start": 27165,
+      "end": 27170,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurent de Médicis",
+      "start": 27174,
+      "end": 27192,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme",
+      "start": 27197,
+      "end": 27202,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurent le Magnifique",
+      "start": 27218,
+      "end": 27239,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Nemours",
+      "start": 27244,
+      "end": 27258,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 27263,
+      "end": 27274,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 27284,
+      "end": 27293,
+      "label": "PER"
+    },
+    {
+      "text": "Léon X",
+      "start": 27303,
+      "end": 27309,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 27319,
+      "end": 27330,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 27335,
+      "end": 27344,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 27361,
+      "end": 27369,
+      "label": "LOC"
+    },
+    {
+      "text": "duc della città di Penna",
+      "start": 27393,
+      "end": 27417,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 27443,
+      "end": 27454,
+      "label": "PER"
+    },
+    {
+      "text": "Toscane",
+      "start": 27503,
+      "end": 27510,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurent",
+      "start": 27515,
+      "end": 27522,
+      "label": "PER"
+    },
+    {
+      "text": "Brutus",
+      "start": 27541,
+      "end": 27547,
+      "label": "PER"
+    },
+    {
+      "text": "Lorenzino",
+      "start": 27559,
+      "end": 27568,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 27580,
+      "end": 27593,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme",
+      "start": 27596,
+      "end": 27601,
+      "label": "MISC"
+    },
+    {
+      "text": "Toscane",
+      "start": 27654,
+      "end": 27661,
+      "label": "LOC"
+    },
+    {
+      "text": "Cosme",
+      "start": 27762,
+      "end": 27767,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurent",
+      "start": 27782,
+      "end": 27789,
+      "label": "PER"
+    },
+    {
+      "text": "Toscane",
+      "start": 27841,
+      "end": 27848,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 27874,
+      "end": 27890,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre de Médicis",
+      "start": 27948,
+      "end": 27968,
+      "label": "PER"
+    },
+    {
+      "text": "duc della città di Penna",
+      "start": 27996,
+      "end": 28020,
+      "label": "PER"
+    },
+    {
+      "text": "Lorenzino",
+      "start": 28047,
+      "end": 28056,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 28072,
+      "end": 28083,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 28093,
+      "end": 28102,
+      "label": "PER"
+    },
+    {
+      "text": "Lorenzino",
+      "start": 28138,
+      "end": 28147,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent",
+      "start": 28166,
+      "end": 28173,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 28212,
+      "end": 28221,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 28328,
+      "end": 28337,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 28352,
+      "end": 28363,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 28442,
+      "end": 28449,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite d'Autriche",
+      "start": 28472,
+      "end": 28493,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 28514,
+      "end": 28527,
+      "label": "PER"
+    },
+    {
+      "text": "François Médicis",
+      "start": 28529,
+      "end": 28545,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca Capello",
+      "start": 28558,
+      "end": 28572,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitienne",
+      "start": 28642,
+      "end": 28652,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 28673,
+      "end": 28682,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 28698,
+      "end": 28706,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine de Médicis",
+      "start": 28775,
+      "end": 28793,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 28998,
+      "end": 29005,
+      "label": "PER"
+    },
+    {
+      "text": "Jules de Médicis",
+      "start": 29092,
+      "end": 29108,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 29138,
+      "end": 29149,
+      "label": "PER"
+    },
+    {
+      "text": "Julien Ier",
+      "start": 29176,
+      "end": 29186,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte de Médicis",
+      "start": 29200,
+      "end": 29220,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 29354,
+      "end": 29365,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 29375,
+      "end": 29384,
+      "label": "PER"
+    },
+    {
+      "text": "Henri",
+      "start": 29562,
+      "end": 29567,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 29584,
+      "end": 29596,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent II de Médicis",
+      "start": 29616,
+      "end": 29637,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 29647,
+      "end": 29656,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine de la Tour d'Auvergne",
+      "start": 29703,
+      "end": 29734,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 29847,
+      "end": 29856,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 29858,
+      "end": 29867,
+      "label": "PER"
+    },
+    {
+      "text": "Florentins",
+      "start": 30012,
+      "end": 30022,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 30075,
+      "end": 30082,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 30108,
+      "end": 30116,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 30180,
+      "end": 30189,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 30210,
+      "end": 30221,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent",
+      "start": 30236,
+      "end": 30243,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 30253,
+      "end": 30262,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 30297,
+      "end": 30304,
+      "label": "PER"
+    },
+    {
+      "text": "Léon X",
+      "start": 30320,
+      "end": 30326,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 30346,
+      "end": 30354,
+      "label": "LOC"
+    },
+    {
+      "text": "Julien",
+      "start": 30381,
+      "end": 30387,
+      "label": "PER"
+    },
+    {
+      "text": "Jules de Médicis",
+      "start": 30389,
+      "end": 30405,
+      "label": "PER"
+    },
+    {
+      "text": "Léon X",
+      "start": 30423,
+      "end": 30429,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 30454,
+      "end": 30463,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 30480,
+      "end": 30485,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 30495,
+      "end": 30506,
+      "label": "PER"
+    },
+    {
+      "text": "Brantôme",
+      "start": 30600,
+      "end": 30608,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 30622,
+      "end": 30632,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 30661,
+      "end": 30669,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 30689,
+      "end": 30696,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 30767,
+      "end": 30776,
+      "label": "PER"
+    },
+    {
+      "text": "Baptiste Cei",
+      "start": 30947,
+      "end": 30959,
+      "label": "PER"
+    },
+    {
+      "text": "Bernard Castiglione",
+      "start": 30961,
+      "end": 30980,
+      "label": "PER"
+    },
+    {
+      "text": "Castiglone",
+      "start": 30982,
+      "end": 30992,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 31103,
+      "end": 31112,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 31272,
+      "end": 31281,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 31378,
+      "end": 31387,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre de Médicis",
+      "start": 31438,
+      "end": 31458,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 31481,
+      "end": 31492,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 31575,
+      "end": 31588,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite",
+      "start": 31613,
+      "end": 31623,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 31708,
+      "end": 31714,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 31743,
+      "end": 31747,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 31781,
+      "end": 31789,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 31856,
+      "end": 31860,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Italie",
+      "start": 32057,
+      "end": 32065,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 32508,
+      "end": 32515,
+      "label": "PER"
+    },
+    {
+      "text": "duc della città di Penna",
+      "start": 32631,
+      "end": 32655,
+      "label": "PER"
+    },
+    {
+      "text": "Mauresque",
+      "start": 32671,
+      "end": 32680,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 32710,
+      "end": 32718,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément VII",
+      "start": 32750,
+      "end": 32761,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent II",
+      "start": 32780,
+      "end": 32790,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 33158,
+      "end": 33167,
+      "label": "PER"
+    },
+    {
+      "text": "Réformation",
+      "start": 33264,
+      "end": 33275,
+      "label": "ORG"
+    },
+    {
+      "text": "Machiavel",
+      "start": 33348,
+      "end": 33357,
+      "label": "PER"
+    },
+    {
+      "text": "Spinosa",
+      "start": 33368,
+      "end": 33375,
+      "label": "ORG"
+    },
+    {
+      "text": "Hobbes",
+      "start": 33381,
+      "end": 33387,
+      "label": "PER"
+    },
+    {
+      "text": "Montesquieu",
+      "start": 33398,
+      "end": 33409,
+      "label": "PER"
+    },
+    {
+      "text": "Sylla",
+      "start": 33430,
+      "end": 33435,
+      "label": "PER"
+    },
+    {
+      "text": "Eucrate",
+      "start": 33441,
+      "end": 33448,
+      "label": "LOC"
+    },
+    {
+      "text": "Montesquieu",
+      "start": 33477,
+      "end": 33488,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 33711,
+      "end": 33717,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33736,
+      "end": 33744,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 33867,
+      "end": 33880,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 33882,
+      "end": 33891,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe II",
+      "start": 33893,
+      "end": 33904,
+      "label": "PER"
+    },
+    {
+      "text": "Jules II",
+      "start": 33906,
+      "end": 33914,
+      "label": "PER"
+    },
+    {
+      "text": "l'affaire d'Espagne",
+      "start": 33967,
+      "end": 33986,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 34012,
+      "end": 34021,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 34122,
+      "end": 34135,
+      "label": "PER"
+    },
+    {
+      "text": "Luther",
+      "start": 34200,
+      "end": 34206,
+      "label": "PER"
+    },
+    {
+      "text": "Trône",
+      "start": 34224,
+      "end": 34229,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiare",
+      "start": 34245,
+      "end": 34250,
+      "label": "MISC"
+    },
+    {
+      "text": "Rome",
+      "start": 34277,
+      "end": 34281,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément VII",
+      "start": 34299,
+      "end": 34310,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 34330,
+      "end": 34341,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 34379,
+      "end": 34392,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre de Médicis",
+      "start": 34431,
+      "end": 34451,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 34454,
+      "end": 34462,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 34467,
+      "end": 34480,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 34526,
+      "end": 34535,
+      "label": "PER"
+    },
+    {
+      "text": "Clément",
+      "start": 34553,
+      "end": 34560,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 34580,
+      "end": 34593,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 34610,
+      "end": 34622,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 34636,
+      "end": 34656,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 34713,
+      "end": 34719,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorenzino de Médicis",
+      "start": 34721,
+      "end": 34741,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 34796,
+      "end": 34809,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 34833,
+      "end": 34849,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 35097,
+      "end": 35106,
+      "label": "PER"
+    },
+    {
+      "text": "Doria",
+      "start": 35171,
+      "end": 35176,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 35195,
+      "end": 35204,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 35215,
+      "end": 35222,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 35240,
+      "end": 35249,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 35651,
+      "end": 35660,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre !",
+      "start": 35679,
+      "end": 35690,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 35694,
+      "end": 35707,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme",
+      "start": 35763,
+      "end": 35768,
+      "label": "MISC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 35790,
+      "end": 35799,
+      "label": "PER"
+    },
+    {
+      "text": "Cibo",
+      "start": 35836,
+      "end": 35840,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme",
+      "start": 35842,
+      "end": 35847,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibo",
+      "start": 35888,
+      "end": 35892,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme",
+      "start": 35930,
+      "end": 35935,
+      "label": "MISC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 36009,
+      "end": 36018,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 36068,
+      "end": 36081,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 36158,
+      "end": 36166,
+      "label": "PER"
+    },
+    {
+      "text": "Garcias",
+      "start": 36210,
+      "end": 36217,
+      "label": "PER"
+    },
+    {
+      "text": "Jean de Médicis",
+      "start": 36251,
+      "end": 36266,
+      "label": "PER"
+    },
+    {
+      "text": "Garcias",
+      "start": 36272,
+      "end": 36279,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme Ier",
+      "start": 36297,
+      "end": 36306,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 36319,
+      "end": 36327,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 36455,
+      "end": 36468,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe II",
+      "start": 36475,
+      "end": 36486,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 36549,
+      "end": 36569,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 36727,
+      "end": 36734,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 36792,
+      "end": 36800,
+      "label": "LOC"
+    },
+    {
+      "text": "Cosme Ier",
+      "start": 36838,
+      "end": 36847,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 36858,
+      "end": 36867,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 36930,
+      "end": 36937,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 36961,
+      "end": 36970,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 36995,
+      "end": 37008,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 37046,
+      "end": 37058,
+      "label": "PER"
+    },
+    {
+      "text": "duc della città di Penna",
+      "start": 37114,
+      "end": 37138,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 37149,
+      "end": 37157,
+      "label": "LOC"
+    },
+    {
+      "text": "Livourne",
+      "start": 37163,
+      "end": 37171,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurent II",
+      "start": 37209,
+      "end": 37219,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 37221,
+      "end": 37241,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 37269,
+      "end": 37277,
+      "label": "LOC"
+    },
+    {
+      "text": "Livourne",
+      "start": 37636,
+      "end": 37644,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 37666,
+      "end": 37679,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 37698,
+      "end": 37714,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 37771,
+      "end": 37787,
+      "label": "PER"
+    },
+    {
+      "text": "Clarisse de Médicis",
+      "start": 37801,
+      "end": 37820,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent de Médicis",
+      "start": 37842,
+      "end": 37860,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 37862,
+      "end": 37873,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 37883,
+      "end": 37892,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 37954,
+      "end": 37961,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 38038,
+      "end": 38045,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 38298,
+      "end": 38305,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 38354,
+      "end": 38362,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon X. Philippe Strozzi",
+      "start": 38432,
+      "end": 38456,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 38510,
+      "end": 38517,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 38629,
+      "end": 38640,
+      "label": "PER"
+    },
+    {
+      "text": "Colonne",
+      "start": 38665,
+      "end": 38672,
+      "label": "LOC"
+    },
+    {
+      "text": "château Saint Ange",
+      "start": 38701,
+      "end": 38719,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément",
+      "start": 38738,
+      "end": 38745,
+      "label": "PER"
+    },
+    {
+      "text": "Naples",
+      "start": 38770,
+      "end": 38776,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 38841,
+      "end": 38848,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 39096,
+      "end": 39107,
+      "label": "PER"
+    },
+    {
+      "text": "Strozzi",
+      "start": 39223,
+      "end": 39230,
+      "label": "PER"
+    },
+    {
+      "text": "Strozzi",
+      "start": 39256,
+      "end": 39263,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 39887,
+      "end": 39895,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 39919,
+      "end": 39926,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 39977,
+      "end": 39984,
+      "label": "PER"
+    },
+    {
+      "text": "conjuration des Pazzi",
+      "start": 40075,
+      "end": 40096,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 40208,
+      "end": 40212,
+      "label": "LOC"
+    },
+    {
+      "text": "Levant",
+      "start": 40217,
+      "end": 40223,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 40393,
+      "end": 40400,
+      "label": "PER"
+    },
+    {
+      "text": "Politique",
+      "start": 40703,
+      "end": 40712,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 40765,
+      "end": 40773,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 40775,
+      "end": 40791,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte de Médicis",
+      "start": 40854,
+      "end": 40874,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 40897,
+      "end": 40906,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 41033,
+      "end": 41044,
+      "label": "PER"
+    },
+    {
+      "text": "Lyon",
+      "start": 41110,
+      "end": 41114,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 41164,
+      "end": 41170,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 41174,
+      "end": 41178,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 41183,
+      "end": 41189,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 41196,
+      "end": 41203,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 41321,
+      "end": 41328,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 41733,
+      "end": 41741,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 41995,
+      "end": 42003,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 42024,
+      "end": 42032,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 42049,
+      "end": 42057,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 42091,
+      "end": 42100,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 42146,
+      "end": 42157,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 42287,
+      "end": 42294,
+      "label": "PER"
+    },
+    {
+      "text": "Strozzi",
+      "start": 42334,
+      "end": 42341,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 42384,
+      "end": 42393,
+      "label": "PER"
+    },
+    {
+      "text": "Clément",
+      "start": 42399,
+      "end": 42406,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 42509,
+      "end": 42517,
+      "label": "PER"
+    },
+    {
+      "text": "Sénèque",
+      "start": 42598,
+      "end": 42605,
+      "label": "PER"
+    },
+    {
+      "text": "Burrhus",
+      "start": 42609,
+      "end": 42616,
+      "label": "PER"
+    },
+    {
+      "text": "Néron",
+      "start": 42627,
+      "end": 42632,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 42779,
+      "end": 42786,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 42883,
+      "end": 42896,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 42926,
+      "end": 42935,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 42949,
+      "end": 42958,
+      "label": "LOC"
+    },
+    {
+      "text": "Livourne",
+      "start": 43009,
+      "end": 43017,
+      "label": "LOC"
+    },
+    {
+      "text": "forma t",
+      "start": 43068,
+      "end": 43075,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 43102,
+      "end": 43108,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 43185,
+      "end": 43194,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 43273,
+      "end": 43281,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 43359,
+      "end": 43366,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 43406,
+      "end": 43415,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 43448,
+      "end": 43457,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 43463,
+      "end": 43470,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 43564,
+      "end": 43572,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse d'Urbin",
+      "start": 43608,
+      "end": 43624,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 43669,
+      "end": 43682,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 43684,
+      "end": 43693,
+      "label": "PER"
+    },
+    {
+      "text": "Strozzi",
+      "start": 43697,
+      "end": 43704,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 43828,
+      "end": 43836,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 43987,
+      "end": 43996,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 44023,
+      "end": 44035,
+      "label": "PER"
+    },
+    {
+      "text": "Toscane",
+      "start": 44117,
+      "end": 44124,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 44156,
+      "end": 44164,
+      "label": "LOC"
+    },
+    {
+      "text": "Livourne",
+      "start": 44167,
+      "end": 44175,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 44222,
+      "end": 44231,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 44387,
+      "end": 44394,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 44399,
+      "end": 44412,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 44436,
+      "end": 44448,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 44493,
+      "end": 44506,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 44549,
+      "end": 44556,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 44560,
+      "end": 44566,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 44602,
+      "end": 44615,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 44646,
+      "end": 44652,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 44655,
+      "end": 44664,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 44688,
+      "end": 44697,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 44712,
+      "end": 44724,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre Stuart",
+      "start": 44733,
+      "end": 44749,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques III",
+      "start": 44760,
+      "end": 44771,
+      "label": "PER"
+    },
+    {
+      "text": "Écosse",
+      "start": 44779,
+      "end": 44785,
+      "label": "LOC"
+    },
+    {
+      "text": "Anne de la Tour de Boulogne",
+      "start": 44800,
+      "end": 44827,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine de la Tour de Boulogne",
+      "start": 44837,
+      "end": 44869,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 44879,
+      "end": 44888,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 44954,
+      "end": 44963,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 45031,
+      "end": 45048,
+      "label": "PER"
+    },
+    {
+      "text": "Jean de Poitiers",
+      "start": 45085,
+      "end": 45101,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 45111,
+      "end": 45116,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne de la Tour de Boulogne",
+      "start": 45134,
+      "end": 45163,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'Urbin",
+      "start": 45177,
+      "end": 45193,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 45195,
+      "end": 45204,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 45230,
+      "end": 45242,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 45260,
+      "end": 45269,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 45663,
+      "end": 45679,
+      "label": "PER"
+    },
+    {
+      "text": "Lyon",
+      "start": 45688,
+      "end": 45692,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergne",
+      "start": 45796,
+      "end": 45804,
+      "label": "LOC"
+    },
+    {
+      "text": "Lauraguais",
+      "start": 45811,
+      "end": 45821,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 45865,
+      "end": 45874,
+      "label": "PER"
+    },
+    {
+      "text": "pape Clément",
+      "start": 45885,
+      "end": 45897,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 46011,
+      "end": 46024,
+      "label": "PER"
+    },
+    {
+      "text": "Livourne",
+      "start": 46052,
+      "end": 46060,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 46062,
+      "end": 46071,
+      "label": "PER"
+    },
+    {
+      "text": "Clément",
+      "start": 46148,
+      "end": 46155,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 46170,
+      "end": 46180,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 46209,
+      "end": 46216,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 46247,
+      "end": 46256,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri de France",
+      "start": 46528,
+      "end": 46543,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 46596,
+      "end": 46603,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre des Chevaliers de Rhodes",
+      "start": 46712,
+      "end": 46742,
+      "label": "ORG"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 46810,
+      "end": 46822,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 46854,
+      "end": 46865,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 46924,
+      "end": 46937,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 46977,
+      "end": 46986,
+      "label": "PER"
+    },
+    {
+      "text": "Sébastien Montécuculli",
+      "start": 47095,
+      "end": 47117,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine de Lèves",
+      "start": 47215,
+      "end": 47231,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand de Gonzague",
+      "start": 47235,
+      "end": 47256,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 47291,
+      "end": 47296,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 47300,
+      "end": 47309,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Orléans Dauphin",
+      "start": 47342,
+      "end": 47363,
+      "label": "PER"
+    },
+    {
+      "text": "Sébastien Montécuculli",
+      "start": 47408,
+      "end": 47430,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 47469,
+      "end": 47482,
+      "label": "PER"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 47715,
+      "end": 47727,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 47729,
+      "end": 47738,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 47834,
+      "end": 47846,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 47894,
+      "end": 47907,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 47937,
+      "end": 47946,
+      "label": "PER"
+    },
+    {
+      "text": "Clément",
+      "start": 47997,
+      "end": 48004,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 48143,
+      "end": 48152,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 48264,
+      "end": 48273,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 48361,
+      "end": 48368,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 48635,
+      "end": 48647,
+      "label": "PER"
+    },
+    {
+      "text": "Henri de Valois",
+      "start": 48733,
+      "end": 48748,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 48755,
+      "end": 48764,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 48881,
+      "end": 48889,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 48896,
+      "end": 48905,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 48957,
+      "end": 48970,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 49012,
+      "end": 49024,
+      "label": "PER"
+    },
+    {
+      "text": "Brantôme",
+      "start": 49091,
+      "end": 49099,
+      "label": "PER"
+    },
+    {
+      "text": "Henri de Valois",
+      "start": 49188,
+      "end": 49203,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 49238,
+      "end": 49258,
+      "label": "PER"
+    },
+    {
+      "text": "Clément",
+      "start": 49441,
+      "end": 49448,
+      "label": "PER"
+    },
+    {
+      "text": "Marseille",
+      "start": 49551,
+      "end": 49560,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 49652,
+      "end": 49661,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 49823,
+      "end": 49832,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 50000,
+      "end": 50009,
+      "label": "PER"
+    },
+    {
+      "text": "Bayle",
+      "start": 50250,
+      "end": 50255,
+      "label": "PER"
+    },
+    {
+      "text": "Fernel",
+      "start": 50269,
+      "end": 50275,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 50445,
+      "end": 50453,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 50549,
+      "end": 50566,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 50724,
+      "end": 50732,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Victor",
+      "start": 50826,
+      "end": 50838,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 50973,
+      "end": 50982,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 51039,
+      "end": 51048,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 51053,
+      "end": 51061,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 51102,
+      "end": 51107,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Valentinois",
+      "start": 51189,
+      "end": 51212,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 51307,
+      "end": 51327,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 51389,
+      "end": 51397,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 51410,
+      "end": 51419,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 51477,
+      "end": 51486,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément VII",
+      "start": 51495,
+      "end": 51506,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 51540,
+      "end": 51553,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 51565,
+      "end": 51578,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 51613,
+      "end": 51616,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 51621,
+      "end": 51631,
+      "label": "PER"
+    },
+    {
+      "text": "Saincteté",
+      "start": 51737,
+      "end": 51746,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainteté",
+      "start": 51931,
+      "end": 51939,
+      "label": "PER"
+    },
+    {
+      "text": "luy",
+      "start": 52037,
+      "end": 52040,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la duchesse d'Urbin",
+      "start": 52460,
+      "end": 52486,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 52576,
+      "end": 52585,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 52592,
+      "end": 52598,
+      "label": "LOC"
+    },
+    {
+      "text": "Père Saint",
+      "start": 52628,
+      "end": 52638,
+      "label": "MISC"
+    },
+    {
+      "text": "Roy",
+      "start": 52805,
+      "end": 52808,
+      "label": "LOC"
+    },
+    {
+      "text": "Père Saint",
+      "start": 52945,
+      "end": 52955,
+      "label": "MISC"
+    },
+    {
+      "text": "Roy",
+      "start": 52963,
+      "end": 52966,
+      "label": "PER"
+    },
+    {
+      "text": "Roy",
+      "start": 52997,
+      "end": 53000,
+      "label": "PER"
+    },
+    {
+      "text": "monseigneur le duc de Vendosmois",
+      "start": 53098,
+      "end": 53130,
+      "label": "PER"
+    },
+    {
+      "text": "Chartres",
+      "start": 53150,
+      "end": 53158,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpensier",
+      "start": 53198,
+      "end": 53209,
+      "label": "LOC"
+    },
+    {
+      "text": "La Roche",
+      "start": 53216,
+      "end": 53224,
+      "label": "LOC"
+    },
+    {
+      "text": "Yon",
+      "start": 53229,
+      "end": 53232,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Nemours",
+      "start": 53237,
+      "end": 53251,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Savoye",
+      "start": 53262,
+      "end": 53275,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 53306,
+      "end": 53318,
+      "label": "PER"
+    },
+    {
+      "text": "Roy le seigneur de Montmorency",
+      "start": 53399,
+      "end": 53429,
+      "label": "MISC"
+    },
+    {
+      "text": "le Roy",
+      "start": 53456,
+      "end": 53462,
+      "label": "PER"
+    },
+    {
+      "text": "luy",
+      "start": 53617,
+      "end": 53620,
+      "label": "LOC"
+    },
+    {
+      "text": "Roy",
+      "start": 53636,
+      "end": 53639,
+      "label": "PER"
+    },
+    {
+      "text": "luy",
+      "start": 53650,
+      "end": 53653,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 53724,
+      "end": 53731,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Saincteté",
+      "start": 53822,
+      "end": 53834,
+      "label": "PER"
+    },
+    {
+      "text": "Roy",
+      "start": 53845,
+      "end": 53848,
+      "label": "PER"
+    },
+    {
+      "text": "Hérésies",
+      "start": 54028,
+      "end": 54036,
+      "label": "MISC"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 54155,
+      "end": 54168,
+      "label": "PER"
+    },
+    {
+      "text": "Roy",
+      "start": 54185,
+      "end": 54188,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 54195,
+      "end": 54215,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'Urbin",
+      "start": 54217,
+      "end": 54233,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Saincteté",
+      "start": 54244,
+      "end": 54256,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 54349,
+      "end": 54361,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Père",
+      "start": 54437,
+      "end": 54447,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 54520,
+      "end": 54526,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 54536,
+      "end": 54542,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Père",
+      "start": 54627,
+      "end": 54637,
+      "label": "MISC"
+    },
+    {
+      "text": "Roy",
+      "start": 54707,
+      "end": 54710,
+      "label": "PER"
+    },
+    {
+      "text": "Le Veneur",
+      "start": 54734,
+      "end": 54743,
+      "label": "PER"
+    },
+    {
+      "text": "Lisieux",
+      "start": 54763,
+      "end": 54770,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 54834,
+      "end": 54841,
+      "label": "ORG"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 54861,
+      "end": 54873,
+      "label": "PER"
+    },
+    {
+      "text": "cardinal de Châtillon",
+      "start": 54878,
+      "end": 54899,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Colligny",
+      "start": 54906,
+      "end": 54924,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 54944,
+      "end": 54955,
+      "label": "PER"
+    },
+    {
+      "text": "Givry",
+      "start": 54972,
+      "end": 54977,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 54987,
+      "end": 54994,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 55211,
+      "end": 55220,
+      "label": "PER"
+    },
+    {
+      "text": "Roy",
+      "start": 55292,
+      "end": 55295,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Sainteté",
+      "start": 55297,
+      "end": 55308,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 55329,
+      "end": 55338,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 55379,
+      "end": 55384,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 55386,
+      "end": 55391,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 55395,
+      "end": 55401,
+      "label": "LOC"
+    },
+    {
+      "text": "Sébastien Montécuculli",
+      "start": 55429,
+      "end": 55451,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 55484,
+      "end": 55493,
+      "label": "LOC"
+    },
+    {
+      "text": "Antoine de Lèves",
+      "start": 55539,
+      "end": 55555,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand de Gonzague",
+      "start": 55562,
+      "end": 55583,
+      "label": "PER"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 55619,
+      "end": 55631,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 55668,
+      "end": 55677,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 55710,
+      "end": 55718,
+      "label": "LOC"
+    },
+    {
+      "text": "Françaises",
+      "start": 55725,
+      "end": 55735,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 55836,
+      "end": 55845,
+      "label": "PER"
+    },
+    {
+      "text": "Française",
+      "start": 55862,
+      "end": 55871,
+      "label": "LOC"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 55912,
+      "end": 55924,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 55932,
+      "end": 55940,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 55995,
+      "end": 56008,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 56058,
+      "end": 56065,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse d'Orléans",
+      "start": 56089,
+      "end": 56110,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 56150,
+      "end": 56162,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 56196,
+      "end": 56213,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 56262,
+      "end": 56271,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 56327,
+      "end": 56334,
+      "label": "PER"
+    },
+    {
+      "text": "Éléonor",
+      "start": 56361,
+      "end": 56368,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 56378,
+      "end": 56391,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'Étampes",
+      "start": 56403,
+      "end": 56421,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 56539,
+      "end": 56548,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse d'Albany",
+      "start": 56562,
+      "end": 56579,
+      "label": "PER"
+    },
+    {
+      "text": "reine de Navarre",
+      "start": 56584,
+      "end": 56600,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Guise",
+      "start": 56605,
+      "end": 56622,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Vendôme",
+      "start": 56627,
+      "end": 56646,
+      "label": "PER"
+    },
+    {
+      "text": "Connétable",
+      "start": 56651,
+      "end": 56661,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 56867,
+      "end": 56876,
+      "label": "PER"
+    },
+    {
+      "text": "de Florence",
+      "start": 56900,
+      "end": 56911,
+      "label": "ORG"
+    },
+    {
+      "text": "Médicis",
+      "start": 57005,
+      "end": 57012,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Strozzi",
+      "start": 57090,
+      "end": 57106,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 57228,
+      "end": 57234,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément VII",
+      "start": 57250,
+      "end": 57261,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 57278,
+      "end": 57287,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 57538,
+      "end": 57550,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 57570,
+      "end": 57577,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 57632,
+      "end": 57641,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 57674,
+      "end": 57687,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 57711,
+      "end": 57719,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 57725,
+      "end": 57734,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 57759,
+      "end": 57772,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 57916,
+      "end": 57929,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 57973,
+      "end": 57981,
+      "label": "LOC"
+    },
+    {
+      "text": "Lyon",
+      "start": 58008,
+      "end": 58012,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhône",
+      "start": 58020,
+      "end": 58025,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournon",
+      "start": 58055,
+      "end": 58062,
+      "label": "LOC"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 58316,
+      "end": 58328,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 58355,
+      "end": 58362,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 58390,
+      "end": 58402,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 58424,
+      "end": 58431,
+      "label": "LOC"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 58562,
+      "end": 58574,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine de Lèves",
+      "start": 58791,
+      "end": 58807,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand de Gonzague",
+      "start": 58811,
+      "end": 58832,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 58868,
+      "end": 58880,
+      "label": "PER"
+    },
+    {
+      "text": "roy",
+      "start": 59016,
+      "end": 59019,
+      "label": "PER"
+    },
+    {
+      "text": "Lion",
+      "start": 59036,
+      "end": 59040,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 59248,
+      "end": 59258,
+      "label": "LOC"
+    },
+    {
+      "text": "Éscosse",
+      "start": 59260,
+      "end": 59267,
+      "label": "LOC"
+    },
+    {
+      "text": "Portugal",
+      "start": 59269,
+      "end": 59277,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 59279,
+      "end": 59285,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferrare",
+      "start": 59287,
+      "end": 59294,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Italie",
+      "start": 59368,
+      "end": 59376,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 59383,
+      "end": 59392,
+      "label": "LOC"
+    },
+    {
+      "text": "Wittemberg",
+      "start": 59453,
+      "end": 59463,
+      "label": "LOC"
+    },
+    {
+      "text": "Alleman",
+      "start": 59465,
+      "end": 59472,
+      "label": "LOC"
+    },
+    {
+      "text": "ducs de Somme",
+      "start": 59479,
+      "end": 59492,
+      "label": "LOC"
+    },
+    {
+      "text": "Arianne",
+      "start": 59496,
+      "end": 59503,
+      "label": "LOC"
+    },
+    {
+      "text": "Atrie",
+      "start": 59507,
+      "end": 59512,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de",
+      "start": 59515,
+      "end": 59524,
+      "label": "PER"
+    },
+    {
+      "text": "Melphe",
+      "start": 59525,
+      "end": 59531,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 59556,
+      "end": 59565,
+      "label": "PER"
+    },
+    {
+      "text": "Stilliane Napolitain",
+      "start": 59574,
+      "end": 59594,
+      "label": "PER"
+    },
+    {
+      "text": "dom Hippolyte d'Est",
+      "start": 59609,
+      "end": 59628,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Vigeve",
+      "start": 59634,
+      "end": 59651,
+      "label": "PER"
+    },
+    {
+      "text": "maison Trivulce",
+      "start": 59658,
+      "end": 59673,
+      "label": "LOC"
+    },
+    {
+      "text": "Milanois",
+      "start": 59675,
+      "end": 59683,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Paul de Cere",
+      "start": 59698,
+      "end": 59715,
+      "label": "PER"
+    },
+    {
+      "text": "Romain",
+      "start": 59717,
+      "end": 59723,
+      "label": "LOC"
+    },
+    {
+      "text": "César Frégose",
+      "start": 59738,
+      "end": 59751,
+      "label": "PER"
+    },
+    {
+      "text": "Génevoi",
+      "start": 59753,
+      "end": 59760,
+      "label": "PER"
+    },
+    {
+      "text": "Génois de Genova",
+      "start": 59763,
+      "end": 59779,
+      "label": "PER"
+    },
+    {
+      "text": "Annibal de Gonzague",
+      "start": 59794,
+      "end": 59813,
+      "label": "MISC"
+    },
+    {
+      "text": "Mantouan",
+      "start": 59815,
+      "end": 59823,
+      "label": "PER"
+    },
+    {
+      "text": "Montouan",
+      "start": 59825,
+      "end": 59833,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 60021,
+      "end": 60028,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Montécuculli",
+      "start": 60312,
+      "end": 60330,
+      "label": "PER"
+    },
+    {
+      "text": "Morey monarchiques",
+      "start": 60607,
+      "end": 60625,
+      "label": "MISC"
+    },
+    {
+      "text": "Berthereau de Genève",
+      "start": 60891,
+      "end": 60911,
+      "label": "ORG"
+    },
+    {
+      "text": "Sydney",
+      "start": 60917,
+      "end": 60923,
+      "label": "LOC"
+    },
+    {
+      "text": "Strafford",
+      "start": 60929,
+      "end": 60938,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 60941,
+      "end": 60951,
+      "label": "LOC"
+    },
+    {
+      "text": "Thomas Becket",
+      "start": 60970,
+      "end": 60983,
+      "label": "PER"
+    },
+    {
+      "text": "Montécuculli",
+      "start": 60994,
+      "end": 61006,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Cœur",
+      "start": 61012,
+      "end": 61024,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne d'Arc",
+      "start": 61032,
+      "end": 61044,
+      "label": "MISC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 61056,
+      "end": 61065,
+      "label": "PER"
+    },
+    {
+      "text": "Danton",
+      "start": 61073,
+      "end": 61079,
+      "label": "PER"
+    },
+    {
+      "text": "Bonchamps",
+      "start": 61085,
+      "end": 61094,
+      "label": "LOC"
+    },
+    {
+      "text": "Talmont",
+      "start": 61100,
+      "end": 61107,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément",
+      "start": 61121,
+      "end": 61128,
+      "label": "PER"
+    },
+    {
+      "text": "Chabot",
+      "start": 61134,
+      "end": 61140,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 61147,
+      "end": 61160,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 61253,
+      "end": 61265,
+      "label": "PER"
+    },
+    {
+      "text": "Lorenzino",
+      "start": 61280,
+      "end": 61289,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 61309,
+      "end": 61318,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 61335,
+      "end": 61348,
+      "label": "PER"
+    },
+    {
+      "text": "Brutus",
+      "start": 61445,
+      "end": 61451,
+      "label": "PER"
+    },
+    {
+      "text": "Léon X",
+      "start": 61541,
+      "end": 61547,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 61560,
+      "end": 61571,
+      "label": "PER"
+    },
+    {
+      "text": "Mariana",
+      "start": 61595,
+      "end": 61602,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe II",
+      "start": 61619,
+      "end": 61630,
+      "label": "PER"
+    },
+    {
+      "text": "reine d'Espagne",
+      "start": 61686,
+      "end": 61701,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 61712,
+      "end": 61718,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 61762,
+      "end": 61771,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 61773,
+      "end": 61777,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 61892,
+      "end": 61900,
+      "label": "PER"
+    },
+    {
+      "text": "La Châteigneraie",
+      "start": 61964,
+      "end": 61980,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 62177,
+      "end": 62186,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 62191,
+      "end": 62198,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 62277,
+      "end": 62283,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 62289,
+      "end": 62298,
+      "label": "PER"
+    },
+    {
+      "text": "Clément VII",
+      "start": 62308,
+      "end": 62319,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 62351,
+      "end": 62364,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 62444,
+      "end": 62457,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 62459,
+      "end": 62468,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 62576,
+      "end": 62589,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 62638,
+      "end": 62650,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 62705,
+      "end": 62714,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 62818,
+      "end": 62831,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 62879,
+      "end": 62887,
+      "label": "LOC"
+    },
+    {
+      "text": "Remarquez",
+      "start": 62953,
+      "end": 62962,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 63020,
+      "end": 63032,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 63191,
+      "end": 63197,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 63293,
+      "end": 63302,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 63343,
+      "end": 63350,
+      "label": "LOC"
+    },
+    {
+      "text": "Dauphin",
+      "start": 63440,
+      "end": 63447,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 63472,
+      "end": 63489,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 63491,
+      "end": 63496,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Étampes",
+      "start": 63513,
+      "end": 63529,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 63537,
+      "end": 63546,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 63683,
+      "end": 63692,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 63860,
+      "end": 63865,
+      "label": "PER"
+    },
+    {
+      "text": "Jugez",
+      "start": 63867,
+      "end": 63872,
+      "label": "PER"
+    },
+    {
+      "text": "Robert de La Mark",
+      "start": 64097,
+      "end": 64114,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bouillon",
+      "start": 64116,
+      "end": 64131,
+      "label": "PER"
+    },
+    {
+      "text": "Sedan",
+      "start": 64143,
+      "end": 64148,
+      "label": "LOC"
+    },
+    {
+      "text": "Claude de Lorraine",
+      "start": 64160,
+      "end": 64178,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Aumale",
+      "start": 64180,
+      "end": 64192,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 64194,
+      "end": 64203,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Étampes",
+      "start": 64234,
+      "end": 64250,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 64308,
+      "end": 64320,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 64333,
+      "end": 64338,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'Étampes",
+      "start": 64451,
+      "end": 64469,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 64483,
+      "end": 64500,
+      "label": "PER"
+    },
+    {
+      "text": "Catholiques",
+      "start": 64703,
+      "end": 64714,
+      "label": "MISC"
+    },
+    {
+      "text": "Calvinistes",
+      "start": 64722,
+      "end": 64733,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Étampes",
+      "start": 64782,
+      "end": 64798,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Poitiers",
+      "start": 64802,
+      "end": 64820,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 64881,
+      "end": 64893,
+      "label": "PER"
+    },
+    {
+      "text": "Calvin",
+      "start": 64904,
+      "end": 64910,
+      "label": "PER"
+    },
+    {
+      "text": "Luthériens",
+      "start": 64918,
+      "end": 64928,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 64946,
+      "end": 64959,
+      "label": "PER"
+    },
+    {
+      "text": "Réformation",
+      "start": 65015,
+      "end": 65026,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemagne",
+      "start": 65030,
+      "end": 65039,
+      "label": "LOC"
+    },
+    {
+      "text": "Calvin",
+      "start": 65073,
+      "end": 65079,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 65151,
+      "end": 65160,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 65242,
+      "end": 65247,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 65287,
+      "end": 65292,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse d'Étampes",
+      "start": 65318,
+      "end": 65336,
+      "label": "PER"
+    },
+    {
+      "text": "Calvin",
+      "start": 65347,
+      "end": 65353,
+      "label": "PER"
+    },
+    {
+      "text": "Protestants",
+      "start": 65361,
+      "end": 65372,
+      "label": "MISC"
+    },
+    {
+      "text": "roi de France",
+      "start": 65453,
+      "end": 65466,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 65497,
+      "end": 65504,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 65509,
+      "end": 65516,
+      "label": "LOC"
+    },
+    {
+      "text": "Royauté",
+      "start": 65639,
+      "end": 65646,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 65979,
+      "end": 65981,
+      "label": "MISC"
+    },
+    {
+      "text": "Florence",
+      "start": 66421,
+      "end": 66429,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 66434,
+      "end": 66441,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme Ier",
+      "start": 66443,
+      "end": 66452,
+      "label": "PER"
+    },
+    {
+      "text": "duc Alexandre",
+      "start": 66471,
+      "end": 66484,
+      "label": "PER"
+    },
+    {
+      "text": "Brutus",
+      "start": 66521,
+      "end": 66527,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 66540,
+      "end": 66546,
+      "label": "LOC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 66606,
+      "end": 66613,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 66657,
+      "end": 66666,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 66782,
+      "end": 66790,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66847,
+      "end": 66852,
+      "label": "LOC"
+    },
+    {
+      "text": "États Généraux",
+      "start": 66931,
+      "end": 66945,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 66959,
+      "end": 66967,
+      "label": "PER"
+    },
+    {
+      "text": "Monarchie",
+      "start": 67210,
+      "end": 67219,
+      "label": "MISC"
+    },
+    {
+      "text": "Monarchie",
+      "start": 67343,
+      "end": 67352,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 67373,
+      "end": 67381,
+      "label": "PER"
+    },
+    {
+      "text": "connétable de Montmorency",
+      "start": 67412,
+      "end": 67437,
+      "label": "PER"
+    },
+    {
+      "text": "connétable de Montmorency",
+      "start": 67502,
+      "end": 67527,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 67538,
+      "end": 67555,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 67606,
+      "end": 67610,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 67612,
+      "end": 67621,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphine",
+      "start": 67729,
+      "end": 67737,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 67931,
+      "end": 67943,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 67972,
+      "end": 67980,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 68195,
+      "end": 68204,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 68212,
+      "end": 68217,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 68394,
+      "end": 68402,
+      "label": "LOC"
+    },
+    {
+      "text": "de Montécuculli",
+      "start": 68478,
+      "end": 68493,
+      "label": "PER"
+    },
+    {
+      "text": "connétable de Montmorency",
+      "start": 68498,
+      "end": 68523,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 68525,
+      "end": 68530,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 68617,
+      "end": 68624,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 68632,
+      "end": 68644,
+      "label": "PER"
+    },
+    {
+      "text": "Gondi",
+      "start": 68678,
+      "end": 68683,
+      "label": "PER"
+    },
+    {
+      "text": "Birague",
+      "start": 68689,
+      "end": 68696,
+      "label": "MISC"
+    },
+    {
+      "text": "Strozzi",
+      "start": 68702,
+      "end": 68709,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruggieri",
+      "start": 68715,
+      "end": 68723,
+      "label": "LOC"
+    },
+    {
+      "text": "Sardini",
+      "start": 68729,
+      "end": 68736,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 68768,
+      "end": 68776,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 68798,
+      "end": 68807,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 69008,
+      "end": 69025,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 69046,
+      "end": 69055,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 69061,
+      "end": 69066,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 69206,
+      "end": 69214,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 69229,
+      "end": 69238,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 69398,
+      "end": 69407,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 69555,
+      "end": 69564,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 69597,
+      "end": 69605,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 69680,
+      "end": 69697,
+      "label": "PER"
+    },
+    {
+      "text": "Parlement",
+      "start": 69905,
+      "end": 69914,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour",
+      "start": 69929,
+      "end": 69933,
+      "label": "ORG"
+    },
+    {
+      "text": "Comptes",
+      "start": 69938,
+      "end": 69945,
+      "label": "ORG"
+    },
+    {
+      "text": "Catherine",
+      "start": 70004,
+      "end": 70013,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 70019,
+      "end": 70024,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Lazare",
+      "start": 70034,
+      "end": 70046,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 70087,
+      "end": 70096,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lazare",
+      "start": 70118,
+      "end": 70130,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 70176,
+      "end": 70182,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 70216,
+      "end": 70225,
+      "label": "PER"
+    },
+    {
+      "text": "Mark",
+      "start": 70465,
+      "end": 70469,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 70609,
+      "end": 70618,
+      "label": "LOC"
+    },
+    {
+      "text": "Estouteville",
+      "start": 70924,
+      "end": 70936,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpensier",
+      "start": 70938,
+      "end": 70949,
+      "label": "LOC"
+    },
+    {
+      "text": "Yon",
+      "start": 71001,
+      "end": 71004,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 71024,
+      "end": 71029,
+      "label": "LOC"
+    },
+    {
+      "text": "Nivernois",
+      "start": 71034,
+      "end": 71043,
+      "label": "LOC"
+    },
+    {
+      "text": "D'Aumale",
+      "start": 71045,
+      "end": 71053,
+      "label": "ORG"
+    },
+    {
+      "text": "Valentinois",
+      "start": 71058,
+      "end": 71069,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 71071,
+      "end": 71088,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 71091,
+      "end": 71103,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 71125,
+      "end": 71134,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 71162,
+      "end": 71167,
+      "label": "PER"
+    },
+    {
+      "text": "Castro Farnèse",
+      "start": 71189,
+      "end": 71203,
+      "label": "PER"
+    },
+    {
+      "text": "Montmorency Damville",
+      "start": 71222,
+      "end": 71242,
+      "label": "PER"
+    },
+    {
+      "text": "madame la connétable",
+      "start": 71245,
+      "end": 71265,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 71285,
+      "end": 71292,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 71427,
+      "end": 71436,
+      "label": "PER"
+    },
+    {
+      "text": "Lizet",
+      "start": 71541,
+      "end": 71546,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite de France",
+      "start": 71704,
+      "end": 71724,
+      "label": "PER"
+    },
+    {
+      "text": "Amboise",
+      "start": 71786,
+      "end": 71793,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtillon",
+      "start": 71798,
+      "end": 71807,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulogne",
+      "start": 71812,
+      "end": 71820,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 71827,
+      "end": 71837,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 71880,
+      "end": 71890,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Calandre",
+      "start": 71964,
+      "end": 71982,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 71986,
+      "end": 71992,
+      "label": "LOC"
+    },
+    {
+      "text": "Voy",
+      "start": 72282,
+      "end": 72285,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 72287,
+      "end": 72295,
+      "label": "PER"
+    },
+    {
+      "text": "Sauval d'ailleurs",
+      "start": 72409,
+      "end": 72426,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 72446,
+      "end": 72454,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 72550,
+      "end": 72559,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 72668,
+      "end": 72674,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 72841,
+      "end": 72849,
+      "label": "PER"
+    },
+    {
+      "text": "C",
+      "start": 72862,
+      "end": 72863,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 72875,
+      "end": 72884,
+      "label": "PER"
+    },
+    {
+      "text": "D",
+      "start": 72915,
+      "end": 72916,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 72922,
+      "end": 72927,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 72961,
+      "end": 72969,
+      "label": "PER"
+    },
+    {
+      "text": "colonne de la Halle",
+      "start": 73145,
+      "end": 73164,
+      "label": "LOC"
+    },
+    {
+      "text": "Blé",
+      "start": 73168,
+      "end": 73171,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 73183,
+      "end": 73192,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 73260,
+      "end": 73271,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 73291,
+      "end": 73300,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 73360,
+      "end": 73368,
+      "label": "PER"
+    },
+    {
+      "text": "expédition d'Allemagne",
+      "start": 73513,
+      "end": 73535,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 73537,
+      "end": 73545,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 73554,
+      "end": 73563,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 73664,
+      "end": 73673,
+      "label": "PER"
+    },
+    {
+      "text": "Discours merveilleux sur les déportements",
+      "start": 73687,
+      "end": 73728,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine II",
+      "start": 73732,
+      "end": 73744,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 73866,
+      "end": 73874,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Quentin",
+      "start": 73949,
+      "end": 73962,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 73964,
+      "end": 73973,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 73985,
+      "end": 73994,
+      "label": "LOC"
+    },
+    {
+      "text": "Compiègne",
+      "start": 74038,
+      "end": 74047,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 74085,
+      "end": 74094,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 74223,
+      "end": 74231,
+      "label": "PER"
+    },
+    {
+      "text": "Montmorency",
+      "start": 74309,
+      "end": 74320,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 74376,
+      "end": 74385,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 74625,
+      "end": 74633,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 74670,
+      "end": 74679,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 74681,
+      "end": 74689,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 74725,
+      "end": 74730,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 74923,
+      "end": 74932,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 74954,
+      "end": 74959,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 75008,
+      "end": 75013,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 75072,
+      "end": 75077,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 75129,
+      "end": 75134,
+      "label": "LOC"
+    },
+    {
+      "text": "Protestants",
+      "start": 75146,
+      "end": 75157,
+      "label": "MISC"
+    },
+    {
+      "text": "Diane",
+      "start": 75264,
+      "end": 75269,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 75335,
+      "end": 75340,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Aumale",
+      "start": 75364,
+      "end": 75376,
+      "label": "PER"
+    },
+    {
+      "text": "Lorraine",
+      "start": 75494,
+      "end": 75502,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 75572,
+      "end": 75580,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 75583,
+      "end": 75587,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles1",
+      "start": 75612,
+      "end": 75620,
+      "label": "MISC"
+    },
+    {
+      "text": "Diane",
+      "start": 75635,
+      "end": 75640,
+      "label": "PER"
+    },
+    {
+      "text": "Fondre",
+      "start": 75672,
+      "end": 75678,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 75717,
+      "end": 75721,
+      "label": "LOC"
+    },
+    {
+      "text": "cardinal de Lorraine",
+      "start": 75772,
+      "end": 75792,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 75894,
+      "end": 75903,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 75917,
+      "end": 75925,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 75996,
+      "end": 76013,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 76015,
+      "end": 76024,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 76204,
+      "end": 76212,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 76214,
+      "end": 76219,
+      "label": "PER"
+    },
+    {
+      "text": "M. de Brézé",
+      "start": 76267,
+      "end": 76278,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 76368,
+      "end": 76377,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 76435,
+      "end": 76443,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 76482,
+      "end": 76499,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Valentinois",
+      "start": 76600,
+      "end": 76623,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 76747,
+      "end": 76752,
+      "label": "PER"
+    },
+    {
+      "text": "château de Chenonceaux",
+      "start": 76791,
+      "end": 76813,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 76816,
+      "end": 76825,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 76827,
+      "end": 76836,
+      "label": "PER"
+    },
+    {
+      "text": "Henri",
+      "start": 76933,
+      "end": 76938,
+      "label": "PER"
+    },
+    {
+      "text": "Chaumont",
+      "start": 77029,
+      "end": 77037,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 77042,
+      "end": 77047,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 77088,
+      "end": 77093,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 77103,
+      "end": 77108,
+      "label": "PER"
+    },
+    {
+      "text": "Bouillon",
+      "start": 77157,
+      "end": 77165,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 77311,
+      "end": 77319,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 77714,
+      "end": 77726,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 77754,
+      "end": 77762,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 78018,
+      "end": 78027,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 78175,
+      "end": 78184,
+      "label": "PER"
+    },
+    {
+      "text": "madame Diane",
+      "start": 78244,
+      "end": 78256,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 78294,
+      "end": 78307,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 78465,
+      "end": 78474,
+      "label": "PER"
+    },
+    {
+      "text": "Fleming",
+      "start": 78651,
+      "end": 78658,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albany",
+      "start": 78684,
+      "end": 78696,
+      "label": "PER"
+    },
+    {
+      "text": "Clarisse Strozzi",
+      "start": 78795,
+      "end": 78811,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 78824,
+      "end": 78833,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Lewiston",
+      "start": 78905,
+      "end": 78926,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 78952,
+      "end": 78964,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 78966,
+      "end": 78978,
+      "label": "PER"
+    },
+    {
+      "text": "madame Élisabeth de France",
+      "start": 78990,
+      "end": 79016,
+      "label": "PER"
+    },
+    {
+      "text": "Claude",
+      "start": 79074,
+      "end": 79080,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 79082,
+      "end": 79091,
+      "label": "PER"
+    },
+    {
+      "text": "Claude",
+      "start": 79108,
+      "end": 79114,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 79125,
+      "end": 79137,
+      "label": "PER"
+    },
+    {
+      "text": "Clarisse Strozzi",
+      "start": 79194,
+      "end": 79210,
+      "label": "LOC"
+    },
+    {
+      "text": "Fleming",
+      "start": 79217,
+      "end": 79224,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 79273,
+      "end": 79279,
+      "label": "PER"
+    },
+    {
+      "text": "Fleming",
+      "start": 79312,
+      "end": 79319,
+      "label": "PER"
+    },
+    {
+      "text": "Henri de Valois",
+      "start": 79354,
+      "end": 79369,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Angoulême",
+      "start": 79371,
+      "end": 79388,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 79403,
+      "end": 79412,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 79447,
+      "end": 79452,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 79498,
+      "end": 79517,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 79523,
+      "end": 79531,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Valentinois",
+      "start": 79536,
+      "end": 79559,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 79623,
+      "end": 79632,
+      "label": "PER"
+    },
+    {
+      "text": "Arétin",
+      "start": 79878,
+      "end": 79884,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 79889,
+      "end": 79897,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 79942,
+      "end": 79955,
+      "label": "PER"
+    },
+    {
+      "text": "château de Chenonceaux",
+      "start": 80046,
+      "end": 80068,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 80081,
+      "end": 80086,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Étampes",
+      "start": 80287,
+      "end": 80303,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Voûté",
+      "start": 80375,
+      "end": 80385,
+      "label": "PER"
+    },
+    {
+      "text": "Salmon Macrin",
+      "start": 80589,
+      "end": 80602,
+      "label": "PER"
+    },
+    {
+      "text": "IN PICTAVIAM",
+      "start": 80712,
+      "end": 80724,
+      "label": "ORG"
+    },
+    {
+      "text": "ANUM",
+      "start": 80726,
+      "end": 80730,
+      "label": "ORG"
+    },
+    {
+      "text": "AULICAM",
+      "start": 80731,
+      "end": 80738,
+      "label": "LOC"
+    },
+    {
+      "text": "POITIERS",
+      "start": 80751,
+      "end": 80759,
+      "label": "ORG"
+    },
+    {
+      "text": "VIEILLE FEMME",
+      "start": 80761,
+      "end": 80774,
+      "label": "ORG"
+    },
+    {
+      "text": "COUR",
+      "start": 80778,
+      "end": 80782,
+      "label": "ORG"
+    },
+    {
+      "text": "Simon de Colines",
+      "start": 81176,
+      "end": 81192,
+      "label": "PER"
+    },
+    {
+      "text": "A UN ÉVÊQUE !",
+      "start": 81206,
+      "end": 81219,
+      "label": "MISC"
+    },
+    {
+      "text": "François Bohier",
+      "start": 81225,
+      "end": 81240,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 81345,
+      "end": 81353,
+      "label": "PER"
+    },
+    {
+      "text": "château de Chenonceaux",
+      "start": 81358,
+      "end": 81380,
+      "label": "LOC"
+    },
+    {
+      "text": "Thomas Bohier",
+      "start": 81400,
+      "end": 81413,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 81428,
+      "end": 81432,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 81452,
+      "end": 81460,
+      "label": "PER"
+    },
+    {
+      "text": "Charles VIII",
+      "start": 81462,
+      "end": 81474,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XII",
+      "start": 81476,
+      "end": 81485,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 81489,
+      "end": 81501,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 81543,
+      "end": 81562,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 81573,
+      "end": 81589,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 81635,
+      "end": 81642,
+      "label": "PER"
+    },
+    {
+      "text": "Voûté",
+      "start": 81648,
+      "end": 81653,
+      "label": "PER"
+    },
+    {
+      "text": "château de Chenonceaux",
+      "start": 81690,
+      "end": 81712,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 81728,
+      "end": 81733,
+      "label": "PER"
+    },
+    {
+      "text": "Évangile !",
+      "start": 81775,
+      "end": 81785,
+      "label": "MISC"
+    },
+    {
+      "text": "Presse",
+      "start": 81853,
+      "end": 81859,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 81923,
+      "end": 81932,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 82157,
+      "end": 82166,
+      "label": "PER"
+    },
+    {
+      "text": "cardinal de Lorraine",
+      "start": 82259,
+      "end": 82279,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Romaine",
+      "start": 82360,
+      "end": 82373,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri II",
+      "start": 82410,
+      "end": 82418,
+      "label": "PER"
+    },
+    {
+      "text": "Culture Sainte Catherine",
+      "start": 82438,
+      "end": 82462,
+      "label": "LOC"
+    },
+    {
+      "text": "Sa Sainteté",
+      "start": 82517,
+      "end": 82528,
+      "label": "PER"
+    },
+    {
+      "text": "Henri Estienne",
+      "start": 82549,
+      "end": 82563,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 82660,
+      "end": 82665,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 82668,
+      "end": 82681,
+      "label": "LOC"
+    },
+    {
+      "text": "François II",
+      "start": 82768,
+      "end": 82779,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 82799,
+      "end": 82808,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 82951,
+      "end": 82960,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 82966,
+      "end": 82971,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Guise",
+      "start": 83034,
+      "end": 83046,
+      "label": "PER"
+    },
+    {
+      "text": "Connétable",
+      "start": 83083,
+      "end": 83093,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 83152,
+      "end": 83161,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 83397,
+      "end": 83402,
+      "label": "LOC"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 83460,
+      "end": 83477,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 83488,
+      "end": 83497,
+      "label": "PER"
+    },
+    {
+      "text": "François de Vendôme",
+      "start": 83772,
+      "end": 83791,
+      "label": "PER"
+    },
+    {
+      "text": "Louis de Vendôme",
+      "start": 83801,
+      "end": 83817,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 83844,
+      "end": 83861,
+      "label": "MISC"
+    },
+    {
+      "text": "Vidame de Chartres",
+      "start": 83867,
+      "end": 83885,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 83954,
+      "end": 83963,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 83974,
+      "end": 83979,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 84128,
+      "end": 84137,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 84146,
+      "end": 84152,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 84210,
+      "end": 84215,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'",
+      "start": 84471,
+      "end": 84482,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 84493,
+      "end": 84499,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 84531,
+      "end": 84543,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 84592,
+      "end": 84598,
+      "label": "LOC"
+    },
+    {
+      "text": "Chartres",
+      "start": 84602,
+      "end": 84610,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de Condé",
+      "start": 84617,
+      "end": 84632,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 84652,
+      "end": 84664,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 84808,
+      "end": 84825,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 84903,
+      "end": 84906,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 84911,
+      "end": 84917,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbon",
+      "start": 84934,
+      "end": 84941,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanne",
+      "start": 84965,
+      "end": 84971,
+      "label": "PER"
+    },
+    {
+      "text": "baron d'Estissac",
+      "start": 84982,
+      "end": 84998,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 85085,
+      "end": 85091,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 85094,
+      "end": 85103,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Montmorency",
+      "start": 85211,
+      "end": 85229,
+      "label": "PER"
+    },
+    {
+      "text": "Toulouse",
+      "start": 85242,
+      "end": 85250,
+      "label": "LOC"
+    },
+    {
+      "text": "Vidame",
+      "start": 85255,
+      "end": 85261,
+      "label": "LOC"
+    },
+    {
+      "text": "Chartres",
+      "start": 85265,
+      "end": 85273,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 85326,
+      "end": 85334,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 85398,
+      "end": 85407,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 85450,
+      "end": 85457,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 85482,
+      "end": 85488,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 85552,
+      "end": 85558,
+      "label": "LOC"
+    },
+    {
+      "text": "Chartres",
+      "start": 85562,
+      "end": 85570,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 85747,
+      "end": 85764,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 85793,
+      "end": 85802,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 85852,
+      "end": 85858,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 86182,
+      "end": 86190,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 86223,
+      "end": 86231,
+      "label": "ORG"
+    },
+    {
+      "text": "Connétable",
+      "start": 86306,
+      "end": 86316,
+      "label": "PER"
+    },
+    {
+      "text": "Connétable",
+      "start": 86374,
+      "end": 86384,
+      "label": "LOC"
+    },
+    {
+      "text": "Vidame",
+      "start": 86409,
+      "end": 86415,
+      "label": "LOC"
+    },
+    {
+      "text": "Chartres",
+      "start": 86419,
+      "end": 86427,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 86471,
+      "end": 86480,
+      "label": "PER"
+    },
+    {
+      "text": "Mazarin",
+      "start": 86487,
+      "end": 86494,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 86672,
+      "end": 86677,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 86688,
+      "end": 86699,
+      "label": "PER"
+    },
+    {
+      "text": "Écosse",
+      "start": 86715,
+      "end": 86721,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouillon",
+      "start": 86742,
+      "end": 86750,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 87071,
+      "end": 87079,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarnac",
+      "start": 87112,
+      "end": 87118,
+      "label": "MISC"
+    },
+    {
+      "text": "Châtaigneraie",
+      "start": 87141,
+      "end": 87154,
+      "label": "MISC"
+    },
+    {
+      "text": "prince de Condé",
+      "start": 87241,
+      "end": 87256,
+      "label": "PER"
+    },
+    {
+      "text": "Saint André",
+      "start": 87320,
+      "end": 87331,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 87346,
+      "end": 87354,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 87415,
+      "end": 87421,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 87602,
+      "end": 87611,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Condé",
+      "start": 87693,
+      "end": 87708,
+      "label": "PER"
+    },
+    {
+      "text": "Guise",
+      "start": 87778,
+      "end": 87783,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 87818,
+      "end": 87823,
+      "label": "LOC"
+    },
+    {
+      "text": "Vidame",
+      "start": 87902,
+      "end": 87908,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 87927,
+      "end": 87936,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 87982,
+      "end": 87988,
+      "label": "LOC"
+    },
+    {
+      "text": "Amboise",
+      "start": 88100,
+      "end": 88107,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 88168,
+      "end": 88188,
+      "label": "PER"
+    },
+    {
+      "text": "Vidame",
+      "start": 88256,
+      "end": 88262,
+      "label": "LOC"
+    },
+    {
+      "text": "PREMIÈRE PARTIE",
+      "start": 88388,
+      "end": 88403,
+      "label": "MISC"
+    },
+    {
+      "text": "MARTYR CALVINISTE",
+      "start": 88407,
+      "end": 88424,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 88517,
+      "end": 88522,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 88915,
+      "end": 88920,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Vieille Pelleterie",
+      "start": 89183,
+      "end": 89211,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 89243,
+      "end": 89248,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 89264,
+      "end": 89274,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont",
+      "start": 89281,
+      "end": 89285,
+      "label": "LOC"
+    },
+    {
+      "text": "Change",
+      "start": 89289,
+      "end": 89295,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 89418,
+      "end": 89426,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 89620,
+      "end": 89626,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89790,
+      "end": 89795,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Pont",
+      "start": 89853,
+      "end": 89863,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 89896,
+      "end": 89906,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 90146,
+      "end": 90151,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 90278,
+      "end": 90286,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90301,
+      "end": 90306,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90373,
+      "end": 90378,
+      "label": "LOC"
+    },
+    {
+      "text": "moulins",
+      "start": 90507,
+      "end": 90514,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 90937,
+      "end": 90944,
+      "label": "LOC"
+    },
+    {
+      "text": "Confédérés",
+      "start": 91339,
+      "end": 91349,
+      "label": "LOC"
+    },
+    {
+      "text": "Corporation",
+      "start": 91369,
+      "end": 91380,
+      "label": "ORG"
+    },
+    {
+      "text": "Confrérie",
+      "start": 91436,
+      "end": 91445,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 91452,
+      "end": 91458,
+      "label": "MISC"
+    },
+    {
+      "text": "Confrérie",
+      "start": 91833,
+      "end": 91842,
+      "label": "LOC"
+    },
+    {
+      "text": "Oserez",
+      "start": 91844,
+      "end": 91850,
+      "label": "LOC"
+    },
+    {
+      "text": "Maîtrises",
+      "start": 92013,
+      "end": 92022,
+      "label": "ORG"
+    },
+    {
+      "text": "bric",
+      "start": 92068,
+      "end": 92072,
+      "label": "PER"
+    },
+    {
+      "text": "du Nord",
+      "start": 92247,
+      "end": 92254,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 92466,
+      "end": 92472,
+      "label": "LOC"
+    },
+    {
+      "text": "Cendrillon",
+      "start": 93034,
+      "end": 93044,
+      "label": "PER"
+    },
+    {
+      "text": "Cenerentola",
+      "start": 93318,
+      "end": 93329,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 94466,
+      "end": 94474,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 95023,
+      "end": 95031,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaises",
+      "start": 95037,
+      "end": 95046,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 95141,
+      "end": 95150,
+      "label": "LOC"
+    },
+    {
+      "text": "Pelletier",
+      "start": 95273,
+      "end": 95282,
+      "label": "PER"
+    },
+    {
+      "text": "Lepelletier",
+      "start": 95286,
+      "end": 95297,
+      "label": "PER"
+    },
+    {
+      "text": "Confrérie des drapiers",
+      "start": 95532,
+      "end": 95554,
+      "label": "ORG"
+    },
+    {
+      "text": "Confrérie des pelletiers et des merciers",
+      "start": 95588,
+      "end": 95628,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 95705,
+      "end": 95710,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecamus",
+      "start": 95747,
+      "end": 95754,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 95805,
+      "end": 95825,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 95829,
+      "end": 95841,
+      "label": "PER"
+    },
+    {
+      "text": "Lecamus",
+      "start": 95964,
+      "end": 95971,
+      "label": "PER"
+    },
+    {
+      "text": "Pont",
+      "start": 96055,
+      "end": 96059,
+      "label": "LOC"
+    },
+    {
+      "text": "Change",
+      "start": 96063,
+      "end": 96069,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 96120,
+      "end": 96137,
+      "label": "LOC"
+    },
+    {
+      "text": "Change",
+      "start": 96215,
+      "end": 96221,
+      "label": "LOC"
+    },
+    {
+      "text": "Fleurs",
+      "start": 96263,
+      "end": 96269,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Pont",
+      "start": 96474,
+      "end": 96485,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Vieille Pelleterie",
+      "start": 96506,
+      "end": 96534,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 96848,
+      "end": 96854,
+      "label": "LOC"
+    },
+    {
+      "text": "Halles",
+      "start": 96953,
+      "end": 96959,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucherie",
+      "start": 96979,
+      "end": 96988,
+      "label": "LOC"
+    },
+    {
+      "text": "Halles",
+      "start": 97278,
+      "end": 97284,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 97395,
+      "end": 97400,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 97456,
+      "end": 97461,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 97505,
+      "end": 97510,
+      "label": "LOC"
+    },
+    {
+      "text": "Hongrie",
+      "start": 98064,
+      "end": 98071,
+      "label": "LOC"
+    },
+    {
+      "text": "Aubriot",
+      "start": 99125,
+      "end": 99132,
+      "label": "PER"
+    },
+    {
+      "text": "Charles V",
+      "start": 99199,
+      "end": 99208,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 99232,
+      "end": 99237,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecamus",
+      "start": 99274,
+      "end": 99281,
+      "label": "PER"
+    },
+    {
+      "text": "Prévôts des Marchands",
+      "start": 99431,
+      "end": 99452,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 99604,
+      "end": 99618,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 99627,
+      "end": 99633,
+      "label": "LOC"
+    },
+    {
+      "text": "Ambigu",
+      "start": 99988,
+      "end": 99994,
+      "label": "LOC"
+    }
+  ]
+}

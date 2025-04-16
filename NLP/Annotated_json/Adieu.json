@@ -1,0 +1,2806 @@
+{
+  "entities": [
+    {
+      "text": "ADIEU",
+      "start": 0,
+      "end": 5,
+      "label": "ORG"
+    },
+    {
+      "text": "PRINCE FRÉDÉRIC",
+      "start": 16,
+      "end": 31,
+      "label": "ORG"
+    },
+    {
+      "text": "Saute",
+      "start": 200,
+      "end": 205,
+      "label": "PER"
+    },
+    {
+      "text": "Île Adam",
+      "start": 387,
+      "end": 395,
+      "label": "LOC"
+    },
+    {
+      "text": "la Havane",
+      "start": 435,
+      "end": 444,
+      "label": "LOC"
+    },
+    {
+      "text": "Ardente",
+      "start": 1909,
+      "end": 1916,
+      "label": "ORG"
+    },
+    {
+      "text": "Les oiseaux",
+      "start": 1963,
+      "end": 1974,
+      "label": "MISC"
+    },
+    {
+      "text": "soleil",
+      "start": 2303,
+      "end": 2309,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Hubert",
+      "start": 2787,
+      "end": 2799,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 2910,
+      "end": 2915,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 2956,
+      "end": 2964,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 3052,
+      "end": 3059,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 3200,
+      "end": 3208,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 3330,
+      "end": 3335,
+      "label": "PER"
+    },
+    {
+      "text": "cria t",
+      "start": 3367,
+      "end": 3373,
+      "label": "PER"
+    },
+    {
+      "text": "Chemin de Baillet",
+      "start": 3445,
+      "end": 3462,
+      "label": "LOC"
+    },
+    {
+      "text": "Île Adam !",
+      "start": 3467,
+      "end": 3477,
+      "label": "LOC"
+    },
+    {
+      "text": "Cassan",
+      "start": 3541,
+      "end": 3547,
+      "label": "LOC"
+    },
+    {
+      "text": "Île Adam",
+      "start": 3586,
+      "end": 3594,
+      "label": "LOC"
+    },
+    {
+      "text": "Albon",
+      "start": 3639,
+      "end": 3644,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 3787,
+      "end": 3795,
+      "label": "PER"
+    },
+    {
+      "text": "Savez",
+      "start": 3899,
+      "end": 3904,
+      "label": "LOC"
+    },
+    {
+      "text": "Baillet",
+      "start": 4063,
+      "end": 4070,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 4080,
+      "end": 4084,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Albon",
+      "start": 4098,
+      "end": 4113,
+      "label": "PER"
+    },
+    {
+      "text": "Cassan",
+      "start": 4123,
+      "end": 4129,
+      "label": "LOC"
+    },
+    {
+      "text": "Sucy",
+      "start": 4302,
+      "end": 4306,
+      "label": "PER"
+    },
+    {
+      "text": "Cassan",
+      "start": 4386,
+      "end": 4392,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 4433,
+      "end": 4438,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 4599,
+      "end": 4603,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour",
+      "start": 4639,
+      "end": 4643,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 4861,
+      "end": 4867,
+      "label": "LOC"
+    },
+    {
+      "text": "Sucy",
+      "start": 4920,
+      "end": 4924,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 4944,
+      "end": 4949,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 5001,
+      "end": 5008,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 5100,
+      "end": 5104,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 5115,
+      "end": 5121,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 5205,
+      "end": 5213,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'honneur",
+      "start": 5634,
+      "end": 5650,
+      "label": "ORG"
+    },
+    {
+      "text": "Allons",
+      "start": 6244,
+      "end": 6250,
+      "label": "MISC"
+    },
+    {
+      "text": "Sucy",
+      "start": 6272,
+      "end": 6276,
+      "label": "PER"
+    },
+    {
+      "text": "Cassan",
+      "start": 6336,
+      "end": 6342,
+      "label": "LOC"
+    },
+    {
+      "text": "Code pénal !",
+      "start": 6509,
+      "end": 6521,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe de Sucy",
+      "start": 6522,
+      "end": 6538,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7061,
+      "end": 7069,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 7072,
+      "end": 7077,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 7435,
+      "end": 7443,
+      "label": "PER"
+    },
+    {
+      "text": "Terre",
+      "start": 8276,
+      "end": 8281,
+      "label": "LOC"
+    },
+    {
+      "text": "J'",
+      "start": 8438,
+      "end": 8440,
+      "label": "LOC"
+    },
+    {
+      "text": "Cassan",
+      "start": 8533,
+      "end": 8539,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 8577,
+      "end": 8585,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 8791,
+      "end": 8795,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Albon",
+      "start": 8867,
+      "end": 8882,
+      "label": "PER"
+    },
+    {
+      "text": "Nerville",
+      "start": 9368,
+      "end": 9376,
+      "label": "LOC"
+    },
+    {
+      "text": "logis",
+      "start": 9529,
+      "end": 9534,
+      "label": "PER"
+    },
+    {
+      "text": "Thébaïde",
+      "start": 10078,
+      "end": 10086,
+      "label": "LOC"
+    },
+    {
+      "text": "soleil",
+      "start": 10353,
+      "end": 10359,
+      "label": "LOC"
+    },
+    {
+      "text": "Albon",
+      "start": 10397,
+      "end": 10402,
+      "label": "PER"
+    },
+    {
+      "text": "gui",
+      "start": 11101,
+      "end": 11104,
+      "label": "MISC"
+    },
+    {
+      "text": "palais de la Belle au Bois Dormant",
+      "start": 12102,
+      "end": 12136,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 12550,
+      "end": 12554,
+      "label": "MISC"
+    },
+    {
+      "text": "Albon",
+      "start": 12563,
+      "end": 12568,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 12819,
+      "end": 12827,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 12923,
+      "end": 12927,
+      "label": "LOC"
+    },
+    {
+      "text": "Albon",
+      "start": 12966,
+      "end": 12971,
+      "label": "PER"
+    },
+    {
+      "text": "veines",
+      "start": 13417,
+      "end": 13423,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 13452,
+      "end": 13460,
+      "label": "PER"
+    },
+    {
+      "text": "Cassan",
+      "start": 13549,
+      "end": 13555,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 13936,
+      "end": 13944,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 14373,
+      "end": 14378,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 14406,
+      "end": 14414,
+      "label": "PER"
+    },
+    {
+      "text": "Chauvry",
+      "start": 14556,
+      "end": 14563,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14612,
+      "end": 14617,
+      "label": "LOC"
+    },
+    {
+      "text": "logis",
+      "start": 14837,
+      "end": 14842,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 15588,
+      "end": 15592,
+      "label": "MISC"
+    },
+    {
+      "text": "Albon",
+      "start": 15705,
+      "end": 15710,
+      "label": "PER"
+    },
+    {
+      "text": "Peaux Rouges",
+      "start": 16442,
+      "end": 16454,
+      "label": "ORG"
+    },
+    {
+      "text": "Cooper",
+      "start": 16469,
+      "end": 16475,
+      "label": "LOC"
+    },
+    {
+      "text": "Ohé",
+      "start": 16867,
+      "end": 16870,
+      "label": "MISC"
+    },
+    {
+      "text": "Sucy",
+      "start": 16901,
+      "end": 16905,
+      "label": "PER"
+    },
+    {
+      "text": "Bons Hommes !",
+      "start": 17437,
+      "end": 17450,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 17474,
+      "end": 17478,
+      "label": "MISC"
+    },
+    {
+      "text": "Bons Hommes",
+      "start": 17539,
+      "end": 17550,
+      "label": "MISC"
+    },
+    {
+      "text": "Albon",
+      "start": 17567,
+      "end": 17572,
+      "label": "PER"
+    },
+    {
+      "text": "tortilla",
+      "start": 17679,
+      "end": 17687,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 17889,
+      "end": 17897,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 17962,
+      "end": 17971,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Albon",
+      "start": 18184,
+      "end": 18191,
+      "label": "PER"
+    },
+    {
+      "text": "Ossian",
+      "start": 20527,
+      "end": 20533,
+      "label": "LOC"
+    },
+    {
+      "text": "Geneviève",
+      "start": 21175,
+      "end": 21184,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 21338,
+      "end": 21343,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 21678,
+      "end": 21686,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 21689,
+      "end": 21694,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 22083,
+      "end": 22091,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 22094,
+      "end": 22099,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 22437,
+      "end": 22445,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 22448,
+      "end": 22453,
+      "label": "PER"
+    },
+    {
+      "text": "Île Adam",
+      "start": 22508,
+      "end": 22516,
+      "label": "LOC"
+    },
+    {
+      "text": "Bons Hommes",
+      "start": 22623,
+      "end": 22634,
+      "label": "MISC"
+    },
+    {
+      "text": "Albon",
+      "start": 22650,
+      "end": 22655,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandville",
+      "start": 22679,
+      "end": 22699,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Grandville",
+      "start": 22789,
+      "end": 22809,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 22884,
+      "end": 22888,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 23205,
+      "end": 23213,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandville",
+      "start": 23217,
+      "end": 23237,
+      "label": "PER"
+    },
+    {
+      "text": "Moulins",
+      "start": 23483,
+      "end": 23490,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandville",
+      "start": 23513,
+      "end": 23523,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 23693,
+      "end": 23701,
+      "label": "PER"
+    },
+    {
+      "text": "Albon remercia monsieur",
+      "start": 23704,
+      "end": 23727,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandville",
+      "start": 23731,
+      "end": 23751,
+      "label": "PER"
+    },
+    {
+      "text": "Cassan",
+      "start": 23767,
+      "end": 23773,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 23797,
+      "end": 23805,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 23854,
+      "end": 23859,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 23863,
+      "end": 23872,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 24281,
+      "end": 24289,
+      "label": "PER"
+    },
+    {
+      "text": "Île Adam",
+      "start": 24359,
+      "end": 24367,
+      "label": "LOC"
+    },
+    {
+      "text": "Albon",
+      "start": 24371,
+      "end": 24376,
+      "label": "PER"
+    },
+    {
+      "text": "jeun",
+      "start": 24563,
+      "end": 24567,
+      "label": "LOC"
+    },
+    {
+      "text": "Sucy",
+      "start": 24781,
+      "end": 24785,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 24918,
+      "end": 24923,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 24976,
+      "end": 24980,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher d'Albon",
+      "start": 25229,
+      "end": 25245,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 25251,
+      "end": 25259,
+      "label": "PER"
+    },
+    {
+      "text": "Cours",
+      "start": 25314,
+      "end": 25319,
+      "label": "PER"
+    },
+    {
+      "text": "Bons Hommes !",
+      "start": 25336,
+      "end": 25349,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25471,
+      "end": 25479,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 25482,
+      "end": 25487,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25739,
+      "end": 25747,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 25750,
+      "end": 25755,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 25795,
+      "end": 25799,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 25931,
+      "end": 25935,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 26000,
+      "end": 26018,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 26050,
+      "end": 26054,
+      "label": "MISC"
+    },
+    {
+      "text": "Sucy",
+      "start": 26161,
+      "end": 26165,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe de Sucy",
+      "start": 26188,
+      "end": 26204,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 26264,
+      "end": 26270,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 26289,
+      "end": 26297,
+      "label": "LOC"
+    },
+    {
+      "text": "Albon",
+      "start": 26316,
+      "end": 26321,
+      "label": "PER"
+    },
+    {
+      "text": "Cosaques",
+      "start": 26345,
+      "end": 26353,
+      "label": "MISC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 26365,
+      "end": 26372,
+      "label": "LOC"
+    },
+    {
+      "text": "Entrez",
+      "start": 26421,
+      "end": 26427,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 26850,
+      "end": 26855,
+      "label": "PER"
+    },
+    {
+      "text": "Studzianka",
+      "start": 27451,
+      "end": 27461,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 27543,
+      "end": 27549,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 27662,
+      "end": 27670,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 27994,
+      "end": 28002,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 28652,
+      "end": 28660,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 29329,
+      "end": 29339,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 29581,
+      "end": 29587,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 29849,
+      "end": 29855,
+      "label": "MISC"
+    },
+    {
+      "text": "Russes",
+      "start": 31215,
+      "end": 31221,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 31517,
+      "end": 31523,
+      "label": "LOC"
+    },
+    {
+      "text": "Wittgenstein",
+      "start": 31538,
+      "end": 31550,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 31660,
+      "end": 31668,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 31856,
+      "end": 31865,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Bellune",
+      "start": 31902,
+      "end": 31916,
+      "label": "PER"
+    },
+    {
+      "text": "Zembin",
+      "start": 32002,
+      "end": 32008,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 32050,
+      "end": 32060,
+      "label": "PER"
+    },
+    {
+      "text": "Éblé",
+      "start": 32063,
+      "end": 32067,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 32129,
+      "end": 32137,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 32360,
+      "end": 32368,
+      "label": "LOC"
+    },
+    {
+      "text": "Borizof",
+      "start": 32385,
+      "end": 32392,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 32395,
+      "end": 32405,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 32420,
+      "end": 32426,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 32710,
+      "end": 32718,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 32739,
+      "end": 32745,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 32874,
+      "end": 32880,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 32899,
+      "end": 32909,
+      "label": "PER"
+    },
+    {
+      "text": "général Fournier",
+      "start": 33041,
+      "end": 33057,
+      "label": "PER"
+    },
+    {
+      "text": "Contrains",
+      "start": 33365,
+      "end": 33374,
+      "label": "LOC"
+    },
+    {
+      "text": "Berthier",
+      "start": 33488,
+      "end": 33496,
+      "label": "PER"
+    },
+    {
+      "text": "la Pologne",
+      "start": 33744,
+      "end": 33754,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 33880,
+      "end": 33888,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 34099,
+      "end": 34109,
+      "label": "PER"
+    },
+    {
+      "text": "Éblé",
+      "start": 34126,
+      "end": 34130,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 34324,
+      "end": 34332,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 34447,
+      "end": 34457,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 34722,
+      "end": 34730,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 34864,
+      "end": 34868,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 34998,
+      "end": 35003,
+      "label": "PER"
+    },
+    {
+      "text": "Éblé",
+      "start": 35266,
+      "end": 35270,
+      "label": "MISC"
+    },
+    {
+      "text": "Zembin",
+      "start": 35285,
+      "end": 35291,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 35501,
+      "end": 35505,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre Philippe !",
+      "start": 35829,
+      "end": 35846,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 36052,
+      "end": 36057,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 36121,
+      "end": 36126,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 36278,
+      "end": 36286,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 36461,
+      "end": 36465,
+      "label": "PER"
+    },
+    {
+      "text": "Bichette !",
+      "start": 36780,
+      "end": 36790,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 36847,
+      "end": 36856,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 36933,
+      "end": 36941,
+      "label": "PER"
+    },
+    {
+      "text": "Studzianka",
+      "start": 38011,
+      "end": 38021,
+      "label": "PER"
+    },
+    {
+      "text": "Un cheval !",
+      "start": 38712,
+      "end": 38723,
+      "label": "MISC"
+    },
+    {
+      "text": "Retirez",
+      "start": 38779,
+      "end": 38786,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 38865,
+      "end": 38873,
+      "label": "PER"
+    },
+    {
+      "text": "Gredins !",
+      "start": 38912,
+      "end": 38921,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 39000,
+      "end": 39005,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 39205,
+      "end": 39213,
+      "label": "PER"
+    },
+    {
+      "text": "Bichette",
+      "start": 39253,
+      "end": 39261,
+      "label": "PER"
+    },
+    {
+      "text": "Cannibales !",
+      "start": 39380,
+      "end": 39392,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 39449,
+      "end": 39457,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 39683,
+      "end": 39691,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40053,
+      "end": 40058,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 40361,
+      "end": 40369,
+      "label": "PER"
+    },
+    {
+      "text": "Accablé",
+      "start": 40486,
+      "end": 40493,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Vandières",
+      "start": 40886,
+      "end": 40904,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 41146,
+      "end": 41154,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 41227,
+      "end": 41231,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 42115,
+      "end": 42123,
+      "label": "PER"
+    },
+    {
+      "text": "Bichette",
+      "start": 43420,
+      "end": 43428,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 44162,
+      "end": 44167,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 45885,
+      "end": 45893,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 46047,
+      "end": 46051,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 46737,
+      "end": 46745,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 46784,
+      "end": 46788,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 46846,
+      "end": 46850,
+      "label": "MISC"
+    },
+    {
+      "text": "Prenez",
+      "start": 46993,
+      "end": 46999,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 47010,
+      "end": 47018,
+      "label": "PER"
+    },
+    {
+      "text": "Menacer",
+      "start": 47039,
+      "end": 47046,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 47181,
+      "end": 47187,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe !",
+      "start": 47345,
+      "end": 47355,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 47378,
+      "end": 47384,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 47445,
+      "end": 47453,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 47491,
+      "end": 47499,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 47672,
+      "end": 47681,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 47872,
+      "end": 47881,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 48049,
+      "end": 48058,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 48094,
+      "end": 48102,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes fou !   ",
+      "start": 48618,
+      "end": 48636,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 48657,
+      "end": 48665,
+      "label": "PER"
+    },
+    {
+      "text": "Songe",
+      "start": 48854,
+      "end": 48859,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 49349,
+      "end": 49351,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 49461,
+      "end": 49470,
+      "label": "LOC"
+    },
+    {
+      "text": "J'",
+      "start": 49475,
+      "end": 49477,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 49702,
+      "end": 49710,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 49887,
+      "end": 49893,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 50147,
+      "end": 50156,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 50173,
+      "end": 50182,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 50329,
+      "end": 50335,
+      "label": "MISC"
+    },
+    {
+      "text": "Hippolyte ?",
+      "start": 50490,
+      "end": 50501,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 51152,
+      "end": 51160,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 51372,
+      "end": 51376,
+      "label": "MISC"
+    },
+    {
+      "text": "hein",
+      "start": 51588,
+      "end": 51592,
+      "label": "LOC"
+    },
+    {
+      "text": "Attelons",
+      "start": 51629,
+      "end": 51637,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 51651,
+      "end": 51657,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 51697,
+      "end": 51701,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 51807,
+      "end": 51812,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 52064,
+      "end": 52072,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 52101,
+      "end": 52105,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 52200,
+      "end": 52209,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 52211,
+      "end": 52220,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 52257,
+      "end": 52263,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvés",
+      "start": 52288,
+      "end": 52294,
+      "label": "LOC"
+    },
+    {
+      "text": "Sucy",
+      "start": 53006,
+      "end": 53010,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 53286,
+      "end": 53292,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche !",
+      "start": 53404,
+      "end": 53412,
+      "label": "MISC"
+    },
+    {
+      "text": "Gare",
+      "start": 53738,
+      "end": 53742,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 53799,
+      "end": 53804,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre Laurent",
+      "start": 54194,
+      "end": 54208,
+      "label": "PER"
+    },
+    {
+      "text": "Laurent",
+      "start": 54226,
+      "end": 54233,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 54269,
+      "end": 54272,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 54294,
+      "end": 54297,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 54659,
+      "end": 54667,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 54797,
+      "end": 54805,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 54838,
+      "end": 54847,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilna",
+      "start": 54958,
+      "end": 54963,
+      "label": "ORG"
+    },
+    {
+      "text": "Russes",
+      "start": 55121,
+      "end": 55127,
+      "label": "MISC"
+    },
+    {
+      "text": "Maîtres de Studzianka",
+      "start": 55145,
+      "end": 55166,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 55491,
+      "end": 55497,
+      "label": "LOC"
+    },
+    {
+      "text": "berge",
+      "start": 55971,
+      "end": 55976,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 56154,
+      "end": 56162,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Vandières",
+      "start": 56426,
+      "end": 56447,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 56877,
+      "end": 56885,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 57079,
+      "end": 57088,
+      "label": "LOC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 57124,
+      "end": 57131,
+      "label": "LOC"
+    },
+    {
+      "text": "sauta de glaçon",
+      "start": 57202,
+      "end": 57217,
+      "label": "PER"
+    },
+    {
+      "text": "glaçon",
+      "start": 57221,
+      "end": 57227,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 57376,
+      "end": 57382,
+      "label": "LOC"
+    },
+    {
+      "text": "Construisons",
+      "start": 58058,
+      "end": 58070,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 58718,
+      "end": 58726,
+      "label": "MISC"
+    },
+    {
+      "text": "Russes",
+      "start": 58740,
+      "end": 58746,
+      "label": "MISC"
+    },
+    {
+      "text": "Russes",
+      "start": 58759,
+      "end": 58765,
+      "label": "MISC"
+    },
+    {
+      "text": "arche de Noé",
+      "start": 59057,
+      "end": 59069,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 59536,
+      "end": 59544,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 59670,
+      "end": 59679,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauvages !",
+      "start": 59847,
+      "end": 59857,
+      "label": "MISC"
+    },
+    {
+      "text": "Tonnerre de Dieu",
+      "start": 60234,
+      "end": 60250,
+      "label": "PER"
+    },
+    {
+      "text": "Mourir",
+      "start": 60637,
+      "end": 60643,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah ! ah !",
+      "start": 61108,
+      "end": 61117,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 61149,
+      "end": 61154,
+      "label": "LOC"
+    },
+    {
+      "text": "Dépêchez",
+      "start": 61288,
+      "end": 61296,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 61343,
+      "end": 61349,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Vandières",
+      "start": 61406,
+      "end": 61424,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 61531,
+      "end": 61539,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 61541,
+      "end": 61550,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Vandières",
+      "start": 61680,
+      "end": 61698,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 61778,
+      "end": 61787,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 61836,
+      "end": 61844,
+      "label": "PER"
+    },
+    {
+      "text": "Major",
+      "start": 61848,
+      "end": 61853,
+      "label": "LOC"
+    },
+    {
+      "text": "Soyez",
+      "start": 62032,
+      "end": 62037,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 62158,
+      "end": 62166,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 62380,
+      "end": 62384,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe de Sucy",
+      "start": 62440,
+      "end": 62456,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 62687,
+      "end": 62692,
+      "label": "PER"
+    },
+    {
+      "text": "Fleuriot",
+      "start": 62855,
+      "end": 62863,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 63240,
+      "end": 63249,
+      "label": "LOC"
+    },
+    {
+      "text": "Fleuriot",
+      "start": 63378,
+      "end": 63386,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 63419,
+      "end": 63429,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 63701,
+      "end": 63711,
+      "label": "LOC"
+    },
+    {
+      "text": "Fleuriot",
+      "start": 63898,
+      "end": 63906,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergne",
+      "start": 64010,
+      "end": 64018,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vandières",
+      "start": 64083,
+      "end": 64102,
+      "label": "PER"
+    },
+    {
+      "text": "Fleuriot",
+      "start": 64236,
+      "end": 64244,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 64509,
+      "end": 64518,
+      "label": "MISC"
+    },
+    {
+      "text": "Geneviève",
+      "start": 64807,
+      "end": 64816,
+      "label": "PER"
+    },
+    {
+      "text": "Dallot",
+      "start": 64935,
+      "end": 64941,
+      "label": "PER"
+    },
+    {
+      "text": "Dallot",
+      "start": 65044,
+      "end": 65050,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 65167,
+      "end": 65176,
+      "label": "LOC"
+    },
+    {
+      "text": "Dallot",
+      "start": 65178,
+      "end": 65184,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 65199,
+      "end": 65208,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 65509,
+      "end": 65514,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 65539,
+      "end": 65548,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Albon",
+      "start": 65566,
+      "end": 65581,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 65679,
+      "end": 65688,
+      "label": "LOC"
+    },
+    {
+      "text": "chevelure noire de Stéphanie",
+      "start": 65782,
+      "end": 65810,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 65924,
+      "end": 65932,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 65935,
+      "end": 65940,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 66071,
+      "end": 66079,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe !",
+      "start": 66082,
+      "end": 66092,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 66174,
+      "end": 66183,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 66230,
+      "end": 66235,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 66262,
+      "end": 66267,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 66383,
+      "end": 66387,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Albon",
+      "start": 66429,
+      "end": 66444,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Vandières",
+      "start": 66602,
+      "end": 66623,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 66710,
+      "end": 66712,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 66721,
+      "end": 66729,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 66942,
+      "end": 66951,
+      "label": "LOC"
+    },
+    {
+      "text": "Bons Hommes",
+      "start": 66966,
+      "end": 66977,
+      "label": "MISC"
+    },
+    {
+      "text": "Providence",
+      "start": 67087,
+      "end": 67097,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Vandières",
+      "start": 67594,
+      "end": 67615,
+      "label": "LOC"
+    },
+    {
+      "text": "Chut !",
+      "start": 67661,
+      "end": 67667,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 67692,
+      "end": 67701,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 67731,
+      "end": 67739,
+      "label": "PER"
+    },
+    {
+      "text": "Immobile",
+      "start": 68213,
+      "end": 68221,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 68237,
+      "end": 68246,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 68278,
+      "end": 68287,
+      "label": "MISC"
+    },
+    {
+      "text": "Fanjat",
+      "start": 68515,
+      "end": 68521,
+      "label": "LOC"
+    },
+    {
+      "text": "Geneviève",
+      "start": 68930,
+      "end": 68939,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 69177,
+      "end": 69186,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 69190,
+      "end": 69198,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 69682,
+      "end": 69691,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 69853,
+      "end": 69868,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 70379,
+      "end": 70388,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 70533,
+      "end": 70541,
+      "label": "PER"
+    },
+    {
+      "text": "Albon",
+      "start": 70767,
+      "end": 70772,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 70983,
+      "end": 70988,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 71195,
+      "end": 71204,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 71213,
+      "end": 71221,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 71227,
+      "end": 71235,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 71237,
+      "end": 71245,
+      "label": "PER"
+    },
+    {
+      "text": "du Nord",
+      "start": 71534,
+      "end": 71541,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 71638,
+      "end": 71653,
+      "label": "MISC"
+    },
+    {
+      "text": "Fanjat",
+      "start": 72641,
+      "end": 72647,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 72680,
+      "end": 72686,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 73024,
+      "end": 73032,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 73110,
+      "end": 73119,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 73263,
+      "end": 73271,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 73622,
+      "end": 73631,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 73649,
+      "end": 73657,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 73969,
+      "end": 73984,
+      "label": "MISC"
+    },
+    {
+      "text": "voyez",
+      "start": 74100,
+      "end": 74105,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 74135,
+      "end": 74143,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 74576,
+      "end": 74580,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 74969,
+      "end": 74978,
+      "label": "MISC"
+    },
+    {
+      "text": "Syrie",
+      "start": 75602,
+      "end": 75607,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 75680,
+      "end": 75689,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 75932,
+      "end": 75940,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 76055,
+      "end": 76064,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 76241,
+      "end": 76249,
+      "label": "PER"
+    },
+    {
+      "text": "Syrie",
+      "start": 76711,
+      "end": 76716,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 76782,
+      "end": 76791,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 76794,
+      "end": 76802,
+      "label": "PER"
+    },
+    {
+      "text": "amollis",
+      "start": 77312,
+      "end": 77319,
+      "label": "LOC"
+    },
+    {
+      "text": "charger",
+      "start": 77844,
+      "end": 77851,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 77894,
+      "end": 77902,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe !",
+      "start": 78500,
+      "end": 78510,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 78583,
+      "end": 78592,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 79041,
+      "end": 79045,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 79561,
+      "end": 79570,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 79848,
+      "end": 79857,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 79887,
+      "end": 79895,
+      "label": "PER"
+    },
+    {
+      "text": "Mon amour",
+      "start": 79917,
+      "end": 79926,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 79996,
+      "end": 80004,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 80040,
+      "end": 80045,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 80148,
+      "end": 80156,
+      "label": "PER"
+    },
+    {
+      "text": "ma Stéphanie",
+      "start": 80205,
+      "end": 80217,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 80234,
+      "end": 80242,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 80246,
+      "end": 80251,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 80507,
+      "end": 80511,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 80662,
+      "end": 80671,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 80962,
+      "end": 80970,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Fanjat",
+      "start": 80992,
+      "end": 81007,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 81249,
+      "end": 81253,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 81271,
+      "end": 81279,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 81890,
+      "end": 81895,
+      "label": "PER"
+    },
+    {
+      "text": "Bons Hommes",
+      "start": 82118,
+      "end": 82129,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 82349,
+      "end": 82357,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 82570,
+      "end": 82583,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 82943,
+      "end": 82951,
+      "label": "LOC"
+    },
+    {
+      "text": "Satout",
+      "start": 82967,
+      "end": 82973,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 83047,
+      "end": 83057,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 83086,
+      "end": 83094,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 83230,
+      "end": 83239,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 83241,
+      "end": 83249,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 83288,
+      "end": 83296,
+      "label": "PER"
+    },
+    {
+      "text": "Éblé",
+      "start": 83350,
+      "end": 83354,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 83548,
+      "end": 83557,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 84218,
+      "end": 84226,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 84241,
+      "end": 84247,
+      "label": "LOC"
+    },
+    {
+      "text": "Sucy",
+      "start": 84385,
+      "end": 84389,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vandières de Moscou",
+      "start": 84655,
+      "end": 84684,
+      "label": "PER"
+    },
+    {
+      "text": "Studzianka",
+      "start": 84687,
+      "end": 84697,
+      "label": "LOC"
+    },
+    {
+      "text": "Île Adam",
+      "start": 84732,
+      "end": 84740,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 84867,
+      "end": 84873,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanjat",
+      "start": 85141,
+      "end": 85147,
+      "label": "LOC"
+    },
+    {
+      "text": "Studzianka",
+      "start": 85387,
+      "end": 85397,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 85734,
+      "end": 85742,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 85783,
+      "end": 85792,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 85854,
+      "end": 85859,
+      "label": "PER"
+    },
+    {
+      "text": "Geneviève",
+      "start": 85940,
+      "end": 85949,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 85970,
+      "end": 85985,
+      "label": "MISC"
+    },
+    {
+      "text": "Geneviève",
+      "start": 85987,
+      "end": 85996,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 86310,
+      "end": 86319,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 86346,
+      "end": 86350,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 86367,
+      "end": 86382,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 86719,
+      "end": 86728,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 86762,
+      "end": 86770,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 87018,
+      "end": 87024,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 87309,
+      "end": 87317,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 87335,
+      "end": 87343,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Vandières",
+      "start": 87400,
+      "end": 87419,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 87924,
+      "end": 87932,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 88073,
+      "end": 88082,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 88512,
+      "end": 88521,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 88636,
+      "end": 88640,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 88866,
+      "end": 88875,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 88896,
+      "end": 88900,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 88907,
+      "end": 88915,
+      "label": "PER"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 89067,
+      "end": 89076,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 89221,
+      "end": 89226,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 89228,
+      "end": 89236,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 89259,
+      "end": 89263,
+      "label": "MISC"
+    },
+    {
+      "text": "Stéphanie",
+      "start": 89671,
+      "end": 89680,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 89825,
+      "end": 89829,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 89850,
+      "end": 89858,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Fanjat",
+      "start": 89935,
+      "end": 89950,
+      "label": "MISC"
+    },
+    {
+      "text": "Sucy",
+      "start": 89964,
+      "end": 89968,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe de Sucy",
+      "start": 90227,
+      "end": 90243,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 90417,
+      "end": 90421,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 90422,
+      "end": 90428,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 90571,
+      "end": 90573,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Sucy",
+      "start": 90663,
+      "end": 90676,
+      "label": "PER"
+    },
+    {
+      "text": "Sucy",
+      "start": 91027,
+      "end": 91031,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 91491,
+      "end": 91495,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 91648,
+      "end": 91652,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 91700,
+      "end": 91705,
+      "label": "LOC"
+    }
+  ]
+}

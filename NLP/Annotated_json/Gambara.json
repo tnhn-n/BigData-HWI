@@ -1,0 +1,3478 @@
+{
+  "entities": [
+    {
+      "text": "GAMBARA",
+      "start": 0,
+      "end": 7,
+      "label": "MISC"
+    },
+    {
+      "text": "A M. LE MARQUIS DE BELLOY",
+      "start": 15,
+      "end": 40,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 199,
+      "end": 204,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellevue",
+      "start": 229,
+      "end": 237,
+      "label": "LOC"
+    },
+    {
+      "text": "Belleville",
+      "start": 256,
+      "end": 266,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmartre",
+      "start": 275,
+      "end": 285,
+      "label": "LOC"
+    },
+    {
+      "text": "Arc de Triomphe de l'Étoile",
+      "start": 296,
+      "end": 323,
+      "label": "LOC"
+    },
+    {
+      "text": "Hoffman",
+      "start": 541,
+      "end": 548,
+      "label": "PER"
+    },
+    {
+      "text": "Paradis",
+      "start": 613,
+      "end": 620,
+      "label": "LOC"
+    },
+    {
+      "text": "GAMBARA",
+      "start": 899,
+      "end": 906,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 952,
+      "end": 957,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 978,
+      "end": 983,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 1346,
+      "end": 1358,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 1673,
+      "end": 1685,
+      "label": "LOC"
+    },
+    {
+      "text": "alluma",
+      "start": 2581,
+      "end": 2587,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 2702,
+      "end": 2708,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2858,
+      "end": 2863,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 3202,
+      "end": 3214,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Froidmanteau",
+      "start": 3346,
+      "end": 3362,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal assaini",
+      "start": 3447,
+      "end": 3467,
+      "label": "LOC"
+    },
+    {
+      "text": "Almaviva",
+      "start": 4440,
+      "end": 4448,
+      "label": "PER"
+    },
+    {
+      "text": "Rosine",
+      "start": 4592,
+      "end": 4598,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 4909,
+      "end": 4917,
+      "label": "PER"
+    },
+    {
+      "text": "Milanais",
+      "start": 5123,
+      "end": 5131,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea Marcosini",
+      "start": 5244,
+      "end": 5260,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5285,
+      "end": 5290,
+      "label": "LOC"
+    },
+    {
+      "text": "Apres",
+      "start": 5685,
+      "end": 5690,
+      "label": "PER"
+    },
+    {
+      "text": "i miei tiranni",
+      "start": 5729,
+      "end": 5743,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 5822,
+      "end": 5830,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 5850,
+      "end": 5856,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6025,
+      "end": 6030,
+      "label": "LOC"
+    },
+    {
+      "text": "poëte",
+      "start": 6826,
+      "end": 6831,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 7030,
+      "end": 7039,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 7376,
+      "end": 7384,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 7390,
+      "end": 7395,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Manerville",
+      "start": 7444,
+      "end": 7464,
+      "label": "PER"
+    },
+    {
+      "text": "Milanais",
+      "start": 7921,
+      "end": 7929,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 8235,
+      "end": 8243,
+      "label": "LOC"
+    },
+    {
+      "text": "Chemin",
+      "start": 8245,
+      "end": 8251,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 8917,
+      "end": 8923,
+      "label": "PER"
+    },
+    {
+      "text": "rue Froidmanteau",
+      "start": 9174,
+      "end": 9190,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 9616,
+      "end": 9622,
+      "label": "PER"
+    },
+    {
+      "text": "Farceur !",
+      "start": 10093,
+      "end": 10102,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 10121,
+      "end": 10128,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 10211,
+      "end": 10215,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 10506,
+      "end": 10513,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 10520,
+      "end": 10528,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 10696,
+      "end": 10702,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 11038,
+      "end": 11055,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 11504,
+      "end": 11510,
+      "label": "PER"
+    },
+    {
+      "text": "Marcosini",
+      "start": 11559,
+      "end": 11568,
+      "label": "PER"
+    },
+    {
+      "text": "Milanais",
+      "start": 11576,
+      "end": 11584,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Froidmanteau",
+      "start": 12199,
+      "end": 12215,
+      "label": "LOC"
+    },
+    {
+      "text": "Suis",
+      "start": 12614,
+      "end": 12618,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 12968,
+      "end": 12973,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea Marcosini",
+      "start": 13018,
+      "end": 13034,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 13047,
+      "end": 13055,
+      "label": "LOC"
+    },
+    {
+      "text": "Andréa",
+      "start": 13154,
+      "end": 13160,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 13353,
+      "end": 13357,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13380,
+      "end": 13385,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 14036,
+      "end": 14042,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 14068,
+      "end": 14072,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa t",
+      "start": 14079,
+      "end": 14086,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea Marcosini",
+      "start": 14163,
+      "end": 14179,
+      "label": "PER"
+    },
+    {
+      "text": "rue Froidmanteau",
+      "start": 14224,
+      "end": 14240,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonarde",
+      "start": 15109,
+      "end": 15117,
+      "label": "LOC"
+    },
+    {
+      "text": "Figurez",
+      "start": 15499,
+      "end": 15506,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 15714,
+      "end": 15720,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 15782,
+      "end": 15790,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 16115,
+      "end": 16123,
+      "label": "PER"
+    },
+    {
+      "text": "Basta",
+      "start": 16238,
+      "end": 16243,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 16334,
+      "end": 16341,
+      "label": "PER"
+    },
+    {
+      "text": "Crémone",
+      "start": 16605,
+      "end": 16612,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 16626,
+      "end": 16635,
+      "label": "LOC"
+    },
+    {
+      "text": "Tedeschi",
+      "start": 16720,
+      "end": 16728,
+      "label": "MISC"
+    },
+    {
+      "text": "Giardini",
+      "start": 16764,
+      "end": 16772,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 16808,
+      "end": 16815,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 17414,
+      "end": 17420,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 17496,
+      "end": 17504,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 17658,
+      "end": 17664,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 18456,
+      "end": 18461,
+      "label": "LOC"
+    },
+    {
+      "text": "Excellence",
+      "start": 18468,
+      "end": 18478,
+      "label": "MISC"
+    },
+    {
+      "text": "Napolitain",
+      "start": 18636,
+      "end": 18646,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes essais",
+      "start": 18854,
+      "end": 18864,
+      "label": "MISC"
+    },
+    {
+      "text": "Naples",
+      "start": 18934,
+      "end": 18940,
+      "label": "LOC"
+    },
+    {
+      "text": "Parme",
+      "start": 18944,
+      "end": 18949,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 18955,
+      "end": 18959,
+      "label": "LOC"
+    },
+    {
+      "text": "Sottise",
+      "start": 19182,
+      "end": 19189,
+      "label": "LOC"
+    },
+    {
+      "text": "Piémontais",
+      "start": 19696,
+      "end": 19706,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoyards",
+      "start": 19712,
+      "end": 19721,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 19787,
+      "end": 19795,
+      "label": "LOC"
+    },
+    {
+      "text": "Giardini",
+      "start": 19978,
+      "end": 19986,
+      "label": "PER"
+    },
+    {
+      "text": "Gérolamo",
+      "start": 20067,
+      "end": 20075,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 20303,
+      "end": 20309,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 20392,
+      "end": 20400,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 20550,
+      "end": 20558,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 20853,
+      "end": 20861,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 21015,
+      "end": 21023,
+      "label": "PER"
+    },
+    {
+      "text": "Napolitain",
+      "start": 21223,
+      "end": 21233,
+      "label": "PER"
+    },
+    {
+      "text": "Gigelmi",
+      "start": 21767,
+      "end": 21774,
+      "label": "ORG"
+    },
+    {
+      "text": "notre grand Ottoboni",
+      "start": 21924,
+      "end": 21944,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 22076,
+      "end": 22084,
+      "label": "LOC"
+    },
+    {
+      "text": "Giardini",
+      "start": 22155,
+      "end": 22163,
+      "label": "PER"
+    },
+    {
+      "text": "Excellence",
+      "start": 22374,
+      "end": 22384,
+      "label": "MISC"
+    },
+    {
+      "text": "d'Autriche",
+      "start": 22557,
+      "end": 22567,
+      "label": "LOC"
+    },
+    {
+      "text": "Excellence",
+      "start": 22870,
+      "end": 22880,
+      "label": "MISC"
+    },
+    {
+      "text": "Ottoboni",
+      "start": 22954,
+      "end": 22962,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 23154,
+      "end": 23160,
+      "label": "LOC"
+    },
+    {
+      "text": "Ottoboni",
+      "start": 23418,
+      "end": 23426,
+      "label": "PER"
+    },
+    {
+      "text": "Excellence",
+      "start": 23516,
+      "end": 23526,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 23563,
+      "end": 23567,
+      "label": "MISC"
+    },
+    {
+      "text": "Giardini",
+      "start": 23577,
+      "end": 23585,
+      "label": "PER"
+    },
+    {
+      "text": "râpé",
+      "start": 23751,
+      "end": 23755,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 24215,
+      "end": 24231,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 24349,
+      "end": 24355,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 24368,
+      "end": 24376,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 24452,
+      "end": 24460,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 24548,
+      "end": 24553,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 24686,
+      "end": 24692,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 24745,
+      "end": 24752,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 25477,
+      "end": 25483,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 25512,
+      "end": 25520,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 25969,
+      "end": 25977,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 26173,
+      "end": 26180,
+      "label": "LOC"
+    },
+    {
+      "text": "libretti",
+      "start": 26336,
+      "end": 26344,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 26678,
+      "end": 26684,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 26711,
+      "end": 26719,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 27097,
+      "end": 27104,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 27180,
+      "end": 27188,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 27663,
+      "end": 27670,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 27843,
+      "end": 27851,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 27906,
+      "end": 27915,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 28117,
+      "end": 28124,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 28153,
+      "end": 28161,
+      "label": "LOC"
+    },
+    {
+      "text": "Paolo Gambara",
+      "start": 28252,
+      "end": 28265,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 28360,
+      "end": 28367,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 28765,
+      "end": 28774,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 28967,
+      "end": 28976,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 29246,
+      "end": 29255,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 29298,
+      "end": 29303,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29326,
+      "end": 29334,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 29397,
+      "end": 29403,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 29407,
+      "end": 29412,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 29560,
+      "end": 29569,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 29703,
+      "end": 29710,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 29772,
+      "end": 29778,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 29994,
+      "end": 30002,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 30073,
+      "end": 30080,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 30487,
+      "end": 30494,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 30522,
+      "end": 30528,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 30539,
+      "end": 30547,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 30823,
+      "end": 30827,
+      "label": "LOC"
+    },
+    {
+      "text": "Giardini",
+      "start": 31043,
+      "end": 31051,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 31209,
+      "end": 31213,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 31219,
+      "end": 31225,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 31306,
+      "end": 31313,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 31478,
+      "end": 31486,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 31609,
+      "end": 31615,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 32091,
+      "end": 32097,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 32126,
+      "end": 32134,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 32278,
+      "end": 32290,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 32491,
+      "end": 32503,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 32761,
+      "end": 32767,
+      "label": "PER"
+    },
+    {
+      "text": "Veuillez",
+      "start": 32975,
+      "end": 32983,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33053,
+      "end": 33061,
+      "label": "MISC"
+    },
+    {
+      "text": "Palestrina",
+      "start": 33099,
+      "end": 33109,
+      "label": "PER"
+    },
+    {
+      "text": "Pergolèse",
+      "start": 33111,
+      "end": 33120,
+      "label": "PER"
+    },
+    {
+      "text": "Mozart",
+      "start": 33122,
+      "end": 33128,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 33218,
+      "end": 33226,
+      "label": "PER"
+    },
+    {
+      "text": "Mozart",
+      "start": 33359,
+      "end": 33365,
+      "label": "PER"
+    },
+    {
+      "text": "Haydn",
+      "start": 33367,
+      "end": 33372,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 33376,
+      "end": 33385,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 33505,
+      "end": 33513,
+      "label": "PER"
+    },
+    {
+      "text": "Requiem",
+      "start": 33520,
+      "end": 33527,
+      "label": "MISC"
+    },
+    {
+      "text": "Mozart",
+      "start": 33538,
+      "end": 33544,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 33838,
+      "end": 33847,
+      "label": "PER"
+    },
+    {
+      "text": "Fantaisie",
+      "start": 33912,
+      "end": 33921,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 34151,
+      "end": 34160,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 34321,
+      "end": 34328,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 34355,
+      "end": 34367,
+      "label": "MISC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 34428,
+      "end": 34437,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 34531,
+      "end": 34538,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 34931,
+      "end": 34940,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 35142,
+      "end": 35151,
+      "label": "PER"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 35373,
+      "end": 35385,
+      "label": "PER"
+    },
+    {
+      "text": "E",
+      "start": 35535,
+      "end": 35536,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 35548,
+      "end": 35555,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 35660,
+      "end": 35666,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 35770,
+      "end": 35777,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 35889,
+      "end": 35895,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 36174,
+      "end": 36183,
+      "label": "PER"
+    },
+    {
+      "text": "Comparez",
+      "start": 36187,
+      "end": 36195,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 36524,
+      "end": 36531,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 37143,
+      "end": 37150,
+      "label": "PER"
+    },
+    {
+      "text": "Barbarie",
+      "start": 37342,
+      "end": 37350,
+      "label": "PER"
+    },
+    {
+      "text": "Polichinelle",
+      "start": 37387,
+      "end": 37399,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 37596,
+      "end": 37602,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 37796,
+      "end": 37803,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 37884,
+      "end": 37890,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 38092,
+      "end": 38099,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 38122,
+      "end": 38134,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38187,
+      "end": 38191,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 38341,
+      "end": 38350,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 38357,
+      "end": 38363,
+      "label": "LOC"
+    },
+    {
+      "text": "Carissimi",
+      "start": 38429,
+      "end": 38438,
+      "label": "LOC"
+    },
+    {
+      "text": "Cavalli",
+      "start": 38440,
+      "end": 38447,
+      "label": "LOC"
+    },
+    {
+      "text": "Scarlati",
+      "start": 38449,
+      "end": 38457,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossi",
+      "start": 38459,
+      "end": 38464,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 38490,
+      "end": 38498,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra de Paris",
+      "start": 38521,
+      "end": 38535,
+      "label": "LOC"
+    },
+    {
+      "text": "Lulli",
+      "start": 38602,
+      "end": 38607,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 38710,
+      "end": 38716,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 38914,
+      "end": 38923,
+      "label": "LOC"
+    },
+    {
+      "text": "Sébastien Bach",
+      "start": 38942,
+      "end": 38956,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 38999,
+      "end": 39006,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 39345,
+      "end": 39351,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 39354,
+      "end": 39362,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 39638,
+      "end": 39645,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 40184,
+      "end": 40192,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 40249,
+      "end": 40257,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 40477,
+      "end": 40484,
+      "label": "MISC"
+    },
+    {
+      "text": "Milanais",
+      "start": 40552,
+      "end": 40560,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 41028,
+      "end": 41035,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 41039,
+      "end": 41047,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 41142,
+      "end": 41149,
+      "label": "LOC"
+    },
+    {
+      "text": "Giardini",
+      "start": 41203,
+      "end": 41211,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 41350,
+      "end": 41358,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 41362,
+      "end": 41369,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 41501,
+      "end": 41508,
+      "label": "PER"
+    },
+    {
+      "text": "Messie",
+      "start": 41733,
+      "end": 41739,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 41743,
+      "end": 41750,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 41999,
+      "end": 42005,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42090,
+      "end": 42094,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 42096,
+      "end": 42102,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 42179,
+      "end": 42187,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 42243,
+      "end": 42250,
+      "label": "MISC"
+    },
+    {
+      "text": "Crémone",
+      "start": 42267,
+      "end": 42274,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 42612,
+      "end": 42620,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 43189,
+      "end": 43197,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 43820,
+      "end": 43824,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 46052,
+      "end": 46058,
+      "label": "MISC"
+    },
+    {
+      "text": "Haydn",
+      "start": 46298,
+      "end": 46303,
+      "label": "PER"
+    },
+    {
+      "text": "Mozart",
+      "start": 46305,
+      "end": 46311,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 46313,
+      "end": 46322,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 46326,
+      "end": 46333,
+      "label": "PER"
+    },
+    {
+      "text": "Comprenez",
+      "start": 47100,
+      "end": 47109,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 48103,
+      "end": 48110,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 48677,
+      "end": 48684,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 48724,
+      "end": 48731,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 50076,
+      "end": 50084,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 50136,
+      "end": 50142,
+      "label": "LOC"
+    },
+    {
+      "text": "Capello",
+      "start": 50485,
+      "end": 50492,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianca",
+      "start": 50525,
+      "end": 50531,
+      "label": "LOC"
+    },
+    {
+      "text": "Toscane",
+      "start": 50566,
+      "end": 50573,
+      "label": "LOC"
+    },
+    {
+      "text": "Martyrs",
+      "start": 50883,
+      "end": 50890,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnez",
+      "start": 50892,
+      "end": 50898,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 50902,
+      "end": 50911,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 50916,
+      "end": 50924,
+      "label": "LOC"
+    },
+    {
+      "text": "Martyrs",
+      "start": 51160,
+      "end": 51167,
+      "label": "LOC"
+    },
+    {
+      "text": "Espérance",
+      "start": 51255,
+      "end": 51264,
+      "label": "ORG"
+    },
+    {
+      "text": "Marianna",
+      "start": 51519,
+      "end": 51527,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 51792,
+      "end": 51800,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 52003,
+      "end": 52009,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 52163,
+      "end": 52172,
+      "label": "LOC"
+    },
+    {
+      "text": "Hongrie",
+      "start": 52219,
+      "end": 52226,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 52533,
+      "end": 52542,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 52690,
+      "end": 52698,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 53232,
+      "end": 53241,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53389,
+      "end": 53394,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 53688,
+      "end": 53696,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 53797,
+      "end": 53805,
+      "label": "PER"
+    },
+    {
+      "text": "Espérez",
+      "start": 53996,
+      "end": 54003,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 54013,
+      "end": 54019,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 54388,
+      "end": 54395,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 54801,
+      "end": 54806,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 54959,
+      "end": 54967,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 54999,
+      "end": 55005,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 55026,
+      "end": 55034,
+      "label": "PER"
+    },
+    {
+      "text": "signorina",
+      "start": 55089,
+      "end": 55098,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 55185,
+      "end": 55193,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 55234,
+      "end": 55240,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 55294,
+      "end": 55301,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 55307,
+      "end": 55313,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 55384,
+      "end": 55392,
+      "label": "PER"
+    },
+    {
+      "text": "Ma vie",
+      "start": 55456,
+      "end": 55462,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianna, ma vie",
+      "start": 55473,
+      "end": 55489,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianna",
+      "start": 55813,
+      "end": 55821,
+      "label": "PER"
+    },
+    {
+      "text": "Essayez",
+      "start": 55887,
+      "end": 55894,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianna",
+      "start": 56078,
+      "end": 56086,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 56145,
+      "end": 56151,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 56162,
+      "end": 56170,
+      "label": "LOC"
+    },
+    {
+      "text": "Paolo Gambara",
+      "start": 56243,
+      "end": 56256,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 56507,
+      "end": 56515,
+      "label": "LOC"
+    },
+    {
+      "text": "Paolo",
+      "start": 56699,
+      "end": 56704,
+      "label": "PER"
+    },
+    {
+      "text": "Paolo",
+      "start": 57057,
+      "end": 57062,
+      "label": "PER"
+    },
+    {
+      "text": "Pensée exerce sur les cerveaux",
+      "start": 57402,
+      "end": 57432,
+      "label": "MISC"
+    },
+    {
+      "text": "Gambara",
+      "start": 57468,
+      "end": 57475,
+      "label": "PER"
+    },
+    {
+      "text": "Paolo",
+      "start": 57710,
+      "end": 57715,
+      "label": "PER"
+    },
+    {
+      "text": "murmura t",
+      "start": 58565,
+      "end": 58574,
+      "label": "PER"
+    },
+    {
+      "text": "Paolo",
+      "start": 58889,
+      "end": 58894,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 59337,
+      "end": 59341,
+      "label": "PER"
+    },
+    {
+      "text": "Frappée",
+      "start": 59994,
+      "end": 60001,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 60359,
+      "end": 60367,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60492,
+      "end": 60497,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 60509,
+      "end": 60515,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 60590,
+      "end": 60598,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 60724,
+      "end": 60729,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 61595,
+      "end": 61599,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 61683,
+      "end": 61689,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 61769,
+      "end": 61777,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 62329,
+      "end": 62337,
+      "label": "LOC"
+    },
+    {
+      "text": "Giardini",
+      "start": 62454,
+      "end": 62462,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 62520,
+      "end": 62528,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 62676,
+      "end": 62684,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 62947,
+      "end": 62955,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 63047,
+      "end": 63054,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 63056,
+      "end": 63062,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 63296,
+      "end": 63304,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 63537,
+      "end": 63544,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 63675,
+      "end": 63680,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 63710,
+      "end": 63717,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 64528,
+      "end": 64535,
+      "label": "PER"
+    },
+    {
+      "text": "Arabes",
+      "start": 64717,
+      "end": 64723,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 64733,
+      "end": 64740,
+      "label": "PER"
+    },
+    {
+      "text": "Juifs",
+      "start": 64756,
+      "end": 64761,
+      "label": "MISC"
+    },
+    {
+      "text": "MARTYRS",
+      "start": 65328,
+      "end": 65335,
+      "label": "ORG"
+    },
+    {
+      "text": "JÉRUSALEM",
+      "start": 65375,
+      "end": 65384,
+      "label": "MISC"
+    },
+    {
+      "text": "Martyrs",
+      "start": 65484,
+      "end": 65491,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 65493,
+      "end": 65500,
+      "label": "PER"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 65505,
+      "end": 65514,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu de l'Occident",
+      "start": 65520,
+      "end": 65538,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 65551,
+      "end": 65557,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 65748,
+      "end": 65755,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige",
+      "start": 65769,
+      "end": 65776,
+      "label": "PER"
+    },
+    {
+      "text": "Mekke",
+      "start": 65870,
+      "end": 65875,
+      "label": "LOC"
+    },
+    {
+      "text": "Médine",
+      "start": 65891,
+      "end": 65897,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 65956,
+      "end": 65963,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 66030,
+      "end": 66037,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 66125,
+      "end": 66129,
+      "label": "MISC"
+    },
+    {
+      "text": "Gambara",
+      "start": 66300,
+      "end": 66307,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 66505,
+      "end": 66512,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige",
+      "start": 66622,
+      "end": 66629,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Juan",
+      "start": 67182,
+      "end": 67190,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 67253,
+      "end": 67260,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige",
+      "start": 67371,
+      "end": 67378,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 67389,
+      "end": 67396,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige",
+      "start": 67399,
+      "end": 67406,
+      "label": "LOC"
+    },
+    {
+      "text": "ange Gabriel",
+      "start": 67458,
+      "end": 67470,
+      "label": "PER"
+    },
+    {
+      "text": "Maëstoso sostenuto en fa mineur",
+      "start": 67472,
+      "end": 67503,
+      "label": "MISC"
+    },
+    {
+      "text": "Socrate",
+      "start": 67608,
+      "end": 67615,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 67619,
+      "end": 67631,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 67707,
+      "end": 67714,
+      "label": "PER"
+    },
+    {
+      "text": "Mekke",
+      "start": 67736,
+      "end": 67741,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabie",
+      "start": 67815,
+      "end": 67821,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabes",
+      "start": 68096,
+      "end": 68102,
+      "label": "MISC"
+    },
+    {
+      "text": "Médine",
+      "start": 68337,
+      "end": 68343,
+      "label": "LOC"
+    },
+    {
+      "text": "Mekke",
+      "start": 68391,
+      "end": 68396,
+      "label": "LOC"
+    },
+    {
+      "text": "Explosion",
+      "start": 68399,
+      "end": 68408,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 68622,
+      "end": 68629,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 69116,
+      "end": 69123,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 69178,
+      "end": 69182,
+      "label": "MISC"
+    },
+    {
+      "text": "Arabie",
+      "start": 69187,
+      "end": 69193,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 69331,
+      "end": 69338,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 69874,
+      "end": 69880,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 70121,
+      "end": 70129,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 70151,
+      "end": 70159,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 70291,
+      "end": 70297,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 70299,
+      "end": 70306,
+      "label": "PER"
+    },
+    {
+      "text": "ACTE",
+      "start": 70534,
+      "end": 70538,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 70540,
+      "end": 70547,
+      "label": "PER"
+    },
+    {
+      "text": "Douze",
+      "start": 70758,
+      "end": 70763,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 70972,
+      "end": 70978,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 70984,
+      "end": 70992,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 71011,
+      "end": 71018,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 71229,
+      "end": 71235,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 71324,
+      "end": 71331,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige",
+      "start": 71381,
+      "end": 71388,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 71475,
+      "end": 71482,
+      "label": "PER"
+    },
+    {
+      "text": "Mekke",
+      "start": 71576,
+      "end": 71581,
+      "label": "LOC"
+    },
+    {
+      "text": "Chœur",
+      "start": 71671,
+      "end": 71676,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 71703,
+      "end": 71710,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 71783,
+      "end": 71790,
+      "label": "PER"
+    },
+    {
+      "text": "ange Gabriel",
+      "start": 71817,
+      "end": 71829,
+      "label": "PER"
+    },
+    {
+      "text": "Air coupé",
+      "start": 71886,
+      "end": 71895,
+      "label": "ORG"
+    },
+    {
+      "text": "Cadhige",
+      "start": 71995,
+      "end": 72002,
+      "label": "LOC"
+    },
+    {
+      "text": "ABDOLLAH",
+      "start": 72016,
+      "end": 72024,
+      "label": "MISC"
+    },
+    {
+      "text": "Aiesha",
+      "start": 72036,
+      "end": 72042,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 72060,
+      "end": 72067,
+      "label": "PER"
+    },
+    {
+      "text": "ABOUBECKER",
+      "start": 72153,
+      "end": 72163,
+      "label": "MISC"
+    },
+    {
+      "text": "Aiesha",
+      "start": 72200,
+      "end": 72206,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadhige",
+      "start": 72307,
+      "end": 72314,
+      "label": "PER"
+    },
+    {
+      "text": "Omar",
+      "start": 72350,
+      "end": 72354,
+      "label": "PER"
+    },
+    {
+      "text": "Hafsa",
+      "start": 72363,
+      "end": 72368,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 72400,
+      "end": 72407,
+      "label": "PER"
+    },
+    {
+      "text": "Aboubecker",
+      "start": 72427,
+      "end": 72437,
+      "label": "ORG"
+    },
+    {
+      "text": "vierge Aiesha",
+      "start": 72486,
+      "end": 72499,
+      "label": "PER"
+    },
+    {
+      "text": "Hafsa",
+      "start": 72522,
+      "end": 72527,
+      "label": "PER"
+    },
+    {
+      "text": "Aboubecker",
+      "start": 72552,
+      "end": 72562,
+      "label": "ORG"
+    },
+    {
+      "text": "Omar",
+      "start": 72585,
+      "end": 72589,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 72606,
+      "end": 72613,
+      "label": "PER"
+    },
+    {
+      "text": "Croyants",
+      "start": 72751,
+      "end": 72759,
+      "label": "PER"
+    },
+    {
+      "text": "Ali",
+      "start": 72898,
+      "end": 72901,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 72913,
+      "end": 72920,
+      "label": "PER"
+    },
+    {
+      "text": "Khaled",
+      "start": 72925,
+      "end": 72931,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 73091,
+      "end": 73098,
+      "label": "PER"
+    },
+    {
+      "text": "ange Gabriel",
+      "start": 73141,
+      "end": 73153,
+      "label": "PER"
+    },
+    {
+      "text": "Croyants",
+      "start": 73215,
+      "end": 73223,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 73443,
+      "end": 73450,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 73638,
+      "end": 73645,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 73742,
+      "end": 73749,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 73830,
+      "end": 73837,
+      "label": "PER"
+    },
+    {
+      "text": "ACTE",
+      "start": 73892,
+      "end": 73896,
+      "label": "MISC"
+    },
+    {
+      "text": "Arabes",
+      "start": 73932,
+      "end": 73938,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 73986,
+      "end": 73990,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 74013,
+      "end": 74020,
+      "label": "PER"
+    },
+    {
+      "text": "Généralife",
+      "start": 74366,
+      "end": 74376,
+      "label": "LOC"
+    },
+    {
+      "text": "Alhambra !",
+      "start": 74409,
+      "end": 74419,
+      "label": "MISC"
+    },
+    {
+      "text": "Arabes",
+      "start": 74728,
+      "end": 74734,
+      "label": "MISC"
+    },
+    {
+      "text": "Khaled",
+      "start": 74785,
+      "end": 74791,
+      "label": "PER"
+    },
+    {
+      "text": "Amrou",
+      "start": 74795,
+      "end": 74800,
+      "label": "LOC"
+    },
+    {
+      "text": "Ali",
+      "start": 74806,
+      "end": 74809,
+      "label": "MISC"
+    },
+    {
+      "text": "Croyants",
+      "start": 74849,
+      "end": 74857,
+      "label": "MISC"
+    },
+    {
+      "text": "Arabies !",
+      "start": 74898,
+      "end": 74907,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 74933,
+      "end": 74940,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 75120,
+      "end": 75127,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 75220,
+      "end": 75228,
+      "label": "PER"
+    },
+    {
+      "text": "Arabie",
+      "start": 75257,
+      "end": 75263,
+      "label": "LOC"
+    },
+    {
+      "text": "chœur des Arabes triomphants",
+      "start": 75311,
+      "end": 75339,
+      "label": "ORG"
+    },
+    {
+      "text": "Mahomet",
+      "start": 75512,
+      "end": 75519,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 75596,
+      "end": 75603,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 75822,
+      "end": 75829,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 75955,
+      "end": 75962,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 76016,
+      "end": 76020,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 76262,
+      "end": 76269,
+      "label": "PER"
+    },
+    {
+      "text": "secondo soprano",
+      "start": 76482,
+      "end": 76497,
+      "label": "PER"
+    },
+    {
+      "text": "Aiesha",
+      "start": 76501,
+      "end": 76507,
+      "label": "LOC"
+    },
+    {
+      "text": "Hafsa",
+      "start": 76513,
+      "end": 76518,
+      "label": "LOC"
+    },
+    {
+      "text": "Ali",
+      "start": 76533,
+      "end": 76536,
+      "label": "PER"
+    },
+    {
+      "text": "Omar",
+      "start": 76554,
+      "end": 76558,
+      "label": "PER"
+    },
+    {
+      "text": "Aboubecker",
+      "start": 76562,
+      "end": 76572,
+      "label": "ORG"
+    },
+    {
+      "text": "Pleurez",
+      "start": 76575,
+      "end": 76582,
+      "label": "PER"
+    },
+    {
+      "text": "Triomphes",
+      "start": 76602,
+      "end": 76611,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 76638,
+      "end": 76646,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 76674,
+      "end": 76680,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 76852,
+      "end": 76859,
+      "label": "PER"
+    },
+    {
+      "text": "Capitole",
+      "start": 77018,
+      "end": 77026,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 77312,
+      "end": 77320,
+      "label": "LOC"
+    },
+    {
+      "text": "ACTE",
+      "start": 77388,
+      "end": 77392,
+      "label": "MISC"
+    },
+    {
+      "text": "Andantino solo",
+      "start": 77448,
+      "end": 77462,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 77465,
+      "end": 77472,
+      "label": "PER"
+    },
+    {
+      "text": "Modulations",
+      "start": 77608,
+      "end": 77619,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 77839,
+      "end": 77846,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 78123,
+      "end": 78130,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 78186,
+      "end": 78195,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 78205,
+      "end": 78212,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 78339,
+      "end": 78348,
+      "label": "PER"
+    },
+    {
+      "text": "Croyants",
+      "start": 78567,
+      "end": 78575,
+      "label": "MISC"
+    },
+    {
+      "text": "Entendez",
+      "start": 78706,
+      "end": 78714,
+      "label": "ORG"
+    },
+    {
+      "text": "Ali",
+      "start": 78818,
+      "end": 78821,
+      "label": "MISC"
+    },
+    {
+      "text": "Alcoran",
+      "start": 78832,
+      "end": 78839,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 78889,
+      "end": 78896,
+      "label": "PER"
+    },
+    {
+      "text": "Magnifique",
+      "start": 79024,
+      "end": 79034,
+      "label": "PER"
+    },
+    {
+      "text": "Grande marche triomphale",
+      "start": 79178,
+      "end": 79202,
+      "label": "MISC"
+    },
+    {
+      "text": "maison sainte",
+      "start": 79253,
+      "end": 79266,
+      "label": "LOC"
+    },
+    {
+      "text": "kasba",
+      "start": 79268,
+      "end": 79273,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 79531,
+      "end": 79537,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 79550,
+      "end": 79557,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 79706,
+      "end": 79713,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 79740,
+      "end": 79748,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 80107,
+      "end": 80114,
+      "label": "PER"
+    },
+    {
+      "text": "Péniblement",
+      "start": 80495,
+      "end": 80506,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 80546,
+      "end": 80552,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 80590,
+      "end": 80598,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 80697,
+      "end": 80704,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 81628,
+      "end": 81635,
+      "label": "PER"
+    },
+    {
+      "text": "Bacchus !",
+      "start": 82221,
+      "end": 82230,
+      "label": "MISC"
+    },
+    {
+      "text": "Giardini",
+      "start": 82483,
+      "end": 82491,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 82540,
+      "end": 82548,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 82654,
+      "end": 82662,
+      "label": "PER"
+    },
+    {
+      "text": "Seigneur",
+      "start": 82689,
+      "end": 82697,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 82739,
+      "end": 82747,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 82760,
+      "end": 82766,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 83252,
+      "end": 83258,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 83359,
+      "end": 83367,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 83390,
+      "end": 83397,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 83597,
+      "end": 83602,
+      "label": "LOC"
+    },
+    {
+      "text": "Panharmonicon",
+      "start": 84345,
+      "end": 84358,
+      "label": "MISC"
+    },
+    {
+      "text": "Giardini",
+      "start": 84475,
+      "end": 84483,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 84606,
+      "end": 84613,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 84886,
+      "end": 84893,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 85152,
+      "end": 85160,
+      "label": "PER"
+    },
+    {
+      "text": "Jouez",
+      "start": 85438,
+      "end": 85443,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 85570,
+      "end": 85578,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 85584,
+      "end": 85590,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 85592,
+      "end": 85599,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 86520,
+      "end": 86527,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrieux",
+      "start": 86773,
+      "end": 86781,
+      "label": "LOC"
+    },
+    {
+      "text": "Corneille",
+      "start": 86823,
+      "end": 86832,
+      "label": "PER"
+    },
+    {
+      "text": "Racine",
+      "start": 86839,
+      "end": 86845,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 87343,
+      "end": 87351,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 87437,
+      "end": 87445,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 87762,
+      "end": 87770,
+      "label": "PER"
+    },
+    {
+      "text": "Cadhige !",
+      "start": 87909,
+      "end": 87918,
+      "label": "MISC"
+    },
+    {
+      "text": "Gambara",
+      "start": 87927,
+      "end": 87934,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 88199,
+      "end": 88206,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianna",
+      "start": 88448,
+      "end": 88456,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 88458,
+      "end": 88465,
+      "label": "PER"
+    },
+    {
+      "text": "Paganini",
+      "start": 88711,
+      "end": 88719,
+      "label": "PER"
+    },
+    {
+      "text": "Listz",
+      "start": 88723,
+      "end": 88728,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 88858,
+      "end": 88862,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 88869,
+      "end": 88885,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 88933,
+      "end": 88939,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 89291,
+      "end": 89299,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 89441,
+      "end": 89457,
+      "label": "MISC"
+    },
+    {
+      "text": "Gambara",
+      "start": 89688,
+      "end": 89695,
+      "label": "PER"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 89775,
+      "end": 89791,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea",
+      "start": 89794,
+      "end": 89800,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 89912,
+      "end": 89920,
+      "label": "PER"
+    },
+    {
+      "text": "Dépouillée",
+      "start": 90150,
+      "end": 90160,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianna",
+      "start": 90220,
+      "end": 90228,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 90493,
+      "end": 90499,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 90707,
+      "end": 90711,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 90728,
+      "end": 90736,
+      "label": "LOC"
+    },
+    {
+      "text": "Froidmanteau",
+      "start": 90753,
+      "end": 90765,
+      "label": "MISC"
+    },
+    {
+      "text": "Marianna",
+      "start": 90924,
+      "end": 90932,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 91196,
+      "end": 91202,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 91353,
+      "end": 91360,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 91463,
+      "end": 91469,
+      "label": "PER"
+    },
+    {
+      "text": "Marianna",
+      "start": 91838,
+      "end": 91846,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 92050,
+      "end": 92057,
+      "label": "LOC"
+    },
+    {
+      "text": "Paolo",
+      "start": 92515,
+      "end": 92520,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 92689,
+      "end": 92695,
+      "label": "PER"
+    },
+    {
+      "text": "Giardini",
+      "start": 92850,
+      "end": 92858,
+      "label": "PER"
+    },
+    {
+      "text": "Robert le Diable",
+      "start": 92992,
+      "end": 93008,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 93134,
+      "end": 93141,
+      "label": "MISC"
+    },
+    {
+      "text": "Giardini",
+      "start": 93201,
+      "end": 93209,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 93274,
+      "end": 93280,
+      "label": "PER"
+    },
+    {
+      "text": "Orvieto",
+      "start": 93335,
+      "end": 93342,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiascone",
+      "start": 93347,
+      "end": 93360,
+      "label": "LOC"
+    },
+    {
+      "text": "Lacryma Christi",
+      "start": 93427,
+      "end": 93442,
+      "label": "MISC"
+    },
+    {
+      "text": "Giro",
+      "start": 93447,
+      "end": 93451,
+      "label": "MISC"
+    },
+    {
+      "text": "cara",
+      "start": 93480,
+      "end": 93484,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 93689,
+      "end": 93696,
+      "label": "PER"
+    },
+    {
+      "text": "marasquin de Zara",
+      "start": 93764,
+      "end": 93781,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 93864,
+      "end": 93871,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 93900,
+      "end": 93905,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 93987,
+      "end": 93994,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 94584,
+      "end": 94590,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 94598,
+      "end": 94606,
+      "label": "PER"
+    },
+    {
+      "text": "Alpes",
+      "start": 94647,
+      "end": 94652,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 94966,
+      "end": 94973,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 95028,
+      "end": 95033,
+      "label": "LOC"
+    },
+    {
+      "text": "Andrea",
+      "start": 95099,
+      "end": 95105,
+      "label": "PER"
+    },
+    {
+      "text": "Meyerbeer",
+      "start": 95135,
+      "end": 95144,
+      "label": "PER"
+    },
+    {
+      "text": "Gambara",
+      "start": 95164,
+      "end": 95171,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 95383,
+      "end": 95389,
+      "label": "PER"
+    },
+    {
+      "text": "Robert le Diable",
+      "start": 95424,
+      "end": 95440,
+      "label": "PER"
+    },
+    {
+      "text": "Holtei",
+      "start": 95485,
+      "end": 95491,
+      "label": "PER"
+    },
+    {
+      "text": "Vesari",
+      "start": 95733,
+      "end": 95739,
+      "label": "ORG"
+    },
+    {
+      "text": "Schikaneder",
+      "start": 95744,
+      "end": 95755,
+      "label": "LOC"
+    },
+    {
+      "text": "Robert le Diable",
+      "start": 95783,
+      "end": 95799,
+      "label": "PER"
+    },
+    {
+      "text": "Meyerbeer",
+      "start": 95893,
+      "end": 95902,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertram",
+      "start": 95941,
+      "end": 95948,
+      "label": "PER"
+    },
+    {
+      "text": "Alice",
+      "start": 95952,
+      "end": 95957,
+      "label": "PER"
+    },
+    {
+      "text": "Meyerbeer",
+      "start": 96645,
+      "end": 96654,
+      "label": "PER"
+    },
+    {
+      "text": "Taisez",
+      "start": 97575,
+      "end": 97581,
+      "label": "LOC"
+    },
+    {
+      "text": "Gambara",
+      "start": 97601,
+      "end": 97608,
+      "label": "PER"
+    },
+    {
+      "text": "Robert",
+      "start": 97807,
+      "end": 97813,
+      "label": "PER"
+    },
+    {
+      "text": "Gluck",
+      "start": 97956,
+      "end": 97961,
+      "label": "PER"
+    },
+    {
+      "text": "Signor",
+      "start": 98051,
+      "end": 98057,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 98074,
+      "end": 98080,
+      "label": "PER"
+    },
+    {
+      "text": "Gluck",
+      "start": 98128,
+      "end": 98133,
+      "label": "PER"
+    },
+    {
+      "text": "Meyerbeer",
+      "start": 98494,
+      "end": 98503,
+      "label": "LOC"
+    },
+    {
+      "text": "Robert",
+      "start": 99633,
+      "end": 99639,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 99773,
+      "end": 99782,
+      "label": "LOC"
+    },
+    {
+      "text": "Meyerbeer",
+      "start": 99794,
+      "end": 99803,
+      "label": "PER"
+    },
+    {
+      "text": "Mozart",
+      "start": 99855,
+      "end": 99861,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 99922,
+      "end": 99930,
+      "label": "PER"
+    },
+    {
+      "text": "Andrea",
+      "start": 99932,
+      "end": 99938,
+      "label": "PER"
+    }
+  ]
+}

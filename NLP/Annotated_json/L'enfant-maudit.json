@@ -1,0 +1,2014 @@
+{
+  "entities": [
+    {
+      "text": "ENFANT",
+      "start": 2,
+      "end": 8,
+      "label": "MISC"
+    },
+    {
+      "text": "MÈRE",
+      "start": 83,
+      "end": 87,
+      "label": "ORG"
+    },
+    {
+      "text": "Jeanne d'Hérouville",
+      "start": 154,
+      "end": 173,
+      "label": "PER"
+    },
+    {
+      "text": "Forcée",
+      "start": 1323,
+      "end": 1329,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 2975,
+      "end": 2985,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 4437,
+      "end": 4447,
+      "label": "LOC"
+    },
+    {
+      "text": "Bible",
+      "start": 5041,
+      "end": 5046,
+      "label": "MISC"
+    },
+    {
+      "text": "les Métamorphoses",
+      "start": 5055,
+      "end": 5072,
+      "label": "MISC"
+    },
+    {
+      "text": "Ovide",
+      "start": 5075,
+      "end": 5080,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 5661,
+      "end": 5671,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâques",
+      "start": 5796,
+      "end": 5802,
+      "label": "MISC"
+    },
+    {
+      "text": "damas",
+      "start": 6534,
+      "end": 6539,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 6577,
+      "end": 6583,
+      "label": "LOC"
+    },
+    {
+      "text": "Perse",
+      "start": 6726,
+      "end": 6731,
+      "label": "LOC"
+    },
+    {
+      "text": "Heureux",
+      "start": 7251,
+      "end": 7258,
+      "label": "ORG"
+    },
+    {
+      "text": "Église et le Calvinisme",
+      "start": 9386,
+      "end": 9409,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Barthélemi",
+      "start": 10488,
+      "end": 10504,
+      "label": "LOC"
+    },
+    {
+      "text": "Religion",
+      "start": 10659,
+      "end": 10667,
+      "label": "LOC"
+    },
+    {
+      "text": "Belle Romaine",
+      "start": 10944,
+      "end": 10957,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 12394,
+      "end": 12404,
+      "label": "LOC"
+    },
+    {
+      "text": "Carlo Dolci",
+      "start": 12946,
+      "end": 12957,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 13149,
+      "end": 13159,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 13629,
+      "end": 13635,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 13722,
+      "end": 13730,
+      "label": "PER"
+    },
+    {
+      "text": "Ligue",
+      "start": 14028,
+      "end": 14033,
+      "label": "ORG"
+    },
+    {
+      "text": "Roi",
+      "start": 14040,
+      "end": 14043,
+      "label": "PER"
+    },
+    {
+      "text": "Balagny",
+      "start": 14115,
+      "end": 14122,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 14183,
+      "end": 14192,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 14586,
+      "end": 14595,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 14623,
+      "end": 14627,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 14703,
+      "end": 14713,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 14750,
+      "end": 14759,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 14793,
+      "end": 14801,
+      "label": "PER"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 14849,
+      "end": 14860,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 14901,
+      "end": 14910,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 15061,
+      "end": 15082,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Savin",
+      "start": 15268,
+      "end": 15279,
+      "label": "PER"
+    },
+    {
+      "text": "Bayeux",
+      "start": 15402,
+      "end": 15408,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 15437,
+      "end": 15447,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 15723,
+      "end": 15729,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Verneuil",
+      "start": 15937,
+      "end": 15956,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 16268,
+      "end": 16278,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanne",
+      "start": 20018,
+      "end": 20024,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 20788,
+      "end": 20794,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 20821,
+      "end": 20830,
+      "label": "PER"
+    },
+    {
+      "text": "Clarisses",
+      "start": 21210,
+      "end": 21219,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21533,
+      "end": 21537,
+      "label": "MISC"
+    },
+    {
+      "text": "rebec",
+      "start": 22202,
+      "end": 22207,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Jean",
+      "start": 22357,
+      "end": 22367,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23246,
+      "end": 23251,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouen",
+      "start": 23286,
+      "end": 23291,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 23936,
+      "end": 23941,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 25369,
+      "end": 25373,
+      "label": "MISC"
+    },
+    {
+      "text": "George de Chaverny",
+      "start": 25709,
+      "end": 25727,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 26694,
+      "end": 26702,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 26858,
+      "end": 26866,
+      "label": "PER"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 27025,
+      "end": 27040,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 27134,
+      "end": 27143,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 27237,
+      "end": 27247,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaverny",
+      "start": 27578,
+      "end": 27586,
+      "label": "PER"
+    },
+    {
+      "text": "Arrive",
+      "start": 27665,
+      "end": 27671,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne",
+      "start": 27752,
+      "end": 27758,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne",
+      "start": 27916,
+      "end": 27922,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 27946,
+      "end": 27947,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaverny",
+      "start": 28006,
+      "end": 28014,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 28786,
+      "end": 28799,
+      "label": "PER"
+    },
+    {
+      "text": "Visitation de l'ange sur la mère du Sauveur",
+      "start": 29064,
+      "end": 29107,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah ! pauvre Chaverny !",
+      "start": 29530,
+      "end": 29552,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 30332,
+      "end": 30336,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 30925,
+      "end": 30935,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 31157,
+      "end": 31166,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 31173,
+      "end": 31177,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 31197,
+      "end": 31201,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 32173,
+      "end": 32183,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 32790,
+      "end": 32800,
+      "label": "LOC"
+    },
+    {
+      "text": "Selle",
+      "start": 33996,
+      "end": 34001,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 34275,
+      "end": 34283,
+      "label": "PER"
+    },
+    {
+      "text": "Vive Dieu",
+      "start": 34430,
+      "end": 34439,
+      "label": "MISC"
+    },
+    {
+      "text": "Excusez",
+      "start": 34479,
+      "end": 34486,
+      "label": "ORG"
+    },
+    {
+      "text": "Bertrand",
+      "start": 34894,
+      "end": 34902,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lô",
+      "start": 35159,
+      "end": 35167,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 35425,
+      "end": 35433,
+      "label": "PER"
+    },
+    {
+      "text": "Tâchez",
+      "start": 35486,
+      "end": 35492,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes masques",
+      "start": 35817,
+      "end": 35828,
+      "label": "MISC"
+    },
+    {
+      "text": "répéta t",
+      "start": 35906,
+      "end": 35914,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 36641,
+      "end": 36645,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 37022,
+      "end": 37030,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 37727,
+      "end": 37736,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 37758,
+      "end": 37762,
+      "label": "MISC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 41007,
+      "end": 41015,
+      "label": "PER"
+    },
+    {
+      "text": "Examine",
+      "start": 42172,
+      "end": 42179,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 42679,
+      "end": 42684,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 42807,
+      "end": 42815,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 43127,
+      "end": 43137,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 43646,
+      "end": 43652,
+      "label": "MISC"
+    },
+    {
+      "text": "Corneille Agrippa",
+      "start": 44262,
+      "end": 44279,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 44289,
+      "end": 44295,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri II",
+      "start": 44320,
+      "end": 44328,
+      "label": "PER"
+    },
+    {
+      "text": "Nostradamus",
+      "start": 44362,
+      "end": 44373,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 44421,
+      "end": 44441,
+      "label": "PER"
+    },
+    {
+      "text": "Cosme Ruggieri",
+      "start": 44462,
+      "end": 44476,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 44769,
+      "end": 44778,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 44952,
+      "end": 44961,
+      "label": "LOC"
+    },
+    {
+      "text": "Rebouteur",
+      "start": 44966,
+      "end": 44975,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine Beauvouloir",
+      "start": 45411,
+      "end": 45430,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine Beauvouloir",
+      "start": 45815,
+      "end": 45834,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine Beauvouloir",
+      "start": 46361,
+      "end": 46380,
+      "label": "PER"
+    },
+    {
+      "text": "Antoine Beauvouloir",
+      "start": 48166,
+      "end": 48185,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 48233,
+      "end": 48242,
+      "label": "LOC"
+    },
+    {
+      "text": "campagnard normand",
+      "start": 48330,
+      "end": 48348,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 49475,
+      "end": 49481,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 49540,
+      "end": 49551,
+      "label": "LOC"
+    },
+    {
+      "text": "Sinon",
+      "start": 49603,
+      "end": 49608,
+      "label": "PER"
+    },
+    {
+      "text": "In",
+      "start": 49674,
+      "end": 49676,
+      "label": "LOC"
+    },
+    {
+      "text": "Plaignez",
+      "start": 49686,
+      "end": 49694,
+      "label": "LOC"
+    },
+    {
+      "text": "Criez",
+      "start": 49742,
+      "end": 49747,
+      "label": "PER"
+    },
+    {
+      "text": "Aie",
+      "start": 49860,
+      "end": 49863,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 49908,
+      "end": 49916,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 50058,
+      "end": 50069,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 50253,
+      "end": 50266,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 50415,
+      "end": 50426,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 50430,
+      "end": 50434,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 50509,
+      "end": 50518,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 50983,
+      "end": 50989,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 51160,
+      "end": 51164,
+      "label": "MISC"
+    },
+    {
+      "text": "Tête",
+      "start": 51657,
+      "end": 51661,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 51792,
+      "end": 51798,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 51864,
+      "end": 51875,
+      "label": "LOC"
+    },
+    {
+      "text": "Épargnez",
+      "start": 52120,
+      "end": 52128,
+      "label": "LOC"
+    },
+    {
+      "text": "Scélérat",
+      "start": 52163,
+      "end": 52171,
+      "label": "PER"
+    },
+    {
+      "text": "Attendez",
+      "start": 52340,
+      "end": 52348,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 52411,
+      "end": 52422,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 52545,
+      "end": 52555,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 52900,
+      "end": 52911,
+      "label": "LOC"
+    },
+    {
+      "text": "Ayez",
+      "start": 53481,
+      "end": 53485,
+      "label": "ORG"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 54035,
+      "end": 54046,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 54177,
+      "end": 54187,
+      "label": "LOC"
+    },
+    {
+      "text": "Immobile",
+      "start": 54226,
+      "end": 54234,
+      "label": "PER"
+    },
+    {
+      "text": "Misérable",
+      "start": 54501,
+      "end": 54510,
+      "label": "LOC"
+    },
+    {
+      "text": "Royalistes",
+      "start": 54577,
+      "end": 54587,
+      "label": "MISC"
+    },
+    {
+      "text": "Ligueurs",
+      "start": 54605,
+      "end": 54613,
+      "label": "ORG"
+    },
+    {
+      "text": "Normandie",
+      "start": 54792,
+      "end": 54801,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 54843,
+      "end": 54854,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 54943,
+      "end": 54953,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 55281,
+      "end": 55285,
+      "label": "LOC"
+    },
+    {
+      "text": "Bélître",
+      "start": 55468,
+      "end": 55475,
+      "label": "PER"
+    },
+    {
+      "text": "Pâque Dieu",
+      "start": 55624,
+      "end": 55634,
+      "label": "PER"
+    },
+    {
+      "text": "Maître Beauvouloir",
+      "start": 56185,
+      "end": 56203,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 56700,
+      "end": 56711,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 57041,
+      "end": 57049,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 57395,
+      "end": 57399,
+      "label": "MISC"
+    },
+    {
+      "text": "Souffrez",
+      "start": 57489,
+      "end": 57497,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 57664,
+      "end": 57675,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 57956,
+      "end": 57962,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 58936,
+      "end": 58947,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 59042,
+      "end": 59046,
+      "label": "MISC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 59105,
+      "end": 59113,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 59280,
+      "end": 59291,
+      "label": "MISC"
+    },
+    {
+      "text": "Avarice",
+      "start": 59316,
+      "end": 59323,
+      "label": "LOC"
+    },
+    {
+      "text": "Coutume de Normandie",
+      "start": 59330,
+      "end": 59350,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 59571,
+      "end": 59581,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Savin",
+      "start": 59717,
+      "end": 59728,
+      "label": "LOC"
+    },
+    {
+      "text": "Coutume",
+      "start": 60096,
+      "end": 60103,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne d'Hérouville",
+      "start": 61370,
+      "end": 61390,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 61760,
+      "end": 61768,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 61780,
+      "end": 61787,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 62240,
+      "end": 62247,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 62722,
+      "end": 62743,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 62881,
+      "end": 62889,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 63457,
+      "end": 63464,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 63909,
+      "end": 63919,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 64374,
+      "end": 64381,
+      "label": "PER"
+    },
+    {
+      "text": "Défiance",
+      "start": 64454,
+      "end": 64462,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 64589,
+      "end": 64600,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 64794,
+      "end": 64801,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 64934,
+      "end": 64945,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir attendri",
+      "start": 65036,
+      "end": 65056,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 65116,
+      "end": 65123,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 65297,
+      "end": 65304,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 65311,
+      "end": 65329,
+      "label": "PER"
+    },
+    {
+      "text": "mandez moi",
+      "start": 65622,
+      "end": 65632,
+      "label": "ORG"
+    },
+    {
+      "text": "Jeanne",
+      "start": 65707,
+      "end": 65713,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 65797,
+      "end": 65808,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 65933,
+      "end": 65943,
+      "label": "LOC"
+    },
+    {
+      "text": "Belle Romaine",
+      "start": 66069,
+      "end": 66082,
+      "label": "MISC"
+    },
+    {
+      "text": "cardinal de Lorraine",
+      "start": 66119,
+      "end": 66139,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Romaine",
+      "start": 66164,
+      "end": 66177,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouen",
+      "start": 66192,
+      "end": 66197,
+      "label": "LOC"
+    },
+    {
+      "text": "Gertrude",
+      "start": 66431,
+      "end": 66439,
+      "label": "MISC"
+    },
+    {
+      "text": "Dames",
+      "start": 66501,
+      "end": 66506,
+      "label": "LOC"
+    },
+    {
+      "text": "couvent des Clarisses",
+      "start": 66510,
+      "end": 66531,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Savin",
+      "start": 66574,
+      "end": 66585,
+      "label": "LOC"
+    },
+    {
+      "text": "Gertrude",
+      "start": 66639,
+      "end": 66647,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 66697,
+      "end": 66715,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 66721,
+      "end": 66732,
+      "label": "MISC"
+    },
+    {
+      "text": "Gertrude",
+      "start": 67430,
+      "end": 67438,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 67512,
+      "end": 67523,
+      "label": "LOC"
+    },
+    {
+      "text": "Forcalier",
+      "start": 67592,
+      "end": 67601,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 67639,
+      "end": 67649,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 68131,
+      "end": 68138,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 68337,
+      "end": 68345,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 68856,
+      "end": 68863,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 69982,
+      "end": 69989,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70292,
+      "end": 70296,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 70667,
+      "end": 70671,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 70685,
+      "end": 70692,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 71032,
+      "end": 71037,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 71217,
+      "end": 71224,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 71394,
+      "end": 71401,
+      "label": "MISC"
+    },
+    {
+      "text": "ta frêle",
+      "start": 72359,
+      "end": 72367,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 72487,
+      "end": 72491,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 72732,
+      "end": 72736,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges de Chaverny",
+      "start": 72983,
+      "end": 73002,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 73203,
+      "end": 73211,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 73245,
+      "end": 73252,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 73964,
+      "end": 73971,
+      "label": "PER"
+    },
+    {
+      "text": "Champagne",
+      "start": 74793,
+      "end": 74802,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaverny",
+      "start": 74911,
+      "end": 74919,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 75070,
+      "end": 75077,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 75100,
+      "end": 75108,
+      "label": "PER"
+    },
+    {
+      "text": "Chaverny",
+      "start": 75193,
+      "end": 75201,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 75220,
+      "end": 75224,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 75495,
+      "end": 75502,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 75508,
+      "end": 75514,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 75730,
+      "end": 75734,
+      "label": "MISC"
+    },
+    {
+      "text": "Silence",
+      "start": 75834,
+      "end": 75841,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 76219,
+      "end": 76223,
+      "label": "MISC"
+    },
+    {
+      "text": "Levez",
+      "start": 76345,
+      "end": 76350,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 76729,
+      "end": 76734,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 76774,
+      "end": 76780,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne",
+      "start": 77259,
+      "end": 77265,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 77642,
+      "end": 77651,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 77667,
+      "end": 77675,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 78241,
+      "end": 78248,
+      "label": "MISC"
+    },
+    {
+      "text": "Tête",
+      "start": 78252,
+      "end": 78256,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 78850,
+      "end": 78857,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauvages de l'Amérique",
+      "start": 79426,
+      "end": 79448,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 79450,
+      "end": 79457,
+      "label": "MISC"
+    },
+    {
+      "text": "rameau",
+      "start": 79774,
+      "end": 79780,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne",
+      "start": 79897,
+      "end": 79903,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 80332,
+      "end": 80339,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 80397,
+      "end": 80407,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 80447,
+      "end": 80457,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 80572,
+      "end": 80579,
+      "label": "MISC"
+    },
+    {
+      "text": "Maximilien",
+      "start": 80583,
+      "end": 80593,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 80755,
+      "end": 80762,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 80891,
+      "end": 80899,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 80947,
+      "end": 80957,
+      "label": "LOC"
+    },
+    {
+      "text": "Maximilien",
+      "start": 81033,
+      "end": 81043,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 81084,
+      "end": 81095,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 81117,
+      "end": 81138,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 81261,
+      "end": 81271,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 81899,
+      "end": 81906,
+      "label": "MISC"
+    },
+    {
+      "text": "Océan",
+      "start": 81944,
+      "end": 81949,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 82102,
+      "end": 82113,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 82254,
+      "end": 82261,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 82479,
+      "end": 82486,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 82586,
+      "end": 82596,
+      "label": "LOC"
+    },
+    {
+      "text": "Lapon",
+      "start": 82926,
+      "end": 82931,
+      "label": "LOC"
+    },
+    {
+      "text": "château Pierre de Sebonde",
+      "start": 83439,
+      "end": 83464,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 83511,
+      "end": 83521,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 83562,
+      "end": 83583,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 83710,
+      "end": 83717,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 83756,
+      "end": 83767,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 83994,
+      "end": 84004,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne",
+      "start": 84059,
+      "end": 84065,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 84083,
+      "end": 84090,
+      "label": "PER"
+    },
+    {
+      "text": "Pétrarque",
+      "start": 84126,
+      "end": 84135,
+      "label": "PER"
+    },
+    {
+      "text": "Divine Comédie",
+      "start": 84176,
+      "end": 84190,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 84208,
+      "end": 84215,
+      "label": "PER"
+    },
+    {
+      "text": "Sebonde",
+      "start": 84567,
+      "end": 84574,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 84576,
+      "end": 84583,
+      "label": "MISC"
+    },
+    {
+      "text": "Chaverny",
+      "start": 84680,
+      "end": 84688,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 84855,
+      "end": 84862,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 85419,
+      "end": 85426,
+      "label": "MISC"
+    },
+    {
+      "text": "la Force",
+      "start": 85715,
+      "end": 85723,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 85732,
+      "end": 85739,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 86076,
+      "end": 86083,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre de Sebonde",
+      "start": 86164,
+      "end": 86181,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 86271,
+      "end": 86282,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 86407,
+      "end": 86414,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 87023,
+      "end": 87030,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 87057,
+      "end": 87064,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 87378,
+      "end": 87385,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 87462,
+      "end": 87468,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 87578,
+      "end": 87585,
+      "label": "PER"
+    },
+    {
+      "text": "Ordres",
+      "start": 87779,
+      "end": 87785,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 87902,
+      "end": 87909,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges de Chaverny",
+      "start": 87989,
+      "end": 88008,
+      "label": "PER"
+    },
+    {
+      "text": "Réduite",
+      "start": 88010,
+      "end": 88017,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 88747,
+      "end": 88754,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 88967,
+      "end": 88978,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 89108,
+      "end": 89115,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 89245,
+      "end": 89252,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 89359,
+      "end": 89366,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 89413,
+      "end": 89420,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges de Chaverny",
+      "start": 89491,
+      "end": 89510,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 91272,
+      "end": 91280,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 91446,
+      "end": 91451,
+      "label": "PER"
+    },
+    {
+      "text": "soleil",
+      "start": 91492,
+      "end": 91498,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 91540,
+      "end": 91547,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 91681,
+      "end": 91691,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 91711,
+      "end": 91718,
+      "label": "PER"
+    },
+    {
+      "text": "poëte",
+      "start": 92769,
+      "end": 92774,
+      "label": "PER"
+    },
+    {
+      "text": "Verbe divin",
+      "start": 92974,
+      "end": 92985,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 93154,
+      "end": 93161,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 93317,
+      "end": 93322,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 93852,
+      "end": 93859,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 94205,
+      "end": 94212,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 95130,
+      "end": 95151,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 95744,
+      "end": 95751,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 95926,
+      "end": 95937,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 96127,
+      "end": 96137,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 96140,
+      "end": 96147,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 96489,
+      "end": 96496,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 96500,
+      "end": 96510,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 96520,
+      "end": 96527,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 96541,
+      "end": 96551,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 96601,
+      "end": 96608,
+      "label": "MISC"
+    },
+    {
+      "text": "Maximilien",
+      "start": 96951,
+      "end": 96961,
+      "label": "PER"
+    },
+    {
+      "text": "Bertrand",
+      "start": 97029,
+      "end": 97037,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 97079,
+      "end": 97089,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 97097,
+      "end": 97104,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Saint Sever",
+      "start": 97217,
+      "end": 97239,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 97257,
+      "end": 97267,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 97348,
+      "end": 97352,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 97383,
+      "end": 97390,
+      "label": "MISC"
+    },
+    {
+      "text": "Étienne",
+      "start": 97573,
+      "end": 97580,
+      "label": "MISC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 98266,
+      "end": 98276,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanne de Saint Savin",
+      "start": 98327,
+      "end": 98348,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 99108,
+      "end": 99118,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 99334,
+      "end": 99345,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérouville",
+      "start": 99381,
+      "end": 99391,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 99414,
+      "end": 99423,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvouloir",
+      "start": 99657,
+      "end": 99668,
+      "label": "LOC"
+    }
+  ]
+}

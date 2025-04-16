@@ -1,0 +1,1702 @@
+{
+  "entities": [
+    {
+      "text": "BOURSE",
+      "start": 3,
+      "end": 9,
+      "label": "LOC"
+    },
+    {
+      "text": "SOFKA",
+      "start": 19,
+      "end": 24,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 52,
+      "end": 64,
+      "label": "PER"
+    },
+    {
+      "text": "Votre serviteur",
+      "start": 476,
+      "end": 491,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 496,
+      "end": 502,
+      "label": "MISC"
+    },
+    {
+      "text": "Prudhon",
+      "start": 3775,
+      "end": 3782,
+      "label": "PER"
+    },
+    {
+      "text": "Girodet",
+      "start": 3820,
+      "end": 3827,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 4686,
+      "end": 4694,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 5223,
+      "end": 5230,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 5357,
+      "end": 5360,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 5384,
+      "end": 5388,
+      "label": "MISC"
+    },
+    {
+      "text": "Demain, monsieur",
+      "start": 5758,
+      "end": 5774,
+      "label": "MISC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 6969,
+      "end": 6977,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 7095,
+      "end": 7102,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 7181,
+      "end": 7187,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 7303,
+      "end": 7309,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 7333,
+      "end": 7338,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Suresne",
+      "start": 7742,
+      "end": 7756,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 7853,
+      "end": 7867,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 7968,
+      "end": 7977,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Schinner",
+      "start": 8657,
+      "end": 8678,
+      "label": "PER"
+    },
+    {
+      "text": "paya t",
+      "start": 9637,
+      "end": 9643,
+      "label": "PER"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 9746,
+      "end": 9774,
+      "label": "ORG"
+    },
+    {
+      "text": "Schinner",
+      "start": 9912,
+      "end": 9920,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte Schinner",
+      "start": 10002,
+      "end": 10020,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 10361,
+      "end": 10369,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Madeleine",
+      "start": 11841,
+      "end": 11860,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte Schinner",
+      "start": 11862,
+      "end": 11880,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 12388,
+      "end": 12392,
+      "label": "MISC"
+    },
+    {
+      "text": "Leseigneur",
+      "start": 12433,
+      "end": 12443,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 13157,
+      "end": 13166,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 13168,
+      "end": 13180,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 13382,
+      "end": 13391,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 13641,
+      "end": 13650,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 14013,
+      "end": 14021,
+      "label": "PER"
+    },
+    {
+      "text": "retourna t",
+      "start": 14401,
+      "end": 14411,
+      "label": "PER"
+    },
+    {
+      "text": "Leseigneur",
+      "start": 15000,
+      "end": 15010,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 15246,
+      "end": 15255,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte Schinner",
+      "start": 16178,
+      "end": 16196,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 16592,
+      "end": 16600,
+      "label": "LOC"
+    },
+    {
+      "text": "Gymnase",
+      "start": 16889,
+      "end": 16896,
+      "label": "MISC"
+    },
+    {
+      "text": "Porte Saint Martin",
+      "start": 16905,
+      "end": 16923,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 16951,
+      "end": 16960,
+      "label": "PER"
+    },
+    {
+      "text": "Molineux",
+      "start": 17098,
+      "end": 17106,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 17616,
+      "end": 17625,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 18145,
+      "end": 18154,
+      "label": "PER"
+    },
+    {
+      "text": "Réveillon",
+      "start": 18422,
+      "end": 18431,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 18571,
+      "end": 18580,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 18585,
+      "end": 18591,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 19374,
+      "end": 19383,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 20372,
+      "end": 20380,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 20485,
+      "end": 20494,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 21364,
+      "end": 21373,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 21400,
+      "end": 21408,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 22027,
+      "end": 22036,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 22078,
+      "end": 22086,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Leseigneur",
+      "start": 22184,
+      "end": 22201,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 22207,
+      "end": 22216,
+      "label": "PER"
+    },
+    {
+      "text": "Aubusson",
+      "start": 22555,
+      "end": 22563,
+      "label": "PER"
+    },
+    {
+      "text": "madame Leseigneur",
+      "start": 22964,
+      "end": 22981,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 23444,
+      "end": 23449,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 23455,
+      "end": 23460,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 23754,
+      "end": 23760,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 24167,
+      "end": 24176,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 24598,
+      "end": 24606,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 24645,
+      "end": 24653,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 24887,
+      "end": 24895,
+      "label": "PER"
+    },
+    {
+      "text": "cachemire",
+      "start": 25010,
+      "end": 25019,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Leseigneur",
+      "start": 25167,
+      "end": 25184,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 25627,
+      "end": 25636,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 26498,
+      "end": 26506,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 26646,
+      "end": 26655,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 28135,
+      "end": 28143,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 28308,
+      "end": 28316,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 28431,
+      "end": 28439,
+      "label": "PER"
+    },
+    {
+      "text": "respira t",
+      "start": 28491,
+      "end": 28500,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 28927,
+      "end": 28935,
+      "label": "PER"
+    },
+    {
+      "text": "Calcutta",
+      "start": 28958,
+      "end": 28966,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 29486,
+      "end": 29492,
+      "label": "PER"
+    },
+    {
+      "text": "Accordez",
+      "start": 29857,
+      "end": 29865,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 30208,
+      "end": 30216,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 30301,
+      "end": 30310,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Leseigneur",
+      "start": 30610,
+      "end": 30627,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 30988,
+      "end": 30996,
+      "label": "LOC"
+    },
+    {
+      "text": "Batavia",
+      "start": 31019,
+      "end": 31026,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 31134,
+      "end": 31138,
+      "label": "LOC"
+    },
+    {
+      "text": "Revenge",
+      "start": 31194,
+      "end": 31201,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 31379,
+      "end": 31385,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 31387,
+      "end": 31396,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 31564,
+      "end": 31572,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 31830,
+      "end": 31838,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 32034,
+      "end": 32041,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 32105,
+      "end": 32113,
+      "label": "PER"
+    },
+    {
+      "text": "Leseigneur de Rouville",
+      "start": 32126,
+      "end": 32148,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 32188,
+      "end": 32196,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 32219,
+      "end": 32228,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 32322,
+      "end": 32330,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 32392,
+      "end": 32400,
+      "label": "PER"
+    },
+    {
+      "text": "alluma",
+      "start": 32637,
+      "end": 32643,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 32838,
+      "end": 32847,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 32929,
+      "end": 32937,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 33093,
+      "end": 33101,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 33293,
+      "end": 33304,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 34871,
+      "end": 34880,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 35078,
+      "end": 35085,
+      "label": "PER"
+    },
+    {
+      "text": "Rivarol",
+      "start": 35583,
+      "end": 35590,
+      "label": "LOC"
+    },
+    {
+      "text": "Champcenetz",
+      "start": 35595,
+      "end": 35606,
+      "label": "LOC"
+    },
+    {
+      "text": "lune",
+      "start": 35630,
+      "end": 35634,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenait",
+      "start": 36117,
+      "end": 36123,
+      "label": "PER"
+    },
+    {
+      "text": "Trim",
+      "start": 36256,
+      "end": 36260,
+      "label": "MISC"
+    },
+    {
+      "text": "Tobie",
+      "start": 36282,
+      "end": 36287,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouville",
+      "start": 36325,
+      "end": 36333,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 36416,
+      "end": 36428,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouville",
+      "start": 36651,
+      "end": 36659,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 36793,
+      "end": 36801,
+      "label": "PER"
+    },
+    {
+      "text": "Guérin",
+      "start": 36925,
+      "end": 36931,
+      "label": "PER"
+    },
+    {
+      "text": "Didon",
+      "start": 36954,
+      "end": 36959,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 37157,
+      "end": 37165,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 37469,
+      "end": 37478,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 37480,
+      "end": 37488,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 37780,
+      "end": 37785,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 37820,
+      "end": 37828,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 38079,
+      "end": 38090,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 38092,
+      "end": 38101,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 38402,
+      "end": 38410,
+      "label": "PER"
+    },
+    {
+      "text": "Admirable",
+      "start": 38823,
+      "end": 38832,
+      "label": "LOC"
+    },
+    {
+      "text": "Féconde",
+      "start": 38896,
+      "end": 38903,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 39490,
+      "end": 39495,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouville",
+      "start": 39583,
+      "end": 39591,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 39674,
+      "end": 39682,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 39768,
+      "end": 39774,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 39811,
+      "end": 39819,
+      "label": "LOC"
+    },
+    {
+      "text": "Quarante francs",
+      "start": 40031,
+      "end": 40046,
+      "label": "MISC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 40664,
+      "end": 40672,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rouville",
+      "start": 40918,
+      "end": 40936,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 41089,
+      "end": 41097,
+      "label": "LOC"
+    },
+    {
+      "text": "Leseigneur",
+      "start": 41113,
+      "end": 41123,
+      "label": "PER"
+    },
+    {
+      "text": "entrez",
+      "start": 41159,
+      "end": 41165,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 41175,
+      "end": 41183,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 41349,
+      "end": 41357,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 42162,
+      "end": 42171,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 42515,
+      "end": 42523,
+      "label": "PER"
+    },
+    {
+      "text": "Leseigneur",
+      "start": 42844,
+      "end": 42854,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 43294,
+      "end": 43303,
+      "label": "PER"
+    },
+    {
+      "text": "travailla t",
+      "start": 43523,
+      "end": 43534,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 43653,
+      "end": 43661,
+      "label": "LOC"
+    },
+    {
+      "text": "piquet",
+      "start": 43875,
+      "end": 43881,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 43968,
+      "end": 43976,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 44039,
+      "end": 44048,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 44185,
+      "end": 44193,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 44335,
+      "end": 44343,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 44728,
+      "end": 44736,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 44983,
+      "end": 44992,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 45099,
+      "end": 45107,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 45418,
+      "end": 45426,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 45664,
+      "end": 45672,
+      "label": "LOC"
+    },
+    {
+      "text": "Leseigneur",
+      "start": 45700,
+      "end": 45710,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 45820,
+      "end": 45829,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 45957,
+      "end": 45965,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rouville",
+      "start": 46058,
+      "end": 46076,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46178,
+      "end": 46183,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 47314,
+      "end": 47322,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 47460,
+      "end": 47469,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 47778,
+      "end": 47786,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 47988,
+      "end": 47997,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 48152,
+      "end": 48161,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 48162,
+      "end": 48170,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 48553,
+      "end": 48559,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 48574,
+      "end": 48582,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 48722,
+      "end": 48730,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 48785,
+      "end": 48794,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 48795,
+      "end": 48803,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 48877,
+      "end": 48886,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde monta",
+      "start": 48888,
+      "end": 48902,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 48947,
+      "end": 48956,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 49431,
+      "end": 49440,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 49627,
+      "end": 49635,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 49810,
+      "end": 49819,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 49948,
+      "end": 49957,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 49964,
+      "end": 49968,
+      "label": "MISC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 50237,
+      "end": 50246,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rouville",
+      "start": 50332,
+      "end": 50350,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 50509,
+      "end": 50517,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 50692,
+      "end": 50701,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 50708,
+      "end": 50714,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma foi !",
+      "start": 50850,
+      "end": 50858,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouville",
+      "start": 51017,
+      "end": 51025,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 51164,
+      "end": 51173,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 51378,
+      "end": 51386,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 51520,
+      "end": 51528,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Rouville",
+      "start": 51610,
+      "end": 51628,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 51888,
+      "end": 51897,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Rouville",
+      "start": 51932,
+      "end": 51950,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 52340,
+      "end": 52348,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 52650,
+      "end": 52658,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 52703,
+      "end": 52712,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 52959,
+      "end": 52967,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 53185,
+      "end": 53193,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 53595,
+      "end": 53603,
+      "label": "LOC"
+    },
+    {
+      "text": "louis",
+      "start": 53849,
+      "end": 53854,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 53945,
+      "end": 53954,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 54763,
+      "end": 54771,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 55162,
+      "end": 55170,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 55341,
+      "end": 55348,
+      "label": "PER"
+    },
+    {
+      "text": "Ma bourse sera tombée à terre",
+      "start": 55563,
+      "end": 55592,
+      "label": "MISC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 55927,
+      "end": 55935,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 57424,
+      "end": 57433,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 57694,
+      "end": 57703,
+      "label": "PER"
+    },
+    {
+      "text": "François Souchet",
+      "start": 57729,
+      "end": 57745,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 57830,
+      "end": 57838,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 57886,
+      "end": 57895,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Suresne",
+      "start": 58111,
+      "end": 58125,
+      "label": "LOC"
+    },
+    {
+      "text": "Halte",
+      "start": 58181,
+      "end": 58186,
+      "label": "ORG"
+    },
+    {
+      "text": "Souchet",
+      "start": 58209,
+      "end": 58216,
+      "label": "PER"
+    },
+    {
+      "text": "Assomption",
+      "start": 58279,
+      "end": 58289,
+      "label": "MISC"
+    },
+    {
+      "text": "Brrr",
+      "start": 58445,
+      "end": 58449,
+      "label": "PER"
+    },
+    {
+      "text": "Souchet",
+      "start": 58781,
+      "end": 58788,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 58792,
+      "end": 58800,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 59086,
+      "end": 59095,
+      "label": "PER"
+    },
+    {
+      "text": "Souchet",
+      "start": 59613,
+      "end": 59620,
+      "label": "PER"
+    },
+    {
+      "text": "As",
+      "start": 59624,
+      "end": 59626,
+      "label": "LOC"
+    },
+    {
+      "text": "Assomption",
+      "start": 59677,
+      "end": 59687,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 59697,
+      "end": 59710,
+      "label": "PER"
+    },
+    {
+      "text": "Gros",
+      "start": 59740,
+      "end": 59744,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 59748,
+      "end": 59752,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 59843,
+      "end": 59849,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 59888,
+      "end": 59897,
+      "label": "PER"
+    },
+    {
+      "text": "viens",
+      "start": 59920,
+      "end": 59925,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 60203,
+      "end": 60211,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 60473,
+      "end": 60481,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouville",
+      "start": 60586,
+      "end": 60594,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier des Grieux",
+      "start": 60691,
+      "end": 60711,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 61414,
+      "end": 61423,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 61964,
+      "end": 61972,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 62317,
+      "end": 62326,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 62584,
+      "end": 62592,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 62847,
+      "end": 62855,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 63366,
+      "end": 63374,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rouville",
+      "start": 63850,
+      "end": 63868,
+      "label": "PER"
+    },
+    {
+      "text": "Eh",
+      "start": 63980,
+      "end": 63982,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 63988,
+      "end": 63992,
+      "label": "MISC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 64056,
+      "end": 64064,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 64382,
+      "end": 64391,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 64525,
+      "end": 64533,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 65159,
+      "end": 65167,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 65171,
+      "end": 65175,
+      "label": "MISC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 65203,
+      "end": 65211,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 65366,
+      "end": 65375,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 65664,
+      "end": 65672,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 65696,
+      "end": 65705,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 65871,
+      "end": 65879,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 66144,
+      "end": 66152,
+      "label": "LOC"
+    },
+    {
+      "text": "Faisons",
+      "start": 66156,
+      "end": 66163,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 66215,
+      "end": 66225,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 66338,
+      "end": 66346,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 66614,
+      "end": 66622,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Rouville",
+      "start": 66739,
+      "end": 66757,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 66857,
+      "end": 66866,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 67100,
+      "end": 67108,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 67276,
+      "end": 67285,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 67419,
+      "end": 67424,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 67510,
+      "end": 67518,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 67737,
+      "end": 67746,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 67788,
+      "end": 67796,
+      "label": "LOC"
+    },
+    {
+      "text": "mesquin",
+      "start": 67913,
+      "end": 67920,
+      "label": "LOC"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 68069,
+      "end": 68077,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 68249,
+      "end": 68257,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 68311,
+      "end": 68320,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 68321,
+      "end": 68329,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Schinner",
+      "start": 68485,
+      "end": 68500,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 68600,
+      "end": 68609,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 68694,
+      "end": 68702,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 68792,
+      "end": 68802,
+      "label": "LOC"
+    },
+    {
+      "text": "Animé",
+      "start": 68971,
+      "end": 68976,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Schinner",
+      "start": 69013,
+      "end": 69028,
+      "label": "PER"
+    },
+    {
+      "text": "madame Schinner",
+      "start": 69180,
+      "end": 69195,
+      "label": "PER"
+    },
+    {
+      "text": "Rouville",
+      "start": 69216,
+      "end": 69224,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 69255,
+      "end": 69265,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 69283,
+      "end": 69288,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 69326,
+      "end": 69336,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 69338,
+      "end": 69347,
+      "label": "PER"
+    },
+    {
+      "text": "Adélaïde",
+      "start": 69349,
+      "end": 69357,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 69438,
+      "end": 69443,
+      "label": "LOC"
+    }
+  ]
+}

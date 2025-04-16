@@ -1,0 +1,4252 @@
+{
+  "entities": [
+    {
+      "text": "DÉCADENCE",
+      "start": 33,
+      "end": 42,
+      "label": "MISC"
+    },
+    {
+      "text": "CÉSAR BIROTTEAU",
+      "start": 46,
+      "end": 61,
+      "label": "ORG"
+    },
+    {
+      "text": "MARCHAND",
+      "start": 63,
+      "end": 71,
+      "label": "MISC"
+    },
+    {
+      "text": "PARFUMEUR",
+      "start": 72,
+      "end": 81,
+      "label": "ORG"
+    },
+    {
+      "text": "ADJOINT",
+      "start": 83,
+      "end": 90,
+      "label": "ORG"
+    },
+    {
+      "text": "DEUXIÈME ARRONDISSEMENT DE PARIS",
+      "start": 103,
+      "end": 135,
+      "label": "LOC"
+    },
+    {
+      "text": "CHEVALIER",
+      "start": 137,
+      "end": 146,
+      "label": "ORG"
+    },
+    {
+      "text": "LÉGION D'HONNEUR",
+      "start": 153,
+      "end": 169,
+      "label": "ORG"
+    },
+    {
+      "text": "ETC",
+      "start": 171,
+      "end": 174,
+      "label": "ORG"
+    },
+    {
+      "text": "LAMARTINE",
+      "start": 205,
+      "end": 214,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 234,
+      "end": 240,
+      "label": "MISC"
+    },
+    {
+      "text": "APOGÉE",
+      "start": 262,
+      "end": 268,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 325,
+      "end": 337,
+      "label": "PER"
+    },
+    {
+      "text": "Halle",
+      "start": 407,
+      "end": 412,
+      "label": "LOC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 630,
+      "end": 645,
+      "label": "PER"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 684,
+      "end": 697,
+      "label": "LOC"
+    },
+    {
+      "text": "Physiologie",
+      "start": 1785,
+      "end": 1796,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Birotteau",
+      "start": 2192,
+      "end": 2208,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 2905,
+      "end": 2914,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 3303,
+      "end": 3307,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah",
+      "start": 3747,
+      "end": 3750,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau !",
+      "start": 4413,
+      "end": 4424,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 4641,
+      "end": 4654,
+      "label": "PER"
+    },
+    {
+      "text": "terre",
+      "start": 4741,
+      "end": 4746,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 5101,
+      "end": 5105,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 5112,
+      "end": 5116,
+      "label": "MISC"
+    },
+    {
+      "text": "Césarine",
+      "start": 5426,
+      "end": 5434,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 5443,
+      "end": 5451,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 5454,
+      "end": 5462,
+      "label": "PER"
+    },
+    {
+      "text": "PETIT MATELOT",
+      "start": 5557,
+      "end": 5570,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Birotteau",
+      "start": 6400,
+      "end": 6416,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 6994,
+      "end": 7003,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7006,
+      "end": 7015,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 7018,
+      "end": 7024,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 7351,
+      "end": 7356,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 7417,
+      "end": 7426,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 7520,
+      "end": 7536,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 7554,
+      "end": 7562,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 7564,
+      "end": 7569,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7803,
+      "end": 7812,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 7895,
+      "end": 7901,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 7973,
+      "end": 7982,
+      "label": "PER"
+    },
+    {
+      "text": "Étais",
+      "start": 8062,
+      "end": 8067,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 8295,
+      "end": 8300,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah",
+      "start": 8436,
+      "end": 8438,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 8443,
+      "end": 8452,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 8724,
+      "end": 8732,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 8786,
+      "end": 8795,
+      "label": "PER"
+    },
+    {
+      "text": "Donner un bal !",
+      "start": 8852,
+      "end": 8867,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Richelieu",
+      "start": 9222,
+      "end": 9238,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 9277,
+      "end": 9286,
+      "label": "LOC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 9306,
+      "end": 9320,
+      "label": "LOC"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 9361,
+      "end": 9375,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 9706,
+      "end": 9715,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 9764,
+      "end": 9773,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 9900,
+      "end": 9909,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 9923,
+      "end": 9932,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 10100,
+      "end": 10116,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 10155,
+      "end": 10159,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 10178,
+      "end": 10187,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 10308,
+      "end": 10322,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 10354,
+      "end": 10363,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 10567,
+      "end": 10577,
+      "label": "PER"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 10875,
+      "end": 10889,
+      "label": "LOC"
+    },
+    {
+      "text": "Examen",
+      "start": 10891,
+      "end": 10897,
+      "label": "LOC"
+    },
+    {
+      "text": "Le roi",
+      "start": 11012,
+      "end": 11018,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 11065,
+      "end": 11070,
+      "label": "MISC"
+    },
+    {
+      "text": "auguste",
+      "start": 11209,
+      "end": 11216,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 11505,
+      "end": 11515,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 11934,
+      "end": 11938,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 12136,
+      "end": 12140,
+      "label": "MISC"
+    },
+    {
+      "text": "REINE DES ROSES",
+      "start": 12287,
+      "end": 12302,
+      "label": "ORG"
+    },
+    {
+      "text": "CÉSAR BIROTTEAU",
+      "start": 12331,
+      "end": 12346,
+      "label": "MISC"
+    },
+    {
+      "text": "MARCHAND",
+      "start": 12348,
+      "end": 12356,
+      "label": "MISC"
+    },
+    {
+      "text": "PARFUMEUR",
+      "start": 12357,
+      "end": 12366,
+      "label": "ORG"
+    },
+    {
+      "text": "SUCCESSEUR",
+      "start": 12368,
+      "end": 12378,
+      "label": "ORG"
+    },
+    {
+      "text": "RAGON",
+      "start": 12382,
+      "end": 12387,
+      "label": "ORG"
+    },
+    {
+      "text": "Parfumeries",
+      "start": 12412,
+      "end": 12423,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 12916,
+      "end": 12924,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 13019,
+      "end": 13025,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 13389,
+      "end": 13400,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 13412,
+      "end": 13424,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 13800,
+      "end": 13805,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 13807,
+      "end": 13816,
+      "label": "LOC"
+    },
+    {
+      "text": "Souviens",
+      "start": 13934,
+      "end": 13942,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 14383,
+      "end": 14398,
+      "label": "PER"
+    },
+    {
+      "text": "Laisse",
+      "start": 14420,
+      "end": 14426,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésorières",
+      "start": 15042,
+      "end": 15053,
+      "label": "MISC"
+    },
+    {
+      "text": "Chinon",
+      "start": 15082,
+      "end": 15088,
+      "label": "LOC"
+    },
+    {
+      "text": "Souviens",
+      "start": 15357,
+      "end": 15365,
+      "label": "LOC"
+    },
+    {
+      "text": "SULTANES",
+      "start": 15481,
+      "end": 15489,
+      "label": "MISC"
+    },
+    {
+      "text": "EAU",
+      "start": 15495,
+      "end": 15498,
+      "label": "LOC"
+    },
+    {
+      "text": "CARMINATIVE",
+      "start": 15499,
+      "end": 15510,
+      "label": "ORG"
+    },
+    {
+      "text": "Trésorières",
+      "start": 15597,
+      "end": 15608,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16058,
+      "end": 16063,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinon",
+      "start": 16097,
+      "end": 16103,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésorières",
+      "start": 16363,
+      "end": 16374,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 16549,
+      "end": 16554,
+      "label": "LOC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 16588,
+      "end": 16603,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 16802,
+      "end": 16808,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 17113,
+      "end": 17118,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 17234,
+      "end": 17240,
+      "label": "PER"
+    },
+    {
+      "text": "Xandrot",
+      "start": 17251,
+      "end": 17258,
+      "label": "PER"
+    },
+    {
+      "text": "Xandrot",
+      "start": 17469,
+      "end": 17476,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 17512,
+      "end": 17518,
+      "label": "PER"
+    },
+    {
+      "text": "Crottat",
+      "start": 17561,
+      "end": 17568,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 17636,
+      "end": 17644,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 17730,
+      "end": 17735,
+      "label": "LOC"
+    },
+    {
+      "text": "Hein",
+      "start": 17772,
+      "end": 17776,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 17867,
+      "end": 17871,
+      "label": "MISC"
+    },
+    {
+      "text": "Pérou",
+      "start": 17884,
+      "end": 17889,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 18171,
+      "end": 18177,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 18233,
+      "end": 18238,
+      "label": "MISC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 18255,
+      "end": 18265,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 18336,
+      "end": 18345,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 18387,
+      "end": 18393,
+      "label": "PER"
+    },
+    {
+      "text": "Moi je fournis trois cent mille francs",
+      "start": 18610,
+      "end": 18648,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 18726,
+      "end": 18732,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 18922,
+      "end": 18932,
+      "label": "LOC"
+    },
+    {
+      "text": "Ragon",
+      "start": 18946,
+      "end": 18951,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 18960,
+      "end": 18966,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Claparon",
+      "start": 18998,
+      "end": 19014,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 19224,
+      "end": 19230,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 19591,
+      "end": 19599,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 19671,
+      "end": 19675,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 19710,
+      "end": 19719,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 19774,
+      "end": 19790,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 19891,
+      "end": 19897,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 20010,
+      "end": 20016,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Claparon",
+      "start": 20198,
+      "end": 20214,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 20445,
+      "end": 20451,
+      "label": "PER"
+    },
+    {
+      "text": "Huile Comagène",
+      "start": 20629,
+      "end": 20643,
+      "label": "PER"
+    },
+    {
+      "text": "Livingston",
+      "start": 20646,
+      "end": 20656,
+      "label": "LOC"
+    },
+    {
+      "text": "HUILE",
+      "start": 21065,
+      "end": 21070,
+      "label": "ORG"
+    },
+    {
+      "text": "Macassar",
+      "start": 21119,
+      "end": 21127,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 21132,
+      "end": 21137,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 21424,
+      "end": 21429,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 21983,
+      "end": 21998,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 22081,
+      "end": 22096,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 22251,
+      "end": 22258,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des",
+      "start": 22293,
+      "end": 22300,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombards",
+      "start": 22301,
+      "end": 22309,
+      "label": "LOC"
+    },
+    {
+      "text": "petit Anselme",
+      "start": 22328,
+      "end": 22341,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 22412,
+      "end": 22424,
+      "label": "PER"
+    },
+    {
+      "text": "Ragonnins",
+      "start": 22491,
+      "end": 22500,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 22561,
+      "end": 22566,
+      "label": "MISC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 22654,
+      "end": 22664,
+      "label": "MISC"
+    },
+    {
+      "text": "Ragon",
+      "start": 22762,
+      "end": 22767,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 22887,
+      "end": 22893,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 22909,
+      "end": 22914,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22997,
+      "end": 23002,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 23171,
+      "end": 23176,
+      "label": "LOC"
+    },
+    {
+      "text": "Foi",
+      "start": 23212,
+      "end": 23215,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 23511,
+      "end": 23516,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte des Sultanes",
+      "start": 23682,
+      "end": 23699,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 23706,
+      "end": 23709,
+      "label": "LOC"
+    },
+    {
+      "text": "Ragon",
+      "start": 24239,
+      "end": 24244,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 24686,
+      "end": 24693,
+      "label": "PER"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 24879,
+      "end": 24907,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 25053,
+      "end": 25058,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 25084,
+      "end": 25089,
+      "label": "PER"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 25550,
+      "end": 25566,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 25711,
+      "end": 25720,
+      "label": "PER"
+    },
+    {
+      "text": "Trésorières",
+      "start": 26014,
+      "end": 26025,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 26192,
+      "end": 26200,
+      "label": "PER"
+    },
+    {
+      "text": "Imogène",
+      "start": 26216,
+      "end": 26223,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 26260,
+      "end": 26265,
+      "label": "LOC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 26588,
+      "end": 26598,
+      "label": "MISC"
+    },
+    {
+      "text": "Braschon",
+      "start": 26788,
+      "end": 26796,
+      "label": "LOC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 27001,
+      "end": 27015,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 27019,
+      "end": 27027,
+      "label": "MISC"
+    },
+    {
+      "text": "Chinon",
+      "start": 27197,
+      "end": 27203,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27392,
+      "end": 27397,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 27442,
+      "end": 27451,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 27470,
+      "end": 27476,
+      "label": "PER"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 27482,
+      "end": 27497,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 27503,
+      "end": 27509,
+      "label": "PER"
+    },
+    {
+      "text": "Cochin",
+      "start": 27515,
+      "end": 27521,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 27527,
+      "end": 27536,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 27542,
+      "end": 27547,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 27553,
+      "end": 27561,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 27567,
+      "end": 27575,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 27581,
+      "end": 27588,
+      "label": "LOC"
+    },
+    {
+      "text": "Matifat",
+      "start": 27594,
+      "end": 27601,
+      "label": "LOC"
+    },
+    {
+      "text": "Sûre",
+      "start": 27735,
+      "end": 27739,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Rohault",
+      "start": 27932,
+      "end": 27948,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 28191,
+      "end": 28201,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Claparon",
+      "start": 28209,
+      "end": 28225,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 28229,
+      "end": 28235,
+      "label": "PER"
+    },
+    {
+      "text": "Pâte des Sultanes",
+      "start": 28272,
+      "end": 28289,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 28340,
+      "end": 28346,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 28466,
+      "end": 28470,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 28809,
+      "end": 28814,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Jean",
+      "start": 29383,
+      "end": 29393,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 29554,
+      "end": 29560,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 29650,
+      "end": 29656,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 29760,
+      "end": 29766,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu !",
+      "start": 30154,
+      "end": 30164,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 30253,
+      "end": 30259,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 30304,
+      "end": 30309,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 30318,
+      "end": 30323,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 30348,
+      "end": 30354,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 30472,
+      "end": 30480,
+      "label": "PER"
+    },
+    {
+      "text": "Laisse",
+      "start": 30662,
+      "end": 30668,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 30689,
+      "end": 30695,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 30945,
+      "end": 30950,
+      "label": "MISC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 30954,
+      "end": 30964,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 31159,
+      "end": 31175,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 31222,
+      "end": 31227,
+      "label": "PER"
+    },
+    {
+      "text": "Sachez",
+      "start": 31508,
+      "end": 31514,
+      "label": "LOC"
+    },
+    {
+      "text": "Constance Barbe Joséphine Pillerault",
+      "start": 31516,
+      "end": 31552,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 31582,
+      "end": 31597,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 31809,
+      "end": 31815,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 31828,
+      "end": 31833,
+      "label": "PER"
+    },
+    {
+      "text": "Pâte des Sultanes et ton Eau Carminative",
+      "start": 32155,
+      "end": 32195,
+      "label": "MISC"
+    },
+    {
+      "text": "Donne ton bal",
+      "start": 32395,
+      "end": 32408,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 32535,
+      "end": 32544,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 32856,
+      "end": 32861,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 32942,
+      "end": 32950,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 33045,
+      "end": 33054,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 33146,
+      "end": 33155,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 33224,
+      "end": 33229,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu !",
+      "start": 33457,
+      "end": 33467,
+      "label": "MISC"
+    },
+    {
+      "text": "Césarine",
+      "start": 33508,
+      "end": 33516,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 33621,
+      "end": 33625,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 33656,
+      "end": 33665,
+      "label": "PER"
+    },
+    {
+      "text": "Double Pâte",
+      "start": 33786,
+      "end": 33797,
+      "label": "MISC"
+    },
+    {
+      "text": "Sultanes",
+      "start": 33802,
+      "end": 33810,
+      "label": "MISC"
+    },
+    {
+      "text": "Héro",
+      "start": 33900,
+      "end": 33904,
+      "label": "LOC"
+    },
+    {
+      "text": "Léandre",
+      "start": 33908,
+      "end": 33915,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 34178,
+      "end": 34179,
+      "label": "LOC"
+    },
+    {
+      "text": "Macassar",
+      "start": 34360,
+      "end": 34368,
+      "label": "MISC"
+    },
+    {
+      "text": "Essence",
+      "start": 34762,
+      "end": 34769,
+      "label": "PER"
+    },
+    {
+      "text": "Académie des Sciences",
+      "start": 34802,
+      "end": 34823,
+      "label": "ORG"
+    },
+    {
+      "text": "Vauquelin",
+      "start": 34842,
+      "end": 34851,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 35001,
+      "end": 35010,
+      "label": "LOC"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 35062,
+      "end": 35074,
+      "label": "PER"
+    },
+    {
+      "text": "Essence",
+      "start": 35189,
+      "end": 35196,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 35272,
+      "end": 35280,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 35327,
+      "end": 35334,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 35508,
+      "end": 35512,
+      "label": "MISC"
+    },
+    {
+      "text": "Comagène",
+      "start": 35541,
+      "end": 35549,
+      "label": "MISC"
+    },
+    {
+      "text": "grisons",
+      "start": 35625,
+      "end": 35632,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 35700,
+      "end": 35708,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 35801,
+      "end": 35807,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 35872,
+      "end": 35878,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 36612,
+      "end": 36621,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 36651,
+      "end": 36657,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 36881,
+      "end": 36887,
+      "label": "LOC"
+    },
+    {
+      "text": "Cayron",
+      "start": 37223,
+      "end": 37229,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Molineux",
+      "start": 37271,
+      "end": 37288,
+      "label": "ORG"
+    },
+    {
+      "text": "Constance",
+      "start": 37422,
+      "end": 37431,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 37462,
+      "end": 37471,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 37484,
+      "end": 37491,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 37673,
+      "end": 37678,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 37705,
+      "end": 37714,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 37718,
+      "end": 37723,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 38028,
+      "end": 38043,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 38135,
+      "end": 38151,
+      "label": "ORG"
+    },
+    {
+      "text": "Chinon",
+      "start": 38632,
+      "end": 38638,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Birotteau",
+      "start": 38646,
+      "end": 38663,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 38973,
+      "end": 38981,
+      "label": "PER"
+    },
+    {
+      "text": "François Birotteau",
+      "start": 39030,
+      "end": 39048,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 39275,
+      "end": 39280,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 39357,
+      "end": 39362,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39380,
+      "end": 39385,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 39564,
+      "end": 39569,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Birotteau",
+      "start": 39659,
+      "end": 39673,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de la Trébia",
+      "start": 39788,
+      "end": 39809,
+      "label": "MISC"
+    },
+    {
+      "text": "Macdonald",
+      "start": 39811,
+      "end": 39820,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Birotteau",
+      "start": 39898,
+      "end": 39912,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 39968,
+      "end": 39977,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 40168,
+      "end": 40173,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40236,
+      "end": 40241,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 40326,
+      "end": 40331,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 40385,
+      "end": 40393,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 40397,
+      "end": 40409,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 40433,
+      "end": 40438,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 40720,
+      "end": 40730,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 41051,
+      "end": 41056,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 41426,
+      "end": 41434,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 41438,
+      "end": 41450,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 41736,
+      "end": 41741,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 41790,
+      "end": 41798,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 42165,
+      "end": 42169,
+      "label": "MISC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 42218,
+      "end": 42233,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Picarde",
+      "start": 42386,
+      "end": 42400,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 42471,
+      "end": 42476,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 42516,
+      "end": 42528,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 42677,
+      "end": 42682,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 42949,
+      "end": 42954,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 43109,
+      "end": 43114,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43161,
+      "end": 43166,
+      "label": "LOC"
+    },
+    {
+      "text": "Picard",
+      "start": 43171,
+      "end": 43177,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 43254,
+      "end": 43260,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 43329,
+      "end": 43334,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 43584,
+      "end": 43589,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43699,
+      "end": 43704,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 43719,
+      "end": 43725,
+      "label": "LOC"
+    },
+    {
+      "text": "Lascive",
+      "start": 43845,
+      "end": 43852,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 43936,
+      "end": 43945,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 44260,
+      "end": 44266,
+      "label": "LOC"
+    },
+    {
+      "text": "Ragon",
+      "start": 44667,
+      "end": 44672,
+      "label": "LOC"
+    },
+    {
+      "text": "an II",
+      "start": 44750,
+      "end": 44755,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 44789,
+      "end": 44794,
+      "label": "MISC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 44796,
+      "end": 44811,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 44943,
+      "end": 44948,
+      "label": "MISC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 45003,
+      "end": 45018,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 45562,
+      "end": 45567,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 45669,
+      "end": 45674,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 45863,
+      "end": 45869,
+      "label": "LOC"
+    },
+    {
+      "text": "Ragon",
+      "start": 46139,
+      "end": 46144,
+      "label": "MISC"
+    },
+    {
+      "text": "Sa Majesté la reine",
+      "start": 46166,
+      "end": 46185,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 46186,
+      "end": 46202,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 46279,
+      "end": 46294,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 46362,
+      "end": 46367,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 46476,
+      "end": 46486,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 46584,
+      "end": 46593,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 46705,
+      "end": 46710,
+      "label": "PER"
+    },
+    {
+      "text": "Titus",
+      "start": 47151,
+      "end": 47156,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 47315,
+      "end": 47320,
+      "label": "MISC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 47424,
+      "end": 47439,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 47521,
+      "end": 47529,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 47582,
+      "end": 47587,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 47663,
+      "end": 47670,
+      "label": "MISC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 47676,
+      "end": 47690,
+      "label": "LOC"
+    },
+    {
+      "text": "Montauran",
+      "start": 47696,
+      "end": 47705,
+      "label": "LOC"
+    },
+    {
+      "text": "Bauvan",
+      "start": 47711,
+      "end": 47717,
+      "label": "LOC"
+    },
+    {
+      "text": "Longuy",
+      "start": 47723,
+      "end": 47729,
+      "label": "LOC"
+    },
+    {
+      "text": "Manda",
+      "start": 47735,
+      "end": 47740,
+      "label": "PER"
+    },
+    {
+      "text": "Bernier",
+      "start": 47746,
+      "end": 47753,
+      "label": "MISC"
+    },
+    {
+      "text": "Guénic",
+      "start": 47762,
+      "end": 47768,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 47776,
+      "end": 47784,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 47786,
+      "end": 47791,
+      "label": "PER"
+    },
+    {
+      "text": "Convention expirante",
+      "start": 47905,
+      "end": 47925,
+      "label": "ORG"
+    },
+    {
+      "text": "César",
+      "start": 47927,
+      "end": 47932,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 47964,
+      "end": 47972,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 47992,
+      "end": 48002,
+      "label": "PER"
+    },
+    {
+      "text": "Barras",
+      "start": 48113,
+      "end": 48119,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 48145,
+      "end": 48154,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 48243,
+      "end": 48258,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 48305,
+      "end": 48317,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 48343,
+      "end": 48358,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 48725,
+      "end": 48737,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 49023,
+      "end": 49028,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 49074,
+      "end": 49083,
+      "label": "PER"
+    },
+    {
+      "text": "Chinon",
+      "start": 49203,
+      "end": 49209,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 49346,
+      "end": 49355,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 49614,
+      "end": 49622,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésorières",
+      "start": 49690,
+      "end": 49701,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 50000,
+      "end": 50006,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 50008,
+      "end": 50013,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50080,
+      "end": 50085,
+      "label": "LOC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 50346,
+      "end": 50361,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 50432,
+      "end": 50447,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 50700,
+      "end": 50705,
+      "label": "PER"
+    },
+    {
+      "text": "pont Marie",
+      "start": 50751,
+      "end": 50761,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Louis",
+      "start": 50769,
+      "end": 50784,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Anjou",
+      "start": 50874,
+      "end": 50881,
+      "label": "PER"
+    },
+    {
+      "text": "Constance Pillerault",
+      "start": 50883,
+      "end": 50903,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 50969,
+      "end": 50982,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 51040,
+      "end": 51045,
+      "label": "LOC"
+    },
+    {
+      "text": "Nouveautés",
+      "start": 51453,
+      "end": 51463,
+      "label": "MISC"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 51485,
+      "end": 51498,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 51544,
+      "end": 51549,
+      "label": "LOC"
+    },
+    {
+      "text": "Belle Limonadière",
+      "start": 51682,
+      "end": 51699,
+      "label": "PER"
+    },
+    {
+      "text": "Mille Colonnes",
+      "start": 51712,
+      "end": 51726,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 51909,
+      "end": 51914,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 51940,
+      "end": 51955,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 51968,
+      "end": 51978,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Sourdière",
+      "start": 51985,
+      "end": 52004,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 52076,
+      "end": 52089,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 52120,
+      "end": 52125,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 52167,
+      "end": 52172,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 52217,
+      "end": 52226,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 52255,
+      "end": 52268,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 52414,
+      "end": 52422,
+      "label": "ORG"
+    },
+    {
+      "text": "César",
+      "start": 52501,
+      "end": 52506,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 52838,
+      "end": 52844,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 53129,
+      "end": 53142,
+      "label": "LOC"
+    },
+    {
+      "text": "Constance Pillerault",
+      "start": 53676,
+      "end": 53696,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 53915,
+      "end": 53920,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 53989,
+      "end": 53994,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 54217,
+      "end": 54226,
+      "label": "PER"
+    },
+    {
+      "text": "Claude Joseph Pillerault",
+      "start": 54237,
+      "end": 54261,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraille",
+      "start": 54309,
+      "end": 54318,
+      "label": "ORG"
+    },
+    {
+      "text": "Vénua",
+      "start": 54631,
+      "end": 54636,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 54724,
+      "end": 54729,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 54805,
+      "end": 54810,
+      "label": "LOC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 55080,
+      "end": 55090,
+      "label": "MISC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 55211,
+      "end": 55221,
+      "label": "LOC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 55266,
+      "end": 55276,
+      "label": "MISC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 55297,
+      "end": 55312,
+      "label": "PER"
+    },
+    {
+      "text": "Sceaux",
+      "start": 55370,
+      "end": 55376,
+      "label": "LOC"
+    },
+    {
+      "text": "Constance Barbe Joséphine",
+      "start": 55378,
+      "end": 55403,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 55452,
+      "end": 55462,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfant Jésus",
+      "start": 55581,
+      "end": 55593,
+      "label": "MISC"
+    },
+    {
+      "text": "Constance",
+      "start": 55620,
+      "end": 55629,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 56041,
+      "end": 56050,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 56625,
+      "end": 56634,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 56809,
+      "end": 56818,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 56876,
+      "end": 56881,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 56955,
+      "end": 56970,
+      "label": "PER"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 56999,
+      "end": 57012,
+      "label": "LOC"
+    },
+    {
+      "text": "Agé",
+      "start": 57037,
+      "end": 57040,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 57278,
+      "end": 57284,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 57298,
+      "end": 57303,
+      "label": "MISC"
+    },
+    {
+      "text": "Gardez",
+      "start": 57459,
+      "end": 57465,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 57551,
+      "end": 57560,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 57656,
+      "end": 57661,
+      "label": "MISC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 57665,
+      "end": 57675,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 57739,
+      "end": 57745,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 57796,
+      "end": 57801,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 57833,
+      "end": 57842,
+      "label": "MISC"
+    },
+    {
+      "text": "premier Consul",
+      "start": 57922,
+      "end": 57936,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 57981,
+      "end": 57989,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 58000,
+      "end": 58009,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame César",
+      "start": 58212,
+      "end": 58224,
+      "label": "PER"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 58364,
+      "end": 58380,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 58403,
+      "end": 58411,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 58416,
+      "end": 58421,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 58619,
+      "end": 58629,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 58942,
+      "end": 58950,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 58962,
+      "end": 58971,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 59027,
+      "end": 59032,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 59326,
+      "end": 59341,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 59923,
+      "end": 59929,
+      "label": "LOC"
+    },
+    {
+      "text": "FABRIQUE",
+      "start": 59969,
+      "end": 59977,
+      "label": "MISC"
+    },
+    {
+      "text": "CÉSAR BIROTTEAU",
+      "start": 59981,
+      "end": 59996,
+      "label": "ORG"
+    },
+    {
+      "text": "Grasse",
+      "start": 60013,
+      "end": 60019,
+      "label": "LOC"
+    },
+    {
+      "text": "Cologne",
+      "start": 60127,
+      "end": 60134,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 60261,
+      "end": 60270,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 60542,
+      "end": 60547,
+      "label": "LOC"
+    },
+    {
+      "text": "Abdecker",
+      "start": 60854,
+      "end": 60862,
+      "label": "LOC"
+    },
+    {
+      "text": "Art de conserver la Beauté",
+      "start": 60868,
+      "end": 60894,
+      "label": "MISC"
+    },
+    {
+      "text": "Appuyé",
+      "start": 61037,
+      "end": 61043,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 61407,
+      "end": 61416,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquelin",
+      "start": 61533,
+      "end": 61542,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquelin",
+      "start": 61941,
+      "end": 61950,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 62087,
+      "end": 62096,
+      "label": "PER"
+    },
+    {
+      "text": "Sultanes",
+      "start": 62137,
+      "end": 62145,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau Carminative",
+      "start": 62261,
+      "end": 62276,
+      "label": "ORG"
+    },
+    {
+      "text": "Petit Matelot",
+      "start": 62316,
+      "end": 62329,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte des Sultanes et l'Eau Carminative",
+      "start": 62492,
+      "end": 62530,
+      "label": "MISC"
+    },
+    {
+      "text": "Approuvées",
+      "start": 62649,
+      "end": 62659,
+      "label": "MISC"
+    },
+    {
+      "text": "Institut !",
+      "start": 62666,
+      "end": 62676,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 62760,
+      "end": 62769,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 62859,
+      "end": 62874,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 63009,
+      "end": 63015,
+      "label": "MISC"
+    },
+    {
+      "text": "Pâte",
+      "start": 63049,
+      "end": 63053,
+      "label": "MISC"
+    },
+    {
+      "text": "Sultanes",
+      "start": 63058,
+      "end": 63066,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 63332,
+      "end": 63341,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 63509,
+      "end": 63515,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 63634,
+      "end": 63643,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 63808,
+      "end": 63815,
+      "label": "PER"
+    },
+    {
+      "text": "Lombards",
+      "start": 63850,
+      "end": 63858,
+      "label": "MISC"
+    },
+    {
+      "text": "SULTANES",
+      "start": 64018,
+      "end": 64026,
+      "label": "MISC"
+    },
+    {
+      "text": "EAU CARMINATIVE",
+      "start": 64030,
+      "end": 64045,
+      "label": "ORG"
+    },
+    {
+      "text": "CÉSAR BIROTTEAU",
+      "start": 64049,
+      "end": 64064,
+      "label": "ORG"
+    },
+    {
+      "text": "DÉCOUVERTE",
+      "start": 64066,
+      "end": 64076,
+      "label": "MISC"
+    },
+    {
+      "text": "MERVEILLEUSE",
+      "start": 64077,
+      "end": 64089,
+      "label": "MISC"
+    },
+    {
+      "text": "APPROUVÉE",
+      "start": 64090,
+      "end": 64099,
+      "label": "ORG"
+    },
+    {
+      "text": "INSTITUT DE FRANCE",
+      "start": 64106,
+      "end": 64124,
+      "label": "ORG"
+    },
+    {
+      "text": "Eau de Cologne",
+      "start": 64246,
+      "end": 64260,
+      "label": "MISC"
+    },
+    {
+      "text": "Europe",
+      "start": 64342,
+      "end": 64348,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 64588,
+      "end": 64597,
+      "label": "PER"
+    },
+    {
+      "text": "Pâte",
+      "start": 64681,
+      "end": 64685,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 64693,
+      "end": 64696,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 64796,
+      "end": 64801,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 64819,
+      "end": 64823,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 64833,
+      "end": 64836,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 65163,
+      "end": 65167,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 65176,
+      "end": 65179,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 65356,
+      "end": 65360,
+      "label": "MISC"
+    },
+    {
+      "text": "Pâte",
+      "start": 65372,
+      "end": 65376,
+      "label": "MISC"
+    },
+    {
+      "text": "Sultanes",
+      "start": 65381,
+      "end": 65389,
+      "label": "MISC"
+    },
+    {
+      "text": "Institut sur le rapport de notre",
+      "start": 65503,
+      "end": 65535,
+      "label": "ORG"
+    },
+    {
+      "text": "VAUQUELIN",
+      "start": 65554,
+      "end": 65563,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 65577,
+      "end": 65580,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 65642,
+      "end": 65646,
+      "label": "MISC"
+    },
+    {
+      "text": "Pâte",
+      "start": 65664,
+      "end": 65668,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Eau carminative",
+      "start": 65903,
+      "end": 65920,
+      "label": "MISC"
+    },
+    {
+      "text": "L'AMIE DE LA BEAUTÉ",
+      "start": 66276,
+      "end": 66295,
+      "label": "MISC"
+    },
+    {
+      "text": "Cologne",
+      "start": 66306,
+      "end": 66313,
+      "label": "LOC"
+    },
+    {
+      "text": "Double Pâte",
+      "start": 66397,
+      "end": 66408,
+      "label": "MISC"
+    },
+    {
+      "text": "Sultanes",
+      "start": 66413,
+      "end": 66421,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau Carminative",
+      "start": 66427,
+      "end": 66442,
+      "label": "ORG"
+    },
+    {
+      "text": "Eau",
+      "start": 66927,
+      "end": 66930,
+      "label": "LOC"
+    },
+    {
+      "text": "Eau Carminative",
+      "start": 67342,
+      "end": 67357,
+      "label": "ORG"
+    },
+    {
+      "text": "CÉSAR BIROTTEAU",
+      "start": 67592,
+      "end": 67607,
+      "label": "ORG"
+    },
+    {
+      "text": "Ragon",
+      "start": 67623,
+      "end": 67628,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 67659,
+      "end": 67675,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 67682,
+      "end": 67697,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 67703,
+      "end": 67715,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 67718,
+      "end": 67723,
+      "label": "LOC"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 67733,
+      "end": 67746,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 67767,
+      "end": 67771,
+      "label": "MISC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 67846,
+      "end": 67861,
+      "label": "PER"
+    },
+    {
+      "text": "Pâte",
+      "start": 67926,
+      "end": 67930,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 68067,
+      "end": 68072,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 68088,
+      "end": 68097,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau Carminative",
+      "start": 68128,
+      "end": 68143,
+      "label": "ORG"
+    },
+    {
+      "text": "Pâte des Sultanes",
+      "start": 68150,
+      "end": 68167,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 68202,
+      "end": 68211,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 68333,
+      "end": 68337,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 68343,
+      "end": 68346,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 68510,
+      "end": 68519,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 68572,
+      "end": 68581,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâte",
+      "start": 68620,
+      "end": 68624,
+      "label": "MISC"
+    },
+    {
+      "text": "Eau",
+      "start": 68630,
+      "end": 68633,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 68735,
+      "end": 68740,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 68803,
+      "end": 68809,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 68885,
+      "end": 68900,
+      "label": "PER"
+    },
+    {
+      "text": "madame César",
+      "start": 69001,
+      "end": 69013,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 69239,
+      "end": 69248,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 69286,
+      "end": 69295,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 69550,
+      "end": 69555,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 69993,
+      "end": 69998,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 70825,
+      "end": 70830,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71107,
+      "end": 71115,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 71119,
+      "end": 71131,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 71165,
+      "end": 71175,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 71177,
+      "end": 71183,
+      "label": "PER"
+    },
+    {
+      "text": "Matifat",
+      "start": 71200,
+      "end": 71207,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des",
+      "start": 71226,
+      "end": 71233,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombards",
+      "start": 71234,
+      "end": 71242,
+      "label": "MISC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 71263,
+      "end": 71278,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 71280,
+      "end": 71292,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 71327,
+      "end": 71336,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 71341,
+      "end": 71345,
+      "label": "ORG"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 71381,
+      "end": 71396,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 71406,
+      "end": 71413,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 71424,
+      "end": 71436,
+      "label": "PER"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 71438,
+      "end": 71450,
+      "label": "PER"
+    },
+    {
+      "text": "maison Protez",
+      "start": 71458,
+      "end": 71471,
+      "label": "LOC"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 71475,
+      "end": 71487,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cochin",
+      "start": 71501,
+      "end": 71514,
+      "label": "PER"
+    },
+    {
+      "text": "Trésor",
+      "start": 71528,
+      "end": 71534,
+      "label": "LOC"
+    },
+    {
+      "text": "Matifat",
+      "start": 71557,
+      "end": 71564,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Loraux",
+      "start": 71568,
+      "end": 71579,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 71741,
+      "end": 71750,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 72362,
+      "end": 72370,
+      "label": "PER"
+    },
+    {
+      "text": "Constance",
+      "start": 72399,
+      "end": 72408,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 72684,
+      "end": 72692,
+      "label": "PER"
+    },
+    {
+      "text": "Steibelt",
+      "start": 72725,
+      "end": 72733,
+      "label": "PER"
+    },
+    {
+      "text": "Racine",
+      "start": 72825,
+      "end": 72831,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 73272,
+      "end": 73277,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 73279,
+      "end": 73284,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 73786,
+      "end": 73791,
+      "label": "LOC"
+    },
+    {
+      "text": "Molière",
+      "start": 73803,
+      "end": 73810,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 73812,
+      "end": 73820,
+      "label": "PER"
+    },
+    {
+      "text": "Rousseau",
+      "start": 73824,
+      "end": 73832,
+      "label": "PER"
+    },
+    {
+      "text": "Pottier",
+      "start": 74076,
+      "end": 74083,
+      "label": "PER"
+    },
+    {
+      "text": "Talma",
+      "start": 74085,
+      "end": 74090,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Mars",
+      "start": 74092,
+      "end": 74109,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Mars",
+      "start": 74234,
+      "end": 74251,
+      "label": "PER"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 74334,
+      "end": 74344,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 74495,
+      "end": 74505,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 74668,
+      "end": 74680,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 74739,
+      "end": 74748,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 74765,
+      "end": 74776,
+      "label": "PER"
+    },
+    {
+      "text": "rue des Lombards",
+      "start": 75015,
+      "end": 75031,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 75076,
+      "end": 75080,
+      "label": "LOC"
+    },
+    {
+      "text": "Lahore",
+      "start": 75394,
+      "end": 75400,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 75500,
+      "end": 75509,
+      "label": "PER"
+    },
+    {
+      "text": "Vauquelin",
+      "start": 75590,
+      "end": 75599,
+      "label": "PER"
+    },
+    {
+      "text": "Hâvre",
+      "start": 75840,
+      "end": 75845,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 75877,
+      "end": 75886,
+      "label": "PER"
+    },
+    {
+      "text": "Lombards",
+      "start": 75936,
+      "end": 75944,
+      "label": "MISC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 75973,
+      "end": 75987,
+      "label": "LOC"
+    },
+    {
+      "text": "Cologne",
+      "start": 76015,
+      "end": 76022,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 76026,
+      "end": 76031,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 76097,
+      "end": 76105,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 76254,
+      "end": 76264,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 76299,
+      "end": 76308,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 76321,
+      "end": 76326,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 76586,
+      "end": 76591,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 76887,
+      "end": 76892,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 77539,
+      "end": 77549,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 77561,
+      "end": 77568,
+      "label": "PER"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 77991,
+      "end": 78007,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 78576,
+      "end": 78585,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 78744,
+      "end": 78749,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand du Tillet",
+      "start": 78923,
+      "end": 78942,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 79116,
+      "end": 79131,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 79315,
+      "end": 79324,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 79469,
+      "end": 79478,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79558,
+      "end": 79566,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 79799,
+      "end": 79805,
+      "label": "LOC"
+    },
+    {
+      "text": "Andelys",
+      "start": 79836,
+      "end": 79843,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 79922,
+      "end": 79928,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 80229,
+      "end": 80238,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80250,
+      "end": 80255,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 80415,
+      "end": 80424,
+      "label": "PER"
+    },
+    {
+      "text": "Figaro",
+      "start": 80450,
+      "end": 80456,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80506,
+      "end": 80511,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 80547,
+      "end": 80556,
+      "label": "LOC"
+    },
+    {
+      "text": "Andelys",
+      "start": 80728,
+      "end": 80735,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 80909,
+      "end": 80915,
+      "label": "LOC"
+    },
+    {
+      "text": "Société de Turc",
+      "start": 81141,
+      "end": 81156,
+      "label": "ORG"
+    },
+    {
+      "text": "More",
+      "start": 81159,
+      "end": 81163,
+      "label": "LOC"
+    },
+    {
+      "text": "Normand",
+      "start": 81287,
+      "end": 81294,
+      "label": "LOC"
+    },
+    {
+      "text": "Scapins",
+      "start": 81761,
+      "end": 81768,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 82014,
+      "end": 82018,
+      "label": "LOC"
+    },
+    {
+      "text": "Cromwell",
+      "start": 82653,
+      "end": 82661,
+      "label": "PER"
+    },
+    {
+      "text": "Probité",
+      "start": 82694,
+      "end": 82701,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 82857,
+      "end": 82864,
+      "label": "ORG"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 83022,
+      "end": 83031,
+      "label": "PER"
+    },
+    {
+      "text": "Normands",
+      "start": 83456,
+      "end": 83464,
+      "label": "MISC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 84099,
+      "end": 84108,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 84289,
+      "end": 84294,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 84472,
+      "end": 84478,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 84576,
+      "end": 84582,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 84673,
+      "end": 84682,
+      "label": "PER"
+    },
+    {
+      "text": "Orgon",
+      "start": 84703,
+      "end": 84708,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartuffe",
+      "start": 84732,
+      "end": 84740,
+      "label": "MISC"
+    },
+    {
+      "text": "madame César",
+      "start": 84760,
+      "end": 84772,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 84952,
+      "end": 84958,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85193,
+      "end": 85202,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 85207,
+      "end": 85213,
+      "label": "LOC"
+    },
+    {
+      "text": "Constance",
+      "start": 85248,
+      "end": 85257,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 85265,
+      "end": 85274,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 85541,
+      "end": 85550,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85552,
+      "end": 85561,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85695,
+      "end": 85704,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 85978,
+      "end": 85987,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 86076,
+      "end": 86081,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 86089,
+      "end": 86096,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 86529,
+      "end": 86535,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 86573,
+      "end": 86578,
+      "label": "PER"
+    },
+    {
+      "text": "madame César",
+      "start": 86583,
+      "end": 86595,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 86657,
+      "end": 86672,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 86728,
+      "end": 86734,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 86784,
+      "end": 86790,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 86906,
+      "end": 86915,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 86933,
+      "end": 86942,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 87004,
+      "end": 87013,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 87143,
+      "end": 87148,
+      "label": "PER"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 87398,
+      "end": 87407,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 87602,
+      "end": 87609,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 87615,
+      "end": 87624,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 87645,
+      "end": 87654,
+      "label": "PER"
+    },
+    {
+      "text": "Normand",
+      "start": 87695,
+      "end": 87702,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 87926,
+      "end": 87931,
+      "label": "PER"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 88103,
+      "end": 88112,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 88211,
+      "end": 88220,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 88250,
+      "end": 88257,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand du Tillet",
+      "start": 88338,
+      "end": 88357,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 88482,
+      "end": 88491,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 88496,
+      "end": 88502,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 88519,
+      "end": 88524,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 88620,
+      "end": 88626,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 88853,
+      "end": 88862,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 88898,
+      "end": 88904,
+      "label": "LOC"
+    },
+    {
+      "text": "Matifat",
+      "start": 88973,
+      "end": 88980,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 89017,
+      "end": 89026,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 89107,
+      "end": 89116,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 89472,
+      "end": 89478,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 89644,
+      "end": 89653,
+      "label": "PER"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 89819,
+      "end": 89828,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 90154,
+      "end": 90159,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 90180,
+      "end": 90186,
+      "label": "LOC"
+    },
+    {
+      "text": "Turcarets",
+      "start": 90192,
+      "end": 90201,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 90223,
+      "end": 90236,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 90256,
+      "end": 90265,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand du Tillet",
+      "start": 90356,
+      "end": 90375,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 90461,
+      "end": 90469,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 90473,
+      "end": 90479,
+      "label": "PER"
+    },
+    {
+      "text": "Keller",
+      "start": 90546,
+      "end": 90552,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 90766,
+      "end": 90771,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 91292,
+      "end": 91300,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 91321,
+      "end": 91330,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 91368,
+      "end": 91377,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 91706,
+      "end": 91715,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamet de",
+      "start": 91939,
+      "end": 91948,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 91949,
+      "end": 91963,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 91965,
+      "end": 91974,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 92002,
+      "end": 92017,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 92127,
+      "end": 92132,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 92172,
+      "end": 92180,
+      "label": "PER"
+    },
+    {
+      "text": "madame Birotteau",
+      "start": 92184,
+      "end": 92200,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 92270,
+      "end": 92275,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 92292,
+      "end": 92302,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 92333,
+      "end": 92347,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 92366,
+      "end": 92375,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 92488,
+      "end": 92498,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 92524,
+      "end": 92532,
+      "label": "MISC"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 92624,
+      "end": 92652,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 92679,
+      "end": 92687,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 92727,
+      "end": 92735,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 92807,
+      "end": 92816,
+      "label": "LOC"
+    },
+    {
+      "text": "Birotteau",
+      "start": 92896,
+      "end": 92905,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 93305,
+      "end": 93310,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 93312,
+      "end": 93317,
+      "label": "PER"
+    },
+    {
+      "text": "gobe mouches",
+      "start": 93900,
+      "end": 93912,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 93916,
+      "end": 93921,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 94304,
+      "end": 94309,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 94800,
+      "end": 94806,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 96329,
+      "end": 96334,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 96518,
+      "end": 96523,
+      "label": "MISC"
+    },
+    {
+      "text": "Ragon",
+      "start": 96954,
+      "end": 96959,
+      "label": "MISC"
+    },
+    {
+      "text": "César",
+      "start": 97250,
+      "end": 97255,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 98478,
+      "end": 98493,
+      "label": "PER"
+    },
+    {
+      "text": "Aveugle",
+      "start": 98857,
+      "end": 98864,
+      "label": "PER"
+    },
+    {
+      "text": "madame César",
+      "start": 99154,
+      "end": 99166,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus de Milo",
+      "start": 99237,
+      "end": 99250,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Rivière",
+      "start": 99339,
+      "end": 99353,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 99834,
+      "end": 99839,
+      "label": "PER"
+    }
+  ]
+}

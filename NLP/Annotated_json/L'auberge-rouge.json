@@ -1,0 +1,2086 @@
+{
+  "entities": [
+    {
+      "text": "AUBERGE ROUGE",
+      "start": 2,
+      "end": 15,
+      "label": "ORG"
+    },
+    {
+      "text": "MARQUIS",
+      "start": 37,
+      "end": 44,
+      "label": "ORG"
+    },
+    {
+      "text": "CUSTINE",
+      "start": 48,
+      "end": 55,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 106,
+      "end": 111,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 167,
+      "end": 176,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuremberg",
+      "start": 349,
+      "end": 358,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 378,
+      "end": 386,
+      "label": "LOC"
+    },
+    {
+      "text": "Germanie",
+      "start": 627,
+      "end": 635,
+      "label": "LOC"
+    },
+    {
+      "text": "simplesse",
+      "start": 780,
+      "end": 789,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 874,
+      "end": 886,
+      "label": "MISC"
+    },
+    {
+      "text": "Johannisberg",
+      "start": 928,
+      "end": 940,
+      "label": "ORG"
+    },
+    {
+      "text": "Hermann",
+      "start": 956,
+      "end": 963,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 988,
+      "end": 997,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 1164,
+      "end": 1170,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 2003,
+      "end": 2010,
+      "label": "PER"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 2242,
+      "end": 2254,
+      "label": "PER"
+    },
+    {
+      "text": "Gymnase",
+      "start": 2344,
+      "end": 2351,
+      "label": "MISC"
+    },
+    {
+      "text": "Brillat Savarin",
+      "start": 3180,
+      "end": 3195,
+      "label": "PER"
+    },
+    {
+      "text": "Suisse",
+      "start": 3512,
+      "end": 3518,
+      "label": "LOC"
+    },
+    {
+      "text": "Immobile",
+      "start": 5035,
+      "end": 5043,
+      "label": "PER"
+    },
+    {
+      "text": "Diorama",
+      "start": 5081,
+      "end": 5088,
+      "label": "LOC"
+    },
+    {
+      "text": "Souffre t",
+      "start": 5372,
+      "end": 5381,
+      "label": "MISC"
+    },
+    {
+      "text": "Songe t",
+      "start": 5461,
+      "end": 5468,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 5499,
+      "end": 5504,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 5606,
+      "end": 5610,
+      "label": "MISC"
+    },
+    {
+      "text": "Pékin",
+      "start": 5747,
+      "end": 5752,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 6253,
+      "end": 6258,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 6726,
+      "end": 6733,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 7066,
+      "end": 7074,
+      "label": "LOC"
+    },
+    {
+      "text": "Nurembergeois",
+      "start": 7335,
+      "end": 7348,
+      "label": "LOC"
+    },
+    {
+      "text": "IDÉE",
+      "start": 7524,
+      "end": 7528,
+      "label": "ORG"
+    },
+    {
+      "text": "FAIT",
+      "start": 7535,
+      "end": 7539,
+      "label": "ORG"
+    },
+    {
+      "text": "an VII",
+      "start": 7571,
+      "end": 7577,
+      "label": "PER"
+    },
+    {
+      "text": "Bonn",
+      "start": 7685,
+      "end": 7689,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 7754,
+      "end": 7763,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 7807,
+      "end": 7811,
+      "label": "LOC"
+    },
+    {
+      "text": "Coblentz",
+      "start": 7834,
+      "end": 7842,
+      "label": "PER"
+    },
+    {
+      "text": "général Augereau",
+      "start": 7893,
+      "end": 7909,
+      "label": "PER"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 7937,
+      "end": 7948,
+      "label": "LOC"
+    },
+    {
+      "text": "Coblentz",
+      "start": 8047,
+      "end": 8055,
+      "label": "LOC"
+    },
+    {
+      "text": "Augereau",
+      "start": 8107,
+      "end": 8115,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 8140,
+      "end": 8149,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 8178,
+      "end": 8186,
+      "label": "LOC"
+    },
+    {
+      "text": "général Jourdan",
+      "start": 8692,
+      "end": 8707,
+      "label": "PER"
+    },
+    {
+      "text": "Armés",
+      "start": 9145,
+      "end": 9150,
+      "label": "LOC"
+    },
+    {
+      "text": "Coste",
+      "start": 9238,
+      "end": 9243,
+      "label": "PER"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 9247,
+      "end": 9257,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvais",
+      "start": 9398,
+      "end": 9406,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 9715,
+      "end": 9725,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 10125,
+      "end": 10135,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonn",
+      "start": 10138,
+      "end": 10142,
+      "label": "LOC"
+    },
+    {
+      "text": "Électorat",
+      "start": 10165,
+      "end": 10174,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 10191,
+      "end": 10195,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 10605,
+      "end": 10609,
+      "label": "LOC"
+    },
+    {
+      "text": "Souabe",
+      "start": 10632,
+      "end": 10638,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayence",
+      "start": 10646,
+      "end": 10653,
+      "label": "LOC"
+    },
+    {
+      "text": "Cologne",
+      "start": 10657,
+      "end": 10664,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 10815,
+      "end": 10824,
+      "label": "PER"
+    },
+    {
+      "text": "Turenne",
+      "start": 10828,
+      "end": 10835,
+      "label": "PER"
+    },
+    {
+      "text": "roi de Versailles",
+      "start": 10948,
+      "end": 10965,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 11047,
+      "end": 11056,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonn",
+      "start": 11273,
+      "end": 11277,
+      "label": "LOC"
+    },
+    {
+      "text": "Augereau",
+      "start": 11393,
+      "end": 11401,
+      "label": "PER"
+    },
+    {
+      "text": "Électeur",
+      "start": 11440,
+      "end": 11448,
+      "label": "PER"
+    },
+    {
+      "text": "Surpris",
+      "start": 11835,
+      "end": 11842,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 12135,
+      "end": 12144,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 12327,
+      "end": 12331,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 12820,
+      "end": 12829,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 13057,
+      "end": 13061,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 13267,
+      "end": 13276,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 13341,
+      "end": 13355,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 13406,
+      "end": 13415,
+      "label": "LOC"
+    },
+    {
+      "text": "solives saillantes",
+      "start": 13566,
+      "end": 13584,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 13731,
+      "end": 13738,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 13758,
+      "end": 13772,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 14087,
+      "end": 14096,
+      "label": "MISC"
+    },
+    {
+      "text": "Hermann",
+      "start": 14395,
+      "end": 14402,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 14465,
+      "end": 14479,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 14585,
+      "end": 14591,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 14857,
+      "end": 14866,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 15169,
+      "end": 15178,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 15842,
+      "end": 15846,
+      "label": "LOC"
+    },
+    {
+      "text": "Auberge rouge",
+      "start": 15946,
+      "end": 15959,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 15997,
+      "end": 16001,
+      "label": "MISC"
+    },
+    {
+      "text": "Andernach",
+      "start": 16169,
+      "end": 16178,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 16457,
+      "end": 16466,
+      "label": "LOC"
+    },
+    {
+      "text": "De Bonn",
+      "start": 16504,
+      "end": 16511,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper",
+      "start": 16521,
+      "end": 16528,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 16583,
+      "end": 16587,
+      "label": "MISC"
+    },
+    {
+      "text": "Auberge rouge",
+      "start": 16698,
+      "end": 16711,
+      "label": "MISC"
+    },
+    {
+      "text": "Rhin",
+      "start": 16765,
+      "end": 16769,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 18454,
+      "end": 18458,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 18683,
+      "end": 18687,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 18993,
+      "end": 19001,
+      "label": "MISC"
+    },
+    {
+      "text": "Andernach",
+      "start": 19034,
+      "end": 19043,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 19066,
+      "end": 19070,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 19652,
+      "end": 19657,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19776,
+      "end": 19784,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 19897,
+      "end": 19905,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 20243,
+      "end": 20251,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 20363,
+      "end": 20370,
+      "label": "PER"
+    },
+    {
+      "text": "Aix la Chapelle",
+      "start": 20517,
+      "end": 20532,
+      "label": "LOC"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 20559,
+      "end": 20568,
+      "label": "PER"
+    },
+    {
+      "text": "Neuwied",
+      "start": 20599,
+      "end": 20606,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilhem",
+      "start": 21438,
+      "end": 21444,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 21471,
+      "end": 21478,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 21498,
+      "end": 21507,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 21530,
+      "end": 21537,
+      "label": "PER"
+    },
+    {
+      "text": "Wahlenfer",
+      "start": 21602,
+      "end": 21611,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 22058,
+      "end": 22065,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 22387,
+      "end": 22394,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 22525,
+      "end": 22532,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 22805,
+      "end": 22814,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 22828,
+      "end": 22832,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 23407,
+      "end": 23421,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 24169,
+      "end": 24175,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 24313,
+      "end": 24322,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 24350,
+      "end": 24358,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 25554,
+      "end": 25562,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 25680,
+      "end": 25694,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 25927,
+      "end": 25931,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper",
+      "start": 26080,
+      "end": 26087,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 26206,
+      "end": 26212,
+      "label": "PER"
+    },
+    {
+      "text": "Lescheville",
+      "start": 26371,
+      "end": 26382,
+      "label": "LOC"
+    },
+    {
+      "text": "Lescheville",
+      "start": 26528,
+      "end": 26539,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 26557,
+      "end": 26564,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur Walhenfer",
+      "start": 26741,
+      "end": 26759,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 26817,
+      "end": 26823,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 27307,
+      "end": 27313,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 27421,
+      "end": 27428,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 27547,
+      "end": 27552,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes bateliers me semblent suspects",
+      "start": 27846,
+      "end": 27880,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemand",
+      "start": 28181,
+      "end": 28189,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper",
+      "start": 28416,
+      "end": 28423,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 28469,
+      "end": 28475,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 28601,
+      "end": 28610,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 28945,
+      "end": 28954,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 28958,
+      "end": 28964,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 29105,
+      "end": 29119,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 29431,
+      "end": 29438,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvais",
+      "start": 29793,
+      "end": 29801,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvais",
+      "start": 30041,
+      "end": 30049,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 30500,
+      "end": 30508,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 30654,
+      "end": 30658,
+      "label": "LOC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 30681,
+      "end": 30692,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 30812,
+      "end": 30816,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 30902,
+      "end": 30910,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 31132,
+      "end": 31141,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 31190,
+      "end": 31197,
+      "label": "PER"
+    },
+    {
+      "text": "mur",
+      "start": 31653,
+      "end": 31656,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilhem",
+      "start": 31861,
+      "end": 31867,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 31871,
+      "end": 31880,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 32526,
+      "end": 32530,
+      "label": "MISC"
+    },
+    {
+      "text": "Rhin",
+      "start": 32983,
+      "end": 32987,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 33067,
+      "end": 33076,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 34067,
+      "end": 34071,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 34331,
+      "end": 34335,
+      "label": "MISC"
+    },
+    {
+      "text": "Prosper",
+      "start": 35063,
+      "end": 35070,
+      "label": "PER"
+    },
+    {
+      "text": "Wilhem",
+      "start": 35501,
+      "end": 35507,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 35689,
+      "end": 35695,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 35720,
+      "end": 35729,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 35832,
+      "end": 35840,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 35841,
+      "end": 35848,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 35964,
+      "end": 35978,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 36773,
+      "end": 36782,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 36802,
+      "end": 36810,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 37063,
+      "end": 37077,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 37115,
+      "end": 37124,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 37651,
+      "end": 37660,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 37856,
+      "end": 37863,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 38006,
+      "end": 38013,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper",
+      "start": 38334,
+      "end": 38341,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 38987,
+      "end": 39001,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 39200,
+      "end": 39209,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper",
+      "start": 39573,
+      "end": 39580,
+      "label": "PER"
+    },
+    {
+      "text": "Capitaine",
+      "start": 39585,
+      "end": 39594,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 39661,
+      "end": 39665,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemands",
+      "start": 39905,
+      "end": 39914,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 39947,
+      "end": 39957,
+      "label": "MISC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 39989,
+      "end": 40003,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 40366,
+      "end": 40370,
+      "label": "MISC"
+    },
+    {
+      "text": "Andernach",
+      "start": 40779,
+      "end": 40788,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 40821,
+      "end": 40825,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 41065,
+      "end": 41072,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 41250,
+      "end": 41259,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 41478,
+      "end": 41487,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 41574,
+      "end": 41582,
+      "label": "LOC"
+    },
+    {
+      "text": "Électorat",
+      "start": 41717,
+      "end": 41726,
+      "label": "LOC"
+    },
+    {
+      "text": "général Augereau",
+      "start": 41819,
+      "end": 41835,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 41869,
+      "end": 41883,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 41923,
+      "end": 41932,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 42113,
+      "end": 42122,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 42706,
+      "end": 42714,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 43600,
+      "end": 43604,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilhem",
+      "start": 43628,
+      "end": 43634,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 43948,
+      "end": 43957,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 44015,
+      "end": 44019,
+      "label": "MISC"
+    },
+    {
+      "text": "Picards",
+      "start": 45011,
+      "end": 45018,
+      "label": "MISC"
+    },
+    {
+      "text": "Attendez",
+      "start": 45110,
+      "end": 45118,
+      "label": "MISC"
+    },
+    {
+      "text": "Prenez",
+      "start": 45834,
+      "end": 45840,
+      "label": "PER"
+    },
+    {
+      "text": "Acceptez",
+      "start": 45990,
+      "end": 45998,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes mains y ont fatalement trempé pendant",
+      "start": 46998,
+      "end": 47039,
+      "label": "MISC"
+    },
+    {
+      "text": "Andernach",
+      "start": 47331,
+      "end": 47340,
+      "label": "LOC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 47508,
+      "end": 47522,
+      "label": "PER"
+    },
+    {
+      "text": "Perdu",
+      "start": 47642,
+      "end": 47647,
+      "label": "MISC"
+    },
+    {
+      "text": "Andernach",
+      "start": 48667,
+      "end": 48676,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 49263,
+      "end": 49264,
+      "label": "LOC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 49976,
+      "end": 49984,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 49989,
+      "end": 49993,
+      "label": "MISC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 50013,
+      "end": 50021,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric",
+      "start": 50023,
+      "end": 50031,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 50079,
+      "end": 50086,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 50182,
+      "end": 50191,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 50367,
+      "end": 50371,
+      "label": "LOC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 50415,
+      "end": 50423,
+      "label": "PER"
+    },
+    {
+      "text": "Silence",
+      "start": 50485,
+      "end": 50492,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 50497,
+      "end": 50504,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric",
+      "start": 50522,
+      "end": 50530,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric",
+      "start": 50554,
+      "end": 50562,
+      "label": "PER"
+    },
+    {
+      "text": "Mourrai",
+      "start": 51013,
+      "end": 51020,
+      "label": "LOC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 51143,
+      "end": 51151,
+      "label": "PER"
+    },
+    {
+      "text": "Rentrons",
+      "start": 51217,
+      "end": 51225,
+      "label": "LOC"
+    },
+    {
+      "text": "Portez",
+      "start": 51722,
+      "end": 51728,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51837,
+      "end": 51841,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 51952,
+      "end": 51956,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauvais",
+      "start": 52257,
+      "end": 52265,
+      "label": "LOC"
+    },
+    {
+      "text": "Maintenant",
+      "start": 53907,
+      "end": 53917,
+      "label": "ORG"
+    },
+    {
+      "text": "DEUX JUSTICES",
+      "start": 54049,
+      "end": 54062,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 54066,
+      "end": 54070,
+      "label": "MISC"
+    },
+    {
+      "text": "Nurembergeois",
+      "start": 54187,
+      "end": 54200,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 54439,
+      "end": 54446,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 54608,
+      "end": 54614,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54895,
+      "end": 54899,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 54926,
+      "end": 54927,
+      "label": "LOC"
+    },
+    {
+      "text": "paix d'Amiens",
+      "start": 54931,
+      "end": 54944,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 54957,
+      "end": 54963,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Magnan",
+      "start": 55083,
+      "end": 55096,
+      "label": "PER"
+    },
+    {
+      "text": "Hermann",
+      "start": 55721,
+      "end": 55728,
+      "label": "PER"
+    },
+    {
+      "text": "Regardez",
+      "start": 55835,
+      "end": 55843,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny",
+      "start": 55928,
+      "end": 55933,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 56185,
+      "end": 56194,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 56425,
+      "end": 56434,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 56451,
+      "end": 56460,
+      "label": "PER"
+    },
+    {
+      "text": "Moi !",
+      "start": 56499,
+      "end": 56504,
+      "label": "MISC"
+    },
+    {
+      "text": "Taillefer !",
+      "start": 56548,
+      "end": 56559,
+      "label": "MISC"
+    },
+    {
+      "text": "Wagram",
+      "start": 56649,
+      "end": 56655,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah",
+      "start": 56660,
+      "end": 56662,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 56688,
+      "end": 56697,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 56815,
+      "end": 56817,
+      "label": "MISC"
+    },
+    {
+      "text": "Semblables",
+      "start": 57658,
+      "end": 57668,
+      "label": "LOC"
+    },
+    {
+      "text": "Hermann",
+      "start": 58289,
+      "end": 58296,
+      "label": "PER"
+    },
+    {
+      "text": "Fanny",
+      "start": 58407,
+      "end": 58412,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 58790,
+      "end": 58799,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 59031,
+      "end": 59039,
+      "label": "PER"
+    },
+    {
+      "text": "Seriez",
+      "start": 59277,
+      "end": 59283,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric Taillefer",
+      "start": 59342,
+      "end": 59360,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvais",
+      "start": 59402,
+      "end": 59410,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui monsieur",
+      "start": 59415,
+      "end": 59427,
+      "label": "MISC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 59747,
+      "end": 59756,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 59992,
+      "end": 60001,
+      "label": "PER"
+    },
+    {
+      "text": "Voudriez",
+      "start": 60101,
+      "end": 60109,
+      "label": "PER"
+    },
+    {
+      "text": "Cour d'assises",
+      "start": 60328,
+      "end": 60342,
+      "label": "ORG"
+    },
+    {
+      "text": "Regardez",
+      "start": 60659,
+      "end": 60667,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 60741,
+      "end": 60745,
+      "label": "MISC"
+    },
+    {
+      "text": "Naples",
+      "start": 60813,
+      "end": 60819,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 61505,
+      "end": 61514,
+      "label": "PER"
+    },
+    {
+      "text": "Évitons",
+      "start": 61714,
+      "end": 61721,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine",
+      "start": 61887,
+      "end": 61896,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 62168,
+      "end": 62177,
+      "label": "PER"
+    },
+    {
+      "text": "Tué",
+      "start": 62209,
+      "end": 62212,
+      "label": "MISC"
+    },
+    {
+      "text": "Brousson",
+      "start": 62459,
+      "end": 62467,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 62781,
+      "end": 62790,
+      "label": "PER"
+    },
+    {
+      "text": "Brousson",
+      "start": 63379,
+      "end": 63387,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 63715,
+      "end": 63724,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 63922,
+      "end": 63926,
+      "label": "MISC"
+    },
+    {
+      "text": "Brousson",
+      "start": 64427,
+      "end": 64435,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 64473,
+      "end": 64480,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 64664,
+      "end": 64668,
+      "label": "MISC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 64844,
+      "end": 64853,
+      "label": "PER"
+    },
+    {
+      "text": "Brousson",
+      "start": 65176,
+      "end": 65184,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 65286,
+      "end": 65295,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 65328,
+      "end": 65332,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65337,
+      "end": 65341,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65348,
+      "end": 65352,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Taillefer",
+      "start": 65582,
+      "end": 65604,
+      "label": "PER"
+    },
+    {
+      "text": "Tailleter",
+      "start": 65971,
+      "end": 65980,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 66238,
+      "end": 66247,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 66522,
+      "end": 66531,
+      "label": "MISC"
+    },
+    {
+      "text": "Victorine",
+      "start": 66616,
+      "end": 66625,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 67337,
+      "end": 67346,
+      "label": "PER"
+    },
+    {
+      "text": "Victorine",
+      "start": 67380,
+      "end": 67389,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 67436,
+      "end": 67445,
+      "label": "LOC"
+    },
+    {
+      "text": "Andernach",
+      "start": 67449,
+      "end": 67458,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine",
+      "start": 67495,
+      "end": 67504,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 68042,
+      "end": 68049,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 68347,
+      "end": 68353,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseillez",
+      "start": 68635,
+      "end": 68645,
+      "label": "LOC"
+    },
+    {
+      "text": "général Foy",
+      "start": 69364,
+      "end": 69375,
+      "label": "PER"
+    },
+    {
+      "text": "Bavard",
+      "start": 69434,
+      "end": 69440,
+      "label": "ORG"
+    },
+    {
+      "text": "édit de Nantes",
+      "start": 69649,
+      "end": 69663,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 69770,
+      "end": 69778,
+      "label": "PER"
+    },
+    {
+      "text": "Code incarné",
+      "start": 70060,
+      "end": 70072,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 70112,
+      "end": 70124,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangile",
+      "start": 70155,
+      "end": 70163,
+      "label": "MISC"
+    },
+    {
+      "text": "contentez",
+      "start": 70293,
+      "end": 70302,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 71036,
+      "end": 71045,
+      "label": "PER"
+    },
+    {
+      "text": "Votons !",
+      "start": 71447,
+      "end": 71455,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes",
+      "start": 71685,
+      "end": 71688,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 72282,
+      "end": 72286,
+      "label": "MISC"
+    },
+    {
+      "text": "VOUS",
+      "start": 72846,
+      "end": 72850,
+      "label": "MISC"
+    },
+    {
+      "text": "CONVOI",
+      "start": 72876,
+      "end": 72882,
+      "label": "ORG"
+    },
+    {
+      "text": "SERVICE ET ENTERREMENT",
+      "start": 72884,
+      "end": 72906,
+      "label": "MISC"
+    },
+    {
+      "text": "JEAN",
+      "start": 72913,
+      "end": 72917,
+      "label": "MISC"
+    },
+    {
+      "text": "TAILLEFER",
+      "start": 72951,
+      "end": 72960,
+      "label": "MISC"
+    },
+    {
+      "text": "COMPAGNIE",
+      "start": 72964,
+      "end": 72973,
+      "label": "ORG"
+    },
+    {
+      "text": "FOURNISSEUR",
+      "start": 72982,
+      "end": 72993,
+      "label": "ORG"
+    },
+    {
+      "text": "VIVRES",
+      "start": 72998,
+      "end": 73004,
+      "label": "MISC"
+    },
+    {
+      "text": "VIANDES",
+      "start": 73005,
+      "end": 73012,
+      "label": "MISC"
+    },
+    {
+      "text": "VIVANT CHEVALIER",
+      "start": 73021,
+      "end": 73037,
+      "label": "MISC"
+    },
+    {
+      "text": "LÉGION D'HONNEUR ET",
+      "start": 73044,
+      "end": 73063,
+      "label": "ORG"
+    },
+    {
+      "text": "L'ÉPERON D'OR",
+      "start": 73067,
+      "end": 73080,
+      "label": "ORG"
+    },
+    {
+      "text": "CAPITAINE",
+      "start": 73082,
+      "end": 73091,
+      "label": "ORG"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 73098,
+      "end": 73106,
+      "label": "MISC"
+    },
+    {
+      "text": "DEUXIÈME LÉGION",
+      "start": 73137,
+      "end": 73152,
+      "label": "ORG"
+    },
+    {
+      "text": "DÉCÉDÉ",
+      "start": 73185,
+      "end": 73191,
+      "label": "ORG"
+    },
+    {
+      "text": "SON HOTEL",
+      "start": 73212,
+      "end": 73221,
+      "label": "ORG"
+    },
+    {
+      "text": "RUE JOUBERT",
+      "start": 73223,
+      "end": 73234,
+      "label": "LOC"
+    },
+    {
+      "text": "QUI SE FERONT",
+      "start": 73239,
+      "end": 73252,
+      "label": "ORG"
+    },
+    {
+      "text": "Maintenant",
+      "start": 73293,
+      "end": 73303,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 73449,
+      "end": 73458,
+      "label": "PER"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 73525,
+      "end": 73539,
+      "label": "PER"
+    },
+    {
+      "text": "Andernach",
+      "start": 73656,
+      "end": 73665,
+      "label": "LOC"
+    },
+    {
+      "text": "Dictionnaire des Cas de conscience",
+      "start": 74015,
+      "end": 74049,
+      "label": "MISC"
+    },
+    {
+      "text": "Prosper Magnan",
+      "start": 74167,
+      "end": 74181,
+      "label": "PER"
+    },
+    {
+      "text": "Walhenfer",
+      "start": 74186,
+      "end": 74195,
+      "label": "PER"
+    },
+    {
+      "text": "Taillefer",
+      "start": 74200,
+      "end": 74209,
+      "label": "PER"
+    },
+    {
+      "text": "Bâtir",
+      "start": 74254,
+      "end": 74259,
+      "label": "PER"
+    },
+    {
+      "text": "Mon amour est ma vie !",
+      "start": 74597,
+      "end": 74619,
+      "label": "MISC"
+    },
+    {
+      "text": "Bouffons la musique",
+      "start": 74792,
+      "end": 74811,
+      "label": "MISC"
+    },
+    {
+      "text": "Rossini",
+      "start": 74815,
+      "end": 74822,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 75157,
+      "end": 75162,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Byron",
+      "start": 75551,
+      "end": 75561,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 75605,
+      "end": 75614,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Deans",
+      "start": 75711,
+      "end": 75722,
+      "label": "PER"
+    },
+    {
+      "text": "Imbécile",
+      "start": 75828,
+      "end": 75836,
+      "label": "PER"
+    },
+    {
+      "text": "Beauvais",
+      "start": 75879,
+      "end": 75887,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 75890,
+      "end": 75895,
+      "label": "LOC"
+    }
+  ]
+}

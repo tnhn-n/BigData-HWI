@@ -1,0 +1,2230 @@
+{
+  "entities": [
+    {
+      "text": "CHEF D'ŒUVRE INCONNU",
+      "start": 3,
+      "end": 23,
+      "label": "MISC"
+    },
+    {
+      "text": ".",
+      "start": 44,
+      "end": 45,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 46,
+      "end": 47,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 48,
+      "end": 49,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 50,
+      "end": 51,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 52,
+      "end": 53,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 54,
+      "end": 55,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 56,
+      "end": 57,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 58,
+      "end": 59,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 60,
+      "end": 61,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 62,
+      "end": 63,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 64,
+      "end": 65,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 66,
+      "end": 67,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 68,
+      "end": 69,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 70,
+      "end": 71,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 72,
+      "end": 73,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 74,
+      "end": 75,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76,
+      "end": 77,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 78,
+      "end": 79,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 80,
+      "end": 81,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 82,
+      "end": 83,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 84,
+      "end": 85,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 86,
+      "end": 87,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 88,
+      "end": 89,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 90,
+      "end": 91,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 92,
+      "end": 93,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 94,
+      "end": 95,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 96,
+      "end": 97,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 98,
+      "end": 99,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 100,
+      "end": 101,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 102,
+      "end": 103,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 104,
+      "end": 105,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 106,
+      "end": 107,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 108,
+      "end": 109,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 110,
+      "end": 111,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 112,
+      "end": 113,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 114,
+      "end": 115,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 116,
+      "end": 117,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 118,
+      "end": 119,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 120,
+      "end": 121,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 122,
+      "end": 123,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 124,
+      "end": 125,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 126,
+      "end": 127,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 128,
+      "end": 129,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 130,
+      "end": 131,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 132,
+      "end": 133,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 134,
+      "end": 135,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 136,
+      "end": 137,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 138,
+      "end": 139,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 140,
+      "end": 141,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 142,
+      "end": 143,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 144,
+      "end": 145,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 146,
+      "end": 147,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 148,
+      "end": 149,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 150,
+      "end": 151,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 152,
+      "end": 153,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des",
+      "start": 357,
+      "end": 364,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands Augustins",
+      "start": 365,
+      "end": 381,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 385,
+      "end": 390,
+      "label": "LOC"
+    },
+    {
+      "text": "François PORBUS",
+      "start": 622,
+      "end": 637,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 1113,
+      "end": 1121,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 1136,
+      "end": 1142,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 1147,
+      "end": 1163,
+      "label": "PER"
+    },
+    {
+      "text": "Accablé",
+      "start": 2602,
+      "end": 2609,
+      "label": "PER"
+    },
+    {
+      "text": "néophyte",
+      "start": 2676,
+      "end": 2684,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 2764,
+      "end": 2772,
+      "label": "PER"
+    },
+    {
+      "text": "bombé",
+      "start": 3403,
+      "end": 3408,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 3501,
+      "end": 3509,
+      "label": "PER"
+    },
+    {
+      "text": "Socrate",
+      "start": 3516,
+      "end": 3523,
+      "label": "PER"
+    },
+    {
+      "text": "Mettez",
+      "start": 4118,
+      "end": 4124,
+      "label": "MISC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 4486,
+      "end": 4495,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 4781,
+      "end": 4788,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 4798,
+      "end": 4804,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 5185,
+      "end": 5191,
+      "label": "PER"
+    },
+    {
+      "text": "Concentré",
+      "start": 5193,
+      "end": 5202,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 6326,
+      "end": 6332,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 6682,
+      "end": 6687,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 6769,
+      "end": 6785,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 6871,
+      "end": 6877,
+      "label": "LOC"
+    },
+    {
+      "text": "Heu",
+      "start": 7022,
+      "end": 7025,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 7153,
+      "end": 7159,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 7524,
+      "end": 7530,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 7620,
+      "end": 7624,
+      "label": "MISC"
+    },
+    {
+      "text": "Prrr",
+      "start": 7630,
+      "end": 7634,
+      "label": "ORG"
+    },
+    {
+      "text": "Regarde",
+      "start": 7748,
+      "end": 7755,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 7767,
+      "end": 7773,
+      "label": "PER"
+    },
+    {
+      "text": "Prométhée",
+      "start": 9011,
+      "end": 9020,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 9205,
+      "end": 9211,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 9306,
+      "end": 9310,
+      "label": "MISC"
+    },
+    {
+      "text": "Hans Holbein",
+      "start": 9592,
+      "end": 9604,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 9608,
+      "end": 9614,
+      "label": "PER"
+    },
+    {
+      "text": "Albrecht Durer",
+      "start": 9616,
+      "end": 9630,
+      "label": "PER"
+    },
+    {
+      "text": "Paul Véronèse",
+      "start": 9634,
+      "end": 9647,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 9915,
+      "end": 9921,
+      "label": "MISC"
+    },
+    {
+      "text": "Albrecht Durer",
+      "start": 9957,
+      "end": 9971,
+      "label": "PER"
+    },
+    {
+      "text": "resta muet",
+      "start": 10910,
+      "end": 10920,
+      "label": "PER"
+    },
+    {
+      "text": "Maître",
+      "start": 10924,
+      "end": 10930,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 10940,
+      "end": 10946,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 11271,
+      "end": 11277,
+      "label": "PER"
+    },
+    {
+      "text": "Forme",
+      "start": 12756,
+      "end": 12761,
+      "label": "LOC"
+    },
+    {
+      "text": "Protée",
+      "start": 12769,
+      "end": 12775,
+      "label": "LOC"
+    },
+    {
+      "text": "Protée",
+      "start": 12833,
+      "end": 12839,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 13344,
+      "end": 13351,
+      "label": "PER"
+    },
+    {
+      "text": "Forme",
+      "start": 13549,
+      "end": 13554,
+      "label": "LOC"
+    },
+    {
+      "text": "Forme",
+      "start": 13559,
+      "end": 13564,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 14170,
+      "end": 14176,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 15289,
+      "end": 15295,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 15299,
+      "end": 15306,
+      "label": "PER"
+    },
+    {
+      "text": "Mabuse",
+      "start": 15496,
+      "end": 15502,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 15601,
+      "end": 15602,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubens",
+      "start": 15682,
+      "end": 15688,
+      "label": "LOC"
+    },
+    {
+      "text": "vermillon",
+      "start": 15745,
+      "end": 15754,
+      "label": "LOC"
+    },
+    {
+      "text": "Art",
+      "start": 15906,
+      "end": 15909,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 16257,
+      "end": 16263,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 16466,
+      "end": 16467,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 16486,
+      "end": 16492,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 16582,
+      "end": 16587,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 16600,
+      "end": 16604,
+      "label": "MISC"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 16674,
+      "end": 16689,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 16693,
+      "end": 16698,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte de Porbus",
+      "start": 16881,
+      "end": 16897,
+      "label": "PER"
+    },
+    {
+      "text": "la leçon",
+      "start": 17063,
+      "end": 17071,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 17301,
+      "end": 17307,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 17310,
+      "end": 17316,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 17500,
+      "end": 17506,
+      "label": "PER"
+    },
+    {
+      "text": "O Filii de Pâques",
+      "start": 18210,
+      "end": 18227,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 18229,
+      "end": 18235,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 18239,
+      "end": 18246,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 18347,
+      "end": 18351,
+      "label": "LOC"
+    },
+    {
+      "text": "Regarde",
+      "start": 18633,
+      "end": 18640,
+      "label": "PER"
+    },
+    {
+      "text": "Remarques",
+      "start": 18805,
+      "end": 18814,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 19814,
+      "end": 19821,
+      "label": "PER"
+    },
+    {
+      "text": "Paf",
+      "start": 20182,
+      "end": 20185,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 20306,
+      "end": 20312,
+      "label": "ORG"
+    },
+    {
+      "text": "Pon !",
+      "start": 20320,
+      "end": 20325,
+      "label": "MISC"
+    },
+    {
+      "text": "Égyptienne",
+      "start": 20555,
+      "end": 20565,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 20569,
+      "end": 20573,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 20637,
+      "end": 20643,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 20798,
+      "end": 20804,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 20808,
+      "end": 20815,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Noiseuse",
+      "start": 20879,
+      "end": 20893,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 21312,
+      "end": 21327,
+      "label": "PER"
+    },
+    {
+      "text": "Normand",
+      "start": 21389,
+      "end": 21396,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 21530,
+      "end": 21536,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 21542,
+      "end": 21548,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 21551,
+      "end": 21558,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 21651,
+      "end": 21657,
+      "label": "LOC"
+    },
+    {
+      "text": "pont Saint Michel",
+      "start": 21846,
+      "end": 21863,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 21961,
+      "end": 21968,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 22213,
+      "end": 22219,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 22336,
+      "end": 22340,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 22492,
+      "end": 22507,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 23089,
+      "end": 23093,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 23207,
+      "end": 23214,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 23257,
+      "end": 23263,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 23655,
+      "end": 23661,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 23728,
+      "end": 23735,
+      "label": "PER"
+    },
+    {
+      "text": "Quel beau Giorgion",
+      "start": 23821,
+      "end": 23839,
+      "label": "MISC"
+    },
+    {
+      "text": "Tudieu",
+      "start": 23921,
+      "end": 23927,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 23989,
+      "end": 23996,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 24088,
+      "end": 24097,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 24104,
+      "end": 24110,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 24167,
+      "end": 24171,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24344,
+      "end": 24348,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 24394,
+      "end": 24400,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Noiseuse",
+      "start": 24443,
+      "end": 24457,
+      "label": "PER"
+    },
+    {
+      "text": "Montrer",
+      "start": 24569,
+      "end": 24576,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 25115,
+      "end": 25121,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 27763,
+      "end": 27768,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 28292,
+      "end": 28298,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 28323,
+      "end": 28338,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 28918,
+      "end": 28924,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 29076,
+      "end": 29083,
+      "label": "PER"
+    },
+    {
+      "text": "Adam de Mabuse",
+      "start": 29150,
+      "end": 29164,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 29322,
+      "end": 29337,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 29879,
+      "end": 29886,
+      "label": "PER"
+    },
+    {
+      "text": "Art",
+      "start": 29949,
+      "end": 29952,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 30032,
+      "end": 30038,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 30047,
+      "end": 30056,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 30278,
+      "end": 30283,
+      "label": "LOC"
+    },
+    {
+      "text": "Orphée",
+      "start": 30561,
+      "end": 30567,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 30663,
+      "end": 30669,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 30672,
+      "end": 30679,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 30727,
+      "end": 30733,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 30787,
+      "end": 30791,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 31030,
+      "end": 31036,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 31047,
+      "end": 31056,
+      "label": "PER"
+    },
+    {
+      "text": "Mabuse",
+      "start": 31079,
+      "end": 31085,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 31142,
+      "end": 31151,
+      "label": "PER"
+    },
+    {
+      "text": "Mabuse",
+      "start": 31229,
+      "end": 31235,
+      "label": "LOC"
+    },
+    {
+      "text": "Mabuse",
+      "start": 31250,
+      "end": 31256,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 31533,
+      "end": 31546,
+      "label": "PER"
+    },
+    {
+      "text": "Mabuse",
+      "start": 31659,
+      "end": 31665,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 31777,
+      "end": 31786,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 33000,
+      "end": 33007,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 33024,
+      "end": 33030,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 33059,
+      "end": 33065,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 33152,
+      "end": 33167,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Harpe",
+      "start": 33195,
+      "end": 33210,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33464,
+      "end": 33469,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 33697,
+      "end": 33707,
+      "label": "MISC"
+    },
+    {
+      "text": "Gillette",
+      "start": 33914,
+      "end": 33922,
+      "label": "PER"
+    },
+    {
+      "text": "Amené",
+      "start": 34498,
+      "end": 34503,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 34506,
+      "end": 34511,
+      "label": "LOC"
+    },
+    {
+      "text": "Gillette",
+      "start": 34930,
+      "end": 34938,
+      "label": "PER"
+    },
+    {
+      "text": "Écoute",
+      "start": 35209,
+      "end": 35215,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 35217,
+      "end": 35225,
+      "label": "PER"
+    },
+    {
+      "text": "O Dieu",
+      "start": 35448,
+      "end": 35454,
+      "label": "MISC"
+    },
+    {
+      "text": "Un secret ?",
+      "start": 35504,
+      "end": 35515,
+      "label": "MISC"
+    },
+    {
+      "text": "Le Poussin",
+      "start": 35548,
+      "end": 35558,
+      "label": "LOC"
+    },
+    {
+      "text": "Parle",
+      "start": 35575,
+      "end": 35580,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette !",
+      "start": 35589,
+      "end": 35599,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 35621,
+      "end": 35625,
+      "label": "MISC"
+    },
+    {
+      "text": "Oui",
+      "start": 35659,
+      "end": 35662,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimerais",
+      "start": 35913,
+      "end": 35921,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 36016,
+      "end": 36020,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 36034,
+      "end": 36041,
+      "label": "PER"
+    },
+    {
+      "text": "Le Poussin",
+      "start": 36223,
+      "end": 36233,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 36375,
+      "end": 36382,
+      "label": "PER"
+    },
+    {
+      "text": "Nick",
+      "start": 36432,
+      "end": 36436,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 36565,
+      "end": 36572,
+      "label": "PER"
+    },
+    {
+      "text": "Obéir",
+      "start": 36682,
+      "end": 36687,
+      "label": "ORG"
+    },
+    {
+      "text": "Pardonne",
+      "start": 36848,
+      "end": 36856,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 37397,
+      "end": 37404,
+      "label": "PER"
+    },
+    {
+      "text": "Consultons",
+      "start": 37867,
+      "end": 37877,
+      "label": "MISC"
+    },
+    {
+      "text": "Hardouin",
+      "start": 37886,
+      "end": 37894,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 37960,
+      "end": 37964,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 38116,
+      "end": 38123,
+      "label": "LOC"
+    },
+    {
+      "text": "Gillette",
+      "start": 38131,
+      "end": 38139,
+      "label": "LOC"
+    },
+    {
+      "text": "Gillette",
+      "start": 38183,
+      "end": 38191,
+      "label": "PER"
+    },
+    {
+      "text": "II",
+      "start": 38504,
+      "end": 38506,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 38560,
+      "end": 38567,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 38574,
+      "end": 38580,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 38608,
+      "end": 38617,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 39187,
+      "end": 39193,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 39252,
+      "end": 39256,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 39279,
+      "end": 39285,
+      "label": "PER"
+    },
+    {
+      "text": "Bruges",
+      "start": 39328,
+      "end": 39334,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquie",
+      "start": 39715,
+      "end": 39722,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 39727,
+      "end": 39732,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 39737,
+      "end": 39741,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 40060,
+      "end": 40064,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 40079,
+      "end": 40085,
+      "label": "MISC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 40178,
+      "end": 40187,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 40207,
+      "end": 40214,
+      "label": "PER"
+    },
+    {
+      "text": "miens",
+      "start": 40910,
+      "end": 40915,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 41402,
+      "end": 41409,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique de l'Arioste",
+      "start": 41413,
+      "end": 41435,
+      "label": "ORG"
+    },
+    {
+      "text": "Béatrix",
+      "start": 41440,
+      "end": 41447,
+      "label": "PER"
+    },
+    {
+      "text": "Dante",
+      "start": 41451,
+      "end": 41456,
+      "label": "LOC"
+    },
+    {
+      "text": "Formes",
+      "start": 41490,
+      "end": 41496,
+      "label": "LOC"
+    },
+    {
+      "text": "Veux",
+      "start": 41693,
+      "end": 41697,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 41827,
+      "end": 41831,
+      "label": "MISC"
+    },
+    {
+      "text": "Vienne",
+      "start": 41889,
+      "end": 41895,
+      "label": "LOC"
+    },
+    {
+      "text": "Corrége",
+      "start": 41974,
+      "end": 41981,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 41986,
+      "end": 41997,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 42002,
+      "end": 42008,
+      "label": "MISC"
+    },
+    {
+      "text": "Belle Noiseuse",
+      "start": 42198,
+      "end": 42212,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 42469,
+      "end": 42473,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 42883,
+      "end": 42889,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 43026,
+      "end": 43035,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 43361,
+      "end": 43367,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 43426,
+      "end": 43433,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 43510,
+      "end": 43519,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 43588,
+      "end": 43592,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 43606,
+      "end": 43612,
+      "label": "PER"
+    },
+    {
+      "text": "Asie",
+      "start": 43674,
+      "end": 43678,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 43801,
+      "end": 43805,
+      "label": "MISC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 43823,
+      "end": 43832,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine Lescault",
+      "start": 44091,
+      "end": 44109,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Noiseuse",
+      "start": 44143,
+      "end": 44157,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 44257,
+      "end": 44261,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 44272,
+      "end": 44278,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 44334,
+      "end": 44343,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 44348,
+      "end": 44354,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 44413,
+      "end": 44421,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 44425,
+      "end": 44440,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 44474,
+      "end": 44483,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 44680,
+      "end": 44689,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 44768,
+      "end": 44776,
+      "label": "MISC"
+    },
+    {
+      "text": "Reviens au logis",
+      "start": 44863,
+      "end": 44879,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 45014,
+      "end": 45020,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 45371,
+      "end": 45377,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 45408,
+      "end": 45416,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 45528,
+      "end": 45533,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 45617,
+      "end": 45625,
+      "label": "PER"
+    },
+    {
+      "text": "Géorgienne innocente et peureuse",
+      "start": 45680,
+      "end": 45712,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 46002,
+      "end": 46009,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 46390,
+      "end": 46398,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 46527,
+      "end": 46531,
+      "label": "MISC"
+    },
+    {
+      "text": "Catherine",
+      "start": 46772,
+      "end": 46781,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 46845,
+      "end": 46854,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 47070,
+      "end": 47076,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 47105,
+      "end": 47112,
+      "label": "LOC"
+    },
+    {
+      "text": "Gillette",
+      "start": 47201,
+      "end": 47209,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 47240,
+      "end": 47247,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 47251,
+      "end": 47257,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 47387,
+      "end": 47396,
+      "label": "PER"
+    },
+    {
+      "text": "Giorgion",
+      "start": 47493,
+      "end": 47501,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 47506,
+      "end": 47510,
+      "label": "MISC"
+    },
+    {
+      "text": "Vieillard",
+      "start": 47566,
+      "end": 47575,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 47584,
+      "end": 47591,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 47629,
+      "end": 47637,
+      "label": "PER"
+    },
+    {
+      "text": "Comprends",
+      "start": 47803,
+      "end": 47812,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Poussin",
+      "start": 47818,
+      "end": 47833,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 47939,
+      "end": 47947,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 48029,
+      "end": 48035,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 48039,
+      "end": 48046,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 48150,
+      "end": 48155,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 48203,
+      "end": 48207,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 48310,
+      "end": 48317,
+      "label": "LOC"
+    },
+    {
+      "text": "Entrez",
+      "start": 48712,
+      "end": 48718,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 48919,
+      "end": 48928,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 48990,
+      "end": 48996,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 49000,
+      "end": 49007,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 49305,
+      "end": 49309,
+      "label": "MISC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 49343,
+      "end": 49352,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 49560,
+      "end": 49566,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 49570,
+      "end": 49577,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 49690,
+      "end": 49694,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 49915,
+      "end": 49919,
+      "label": "MISC"
+    },
+    {
+      "text": "Admirez",
+      "start": 50456,
+      "end": 50463,
+      "label": "LOC"
+    },
+    {
+      "text": "Apercevez",
+      "start": 50866,
+      "end": 50875,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 50905,
+      "end": 50912,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 50915,
+      "end": 50921,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 51288,
+      "end": 51297,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 51351,
+      "end": 51356,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 51543,
+      "end": 51550,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 51771,
+      "end": 51777,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 52172,
+      "end": 52177,
+      "label": "LOC"
+    },
+    {
+      "text": "Paros",
+      "start": 52191,
+      "end": 52196,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 52293,
+      "end": 52299,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 52323,
+      "end": 52330,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 52535,
+      "end": 52544,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 52652,
+      "end": 52658,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 52896,
+      "end": 52901,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 53055,
+      "end": 53061,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 53149,
+      "end": 53155,
+      "label": "PER"
+    },
+    {
+      "text": "Regarde",
+      "start": 53289,
+      "end": 53296,
+      "label": "PER"
+    },
+    {
+      "text": "Approchez",
+      "start": 53780,
+      "end": 53789,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 53844,
+      "end": 53849,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 53974,
+      "end": 53980,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 54034,
+      "end": 54041,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 54171,
+      "end": 54178,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 54193,
+      "end": 54199,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 54298,
+      "end": 54305,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 54309,
+      "end": 54316,
+      "label": "LOC"
+    },
+    {
+      "text": "Porbus",
+      "start": 54366,
+      "end": 54372,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 54529,
+      "end": 54536,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 54563,
+      "end": 54572,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 54671,
+      "end": 54677,
+      "label": "LOC"
+    },
+    {
+      "text": "Poussin",
+      "start": 54680,
+      "end": 54687,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon bon Porbus",
+      "start": 54851,
+      "end": 54865,
+      "label": "MISC"
+    },
+    {
+      "text": "Porbus",
+      "start": 55032,
+      "end": 55038,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 55183,
+      "end": 55188,
+      "label": "LOC"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 55191,
+      "end": 55200,
+      "label": "PER"
+    },
+    {
+      "text": "chancela",
+      "start": 55244,
+      "end": 55252,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 55677,
+      "end": 55683,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, je la vois",
+      "start": 55770,
+      "end": 55785,
+      "label": "MISC"
+    },
+    {
+      "text": "cria t",
+      "start": 55788,
+      "end": 55794,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 55846,
+      "end": 55853,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 55877,
+      "end": 55885,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu",
+      "start": 55911,
+      "end": 55919,
+      "label": "MISC"
+    },
+    {
+      "text": "Tue moi !",
+      "start": 55987,
+      "end": 55996,
+      "label": "MISC"
+    },
+    {
+      "text": "Poussin",
+      "start": 56157,
+      "end": 56164,
+      "label": "PER"
+    },
+    {
+      "text": "Gillette",
+      "start": 56174,
+      "end": 56182,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 56184,
+      "end": 56193,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 56208,
+      "end": 56217,
+      "label": "PER"
+    },
+    {
+      "text": "Porbus",
+      "start": 56648,
+      "end": 56654,
+      "label": "PER"
+    },
+    {
+      "text": "Frenhofer",
+      "start": 56676,
+      "end": 56685,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 56758,
+      "end": 56763,
+      "label": "LOC"
+    }
+  ]
+}

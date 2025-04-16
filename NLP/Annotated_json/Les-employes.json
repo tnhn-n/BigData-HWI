@@ -1,0 +1,3916 @@
+{
+  "entities": [
+    {
+      "text": "EMPLOYÉS",
+      "start": 4,
+      "end": 12,
+      "label": "ORG"
+    },
+    {
+      "text": "OU LA FEMME SUPÉRIEURE",
+      "start": 14,
+      "end": 36,
+      "label": "ORG"
+    },
+    {
+      "text": "COMTESSE SÉRAFINA",
+      "start": 49,
+      "end": 66,
+      "label": "ORG"
+    },
+    {
+      "text": "PORCIA",
+      "start": 85,
+      "end": 91,
+      "label": "ORG"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 236,
+      "end": 247,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 291,
+      "end": 297,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 335,
+      "end": 343,
+      "label": "LOC"
+    },
+    {
+      "text": "Conteurs italiens",
+      "start": 372,
+      "end": 389,
+      "label": "MISC"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 534,
+      "end": 545,
+      "label": "PER"
+    },
+    {
+      "text": "Milanais",
+      "start": 785,
+      "end": 793,
+      "label": "LOC"
+    },
+    {
+      "text": "Piémont",
+      "start": 798,
+      "end": 805,
+      "label": "LOC"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 817,
+      "end": 828,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 833,
+      "end": 841,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 848,
+      "end": 853,
+      "label": "LOC"
+    },
+    {
+      "text": "Dolcini de Mantoue",
+      "start": 865,
+      "end": 883,
+      "label": "LOC"
+    },
+    {
+      "text": "San Severini de Créma",
+      "start": 889,
+      "end": 910,
+      "label": "LOC"
+    },
+    {
+      "text": "Visconti de Milan",
+      "start": 916,
+      "end": 933,
+      "label": "LOC"
+    },
+    {
+      "text": "Guidoboni de Tortone",
+      "start": 939,
+      "end": 959,
+      "label": "ORG"
+    },
+    {
+      "text": "Sforza",
+      "start": 965,
+      "end": 971,
+      "label": "PER"
+    },
+    {
+      "text": "Doria",
+      "start": 977,
+      "end": 982,
+      "label": "PER"
+    },
+    {
+      "text": "Frégose",
+      "start": 988,
+      "end": 995,
+      "label": "PER"
+    },
+    {
+      "text": "Dante Alighieri",
+      "start": 1001,
+      "end": 1016,
+      "label": "PER"
+    },
+    {
+      "text": "Frascator",
+      "start": 1049,
+      "end": 1058,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite de France",
+      "start": 1069,
+      "end": 1089,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 1104,
+      "end": 1113,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de Bohème",
+      "start": 1118,
+      "end": 1131,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 1133,
+      "end": 1143,
+      "label": "PER"
+    },
+    {
+      "text": "archiduc d'Autriche",
+      "start": 1145,
+      "end": 1164,
+      "label": "PER"
+    },
+    {
+      "text": "Medici",
+      "start": 1170,
+      "end": 1176,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauli",
+      "start": 1182,
+      "end": 1187,
+      "label": "LOC"
+    },
+    {
+      "text": "Pallavicini",
+      "start": 1189,
+      "end": 1200,
+      "label": "PER"
+    },
+    {
+      "text": "Bentivoglio de Bologne",
+      "start": 1202,
+      "end": 1224,
+      "label": "PER"
+    },
+    {
+      "text": "Soderi",
+      "start": 1226,
+      "end": 1232,
+      "label": "LOC"
+    },
+    {
+      "text": "Colonna",
+      "start": 1234,
+      "end": 1241,
+      "label": "PER"
+    },
+    {
+      "text": "Scaliger",
+      "start": 1243,
+      "end": 1251,
+      "label": "PER"
+    },
+    {
+      "text": "Cardone d'Espagne",
+      "start": 1257,
+      "end": 1274,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 1279,
+      "end": 1285,
+      "label": "LOC"
+    },
+    {
+      "text": "Marigny",
+      "start": 1292,
+      "end": 1299,
+      "label": "LOC"
+    },
+    {
+      "text": "Anne de Polignac",
+      "start": 1301,
+      "end": 1317,
+      "label": "PER"
+    },
+    {
+      "text": "Marsillac",
+      "start": 1331,
+      "end": 1340,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Larochefoucault",
+      "start": 1344,
+      "end": 1371,
+      "label": "PER"
+    },
+    {
+      "text": "cardinal d'Armagnac",
+      "start": 1376,
+      "end": 1395,
+      "label": "PER"
+    },
+    {
+      "text": "Cahors",
+      "start": 1409,
+      "end": 1415,
+      "label": "LOC"
+    },
+    {
+      "text": "Boccace",
+      "start": 1522,
+      "end": 1529,
+      "label": "PER"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 1553,
+      "end": 1564,
+      "label": "PER"
+    },
+    {
+      "text": "Gallerana",
+      "start": 1715,
+      "end": 1724,
+      "label": "PER"
+    },
+    {
+      "text": "Bergame",
+      "start": 1738,
+      "end": 1745,
+      "label": "LOC"
+    },
+    {
+      "text": "Roméo",
+      "start": 1794,
+      "end": 1799,
+      "label": "MISC"
+    },
+    {
+      "text": "Juliette",
+      "start": 1803,
+      "end": 1811,
+      "label": "PER"
+    },
+    {
+      "text": "Hypolita Visconti ed Atellana",
+      "start": 1847,
+      "end": 1876,
+      "label": "MISC"
+    },
+    {
+      "text": "Livio Liviano",
+      "start": 1925,
+      "end": 1938,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 1950,
+      "end": 1963,
+      "label": "PER"
+    },
+    {
+      "text": "Riario",
+      "start": 1992,
+      "end": 1998,
+      "label": "MISC"
+    },
+    {
+      "text": "Girolamo Ungaro",
+      "start": 2023,
+      "end": 2038,
+      "label": "PER"
+    },
+    {
+      "text": "reine de Navarre",
+      "start": 2224,
+      "end": 2240,
+      "label": "PER"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 2275,
+      "end": 2286,
+      "label": "PER"
+    },
+    {
+      "text": "gentilissima",
+      "start": 2347,
+      "end": 2359,
+      "label": "MISC"
+    },
+    {
+      "text": "Serafina San Severina",
+      "start": 2384,
+      "end": 2405,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2822,
+      "end": 2827,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 3031,
+      "end": 3037,
+      "label": "PER"
+    },
+    {
+      "text": "Il Bandello",
+      "start": 3101,
+      "end": 3112,
+      "label": "PER"
+    },
+    {
+      "text": "BALZAC",
+      "start": 3844,
+      "end": 3850,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 3860,
+      "end": 3865,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 4029,
+      "end": 4038,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Bureau",
+      "start": 4079,
+      "end": 4093,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministères",
+      "start": 4121,
+      "end": 4131,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 4422,
+      "end": 4430,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 4736,
+      "end": 4745,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 4839,
+      "end": 4851,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère",
+      "start": 5083,
+      "end": 5092,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 5154,
+      "end": 5161,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 5319,
+      "end": 5328,
+      "label": "LOC"
+    },
+    {
+      "text": "Lys",
+      "start": 6220,
+      "end": 6223,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 6249,
+      "end": 6261,
+      "label": "MISC"
+    },
+    {
+      "text": "lycée Napoléon",
+      "start": 6751,
+      "end": 6765,
+      "label": "LOC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 6806,
+      "end": 6813,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 6891,
+      "end": 6900,
+      "label": "PER"
+    },
+    {
+      "text": "Sous Chef",
+      "start": 6907,
+      "end": 6916,
+      "label": "MISC"
+    },
+    {
+      "text": "Chef",
+      "start": 6921,
+      "end": 6925,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Leprince",
+      "start": 7121,
+      "end": 7138,
+      "label": "MISC"
+    },
+    {
+      "text": "Xavier Rabourdin",
+      "start": 7232,
+      "end": 7248,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine Leprince",
+      "start": 7292,
+      "end": 7310,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de France",
+      "start": 7981,
+      "end": 7999,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 8041,
+      "end": 8050,
+      "label": "LOC"
+    },
+    {
+      "text": "Orphelin",
+      "start": 8578,
+      "end": 8586,
+      "label": "PER"
+    },
+    {
+      "text": "Xavier",
+      "start": 8639,
+      "end": 8645,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Leprince",
+      "start": 8662,
+      "end": 8679,
+      "label": "MISC"
+    },
+    {
+      "text": "Célestine",
+      "start": 8682,
+      "end": 8691,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Leprince",
+      "start": 8716,
+      "end": 8737,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 8855,
+      "end": 8871,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 8900,
+      "end": 8909,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 8955,
+      "end": 8964,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 9005,
+      "end": 9014,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 9053,
+      "end": 9061,
+      "label": "MISC"
+    },
+    {
+      "text": "Forcé",
+      "start": 9072,
+      "end": 9077,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 9185,
+      "end": 9194,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 9248,
+      "end": 9255,
+      "label": "ORG"
+    },
+    {
+      "text": "Xavier",
+      "start": 9257,
+      "end": 9263,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 9333,
+      "end": 9342,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 9539,
+      "end": 9548,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 9717,
+      "end": 9733,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 9853,
+      "end": 9862,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Leprince",
+      "start": 9996,
+      "end": 10013,
+      "label": "MISC"
+    },
+    {
+      "text": "Maison Nucingen",
+      "start": 10377,
+      "end": 10392,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 10600,
+      "end": 10616,
+      "label": "PER"
+    },
+    {
+      "text": "Leprince",
+      "start": 10766,
+      "end": 10774,
+      "label": "PER"
+    },
+    {
+      "text": "place de Chef de Division",
+      "start": 10779,
+      "end": 10804,
+      "label": "LOC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 10857,
+      "end": 10871,
+      "label": "LOC"
+    },
+    {
+      "text": "Droite",
+      "start": 10898,
+      "end": 10904,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 10963,
+      "end": 10972,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Rabourdin",
+      "start": 11387,
+      "end": 11403,
+      "label": "PER"
+    },
+    {
+      "text": "Leprince",
+      "start": 11459,
+      "end": 11467,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 12066,
+      "end": 12082,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 12272,
+      "end": 12277,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12489,
+      "end": 12494,
+      "label": "LOC"
+    },
+    {
+      "text": "Veau d'or",
+      "start": 12589,
+      "end": 12598,
+      "label": "MISC"
+    },
+    {
+      "text": "Duphot",
+      "start": 12775,
+      "end": 12781,
+      "label": "PER"
+    },
+    {
+      "text": "Prélevez",
+      "start": 12830,
+      "end": 12838,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 12870,
+      "end": 12876,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 13154,
+      "end": 13170,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 13839,
+      "end": 13848,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 14258,
+      "end": 14267,
+      "label": "LOC"
+    },
+    {
+      "text": "Sociétés",
+      "start": 14539,
+      "end": 14547,
+      "label": "MISC"
+    },
+    {
+      "text": "Ordre Social",
+      "start": 14579,
+      "end": 14591,
+      "label": "ORG"
+    },
+    {
+      "text": "Ordre Naturel",
+      "start": 14605,
+      "end": 14618,
+      "label": "ORG"
+    },
+    {
+      "text": "Athanase Granson",
+      "start": 14770,
+      "end": 14786,
+      "label": "PER"
+    },
+    {
+      "text": "Cité",
+      "start": 15340,
+      "end": 15344,
+      "label": "LOC"
+    },
+    {
+      "text": "Ciel",
+      "start": 15363,
+      "end": 15367,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Rabourdin",
+      "start": 15369,
+      "end": 15385,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 15587,
+      "end": 15595,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 15602,
+      "end": 15608,
+      "label": "PER"
+    },
+    {
+      "text": "saint Laurent",
+      "start": 16001,
+      "end": 16014,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 16193,
+      "end": 16202,
+      "label": "LOC"
+    },
+    {
+      "text": "Xavier Rabourdin",
+      "start": 16222,
+      "end": 16238,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 16774,
+      "end": 16785,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 16802,
+      "end": 16820,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 16952,
+      "end": 16961,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 17010,
+      "end": 17019,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 17481,
+      "end": 17490,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 17492,
+      "end": 17501,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 17925,
+      "end": 17934,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 17937,
+      "end": 17952,
+      "label": "PER"
+    },
+    {
+      "text": "Savez",
+      "start": 18014,
+      "end": 18019,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 18082,
+      "end": 18098,
+      "label": "PER"
+    },
+    {
+      "text": "Xavier",
+      "start": 18219,
+      "end": 18225,
+      "label": "PER"
+    },
+    {
+      "text": "Genevois",
+      "start": 18513,
+      "end": 18521,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 18586,
+      "end": 18595,
+      "label": "PER"
+    },
+    {
+      "text": "Neuf Thermidor",
+      "start": 19291,
+      "end": 19305,
+      "label": "ORG"
+    },
+    {
+      "text": "Célestine",
+      "start": 19415,
+      "end": 19424,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 19426,
+      "end": 19435,
+      "label": "PER"
+    },
+    {
+      "text": "Buffon",
+      "start": 20143,
+      "end": 20149,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 20261,
+      "end": 20270,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 20925,
+      "end": 20929,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 21149,
+      "end": 21158,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 21696,
+      "end": 21705,
+      "label": "PER"
+    },
+    {
+      "text": "Xavier",
+      "start": 22399,
+      "end": 22405,
+      "label": "PER"
+    },
+    {
+      "text": "Fermes",
+      "start": 23252,
+      "end": 23258,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 23577,
+      "end": 23581,
+      "label": "LOC"
+    },
+    {
+      "text": "Prince",
+      "start": 23621,
+      "end": 23627,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère",
+      "start": 23913,
+      "end": 23922,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 24243,
+      "end": 24251,
+      "label": "PER"
+    },
+    {
+      "text": "Bureaux",
+      "start": 24738,
+      "end": 24745,
+      "label": "LOC"
+    },
+    {
+      "text": "Rapport",
+      "start": 24895,
+      "end": 24902,
+      "label": "MISC"
+    },
+    {
+      "text": "Expliquons le Rapport",
+      "start": 24904,
+      "end": 24925,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 24993,
+      "end": 25001,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 25131,
+      "end": 25135,
+      "label": "LOC"
+    },
+    {
+      "text": "Bureaux",
+      "start": 25191,
+      "end": 25198,
+      "label": "PER"
+    },
+    {
+      "text": "Chambres",
+      "start": 25262,
+      "end": 25270,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambre des Députés",
+      "start": 25574,
+      "end": 25593,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 25747,
+      "end": 25754,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 26036,
+      "end": 26045,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 26264,
+      "end": 26273,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 26411,
+      "end": 26417,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 26551,
+      "end": 26558,
+      "label": "ORG"
+    },
+    {
+      "text": "La France",
+      "start": 26701,
+      "end": 26710,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 26803,
+      "end": 26809,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 26968,
+      "end": 26977,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 27277,
+      "end": 27286,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 27345,
+      "end": 27354,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambres",
+      "start": 27557,
+      "end": 27565,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministères",
+      "start": 28768,
+      "end": 28778,
+      "label": "LOC"
+    },
+    {
+      "text": "Sixte Quint",
+      "start": 29220,
+      "end": 29231,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Bureau",
+      "start": 29245,
+      "end": 29259,
+      "label": "MISC"
+    },
+    {
+      "text": "Administration française",
+      "start": 29385,
+      "end": 29409,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 29943,
+      "end": 29952,
+      "label": "PER"
+    },
+    {
+      "text": "Administration",
+      "start": 30239,
+      "end": 30253,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 30256,
+      "end": 30261,
+      "label": "LOC"
+    },
+    {
+      "text": "Division importante",
+      "start": 30349,
+      "end": 30368,
+      "label": "MISC"
+    },
+    {
+      "text": "Longchamp",
+      "start": 30885,
+      "end": 30894,
+      "label": "LOC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 31056,
+      "end": 31064,
+      "label": "LOC"
+    },
+    {
+      "text": "PROGRÈS",
+      "start": 31097,
+      "end": 31104,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 31106,
+      "end": 31115,
+      "label": "PER"
+    },
+    {
+      "text": "ANARCHIE",
+      "start": 31127,
+      "end": 31135,
+      "label": "MISC"
+    },
+    {
+      "text": "Royauté",
+      "start": 31866,
+      "end": 31873,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 32336,
+      "end": 32346,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 32881,
+      "end": 32887,
+      "label": "LOC"
+    },
+    {
+      "text": "Madrid",
+      "start": 32891,
+      "end": 32897,
+      "label": "LOC"
+    },
+    {
+      "text": "Amsterdam",
+      "start": 32901,
+      "end": 32910,
+      "label": "LOC"
+    },
+    {
+      "text": "Stockholm",
+      "start": 32914,
+      "end": 32923,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 32929,
+      "end": 32933,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 33113,
+      "end": 33117,
+      "label": "LOC"
+    },
+    {
+      "text": "Adorer",
+      "start": 33156,
+      "end": 33162,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 33754,
+      "end": 33763,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 34138,
+      "end": 34142,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 34314,
+      "end": 34323,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 34483,
+      "end": 34491,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 34493,
+      "end": 34502,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 34504,
+      "end": 34513,
+      "label": "PER"
+    },
+    {
+      "text": "Ximenès",
+      "start": 34517,
+      "end": 34524,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 34670,
+      "end": 34674,
+      "label": "LOC"
+    },
+    {
+      "text": "Administration",
+      "start": 34837,
+      "end": 34851,
+      "label": "ORG"
+    },
+    {
+      "text": "Chef",
+      "start": 35377,
+      "end": 35381,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 35393,
+      "end": 35402,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 35590,
+      "end": 35599,
+      "label": "LOC"
+    },
+    {
+      "text": "Mazarin",
+      "start": 35638,
+      "end": 35645,
+      "label": "PER"
+    },
+    {
+      "text": "Suger",
+      "start": 35650,
+      "end": 35655,
+      "label": "PER"
+    },
+    {
+      "text": "Sully",
+      "start": 35660,
+      "end": 35665,
+      "label": "LOC"
+    },
+    {
+      "text": "Choiseul",
+      "start": 35670,
+      "end": 35678,
+      "label": "LOC"
+    },
+    {
+      "text": "Colbert",
+      "start": 35683,
+      "end": 35690,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 36130,
+      "end": 36138,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 36268,
+      "end": 36272,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 36355,
+      "end": 36364,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 36394,
+      "end": 36403,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 36530,
+      "end": 36539,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil",
+      "start": 37299,
+      "end": 37306,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 37419,
+      "end": 37428,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 37817,
+      "end": 37822,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 37985,
+      "end": 37994,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice",
+      "start": 37996,
+      "end": 38003,
+      "label": "PER"
+    },
+    {
+      "text": "Armée à part",
+      "start": 38007,
+      "end": 38019,
+      "label": "MISC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 38463,
+      "end": 38471,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour royale",
+      "start": 38486,
+      "end": 38497,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 38552,
+      "end": 38561,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 38885,
+      "end": 38889,
+      "label": "LOC"
+    },
+    {
+      "text": "Emprunt",
+      "start": 39137,
+      "end": 39144,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 39354,
+      "end": 39363,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 39387,
+      "end": 39393,
+      "label": "LOC"
+    },
+    {
+      "text": "Law",
+      "start": 39429,
+      "end": 39432,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 39436,
+      "end": 39444,
+      "label": "PER"
+    },
+    {
+      "text": "Xavier",
+      "start": 39495,
+      "end": 39501,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 39587,
+      "end": 39596,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 40205,
+      "end": 40209,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 40308,
+      "end": 40317,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 40483,
+      "end": 40489,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 41255,
+      "end": 41259,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 41843,
+      "end": 41847,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 41955,
+      "end": 41959,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésor",
+      "start": 42364,
+      "end": 42370,
+      "label": "LOC"
+    },
+    {
+      "text": "Supposez",
+      "start": 42578,
+      "end": 42586,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 42759,
+      "end": 42763,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 42998,
+      "end": 43002,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 43154,
+      "end": 43158,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 43166,
+      "end": 43170,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésor",
+      "start": 43175,
+      "end": 43181,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 43415,
+      "end": 43424,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 43536,
+      "end": 43543,
+      "label": "ORG"
+    },
+    {
+      "text": "État",
+      "start": 43704,
+      "end": 43708,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 43794,
+      "end": 43803,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 43807,
+      "end": 43811,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 43885,
+      "end": 43889,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 44082,
+      "end": 44086,
+      "label": "LOC"
+    },
+    {
+      "text": "Industrie",
+      "start": 44230,
+      "end": 44239,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 44426,
+      "end": 44430,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 44480,
+      "end": 44489,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 44561,
+      "end": 44565,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 44953,
+      "end": 44962,
+      "label": "LOC"
+    },
+    {
+      "text": "Industrie",
+      "start": 45115,
+      "end": 45124,
+      "label": "LOC"
+    },
+    {
+      "text": "Douanes",
+      "start": 45233,
+      "end": 45240,
+      "label": "LOC"
+    },
+    {
+      "text": "Départements",
+      "start": 45285,
+      "end": 45297,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 45662,
+      "end": 45671,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 45735,
+      "end": 45744,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 46012,
+      "end": 46016,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 46052,
+      "end": 46056,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Barthélemy",
+      "start": 46172,
+      "end": 46188,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 46201,
+      "end": 46210,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 46335,
+      "end": 46349,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 46589,
+      "end": 46598,
+      "label": "PER"
+    },
+    {
+      "text": "Voies et Moyens",
+      "start": 46671,
+      "end": 46686,
+      "label": "ORG"
+    },
+    {
+      "text": "Dépenses",
+      "start": 46698,
+      "end": 46706,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 46950,
+      "end": 46959,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 47275,
+      "end": 47284,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 47354,
+      "end": 47362,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 47408,
+      "end": 47417,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 47522,
+      "end": 47529,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 47534,
+      "end": 47543,
+      "label": "LOC"
+    },
+    {
+      "text": "Gauche",
+      "start": 47740,
+      "end": 47746,
+      "label": "ORG"
+    },
+    {
+      "text": "Charles X",
+      "start": 47759,
+      "end": 47768,
+      "label": "PER"
+    },
+    {
+      "text": "la Droite",
+      "start": 47800,
+      "end": 47809,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 48048,
+      "end": 48057,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 48147,
+      "end": 48156,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 48229,
+      "end": 48245,
+      "label": "PER"
+    },
+    {
+      "text": "madame Colleville",
+      "start": 48658,
+      "end": 48675,
+      "label": "PER"
+    },
+    {
+      "text": "François Keller",
+      "start": 48693,
+      "end": 48708,
+      "label": "PER"
+    },
+    {
+      "text": "rue Duphot",
+      "start": 48762,
+      "end": 48772,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 49088,
+      "end": 49097,
+      "label": "LOC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 49698,
+      "end": 49712,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 49785,
+      "end": 49794,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 49827,
+      "end": 49836,
+      "label": "LOC"
+    },
+    {
+      "text": "Commissaire du roi",
+      "start": 49998,
+      "end": 50016,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambres",
+      "start": 50051,
+      "end": 50059,
+      "label": "MISC"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 50190,
+      "end": 50206,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Delphine de Nucingen",
+      "start": 50261,
+      "end": 50288,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Colleville",
+      "start": 50337,
+      "end": 50357,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Rabourdin",
+      "start": 50471,
+      "end": 50487,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 50564,
+      "end": 50579,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 50581,
+      "end": 50596,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 50598,
+      "end": 50616,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Carigliano",
+      "start": 50618,
+      "end": 50638,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 50684,
+      "end": 50693,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Rabourdin",
+      "start": 50782,
+      "end": 50798,
+      "label": "PER"
+    },
+    {
+      "text": "Dette",
+      "start": 50854,
+      "end": 50859,
+      "label": "LOC"
+    },
+    {
+      "text": "drap brun",
+      "start": 50934,
+      "end": 50943,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51837,
+      "end": 51842,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 51866,
+      "end": 51875,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 52128,
+      "end": 52137,
+      "label": "LOC"
+    },
+    {
+      "text": "Secrétaire général certain",
+      "start": 52162,
+      "end": 52188,
+      "label": "PER"
+    },
+    {
+      "text": "Clément Chardin des Lupeaulx",
+      "start": 52198,
+      "end": 52226,
+      "label": "PER"
+    },
+    {
+      "text": "Clément des Lupeaulx",
+      "start": 52750,
+      "end": 52770,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 52776,
+      "end": 52784,
+      "label": "LOC"
+    },
+    {
+      "text": "Chardin",
+      "start": 52800,
+      "end": 52807,
+      "label": "LOC"
+    },
+    {
+      "text": "Secrétaires",
+      "start": 52947,
+      "end": 52958,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 53124,
+      "end": 53132,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 53158,
+      "end": 53166,
+      "label": "PER"
+    },
+    {
+      "text": "Ratons",
+      "start": 53202,
+      "end": 53208,
+      "label": "MISC"
+    },
+    {
+      "text": "Assises",
+      "start": 53335,
+      "end": 53342,
+      "label": "PER"
+    },
+    {
+      "text": "Police",
+      "start": 53351,
+      "end": 53357,
+      "label": "ORG"
+    },
+    {
+      "text": "Code",
+      "start": 53461,
+      "end": 53465,
+      "label": "MISC"
+    },
+    {
+      "text": "Chardin des Lupeaulx",
+      "start": 53742,
+      "end": 53762,
+      "label": "LOC"
+    },
+    {
+      "text": "fier",
+      "start": 53791,
+      "end": 53795,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thomas d'Aquin",
+      "start": 54253,
+      "end": 54273,
+      "label": "PER"
+    },
+    {
+      "text": "Secrétaire général",
+      "start": 54320,
+      "end": 54338,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonneau",
+      "start": 54907,
+      "end": 54914,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 54930,
+      "end": 54938,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 55310,
+      "end": 55322,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauvages",
+      "start": 56505,
+      "end": 56513,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 56599,
+      "end": 56607,
+      "label": "PER"
+    },
+    {
+      "text": "Berthier",
+      "start": 56628,
+      "end": 56636,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 56641,
+      "end": 56650,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 56664,
+      "end": 56670,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 56677,
+      "end": 56685,
+      "label": "LOC"
+    },
+    {
+      "text": "Empire de la Restauration",
+      "start": 57294,
+      "end": 57319,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 57400,
+      "end": 57408,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 57455,
+      "end": 57463,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 57584,
+      "end": 57593,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 57636,
+      "end": 57647,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 57841,
+      "end": 57848,
+      "label": "PER"
+    },
+    {
+      "text": "Werbrust",
+      "start": 57850,
+      "end": 57858,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 57862,
+      "end": 57870,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 57904,
+      "end": 57912,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 58011,
+      "end": 58022,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 58070,
+      "end": 58078,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 58123,
+      "end": 58134,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 58153,
+      "end": 58169,
+      "label": "ORG"
+    },
+    {
+      "text": "la Restauration",
+      "start": 58553,
+      "end": 58568,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 58803,
+      "end": 58809,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 58859,
+      "end": 58867,
+      "label": "LOC"
+    },
+    {
+      "text": "Bertrand",
+      "start": 58934,
+      "end": 58942,
+      "label": "PER"
+    },
+    {
+      "text": "Bayle",
+      "start": 59138,
+      "end": 59143,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 59389,
+      "end": 59393,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 59802,
+      "end": 59806,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde Nationale",
+      "start": 59821,
+      "end": 59836,
+      "label": "ORG"
+    },
+    {
+      "text": "Société Anonyme",
+      "start": 59940,
+      "end": 59955,
+      "label": "ORG"
+    },
+    {
+      "text": "Maison du roi",
+      "start": 59990,
+      "end": 60003,
+      "label": "MISC"
+    },
+    {
+      "text": "Secrétaire général",
+      "start": 60059,
+      "end": 60077,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 60154,
+      "end": 60170,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 60298,
+      "end": 60306,
+      "label": "ORG"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 60497,
+      "end": 60511,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 60598,
+      "end": 60602,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 60627,
+      "end": 60636,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 60642,
+      "end": 60650,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 61141,
+      "end": 61149,
+      "label": "LOC"
+    },
+    {
+      "text": "Gauche",
+      "start": 61310,
+      "end": 61316,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 61374,
+      "end": 61380,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 61463,
+      "end": 61470,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 61514,
+      "end": 61522,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 61734,
+      "end": 61742,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 61991,
+      "end": 61999,
+      "label": "LOC"
+    },
+    {
+      "text": "Société Anonyme",
+      "start": 62388,
+      "end": 62403,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 62677,
+      "end": 62685,
+      "label": "LOC"
+    },
+    {
+      "text": "Académie des Inscriptions",
+      "start": 62765,
+      "end": 62790,
+      "label": "ORG"
+    },
+    {
+      "text": "Belles Lettres",
+      "start": 62794,
+      "end": 62808,
+      "label": "MISC"
+    },
+    {
+      "text": "Clément Chardin des Lupeaulx",
+      "start": 62909,
+      "end": 62937,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 63766,
+      "end": 63774,
+      "label": "LOC"
+    },
+    {
+      "text": "Château",
+      "start": 64007,
+      "end": 64014,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 64086,
+      "end": 64093,
+      "label": "ORG"
+    },
+    {
+      "text": "Opéra",
+      "start": 64306,
+      "end": 64311,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariette",
+      "start": 64759,
+      "end": 64767,
+      "label": "PER"
+    },
+    {
+      "text": "Calomniez",
+      "start": 64781,
+      "end": 64790,
+      "label": "PER"
+    },
+    {
+      "text": "Constitutionnel",
+      "start": 65078,
+      "end": 65093,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 65897,
+      "end": 65905,
+      "label": "LOC"
+    },
+    {
+      "text": "Secrétaire général",
+      "start": 65920,
+      "end": 65938,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 66082,
+      "end": 66090,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 66213,
+      "end": 66224,
+      "label": "PER"
+    },
+    {
+      "text": "Ministères",
+      "start": 66383,
+      "end": 66393,
+      "label": "LOC"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 66433,
+      "end": 66447,
+      "label": "LOC"
+    },
+    {
+      "text": "Wagram",
+      "start": 66792,
+      "end": 66798,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon ministériel",
+      "start": 66805,
+      "end": 66825,
+      "label": "PER"
+    },
+    {
+      "text": "Anneau",
+      "start": 67151,
+      "end": 67157,
+      "label": "PER"
+    },
+    {
+      "text": "Château",
+      "start": 67217,
+      "end": 67224,
+      "label": "LOC"
+    },
+    {
+      "text": "Ephestion",
+      "start": 67402,
+      "end": 67411,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 67635,
+      "end": 67643,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément des Lupeaulx",
+      "start": 68334,
+      "end": 68354,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 68760,
+      "end": 68768,
+      "label": "LOC"
+    },
+    {
+      "text": "pantalon noir",
+      "start": 68820,
+      "end": 68833,
+      "label": "PER"
+    },
+    {
+      "text": "cachemire",
+      "start": 68844,
+      "end": 68853,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 69313,
+      "end": 69321,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 69635,
+      "end": 69651,
+      "label": "PER"
+    },
+    {
+      "text": "Clément des Lupeaulx",
+      "start": 69723,
+      "end": 69743,
+      "label": "PER"
+    },
+    {
+      "text": "Bureau à la Division",
+      "start": 69879,
+      "end": 69899,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 70008,
+      "end": 70016,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 70130,
+      "end": 70139,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Duphot",
+      "start": 70144,
+      "end": 70154,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 70167,
+      "end": 70175,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 70304,
+      "end": 70320,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 70624,
+      "end": 70633,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 70748,
+      "end": 70754,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 70889,
+      "end": 70898,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 70925,
+      "end": 70931,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 71269,
+      "end": 71275,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 71357,
+      "end": 71366,
+      "label": "LOC"
+    },
+    {
+      "text": "Leprince",
+      "start": 71459,
+      "end": 71467,
+      "label": "PER"
+    },
+    {
+      "text": "Boulle",
+      "start": 71689,
+      "end": 71695,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 72132,
+      "end": 72148,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 72444,
+      "end": 72453,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 72559,
+      "end": 72567,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 72585,
+      "end": 72601,
+      "label": "PER"
+    },
+    {
+      "text": "Asmodée parisien",
+      "start": 72628,
+      "end": 72644,
+      "label": "ORG"
+    },
+    {
+      "text": "Italie",
+      "start": 72745,
+      "end": 72751,
+      "label": "LOC"
+    },
+    {
+      "text": "Brésil",
+      "start": 72756,
+      "end": 72762,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 72768,
+      "end": 72773,
+      "label": "LOC"
+    },
+    {
+      "text": "lac d'Orta",
+      "start": 72864,
+      "end": 72874,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont Rose",
+      "start": 72886,
+      "end": 72895,
+      "label": "LOC"
+    },
+    {
+      "text": "Chartreuse",
+      "start": 73428,
+      "end": 73438,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 73487,
+      "end": 73502,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 73550,
+      "end": 73563,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 73588,
+      "end": 73604,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 73622,
+      "end": 73630,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 73717,
+      "end": 73723,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 73749,
+      "end": 73758,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 73762,
+      "end": 73768,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 73846,
+      "end": 73854,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 73907,
+      "end": 73923,
+      "label": "PER"
+    },
+    {
+      "text": "Duphot",
+      "start": 74013,
+      "end": 74019,
+      "label": "PER"
+    },
+    {
+      "text": "écrie Figaro",
+      "start": 74074,
+      "end": 74086,
+      "label": "ORG"
+    },
+    {
+      "text": "Chef de Bureau",
+      "start": 74140,
+      "end": 74154,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 74160,
+      "end": 74168,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Colleville",
+      "start": 74273,
+      "end": 74290,
+      "label": "PER"
+    },
+    {
+      "text": "Célimène",
+      "start": 74306,
+      "end": 74314,
+      "label": "PER"
+    },
+    {
+      "text": "rue Duphot",
+      "start": 74321,
+      "end": 74331,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 74519,
+      "end": 74535,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 75003,
+      "end": 75019,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 75501,
+      "end": 75510,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 75627,
+      "end": 75641,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 76068,
+      "end": 76076,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 76213,
+      "end": 76229,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 76289,
+      "end": 76294,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 76346,
+      "end": 76355,
+      "label": "PER"
+    },
+    {
+      "text": "Trim",
+      "start": 76373,
+      "end": 76377,
+      "label": "PER"
+    },
+    {
+      "text": "La Billardière",
+      "start": 76664,
+      "end": 76678,
+      "label": "LOC"
+    },
+    {
+      "text": "Excellence",
+      "start": 76714,
+      "end": 76724,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 76765,
+      "end": 76774,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture de police",
+      "start": 76908,
+      "end": 76928,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 76934,
+      "end": 76942,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 76989,
+      "end": 76998,
+      "label": "LOC"
+    },
+    {
+      "text": "La Billardière",
+      "start": 77102,
+      "end": 77116,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 77131,
+      "end": 77140,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 77215,
+      "end": 77223,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 77266,
+      "end": 77284,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rabourdin",
+      "start": 77499,
+      "end": 77515,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 77543,
+      "end": 77558,
+      "label": "PER"
+    },
+    {
+      "text": "ministre des Affaires Étrangères",
+      "start": 77567,
+      "end": 77599,
+      "label": "ORG"
+    },
+    {
+      "text": "Cadignan !",
+      "start": 77618,
+      "end": 77628,
+      "label": "PER"
+    },
+    {
+      "text": "Secrétaire général",
+      "start": 77704,
+      "end": 77722,
+      "label": "MISC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 77893,
+      "end": 77901,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 77963,
+      "end": 77971,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 78099,
+      "end": 78107,
+      "label": "LOC"
+    },
+    {
+      "text": "Centre",
+      "start": 78179,
+      "end": 78185,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 78460,
+      "end": 78469,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 78512,
+      "end": 78522,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 78554,
+      "end": 78562,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministères",
+      "start": 78624,
+      "end": 78634,
+      "label": "LOC"
+    },
+    {
+      "text": "Secrétaire général",
+      "start": 78876,
+      "end": 78894,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 79126,
+      "end": 79133,
+      "label": "ORG"
+    },
+    {
+      "text": "Moniteur",
+      "start": 79732,
+      "end": 79740,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 80511,
+      "end": 80515,
+      "label": "LOC"
+    },
+    {
+      "text": "Son Excellence",
+      "start": 80665,
+      "end": 80679,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 80732,
+      "end": 80738,
+      "label": "PER"
+    },
+    {
+      "text": "Son Excellence",
+      "start": 80962,
+      "end": 80976,
+      "label": "MISC"
+    },
+    {
+      "text": "Comme un homme",
+      "start": 81075,
+      "end": 81089,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 81338,
+      "end": 81344,
+      "label": "PER"
+    },
+    {
+      "text": "Chapitre",
+      "start": 81534,
+      "end": 81542,
+      "label": "PER"
+    },
+    {
+      "text": "Trésor",
+      "start": 81571,
+      "end": 81577,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésor",
+      "start": 81587,
+      "end": 81593,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 81646,
+      "end": 81654,
+      "label": "PER"
+    },
+    {
+      "text": "Place Royale",
+      "start": 81929,
+      "end": 81941,
+      "label": "LOC"
+    },
+    {
+      "text": "Isidore Baudoyer",
+      "start": 82048,
+      "end": 82064,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de bureau",
+      "start": 82066,
+      "end": 82080,
+      "label": "MISC"
+    },
+    {
+      "text": "Division de monsieur La Billardière",
+      "start": 82089,
+      "end": 82124,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 82148,
+      "end": 82157,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 82188,
+      "end": 82197,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 82284,
+      "end": 82293,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 82306,
+      "end": 82314,
+      "label": "PER"
+    },
+    {
+      "text": "banque de France",
+      "start": 82804,
+      "end": 82820,
+      "label": "ORG"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 83160,
+      "end": 83168,
+      "label": "LOC"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 83259,
+      "end": 83273,
+      "label": "PER"
+    },
+    {
+      "text": "Casimir Périer",
+      "start": 83399,
+      "end": 83413,
+      "label": "PER"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 83471,
+      "end": 83479,
+      "label": "LOC"
+    },
+    {
+      "text": "Centre",
+      "start": 83661,
+      "end": 83667,
+      "label": "LOC"
+    },
+    {
+      "text": "Manuel",
+      "start": 83844,
+      "end": 83850,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83888,
+      "end": 83893,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 84042,
+      "end": 84050,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 84555,
+      "end": 84563,
+      "label": "PER"
+    },
+    {
+      "text": "Place Royale",
+      "start": 84863,
+      "end": 84875,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 84898,
+      "end": 84906,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 84922,
+      "end": 84927,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 84952,
+      "end": 84961,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Gaudron",
+      "start": 84985,
+      "end": 84997,
+      "label": "PER"
+    },
+    {
+      "text": "Martin Falleix",
+      "start": 85092,
+      "end": 85106,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 85138,
+      "end": 85151,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 85159,
+      "end": 85167,
+      "label": "PER"
+    },
+    {
+      "text": "Falleix",
+      "start": 85246,
+      "end": 85253,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 85263,
+      "end": 85272,
+      "label": "MISC"
+    },
+    {
+      "text": "Brézac",
+      "start": 85341,
+      "end": 85347,
+      "label": "PER"
+    },
+    {
+      "text": "Martin Falleix",
+      "start": 85441,
+      "end": 85455,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 85502,
+      "end": 85510,
+      "label": "PER"
+    },
+    {
+      "text": "Brevet d'invention",
+      "start": 85562,
+      "end": 85580,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Baudoyer",
+      "start": 85623,
+      "end": 85638,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 85694,
+      "end": 85702,
+      "label": "PER"
+    },
+    {
+      "text": "Falleix",
+      "start": 85761,
+      "end": 85768,
+      "label": "LOC"
+    },
+    {
+      "text": "garçon trapu",
+      "start": 85770,
+      "end": 85782,
+      "label": "PER"
+    },
+    {
+      "text": "noiraud",
+      "start": 85784,
+      "end": 85791,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 85920,
+      "end": 85929,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 86289,
+      "end": 86298,
+      "label": "PER"
+    },
+    {
+      "text": "Falleix",
+      "start": 86312,
+      "end": 86319,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Baudoyer",
+      "start": 86429,
+      "end": 86444,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth Baudoyer",
+      "start": 86718,
+      "end": 86736,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 86742,
+      "end": 86750,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 87162,
+      "end": 87171,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 88036,
+      "end": 88045,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Saillard",
+      "start": 88459,
+      "end": 88476,
+      "label": "PER"
+    },
+    {
+      "text": "Halles",
+      "start": 88553,
+      "end": 88559,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 88634,
+      "end": 88642,
+      "label": "PER"
+    },
+    {
+      "text": "Bureaux",
+      "start": 88743,
+      "end": 88750,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 88767,
+      "end": 88775,
+      "label": "PER"
+    },
+    {
+      "text": "Falleix",
+      "start": 88855,
+      "end": 88862,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de la Place Royale",
+      "start": 88866,
+      "end": 88890,
+      "label": "LOC"
+    },
+    {
+      "text": "Bidault",
+      "start": 89027,
+      "end": 89034,
+      "label": "PER"
+    },
+    {
+      "text": "madame Saillard",
+      "start": 89044,
+      "end": 89059,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 89140,
+      "end": 89148,
+      "label": "PER"
+    },
+    {
+      "text": "sou",
+      "start": 89342,
+      "end": 89345,
+      "label": "PER"
+    },
+    {
+      "text": "sou",
+      "start": 89348,
+      "end": 89351,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 89440,
+      "end": 89448,
+      "label": "PER"
+    },
+    {
+      "text": "Sorbier",
+      "start": 89585,
+      "end": 89592,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 89610,
+      "end": 89616,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Saillard",
+      "start": 89754,
+      "end": 89769,
+      "label": "PER"
+    },
+    {
+      "text": "Falleix",
+      "start": 89957,
+      "end": 89964,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 90065,
+      "end": 90073,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 90219,
+      "end": 90228,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 90382,
+      "end": 90390,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 90588,
+      "end": 90596,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 90941,
+      "end": 90951,
+      "label": "LOC"
+    },
+    {
+      "text": "Bidault",
+      "start": 90987,
+      "end": 90994,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulle",
+      "start": 91192,
+      "end": 91198,
+      "label": "LOC"
+    },
+    {
+      "text": "Halles",
+      "start": 91331,
+      "end": 91337,
+      "label": "LOC"
+    },
+    {
+      "text": "du Japon",
+      "start": 91469,
+      "end": 91477,
+      "label": "LOC"
+    },
+    {
+      "text": "perse",
+      "start": 91615,
+      "end": 91620,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Saillard",
+      "start": 91668,
+      "end": 91683,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Saillard",
+      "start": 92047,
+      "end": 92062,
+      "label": "PER"
+    },
+    {
+      "text": "madame Saillard",
+      "start": 92493,
+      "end": 92508,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 92571,
+      "end": 92579,
+      "label": "LOC"
+    },
+    {
+      "text": "Picardie",
+      "start": 92591,
+      "end": 92599,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 92637,
+      "end": 92643,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 93260,
+      "end": 93268,
+      "label": "PER"
+    },
+    {
+      "text": "Bureau",
+      "start": 93310,
+      "end": 93316,
+      "label": "ORG"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 93463,
+      "end": 93472,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 93639,
+      "end": 93647,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 93649,
+      "end": 93658,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 93806,
+      "end": 93815,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 94043,
+      "end": 94049,
+      "label": "LOC"
+    },
+    {
+      "text": "Franconi",
+      "start": 94068,
+      "end": 94076,
+      "label": "PER"
+    },
+    {
+      "text": "Gaîté",
+      "start": 94081,
+      "end": 94086,
+      "label": "LOC"
+    },
+    {
+      "text": "Ambigu Comique",
+      "start": 94090,
+      "end": 94104,
+      "label": "ORG"
+    },
+    {
+      "text": "Porte Saint Martin",
+      "start": 94122,
+      "end": 94140,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 94142,
+      "end": 94151,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Gaudron",
+      "start": 94261,
+      "end": 94277,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Baudoyer",
+      "start": 94293,
+      "end": 94310,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 94401,
+      "end": 94406,
+      "label": "LOC"
+    },
+    {
+      "text": "Laboureur",
+      "start": 94431,
+      "end": 94440,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 94450,
+      "end": 94459,
+      "label": "PER"
+    },
+    {
+      "text": "Place Royale",
+      "start": 94587,
+      "end": 94599,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 94611,
+      "end": 94621,
+      "label": "LOC"
+    },
+    {
+      "text": "café Turc",
+      "start": 94760,
+      "end": 94769,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 94855,
+      "end": 94863,
+      "label": "PER"
+    },
+    {
+      "text": "Jardin Turc",
+      "start": 94994,
+      "end": 95005,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 95056,
+      "end": 95062,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 95076,
+      "end": 95089,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 95114,
+      "end": 95123,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Gaudron",
+      "start": 95413,
+      "end": 95425,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 95438,
+      "end": 95448,
+      "label": "PER"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 95601,
+      "end": 95610,
+      "label": "PER"
+    },
+    {
+      "text": "Réprimé",
+      "start": 95946,
+      "end": 95953,
+      "label": "LOC"
+    },
+    {
+      "text": "Offensée",
+      "start": 96409,
+      "end": 96417,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 96596,
+      "end": 96605,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 96611,
+      "end": 96619,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Gaudron",
+      "start": 96663,
+      "end": 96675,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 96712,
+      "end": 96722,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bidault",
+      "start": 96801,
+      "end": 96815,
+      "label": "PER"
+    },
+    {
+      "text": "madame Saillard",
+      "start": 96849,
+      "end": 96864,
+      "label": "PER"
+    },
+    {
+      "text": "II de la République",
+      "start": 96910,
+      "end": 96929,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 97421,
+      "end": 97429,
+      "label": "PER"
+    },
+    {
+      "text": "Grenétat",
+      "start": 97780,
+      "end": 97788,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 97903,
+      "end": 97915,
+      "label": "PER"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 97956,
+      "end": 97964,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Bidault",
+      "start": 98039,
+      "end": 98055,
+      "label": "PER"
+    },
+    {
+      "text": "an II",
+      "start": 98088,
+      "end": 98093,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 98103,
+      "end": 98113,
+      "label": "LOC"
+    },
+    {
+      "text": "Werbrust",
+      "start": 98124,
+      "end": 98132,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 98141,
+      "end": 98148,
+      "label": "PER"
+    },
+    {
+      "text": "Fabrique de Saint Paul",
+      "start": 98180,
+      "end": 98202,
+      "label": "LOC"
+    },
+    {
+      "text": "Saillard",
+      "start": 98204,
+      "end": 98212,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 98236,
+      "end": 98244,
+      "label": "PER"
+    },
+    {
+      "text": "madame Transon",
+      "start": 98248,
+      "end": 98262,
+      "label": "PER"
+    },
+    {
+      "text": "Lesdiguières",
+      "start": 98308,
+      "end": 98320,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisabeth",
+      "start": 98344,
+      "end": 98353,
+      "label": "PER"
+    },
+    {
+      "text": "Isidore Baudoyer",
+      "start": 98417,
+      "end": 98433,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 98443,
+      "end": 98451,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 98467,
+      "end": 98475,
+      "label": "PER"
+    },
+    {
+      "text": "madame Baudoyer",
+      "start": 98479,
+      "end": 98494,
+      "label": "PER"
+    },
+    {
+      "text": "Saillard",
+      "start": 98504,
+      "end": 98512,
+      "label": "PER"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 98546,
+      "end": 98554,
+      "label": "PER"
+    },
+    {
+      "text": "Mitral",
+      "start": 98622,
+      "end": 98628,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Baudoyer la mère",
+      "start": 98649,
+      "end": 98672,
+      "label": "PER"
+    },
+    {
+      "text": "Ile Adam",
+      "start": 98732,
+      "end": 98740,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 98742,
+      "end": 98750,
+      "label": "PER"
+    },
+    {
+      "text": "madame Baudoyer",
+      "start": 98754,
+      "end": 98769,
+      "label": "PER"
+    },
+    {
+      "text": "lsidore",
+      "start": 98786,
+      "end": 98793,
+      "label": "PER"
+    },
+    {
+      "text": "Censier",
+      "start": 98825,
+      "end": 98832,
+      "label": "PER"
+    },
+    {
+      "text": "Ile Adam",
+      "start": 99051,
+      "end": 99059,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitral",
+      "start": 99078,
+      "end": 99084,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 99118,
+      "end": 99123,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Censier",
+      "start": 99186,
+      "end": 99197,
+      "label": "LOC"
+    },
+    {
+      "text": "Isidore",
+      "start": 99214,
+      "end": 99221,
+      "label": "LOC"
+    },
+    {
+      "text": "Baudoyer",
+      "start": 99227,
+      "end": 99235,
+      "label": "MISC"
+    },
+    {
+      "text": "Mitral",
+      "start": 99316,
+      "end": 99322,
+      "label": "MISC"
+    },
+    {
+      "text": "la Seine",
+      "start": 99377,
+      "end": 99385,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 99419,
+      "end": 99428,
+      "label": "LOC"
+    },
+    {
+      "text": "Werbrust",
+      "start": 99560,
+      "end": 99568,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 99572,
+      "end": 99580,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 99608,
+      "end": 99620,
+      "label": "PER"
+    },
+    {
+      "text": "Pâques",
+      "start": 99839,
+      "end": 99845,
+      "label": "MISC"
+    },
+    {
+      "text": "Noël",
+      "start": 99847,
+      "end": 99851,
+      "label": "MISC"
+    },
+    {
+      "text": "Rois",
+      "start": 99884,
+      "end": 99888,
+      "label": "LOC"
+    }
+  ]
+}

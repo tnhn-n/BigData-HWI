@@ -1,0 +1,2704 @@
+{
+  "entities": [
+    {
+      "text": "HONORÉ",
+      "start": 52,
+      "end": 58,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 69,
+      "end": 86,
+      "label": "PER"
+    },
+    {
+      "text": "Poitou",
+      "start": 133,
+      "end": 139,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 166,
+      "end": 174,
+      "label": "ORG"
+    },
+    {
+      "text": "Vendéens",
+      "start": 230,
+      "end": 238,
+      "label": "LOC"
+    },
+    {
+      "text": "Quatre Chemins",
+      "start": 602,
+      "end": 616,
+      "label": "ORG"
+    },
+    {
+      "text": "Vendéen",
+      "start": 665,
+      "end": 672,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 744,
+      "end": 752,
+      "label": "PER"
+    },
+    {
+      "text": "Invariable",
+      "start": 754,
+      "end": 764,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 1019,
+      "end": 1029,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 1094,
+      "end": 1105,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration surprit monsieur",
+      "start": 1110,
+      "end": 1139,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 1143,
+      "end": 1151,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 1413,
+      "end": 1418,
+      "label": "LOC"
+    },
+    {
+      "text": "Excellence",
+      "start": 1633,
+      "end": 1643,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 1851,
+      "end": 1862,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 1913,
+      "end": 1920,
+      "label": "LOC"
+    },
+    {
+      "text": "ordre de la",
+      "start": 1988,
+      "end": 1999,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 2000,
+      "end": 2016,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 2029,
+      "end": 2040,
+      "label": "PER"
+    },
+    {
+      "text": "Ébranlé",
+      "start": 2042,
+      "end": 2049,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 2247,
+      "end": 2250,
+      "label": "PER"
+    },
+    {
+      "text": "Maréchaux",
+      "start": 2269,
+      "end": 2278,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 2283,
+      "end": 2292,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendéens",
+      "start": 2912,
+      "end": 2920,
+      "label": "LOC"
+    },
+    {
+      "text": "Majesté",
+      "start": 3333,
+      "end": 3340,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendéen calculateur",
+      "start": 3646,
+      "end": 3665,
+      "label": "MISC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 4191,
+      "end": 4200,
+      "label": "LOC"
+    },
+    {
+      "text": "Ligue et des Barricades",
+      "start": 4340,
+      "end": 4363,
+      "label": "ORG"
+    },
+    {
+      "text": "Autrefois",
+      "start": 4506,
+      "end": 4515,
+      "label": "LOC"
+    },
+    {
+      "text": "Morbleu",
+      "start": 4772,
+      "end": 4779,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 4794,
+      "end": 4805,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 5045,
+      "end": 5053,
+      "label": "PER"
+    },
+    {
+      "text": "Sans Monsieur",
+      "start": 5349,
+      "end": 5362,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 5471,
+      "end": 5480,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 5621,
+      "end": 5630,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 5632,
+      "end": 5643,
+      "label": "PER"
+    },
+    {
+      "text": "M. Beugnot",
+      "start": 5647,
+      "end": 5657,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Ouen",
+      "start": 5679,
+      "end": 5689,
+      "label": "LOC"
+    },
+    {
+      "text": "Vingt Mars",
+      "start": 5843,
+      "end": 5853,
+      "label": "MISC"
+    },
+    {
+      "text": "Semblable",
+      "start": 5947,
+      "end": 5956,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 6046,
+      "end": 6054,
+      "label": "PER"
+    },
+    {
+      "text": "Gand",
+      "start": 6844,
+      "end": 6848,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 6952,
+      "end": 6960,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 6995,
+      "end": 7006,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 7230,
+      "end": 7238,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 7243,
+      "end": 7252,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendéen",
+      "start": 7263,
+      "end": 7270,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 7600,
+      "end": 7608,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 8004,
+      "end": 8018,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon ami Fontaine",
+      "start": 8290,
+      "end": 8306,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 8599,
+      "end": 8603,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 8863,
+      "end": 8871,
+      "label": "PER"
+    },
+    {
+      "text": "Couronne",
+      "start": 8928,
+      "end": 8936,
+      "label": "ORG"
+    },
+    {
+      "text": "Sa Majesté",
+      "start": 9070,
+      "end": 9080,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 9360,
+      "end": 9371,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 9742,
+      "end": 9759,
+      "label": "PER"
+    },
+    {
+      "text": "Gand",
+      "start": 10155,
+      "end": 10159,
+      "label": "LOC"
+    },
+    {
+      "text": "Trocadéro",
+      "start": 10422,
+      "end": 10431,
+      "label": "LOC"
+    },
+    {
+      "text": "la Ville de",
+      "start": 10547,
+      "end": 10558,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10559,
+      "end": 10564,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 11136,
+      "end": 11144,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 11148,
+      "end": 11165,
+      "label": "PER"
+    },
+    {
+      "text": "la Charte",
+      "start": 11215,
+      "end": 11224,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 11570,
+      "end": 11578,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 11928,
+      "end": 11934,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 12227,
+      "end": 12235,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 12393,
+      "end": 12400,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 12423,
+      "end": 12441,
+      "label": "PER"
+    },
+    {
+      "text": "Amicus Plato",
+      "start": 12497,
+      "end": 12509,
+      "label": "PER"
+    },
+    {
+      "text": "sed magis amica",
+      "start": 12511,
+      "end": 12526,
+      "label": "MISC"
+    },
+    {
+      "text": "Natio",
+      "start": 12527,
+      "end": 12532,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 12580,
+      "end": 12588,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 13208,
+      "end": 13216,
+      "label": "PER"
+    },
+    {
+      "text": "Rois",
+      "start": 13242,
+      "end": 13246,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 13346,
+      "end": 13364,
+      "label": "PER"
+    },
+    {
+      "text": "Benjamin",
+      "start": 13374,
+      "end": 13382,
+      "label": "PER"
+    },
+    {
+      "text": "Liste Civile",
+      "start": 13696,
+      "end": 13708,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilie",
+      "start": 13710,
+      "end": 13716,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 13755,
+      "end": 13763,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14141,
+      "end": 14146,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 15156,
+      "end": 15174,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 15278,
+      "end": 15286,
+      "label": "PER"
+    },
+    {
+      "text": "Spirituelle",
+      "start": 16109,
+      "end": 16120,
+      "label": "LOC"
+    },
+    {
+      "text": "Mascarille",
+      "start": 16203,
+      "end": 16213,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyen",
+      "start": 16343,
+      "end": 16348,
+      "label": "LOC"
+    },
+    {
+      "text": "Renaissance",
+      "start": 16359,
+      "end": 16370,
+      "label": "LOC"
+    },
+    {
+      "text": "Turcs",
+      "start": 16591,
+      "end": 16596,
+      "label": "LOC"
+    },
+    {
+      "text": "Sultan",
+      "start": 16609,
+      "end": 16615,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 17494,
+      "end": 17507,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 17581,
+      "end": 17589,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 17703,
+      "end": 17709,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 17762,
+      "end": 17769,
+      "label": "PER"
+    },
+    {
+      "text": "Babylone",
+      "start": 18327,
+      "end": 18335,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 18439,
+      "end": 18456,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 18573,
+      "end": 18580,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 18672,
+      "end": 18683,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 18717,
+      "end": 18725,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 18764,
+      "end": 18770,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 18872,
+      "end": 18889,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 19006,
+      "end": 19014,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 19496,
+      "end": 19505,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 19554,
+      "end": 19562,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 19785,
+      "end": 19791,
+      "label": "LOC"
+    },
+    {
+      "text": "Lafayette",
+      "start": 19984,
+      "end": 19993,
+      "label": "PER"
+    },
+    {
+      "text": "La Bourdonnaye",
+      "start": 20010,
+      "end": 20024,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 20151,
+      "end": 20160,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 20924,
+      "end": 20932,
+      "label": "PER"
+    },
+    {
+      "text": "Rohan",
+      "start": 21186,
+      "end": 21191,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 21457,
+      "end": 21465,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 21537,
+      "end": 21542,
+      "label": "LOC"
+    },
+    {
+      "text": "de la Vendée",
+      "start": 21672,
+      "end": 21684,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 22160,
+      "end": 22168,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 22407,
+      "end": 22413,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 22785,
+      "end": 22791,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23209,
+      "end": 23214,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 23406,
+      "end": 23419,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 23489,
+      "end": 23495,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 23646,
+      "end": 23650,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 24006,
+      "end": 24016,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 24137,
+      "end": 24143,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Fontaine",
+      "start": 24307,
+      "end": 24326,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 24348,
+      "end": 24354,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle de Fontaine",
+      "start": 24599,
+      "end": 24623,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 25077,
+      "end": 25085,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 25292,
+      "end": 25309,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 25598,
+      "end": 25605,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25745,
+      "end": 25750,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 25925,
+      "end": 25933,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendéen",
+      "start": 25950,
+      "end": 25957,
+      "label": "PER"
+    },
+    {
+      "text": "Mille et un Jours",
+      "start": 26255,
+      "end": 26272,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 26274,
+      "end": 26280,
+      "label": "PER"
+    },
+    {
+      "text": "Durand",
+      "start": 26540,
+      "end": 26546,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 27173,
+      "end": 27191,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 27885,
+      "end": 27891,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 29129,
+      "end": 29137,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 29410,
+      "end": 29416,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 29864,
+      "end": 29872,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 30448,
+      "end": 30455,
+      "label": "PER"
+    },
+    {
+      "text": "Dépêche toi",
+      "start": 30650,
+      "end": 30661,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 30708,
+      "end": 30714,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 31730,
+      "end": 31738,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 33384,
+      "end": 33402,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 33622,
+      "end": 33631,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 33861,
+      "end": 33875,
+      "label": "LOC"
+    },
+    {
+      "text": "Longchamp",
+      "start": 33890,
+      "end": 33899,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 33972,
+      "end": 33981,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 34423,
+      "end": 34447,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 34642,
+      "end": 34646,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendéen",
+      "start": 35791,
+      "end": 35798,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 36064,
+      "end": 36073,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 36225,
+      "end": 36230,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendéen",
+      "start": 36524,
+      "end": 36531,
+      "label": "PER"
+    },
+    {
+      "text": "Villèle",
+      "start": 37394,
+      "end": 37401,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontaine",
+      "start": 37460,
+      "end": 37468,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 37853,
+      "end": 37859,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 38331,
+      "end": 38337,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 38509,
+      "end": 38515,
+      "label": "PER"
+    },
+    {
+      "text": "Donnez",
+      "start": 38699,
+      "end": 38705,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 38801,
+      "end": 38807,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 39124,
+      "end": 39130,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 40180,
+      "end": 40187,
+      "label": "PER"
+    },
+    {
+      "text": "Barbiere",
+      "start": 40697,
+      "end": 40705,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonjour",
+      "start": 40709,
+      "end": 40716,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma chère enfant",
+      "start": 41039,
+      "end": 41054,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 41082,
+      "end": 41090,
+      "label": "PER"
+    },
+    {
+      "text": "Mon bon père",
+      "start": 41266,
+      "end": 41278,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 41289,
+      "end": 41295,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 41476,
+      "end": 41482,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 42818,
+      "end": 42824,
+      "label": "PER"
+    },
+    {
+      "text": "Tes frères",
+      "start": 43295,
+      "end": 43305,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 43687,
+      "end": 43693,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fontaine",
+      "start": 43732,
+      "end": 43750,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 44234,
+      "end": 44240,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 44612,
+      "end": 44622,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 44627,
+      "end": 44631,
+      "label": "MISC"
+    },
+    {
+      "text": "zeu",
+      "start": 44639,
+      "end": 44642,
+      "label": "MISC"
+    },
+    {
+      "text": "Beaudenord",
+      "start": 44808,
+      "end": 44818,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'as tu",
+      "start": 45081,
+      "end": 45089,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 45116,
+      "end": 45125,
+      "label": "LOC"
+    },
+    {
+      "text": "vicomte de Portenduère",
+      "start": 45195,
+      "end": 45217,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 45493,
+      "end": 45502,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 45550,
+      "end": 45558,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 45835,
+      "end": 45839,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 45993,
+      "end": 45999,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 46006,
+      "end": 46010,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 47146,
+      "end": 47154,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 47382,
+      "end": 47388,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 47735,
+      "end": 47744,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 47909,
+      "end": 47915,
+      "label": "LOC"
+    },
+    {
+      "text": "Songe",
+      "start": 47924,
+      "end": 47929,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 48280,
+      "end": 48290,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 48305,
+      "end": 48314,
+      "label": "LOC"
+    },
+    {
+      "text": "Condé",
+      "start": 49793,
+      "end": 49798,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 49838,
+      "end": 49847,
+      "label": "LOC"
+    },
+    {
+      "text": "Cara",
+      "start": 49953,
+      "end": 49957,
+      "label": "LOC"
+    },
+    {
+      "text": "Matrimonio",
+      "start": 49974,
+      "end": 49984,
+      "label": "MISC"
+    },
+    {
+      "text": "Planat",
+      "start": 50091,
+      "end": 50097,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 50141,
+      "end": 50147,
+      "label": "PER"
+    },
+    {
+      "text": "Américain",
+      "start": 50182,
+      "end": 50191,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 50375,
+      "end": 50381,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 50426,
+      "end": 50432,
+      "label": "PER"
+    },
+    {
+      "text": "Villaine",
+      "start": 50455,
+      "end": 50463,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 50511,
+      "end": 50519,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 50702,
+      "end": 50708,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 50871,
+      "end": 50879,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 50924,
+      "end": 50930,
+      "label": "LOC"
+    },
+    {
+      "text": "Je sais, ma chère sœur",
+      "start": 50947,
+      "end": 50969,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 50978,
+      "end": 50984,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 51206,
+      "end": 51212,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie !",
+      "start": 51540,
+      "end": 51548,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bordeaux",
+      "start": 51597,
+      "end": 51612,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 51676,
+      "end": 51682,
+      "label": "PER"
+    },
+    {
+      "text": "Mes enfants",
+      "start": 51821,
+      "end": 51832,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Fontaine",
+      "start": 51838,
+      "end": 51856,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 51890,
+      "end": 51896,
+      "label": "PER"
+    },
+    {
+      "text": "O",
+      "start": 51958,
+      "end": 51959,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51965,
+      "end": 51969,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 52075,
+      "end": 52083,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 52269,
+      "end": 52276,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fontaine",
+      "start": 52880,
+      "end": 52898,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 52923,
+      "end": 52929,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 53083,
+      "end": 53091,
+      "label": "PER"
+    },
+    {
+      "text": "Manche",
+      "start": 53753,
+      "end": 53759,
+      "label": "LOC"
+    },
+    {
+      "text": "Communes",
+      "start": 53825,
+      "end": 53833,
+      "label": "ORG"
+    },
+    {
+      "text": "Aulnay",
+      "start": 53896,
+      "end": 53902,
+      "label": "LOC"
+    },
+    {
+      "text": "Antony",
+      "start": 53906,
+      "end": 53912,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtenay",
+      "start": 53919,
+      "end": 53927,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 54051,
+      "end": 54056,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 54100,
+      "end": 54106,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 54440,
+      "end": 54445,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 54485,
+      "end": 54491,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 54665,
+      "end": 54671,
+      "label": "LOC"
+    },
+    {
+      "text": "département de la Seine",
+      "start": 54705,
+      "end": 54728,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 54906,
+      "end": 54912,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 55091,
+      "end": 55096,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauce",
+      "start": 55204,
+      "end": 55210,
+      "label": "LOC"
+    },
+    {
+      "text": "Aulnay",
+      "start": 55247,
+      "end": 55253,
+      "label": "LOC"
+    },
+    {
+      "text": "Antony",
+      "start": 55270,
+      "end": 55276,
+      "label": "LOC"
+    },
+    {
+      "text": "Bièvre",
+      "start": 55293,
+      "end": 55299,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 55477,
+      "end": 55486,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 55504,
+      "end": 55510,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 55562,
+      "end": 55570,
+      "label": "LOC"
+    },
+    {
+      "text": "Terpsichore villageoise",
+      "start": 55949,
+      "end": 55972,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 56308,
+      "end": 56314,
+      "label": "LOC"
+    },
+    {
+      "text": "Esculape",
+      "start": 56371,
+      "end": 56379,
+      "label": "PER"
+    },
+    {
+      "text": "Sceaux",
+      "start": 56738,
+      "end": 56744,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56815,
+      "end": 56820,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 56935,
+      "end": 56941,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 57245,
+      "end": 57269,
+      "label": "PER"
+    },
+    {
+      "text": "Planat",
+      "start": 57674,
+      "end": 57680,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 57945,
+      "end": 57969,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 58817,
+      "end": 58823,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 59687,
+      "end": 59695,
+      "label": "PER"
+    },
+    {
+      "text": "Musée",
+      "start": 60122,
+      "end": 60127,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 60978,
+      "end": 60987,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 60995,
+      "end": 61005,
+      "label": "PER"
+    },
+    {
+      "text": "Apollon",
+      "start": 61251,
+      "end": 61258,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 61369,
+      "end": 61377,
+      "label": "PER"
+    },
+    {
+      "text": "Irlande",
+      "start": 61551,
+      "end": 61558,
+      "label": "LOC"
+    },
+    {
+      "text": "Adonis de comptoir",
+      "start": 61682,
+      "end": 61700,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 61826,
+      "end": 61832,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà un bel homme",
+      "start": 62307,
+      "end": 62325,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 62591,
+      "end": 62597,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 62778,
+      "end": 62787,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 62797,
+      "end": 62801,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilie",
+      "start": 63245,
+      "end": 63251,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 63638,
+      "end": 63662,
+      "label": "PER"
+    },
+    {
+      "text": "Girodet",
+      "start": 63899,
+      "end": 63906,
+      "label": "PER"
+    },
+    {
+      "text": "Ossian",
+      "start": 63979,
+      "end": 63985,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 63987,
+      "end": 63993,
+      "label": "PER"
+    },
+    {
+      "text": "nankin",
+      "start": 64191,
+      "end": 64197,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 64494,
+      "end": 64518,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 64761,
+      "end": 64767,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 64872,
+      "end": 64877,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 64907,
+      "end": 64912,
+      "label": "PER"
+    },
+    {
+      "text": "cachemire",
+      "start": 65128,
+      "end": 65137,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 65232,
+      "end": 65240,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 65510,
+      "end": 65516,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 66090,
+      "end": 66096,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 66119,
+      "end": 66125,
+      "label": "PER"
+    },
+    {
+      "text": "Félix de Vandenesse",
+      "start": 66157,
+      "end": 66176,
+      "label": "PER"
+    },
+    {
+      "text": "Lady Dudley",
+      "start": 66211,
+      "end": 66222,
+      "label": "PER"
+    },
+    {
+      "text": "Un jeune homme",
+      "start": 66273,
+      "end": 66287,
+      "label": "MISC"
+    },
+    {
+      "text": "baron de Fontaine",
+      "start": 66304,
+      "end": 66321,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 66385,
+      "end": 66393,
+      "label": "PER"
+    },
+    {
+      "text": "lady Dudley",
+      "start": 66671,
+      "end": 66682,
+      "label": "PER"
+    },
+    {
+      "text": "Sceaux",
+      "start": 66887,
+      "end": 66893,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 66929,
+      "end": 66936,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie de Fontaine",
+      "start": 67120,
+      "end": 67138,
+      "label": "PER"
+    },
+    {
+      "text": "Châtenay",
+      "start": 67392,
+      "end": 67400,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 67435,
+      "end": 67440,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle de Fontaine",
+      "start": 67469,
+      "end": 67493,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise",
+      "start": 67521,
+      "end": 67529,
+      "label": "PER"
+    },
+    {
+      "text": "Châtenay",
+      "start": 67606,
+      "end": 67614,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 67625,
+      "end": 67631,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 67773,
+      "end": 67779,
+      "label": "PER"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 67850,
+      "end": 67860,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 67862,
+      "end": 67868,
+      "label": "PER"
+    },
+    {
+      "text": "Dépitée",
+      "start": 67969,
+      "end": 67976,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 68480,
+      "end": 68485,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 69051,
+      "end": 69057,
+      "label": "PER"
+    },
+    {
+      "text": "Sceaux",
+      "start": 69119,
+      "end": 69125,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 69194,
+      "end": 69204,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 70126,
+      "end": 70130,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 70266,
+      "end": 70270,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 70714,
+      "end": 70722,
+      "label": "PER"
+    },
+    {
+      "text": "Cheveux",
+      "start": 70826,
+      "end": 70833,
+      "label": "LOC"
+    },
+    {
+      "text": "ta gorge",
+      "start": 70898,
+      "end": 70906,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 71110,
+      "end": 71120,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevreuse",
+      "start": 71451,
+      "end": 71460,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 71618,
+      "end": 71624,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 71969,
+      "end": 71973,
+      "label": "MISC"
+    },
+    {
+      "text": "Diantre !",
+      "start": 72231,
+      "end": 72240,
+      "label": "MISC"
+    },
+    {
+      "text": "voyez",
+      "start": 72405,
+      "end": 72410,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 72468,
+      "end": 72472,
+      "label": "MISC"
+    },
+    {
+      "text": "Halte",
+      "start": 72508,
+      "end": 72513,
+      "label": "LOC"
+    },
+    {
+      "text": "cheval d'Émilie",
+      "start": 72556,
+      "end": 72571,
+      "label": "MISC"
+    },
+    {
+      "text": "Belle Poule",
+      "start": 72751,
+      "end": 72762,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 72775,
+      "end": 72781,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 73297,
+      "end": 73303,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 73395,
+      "end": 73401,
+      "label": "PER"
+    },
+    {
+      "text": "Demain",
+      "start": 74059,
+      "end": 74065,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 74122,
+      "end": 74123,
+      "label": "LOC"
+    },
+    {
+      "text": "MAXIMILIEN LONGUEVILLE",
+      "start": 74417,
+      "end": 74439,
+      "label": "ORG"
+    },
+    {
+      "text": "RUE DU SENTIER",
+      "start": 74441,
+      "end": 74455,
+      "label": "MISC"
+    },
+    {
+      "text": "Soyez",
+      "start": 74459,
+      "end": 74464,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilie",
+      "start": 74502,
+      "end": 74508,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 74643,
+      "end": 74652,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 75422,
+      "end": 75430,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 75553,
+      "end": 75559,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 75916,
+      "end": 75922,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 76078,
+      "end": 76089,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 76207,
+      "end": 76215,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 77027,
+      "end": 77033,
+      "label": "PER"
+    },
+    {
+      "text": "Chevreuse",
+      "start": 77073,
+      "end": 77082,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 77283,
+      "end": 77287,
+      "label": "MISC"
+    },
+    {
+      "text": "Touchez",
+      "start": 77791,
+      "end": 77798,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 77851,
+      "end": 77862,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 77978,
+      "end": 77988,
+      "label": "LOC"
+    },
+    {
+      "text": "Planat",
+      "start": 78251,
+      "end": 78257,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 78273,
+      "end": 78290,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 78440,
+      "end": 78445,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 78905,
+      "end": 78913,
+      "label": "LOC"
+    },
+    {
+      "text": "pol",
+      "start": 78957,
+      "end": 78960,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 78966,
+      "end": 78970,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 79127,
+      "end": 79130,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 79536,
+      "end": 79547,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 80043,
+      "end": 80047,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 80065,
+      "end": 80074,
+      "label": "PER"
+    },
+    {
+      "text": "Guimard",
+      "start": 80505,
+      "end": 80512,
+      "label": "PER"
+    },
+    {
+      "text": "Duthé",
+      "start": 80517,
+      "end": 80522,
+      "label": "PER"
+    },
+    {
+      "text": "Sachez",
+      "start": 80617,
+      "end": 80623,
+      "label": "LOC"
+    },
+    {
+      "text": "Planat",
+      "start": 80933,
+      "end": 80939,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 81054,
+      "end": 81065,
+      "label": "PER"
+    },
+    {
+      "text": "Planat",
+      "start": 81310,
+      "end": 81316,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 81331,
+      "end": 81342,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 81379,
+      "end": 81389,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 81516,
+      "end": 81524,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 81808,
+      "end": 81819,
+      "label": "PER"
+    },
+    {
+      "text": "École Polytechnique",
+      "start": 82312,
+      "end": 82331,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 82345,
+      "end": 82351,
+      "label": "PER"
+    },
+    {
+      "text": "Hippocrate",
+      "start": 82637,
+      "end": 82647,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82718,
+      "end": 82726,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 82794,
+      "end": 82800,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82804,
+      "end": 82812,
+      "label": "PER"
+    },
+    {
+      "text": "École Polytechnique",
+      "start": 82828,
+      "end": 82847,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontaine",
+      "start": 82885,
+      "end": 82893,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 83022,
+      "end": 83033,
+      "label": "PER"
+    },
+    {
+      "text": "École Polytechnique",
+      "start": 83091,
+      "end": 83110,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 83139,
+      "end": 83145,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 83223,
+      "end": 83229,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 83653,
+      "end": 83659,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 83711,
+      "end": 83719,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 83804,
+      "end": 83808,
+      "label": "MISC"
+    },
+    {
+      "text": "Longueville",
+      "start": 83946,
+      "end": 83957,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Fontaine",
+      "start": 84216,
+      "end": 84240,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 84561,
+      "end": 84567,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 85183,
+      "end": 85189,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 85510,
+      "end": 85521,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 85601,
+      "end": 85609,
+      "label": "PER"
+    },
+    {
+      "text": "Argus",
+      "start": 86217,
+      "end": 86222,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 86430,
+      "end": 86441,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 86443,
+      "end": 86449,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 86920,
+      "end": 86931,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 87011,
+      "end": 87019,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 87162,
+      "end": 87168,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 87403,
+      "end": 87414,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 87624,
+      "end": 87630,
+      "label": "PER"
+    },
+    {
+      "text": "Cimarosa",
+      "start": 87662,
+      "end": 87670,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 87987,
+      "end": 87998,
+      "label": "LOC"
+    },
+    {
+      "text": "Planat",
+      "start": 88142,
+      "end": 88148,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 88212,
+      "end": 88218,
+      "label": "PER"
+    },
+    {
+      "text": "Clara Longueville",
+      "start": 88505,
+      "end": 88522,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 88928,
+      "end": 88936,
+      "label": "PER"
+    },
+    {
+      "text": "Attendre",
+      "start": 89354,
+      "end": 89362,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 90236,
+      "end": 90244,
+      "label": "LOC"
+    },
+    {
+      "text": "Pergolèse",
+      "start": 90714,
+      "end": 90723,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 90731,
+      "end": 90738,
+      "label": "PER"
+    },
+    {
+      "text": "Clara Longueville",
+      "start": 90821,
+      "end": 90838,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 90985,
+      "end": 90993,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 91070,
+      "end": 91075,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 91221,
+      "end": 91227,
+      "label": "PER"
+    },
+    {
+      "text": "réserve de mademoiselle",
+      "start": 91282,
+      "end": 91305,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 91306,
+      "end": 91317,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 91630,
+      "end": 91638,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 91680,
+      "end": 91685,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 91705,
+      "end": 91711,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 91749,
+      "end": 91754,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 91763,
+      "end": 91768,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 91784,
+      "end": 91790,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 91952,
+      "end": 91957,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 92062,
+      "end": 92070,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 92154,
+      "end": 92159,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 92163,
+      "end": 92175,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 92248,
+      "end": 92258,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère Clara",
+      "start": 92400,
+      "end": 92414,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 92497,
+      "end": 92501,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 92706,
+      "end": 92714,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 92943,
+      "end": 92954,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Fontaine",
+      "start": 94034,
+      "end": 94052,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 94063,
+      "end": 94070,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 94182,
+      "end": 94187,
+      "label": "LOC"
+    },
+    {
+      "text": "Longueville",
+      "start": 94384,
+      "end": 94395,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 94556,
+      "end": 94562,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 94717,
+      "end": 94723,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 95059,
+      "end": 95068,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 95118,
+      "end": 95124,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 95259,
+      "end": 95270,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Rostein Limbourg",
+      "start": 95313,
+      "end": 95336,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 95511,
+      "end": 95520,
+      "label": "LOC"
+    },
+    {
+      "text": "Tes",
+      "start": 95581,
+      "end": 95584,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 95696,
+      "end": 95704,
+      "label": "PER"
+    },
+    {
+      "text": "Planat",
+      "start": 95728,
+      "end": 95734,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilie",
+      "start": 95736,
+      "end": 95742,
+      "label": "PER"
+    },
+    {
+      "text": "Longueville",
+      "start": 95856,
+      "end": 95867,
+      "label": "PER"
+    },
+    {
+      "text": "bosquet",
+      "start": 96024,
+      "end": 96031,
+      "label": "LOC"
+    },
+    {
+      "text": "Maximilien",
+      "start": 96382,
+      "end": 96392,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien Longueville",
+      "start": 96524,
+      "end": 96546,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 96554,
+      "end": 96559,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 96593,
+      "end": 96599,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 96857,
+      "end": 96863,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 97270,
+      "end": 97278,
+      "label": "PER"
+    },
+    {
+      "text": "Émilie",
+      "start": 97974,
+      "end": 97980,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 98422,
+      "end": 98432,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien",
+      "start": 99092,
+      "end": 99102,
+      "label": "PER"
+    },
+    {
+      "text": "Savez",
+      "start": 99148,
+      "end": 99153,
+      "label": "LOC"
+    },
+    {
+      "text": "Maximilien",
+      "start": 99320,
+      "end": 99330,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 99606,
+      "end": 99614,
+      "label": "PER"
+    },
+    {
+      "text": "brun",
+      "start": 99854,
+      "end": 99858,
+      "label": "PER"
+    }
+  ]
+}

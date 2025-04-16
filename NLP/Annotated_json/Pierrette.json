@@ -1,0 +1,4990 @@
+{
+  "entities": [
+    {
+      "text": "PIERRETTE",
+      "start": 0,
+      "end": 9,
+      "label": "ORG"
+    },
+    {
+      "text": "HANSKA",
+      "start": 40,
+      "end": 46,
+      "label": "ORG"
+    },
+    {
+      "text": "Wierzchownia",
+      "start": 169,
+      "end": 181,
+      "label": "LOC"
+    },
+    {
+      "text": "Anna",
+      "start": 502,
+      "end": 506,
+      "label": "PER"
+    },
+    {
+      "text": "Votre vieil ami, DE",
+      "start": 726,
+      "end": 745,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 746,
+      "end": 752,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 977,
+      "end": 984,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 1146,
+      "end": 1153,
+      "label": "LOC"
+    },
+    {
+      "text": "Martener",
+      "start": 1781,
+      "end": 1789,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 2273,
+      "end": 2280,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 4144,
+      "end": 4149,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruguière",
+      "start": 4185,
+      "end": 4194,
+      "label": "ORG"
+    },
+    {
+      "text": "Bretagne",
+      "start": 4256,
+      "end": 4264,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 4400,
+      "end": 4401,
+      "label": "LOC"
+    },
+    {
+      "text": "madam'la mariée",
+      "start": 4468,
+      "end": 4483,
+      "label": "MISC"
+    },
+    {
+      "text": "Qui n'délie",
+      "start": 4503,
+      "end": 4514,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous gard'rez la maison",
+      "start": 4579,
+      "end": 4602,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 4626,
+      "end": 4630,
+      "label": "LOC"
+    },
+    {
+      "text": "Fidèle",
+      "start": 4674,
+      "end": 4680,
+      "label": "PER"
+    },
+    {
+      "text": "Faut",
+      "start": 4695,
+      "end": 4699,
+      "label": "MISC"
+    },
+    {
+      "text": "Chateaubriand",
+      "start": 4885,
+      "end": 4898,
+      "label": "PER"
+    },
+    {
+      "text": "Ma sœur",
+      "start": 4901,
+      "end": 4908,
+      "label": "MISC"
+    },
+    {
+      "text": "Brie",
+      "start": 4976,
+      "end": 4980,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretonne",
+      "start": 5015,
+      "end": 5023,
+      "label": "LOC"
+    },
+    {
+      "text": "Recevez",
+      "start": 5776,
+      "end": 5783,
+      "label": "PER"
+    },
+    {
+      "text": "Hélas !",
+      "start": 6044,
+      "end": 6051,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 6201,
+      "end": 6209,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 6254,
+      "end": 6258,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 6318,
+      "end": 6325,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 6368,
+      "end": 6377,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6394,
+      "end": 6399,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 6418,
+      "end": 6427,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 6585,
+      "end": 6594,
+      "label": "PER"
+    },
+    {
+      "text": "Bretonne",
+      "start": 6599,
+      "end": 6607,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 6648,
+      "end": 6655,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 6924,
+      "end": 6931,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 7426,
+      "end": 7433,
+      "label": "PER"
+    },
+    {
+      "text": "rie",
+      "start": 7746,
+      "end": 7749,
+      "label": "ORG"
+    },
+    {
+      "text": "indivis",
+      "start": 9423,
+      "end": 9430,
+      "label": "PER"
+    },
+    {
+      "text": "orchestre de l'Opéra",
+      "start": 9505,
+      "end": 9525,
+      "label": "ORG"
+    },
+    {
+      "text": "Pierrette",
+      "start": 9809,
+      "end": 9818,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 10639,
+      "end": 10648,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 10693,
+      "end": 10700,
+      "label": "PER"
+    },
+    {
+      "text": "Éden",
+      "start": 10750,
+      "end": 10754,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Thomas",
+      "start": 11338,
+      "end": 11350,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 11438,
+      "end": 11445,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 11628,
+      "end": 11636,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 11938,
+      "end": 11944,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 12029,
+      "end": 12038,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 12322,
+      "end": 12329,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 12367,
+      "end": 12373,
+      "label": "PER"
+    },
+    {
+      "text": "Isola",
+      "start": 12609,
+      "end": 12614,
+      "label": "MISC"
+    },
+    {
+      "text": "bella",
+      "start": 12615,
+      "end": 12620,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 12666,
+      "end": 12673,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Brigaut",
+      "start": 12747,
+      "end": 12762,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette Lorrain",
+      "start": 12778,
+      "end": 12795,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 12849,
+      "end": 12858,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 13205,
+      "end": 13211,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 13225,
+      "end": 13233,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 13343,
+      "end": 13350,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 13478,
+      "end": 13485,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 14384,
+      "end": 14393,
+      "label": "PER"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 15031,
+      "end": 15040,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 15139,
+      "end": 15148,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 15620,
+      "end": 15629,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 15726,
+      "end": 15735,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray de Provins",
+      "start": 15757,
+      "end": 15775,
+      "label": "PER"
+    },
+    {
+      "text": "consanguine de madame Rogron",
+      "start": 15782,
+      "end": 15810,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 15897,
+      "end": 15904,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 16076,
+      "end": 16083,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 16090,
+      "end": 16096,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 16129,
+      "end": 16136,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 16281,
+      "end": 16288,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rogron",
+      "start": 16409,
+      "end": 16422,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 16558,
+      "end": 16565,
+      "label": "PER"
+    },
+    {
+      "text": "Garde impériale",
+      "start": 16585,
+      "end": 16600,
+      "label": "MISC"
+    },
+    {
+      "text": "Ligne",
+      "start": 16702,
+      "end": 16707,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 16799,
+      "end": 16807,
+      "label": "PER"
+    },
+    {
+      "text": "madame Auffray",
+      "start": 16811,
+      "end": 16825,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16840,
+      "end": 16845,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 16862,
+      "end": 16871,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 16926,
+      "end": 16933,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 16953,
+      "end": 16960,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 17233,
+      "end": 17240,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 17353,
+      "end": 17360,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rogron",
+      "start": 17521,
+      "end": 17534,
+      "label": "PER"
+    },
+    {
+      "text": "Néraud",
+      "start": 17665,
+      "end": 17671,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 17789,
+      "end": 17803,
+      "label": "PER"
+    },
+    {
+      "text": "succession Auffray",
+      "start": 17812,
+      "end": 17830,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 17916,
+      "end": 17923,
+      "label": "PER"
+    },
+    {
+      "text": "Montereau",
+      "start": 17956,
+      "end": 17965,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 18140,
+      "end": 18148,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 18152,
+      "end": 18166,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 18182,
+      "end": 18190,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 18235,
+      "end": 18241,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 18247,
+      "end": 18254,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette Lorrain",
+      "start": 18327,
+      "end": 18344,
+      "label": "PER"
+    },
+    {
+      "text": "Leur commerce",
+      "start": 18452,
+      "end": 18465,
+      "label": "MISC"
+    },
+    {
+      "text": "maison Collinet de Nantes",
+      "start": 18578,
+      "end": 18603,
+      "label": "MISC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 18900,
+      "end": 18908,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 18962,
+      "end": 18968,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 19057,
+      "end": 19064,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 19145,
+      "end": 19151,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Lorrain",
+      "start": 19210,
+      "end": 19224,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 19354,
+      "end": 19361,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 19434,
+      "end": 19440,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 19612,
+      "end": 19618,
+      "label": "LOC"
+    },
+    {
+      "text": "exploits de Charette",
+      "start": 19631,
+      "end": 19651,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 19744,
+      "end": 19751,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 19787,
+      "end": 19794,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéen",
+      "start": 19806,
+      "end": 19813,
+      "label": "LOC"
+    },
+    {
+      "text": "Charette",
+      "start": 19862,
+      "end": 19870,
+      "label": "MISC"
+    },
+    {
+      "text": "Mercier",
+      "start": 19877,
+      "end": 19884,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montauran",
+      "start": 19894,
+      "end": 19914,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 19935,
+      "end": 19941,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 20023,
+      "end": 20037,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 20133,
+      "end": 20141,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 20160,
+      "end": 20167,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 20376,
+      "end": 20384,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 20443,
+      "end": 20450,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 20506,
+      "end": 20513,
+      "label": "PER"
+    },
+    {
+      "text": "canton de Pen Hoël",
+      "start": 20570,
+      "end": 20588,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 20621,
+      "end": 20631,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 20697,
+      "end": 20706,
+      "label": "PER"
+    },
+    {
+      "text": "En bon commerçant",
+      "start": 21156,
+      "end": 21173,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 21288,
+      "end": 21295,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 21436,
+      "end": 21445,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Nantes",
+      "start": 21575,
+      "end": 21591,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 21722,
+      "end": 21736,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 21791,
+      "end": 21797,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Périne de Paris",
+      "start": 21848,
+      "end": 21870,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Jacques",
+      "start": 21880,
+      "end": 21893,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 22055,
+      "end": 22062,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 22105,
+      "end": 22111,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 22142,
+      "end": 22148,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 22152,
+      "end": 22159,
+      "label": "LOC"
+    },
+    {
+      "text": "lettre des Lorrain",
+      "start": 22178,
+      "end": 22196,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 22201,
+      "end": 22207,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 22290,
+      "end": 22300,
+      "label": "LOC"
+    },
+    {
+      "text": "la Poste",
+      "start": 22315,
+      "end": 22323,
+      "label": "ORG"
+    },
+    {
+      "text": "la Poste",
+      "start": 22350,
+      "end": 22358,
+      "label": "ORG"
+    },
+    {
+      "text": "la Poste",
+      "start": 22511,
+      "end": 22519,
+      "label": "ORG"
+    },
+    {
+      "text": "La Poste",
+      "start": 22766,
+      "end": 22774,
+      "label": "ORG"
+    },
+    {
+      "text": "Bureau des Longitudes",
+      "start": 22997,
+      "end": 23018,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 23099,
+      "end": 23104,
+      "label": "LOC"
+    },
+    {
+      "text": "la Poste",
+      "start": 23327,
+      "end": 23335,
+      "label": "ORG"
+    },
+    {
+      "text": "Si",
+      "start": 23350,
+      "end": 23352,
+      "label": "MISC"
+    },
+    {
+      "text": "la Poste",
+      "start": 23382,
+      "end": 23390,
+      "label": "ORG"
+    },
+    {
+      "text": "La Poste",
+      "start": 23503,
+      "end": 23511,
+      "label": "ORG"
+    },
+    {
+      "text": "lettre des Lorrain",
+      "start": 23569,
+      "end": 23587,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 23609,
+      "end": 23615,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 23619,
+      "end": 23626,
+      "label": "LOC"
+    },
+    {
+      "text": "la Poste",
+      "start": 23669,
+      "end": 23677,
+      "label": "ORG"
+    },
+    {
+      "text": "Rogron",
+      "start": 23689,
+      "end": 23695,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 23716,
+      "end": 23731,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 23735,
+      "end": 23740,
+      "label": "LOC"
+    },
+    {
+      "text": "la Poste",
+      "start": 23769,
+      "end": 23777,
+      "label": "ORG"
+    },
+    {
+      "text": "créances",
+      "start": 23905,
+      "end": 23913,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 23935,
+      "end": 23939,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 24003,
+      "end": 24009,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 24013,
+      "end": 24020,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 24056,
+      "end": 24062,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 24071,
+      "end": 24076,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 24097,
+      "end": 24103,
+      "label": "PER"
+    },
+    {
+      "text": "Fisc",
+      "start": 24138,
+      "end": 24142,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 24177,
+      "end": 24183,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 24209,
+      "end": 24216,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette Lorrain",
+      "start": 24350,
+      "end": 24367,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 24453,
+      "end": 24459,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 24479,
+      "end": 24486,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 24502,
+      "end": 24509,
+      "label": "PER"
+    },
+    {
+      "text": "Bacchus",
+      "start": 24630,
+      "end": 24637,
+      "label": "MISC"
+    },
+    {
+      "text": "Suisse",
+      "start": 24806,
+      "end": 24812,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 24993,
+      "end": 24999,
+      "label": "PER"
+    },
+    {
+      "text": "Israël",
+      "start": 25195,
+      "end": 25201,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 25566,
+      "end": 25573,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 25592,
+      "end": 25601,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 25603,
+      "end": 25609,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 25743,
+      "end": 25750,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 25842,
+      "end": 25849,
+      "label": "PER"
+    },
+    {
+      "text": "Flore",
+      "start": 26341,
+      "end": 26346,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 26378,
+      "end": 26384,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 27253,
+      "end": 27260,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 27345,
+      "end": 27351,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 27437,
+      "end": 27443,
+      "label": "PER"
+    },
+    {
+      "text": "École",
+      "start": 27461,
+      "end": 27466,
+      "label": "ORG"
+    },
+    {
+      "text": "Sylvie",
+      "start": 27569,
+      "end": 27575,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 27610,
+      "end": 27615,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérôme Denis",
+      "start": 27704,
+      "end": 27716,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 27857,
+      "end": 27863,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 28256,
+      "end": 28260,
+      "label": "MISC"
+    },
+    {
+      "text": "Auffray",
+      "start": 28868,
+      "end": 28875,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 28885,
+      "end": 28891,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 28948,
+      "end": 28959,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 28987,
+      "end": 28994,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 29162,
+      "end": 29177,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 29263,
+      "end": 29269,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie Rogron",
+      "start": 29348,
+      "end": 29361,
+      "label": "PER"
+    },
+    {
+      "text": "maison Julliard",
+      "start": 29439,
+      "end": 29454,
+      "label": "PER"
+    },
+    {
+      "text": "Ver Chinois",
+      "start": 29486,
+      "end": 29497,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 29499,
+      "end": 29514,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérôme Denis Rogron",
+      "start": 29567,
+      "end": 29586,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 29641,
+      "end": 29656,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Guépin",
+      "start": 29661,
+      "end": 29674,
+      "label": "LOC"
+    },
+    {
+      "text": "Trois Quenouilles",
+      "start": 29680,
+      "end": 29697,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 29720,
+      "end": 29726,
+      "label": "PER"
+    },
+    {
+      "text": "Jérôme Denis",
+      "start": 29785,
+      "end": 29797,
+      "label": "PER"
+    },
+    {
+      "text": "Guépin",
+      "start": 29907,
+      "end": 29913,
+      "label": "LOC"
+    },
+    {
+      "text": "Provinois",
+      "start": 29922,
+      "end": 29931,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 30075,
+      "end": 30080,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Cloud",
+      "start": 30100,
+      "end": 30111,
+      "label": "PER"
+    },
+    {
+      "text": "Meudon",
+      "start": 30113,
+      "end": 30119,
+      "label": "LOC"
+    },
+    {
+      "text": "Belleville",
+      "start": 30121,
+      "end": 30131,
+      "label": "LOC"
+    },
+    {
+      "text": "Vincennes",
+      "start": 30133,
+      "end": 30142,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guenée",
+      "start": 30283,
+      "end": 30296,
+      "label": "PER"
+    },
+    {
+      "text": "Sœur de Famille",
+      "start": 30320,
+      "end": 30335,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 30503,
+      "end": 30509,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie Rogron",
+      "start": 30772,
+      "end": 30785,
+      "label": "PER"
+    },
+    {
+      "text": "Jérôme Denis Rogron",
+      "start": 31018,
+      "end": 31037,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés du Parisien",
+      "start": 31510,
+      "end": 31530,
+      "label": "ORG"
+    },
+    {
+      "text": "Caisses",
+      "start": 31908,
+      "end": 31915,
+      "label": "ORG"
+    },
+    {
+      "text": "Doit",
+      "start": 32145,
+      "end": 32149,
+      "label": "MISC"
+    },
+    {
+      "text": "Avoir",
+      "start": 32153,
+      "end": 32158,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 32228,
+      "end": 32233,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 32610,
+      "end": 32615,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 32627,
+      "end": 32632,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 32674,
+      "end": 32689,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33253,
+      "end": 33258,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 33270,
+      "end": 33279,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 33438,
+      "end": 33444,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 33558,
+      "end": 33564,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 33751,
+      "end": 33756,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 33837,
+      "end": 33843,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 33982,
+      "end": 33991,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 34295,
+      "end": 34301,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 34629,
+      "end": 34635,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 35498,
+      "end": 35504,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 35849,
+      "end": 35855,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 35904,
+      "end": 35910,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 36607,
+      "end": 36613,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 36617,
+      "end": 36623,
+      "label": "PER"
+    },
+    {
+      "text": "Tracassiers",
+      "start": 37207,
+      "end": 37218,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 37337,
+      "end": 37352,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 37380,
+      "end": 37387,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 37570,
+      "end": 37576,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 37725,
+      "end": 37732,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 37936,
+      "end": 37942,
+      "label": "PER"
+    },
+    {
+      "text": "Rognon",
+      "start": 38214,
+      "end": 38220,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie Rogron",
+      "start": 38323,
+      "end": 38336,
+      "label": "PER"
+    },
+    {
+      "text": "Cosaques",
+      "start": 38781,
+      "end": 38789,
+      "label": "MISC"
+    },
+    {
+      "text": "Françaises",
+      "start": 38838,
+      "end": 38848,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 38870,
+      "end": 38877,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 38890,
+      "end": 38896,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 38985,
+      "end": 38994,
+      "label": "PER"
+    },
+    {
+      "text": "Sœur de Famille",
+      "start": 39261,
+      "end": 39276,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 39293,
+      "end": 39299,
+      "label": "PER"
+    },
+    {
+      "text": "Utrecht vert",
+      "start": 39501,
+      "end": 39513,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 39937,
+      "end": 39948,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 40202,
+      "end": 40209,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnemarie",
+      "start": 40295,
+      "end": 40305,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 40585,
+      "end": 40591,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 40759,
+      "end": 40765,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 40908,
+      "end": 40914,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 40942,
+      "end": 40949,
+      "label": "LOC"
+    },
+    {
+      "text": "Théâtre",
+      "start": 41563,
+      "end": 41570,
+      "label": "LOC"
+    },
+    {
+      "text": "la Mairie",
+      "start": 41602,
+      "end": 41611,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41660,
+      "end": 41665,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 41896,
+      "end": 41903,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 42001,
+      "end": 42010,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 42068,
+      "end": 42077,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 42104,
+      "end": 42111,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 42144,
+      "end": 42153,
+      "label": "LOC"
+    },
+    {
+      "text": "Frangistan",
+      "start": 42167,
+      "end": 42177,
+      "label": "LOC"
+    },
+    {
+      "text": "Cachemire",
+      "start": 42194,
+      "end": 42203,
+      "label": "LOC"
+    },
+    {
+      "text": "Saadi",
+      "start": 42247,
+      "end": 42252,
+      "label": "PER"
+    },
+    {
+      "text": "Homère",
+      "start": 42256,
+      "end": 42262,
+      "label": "PER"
+    },
+    {
+      "text": "Perse",
+      "start": 42269,
+      "end": 42274,
+      "label": "LOC"
+    },
+    {
+      "text": "Science médicale",
+      "start": 42331,
+      "end": 42347,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisés",
+      "start": 42353,
+      "end": 42360,
+      "label": "MISC"
+    },
+    {
+      "text": "Jéricho",
+      "start": 42387,
+      "end": 42394,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 42515,
+      "end": 42522,
+      "label": "LOC"
+    },
+    {
+      "text": "Perse",
+      "start": 42546,
+      "end": 42551,
+      "label": "LOC"
+    },
+    {
+      "text": "Bade",
+      "start": 42589,
+      "end": 42593,
+      "label": "LOC"
+    },
+    {
+      "text": "Aix",
+      "start": 42595,
+      "end": 42598,
+      "label": "LOC"
+    },
+    {
+      "text": "Bath",
+      "start": 42600,
+      "end": 42604,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 42745,
+      "end": 42760,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferté Gaucher",
+      "start": 42827,
+      "end": 42840,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 42844,
+      "end": 42851,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43114,
+      "end": 43119,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 43133,
+      "end": 43140,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 43189,
+      "end": 43198,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 43423,
+      "end": 43429,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 43598,
+      "end": 43605,
+      "label": "LOC"
+    },
+    {
+      "text": "moulins",
+      "start": 43901,
+      "end": 43908,
+      "label": "LOC"
+    },
+    {
+      "text": "Voulzie",
+      "start": 43925,
+      "end": 43932,
+      "label": "LOC"
+    },
+    {
+      "text": "Durtain",
+      "start": 43939,
+      "end": 43946,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 43965,
+      "end": 43969,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnats",
+      "start": 44405,
+      "end": 44415,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoyards",
+      "start": 44421,
+      "end": 44430,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 44438,
+      "end": 44446,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 44466,
+      "end": 44473,
+      "label": "LOC"
+    },
+    {
+      "text": "Provinois",
+      "start": 44628,
+      "end": 44637,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 44654,
+      "end": 44660,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 44693,
+      "end": 44700,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 45072,
+      "end": 45079,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 45515,
+      "end": 45526,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 45600,
+      "end": 45605,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 46382,
+      "end": 46386,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 46441,
+      "end": 46448,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 46939,
+      "end": 46946,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 47088,
+      "end": 47099,
+      "label": "LOC"
+    },
+    {
+      "text": "Halle",
+      "start": 47138,
+      "end": 47143,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 47188,
+      "end": 47195,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 47391,
+      "end": 47398,
+      "label": "LOC"
+    },
+    {
+      "text": "Hébreux",
+      "start": 47426,
+      "end": 47433,
+      "label": "LOC"
+    },
+    {
+      "text": "Mercerie",
+      "start": 47542,
+      "end": 47550,
+      "label": "ORG"
+    },
+    {
+      "text": "lettre des Lorrain",
+      "start": 47555,
+      "end": 47573,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrette Lorrain",
+      "start": 47682,
+      "end": 47699,
+      "label": "PER"
+    },
+    {
+      "text": "succession Auffray",
+      "start": 47717,
+      "end": 47735,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 47833,
+      "end": 47839,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 47900,
+      "end": 47905,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 47964,
+      "end": 47971,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 48101,
+      "end": 48108,
+      "label": "PER"
+    },
+    {
+      "text": "consanguine",
+      "start": 48115,
+      "end": 48126,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 48169,
+      "end": 48183,
+      "label": "PER"
+    },
+    {
+      "text": "Néraud",
+      "start": 48196,
+      "end": 48202,
+      "label": "PER"
+    },
+    {
+      "text": "succession Auffray",
+      "start": 48357,
+      "end": 48375,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 48551,
+      "end": 48558,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 48612,
+      "end": 48621,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 48879,
+      "end": 48888,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 49114,
+      "end": 49120,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 49175,
+      "end": 49182,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 49260,
+      "end": 49266,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 49423,
+      "end": 49429,
+      "label": "PER"
+    },
+    {
+      "text": "Sœur de Famille",
+      "start": 49673,
+      "end": 49688,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie Rogron",
+      "start": 49690,
+      "end": 49703,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 49732,
+      "end": 49739,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 49780,
+      "end": 49787,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 49831,
+      "end": 49840,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 49964,
+      "end": 49969,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 49975,
+      "end": 49982,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 50018,
+      "end": 50027,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50120,
+      "end": 50125,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 50378,
+      "end": 50383,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 51171,
+      "end": 51177,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 51420,
+      "end": 51427,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigaut",
+      "start": 51460,
+      "end": 51467,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 51593,
+      "end": 51599,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 51849,
+      "end": 51857,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard la jeune",
+      "start": 51867,
+      "end": 51891,
+      "label": "PER"
+    },
+    {
+      "text": "Garceland",
+      "start": 51910,
+      "end": 51919,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 51989,
+      "end": 51996,
+      "label": "LOC"
+    },
+    {
+      "text": "Garceland",
+      "start": 52082,
+      "end": 52091,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 52138,
+      "end": 52144,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 52184,
+      "end": 52190,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 52281,
+      "end": 52284,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 52398,
+      "end": 52401,
+      "label": "LOC"
+    },
+    {
+      "text": "Savez",
+      "start": 52405,
+      "end": 52410,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 52436,
+      "end": 52438,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 52554,
+      "end": 52560,
+      "label": "PER"
+    },
+    {
+      "text": "Peindrons",
+      "start": 52630,
+      "end": 52639,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 52707,
+      "end": 52713,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 52744,
+      "end": 52748,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Lesourd",
+      "start": 52854,
+      "end": 52868,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 52977,
+      "end": 52984,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 52988,
+      "end": 52992,
+      "label": "MISC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 53027,
+      "end": 53035,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 53062,
+      "end": 53064,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 53115,
+      "end": 53123,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Tiphaine",
+      "start": 53128,
+      "end": 53145,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 53213,
+      "end": 53221,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 53228,
+      "end": 53233,
+      "label": "LOC"
+    },
+    {
+      "text": "Peindrons",
+      "start": 53237,
+      "end": 53246,
+      "label": "LOC"
+    },
+    {
+      "text": "Lesourd",
+      "start": 53277,
+      "end": 53284,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 53336,
+      "end": 53342,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 53385,
+      "end": 53391,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 53394,
+      "end": 53401,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 53671,
+      "end": 53678,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 53684,
+      "end": 53690,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 53819,
+      "end": 53824,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Julliard du Ver Chinois",
+      "start": 53931,
+      "end": 53961,
+      "label": "PER"
+    },
+    {
+      "text": "Guépin",
+      "start": 54021,
+      "end": 54027,
+      "label": "LOC"
+    },
+    {
+      "text": "Guépin",
+      "start": 54050,
+      "end": 54056,
+      "label": "PER"
+    },
+    {
+      "text": "Trois Quenouilles",
+      "start": 54095,
+      "end": 54112,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guénée",
+      "start": 54121,
+      "end": 54134,
+      "label": "PER"
+    },
+    {
+      "text": "Sœur de Famille",
+      "start": 54159,
+      "end": 54174,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 54219,
+      "end": 54226,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 54257,
+      "end": 54265,
+      "label": "LOC"
+    },
+    {
+      "text": "Guépin",
+      "start": 54271,
+      "end": 54277,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénée",
+      "start": 54285,
+      "end": 54291,
+      "label": "LOC"
+    },
+    {
+      "text": "Garceland",
+      "start": 54375,
+      "end": 54384,
+      "label": "PER"
+    },
+    {
+      "text": "Guépin",
+      "start": 54411,
+      "end": 54417,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard",
+      "start": 54477,
+      "end": 54492,
+      "label": "PER"
+    },
+    {
+      "text": "Péroux",
+      "start": 54508,
+      "end": 54514,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal, monsieur Tiphaine",
+      "start": 54532,
+      "end": 54559,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guénée",
+      "start": 54579,
+      "end": 54592,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 54608,
+      "end": 54616,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine la jeune",
+      "start": 54661,
+      "end": 54678,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 54699,
+      "end": 54712,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 54752,
+      "end": 54757,
+      "label": "LOC"
+    },
+    {
+      "text": "Délicate",
+      "start": 54790,
+      "end": 54798,
+      "label": "MISC"
+    },
+    {
+      "text": "Mélanie Roguin",
+      "start": 54965,
+      "end": 54979,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 55011,
+      "end": 55018,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 55131,
+      "end": 55139,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guénée",
+      "start": 55185,
+      "end": 55198,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 55298,
+      "end": 55305,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 55325,
+      "end": 55334,
+      "label": "ORG"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 55346,
+      "end": 55354,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 55595,
+      "end": 55603,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 55635,
+      "end": 55643,
+      "label": "MISC"
+    },
+    {
+      "text": "Juge",
+      "start": 55674,
+      "end": 55678,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 55681,
+      "end": 55686,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 55695,
+      "end": 55703,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour royale",
+      "start": 55760,
+      "end": 55771,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 55957,
+      "end": 55964,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 56429,
+      "end": 56436,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 56504,
+      "end": 56511,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 56667,
+      "end": 56675,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 56698,
+      "end": 56714,
+      "label": "ORG"
+    },
+    {
+      "text": "Provins",
+      "start": 56735,
+      "end": 56742,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 56779,
+      "end": 56794,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 56842,
+      "end": 56849,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Guénée",
+      "start": 56851,
+      "end": 56864,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 56883,
+      "end": 56891,
+      "label": "PER"
+    },
+    {
+      "text": "Lesourd",
+      "start": 56940,
+      "end": 56947,
+      "label": "LOC"
+    },
+    {
+      "text": "Martener",
+      "start": 56989,
+      "end": 56997,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 57034,
+      "end": 57041,
+      "label": "PER"
+    },
+    {
+      "text": "Galardon",
+      "start": 57094,
+      "end": 57102,
+      "label": "PER"
+    },
+    {
+      "text": "Mesdames Lesourd",
+      "start": 57135,
+      "end": 57151,
+      "label": "PER"
+    },
+    {
+      "text": "Martener",
+      "start": 57153,
+      "end": 57161,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 57163,
+      "end": 57170,
+      "label": "PER"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 57185,
+      "end": 57200,
+      "label": "PER"
+    },
+    {
+      "text": "Président Tiphaine",
+      "start": 57217,
+      "end": 57235,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 57344,
+      "end": 57352,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 57395,
+      "end": 57400,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 57414,
+      "end": 57423,
+      "label": "ORG"
+    },
+    {
+      "text": "Provins",
+      "start": 57426,
+      "end": 57433,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 57459,
+      "end": 57474,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 57522,
+      "end": 57537,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Julliard fils aîné",
+      "start": 57603,
+      "end": 57630,
+      "label": "PER"
+    },
+    {
+      "text": "Présidente",
+      "start": 57756,
+      "end": 57766,
+      "label": "LOC"
+    },
+    {
+      "text": "Mélanie",
+      "start": 57816,
+      "end": 57823,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 57857,
+      "end": 57865,
+      "label": "LOC"
+    },
+    {
+      "text": "Égérie",
+      "start": 58009,
+      "end": 58015,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 58034,
+      "end": 58042,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 58142,
+      "end": 58149,
+      "label": "LOC"
+    },
+    {
+      "text": "RUCHE",
+      "start": 58173,
+      "end": 58178,
+      "label": "ORG"
+    },
+    {
+      "text": "Provins",
+      "start": 58191,
+      "end": 58198,
+      "label": "LOC"
+    },
+    {
+      "text": "Annonces de l'arrondissement",
+      "start": 58285,
+      "end": 58313,
+      "label": "ORG"
+    },
+    {
+      "text": "Brie",
+      "start": 58457,
+      "end": 58461,
+      "label": "LOC"
+    },
+    {
+      "text": "A ELLE",
+      "start": 58476,
+      "end": 58482,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 58532,
+      "end": 58540,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 58570,
+      "end": 58585,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard",
+      "start": 58611,
+      "end": 58619,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénée",
+      "start": 58632,
+      "end": 58638,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 58760,
+      "end": 58767,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Bréautey",
+      "start": 58825,
+      "end": 58845,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 58951,
+      "end": 58959,
+      "label": "LOC"
+    },
+    {
+      "text": "Guépin",
+      "start": 58965,
+      "end": 58971,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénée",
+      "start": 58977,
+      "end": 58983,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 59039,
+      "end": 59046,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 59103,
+      "end": 59109,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard la mère",
+      "start": 59135,
+      "end": 59158,
+      "label": "PER"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 59166,
+      "end": 59181,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 59299,
+      "end": 59305,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 59391,
+      "end": 59406,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 59414,
+      "end": 59421,
+      "label": "LOC"
+    },
+    {
+      "text": "Guépin",
+      "start": 59617,
+      "end": 59623,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénée",
+      "start": 59629,
+      "end": 59635,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 59643,
+      "end": 59651,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 59731,
+      "end": 59737,
+      "label": "PER"
+    },
+    {
+      "text": "succession Auffray",
+      "start": 59864,
+      "end": 59882,
+      "label": "MISC"
+    },
+    {
+      "text": "Auffray",
+      "start": 59895,
+      "end": 59902,
+      "label": "PER"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 59917,
+      "end": 59932,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 59938,
+      "end": 59946,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 60189,
+      "end": 60197,
+      "label": "PER"
+    },
+    {
+      "text": "Garceland",
+      "start": 60492,
+      "end": 60501,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 60516,
+      "end": 60522,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 60608,
+      "end": 60614,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 60647,
+      "end": 60653,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 60991,
+      "end": 60997,
+      "label": "PER"
+    },
+    {
+      "text": "Tracassière",
+      "start": 61040,
+      "end": 61051,
+      "label": "ORG"
+    },
+    {
+      "text": "Rogron",
+      "start": 61276,
+      "end": 61282,
+      "label": "PER"
+    },
+    {
+      "text": "madame Garceland",
+      "start": 61990,
+      "end": 62006,
+      "label": "PER"
+    },
+    {
+      "text": "Galardon",
+      "start": 62027,
+      "end": 62035,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard la mère",
+      "start": 62044,
+      "end": 62067,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard fils",
+      "start": 62115,
+      "end": 62128,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 62209,
+      "end": 62218,
+      "label": "ORG"
+    },
+    {
+      "text": "Rogron",
+      "start": 62263,
+      "end": 62269,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, dit l'Amadis de Provins",
+      "start": 62274,
+      "end": 62302,
+      "label": "MISC"
+    },
+    {
+      "text": "mademoiselle Sylvie",
+      "start": 62359,
+      "end": 62378,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 62699,
+      "end": 62707,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 62807,
+      "end": 62813,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 62899,
+      "end": 62908,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 63084,
+      "end": 63092,
+      "label": "MISC"
+    },
+    {
+      "text": "Président",
+      "start": 63151,
+      "end": 63160,
+      "label": "PER"
+    },
+    {
+      "text": "comtes de Champagne",
+      "start": 63222,
+      "end": 63241,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 63285,
+      "end": 63291,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard",
+      "start": 63360,
+      "end": 63368,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 63413,
+      "end": 63420,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Sylvie",
+      "start": 63740,
+      "end": 63759,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard",
+      "start": 63842,
+      "end": 63850,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard",
+      "start": 63858,
+      "end": 63866,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 64117,
+      "end": 64126,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 64168,
+      "end": 64174,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 64195,
+      "end": 64205,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 64259,
+      "end": 64266,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 64271,
+      "end": 64277,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 64298,
+      "end": 64305,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 64318,
+      "end": 64323,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 64327,
+      "end": 64329,
+      "label": "MISC"
+    },
+    {
+      "text": "Mélanie",
+      "start": 64348,
+      "end": 64355,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 64548,
+      "end": 64557,
+      "label": "PER"
+    },
+    {
+      "text": "madame Garceland",
+      "start": 64664,
+      "end": 64680,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 64689,
+      "end": 64695,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 64722,
+      "end": 64737,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Tiphaine",
+      "start": 64788,
+      "end": 64803,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Sylvie",
+      "start": 64837,
+      "end": 64856,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 64906,
+      "end": 64912,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 64933,
+      "end": 64948,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard la mère",
+      "start": 64970,
+      "end": 64993,
+      "label": "PER"
+    },
+    {
+      "text": "Misère",
+      "start": 65032,
+      "end": 65038,
+      "label": "ORG"
+    },
+    {
+      "text": "Sylvie",
+      "start": 65134,
+      "end": 65140,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Tiphaine",
+      "start": 65233,
+      "end": 65248,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 65309,
+      "end": 65315,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 65330,
+      "end": 65336,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard la mère",
+      "start": 65460,
+      "end": 65483,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 65534,
+      "end": 65540,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 65691,
+      "end": 65697,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 65996,
+      "end": 66003,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 66029,
+      "end": 66035,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 66261,
+      "end": 66269,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 66273,
+      "end": 66288,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 66308,
+      "end": 66314,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 66364,
+      "end": 66372,
+      "label": "PER"
+    },
+    {
+      "text": "madame Julliard père",
+      "start": 66376,
+      "end": 66396,
+      "label": "PER"
+    },
+    {
+      "text": "Lesourd",
+      "start": 66437,
+      "end": 66444,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 66476,
+      "end": 66491,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Tiphaine",
+      "start": 66585,
+      "end": 66600,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 66613,
+      "end": 66620,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 66643,
+      "end": 66648,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 66773,
+      "end": 66779,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 66889,
+      "end": 66898,
+      "label": "PER"
+    },
+    {
+      "text": "madame la Présidente",
+      "start": 66902,
+      "end": 66922,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 66977,
+      "end": 66992,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 67090,
+      "end": 67096,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 67130,
+      "end": 67136,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 67287,
+      "end": 67302,
+      "label": "PER"
+    },
+    {
+      "text": "palais Rogron",
+      "start": 67367,
+      "end": 67380,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 67384,
+      "end": 67388,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Martener",
+      "start": 67413,
+      "end": 67428,
+      "label": "PER"
+    },
+    {
+      "text": "le Louvre",
+      "start": 67443,
+      "end": 67452,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 67558,
+      "end": 67562,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 67694,
+      "end": 67709,
+      "label": "PER"
+    },
+    {
+      "text": "Spartacus",
+      "start": 68028,
+      "end": 68037,
+      "label": "PER"
+    },
+    {
+      "text": "madame Auffray",
+      "start": 68806,
+      "end": 68820,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 69040,
+      "end": 69049,
+      "label": "LOC"
+    },
+    {
+      "text": "Hongrie",
+      "start": 69150,
+      "end": 69157,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 69781,
+      "end": 69787,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 70219,
+      "end": 70225,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 70504,
+      "end": 70510,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 71129,
+      "end": 71153,
+      "label": "ORG"
+    },
+    {
+      "text": "Poniatowski",
+      "start": 71201,
+      "end": 71212,
+      "label": "PER"
+    },
+    {
+      "text": "Elster",
+      "start": 71228,
+      "end": 71234,
+      "label": "MISC"
+    },
+    {
+      "text": "Clichy",
+      "start": 71265,
+      "end": 71271,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 71273,
+      "end": 71281,
+      "label": "PER"
+    },
+    {
+      "text": "Mazeppa",
+      "start": 71322,
+      "end": 71329,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Julliard",
+      "start": 71508,
+      "end": 71523,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 71588,
+      "end": 71596,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 71916,
+      "end": 71921,
+      "label": "LOC"
+    },
+    {
+      "text": "Josse",
+      "start": 71977,
+      "end": 71982,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 72039,
+      "end": 72047,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 72123,
+      "end": 72131,
+      "label": "PER"
+    },
+    {
+      "text": "Sèvres",
+      "start": 72241,
+      "end": 72247,
+      "label": "LOC"
+    },
+    {
+      "text": "Martener",
+      "start": 72441,
+      "end": 72449,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 72487,
+      "end": 72497,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Sylvie",
+      "start": 72599,
+      "end": 72618,
+      "label": "PER"
+    },
+    {
+      "text": "Misère",
+      "start": 72653,
+      "end": 72659,
+      "label": "ORG"
+    },
+    {
+      "text": "Sylvie",
+      "start": 72673,
+      "end": 72679,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 72688,
+      "end": 72697,
+      "label": "ORG"
+    },
+    {
+      "text": "Provins",
+      "start": 72739,
+      "end": 72746,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 73086,
+      "end": 73092,
+      "label": "PER"
+    },
+    {
+      "text": "Député de la Gauche",
+      "start": 73376,
+      "end": 73395,
+      "label": "ORG"
+    },
+    {
+      "text": "Rogron",
+      "start": 73796,
+      "end": 73802,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 75035,
+      "end": 75042,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 75184,
+      "end": 75191,
+      "label": "LOC"
+    },
+    {
+      "text": "Aubusson",
+      "start": 75347,
+      "end": 75355,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 75361,
+      "end": 75367,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Sylvie",
+      "start": 75794,
+      "end": 75813,
+      "label": "PER"
+    },
+    {
+      "text": "Buffon",
+      "start": 75815,
+      "end": 75821,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 76225,
+      "end": 76231,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 76764,
+      "end": 76770,
+      "label": "PER"
+    },
+    {
+      "text": "madame Garceland",
+      "start": 76878,
+      "end": 76894,
+      "label": "PER"
+    },
+    {
+      "text": "madame Galardon",
+      "start": 76898,
+      "end": 76913,
+      "label": "PER"
+    },
+    {
+      "text": "Julliard",
+      "start": 76925,
+      "end": 76933,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 76937,
+      "end": 76952,
+      "label": "PER"
+    },
+    {
+      "text": "Pour",
+      "start": 76975,
+      "end": 76979,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 77006,
+      "end": 77012,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 77341,
+      "end": 77347,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 77598,
+      "end": 77603,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 77605,
+      "end": 77611,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 77905,
+      "end": 77911,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 77944,
+      "end": 77952,
+      "label": "MISC"
+    },
+    {
+      "text": "Julliard",
+      "start": 77958,
+      "end": 77966,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 77972,
+      "end": 77979,
+      "label": "LOC"
+    },
+    {
+      "text": "Garceland",
+      "start": 77985,
+      "end": 77994,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 78023,
+      "end": 78030,
+      "label": "LOC"
+    },
+    {
+      "text": "Vinet",
+      "start": 78345,
+      "end": 78350,
+      "label": "MISC"
+    },
+    {
+      "text": "Néraud",
+      "start": 78365,
+      "end": 78371,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 78428,
+      "end": 78435,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 78451,
+      "end": 78457,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 79079,
+      "end": 79085,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 79836,
+      "end": 79842,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 79979,
+      "end": 79984,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 80018,
+      "end": 80020,
+      "label": "MISC"
+    },
+    {
+      "text": "Ruche",
+      "start": 80334,
+      "end": 80339,
+      "label": "LOC"
+    },
+    {
+      "text": "Constitutionnel",
+      "start": 80346,
+      "end": 80361,
+      "label": "LOC"
+    },
+    {
+      "text": "Vinet",
+      "start": 80435,
+      "end": 80440,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 80455,
+      "end": 80462,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 80464,
+      "end": 80470,
+      "label": "PER"
+    },
+    {
+      "text": "Martener",
+      "start": 80571,
+      "end": 80579,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 80645,
+      "end": 80651,
+      "label": "PER"
+    },
+    {
+      "text": "Clique",
+      "start": 80806,
+      "end": 80812,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 80926,
+      "end": 80934,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 80942,
+      "end": 80950,
+      "label": "LOC"
+    },
+    {
+      "text": "Étranger",
+      "start": 81007,
+      "end": 81015,
+      "label": "PER"
+    },
+    {
+      "text": "Élections les noms",
+      "start": 81068,
+      "end": 81086,
+      "label": "MISC"
+    },
+    {
+      "text": "Vers deux heures",
+      "start": 81128,
+      "end": 81144,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 81146,
+      "end": 81152,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 81299,
+      "end": 81305,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 81422,
+      "end": 81429,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 81639,
+      "end": 81646,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 81758,
+      "end": 81764,
+      "label": "PER"
+    },
+    {
+      "text": "Juge",
+      "start": 81780,
+      "end": 81784,
+      "label": "MISC"
+    },
+    {
+      "text": "Desfondrilles",
+      "start": 81801,
+      "end": 81814,
+      "label": "PER"
+    },
+    {
+      "text": "Martener",
+      "start": 81893,
+      "end": 81901,
+      "label": "PER"
+    },
+    {
+      "text": "Expliquez",
+      "start": 81941,
+      "end": 81950,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 81978,
+      "end": 81986,
+      "label": "LOC"
+    },
+    {
+      "text": "Spa",
+      "start": 81994,
+      "end": 81997,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 82010,
+      "end": 82017,
+      "label": "LOC"
+    },
+    {
+      "text": "Eaux",
+      "start": 82029,
+      "end": 82033,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 82037,
+      "end": 82044,
+      "label": "LOC"
+    },
+    {
+      "text": "Caprice",
+      "start": 82252,
+      "end": 82259,
+      "label": "MISC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 82295,
+      "end": 82303,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 82339,
+      "end": 82360,
+      "label": "PER"
+    },
+    {
+      "text": "Alciblade français",
+      "start": 82414,
+      "end": 82432,
+      "label": "MISC"
+    },
+    {
+      "text": "Guyenne",
+      "start": 82461,
+      "end": 82468,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 82572,
+      "end": 82580,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 82659,
+      "end": 82667,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 82676,
+      "end": 82685,
+      "label": "LOC"
+    },
+    {
+      "text": "Cahors",
+      "start": 82695,
+      "end": 82701,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 82780,
+      "end": 82788,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 82835,
+      "end": 82843,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 82848,
+      "end": 82852,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 82892,
+      "end": 82899,
+      "label": "LOC"
+    },
+    {
+      "text": "Desfondrilles",
+      "start": 82984,
+      "end": 82997,
+      "label": "PER"
+    },
+    {
+      "text": "Opoix",
+      "start": 83149,
+      "end": 83154,
+      "label": "LOC"
+    },
+    {
+      "text": "Eaux minérales",
+      "start": 83176,
+      "end": 83190,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 83194,
+      "end": 83201,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher monsieur",
+      "start": 83206,
+      "end": 83223,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 83256,
+      "end": 83263,
+      "label": "LOC"
+    },
+    {
+      "text": "Martener",
+      "start": 83310,
+      "end": 83318,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 83361,
+      "end": 83367,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83483,
+      "end": 83488,
+      "label": "LOC"
+    },
+    {
+      "text": "comtes de Champagne",
+      "start": 83519,
+      "end": 83538,
+      "label": "MISC"
+    },
+    {
+      "text": "roi René",
+      "start": 83569,
+      "end": 83577,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 83598,
+      "end": 83606,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 83777,
+      "end": 83782,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 83891,
+      "end": 83898,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 83987,
+      "end": 83991,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 84003,
+      "end": 84012,
+      "label": "LOC"
+    },
+    {
+      "text": "Desfondrilles",
+      "start": 84075,
+      "end": 84088,
+      "label": "PER"
+    },
+    {
+      "text": "Thibault",
+      "start": 84172,
+      "end": 84180,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 84201,
+      "end": 84208,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferrare",
+      "start": 84216,
+      "end": 84223,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 84233,
+      "end": 84239,
+      "label": "LOC"
+    },
+    {
+      "text": "Weymar",
+      "start": 84252,
+      "end": 84258,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 84262,
+      "end": 84271,
+      "label": "LOC"
+    },
+    {
+      "text": "Munich",
+      "start": 84308,
+      "end": 84314,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 84319,
+      "end": 84326,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 84358,
+      "end": 84364,
+      "label": "PER"
+    },
+    {
+      "text": "Desfondrilles",
+      "start": 84415,
+      "end": 84428,
+      "label": "PER"
+    },
+    {
+      "text": "Juge",
+      "start": 84433,
+      "end": 84437,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 84572,
+      "end": 84579,
+      "label": "LOC"
+    },
+    {
+      "text": "Cryptes !   Hé !",
+      "start": 84610,
+      "end": 84626,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 84755,
+      "end": 84763,
+      "label": "PER"
+    },
+    {
+      "text": "Martener",
+      "start": 84879,
+      "end": 84887,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 84929,
+      "end": 84935,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 85016,
+      "end": 85023,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 85153,
+      "end": 85159,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 85212,
+      "end": 85219,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé !",
+      "start": 85435,
+      "end": 85439,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 86043,
+      "end": 86049,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 86356,
+      "end": 86362,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 86520,
+      "end": 86527,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 86560,
+      "end": 86567,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie Rogron",
+      "start": 86600,
+      "end": 86613,
+      "label": "PER"
+    },
+    {
+      "text": "lettre des Lorrain",
+      "start": 86732,
+      "end": 86750,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 86788,
+      "end": 86797,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 86888,
+      "end": 86894,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 86959,
+      "end": 86966,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 87062,
+      "end": 87069,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 87176,
+      "end": 87185,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 87263,
+      "end": 87269,
+      "label": "PER"
+    },
+    {
+      "text": "Nabuchodonosor",
+      "start": 87318,
+      "end": 87332,
+      "label": "PER"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 87387,
+      "end": 87405,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 87601,
+      "end": 87608,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 87736,
+      "end": 87742,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 87847,
+      "end": 87854,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 87886,
+      "end": 87901,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 87966,
+      "end": 87973,
+      "label": "LOC"
+    },
+    {
+      "text": "Genève",
+      "start": 88004,
+      "end": 88010,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 88052,
+      "end": 88061,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 88083,
+      "end": 88090,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 88271,
+      "end": 88279,
+      "label": "PER"
+    },
+    {
+      "text": "madame Garceland",
+      "start": 88389,
+      "end": 88405,
+      "label": "PER"
+    },
+    {
+      "text": "Auffray",
+      "start": 88451,
+      "end": 88458,
+      "label": "PER"
+    },
+    {
+      "text": "Président Tiphaine",
+      "start": 88568,
+      "end": 88586,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 88593,
+      "end": 88601,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 88607,
+      "end": 88613,
+      "label": "PER"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 88622,
+      "end": 88633,
+      "label": "LOC"
+    },
+    {
+      "text": "Lesourd",
+      "start": 88668,
+      "end": 88675,
+      "label": "LOC"
+    },
+    {
+      "text": "Procureur",
+      "start": 88680,
+      "end": 88689,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 88693,
+      "end": 88696,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 88732,
+      "end": 88739,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 88783,
+      "end": 88789,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 88791,
+      "end": 88797,
+      "label": "PER"
+    },
+    {
+      "text": "madame Garceland",
+      "start": 88820,
+      "end": 88836,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 89034,
+      "end": 89040,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Jacques",
+      "start": 89135,
+      "end": 89148,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 89157,
+      "end": 89163,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 89275,
+      "end": 89281,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 89406,
+      "end": 89413,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 89419,
+      "end": 89425,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 89601,
+      "end": 89605,
+      "label": "MISC"
+    },
+    {
+      "text": "Rogron",
+      "start": 89614,
+      "end": 89620,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 89763,
+      "end": 89772,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 89947,
+      "end": 89953,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 89999,
+      "end": 90007,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lorrain",
+      "start": 90011,
+      "end": 90025,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 90043,
+      "end": 90050,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 90135,
+      "end": 90142,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Jacques",
+      "start": 90237,
+      "end": 90250,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 90256,
+      "end": 90262,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 90336,
+      "end": 90342,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 90510,
+      "end": 90517,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 90545,
+      "end": 90551,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 90624,
+      "end": 90631,
+      "label": "LOC"
+    },
+    {
+      "text": "Gouraud",
+      "start": 90726,
+      "end": 90733,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 90746,
+      "end": 90751,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 90781,
+      "end": 90789,
+      "label": "MISC"
+    },
+    {
+      "text": "Guénée",
+      "start": 90795,
+      "end": 90801,
+      "label": "LOC"
+    },
+    {
+      "text": "Garceland",
+      "start": 90807,
+      "end": 90816,
+      "label": "LOC"
+    },
+    {
+      "text": "Guépin",
+      "start": 90822,
+      "end": 90828,
+      "label": "LOC"
+    },
+    {
+      "text": "Julliard",
+      "start": 90836,
+      "end": 90844,
+      "label": "LOC"
+    },
+    {
+      "text": "Dis",
+      "start": 90848,
+      "end": 90851,
+      "label": "MISC"
+    },
+    {
+      "text": "Sylvie",
+      "start": 90858,
+      "end": 90864,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 90935,
+      "end": 90950,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Roguin",
+      "start": 90989,
+      "end": 91002,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume du Chat",
+      "start": 91030,
+      "end": 91047,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 91089,
+      "end": 91101,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 91144,
+      "end": 91150,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 91191,
+      "end": 91200,
+      "label": "PER"
+    },
+    {
+      "text": "madame Tiphaine",
+      "start": 91222,
+      "end": 91237,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 91397,
+      "end": 91401,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 91436,
+      "end": 91443,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 91489,
+      "end": 91495,
+      "label": "LOC"
+    },
+    {
+      "text": "Denis Rogron",
+      "start": 91570,
+      "end": 91582,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 91594,
+      "end": 91600,
+      "label": "PER"
+    },
+    {
+      "text": "Clique",
+      "start": 91634,
+      "end": 91640,
+      "label": "MISC"
+    },
+    {
+      "text": "Provins",
+      "start": 91987,
+      "end": 91994,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 92026,
+      "end": 92032,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 92077,
+      "end": 92084,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 92101,
+      "end": 92106,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 92363,
+      "end": 92370,
+      "label": "LOC"
+    },
+    {
+      "text": "Cournant",
+      "start": 92454,
+      "end": 92462,
+      "label": "LOC"
+    },
+    {
+      "text": "Auffray",
+      "start": 92497,
+      "end": 92504,
+      "label": "PER"
+    },
+    {
+      "text": "Néraud",
+      "start": 92518,
+      "end": 92524,
+      "label": "PER"
+    },
+    {
+      "text": "Martener",
+      "start": 92552,
+      "end": 92560,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 92893,
+      "end": 92907,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 92948,
+      "end": 92954,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 93016,
+      "end": 93022,
+      "label": "PER"
+    },
+    {
+      "text": "Constitutionnel",
+      "start": 93076,
+      "end": 93091,
+      "label": "LOC"
+    },
+    {
+      "text": "Gouraud",
+      "start": 93136,
+      "end": 93143,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 93189,
+      "end": 93195,
+      "label": "PER"
+    },
+    {
+      "text": "Mercier",
+      "start": 93279,
+      "end": 93286,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 93345,
+      "end": 93354,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvie",
+      "start": 93514,
+      "end": 93520,
+      "label": "PER"
+    },
+    {
+      "text": "Tiphaine",
+      "start": 93537,
+      "end": 93545,
+      "label": "ORG"
+    },
+    {
+      "text": "Gouraud",
+      "start": 93767,
+      "end": 93774,
+      "label": "PER"
+    },
+    {
+      "text": "Bérésina",
+      "start": 94109,
+      "end": 94117,
+      "label": "LOC"
+    },
+    {
+      "text": "Gouraud",
+      "start": 94227,
+      "end": 94234,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 94994,
+      "end": 95001,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 95034,
+      "end": 95050,
+      "label": "ORG"
+    },
+    {
+      "text": "Provins",
+      "start": 95279,
+      "end": 95286,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 95361,
+      "end": 95369,
+      "label": "MISC"
+    },
+    {
+      "text": "Vinet",
+      "start": 95415,
+      "end": 95420,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 95518,
+      "end": 95523,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal",
+      "start": 95559,
+      "end": 95567,
+      "label": "MISC"
+    },
+    {
+      "text": "Coulommiers",
+      "start": 95621,
+      "end": 95632,
+      "label": "LOC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 95714,
+      "end": 95724,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 95754,
+      "end": 95758,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Louis",
+      "start": 95820,
+      "end": 95831,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 95837,
+      "end": 95843,
+      "label": "LOC"
+    },
+    {
+      "text": "Vinet",
+      "start": 95926,
+      "end": 95931,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère public",
+      "start": 96298,
+      "end": 96314,
+      "label": "ORG"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 96353,
+      "end": 96363,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 96494,
+      "end": 96499,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vinet",
+      "start": 96643,
+      "end": 96655,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 96689,
+      "end": 96699,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 96765,
+      "end": 96771,
+      "label": "LOC"
+    },
+    {
+      "text": "Vinet",
+      "start": 96779,
+      "end": 96784,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 96835,
+      "end": 96845,
+      "label": "LOC"
+    },
+    {
+      "text": "Provins",
+      "start": 97006,
+      "end": 97013,
+      "label": "LOC"
+    },
+    {
+      "text": "Vinet",
+      "start": 97045,
+      "end": 97050,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 97202,
+      "end": 97212,
+      "label": "ORG"
+    },
+    {
+      "text": "Vinet",
+      "start": 97479,
+      "end": 97484,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal",
+      "start": 97721,
+      "end": 97729,
+      "label": "MISC"
+    },
+    {
+      "text": "Accoutumé",
+      "start": 98164,
+      "end": 98173,
+      "label": "MISC"
+    },
+    {
+      "text": "Vinet",
+      "start": 98349,
+      "end": 98354,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrette",
+      "start": 98524,
+      "end": 98533,
+      "label": "PER"
+    },
+    {
+      "text": "Provins",
+      "start": 98607,
+      "end": 98614,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 98722,
+      "end": 98728,
+      "label": "PER"
+    },
+    {
+      "text": "Gouraud",
+      "start": 98887,
+      "end": 98894,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 98925,
+      "end": 98930,
+      "label": "LOC"
+    },
+    {
+      "text": "Rogron",
+      "start": 98939,
+      "end": 98945,
+      "label": "PER"
+    },
+    {
+      "text": "Rogron",
+      "start": 99198,
+      "end": 99204,
+      "label": "PER"
+    },
+    {
+      "text": "Lorrain",
+      "start": 99323,
+      "end": 99330,
+      "label": "PER"
+    },
+    {
+      "text": "Vinet",
+      "start": 99613,
+      "end": 99618,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 99781,
+      "end": 99790,
+      "label": "PER"
+    },
+    {
+      "text": "Brigaut",
+      "start": 99936,
+      "end": 99943,
+      "label": "PER"
+    }
+  ]
+}

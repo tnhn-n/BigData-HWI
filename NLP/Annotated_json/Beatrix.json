@@ -1,0 +1,3496 @@
+{
+  "entities": [
+    {
+      "text": "BÉATRIX",
+      "start": 0,
+      "end": 7,
+      "label": "MISC"
+    },
+    {
+      "text": "SARAH",
+      "start": 17,
+      "end": 22,
+      "label": "MISC"
+    },
+    {
+      "text": "Par un temps pur",
+      "start": 24,
+      "end": 40,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 58,
+      "end": 70,
+      "label": "LOC"
+    },
+    {
+      "text": "perle de la Flore marine",
+      "start": 847,
+      "end": 871,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 1247,
+      "end": 1253,
+      "label": "MISC"
+    },
+    {
+      "text": "PREMIÈRE PARTIE",
+      "start": 1261,
+      "end": 1276,
+      "label": "MISC"
+    },
+    {
+      "text": "La France",
+      "start": 1278,
+      "end": 1287,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 1295,
+      "end": 1303,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1505,
+      "end": 1510,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 1994,
+      "end": 2002,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 2030,
+      "end": 2038,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 2059,
+      "end": 2068,
+      "label": "PER"
+    },
+    {
+      "text": "Poitou",
+      "start": 2080,
+      "end": 2086,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 2136,
+      "end": 2147,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 2356,
+      "end": 2364,
+      "label": "LOC"
+    },
+    {
+      "text": "Couronne",
+      "start": 2532,
+      "end": 2540,
+      "label": "ORG"
+    },
+    {
+      "text": "Industrie",
+      "start": 2863,
+      "end": 2872,
+      "label": "LOC"
+    },
+    {
+      "text": "Art antique",
+      "start": 2914,
+      "end": 2925,
+      "label": "MISC"
+    },
+    {
+      "text": "Industrie",
+      "start": 3137,
+      "end": 3146,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 3457,
+      "end": 3465,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 3819,
+      "end": 3829,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 3845,
+      "end": 3849,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 3857,
+      "end": 3865,
+      "label": "LOC"
+    },
+    {
+      "text": "Vitré",
+      "start": 3885,
+      "end": 3890,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 3913,
+      "end": 3921,
+      "label": "LOC"
+    },
+    {
+      "text": "Avignon",
+      "start": 3923,
+      "end": 3930,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 4046,
+      "end": 4054,
+      "label": "LOC"
+    },
+    {
+      "text": "La Mairie",
+      "start": 4458,
+      "end": 4467,
+      "label": "LOC"
+    },
+    {
+      "text": "Nulle",
+      "start": 4875,
+      "end": 4880,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 6351,
+      "end": 6360,
+      "label": "LOC"
+    },
+    {
+      "text": "Paludiers",
+      "start": 7498,
+      "end": 7507,
+      "label": "LOC"
+    },
+    {
+      "text": "Paysans",
+      "start": 7632,
+      "end": 7639,
+      "label": "LOC"
+    },
+    {
+      "text": "Inde",
+      "start": 7840,
+      "end": 7844,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 8247,
+      "end": 8255,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 8523,
+      "end": 8534,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 8543,
+      "end": 8551,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretons",
+      "start": 8575,
+      "end": 8582,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 8654,
+      "end": 8663,
+      "label": "LOC"
+    },
+    {
+      "text": "Savenay",
+      "start": 8711,
+      "end": 8718,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 8770,
+      "end": 8783,
+      "label": "LOC"
+    },
+    {
+      "text": "Vannes",
+      "start": 8803,
+      "end": 8809,
+      "label": "LOC"
+    },
+    {
+      "text": "Morbihan",
+      "start": 8832,
+      "end": 8840,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 8911,
+      "end": 8924,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 8957,
+      "end": 8963,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 9079,
+      "end": 9092,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 9116,
+      "end": 9124,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 9269,
+      "end": 9282,
+      "label": "LOC"
+    },
+    {
+      "text": "Paimbœuf",
+      "start": 9297,
+      "end": 9305,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 9329,
+      "end": 9334,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 9383,
+      "end": 9388,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 9540,
+      "end": 9553,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 10151,
+      "end": 10160,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 10178,
+      "end": 10191,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 10205,
+      "end": 10209,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 10213,
+      "end": 10223,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 10345,
+      "end": 10353,
+      "label": "LOC"
+    },
+    {
+      "text": "Heureuse",
+      "start": 10404,
+      "end": 10412,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 10572,
+      "end": 10579,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 10629,
+      "end": 10637,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 10813,
+      "end": 10820,
+      "label": "LOC"
+    },
+    {
+      "text": "Herculanum de la Féodalité",
+      "start": 10901,
+      "end": 10927,
+      "label": "ORG"
+    },
+    {
+      "text": "Guérande",
+      "start": 11072,
+      "end": 11080,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 11085,
+      "end": 11095,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 11331,
+      "end": 11344,
+      "label": "PER"
+    },
+    {
+      "text": "buis",
+      "start": 11460,
+      "end": 11464,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 11717,
+      "end": 11724,
+      "label": "LOC"
+    },
+    {
+      "text": "soleil",
+      "start": 11827,
+      "end": 11833,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabes",
+      "start": 11946,
+      "end": 11952,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 11987,
+      "end": 11995,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 12071,
+      "end": 12081,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 12108,
+      "end": 12112,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 12175,
+      "end": 12181,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 12399,
+      "end": 12405,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 12558,
+      "end": 12571,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 12574,
+      "end": 12582,
+      "label": "LOC"
+    },
+    {
+      "text": "Bernus",
+      "start": 12603,
+      "end": 12609,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 12816,
+      "end": 12824,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 12858,
+      "end": 12868,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulogne",
+      "start": 13015,
+      "end": 13023,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieppe",
+      "start": 13028,
+      "end": 13034,
+      "label": "LOC"
+    },
+    {
+      "text": "Sables",
+      "start": 13042,
+      "end": 13048,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 13413,
+      "end": 13421,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 13435,
+      "end": 13443,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 13570,
+      "end": 13574,
+      "label": "LOC"
+    },
+    {
+      "text": "Les bijoux",
+      "start": 13633,
+      "end": 13643,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 13725,
+      "end": 13733,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 13812,
+      "end": 13820,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 13863,
+      "end": 13869,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 14537,
+      "end": 14545,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 14764,
+      "end": 14772,
+      "label": "LOC"
+    },
+    {
+      "text": "du Guesclin",
+      "start": 14792,
+      "end": 14803,
+      "label": "PER"
+    },
+    {
+      "text": "Troyens",
+      "start": 14870,
+      "end": 14877,
+      "label": "LOC"
+    },
+    {
+      "text": "Romains",
+      "start": 14892,
+      "end": 14899,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisqlain",
+      "start": 14905,
+      "end": 14915,
+      "label": "LOC"
+    },
+    {
+      "text": "Glaicquin",
+      "start": 14949,
+      "end": 14958,
+      "label": "PER"
+    },
+    {
+      "text": "Guesclin",
+      "start": 14976,
+      "end": 14984,
+      "label": "PER"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 15001,
+      "end": 15009,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 15036,
+      "end": 15047,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 15053,
+      "end": 15061,
+      "label": "LOC"
+    },
+    {
+      "text": "Francs",
+      "start": 15073,
+      "end": 15079,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaulois",
+      "start": 15083,
+      "end": 15090,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretons",
+      "start": 15101,
+      "end": 15108,
+      "label": "MISC"
+    },
+    {
+      "text": "Celtes",
+      "start": 15136,
+      "end": 15142,
+      "label": "LOC"
+    },
+    {
+      "text": "Rohan",
+      "start": 15329,
+      "end": 15334,
+      "label": "MISC"
+    },
+    {
+      "text": "Hugues Capet",
+      "start": 15440,
+      "end": 15452,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 15548,
+      "end": 15556,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 15580,
+      "end": 15588,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 15640,
+      "end": 15648,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 15665,
+      "end": 15673,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 15791,
+      "end": 15799,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 16061,
+      "end": 16070,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 16241,
+      "end": 16249,
+      "label": "LOC"
+    },
+    {
+      "text": "Assemblée nationale",
+      "start": 16332,
+      "end": 16351,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 16487,
+      "end": 16493,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16525,
+      "end": 16530,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 16551,
+      "end": 16559,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 16562,
+      "end": 16570,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 16574,
+      "end": 16582,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 16596,
+      "end": 16604,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 16630,
+      "end": 16639,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 16704,
+      "end": 16717,
+      "label": "PER"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 16765,
+      "end": 16773,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 16859,
+      "end": 16870,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 16877,
+      "end": 16885,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisqlain",
+      "start": 16940,
+      "end": 16950,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 17012,
+      "end": 17018,
+      "label": "PER"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 17595,
+      "end": 17603,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 17889,
+      "end": 17897,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 18146,
+      "end": 18154,
+      "label": "LOC"
+    },
+    {
+      "text": "FAC",
+      "start": 18273,
+      "end": 18276,
+      "label": "ORG"
+    },
+    {
+      "text": "Guérande",
+      "start": 18664,
+      "end": 18672,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 18912,
+      "end": 18920,
+      "label": "LOC"
+    },
+    {
+      "text": "du Guesclin",
+      "start": 19106,
+      "end": 19117,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 19143,
+      "end": 19150,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 19156,
+      "end": 19165,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 19395,
+      "end": 19403,
+      "label": "LOC"
+    },
+    {
+      "text": "Cordoue",
+      "start": 21159,
+      "end": 21166,
+      "label": "LOC"
+    },
+    {
+      "text": "Tristan",
+      "start": 21380,
+      "end": 21387,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 21390,
+      "end": 21395,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 21481,
+      "end": 21489,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 22985,
+      "end": 22993,
+      "label": "PER"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 23095,
+      "end": 23103,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 23299,
+      "end": 23307,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 23525,
+      "end": 23533,
+      "label": "PER"
+    },
+    {
+      "text": "croisillon oblong",
+      "start": 26366,
+      "end": 26383,
+      "label": "PER"
+    },
+    {
+      "text": "pan",
+      "start": 26728,
+      "end": 26731,
+      "label": "ORG"
+    },
+    {
+      "text": "Voyez",
+      "start": 26752,
+      "end": 26757,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 26837,
+      "end": 26845,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 27211,
+      "end": 27219,
+      "label": "LOC"
+    },
+    {
+      "text": "Maîtres",
+      "start": 27295,
+      "end": 27302,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Calyste",
+      "start": 27639,
+      "end": 27652,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 27862,
+      "end": 27870,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 28550,
+      "end": 28556,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 28709,
+      "end": 28717,
+      "label": "LOC"
+    },
+    {
+      "text": "la Trinité",
+      "start": 29020,
+      "end": 29030,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 29618,
+      "end": 29622,
+      "label": "MISC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 29842,
+      "end": 29850,
+      "label": "LOC"
+    },
+    {
+      "text": "noble Bretagne",
+      "start": 30046,
+      "end": 30060,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 30515,
+      "end": 30522,
+      "label": "LOC"
+    },
+    {
+      "text": "Guaisnic",
+      "start": 30819,
+      "end": 30827,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 30974,
+      "end": 30980,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 31006,
+      "end": 31014,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Guénic",
+      "start": 31021,
+      "end": 31037,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 31058,
+      "end": 31064,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudebert Calyste Louis",
+      "start": 31134,
+      "end": 31157,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudebert Calyste Charles",
+      "start": 31216,
+      "end": 31241,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Gaudebert",
+      "start": 31280,
+      "end": 31295,
+      "label": "PER"
+    },
+    {
+      "text": "saint Calyste",
+      "start": 31299,
+      "end": 31312,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 31344,
+      "end": 31350,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 31364,
+      "end": 31370,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 31384,
+      "end": 31392,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 31404,
+      "end": 31410,
+      "label": "LOC"
+    },
+    {
+      "text": "Guerre",
+      "start": 31462,
+      "end": 31468,
+      "label": "MISC"
+    },
+    {
+      "text": "Charette",
+      "start": 31474,
+      "end": 31482,
+      "label": "MISC"
+    },
+    {
+      "text": "Catelineau",
+      "start": 31489,
+      "end": 31499,
+      "label": "PER"
+    },
+    {
+      "text": "La Rochejacquelein",
+      "start": 31501,
+      "end": 31519,
+      "label": "PER"
+    },
+    {
+      "text": "Elbée",
+      "start": 31523,
+      "end": 31528,
+      "label": "PER"
+    },
+    {
+      "text": "Bonchamps",
+      "start": 31530,
+      "end": 31539,
+      "label": "LOC"
+    },
+    {
+      "text": "Talmont",
+      "start": 31556,
+      "end": 31563,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirine du Guénic",
+      "start": 31642,
+      "end": 31661,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 31862,
+      "end": 31870,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 31966,
+      "end": 31974,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 31982,
+      "end": 31990,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 31994,
+      "end": 32001,
+      "label": "LOC"
+    },
+    {
+      "text": "Irlande",
+      "start": 32019,
+      "end": 32026,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretons",
+      "start": 32058,
+      "end": 32065,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 32073,
+      "end": 32083,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 32097,
+      "end": 32105,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle du Guénic",
+      "start": 32202,
+      "end": 32224,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 32310,
+      "end": 32316,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 32334,
+      "end": 32342,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 32401,
+      "end": 32407,
+      "label": "LOC"
+    },
+    {
+      "text": "Dublin",
+      "start": 32430,
+      "end": 32436,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 32447,
+      "end": 32453,
+      "label": "PER"
+    },
+    {
+      "text": "Irlandaise",
+      "start": 32511,
+      "end": 32521,
+      "label": "LOC"
+    },
+    {
+      "text": "Miss Fanny",
+      "start": 32605,
+      "end": 32615,
+      "label": "ORG"
+    },
+    {
+      "text": "Brien",
+      "start": 32618,
+      "end": 32623,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 32662,
+      "end": 32668,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 32822,
+      "end": 32829,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 32858,
+      "end": 32869,
+      "label": "PER"
+    },
+    {
+      "text": "Calais",
+      "start": 32872,
+      "end": 32878,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 32920,
+      "end": 32925,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 32945,
+      "end": 32951,
+      "label": "PER"
+    },
+    {
+      "text": "Dublin",
+      "start": 33125,
+      "end": 33131,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 33232,
+      "end": 33238,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 33339,
+      "end": 33347,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 33361,
+      "end": 33367,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Ostade",
+      "start": 33651,
+      "end": 33661,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 33666,
+      "end": 33675,
+      "label": "PER"
+    },
+    {
+      "text": "Miéris",
+      "start": 33680,
+      "end": 33686,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 33691,
+      "end": 33701,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 35697,
+      "end": 35705,
+      "label": "LOC"
+    },
+    {
+      "text": "du Guesclin",
+      "start": 35820,
+      "end": 35831,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanne d'Arc",
+      "start": 35952,
+      "end": 35964,
+      "label": "PER"
+    },
+    {
+      "text": "Reims",
+      "start": 36030,
+      "end": 36035,
+      "label": "LOC"
+    },
+    {
+      "text": "Bocage",
+      "start": 36122,
+      "end": 36128,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 36164,
+      "end": 36170,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 36197,
+      "end": 36202,
+      "label": "ORG"
+    },
+    {
+      "text": "Georges",
+      "start": 36249,
+      "end": 36256,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 36361,
+      "end": 36369,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 36530,
+      "end": 36536,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 36545,
+      "end": 36551,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 36664,
+      "end": 36670,
+      "label": "PER"
+    },
+    {
+      "text": "Fac",
+      "start": 36688,
+      "end": 36691,
+      "label": "PER"
+    },
+    {
+      "text": "Hurons",
+      "start": 37162,
+      "end": 37168,
+      "label": "LOC"
+    },
+    {
+      "text": "Institutions",
+      "start": 37751,
+      "end": 37763,
+      "label": "ORG"
+    },
+    {
+      "text": "Religion",
+      "start": 37768,
+      "end": 37776,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 38757,
+      "end": 38765,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 38786,
+      "end": 38792,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 38803,
+      "end": 38808,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 39169,
+      "end": 39175,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 39280,
+      "end": 39291,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 39330,
+      "end": 39341,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 39382,
+      "end": 39388,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Feltre",
+      "start": 39502,
+      "end": 39515,
+      "label": "PER"
+    },
+    {
+      "text": "états des armées vendéennes",
+      "start": 39529,
+      "end": 39556,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 39590,
+      "end": 39596,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 39669,
+      "end": 39682,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 39723,
+      "end": 39731,
+      "label": "LOC"
+    },
+    {
+      "text": "général Travot",
+      "start": 39757,
+      "end": 39771,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 39948,
+      "end": 39956,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 39958,
+      "end": 39966,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 40125,
+      "end": 40131,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 40168,
+      "end": 40174,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 40637,
+      "end": 40648,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 41221,
+      "end": 41229,
+      "label": "ORG"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 41315,
+      "end": 41326,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 41469,
+      "end": 41476,
+      "label": "MISC"
+    },
+    {
+      "text": "Guénic",
+      "start": 41525,
+      "end": 41531,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendéen",
+      "start": 41542,
+      "end": 41549,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 41560,
+      "end": 41566,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 41759,
+      "end": 41766,
+      "label": "MISC"
+    },
+    {
+      "text": "courre",
+      "start": 42024,
+      "end": 42030,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Berry",
+      "start": 42163,
+      "end": 42180,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 42189,
+      "end": 42195,
+      "label": "LOC"
+    },
+    {
+      "text": "emmena t",
+      "start": 42231,
+      "end": 42239,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 42453,
+      "end": 42461,
+      "label": "PER"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 42637,
+      "end": 42648,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 43011,
+      "end": 43017,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 43147,
+      "end": 43153,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 43222,
+      "end": 43228,
+      "label": "LOC"
+    },
+    {
+      "text": "Gasselin",
+      "start": 43501,
+      "end": 43509,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 43774,
+      "end": 43782,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 43796,
+      "end": 43804,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 43835,
+      "end": 43842,
+      "label": "PER"
+    },
+    {
+      "text": "famille de Bourbon",
+      "start": 44448,
+      "end": 44466,
+      "label": "MISC"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 44743,
+      "end": 44754,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 45033,
+      "end": 45043,
+      "label": "LOC"
+    },
+    {
+      "text": "Ecosse",
+      "start": 45048,
+      "end": 45054,
+      "label": "LOC"
+    },
+    {
+      "text": "Irlande",
+      "start": 45061,
+      "end": 45068,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny O'Brien",
+      "start": 45278,
+      "end": 45291,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 47227,
+      "end": 47233,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 47532,
+      "end": 47536,
+      "label": "MISC"
+    },
+    {
+      "text": "Vierge",
+      "start": 47579,
+      "end": 47585,
+      "label": "LOC"
+    },
+    {
+      "text": "Platon",
+      "start": 47838,
+      "end": 47844,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 49959,
+      "end": 49965,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Zéphirine",
+      "start": 49979,
+      "end": 50001,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 50753,
+      "end": 50758,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 51606,
+      "end": 51612,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny",
+      "start": 52132,
+      "end": 52137,
+      "label": "PER"
+    },
+    {
+      "text": "brun",
+      "start": 52526,
+      "end": 52530,
+      "label": "PER"
+    },
+    {
+      "text": "Fanny",
+      "start": 52557,
+      "end": 52562,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 53576,
+      "end": 53584,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 53839,
+      "end": 53847,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 53921,
+      "end": 53928,
+      "label": "MISC"
+    },
+    {
+      "text": "tressailli",
+      "start": 54421,
+      "end": 54431,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 54512,
+      "end": 54520,
+      "label": "PER"
+    },
+    {
+      "text": "Bretons",
+      "start": 54544,
+      "end": 54551,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 54786,
+      "end": 54798,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 54810,
+      "end": 54818,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 54973,
+      "end": 54980,
+      "label": "MISC"
+    },
+    {
+      "text": "bique",
+      "start": 55371,
+      "end": 55376,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariotte",
+      "start": 55401,
+      "end": 55409,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 55478,
+      "end": 55486,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 55624,
+      "end": 55632,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 55636,
+      "end": 55644,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 55748,
+      "end": 55756,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 55788,
+      "end": 55796,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 55892,
+      "end": 55898,
+      "label": "LOC"
+    },
+    {
+      "text": "guerre de Vendée",
+      "start": 55975,
+      "end": 55991,
+      "label": "MISC"
+    },
+    {
+      "text": "Guénic",
+      "start": 56265,
+      "end": 56271,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Zéphirine",
+      "start": 56318,
+      "end": 56340,
+      "label": "PER"
+    },
+    {
+      "text": "Fanny O'Brien",
+      "start": 56400,
+      "end": 56413,
+      "label": "MISC"
+    },
+    {
+      "text": "Calyste",
+      "start": 57262,
+      "end": 57269,
+      "label": "MISC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 57502,
+      "end": 57511,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 57871,
+      "end": 57879,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 57891,
+      "end": 57899,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 57936,
+      "end": 57944,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 58392,
+      "end": 58400,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 58683,
+      "end": 58690,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 58724,
+      "end": 58732,
+      "label": "LOC"
+    },
+    {
+      "text": "Gasselin",
+      "start": 59535,
+      "end": 59543,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 59730,
+      "end": 59736,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 59800,
+      "end": 59808,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 59895,
+      "end": 59903,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 59976,
+      "end": 59982,
+      "label": "LOC"
+    },
+    {
+      "text": "Gasselin",
+      "start": 60078,
+      "end": 60086,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 60181,
+      "end": 60189,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 60228,
+      "end": 60236,
+      "label": "LOC"
+    },
+    {
+      "text": "Seriez",
+      "start": 60573,
+      "end": 60579,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 60629,
+      "end": 60638,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 60645,
+      "end": 60650,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Grimont",
+      "start": 60667,
+      "end": 60683,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 61483,
+      "end": 61491,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Grimont",
+      "start": 61591,
+      "end": 61607,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 61622,
+      "end": 61630,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 61806,
+      "end": 61812,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 61991,
+      "end": 61997,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 62104,
+      "end": 62112,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 62325,
+      "end": 62332,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 62388,
+      "end": 62396,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 62436,
+      "end": 62440,
+      "label": "MISC"
+    },
+    {
+      "text": "Mariotte",
+      "start": 62464,
+      "end": 62472,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 62652,
+      "end": 62659,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 62686,
+      "end": 62693,
+      "label": "MISC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 62769,
+      "end": 62777,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 62783,
+      "end": 62791,
+      "label": "PER"
+    },
+    {
+      "text": "Mariotte",
+      "start": 62952,
+      "end": 62960,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 63526,
+      "end": 63532,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 63976,
+      "end": 63982,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 64171,
+      "end": 64176,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 64301,
+      "end": 64309,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 64369,
+      "end": 64375,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 64628,
+      "end": 64644,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 64686,
+      "end": 64694,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 64807,
+      "end": 64815,
+      "label": "MISC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 64849,
+      "end": 64859,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 64917,
+      "end": 64925,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët Pen Hoël",
+      "start": 64970,
+      "end": 64989,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët Pen Hoël",
+      "start": 65077,
+      "end": 65096,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Pen Hoël",
+      "start": 65109,
+      "end": 65133,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët Pen Hoël",
+      "start": 65687,
+      "end": 65706,
+      "label": "ORG"
+    },
+    {
+      "text": "Nantes",
+      "start": 65737,
+      "end": 65743,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 65790,
+      "end": 65795,
+      "label": "LOC"
+    },
+    {
+      "text": "Indret",
+      "start": 65810,
+      "end": 65816,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 65968,
+      "end": 65978,
+      "label": "LOC"
+    },
+    {
+      "text": "Amie de",
+      "start": 66073,
+      "end": 66080,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine du Guénic",
+      "start": 66081,
+      "end": 66100,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline de Pen Hoël",
+      "start": 66102,
+      "end": 66124,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 66181,
+      "end": 66187,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 66216,
+      "end": 66223,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët Pen Hoël",
+      "start": 66351,
+      "end": 66370,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 66439,
+      "end": 66445,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 66721,
+      "end": 66730,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 66760,
+      "end": 66770,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 66985,
+      "end": 66993,
+      "label": "PER"
+    },
+    {
+      "text": "Charlotte de Kergarouët",
+      "start": 67024,
+      "end": 67047,
+      "label": "PER"
+    },
+    {
+      "text": "Grimont",
+      "start": 67090,
+      "end": 67097,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 67205,
+      "end": 67213,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 67377,
+      "end": 67383,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline de Pen Hoël",
+      "start": 67538,
+      "end": 67560,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 67617,
+      "end": 67626,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 67641,
+      "end": 67647,
+      "label": "LOC"
+    },
+    {
+      "text": "Irlande",
+      "start": 67736,
+      "end": 67743,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 67747,
+      "end": 67756,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 67907,
+      "end": 67913,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 68016,
+      "end": 68021,
+      "label": "LOC"
+    },
+    {
+      "text": "Grimont",
+      "start": 68178,
+      "end": 68185,
+      "label": "PER"
+    },
+    {
+      "text": "Gasselin",
+      "start": 68260,
+      "end": 68268,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 68342,
+      "end": 68348,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 68352,
+      "end": 68358,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny",
+      "start": 68383,
+      "end": 68388,
+      "label": "PER"
+    },
+    {
+      "text": "Bretons",
+      "start": 68411,
+      "end": 68418,
+      "label": "MISC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 68436,
+      "end": 68444,
+      "label": "PER"
+    },
+    {
+      "text": "Henri V",
+      "start": 68655,
+      "end": 68662,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 68675,
+      "end": 68683,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 68705,
+      "end": 68713,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 68739,
+      "end": 68746,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretonnes",
+      "start": 69102,
+      "end": 69111,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Pen Hoël",
+      "start": 69196,
+      "end": 69220,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 69296,
+      "end": 69303,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 69383,
+      "end": 69388,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 70161,
+      "end": 70171,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 70328,
+      "end": 70333,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 70529,
+      "end": 70533,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 70884,
+      "end": 70897,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 71332,
+      "end": 71340,
+      "label": "PER"
+    },
+    {
+      "text": "Halga",
+      "start": 71453,
+      "end": 71458,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 71501,
+      "end": 71511,
+      "label": "PER"
+    },
+    {
+      "text": "Arrivez",
+      "start": 71585,
+      "end": 71592,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle de",
+      "start": 71611,
+      "end": 71626,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 71627,
+      "end": 71635,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 71923,
+      "end": 71931,
+      "label": "LOC"
+    },
+    {
+      "text": "Suffren",
+      "start": 72332,
+      "end": 72339,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Portenduère",
+      "start": 72356,
+      "end": 72376,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 72439,
+      "end": 72449,
+      "label": "PER"
+    },
+    {
+      "text": "Thisbé",
+      "start": 72775,
+      "end": 72781,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Estaing",
+      "start": 72976,
+      "end": 72991,
+      "label": "PER"
+    },
+    {
+      "text": "marchât",
+      "start": 73034,
+      "end": 73041,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 73657,
+      "end": 73662,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 73792,
+      "end": 73803,
+      "label": "PER"
+    },
+    {
+      "text": "caisse des Invalides",
+      "start": 73889,
+      "end": 73909,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 74124,
+      "end": 74133,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 74159,
+      "end": 74168,
+      "label": "LOC"
+    },
+    {
+      "text": "Odessa",
+      "start": 74209,
+      "end": 74215,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Richelieu",
+      "start": 74225,
+      "end": 74241,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 74365,
+      "end": 74376,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 74408,
+      "end": 74416,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 74434,
+      "end": 74439,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 74505,
+      "end": 74513,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 74589,
+      "end": 74595,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 74712,
+      "end": 74718,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 74747,
+      "end": 74760,
+      "label": "LOC"
+    },
+    {
+      "text": "Domine",
+      "start": 74929,
+      "end": 74935,
+      "label": "ORG"
+    },
+    {
+      "text": "Guérande",
+      "start": 74994,
+      "end": 75002,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 76263,
+      "end": 76272,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 76274,
+      "end": 76283,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 76498,
+      "end": 76504,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 76771,
+      "end": 76779,
+      "label": "LOC"
+    },
+    {
+      "text": "Académie",
+      "start": 76925,
+      "end": 76933,
+      "label": "ORG"
+    },
+    {
+      "text": "Bataille",
+      "start": 76954,
+      "end": 76962,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Zéphirine",
+      "start": 77038,
+      "end": 77060,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 77412,
+      "end": 77418,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 77554,
+      "end": 77562,
+      "label": "PER"
+    },
+    {
+      "text": "Halga",
+      "start": 78035,
+      "end": 78040,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 78161,
+      "end": 78169,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 78175,
+      "end": 78184,
+      "label": "PER"
+    },
+    {
+      "text": "us",
+      "start": 78549,
+      "end": 78551,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 78771,
+      "end": 78781,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 78836,
+      "end": 78846,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët Pen Hoël",
+      "start": 78883,
+      "end": 78902,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 79055,
+      "end": 79061,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 79172,
+      "end": 79179,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 79226,
+      "end": 79236,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 79615,
+      "end": 79623,
+      "label": "LOC"
+    },
+    {
+      "text": "Jouer",
+      "start": 79757,
+      "end": 79762,
+      "label": "PER"
+    },
+    {
+      "text": "Irez",
+      "start": 79935,
+      "end": 79939,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlotte de Kergarouët",
+      "start": 80108,
+      "end": 80131,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Pen",
+      "start": 81308,
+      "end": 81327,
+      "label": "PER"
+    },
+    {
+      "text": "tricherie",
+      "start": 81370,
+      "end": 81379,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 82274,
+      "end": 82283,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 83242,
+      "end": 83252,
+      "label": "LOC"
+    },
+    {
+      "text": "whist",
+      "start": 83266,
+      "end": 83271,
+      "label": "LOC"
+    },
+    {
+      "text": "boston",
+      "start": 83278,
+      "end": 83284,
+      "label": "LOC"
+    },
+    {
+      "text": "la mouche",
+      "start": 83386,
+      "end": 83395,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 83445,
+      "end": 83451,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 83567,
+      "end": 83577,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 83835,
+      "end": 83843,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 83920,
+      "end": 83925,
+      "label": "LOC"
+    },
+    {
+      "text": "Chose",
+      "start": 84199,
+      "end": 84204,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 84775,
+      "end": 84777,
+      "label": "MISC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 84861,
+      "end": 84870,
+      "label": "PER"
+    },
+    {
+      "text": "Ca",
+      "start": 84874,
+      "end": 84876,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 84928,
+      "end": 84936,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 85156,
+      "end": 85164,
+      "label": "LOC"
+    },
+    {
+      "text": "soleil",
+      "start": 85264,
+      "end": 85270,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 85409,
+      "end": 85414,
+      "label": "LOC"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 85522,
+      "end": 85533,
+      "label": "LOC"
+    },
+    {
+      "text": "Laissez",
+      "start": 85757,
+      "end": 85764,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 85787,
+      "end": 85796,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 86084,
+      "end": 86092,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 86172,
+      "end": 86178,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 86193,
+      "end": 86197,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 86243,
+      "end": 86251,
+      "label": "LOC"
+    },
+    {
+      "text": "Guénic",
+      "start": 86292,
+      "end": 86298,
+      "label": "LOC"
+    },
+    {
+      "text": "Thisbé",
+      "start": 86372,
+      "end": 86378,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 86412,
+      "end": 86420,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 86609,
+      "end": 86614,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 86794,
+      "end": 86803,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 86860,
+      "end": 86864,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 86931,
+      "end": 86940,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 86961,
+      "end": 86970,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 87308,
+      "end": 87317,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 87475,
+      "end": 87483,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 87573,
+      "end": 87591,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 87595,
+      "end": 87605,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 87625,
+      "end": 87633,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Jacques",
+      "start": 87651,
+      "end": 87664,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 87712,
+      "end": 87717,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 87901,
+      "end": 87908,
+      "label": "LOC"
+    },
+    {
+      "text": "Monstruosités",
+      "start": 88080,
+      "end": 88093,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 88244,
+      "end": 88253,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 88538,
+      "end": 88547,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 88574,
+      "end": 88583,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 88609,
+      "end": 88617,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 88705,
+      "end": 88712,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 88736,
+      "end": 88743,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 88822,
+      "end": 88829,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 88882,
+      "end": 88890,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 89119,
+      "end": 89128,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 89239,
+      "end": 89247,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 89275,
+      "end": 89282,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 89306,
+      "end": 89313,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 89496,
+      "end": 89504,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 89547,
+      "end": 89555,
+      "label": "LOC"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 89710,
+      "end": 89719,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Guénic",
+      "start": 89864,
+      "end": 89880,
+      "label": "PER"
+    },
+    {
+      "text": "Irlandaise",
+      "start": 89979,
+      "end": 89989,
+      "label": "LOC"
+    },
+    {
+      "text": "Halga",
+      "start": 90143,
+      "end": 90148,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 90235,
+      "end": 90242,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 90313,
+      "end": 90320,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlotte",
+      "start": 90364,
+      "end": 90373,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 90428,
+      "end": 90436,
+      "label": "PER"
+    },
+    {
+      "text": "Jugez",
+      "start": 90462,
+      "end": 90467,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 90553,
+      "end": 90561,
+      "label": "LOC"
+    },
+    {
+      "text": "madame du Guénic",
+      "start": 90722,
+      "end": 90738,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 90857,
+      "end": 90864,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 90882,
+      "end": 90886,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 90932,
+      "end": 90940,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 91075,
+      "end": 91082,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendée",
+      "start": 91145,
+      "end": 91151,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 91192,
+      "end": 91198,
+      "label": "LOC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 91271,
+      "end": 91279,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 91372,
+      "end": 91379,
+      "label": "PER"
+    },
+    {
+      "text": "Irlande",
+      "start": 91415,
+      "end": 91422,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 91468,
+      "end": 91475,
+      "label": "MISC"
+    },
+    {
+      "text": "Calyste",
+      "start": 91593,
+      "end": 91600,
+      "label": "MISC"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 91632,
+      "end": 91640,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 91891,
+      "end": 91899,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 91937,
+      "end": 91944,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 92020,
+      "end": 92022,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 92047,
+      "end": 92051,
+      "label": "MISC"
+    },
+    {
+      "text": "Félicité des Touches",
+      "start": 92401,
+      "end": 92421,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 92591,
+      "end": 92598,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahomet",
+      "start": 92658,
+      "end": 92665,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 92763,
+      "end": 92771,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougniol",
+      "start": 92806,
+      "end": 92814,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 92891,
+      "end": 92896,
+      "label": "ORG"
+    },
+    {
+      "text": "Nantes",
+      "start": 93265,
+      "end": 93271,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 93287,
+      "end": 93294,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 93319,
+      "end": 93325,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 93441,
+      "end": 93448,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 93461,
+      "end": 93475,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 93539,
+      "end": 93546,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 93738,
+      "end": 93746,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 94068,
+      "end": 94074,
+      "label": "LOC"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 94100,
+      "end": 94110,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlotte",
+      "start": 94140,
+      "end": 94149,
+      "label": "PER"
+    },
+    {
+      "text": "Pen Hoël",
+      "start": 94225,
+      "end": 94233,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 94296,
+      "end": 94303,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 94386,
+      "end": 94393,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 94420,
+      "end": 94427,
+      "label": "LOC"
+    },
+    {
+      "text": "Grimont",
+      "start": 94702,
+      "end": 94709,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Pen Hoël",
+      "start": 94812,
+      "end": 94836,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 94981,
+      "end": 94991,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 95017,
+      "end": 95024,
+      "label": "MISC"
+    },
+    {
+      "text": "Calyste",
+      "start": 95397,
+      "end": 95404,
+      "label": "MISC"
+    },
+    {
+      "text": "Grimont",
+      "start": 95977,
+      "end": 95984,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 96018,
+      "end": 96026,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardez",
+      "start": 96096,
+      "end": 96102,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 96195,
+      "end": 96202,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 96204,
+      "end": 96211,
+      "label": "MISC"
+    },
+    {
+      "text": "Breton",
+      "start": 96241,
+      "end": 96247,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 96348,
+      "end": 96361,
+      "label": "PER"
+    },
+    {
+      "text": "Grimont",
+      "start": 96427,
+      "end": 96434,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 96628,
+      "end": 96634,
+      "label": "PER"
+    },
+    {
+      "text": "Calyste",
+      "start": 96920,
+      "end": 96927,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 97002,
+      "end": 97009,
+      "label": "LOC"
+    },
+    {
+      "text": "Irlande",
+      "start": 97222,
+      "end": 97229,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélas !",
+      "start": 97399,
+      "end": 97406,
+      "label": "MISC"
+    },
+    {
+      "text": "Calyste",
+      "start": 97526,
+      "end": 97533,
+      "label": "MISC"
+    },
+    {
+      "text": "Calyste",
+      "start": 97662,
+      "end": 97669,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 97675,
+      "end": 97683,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste",
+      "start": 98155,
+      "end": 98162,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 98278,
+      "end": 98285,
+      "label": "LOC"
+    },
+    {
+      "text": "Calyste aux Touches",
+      "start": 98369,
+      "end": 98388,
+      "label": "MISC"
+    },
+    {
+      "text": "Fanny",
+      "start": 98804,
+      "end": 98809,
+      "label": "PER"
+    },
+    {
+      "text": "Baal",
+      "start": 99026,
+      "end": 99030,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 99115,
+      "end": 99121,
+      "label": "PER"
+    },
+    {
+      "text": "rejeton",
+      "start": 99513,
+      "end": 99520,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 99683,
+      "end": 99691,
+      "label": "LOC"
+    }
+  ]
+}

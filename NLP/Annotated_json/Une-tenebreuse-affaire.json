@@ -1,0 +1,5386 @@
+{
+  "entities": [
+    {
+      "text": "MONSIEUR",
+      "start": 32,
+      "end": 40,
+      "label": "ORG"
+    },
+    {
+      "text": "Saché",
+      "start": 75,
+      "end": 80,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 99,
+      "end": 105,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAPITRE",
+      "start": 113,
+      "end": 121,
+      "label": "ORG"
+    },
+    {
+      "text": "CHAGRINS",
+      "start": 134,
+      "end": 142,
+      "label": "MISC"
+    },
+    {
+      "text": "POLICE",
+      "start": 149,
+      "end": 155,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Empire",
+      "start": 257,
+      "end": 265,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 455,
+      "end": 464,
+      "label": "PER"
+    },
+    {
+      "text": "le soleil",
+      "start": 597,
+      "end": 606,
+      "label": "LOC"
+    },
+    {
+      "text": "Un homme vêtu d'une veste de chasse",
+      "start": 1135,
+      "end": 1170,
+      "label": "MISC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 1678,
+      "end": 1687,
+      "label": "MISC"
+    },
+    {
+      "text": "département de l'Aube",
+      "start": 1945,
+      "end": 1966,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 2026,
+      "end": 2031,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 2118,
+      "end": 2123,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 2463,
+      "end": 2468,
+      "label": "ORG"
+    },
+    {
+      "text": "brun",
+      "start": 2592,
+      "end": 2596,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 2617,
+      "end": 2622,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Michu",
+      "start": 2685,
+      "end": 2697,
+      "label": "PER"
+    },
+    {
+      "text": "Belle",
+      "start": 2737,
+      "end": 2742,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 3214,
+      "end": 3221,
+      "label": "ORG"
+    },
+    {
+      "text": "Lavater",
+      "start": 3299,
+      "end": 3306,
+      "label": "LOC"
+    },
+    {
+      "text": "Gall",
+      "start": 3319,
+      "end": 3323,
+      "label": "MISC"
+    },
+    {
+      "text": "Fatalité",
+      "start": 3451,
+      "end": 3459,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 3736,
+      "end": 3741,
+      "label": "PER"
+    },
+    {
+      "text": "Calmouque",
+      "start": 3810,
+      "end": 3819,
+      "label": "MISC"
+    },
+    {
+      "text": "Fixes",
+      "start": 4081,
+      "end": 4086,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 4264,
+      "end": 4269,
+      "label": "ORG"
+    },
+    {
+      "text": "Terreur",
+      "start": 4551,
+      "end": 4558,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacobins",
+      "start": 4583,
+      "end": 4591,
+      "label": "ORG"
+    },
+    {
+      "text": "nez camus",
+      "start": 4696,
+      "end": 4705,
+      "label": "MISC"
+    },
+    {
+      "text": "campagnards",
+      "start": 4997,
+      "end": 5008,
+      "label": "LOC"
+    },
+    {
+      "text": "Loi",
+      "start": 5420,
+      "end": 5423,
+      "label": "MISC"
+    },
+    {
+      "text": "parc de Gondreville",
+      "start": 5648,
+      "end": 5667,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 5696,
+      "end": 5705,
+      "label": "LOC"
+    },
+    {
+      "text": "département de l'Aube",
+      "start": 5744,
+      "end": 5765,
+      "label": "LOC"
+    },
+    {
+      "text": "Mansard",
+      "start": 5834,
+      "end": 5841,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution",
+      "start": 5995,
+      "end": 6005,
+      "label": "MISC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 6022,
+      "end": 6029,
+      "label": "LOC"
+    },
+    {
+      "text": "Ximeuse",
+      "start": 6031,
+      "end": 6038,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 6060,
+      "end": 6068,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 6091,
+      "end": 6098,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 6178,
+      "end": 6185,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 6225,
+      "end": 6234,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 6260,
+      "end": 6265,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 6281,
+      "end": 6287,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 6289,
+      "end": 6298,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 6313,
+      "end": 6322,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 6354,
+      "end": 6361,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 6387,
+      "end": 6395,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Simeuse",
+      "start": 6419,
+      "end": 6437,
+      "label": "PER"
+    },
+    {
+      "text": "Bourguignon",
+      "start": 6453,
+      "end": 6464,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 6604,
+      "end": 6614,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 6642,
+      "end": 6648,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Cinq Cygne",
+      "start": 6675,
+      "end": 6694,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 6739,
+      "end": 6749,
+      "label": "LOC"
+    },
+    {
+      "text": "comté de Champagne",
+      "start": 6788,
+      "end": 6806,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 6961,
+      "end": 6972,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 7094,
+      "end": 7100,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Simeuse",
+      "start": 7103,
+      "end": 7119,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 7144,
+      "end": 7163,
+      "label": "LOC"
+    },
+    {
+      "text": "Évêché",
+      "start": 7195,
+      "end": 7201,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 7230,
+      "end": 7236,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse au duc de Lorraine",
+      "start": 7285,
+      "end": 7311,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 7401,
+      "end": 7409,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Simeuse",
+      "start": 7539,
+      "end": 7557,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 7606,
+      "end": 7612,
+      "label": "LOC"
+    },
+    {
+      "text": "maison de Condé",
+      "start": 7730,
+      "end": 7745,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Marquis",
+      "start": 7801,
+      "end": 7814,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 7852,
+      "end": 7859,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 7871,
+      "end": 7882,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 7897,
+      "end": 7902,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 7972,
+      "end": 7981,
+      "label": "PER"
+    },
+    {
+      "text": "pavillon de Cinq Cygne",
+      "start": 7996,
+      "end": 8018,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 8034,
+      "end": 8044,
+      "label": "LOC"
+    },
+    {
+      "text": "forêt de Nodesme",
+      "start": 8063,
+      "end": 8079,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 8095,
+      "end": 8105,
+      "label": "PER"
+    },
+    {
+      "text": "Couraut",
+      "start": 8159,
+      "end": 8166,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Marquis",
+      "start": 8207,
+      "end": 8220,
+      "label": "PER"
+    },
+    {
+      "text": "Champagne",
+      "start": 8325,
+      "end": 8334,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 8389,
+      "end": 8394,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 9135,
+      "end": 9140,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 9453,
+      "end": 9463,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 9474,
+      "end": 9488,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 9523,
+      "end": 9532,
+      "label": "LOC"
+    },
+    {
+      "text": "Mansard",
+      "start": 9922,
+      "end": 9929,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 9965,
+      "end": 9971,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 10067,
+      "end": 10072,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 10688,
+      "end": 10693,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 11034,
+      "end": 11041,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Michu",
+      "start": 11153,
+      "end": 11165,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 11264,
+      "end": 11269,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 11368,
+      "end": 11373,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 11505,
+      "end": 11516,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 11518,
+      "end": 11523,
+      "label": "LOC"
+    },
+    {
+      "text": "l789",
+      "start": 11532,
+      "end": 11536,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaucher",
+      "start": 11691,
+      "end": 11698,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 11725,
+      "end": 11733,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 11914,
+      "end": 11919,
+      "label": "ORG"
+    },
+    {
+      "text": "marquis de Simeuse",
+      "start": 11930,
+      "end": 11948,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 12081,
+      "end": 12092,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Brunswick",
+      "start": 12125,
+      "end": 12141,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de Cobourg",
+      "start": 12148,
+      "end": 12165,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Simeuse",
+      "start": 12170,
+      "end": 12188,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 12310,
+      "end": 12316,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 12491,
+      "end": 12502,
+      "label": "LOC"
+    },
+    {
+      "text": "club des Jacobins",
+      "start": 12529,
+      "end": 12546,
+      "label": "ORG"
+    },
+    {
+      "text": "Troyes",
+      "start": 12563,
+      "end": 12569,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 12624,
+      "end": 12629,
+      "label": "PER"
+    },
+    {
+      "text": "Brutus",
+      "start": 12773,
+      "end": 12779,
+      "label": "PER"
+    },
+    {
+      "text": "Arcis",
+      "start": 12904,
+      "end": 12909,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 12916,
+      "end": 12922,
+      "label": "MISC"
+    },
+    {
+      "text": "maison de Simeuse",
+      "start": 12956,
+      "end": 12973,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 13008,
+      "end": 13021,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 13140,
+      "end": 13145,
+      "label": "ORG"
+    },
+    {
+      "text": "Troyes",
+      "start": 13274,
+      "end": 13280,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 13294,
+      "end": 13307,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Just",
+      "start": 13439,
+      "end": 13449,
+      "label": "PER"
+    },
+    {
+      "text": "Babœuf",
+      "start": 13497,
+      "end": 13503,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 13552,
+      "end": 13558,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 13588,
+      "end": 13594,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 13794,
+      "end": 13805,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 13848,
+      "end": 13855,
+      "label": "MISC"
+    },
+    {
+      "text": "Arcis",
+      "start": 13862,
+      "end": 13867,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 13894,
+      "end": 13900,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 13927,
+      "end": 13934,
+      "label": "LOC"
+    },
+    {
+      "text": "Terreur",
+      "start": 13953,
+      "end": 13960,
+      "label": "MISC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 13978,
+      "end": 13989,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 14079,
+      "end": 14084,
+      "label": "PER"
+    },
+    {
+      "text": "Aube",
+      "start": 14091,
+      "end": 14095,
+      "label": "LOC"
+    },
+    {
+      "text": "Représentants du Département",
+      "start": 14107,
+      "end": 14135,
+      "label": "ORG"
+    },
+    {
+      "text": "Montagne",
+      "start": 14190,
+      "end": 14198,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 14246,
+      "end": 14251,
+      "label": "ORG"
+    },
+    {
+      "text": "Consulat",
+      "start": 15160,
+      "end": 15168,
+      "label": "MISC"
+    },
+    {
+      "text": "Montagnard",
+      "start": 15260,
+      "end": 15270,
+      "label": "MISC"
+    },
+    {
+      "text": "Arcis",
+      "start": 15283,
+      "end": 15288,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 15569,
+      "end": 15575,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 15651,
+      "end": 15661,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 15775,
+      "end": 15780,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 15991,
+      "end": 15996,
+      "label": "ORG"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 16133,
+      "end": 16143,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 16177,
+      "end": 16182,
+      "label": "ORG"
+    },
+    {
+      "text": "Mademoiselle de Cinq Cygne",
+      "start": 16184,
+      "end": 16210,
+      "label": "PER"
+    },
+    {
+      "text": "cousine des Simeuse",
+      "start": 16212,
+      "end": 16231,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Cinq Cygne",
+      "start": 16294,
+      "end": 16315,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 16415,
+      "end": 16421,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 16427,
+      "end": 16438,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules de Cinq Cygne",
+      "start": 16458,
+      "end": 16477,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 16496,
+      "end": 16503,
+      "label": "MISC"
+    },
+    {
+      "text": "Mayence",
+      "start": 16523,
+      "end": 16530,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 16599,
+      "end": 16609,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 16665,
+      "end": 16670,
+      "label": "ORG"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 16688,
+      "end": 16698,
+      "label": "PER"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 16733,
+      "end": 16747,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 16801,
+      "end": 16806,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 16923,
+      "end": 16929,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 16951,
+      "end": 16956,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 16959,
+      "end": 16970,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 16992,
+      "end": 16998,
+      "label": "PER"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 17094,
+      "end": 17108,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 17129,
+      "end": 17143,
+      "label": "ORG"
+    },
+    {
+      "text": "Arcis",
+      "start": 17232,
+      "end": 17237,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 17259,
+      "end": 17265,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 17300,
+      "end": 17305,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 17343,
+      "end": 17350,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 17369,
+      "end": 17386,
+      "label": "ORG"
+    },
+    {
+      "text": "Arcis",
+      "start": 17420,
+      "end": 17425,
+      "label": "PER"
+    },
+    {
+      "text": "Préfecture de Troyes",
+      "start": 17476,
+      "end": 17496,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 17561,
+      "end": 17572,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvisage",
+      "start": 17581,
+      "end": 17591,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 17710,
+      "end": 17715,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 17770,
+      "end": 17778,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution française",
+      "start": 17828,
+      "end": 17848,
+      "label": "MISC"
+    },
+    {
+      "text": "Histoire",
+      "start": 18134,
+      "end": 18142,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 18249,
+      "end": 18254,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 18326,
+      "end": 18332,
+      "label": "MISC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 18366,
+      "end": 18377,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 18479,
+      "end": 18484,
+      "label": "PER"
+    },
+    {
+      "text": "Enregistrement",
+      "start": 18503,
+      "end": 18517,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 18519,
+      "end": 18525,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 18557,
+      "end": 18562,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 18609,
+      "end": 18626,
+      "label": "ORG"
+    },
+    {
+      "text": "Arcis",
+      "start": 18672,
+      "end": 18677,
+      "label": "LOC"
+    },
+    {
+      "text": "Grouage",
+      "start": 18828,
+      "end": 18835,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 18837,
+      "end": 18842,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 18881,
+      "end": 18887,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 18947,
+      "end": 18955,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 18961,
+      "end": 18972,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 18982,
+      "end": 18987,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 19039,
+      "end": 19056,
+      "label": "ORG"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 19070,
+      "end": 19084,
+      "label": "PER"
+    },
+    {
+      "text": "gardiez",
+      "start": 19164,
+      "end": 19171,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 19226,
+      "end": 19232,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 19483,
+      "end": 19488,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 19685,
+      "end": 19691,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 19730,
+      "end": 19735,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon beau père",
+      "start": 19786,
+      "end": 19799,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 19846,
+      "end": 19851,
+      "label": "ORG"
+    },
+    {
+      "text": "Gondreville",
+      "start": 20054,
+      "end": 20065,
+      "label": "LOC"
+    },
+    {
+      "text": "Sachez",
+      "start": 20068,
+      "end": 20074,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 20232,
+      "end": 20237,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 20397,
+      "end": 20403,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 20407,
+      "end": 20412,
+      "label": "MISC"
+    },
+    {
+      "text": "Marion",
+      "start": 20452,
+      "end": 20458,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 20486,
+      "end": 20503,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 20591,
+      "end": 20597,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 20693,
+      "end": 20698,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 20803,
+      "end": 20809,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 20812,
+      "end": 20817,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 20897,
+      "end": 20902,
+      "label": "PER"
+    },
+    {
+      "text": "Marion Premier Président",
+      "start": 20933,
+      "end": 20957,
+      "label": "PER"
+    },
+    {
+      "text": "Cour Impériale",
+      "start": 20964,
+      "end": 20978,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveurs généraux",
+      "start": 21003,
+      "end": 21021,
+      "label": "ORG"
+    },
+    {
+      "text": "Recette générale de l'Aube",
+      "start": 21037,
+      "end": 21063,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 21089,
+      "end": 21106,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 21113,
+      "end": 21119,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21134,
+      "end": 21139,
+      "label": "LOC"
+    },
+    {
+      "text": "Police",
+      "start": 21170,
+      "end": 21176,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 21302,
+      "end": 21307,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 21315,
+      "end": 21320,
+      "label": "ORG"
+    },
+    {
+      "text": "Arcis",
+      "start": 21360,
+      "end": 21365,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 21385,
+      "end": 21390,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 21504,
+      "end": 21509,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 21511,
+      "end": 21528,
+      "label": "ORG"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 21546,
+      "end": 21560,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 21627,
+      "end": 21631,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 21656,
+      "end": 21661,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 21721,
+      "end": 21734,
+      "label": "PER"
+    },
+    {
+      "text": "Sibuelle",
+      "start": 21774,
+      "end": 21782,
+      "label": "LOC"
+    },
+    {
+      "text": "Recette générale de l'Aube",
+      "start": 21846,
+      "end": 21872,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 21875,
+      "end": 21881,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 21927,
+      "end": 21938,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 21972,
+      "end": 21978,
+      "label": "LOC"
+    },
+    {
+      "text": "Représentant de l'Aube",
+      "start": 22062,
+      "end": 22084,
+      "label": "MISC"
+    },
+    {
+      "text": "club des Jacobins",
+      "start": 22111,
+      "end": 22128,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 22183,
+      "end": 22188,
+      "label": "ORG"
+    },
+    {
+      "text": "Marion",
+      "start": 22265,
+      "end": 22271,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 22273,
+      "end": 22279,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 22281,
+      "end": 22286,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde",
+      "start": 22407,
+      "end": 22412,
+      "label": "LOC"
+    },
+    {
+      "text": "Police générale",
+      "start": 22435,
+      "end": 22450,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 22555,
+      "end": 22560,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 22738,
+      "end": 22743,
+      "label": "ORG"
+    },
+    {
+      "text": "Marthe",
+      "start": 22755,
+      "end": 22761,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 22896,
+      "end": 22902,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 22976,
+      "end": 22982,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 23043,
+      "end": 23048,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 23537,
+      "end": 23543,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 23547,
+      "end": 23552,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 23642,
+      "end": 23648,
+      "label": "PER"
+    },
+    {
+      "text": "Bellache",
+      "start": 23941,
+      "end": 23949,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvisage",
+      "start": 23963,
+      "end": 23973,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 23996,
+      "end": 24003,
+      "label": "LOC"
+    },
+    {
+      "text": "Judas",
+      "start": 24064,
+      "end": 24069,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 24339,
+      "end": 24345,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 24592,
+      "end": 24601,
+      "label": "LOC"
+    },
+    {
+      "text": "François",
+      "start": 24644,
+      "end": 24652,
+      "label": "PER"
+    },
+    {
+      "text": "François Michu",
+      "start": 24707,
+      "end": 24721,
+      "label": "PER"
+    },
+    {
+      "text": "Ramasse",
+      "start": 25060,
+      "end": 25067,
+      "label": "LOC"
+    },
+    {
+      "text": "Regarde",
+      "start": 25162,
+      "end": 25169,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 25266,
+      "end": 25271,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaucher",
+      "start": 25547,
+      "end": 25554,
+      "label": "PER"
+    },
+    {
+      "text": "Grouage",
+      "start": 25568,
+      "end": 25575,
+      "label": "PER"
+    },
+    {
+      "text": "Bellache",
+      "start": 25582,
+      "end": 25590,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 25602,
+      "end": 25610,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 25961,
+      "end": 25966,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 26037,
+      "end": 26042,
+      "label": "ORG"
+    },
+    {
+      "text": "Marthe",
+      "start": 26176,
+      "end": 26182,
+      "label": "LOC"
+    },
+    {
+      "text": "Couraut",
+      "start": 26244,
+      "end": 26251,
+      "label": "LOC"
+    },
+    {
+      "text": "Belle",
+      "start": 26306,
+      "end": 26311,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 26343,
+      "end": 26348,
+      "label": "ORG"
+    },
+    {
+      "text": "Couraut",
+      "start": 26408,
+      "end": 26415,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 26419,
+      "end": 26424,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabe",
+      "start": 26496,
+      "end": 26501,
+      "label": "MISC"
+    },
+    {
+      "text": "Couraut",
+      "start": 26601,
+      "end": 26608,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 26792,
+      "end": 26797,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisiens",
+      "start": 26966,
+      "end": 26975,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 26996,
+      "end": 27000,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 27017,
+      "end": 27022,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisiens",
+      "start": 27110,
+      "end": 27119,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 28265,
+      "end": 28273,
+      "label": "PER"
+    },
+    {
+      "text": "Suwaroff",
+      "start": 29488,
+      "end": 29496,
+      "label": "LOC"
+    },
+    {
+      "text": "Clichiens",
+      "start": 29604,
+      "end": 29613,
+      "label": "LOC"
+    },
+    {
+      "text": "Clichiens",
+      "start": 29659,
+      "end": 29668,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 31199,
+      "end": 31210,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 31294,
+      "end": 31299,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 31387,
+      "end": 31391,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 31758,
+      "end": 31763,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État Malin",
+      "start": 32086,
+      "end": 32109,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisien",
+      "start": 32130,
+      "end": 32138,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 32171,
+      "end": 32176,
+      "label": "ORG"
+    },
+    {
+      "text": "Gondreville",
+      "start": 32269,
+      "end": 32280,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 32319,
+      "end": 32324,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 32347,
+      "end": 32352,
+      "label": "ORG"
+    },
+    {
+      "text": "Marthe",
+      "start": 32734,
+      "end": 32740,
+      "label": "LOC"
+    },
+    {
+      "text": "Couraut",
+      "start": 32797,
+      "end": 32804,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 32839,
+      "end": 32844,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 32932,
+      "end": 32937,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 33276,
+      "end": 33281,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 33350,
+      "end": 33359,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 33490,
+      "end": 33495,
+      "label": "ORG"
+    },
+    {
+      "text": "Corentin",
+      "start": 33528,
+      "end": 33536,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 33631,
+      "end": 33636,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacobins",
+      "start": 33740,
+      "end": 33748,
+      "label": "ORG"
+    },
+    {
+      "text": "Arcis",
+      "start": 33793,
+      "end": 33798,
+      "label": "PER"
+    },
+    {
+      "text": "Carmagnole",
+      "start": 33848,
+      "end": 33858,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 33966,
+      "end": 33968,
+      "label": "MISC"
+    },
+    {
+      "text": "Corentin d'un ton péremptoire",
+      "start": 34030,
+      "end": 34059,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 34061,
+      "end": 34066,
+      "label": "PER"
+    },
+    {
+      "text": "Corentin",
+      "start": 34116,
+      "end": 34124,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 34137,
+      "end": 34143,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 34591,
+      "end": 34602,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 34626,
+      "end": 34636,
+      "label": "PER"
+    },
+    {
+      "text": "Corentin",
+      "start": 34697,
+      "end": 34705,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 34738,
+      "end": 34746,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 34756,
+      "end": 34761,
+      "label": "ORG"
+    },
+    {
+      "text": "Viens",
+      "start": 34884,
+      "end": 34889,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 35013,
+      "end": 35018,
+      "label": "PER"
+    },
+    {
+      "text": "Couraut",
+      "start": 35309,
+      "end": 35316,
+      "label": "LOC"
+    },
+    {
+      "text": "Grouage",
+      "start": 35346,
+      "end": 35353,
+      "label": "PER"
+    },
+    {
+      "text": "Violette",
+      "start": 35368,
+      "end": 35376,
+      "label": "PER"
+    },
+    {
+      "text": "Couraut",
+      "start": 35480,
+      "end": 35487,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 35636,
+      "end": 35641,
+      "label": "LOC"
+    },
+    {
+      "text": "Violette",
+      "start": 36288,
+      "end": 36296,
+      "label": "LOC"
+    },
+    {
+      "text": "Orientaux",
+      "start": 36987,
+      "end": 36996,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauvages",
+      "start": 37004,
+      "end": 37012,
+      "label": "LOC"
+    },
+    {
+      "text": "Grouage",
+      "start": 37124,
+      "end": 37131,
+      "label": "PER"
+    },
+    {
+      "text": "Violette",
+      "start": 37383,
+      "end": 37391,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 37519,
+      "end": 37529,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 37818,
+      "end": 37823,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 38029,
+      "end": 38034,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 38189,
+      "end": 38194,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 38213,
+      "end": 38218,
+      "label": "ORG"
+    },
+    {
+      "text": "Gondreville",
+      "start": 38263,
+      "end": 38274,
+      "label": "LOC"
+    },
+    {
+      "text": "Arcis",
+      "start": 38369,
+      "end": 38374,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 38410,
+      "end": 38415,
+      "label": "ORG"
+    },
+    {
+      "text": "Marianne",
+      "start": 38475,
+      "end": 38483,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 38500,
+      "end": 38505,
+      "label": "LOC"
+    },
+    {
+      "text": "Violette",
+      "start": 38548,
+      "end": 38556,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaucher",
+      "start": 38590,
+      "end": 38597,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 38642,
+      "end": 38647,
+      "label": "ORG"
+    },
+    {
+      "text": "Violette",
+      "start": 38834,
+      "end": 38842,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 38877,
+      "end": 38882,
+      "label": "ORG"
+    },
+    {
+      "text": "Bellache",
+      "start": 39108,
+      "end": 39116,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 39146,
+      "end": 39151,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 39199,
+      "end": 39204,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 39402,
+      "end": 39407,
+      "label": "ORG"
+    },
+    {
+      "text": "Tenez",
+      "start": 39409,
+      "end": 39414,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39643,
+      "end": 39648,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 39685,
+      "end": 39690,
+      "label": "ORG"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 39928,
+      "end": 39942,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 40154,
+      "end": 40159,
+      "label": "ORG"
+    },
+    {
+      "text": "Grévin",
+      "start": 40221,
+      "end": 40227,
+      "label": "LOC"
+    },
+    {
+      "text": "Arcis",
+      "start": 40230,
+      "end": 40235,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 40271,
+      "end": 40276,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 40322,
+      "end": 40332,
+      "label": "PER"
+    },
+    {
+      "text": "Violette",
+      "start": 40353,
+      "end": 40361,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 40459,
+      "end": 40464,
+      "label": "ORG"
+    },
+    {
+      "text": "Judas",
+      "start": 40488,
+      "end": 40493,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 40552,
+      "end": 40553,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 40563,
+      "end": 40568,
+      "label": "ORG"
+    },
+    {
+      "text": "Marthe",
+      "start": 40586,
+      "end": 40592,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 40646,
+      "end": 40651,
+      "label": "PER"
+    },
+    {
+      "text": "Courant",
+      "start": 40813,
+      "end": 40820,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 40849,
+      "end": 40855,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 40867,
+      "end": 40872,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 40946,
+      "end": 40950,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 40981,
+      "end": 40987,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 41032,
+      "end": 41040,
+      "label": "PER"
+    },
+    {
+      "text": "Gaucher",
+      "start": 41074,
+      "end": 41081,
+      "label": "PER"
+    },
+    {
+      "text": "Gaucher",
+      "start": 41094,
+      "end": 41101,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 41259,
+      "end": 41265,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 41314,
+      "end": 41319,
+      "label": "ORG"
+    },
+    {
+      "text": "Qu'as tu donc ?",
+      "start": 41355,
+      "end": 41370,
+      "label": "MISC"
+    },
+    {
+      "text": "Suis",
+      "start": 41581,
+      "end": 41585,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 41914,
+      "end": 41918,
+      "label": "MISC"
+    },
+    {
+      "text": "Marthe",
+      "start": 41920,
+      "end": 41926,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 42093,
+      "end": 42098,
+      "label": "PER"
+    },
+    {
+      "text": "Couraut",
+      "start": 42160,
+      "end": 42167,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 42241,
+      "end": 42246,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 42263,
+      "end": 42269,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 42377,
+      "end": 42382,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 42499,
+      "end": 42516,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 42534,
+      "end": 42539,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 42589,
+      "end": 42594,
+      "label": "PER"
+    },
+    {
+      "text": "Représentant de l'Aube",
+      "start": 42602,
+      "end": 42624,
+      "label": "MISC"
+    },
+    {
+      "text": "Convention",
+      "start": 42630,
+      "end": 42640,
+      "label": "MISC"
+    },
+    {
+      "text": "Grévin",
+      "start": 42658,
+      "end": 42664,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 42742,
+      "end": 42749,
+      "label": "MISC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 42757,
+      "end": 42767,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 42785,
+      "end": 42790,
+      "label": "PER"
+    },
+    {
+      "text": "Cygne",
+      "start": 42868,
+      "end": 42873,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 42905,
+      "end": 42911,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 42918,
+      "end": 42923,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 42927,
+      "end": 42933,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 42937,
+      "end": 42956,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 42981,
+      "end": 42988,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Simeuse",
+      "start": 43075,
+      "end": 43091,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 43274,
+      "end": 43284,
+      "label": "MISC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 43317,
+      "end": 43327,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Simeuse",
+      "start": 43390,
+      "end": 43408,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 43567,
+      "end": 43589,
+      "label": "ORG"
+    },
+    {
+      "text": "maison de Simeuse",
+      "start": 43622,
+      "end": 43639,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 43802,
+      "end": 43810,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 43947,
+      "end": 43954,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul Marie",
+      "start": 44120,
+      "end": 44130,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Paul",
+      "start": 44140,
+      "end": 44150,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence de",
+      "start": 44152,
+      "end": 44163,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 44164,
+      "end": 44174,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 44352,
+      "end": 44371,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 44552,
+      "end": 44574,
+      "label": "ORG"
+    },
+    {
+      "text": "abbé de Hauteserre",
+      "start": 44688,
+      "end": 44706,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 44722,
+      "end": 44732,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 44848,
+      "end": 44856,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 45001,
+      "end": 45023,
+      "label": "ORG"
+    },
+    {
+      "text": "Laurence",
+      "start": 45092,
+      "end": 45100,
+      "label": "PER"
+    },
+    {
+      "text": "Mot",
+      "start": 45157,
+      "end": 45160,
+      "label": "ORG"
+    },
+    {
+      "text": "prince de la Paix",
+      "start": 45195,
+      "end": 45212,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 45216,
+      "end": 45223,
+      "label": "LOC"
+    },
+    {
+      "text": "Représentant du peuple",
+      "start": 45650,
+      "end": 45672,
+      "label": "MISC"
+    },
+    {
+      "text": "Conventionnel",
+      "start": 45763,
+      "end": 45776,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 45956,
+      "end": 45961,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 46143,
+      "end": 46152,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 46173,
+      "end": 46181,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 46228,
+      "end": 46233,
+      "label": "PER"
+    },
+    {
+      "text": "Représentant",
+      "start": 46253,
+      "end": 46265,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 46482,
+      "end": 46491,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 46653,
+      "end": 46658,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Marquis",
+      "start": 46736,
+      "end": 46749,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Paul",
+      "start": 46792,
+      "end": 46802,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 46916,
+      "end": 46921,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Paul",
+      "start": 47059,
+      "end": 47069,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 47184,
+      "end": 47192,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 47275,
+      "end": 47280,
+      "label": "PER"
+    },
+    {
+      "text": "Conventionnel",
+      "start": 47296,
+      "end": 47309,
+      "label": "LOC"
+    },
+    {
+      "text": "Loi",
+      "start": 47439,
+      "end": 47442,
+      "label": "MISC"
+    },
+    {
+      "text": "Peuple",
+      "start": 47449,
+      "end": 47455,
+      "label": "LOC"
+    },
+    {
+      "text": "Loi",
+      "start": 47483,
+      "end": 47486,
+      "label": "MISC"
+    },
+    {
+      "text": "Loi",
+      "start": 47544,
+      "end": 47547,
+      "label": "MISC"
+    },
+    {
+      "text": "Loi",
+      "start": 47577,
+      "end": 47580,
+      "label": "MISC"
+    },
+    {
+      "text": "Sortez",
+      "start": 47730,
+      "end": 47736,
+      "label": "LOC"
+    },
+    {
+      "text": "Cygne",
+      "start": 47763,
+      "end": 47768,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Cinq Cygne",
+      "start": 47836,
+      "end": 47855,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 47866,
+      "end": 47874,
+      "label": "PER"
+    },
+    {
+      "text": "District",
+      "start": 47926,
+      "end": 47934,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 47951,
+      "end": 47959,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 48017,
+      "end": 48027,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 48057,
+      "end": 48062,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 48064,
+      "end": 48072,
+      "label": "PER"
+    },
+    {
+      "text": "Nation",
+      "start": 48108,
+      "end": 48114,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 48196,
+      "end": 48206,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 48243,
+      "end": 48251,
+      "label": "PER"
+    },
+    {
+      "text": "Représentant",
+      "start": 48356,
+      "end": 48368,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 48518,
+      "end": 48537,
+      "label": "LOC"
+    },
+    {
+      "text": "Représentant",
+      "start": 48553,
+      "end": 48565,
+      "label": "MISC"
+    },
+    {
+      "text": "maison de Simeuse",
+      "start": 48624,
+      "end": 48641,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 48672,
+      "end": 48694,
+      "label": "ORG"
+    },
+    {
+      "text": "Laurence",
+      "start": 48758,
+      "end": 48766,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 48838,
+      "end": 48848,
+      "label": "MISC"
+    },
+    {
+      "text": "Prusse",
+      "start": 48952,
+      "end": 48958,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 49064,
+      "end": 49083,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Cinq Cygne",
+      "start": 49133,
+      "end": 49153,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel de Simeuse",
+      "start": 49171,
+      "end": 49187,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 49230,
+      "end": 49235,
+      "label": "PER"
+    },
+    {
+      "text": "Représentant de l'Aube",
+      "start": 49387,
+      "end": 49409,
+      "label": "MISC"
+    },
+    {
+      "text": "Marion vendit Gondreville",
+      "start": 49447,
+      "end": 49472,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 49475,
+      "end": 49480,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 49553,
+      "end": 49558,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 49573,
+      "end": 49578,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 49592,
+      "end": 49597,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 49633,
+      "end": 49638,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 49650,
+      "end": 49656,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 49905,
+      "end": 49910,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 49958,
+      "end": 49964,
+      "label": "LOC"
+    },
+    {
+      "text": "Arcis",
+      "start": 49979,
+      "end": 49984,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 50213,
+      "end": 50230,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 50275,
+      "end": 50280,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50343,
+      "end": 50348,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 50381,
+      "end": 50392,
+      "label": "LOC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 50408,
+      "end": 50422,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 50527,
+      "end": 50536,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 50571,
+      "end": 50575,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 50627,
+      "end": 50632,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvages",
+      "start": 50684,
+      "end": 50692,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 50741,
+      "end": 50746,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 51211,
+      "end": 51217,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfet",
+      "start": 51268,
+      "end": 51274,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 51295,
+      "end": 51301,
+      "label": "PER"
+    },
+    {
+      "text": "Pichegru",
+      "start": 51348,
+      "end": 51356,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 51358,
+      "end": 51365,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 51367,
+      "end": 51373,
+      "label": "LOC"
+    },
+    {
+      "text": "Polignac",
+      "start": 51377,
+      "end": 51385,
+      "label": "LOC"
+    },
+    {
+      "text": "Police",
+      "start": 51455,
+      "end": 51461,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 51494,
+      "end": 51511,
+      "label": "ORG"
+    },
+    {
+      "text": "Malin",
+      "start": 51518,
+      "end": 51523,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouché",
+      "start": 51565,
+      "end": 51571,
+      "label": "PER"
+    },
+    {
+      "text": "muscadin",
+      "start": 51588,
+      "end": 51596,
+      "label": "PER"
+    },
+    {
+      "text": "Sept",
+      "start": 51755,
+      "end": 51759,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoir",
+      "start": 51817,
+      "end": 51823,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 52005,
+      "end": 52011,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 52013,
+      "end": 52019,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 52161,
+      "end": 52172,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 52198,
+      "end": 52202,
+      "label": "MISC"
+    },
+    {
+      "text": "Grévin",
+      "start": 52217,
+      "end": 52223,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 52252,
+      "end": 52256,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 52320,
+      "end": 52326,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 52403,
+      "end": 52420,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 52444,
+      "end": 52449,
+      "label": "PER"
+    },
+    {
+      "text": "Favras",
+      "start": 52483,
+      "end": 52489,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseiller",
+      "start": 52521,
+      "end": 52531,
+      "label": "ORG"
+    },
+    {
+      "text": "Grévin",
+      "start": 52561,
+      "end": 52567,
+      "label": "LOC"
+    },
+    {
+      "text": "Consulat",
+      "start": 52597,
+      "end": 52605,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 52653,
+      "end": 52658,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 52741,
+      "end": 52746,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 52789,
+      "end": 52798,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 52809,
+      "end": 52819,
+      "label": "LOC"
+    },
+    {
+      "text": "camp de Boulogne",
+      "start": 52843,
+      "end": 52859,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 52877,
+      "end": 52883,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 52905,
+      "end": 52914,
+      "label": "LOC"
+    },
+    {
+      "text": "Pitt",
+      "start": 52939,
+      "end": 52943,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 53015,
+      "end": 53025,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 53040,
+      "end": 53049,
+      "label": "PER"
+    },
+    {
+      "text": "Prusse",
+      "start": 53079,
+      "end": 53085,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 53089,
+      "end": 53097,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 53104,
+      "end": 53110,
+      "label": "LOC"
+    },
+    {
+      "text": "Montagnards",
+      "start": 53262,
+      "end": 53273,
+      "label": "MISC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 53275,
+      "end": 53286,
+      "label": "MISC"
+    },
+    {
+      "text": "Royalistes",
+      "start": 53292,
+      "end": 53302,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 53332,
+      "end": 53343,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 53510,
+      "end": 53515,
+      "label": "PER"
+    },
+    {
+      "text": "Consulat",
+      "start": 53526,
+      "end": 53534,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 53568,
+      "end": 53577,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Nicaise",
+      "start": 53759,
+      "end": 53772,
+      "label": "LOC"
+    },
+    {
+      "text": "Pichegru",
+      "start": 53774,
+      "end": 53782,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 53784,
+      "end": 53791,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 53793,
+      "end": 53799,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Enghien",
+      "start": 53804,
+      "end": 53817,
+      "label": "PER"
+    },
+    {
+      "text": "Polignac",
+      "start": 53819,
+      "end": 53827,
+      "label": "PER"
+    },
+    {
+      "text": "Rivière",
+      "start": 53831,
+      "end": 53838,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 53856,
+      "end": 53870,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 53907,
+      "end": 53913,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 53917,
+      "end": 53926,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 54057,
+      "end": 54064,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 54133,
+      "end": 54137,
+      "label": "MISC"
+    },
+    {
+      "text": "le Consul",
+      "start": 54179,
+      "end": 54188,
+      "label": "PER"
+    },
+    {
+      "text": "Préfet",
+      "start": 54220,
+      "end": 54226,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 54230,
+      "end": 54236,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 54466,
+      "end": 54474,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 54558,
+      "end": 54567,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 54573,
+      "end": 54582,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 54632,
+      "end": 54642,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 54998,
+      "end": 55007,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 55254,
+      "end": 55259,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 55280,
+      "end": 55288,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 55294,
+      "end": 55303,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Enghien",
+      "start": 55316,
+      "end": 55329,
+      "label": "PER"
+    },
+    {
+      "text": "Convention",
+      "start": 55340,
+      "end": 55350,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 55378,
+      "end": 55387,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Nicaise",
+      "start": 55666,
+      "end": 55683,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 55753,
+      "end": 55767,
+      "label": "ORG"
+    },
+    {
+      "text": "Attends",
+      "start": 55850,
+      "end": 55857,
+      "label": "LOC"
+    },
+    {
+      "text": "Impossible",
+      "start": 55882,
+      "end": 55892,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 55983,
+      "end": 55990,
+      "label": "LOC"
+    },
+    {
+      "text": "Troyes",
+      "start": 56226,
+      "end": 56232,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 56268,
+      "end": 56279,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 56287,
+      "end": 56292,
+      "label": "LOC"
+    },
+    {
+      "text": "Conspiration le Tu auras",
+      "start": 56299,
+      "end": 56323,
+      "label": "LOC"
+    },
+    {
+      "text": "Grévin",
+      "start": 56329,
+      "end": 56335,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 56340,
+      "end": 56346,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 56351,
+      "end": 56361,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 56465,
+      "end": 56474,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 56502,
+      "end": 56511,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 56605,
+      "end": 56616,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 56652,
+      "end": 56660,
+      "label": "MISC"
+    },
+    {
+      "text": "Avertis Bonaparte",
+      "start": 56718,
+      "end": 56735,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 56780,
+      "end": 56785,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 56820,
+      "end": 56826,
+      "label": "LOC"
+    },
+    {
+      "text": "Sceaux",
+      "start": 56857,
+      "end": 56863,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 57063,
+      "end": 57071,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 57090,
+      "end": 57099,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 57297,
+      "end": 57306,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 57356,
+      "end": 57362,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 57494,
+      "end": 57500,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 57621,
+      "end": 57627,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 57632,
+      "end": 57638,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 57720,
+      "end": 57726,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 57810,
+      "end": 57815,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse",
+      "start": 57861,
+      "end": 57868,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 57881,
+      "end": 57887,
+      "label": "PER"
+    },
+    {
+      "text": "Condé",
+      "start": 57971,
+      "end": 57976,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 58014,
+      "end": 58023,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 58058,
+      "end": 58069,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 58091,
+      "end": 58096,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 58258,
+      "end": 58264,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 58386,
+      "end": 58391,
+      "label": "ORG"
+    },
+    {
+      "text": "Grévin",
+      "start": 58397,
+      "end": 58403,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 58471,
+      "end": 58476,
+      "label": "PER"
+    },
+    {
+      "text": "Corentin",
+      "start": 58899,
+      "end": 58907,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 58918,
+      "end": 58923,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 58950,
+      "end": 58955,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 59003,
+      "end": 59013,
+      "label": "MISC"
+    },
+    {
+      "text": "Violette",
+      "start": 59073,
+      "end": 59081,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 59131,
+      "end": 59136,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 59336,
+      "end": 59342,
+      "label": "LOC"
+    },
+    {
+      "text": "Violette",
+      "start": 59421,
+      "end": 59429,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianne",
+      "start": 59521,
+      "end": 59529,
+      "label": "PER"
+    },
+    {
+      "text": "mère de Marthe",
+      "start": 59536,
+      "end": 59550,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 59586,
+      "end": 59592,
+      "label": "MISC"
+    },
+    {
+      "text": "François",
+      "start": 59594,
+      "end": 59602,
+      "label": "PER"
+    },
+    {
+      "text": "Descends",
+      "start": 59721,
+      "end": 59729,
+      "label": "MISC"
+    },
+    {
+      "text": "Mâcon",
+      "start": 59828,
+      "end": 59833,
+      "label": "LOC"
+    },
+    {
+      "text": "Cognac",
+      "start": 59892,
+      "end": 59898,
+      "label": "LOC"
+    },
+    {
+      "text": "Poteau des Gueux",
+      "start": 60207,
+      "end": 60223,
+      "label": "MISC"
+    },
+    {
+      "text": "Violette",
+      "start": 60411,
+      "end": 60419,
+      "label": "PER"
+    },
+    {
+      "text": "Bon Dieu",
+      "start": 60423,
+      "end": 60431,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 60438,
+      "end": 60442,
+      "label": "MISC"
+    },
+    {
+      "text": "Violette",
+      "start": 60453,
+      "end": 60461,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 60526,
+      "end": 60532,
+      "label": "MISC"
+    },
+    {
+      "text": "Violette",
+      "start": 60626,
+      "end": 60634,
+      "label": "PER"
+    },
+    {
+      "text": "Violette",
+      "start": 60941,
+      "end": 60949,
+      "label": "PER"
+    },
+    {
+      "text": "Mousseau",
+      "start": 61010,
+      "end": 61018,
+      "label": "LOC"
+    },
+    {
+      "text": "Vrai",
+      "start": 61095,
+      "end": 61099,
+      "label": "ORG"
+    },
+    {
+      "text": "Ça",
+      "start": 61104,
+      "end": 61106,
+      "label": "MISC"
+    },
+    {
+      "text": "Dame",
+      "start": 61119,
+      "end": 61123,
+      "label": "PER"
+    },
+    {
+      "text": "Causons de ça",
+      "start": 61138,
+      "end": 61151,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 61439,
+      "end": 61443,
+      "label": "MISC"
+    },
+    {
+      "text": "Grévin",
+      "start": 61465,
+      "end": 61471,
+      "label": "LOC"
+    },
+    {
+      "text": "Violette",
+      "start": 61493,
+      "end": 61501,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 61524,
+      "end": 61529,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 61652,
+      "end": 61657,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 61692,
+      "end": 61696,
+      "label": "MISC"
+    },
+    {
+      "text": "Roussillon",
+      "start": 61869,
+      "end": 61879,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 62032,
+      "end": 62034,
+      "label": "MISC"
+    },
+    {
+      "text": "Violette",
+      "start": 62044,
+      "end": 62052,
+      "label": "LOC"
+    },
+    {
+      "text": "donnerez",
+      "start": 62200,
+      "end": 62208,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 62250,
+      "end": 62256,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 62286,
+      "end": 62291,
+      "label": "PER"
+    },
+    {
+      "text": "Arcis",
+      "start": 62394,
+      "end": 62399,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 62876,
+      "end": 62878,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 62898,
+      "end": 62903,
+      "label": "PER"
+    },
+    {
+      "text": "Violette",
+      "start": 62906,
+      "end": 62914,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 63563,
+      "end": 63568,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaucher",
+      "start": 63628,
+      "end": 63635,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 63638,
+      "end": 63647,
+      "label": "PER"
+    },
+    {
+      "text": "Toi",
+      "start": 63682,
+      "end": 63685,
+      "label": "PER"
+    },
+    {
+      "text": "Marianne",
+      "start": 63687,
+      "end": 63695,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 63896,
+      "end": 63904,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 64108,
+      "end": 64114,
+      "label": "MISC"
+    },
+    {
+      "text": "mets tes souliers",
+      "start": 64152,
+      "end": 64169,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 65164,
+      "end": 65170,
+      "label": "LOC"
+    },
+    {
+      "text": "Armé",
+      "start": 65195,
+      "end": 65199,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 65240,
+      "end": 65245,
+      "label": "PER"
+    },
+    {
+      "text": "François",
+      "start": 65335,
+      "end": 65343,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 65419,
+      "end": 65424,
+      "label": "ORG"
+    },
+    {
+      "text": "Retourne",
+      "start": 65539,
+      "end": 65547,
+      "label": "LOC"
+    },
+    {
+      "text": "Retiens",
+      "start": 65765,
+      "end": 65772,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 66019,
+      "end": 66024,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 66063,
+      "end": 66067,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 66197,
+      "end": 66202,
+      "label": "ORG"
+    },
+    {
+      "text": "Michu",
+      "start": 66400,
+      "end": 66405,
+      "label": "ORG"
+    },
+    {
+      "text": "château de Cinq Cygne",
+      "start": 66507,
+      "end": 66528,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée de Cinq Cygne",
+      "start": 66649,
+      "end": 66669,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 66687,
+      "end": 66693,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 66697,
+      "end": 66702,
+      "label": "LOC"
+    },
+    {
+      "text": "logis",
+      "start": 67293,
+      "end": 67298,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 67560,
+      "end": 67569,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 68735,
+      "end": 68740,
+      "label": "PER"
+    },
+    {
+      "text": "lune",
+      "start": 69029,
+      "end": 69033,
+      "label": "LOC"
+    },
+    {
+      "text": "forêt de Nodesme",
+      "start": 69322,
+      "end": 69338,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 69340,
+      "end": 69346,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 69511,
+      "end": 69516,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 69577,
+      "end": 69599,
+      "label": "ORG"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 69733,
+      "end": 69745,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 69856,
+      "end": 69858,
+      "label": "MISC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 69937,
+      "end": 69951,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe Michu",
+      "start": 70031,
+      "end": 70043,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 70108,
+      "end": 70112,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 70219,
+      "end": 70225,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 70254,
+      "end": 70259,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours",
+      "start": 70353,
+      "end": 70358,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 70534,
+      "end": 70540,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 70741,
+      "end": 70747,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 71073,
+      "end": 71083,
+      "label": "LOC"
+    },
+    {
+      "text": "Le bonheur",
+      "start": 71538,
+      "end": 71548,
+      "label": "MISC"
+    },
+    {
+      "text": "Michu",
+      "start": 71743,
+      "end": 71748,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 71999,
+      "end": 72005,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 72051,
+      "end": 72058,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 72109,
+      "end": 72118,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 72329,
+      "end": 72334,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 72492,
+      "end": 72504,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 72727,
+      "end": 72736,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 72865,
+      "end": 72871,
+      "label": "LOC"
+    },
+    {
+      "text": "Franc",
+      "start": 72880,
+      "end": 72885,
+      "label": "MISC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 72898,
+      "end": 72908,
+      "label": "MISC"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 72916,
+      "end": 72926,
+      "label": "LOC"
+    },
+    {
+      "text": "Duineff",
+      "start": 72932,
+      "end": 72939,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 72941,
+      "end": 72951,
+      "label": "PER"
+    },
+    {
+      "text": "Chargebœuf",
+      "start": 72992,
+      "end": 73002,
+      "label": "LOC"
+    },
+    {
+      "text": "comtes de Champagne",
+      "start": 73200,
+      "end": 73219,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 73455,
+      "end": 73463,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 73549,
+      "end": 73562,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 73688,
+      "end": 73696,
+      "label": "PER"
+    },
+    {
+      "text": "Mourir",
+      "start": 73896,
+      "end": 73902,
+      "label": "LOC"
+    },
+    {
+      "text": "Digne",
+      "start": 73917,
+      "end": 73922,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 73947,
+      "end": 73955,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 74768,
+      "end": 74776,
+      "label": "PER"
+    },
+    {
+      "text": "Judith",
+      "start": 74881,
+      "end": 74887,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 75015,
+      "end": 75023,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 75121,
+      "end": 75127,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cinq Cygne",
+      "start": 75203,
+      "end": 75222,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur d'Hauteserre",
+      "start": 75224,
+      "end": 75245,
+      "label": "PER"
+    },
+    {
+      "text": "Arcis",
+      "start": 75676,
+      "end": 75681,
+      "label": "PER"
+    },
+    {
+      "text": "Fière",
+      "start": 75702,
+      "end": 75707,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 75789,
+      "end": 75797,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 75965,
+      "end": 75975,
+      "label": "PER"
+    },
+    {
+      "text": "Charlotte Corday",
+      "start": 75992,
+      "end": 76008,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 76218,
+      "end": 76226,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 76264,
+      "end": 76270,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 76352,
+      "end": 76371,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 76479,
+      "end": 76487,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 76753,
+      "end": 76761,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 76802,
+      "end": 76812,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 76890,
+      "end": 76899,
+      "label": "PER"
+    },
+    {
+      "text": "Gothard",
+      "start": 76944,
+      "end": 76951,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 77222,
+      "end": 77230,
+      "label": "PER"
+    },
+    {
+      "text": "Gothard",
+      "start": 77410,
+      "end": 77417,
+      "label": "PER"
+    },
+    {
+      "text": "Gondreville",
+      "start": 77577,
+      "end": 77588,
+      "label": "LOC"
+    },
+    {
+      "text": "Michu",
+      "start": 77615,
+      "end": 77620,
+      "label": "ORG"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 77778,
+      "end": 77790,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution",
+      "start": 77808,
+      "end": 77818,
+      "label": "MISC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 77820,
+      "end": 77829,
+      "label": "LOC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 77938,
+      "end": 77950,
+      "label": "PER"
+    },
+    {
+      "text": "Diana Vernon",
+      "start": 77995,
+      "end": 78007,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 78052,
+      "end": 78060,
+      "label": "PER"
+    },
+    {
+      "text": "Charlotte Corday",
+      "start": 78144,
+      "end": 78160,
+      "label": "PER"
+    },
+    {
+      "text": "Diana",
+      "start": 78209,
+      "end": 78214,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Simeuse",
+      "start": 78318,
+      "end": 78337,
+      "label": "PER"
+    },
+    {
+      "text": "Condé",
+      "start": 78451,
+      "end": 78456,
+      "label": "PER"
+    },
+    {
+      "text": "Simeuse et des Cinq Cygne",
+      "start": 78513,
+      "end": 78538,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 78568,
+      "end": 78578,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 78600,
+      "end": 78610,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur d'Hauteserre",
+      "start": 78675,
+      "end": 78696,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 78788,
+      "end": 78798,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 79212,
+      "end": 79216,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 79308,
+      "end": 79312,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 79383,
+      "end": 79393,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 79463,
+      "end": 79471,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 79475,
+      "end": 79494,
+      "label": "PER"
+    },
+    {
+      "text": "Lafarge",
+      "start": 79585,
+      "end": 79592,
+      "label": "ORG"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 79667,
+      "end": 79677,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 79705,
+      "end": 79713,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 79807,
+      "end": 79817,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 80028,
+      "end": 80038,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 80087,
+      "end": 80095,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 80378,
+      "end": 80386,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80749,
+      "end": 80757,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 80761,
+      "end": 80780,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 81000,
+      "end": 81008,
+      "label": "PER"
+    },
+    {
+      "text": "vallée de Cinq Cygne",
+      "start": 81214,
+      "end": 81234,
+      "label": "LOC"
+    },
+    {
+      "text": "Gothard",
+      "start": 81299,
+      "end": 81306,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 81345,
+      "end": 81364,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 81416,
+      "end": 81424,
+      "label": "PER"
+    },
+    {
+      "text": "Directoire",
+      "start": 82271,
+      "end": 82281,
+      "label": "MISC"
+    },
+    {
+      "text": "Consulat",
+      "start": 82305,
+      "end": 82313,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 82315,
+      "end": 82323,
+      "label": "PER"
+    },
+    {
+      "text": "Aube",
+      "start": 82478,
+      "end": 82482,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 82496,
+      "end": 82501,
+      "label": "PER"
+    },
+    {
+      "text": "Malin",
+      "start": 82506,
+      "end": 82511,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 82553,
+      "end": 82561,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 82595,
+      "end": 82604,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Cloud",
+      "start": 82904,
+      "end": 82915,
+      "label": "PER"
+    },
+    {
+      "text": "Malmaison",
+      "start": 82925,
+      "end": 82934,
+      "label": "MISC"
+    },
+    {
+      "text": "paix d'Amiens",
+      "start": 83062,
+      "end": 83075,
+      "label": "MISC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 83158,
+      "end": 83172,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 83287,
+      "end": 83296,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 83340,
+      "end": 83346,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 83353,
+      "end": 83361,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 83371,
+      "end": 83377,
+      "label": "LOC"
+    },
+    {
+      "text": "a Austerlitz",
+      "start": 83402,
+      "end": 83414,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 83569,
+      "end": 83577,
+      "label": "PER"
+    },
+    {
+      "text": "frêle",
+      "start": 83658,
+      "end": 83663,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 83790,
+      "end": 83799,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 83839,
+      "end": 83845,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 83902,
+      "end": 83906,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Enghien",
+      "start": 83926,
+      "end": 83939,
+      "label": "PER"
+    },
+    {
+      "text": "Bade",
+      "start": 84003,
+      "end": 84007,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 84030,
+      "end": 84040,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 84194,
+      "end": 84200,
+      "label": "LOC"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 84298,
+      "end": 84315,
+      "label": "MISC"
+    },
+    {
+      "text": "Malin",
+      "start": 84648,
+      "end": 84653,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 84691,
+      "end": 84697,
+      "label": "LOC"
+    },
+    {
+      "text": "forêt de Nodesme",
+      "start": 84856,
+      "end": 84872,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée de Cinq Cygne",
+      "start": 84893,
+      "end": 84913,
+      "label": "LOC"
+    },
+    {
+      "text": "Sézanne",
+      "start": 84921,
+      "end": 84928,
+      "label": "LOC"
+    },
+    {
+      "text": "Brienne",
+      "start": 84932,
+      "end": 84939,
+      "label": "LOC"
+    },
+    {
+      "text": "Gothard",
+      "start": 85000,
+      "end": 85007,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 85023,
+      "end": 85033,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 85385,
+      "end": 85392,
+      "label": "LOC"
+    },
+    {
+      "text": "Gothard",
+      "start": 85918,
+      "end": 85925,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 86030,
+      "end": 86040,
+      "label": "PER"
+    },
+    {
+      "text": "Nancy",
+      "start": 86049,
+      "end": 86054,
+      "label": "LOC"
+    },
+    {
+      "text": "Gothard",
+      "start": 86281,
+      "end": 86288,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 86971,
+      "end": 86981,
+      "label": "LOC"
+    },
+    {
+      "text": "Bar",
+      "start": 86990,
+      "end": 86993,
+      "label": "LOC"
+    },
+    {
+      "text": "Aube",
+      "start": 86998,
+      "end": 87002,
+      "label": "LOC"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 87032,
+      "end": 87042,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 87049,
+      "end": 87056,
+      "label": "LOC"
+    },
+    {
+      "text": "Alsace",
+      "start": 87113,
+      "end": 87119,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 87124,
+      "end": 87132,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 87139,
+      "end": 87148,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 87217,
+      "end": 87226,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 87250,
+      "end": 87259,
+      "label": "LOC"
+    },
+    {
+      "text": "Vêtus",
+      "start": 87261,
+      "end": 87266,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 87286,
+      "end": 87296,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 87304,
+      "end": 87311,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 87447,
+      "end": 87455,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 87492,
+      "end": 87500,
+      "label": "MISC"
+    },
+    {
+      "text": "forêt de Nodesme",
+      "start": 87848,
+      "end": 87864,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 87952,
+      "end": 87958,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 87978,
+      "end": 87987,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 88001,
+      "end": 88006,
+      "label": "LOC"
+    },
+    {
+      "text": "Rivière",
+      "start": 88051,
+      "end": 88058,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs de Polignac",
+      "start": 88158,
+      "end": 88179,
+      "label": "PER"
+    },
+    {
+      "text": "Rivière",
+      "start": 88186,
+      "end": 88193,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 88421,
+      "end": 88433,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 88439,
+      "end": 88448,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 88516,
+      "end": 88526,
+      "label": "LOC"
+    },
+    {
+      "text": "camp de Boulogne",
+      "start": 88568,
+      "end": 88584,
+      "label": "LOC"
+    },
+    {
+      "text": "Malin",
+      "start": 89066,
+      "end": 89071,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 89074,
+      "end": 89080,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges Cadoudal",
+      "start": 89247,
+      "end": 89263,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 89350,
+      "end": 89355,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 89372,
+      "end": 89379,
+      "label": "MISC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 89397,
+      "end": 89411,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 89413,
+      "end": 89421,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 89476,
+      "end": 89485,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 89501,
+      "end": 89509,
+      "label": "MISC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 89536,
+      "end": 89547,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 89786,
+      "end": 89794,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 89839,
+      "end": 89849,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazette du soir",
+      "start": 90000,
+      "end": 90015,
+      "label": "MISC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 90051,
+      "end": 90065,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 90195,
+      "end": 90203,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 90322,
+      "end": 90330,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 90334,
+      "end": 90353,
+      "label": "PER"
+    },
+    {
+      "text": "Laurence",
+      "start": 90462,
+      "end": 90470,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 90532,
+      "end": 90542,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine",
+      "start": 90939,
+      "end": 90948,
+      "label": "PER"
+    },
+    {
+      "text": "Gothard",
+      "start": 90978,
+      "end": 90985,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine",
+      "start": 91067,
+      "end": 91076,
+      "label": "PER"
+    },
+    {
+      "text": "Gothard",
+      "start": 91125,
+      "end": 91132,
+      "label": "PER"
+    },
+    {
+      "text": "Gothard",
+      "start": 91217,
+      "end": 91224,
+      "label": "PER"
+    },
+    {
+      "text": "Comtesse",
+      "start": 91250,
+      "end": 91258,
+      "label": "LOC"
+    },
+    {
+      "text": "Marthe",
+      "start": 91384,
+      "end": 91390,
+      "label": "PER"
+    },
+    {
+      "text": "Michu",
+      "start": 91491,
+      "end": 91496,
+      "label": "ORG"
+    },
+    {
+      "text": "château de Cinq Cygne",
+      "start": 91510,
+      "end": 91531,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 92194,
+      "end": 92198,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 92375,
+      "end": 92380,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur",
+      "start": 92401,
+      "end": 92409,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Hauteserre",
+      "start": 92413,
+      "end": 92432,
+      "label": "PER"
+    },
+    {
+      "text": "daim",
+      "start": 92910,
+      "end": 92914,
+      "label": "PER"
+    },
+    {
+      "text": "Boule",
+      "start": 93067,
+      "end": 93072,
+      "label": "LOC"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 93307,
+      "end": 93317,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 93599,
+      "end": 93609,
+      "label": "PER"
+    },
+    {
+      "text": "Fait",
+      "start": 95022,
+      "end": 95026,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 95187,
+      "end": 95195,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 95867,
+      "end": 95877,
+      "label": "LOC"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 95890,
+      "end": 95900,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 95966,
+      "end": 95970,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 96095,
+      "end": 96108,
+      "label": "MISC"
+    },
+    {
+      "text": "Restauration riches",
+      "start": 96138,
+      "end": 96157,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 96352,
+      "end": 96360,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 96363,
+      "end": 96373,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 96456,
+      "end": 96469,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 96507,
+      "end": 96517,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 96542,
+      "end": 96555,
+      "label": "MISC"
+    },
+    {
+      "text": "Robespierre",
+      "start": 96737,
+      "end": 96748,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Just",
+      "start": 96755,
+      "end": 96765,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Hauteserre",
+      "start": 97331,
+      "end": 97350,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 97739,
+      "end": 97755,
+      "label": "PER"
+    },
+    {
+      "text": "menton pointu",
+      "start": 97785,
+      "end": 97798,
+      "label": "MISC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 98216,
+      "end": 98223,
+      "label": "LOC"
+    },
+    {
+      "text": "Goujet, abbé des Minimes",
+      "start": 98259,
+      "end": 98283,
+      "label": "MISC"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 98321,
+      "end": 98331,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 98354,
+      "end": 98364,
+      "label": "LOC"
+    },
+    {
+      "text": "Goujet",
+      "start": 98414,
+      "end": 98420,
+      "label": "PER"
+    },
+    {
+      "text": "Goujet",
+      "start": 98637,
+      "end": 98643,
+      "label": "PER"
+    },
+    {
+      "text": "Goujet",
+      "start": 98805,
+      "end": 98811,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 98838,
+      "end": 98848,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 98903,
+      "end": 98913,
+      "label": "LOC"
+    },
+    {
+      "text": "Laurence",
+      "start": 98915,
+      "end": 98923,
+      "label": "PER"
+    },
+    {
+      "text": "Goujet",
+      "start": 98962,
+      "end": 98968,
+      "label": "PER"
+    },
+    {
+      "text": "Troyes",
+      "start": 99518,
+      "end": 99524,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 99530,
+      "end": 99542,
+      "label": "MISC"
+    },
+    {
+      "text": "Laurence",
+      "start": 99633,
+      "end": 99641,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq Cygne",
+      "start": 99811,
+      "end": 99821,
+      "label": "PER"
+    },
+    {
+      "text": "Goujet",
+      "start": 99979,
+      "end": 99985,
+      "label": "PER"
+    },
+    {
+      "text": "Laur",
+      "start": 99996,
+      "end": 100000,
+      "label": "PER"
+    }
+  ]
+}

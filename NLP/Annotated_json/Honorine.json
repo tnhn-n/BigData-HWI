@@ -1,0 +1,3172 @@
+{
+  "entities": [
+    {
+      "text": "HONORINE",
+      "start": 0,
+      "end": 8,
+      "label": "PER"
+    },
+    {
+      "text": "ACHILLE DEVERIA",
+      "start": 27,
+      "end": 42,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 89,
+      "end": 95,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 110,
+      "end": 118,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 152,
+      "end": 159,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 210,
+      "end": 218,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 226,
+      "end": 233,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 319,
+      "end": 329,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 393,
+      "end": 402,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 418,
+      "end": 427,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 531,
+      "end": 540,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 817,
+      "end": 822,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 997,
+      "end": 1005,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 1185,
+      "end": 1193,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 1404,
+      "end": 1412,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 1660,
+      "end": 1668,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1731,
+      "end": 1736,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1748,
+      "end": 1753,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 1783,
+      "end": 1792,
+      "label": "LOC"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 1834,
+      "end": 1851,
+      "label": "LOC"
+    },
+    {
+      "text": "Borel",
+      "start": 1859,
+      "end": 1864,
+      "label": "LOC"
+    },
+    {
+      "text": "Montorgueil",
+      "start": 1945,
+      "end": 1956,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 2017,
+      "end": 2026,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 2063,
+      "end": 2072,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2184,
+      "end": 2189,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 2285,
+      "end": 2293,
+      "label": "LOC"
+    },
+    {
+      "text": "Sardaigne",
+      "start": 2406,
+      "end": 2415,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2418,
+      "end": 2423,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 2430,
+      "end": 2439,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2491,
+      "end": 2496,
+      "label": "LOC"
+    },
+    {
+      "text": "le Consul Général de France",
+      "start": 2537,
+      "end": 2564,
+      "label": "PER"
+    },
+    {
+      "text": "Apennin",
+      "start": 2605,
+      "end": 2612,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thomas",
+      "start": 2628,
+      "end": 2640,
+      "label": "LOC"
+    },
+    {
+      "text": "orne",
+      "start": 2692,
+      "end": 2696,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2716,
+      "end": 2721,
+      "label": "LOC"
+    },
+    {
+      "text": "Génois",
+      "start": 2778,
+      "end": 2784,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2930,
+      "end": 2935,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 3255,
+      "end": 3267,
+      "label": "LOC"
+    },
+    {
+      "text": "Boccace",
+      "start": 3652,
+      "end": 3659,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 3681,
+      "end": 3687,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 3707,
+      "end": 3719,
+      "label": "LOC"
+    },
+    {
+      "text": "Supposez",
+      "start": 3721,
+      "end": 3729,
+      "label": "PER"
+    },
+    {
+      "text": "marquis di Nègro",
+      "start": 3752,
+      "end": 3768,
+      "label": "PER"
+    },
+    {
+      "text": "Damaso Pareto",
+      "start": 3839,
+      "end": 3852,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 3859,
+      "end": 3867,
+      "label": "LOC"
+    },
+    {
+      "text": "Génois",
+      "start": 3880,
+      "end": 3886,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 3891,
+      "end": 3905,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 4029,
+      "end": 4038,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 4131,
+      "end": 4140,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 4449,
+      "end": 4457,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 4485,
+      "end": 4497,
+      "label": "PER"
+    },
+    {
+      "text": "Claude Vignon",
+      "start": 4528,
+      "end": 4541,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 4649,
+      "end": 4656,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 4680,
+      "end": 4694,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle des Touches",
+      "start": 4721,
+      "end": 4745,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 4760,
+      "end": 4768,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 4859,
+      "end": 4871,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 4889,
+      "end": 4897,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 4923,
+      "end": 4927,
+      "label": "LOC"
+    },
+    {
+      "text": "campagne de Rome",
+      "start": 4948,
+      "end": 4964,
+      "label": "MISC"
+    },
+    {
+      "text": "Simplon",
+      "start": 4979,
+      "end": 4986,
+      "label": "LOC"
+    },
+    {
+      "text": "Corniche",
+      "start": 5022,
+      "end": 5030,
+      "label": "LOC"
+    },
+    {
+      "text": "Marseille",
+      "start": 5033,
+      "end": 5042,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 5099,
+      "end": 5104,
+      "label": "LOC"
+    },
+    {
+      "text": "le Consul Général",
+      "start": 5120,
+      "end": 5137,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 5201,
+      "end": 5206,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 5297,
+      "end": 5311,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 5329,
+      "end": 5334,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 5615,
+      "end": 5622,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 5758,
+      "end": 5770,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 5777,
+      "end": 5784,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle des Touches",
+      "start": 5938,
+      "end": 5962,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6065,
+      "end": 6070,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 6315,
+      "end": 6329,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 6591,
+      "end": 6603,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6649,
+      "end": 6654,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 6987,
+      "end": 7001,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 7165,
+      "end": 7175,
+      "label": "PER"
+    },
+    {
+      "text": "Lord Byron",
+      "start": 7337,
+      "end": 7347,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 7722,
+      "end": 7727,
+      "label": "LOC"
+    },
+    {
+      "text": "Onorina Pedrotti",
+      "start": 7806,
+      "end": 7822,
+      "label": "PER"
+    },
+    {
+      "text": "le Consul Général",
+      "start": 7959,
+      "end": 7976,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 8124,
+      "end": 8129,
+      "label": "LOC"
+    },
+    {
+      "text": "Onorina Pedrotti",
+      "start": 8240,
+      "end": 8256,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 8617,
+      "end": 8622,
+      "label": "LOC"
+    },
+    {
+      "text": "Onorina Pedrotti",
+      "start": 8891,
+      "end": 8907,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 9280,
+      "end": 9285,
+      "label": "LOC"
+    },
+    {
+      "text": "Malade Imaginaire",
+      "start": 9427,
+      "end": 9444,
+      "label": "PER"
+    },
+    {
+      "text": "Pedrotti",
+      "start": 9545,
+      "end": 9553,
+      "label": "PER"
+    },
+    {
+      "text": "Pedrotti",
+      "start": 9685,
+      "end": 9693,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 9829,
+      "end": 9834,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 9922,
+      "end": 9936,
+      "label": "PER"
+    },
+    {
+      "text": "commandeur de la",
+      "start": 9960,
+      "end": 9976,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 9977,
+      "end": 9993,
+      "label": "ORG"
+    },
+    {
+      "text": "Pedrotti",
+      "start": 10012,
+      "end": 10020,
+      "label": "PER"
+    },
+    {
+      "text": "roi de Sardaigne",
+      "start": 10044,
+      "end": 10060,
+      "label": "LOC"
+    },
+    {
+      "text": "Pedrotti",
+      "start": 10117,
+      "end": 10125,
+      "label": "PER"
+    },
+    {
+      "text": "Pedrotti",
+      "start": 10274,
+      "end": 10282,
+      "label": "PER"
+    },
+    {
+      "text": "Onorina Pedrotti",
+      "start": 10307,
+      "end": 10323,
+      "label": "PER"
+    },
+    {
+      "text": "Génoises",
+      "start": 10346,
+      "end": 10354,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 10390,
+      "end": 10398,
+      "label": "LOC"
+    },
+    {
+      "text": "Julien",
+      "start": 10444,
+      "end": 10450,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 10452,
+      "end": 10463,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 10483,
+      "end": 10488,
+      "label": "LOC"
+    },
+    {
+      "text": "Jour et de la Nuit",
+      "start": 10574,
+      "end": 10592,
+      "label": "MISC"
+    },
+    {
+      "text": "Ligurie",
+      "start": 10681,
+      "end": 10688,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 10692,
+      "end": 10697,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 10764,
+      "end": 10770,
+      "label": "LOC"
+    },
+    {
+      "text": "Onorina",
+      "start": 11059,
+      "end": 11066,
+      "label": "PER"
+    },
+    {
+      "text": "Rappelez",
+      "start": 11118,
+      "end": 11126,
+      "label": "PER"
+    },
+    {
+      "text": "Nuit",
+      "start": 11140,
+      "end": 11144,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 11149,
+      "end": 11160,
+      "label": "PER"
+    },
+    {
+      "text": "Penseur",
+      "start": 11178,
+      "end": 11185,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Georges",
+      "start": 11553,
+      "end": 11573,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 11782,
+      "end": 11787,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 11883,
+      "end": 11890,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle des Touches",
+      "start": 11892,
+      "end": 11916,
+      "label": "PER"
+    },
+    {
+      "text": "Consul",
+      "start": 11929,
+      "end": 11935,
+      "label": "ORG"
+    },
+    {
+      "text": "Camille",
+      "start": 12119,
+      "end": 12126,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 12247,
+      "end": 12252,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 12262,
+      "end": 12276,
+      "label": "PER"
+    },
+    {
+      "text": "Gênes",
+      "start": 12279,
+      "end": 12284,
+      "label": "LOC"
+    },
+    {
+      "text": "Zadig",
+      "start": 12483,
+      "end": 12488,
+      "label": "MISC"
+    },
+    {
+      "text": "Camille",
+      "start": 12618,
+      "end": 12625,
+      "label": "PER"
+    },
+    {
+      "text": "le Consul Général",
+      "start": 12742,
+      "end": 12759,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 12806,
+      "end": 12813,
+      "label": "MISC"
+    },
+    {
+      "text": "Touches",
+      "start": 13196,
+      "end": 13203,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 13420,
+      "end": 13427,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 13481,
+      "end": 13493,
+      "label": "PER"
+    },
+    {
+      "text": "Cara",
+      "start": 13497,
+      "end": 13501,
+      "label": "LOC"
+    },
+    {
+      "text": "Gina",
+      "start": 13569,
+      "end": 13573,
+      "label": "PER"
+    },
+    {
+      "text": "Boulle",
+      "start": 13628,
+      "end": 13634,
+      "label": "PER"
+    },
+    {
+      "text": "le Consul",
+      "start": 13640,
+      "end": 13649,
+      "label": "PER"
+    },
+    {
+      "text": "languir",
+      "start": 14186,
+      "end": 14193,
+      "label": "LOC"
+    },
+    {
+      "text": "le Consul Général",
+      "start": 14283,
+      "end": 14300,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 14347,
+      "end": 14352,
+      "label": "ORG"
+    },
+    {
+      "text": "abbé Loraux",
+      "start": 14373,
+      "end": 14384,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 14626,
+      "end": 14630,
+      "label": "MISC"
+    },
+    {
+      "text": "Altesse Royale",
+      "start": 14708,
+      "end": 14722,
+      "label": "ORG"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 14883,
+      "end": 14898,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14901,
+      "end": 14906,
+      "label": "LOC"
+    },
+    {
+      "text": "Fais ta toilette",
+      "start": 14979,
+      "end": 14995,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 15160,
+      "end": 15164,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 15269,
+      "end": 15273,
+      "label": "MISC"
+    },
+    {
+      "text": "Permettez",
+      "start": 15739,
+      "end": 15748,
+      "label": "MISC"
+    },
+    {
+      "text": "le Consul",
+      "start": 15758,
+      "end": 15767,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 15861,
+      "end": 15867,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 15918,
+      "end": 15924,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 15999,
+      "end": 16003,
+      "label": "LOC"
+    },
+    {
+      "text": "Êtes",
+      "start": 16206,
+      "end": 16210,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Grandeur",
+      "start": 16443,
+      "end": 16454,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 16458,
+      "end": 16474,
+      "label": "ORG"
+    },
+    {
+      "text": "Maurice",
+      "start": 16485,
+      "end": 16492,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 16526,
+      "end": 16534,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 16923,
+      "end": 16929,
+      "label": "PER"
+    },
+    {
+      "text": "Jugez",
+      "start": 17236,
+      "end": 17241,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 17277,
+      "end": 17283,
+      "label": "PER"
+    },
+    {
+      "text": "madame la Dauphine",
+      "start": 17377,
+      "end": 17395,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre d'État",
+      "start": 17426,
+      "end": 17441,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Sérizy",
+      "start": 17499,
+      "end": 17514,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 17592,
+      "end": 17598,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Payenne",
+      "start": 17600,
+      "end": 17611,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 17854,
+      "end": 17865,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 18038,
+      "end": 18051,
+      "label": "PER"
+    },
+    {
+      "text": "Ordres",
+      "start": 18195,
+      "end": 18201,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Loraux",
+      "start": 18274,
+      "end": 18285,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 18327,
+      "end": 18332,
+      "label": "ORG"
+    },
+    {
+      "text": "Sevré",
+      "start": 18490,
+      "end": 18495,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 19024,
+      "end": 19030,
+      "label": "PER"
+    },
+    {
+      "text": "voyais",
+      "start": 19643,
+      "end": 19649,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 19797,
+      "end": 19804,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 19808,
+      "end": 19822,
+      "label": "PER"
+    },
+    {
+      "text": "Combien de contes des Mille et une Nuits",
+      "start": 20039,
+      "end": 20079,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien de Lampes Merveilleuses",
+      "start": 20115,
+      "end": 20146,
+      "label": "MISC"
+    },
+    {
+      "text": "Lampe Merveilleuse",
+      "start": 20203,
+      "end": 20221,
+      "label": "PER"
+    },
+    {
+      "text": "Toscane",
+      "start": 20409,
+      "end": 20416,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 20503,
+      "end": 20509,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 20768,
+      "end": 20773,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit des Gens",
+      "start": 20911,
+      "end": 20925,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 21373,
+      "end": 21378,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21661,
+      "end": 21665,
+      "label": "MISC"
+    },
+    {
+      "text": "Maurice",
+      "start": 21785,
+      "end": 21792,
+      "label": "PER"
+    },
+    {
+      "text": "auguste",
+      "start": 22154,
+      "end": 22161,
+      "label": "PER"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 22320,
+      "end": 22335,
+      "label": "PER"
+    },
+    {
+      "text": "rue Payenne",
+      "start": 22422,
+      "end": 22433,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 22465,
+      "end": 22471,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 22570,
+      "end": 22574,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Carnavalet",
+      "start": 22908,
+      "end": 22924,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 23324,
+      "end": 23333,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 23818,
+      "end": 23822,
+      "label": "LOC"
+    },
+    {
+      "text": "Couronne",
+      "start": 23831,
+      "end": 23839,
+      "label": "ORG"
+    },
+    {
+      "text": "suisse",
+      "start": 23965,
+      "end": 23971,
+      "label": "LOC"
+    },
+    {
+      "text": "Labranche du Théâtre Français",
+      "start": 24115,
+      "end": 24144,
+      "label": "PER"
+    },
+    {
+      "text": "de Versailles",
+      "start": 24431,
+      "end": 24444,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 24515,
+      "end": 24521,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 24926,
+      "end": 24935,
+      "label": "PER"
+    },
+    {
+      "text": "Saisis",
+      "start": 24937,
+      "end": 24943,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25308,
+      "end": 25316,
+      "label": "PER"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 25329,
+      "end": 25344,
+      "label": "PER"
+    },
+    {
+      "text": "L'Hostal !",
+      "start": 25371,
+      "end": 25381,
+      "label": "MISC"
+    },
+    {
+      "text": "Labranche",
+      "start": 25391,
+      "end": 25400,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 25491,
+      "end": 25497,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 25744,
+      "end": 25754,
+      "label": "LOC"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 25829,
+      "end": 25844,
+      "label": "PER"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 25893,
+      "end": 25909,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 26019,
+      "end": 26035,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 26226,
+      "end": 26232,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 26256,
+      "end": 26265,
+      "label": "PER"
+    },
+    {
+      "text": "Maurice",
+      "start": 26272,
+      "end": 26279,
+      "label": "PER"
+    },
+    {
+      "text": "Docteur",
+      "start": 26290,
+      "end": 26297,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 26301,
+      "end": 26306,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 26399,
+      "end": 26407,
+      "label": "PER"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 26579,
+      "end": 26588,
+      "label": "MISC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 27351,
+      "end": 27361,
+      "label": "PER"
+    },
+    {
+      "text": "Lewis",
+      "start": 27866,
+      "end": 27871,
+      "label": "PER"
+    },
+    {
+      "text": "Schedoni du Confessionnal des Pénitents noirs",
+      "start": 27898,
+      "end": 27943,
+      "label": "MISC"
+    },
+    {
+      "text": "Moine",
+      "start": 28005,
+      "end": 28010,
+      "label": "MISC"
+    },
+    {
+      "text": "Palais",
+      "start": 28060,
+      "end": 28066,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 28504,
+      "end": 28518,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 28668,
+      "end": 28672,
+      "label": "LOC"
+    },
+    {
+      "text": "Consul Général",
+      "start": 28871,
+      "end": 28885,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 29167,
+      "end": 29176,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 29544,
+      "end": 29551,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 31517,
+      "end": 31521,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 31778,
+      "end": 31782,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 32898,
+      "end": 32904,
+      "label": "PER"
+    },
+    {
+      "text": "Action",
+      "start": 33865,
+      "end": 33871,
+      "label": "ORG"
+    },
+    {
+      "text": "Fait",
+      "start": 33880,
+      "end": 33884,
+      "label": "ORG"
+    },
+    {
+      "text": "Incrédulité",
+      "start": 34169,
+      "end": 34180,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 34204,
+      "end": 34208,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 34303,
+      "end": 34313,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 34396,
+      "end": 34400,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 34483,
+      "end": 34487,
+      "label": "MISC"
+    },
+    {
+      "text": "Alpe",
+      "start": 34616,
+      "end": 34620,
+      "label": "LOC"
+    },
+    {
+      "text": "Espérance",
+      "start": 34908,
+      "end": 34917,
+      "label": "ORG"
+    },
+    {
+      "text": "Manfred",
+      "start": 35468,
+      "end": 35475,
+      "label": "MISC"
+    },
+    {
+      "text": "Continuez",
+      "start": 36064,
+      "end": 36073,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 36191,
+      "end": 36195,
+      "label": "LOC"
+    },
+    {
+      "text": "Magistrat",
+      "start": 36200,
+      "end": 36209,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous sa pose austère",
+      "start": 37316,
+      "end": 37336,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandville",
+      "start": 37657,
+      "end": 37667,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 37671,
+      "end": 37677,
+      "label": "MISC"
+    },
+    {
+      "text": "Impassible",
+      "start": 37766,
+      "end": 37776,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 38132,
+      "end": 38136,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 38210,
+      "end": 38216,
+      "label": "PER"
+    },
+    {
+      "text": "Comprenez",
+      "start": 38317,
+      "end": 38326,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 38454,
+      "end": 38458,
+      "label": "PER"
+    },
+    {
+      "text": "Droit diplomatique",
+      "start": 38547,
+      "end": 38565,
+      "label": "ORG"
+    },
+    {
+      "text": "Droit",
+      "start": 38570,
+      "end": 38575,
+      "label": "ORG"
+    },
+    {
+      "text": "Droit",
+      "start": 38590,
+      "end": 38595,
+      "label": "ORG"
+    },
+    {
+      "text": "Droit criminel",
+      "start": 38608,
+      "end": 38622,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 38902,
+      "end": 38906,
+      "label": "MISC"
+    },
+    {
+      "text": "Parlez",
+      "start": 39842,
+      "end": 39848,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 39886,
+      "end": 39892,
+      "label": "PER"
+    },
+    {
+      "text": "Riche",
+      "start": 40421,
+      "end": 40426,
+      "label": "ORG"
+    },
+    {
+      "text": "Son Excellence",
+      "start": 40734,
+      "end": 40748,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevet",
+      "start": 41057,
+      "end": 41063,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 41755,
+      "end": 41761,
+      "label": "LOC"
+    },
+    {
+      "text": "Maurice",
+      "start": 42764,
+      "end": 42771,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 42948,
+      "end": 42954,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43003,
+      "end": 43008,
+      "label": "LOC"
+    },
+    {
+      "text": "Attentif",
+      "start": 43338,
+      "end": 43346,
+      "label": "PER"
+    },
+    {
+      "text": "madame la",
+      "start": 43526,
+      "end": 43535,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Sérizy",
+      "start": 43536,
+      "end": 43554,
+      "label": "PER"
+    },
+    {
+      "text": "Dois",
+      "start": 43723,
+      "end": 43727,
+      "label": "LOC"
+    },
+    {
+      "text": "Hier",
+      "start": 43819,
+      "end": 43823,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 44154,
+      "end": 44160,
+      "label": "PER"
+    },
+    {
+      "text": "Othello",
+      "start": 45054,
+      "end": 45061,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 45192,
+      "end": 45202,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 45208,
+      "end": 45222,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 45244,
+      "end": 45250,
+      "label": "PER"
+    },
+    {
+      "text": "Promenade",
+      "start": 45893,
+      "end": 45902,
+      "label": "MISC"
+    },
+    {
+      "text": "Mélancolie",
+      "start": 45935,
+      "end": 45945,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 46938,
+      "end": 46942,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 47168,
+      "end": 47173,
+      "label": "PER"
+    },
+    {
+      "text": "Enfer",
+      "start": 47183,
+      "end": 47188,
+      "label": "MISC"
+    },
+    {
+      "text": "Le Consul Général",
+      "start": 47221,
+      "end": 47238,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 47335,
+      "end": 47345,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 47361,
+      "end": 47367,
+      "label": "MISC"
+    },
+    {
+      "text": "Vice Président",
+      "start": 47375,
+      "end": 47389,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 47393,
+      "end": 47407,
+      "label": "ORG"
+    },
+    {
+      "text": "Octave",
+      "start": 47454,
+      "end": 47460,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 47586,
+      "end": 47600,
+      "label": "ORG"
+    },
+    {
+      "text": "Messieurs de Grandville",
+      "start": 47770,
+      "end": 47793,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 47800,
+      "end": 47806,
+      "label": "MISC"
+    },
+    {
+      "text": "Octave",
+      "start": 47835,
+      "end": 47841,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 47971,
+      "end": 47977,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Payenne",
+      "start": 48051,
+      "end": 48062,
+      "label": "LOC"
+    },
+    {
+      "text": "des Tuileries",
+      "start": 48075,
+      "end": 48088,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 48232,
+      "end": 48251,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 48275,
+      "end": 48285,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérizy",
+      "start": 48292,
+      "end": 48298,
+      "label": "MISC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 48513,
+      "end": 48522,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 48536,
+      "end": 48546,
+      "label": "PER"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 48554,
+      "end": 48569,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 48714,
+      "end": 48720,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 48756,
+      "end": 48766,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 48836,
+      "end": 48840,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Gaudron",
+      "start": 48878,
+      "end": 48890,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 48909,
+      "end": 48914,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontanon",
+      "start": 48936,
+      "end": 48944,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 48966,
+      "end": 48976,
+      "label": "LOC"
+    },
+    {
+      "text": "Président Grandville",
+      "start": 49013,
+      "end": 49033,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Metternich",
+      "start": 49457,
+      "end": 49477,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Nodier",
+      "start": 49497,
+      "end": 49511,
+      "label": "PER"
+    },
+    {
+      "text": "Taillée",
+      "start": 49513,
+      "end": 49520,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 49579,
+      "end": 49583,
+      "label": "LOC"
+    },
+    {
+      "text": "Comptez",
+      "start": 49875,
+      "end": 49882,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 50022,
+      "end": 50029,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Gaudron",
+      "start": 50033,
+      "end": 50045,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 50075,
+      "end": 50085,
+      "label": "PER"
+    },
+    {
+      "text": "saint Paul",
+      "start": 50116,
+      "end": 50126,
+      "label": "PER"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 50452,
+      "end": 50461,
+      "label": "MISC"
+    },
+    {
+      "text": "Code",
+      "start": 50516,
+      "end": 50520,
+      "label": "MISC"
+    },
+    {
+      "text": "Police Correctionnelle",
+      "start": 50802,
+      "end": 50824,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour d'Assises",
+      "start": 50863,
+      "end": 50877,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil d'État de Napoléon",
+      "start": 50882,
+      "end": 50908,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérizy",
+      "start": 51169,
+      "end": 51175,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51336,
+      "end": 51340,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 51352,
+      "end": 51359,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 51379,
+      "end": 51383,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Grandville",
+      "start": 51391,
+      "end": 51410,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 51435,
+      "end": 51444,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 51555,
+      "end": 51563,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 51604,
+      "end": 51616,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 51656,
+      "end": 51662,
+      "label": "PER"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 51686,
+      "end": 51696,
+      "label": "ORG"
+    },
+    {
+      "text": "Jésus",
+      "start": 51904,
+      "end": 51909,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 51977,
+      "end": 51981,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 51984,
+      "end": 51990,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandville",
+      "start": 52057,
+      "end": 52067,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 52280,
+      "end": 52286,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 52372,
+      "end": 52380,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 52553,
+      "end": 52559,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 52883,
+      "end": 52889,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 52923,
+      "end": 52929,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 52993,
+      "end": 53000,
+      "label": "ORG"
+    },
+    {
+      "text": "Monde",
+      "start": 53171,
+      "end": 53176,
+      "label": "ORG"
+    },
+    {
+      "text": "Code",
+      "start": 53193,
+      "end": 53197,
+      "label": "MISC"
+    },
+    {
+      "text": "Code",
+      "start": 53208,
+      "end": 53212,
+      "label": "MISC"
+    },
+    {
+      "text": "le Monde",
+      "start": 53263,
+      "end": 53271,
+      "label": "ORG"
+    },
+    {
+      "text": "Le Monde",
+      "start": 53433,
+      "end": 53441,
+      "label": "ORG"
+    },
+    {
+      "text": "Code et l'Église",
+      "start": 53544,
+      "end": 53560,
+      "label": "MISC"
+    },
+    {
+      "text": "le Monde",
+      "start": 53563,
+      "end": 53571,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Grandville",
+      "start": 53867,
+      "end": 53886,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 53944,
+      "end": 53950,
+      "label": "MISC"
+    },
+    {
+      "text": "Toi",
+      "start": 53995,
+      "end": 53998,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 54000,
+      "end": 54006,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 54205,
+      "end": 54211,
+      "label": "PER"
+    },
+    {
+      "text": "Président de Grandville",
+      "start": 54310,
+      "end": 54333,
+      "label": "PER"
+    },
+    {
+      "text": "Pardon",
+      "start": 54405,
+      "end": 54411,
+      "label": "LOC"
+    },
+    {
+      "text": "Maurice",
+      "start": 54439,
+      "end": 54446,
+      "label": "PER"
+    },
+    {
+      "text": "Président de Grandville",
+      "start": 54458,
+      "end": 54481,
+      "label": "PER"
+    },
+    {
+      "text": "Sérizy",
+      "start": 54483,
+      "end": 54489,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur de Sérizy",
+      "start": 54658,
+      "end": 54676,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 55001,
+      "end": 55007,
+      "label": "MISC"
+    },
+    {
+      "text": "Code",
+      "start": 55117,
+      "end": 55121,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 55841,
+      "end": 55857,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 55865,
+      "end": 55871,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 55907,
+      "end": 55914,
+      "label": "ORG"
+    },
+    {
+      "text": "Octave",
+      "start": 56040,
+      "end": 56046,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 56225,
+      "end": 56231,
+      "label": "PER"
+    },
+    {
+      "text": "Maurice",
+      "start": 56952,
+      "end": 56959,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 57650,
+      "end": 57660,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58627,
+      "end": 58632,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 58697,
+      "end": 58703,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 59225,
+      "end": 59233,
+      "label": "PER"
+    },
+    {
+      "text": "Nous vivions comme deux frères",
+      "start": 60533,
+      "end": 60563,
+      "label": "MISC"
+    },
+    {
+      "text": "Veux",
+      "start": 60682,
+      "end": 60686,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 60801,
+      "end": 60806,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 60876,
+      "end": 60882,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 60919,
+      "end": 60920,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 61188,
+      "end": 61196,
+      "label": "PER"
+    },
+    {
+      "text": "fier",
+      "start": 62167,
+      "end": 62171,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 62493,
+      "end": 62501,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 62861,
+      "end": 62873,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 63097,
+      "end": 63105,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 63453,
+      "end": 63461,
+      "label": "LOC"
+    },
+    {
+      "text": "Maurice",
+      "start": 63512,
+      "end": 63519,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 63586,
+      "end": 63594,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 63740,
+      "end": 63748,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 63893,
+      "end": 63901,
+      "label": "LOC"
+    },
+    {
+      "text": "Infidélité",
+      "start": 64190,
+      "end": 64200,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 64275,
+      "end": 64283,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 64509,
+      "end": 64513,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil",
+      "start": 64769,
+      "end": 64776,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 64781,
+      "end": 64787,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 64830,
+      "end": 64838,
+      "label": "LOC"
+    },
+    {
+      "text": "Maurice",
+      "start": 65251,
+      "end": 65258,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 66416,
+      "end": 66424,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 66616,
+      "end": 66623,
+      "label": "ORG"
+    },
+    {
+      "text": "Église",
+      "start": 66874,
+      "end": 66880,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérizy",
+      "start": 66940,
+      "end": 66946,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérizy",
+      "start": 67282,
+      "end": 67288,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseil",
+      "start": 67303,
+      "end": 67310,
+      "label": "ORG"
+    },
+    {
+      "text": "Prostitution",
+      "start": 67504,
+      "end": 67516,
+      "label": "MISC"
+    },
+    {
+      "text": "Jugez",
+      "start": 67938,
+      "end": 67943,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 68174,
+      "end": 68179,
+      "label": "LOC"
+    },
+    {
+      "text": "Pouvez",
+      "start": 68495,
+      "end": 68501,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 69286,
+      "end": 69292,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 69303,
+      "end": 69317,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 69325,
+      "end": 69332,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 69337,
+      "end": 69343,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 69375,
+      "end": 69379,
+      "label": "MISC"
+    },
+    {
+      "text": "Honorine",
+      "start": 69472,
+      "end": 69480,
+      "label": "PER"
+    },
+    {
+      "text": "Misère",
+      "start": 70285,
+      "end": 70291,
+      "label": "PER"
+    },
+    {
+      "text": "Suisse",
+      "start": 70376,
+      "end": 70382,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 70389,
+      "end": 70395,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 70455,
+      "end": 70463,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 70645,
+      "end": 70650,
+      "label": "LOC"
+    },
+    {
+      "text": "bah !",
+      "start": 70971,
+      "end": 70976,
+      "label": "MISC"
+    },
+    {
+      "text": "Figaro",
+      "start": 71007,
+      "end": 71013,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 71196,
+      "end": 71204,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 71217,
+      "end": 71221,
+      "label": "MISC"
+    },
+    {
+      "text": "Honorine",
+      "start": 71822,
+      "end": 71830,
+      "label": "PER"
+    },
+    {
+      "text": "Société de maternité",
+      "start": 72011,
+      "end": 72031,
+      "label": "ORG"
+    },
+    {
+      "text": "Honorine",
+      "start": 72248,
+      "end": 72256,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 72339,
+      "end": 72349,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 73065,
+      "end": 73075,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 73145,
+      "end": 73149,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 73207,
+      "end": 73215,
+      "label": "PER"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 73350,
+      "end": 73363,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 73671,
+      "end": 73679,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 73978,
+      "end": 73991,
+      "label": "PER"
+    },
+    {
+      "text": "Gobain",
+      "start": 74038,
+      "end": 74044,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Payenne",
+      "start": 74247,
+      "end": 74258,
+      "label": "LOC"
+    },
+    {
+      "text": "Reuilly",
+      "start": 74271,
+      "end": 74278,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 74312,
+      "end": 74318,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville",
+      "start": 74332,
+      "end": 74337,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 74454,
+      "end": 74467,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 74524,
+      "end": 74532,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Gobain",
+      "start": 74611,
+      "end": 74624,
+      "label": "PER"
+    },
+    {
+      "text": "Lyon",
+      "start": 74846,
+      "end": 74850,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 75028,
+      "end": 75041,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 75320,
+      "end": 75325,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobain",
+      "start": 75639,
+      "end": 75645,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 75764,
+      "end": 75772,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 75931,
+      "end": 75939,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 76243,
+      "end": 76251,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 76528,
+      "end": 76536,
+      "label": "PER"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 76554,
+      "end": 76567,
+      "label": "PER"
+    },
+    {
+      "text": "Préfet de Police",
+      "start": 76834,
+      "end": 76850,
+      "label": "ORG"
+    },
+    {
+      "text": "Honorine",
+      "start": 77205,
+      "end": 77213,
+      "label": "LOC"
+    },
+    {
+      "text": "Folie",
+      "start": 78049,
+      "end": 78054,
+      "label": "LOC"
+    },
+    {
+      "text": "Lovelace",
+      "start": 78297,
+      "end": 78305,
+      "label": "LOC"
+    },
+    {
+      "text": "Clarisse",
+      "start": 78311,
+      "end": 78319,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 78339,
+      "end": 78347,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 78561,
+      "end": 78573,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 78593,
+      "end": 78601,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 78990,
+      "end": 78995,
+      "label": "LOC"
+    },
+    {
+      "text": "Couronne",
+      "start": 79162,
+      "end": 79170,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 79244,
+      "end": 79251,
+      "label": "ORG"
+    },
+    {
+      "text": "Marie Louise",
+      "start": 79356,
+      "end": 79368,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79370,
+      "end": 79378,
+      "label": "PER"
+    },
+    {
+      "text": "Compiègne",
+      "start": 79415,
+      "end": 79424,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 79602,
+      "end": 79608,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 79870,
+      "end": 79874,
+      "label": "MISC"
+    },
+    {
+      "text": "Amour",
+      "start": 80322,
+      "end": 80327,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 80488,
+      "end": 80496,
+      "label": "LOC"
+    },
+    {
+      "text": "Misère",
+      "start": 80779,
+      "end": 80785,
+      "label": "ORG"
+    },
+    {
+      "text": "Loi",
+      "start": 80890,
+      "end": 80893,
+      "label": "MISC"
+    },
+    {
+      "text": "Loi",
+      "start": 80950,
+      "end": 80953,
+      "label": "MISC"
+    },
+    {
+      "text": "Religion",
+      "start": 81074,
+      "end": 81082,
+      "label": "LOC"
+    },
+    {
+      "text": "Maurice",
+      "start": 81478,
+      "end": 81485,
+      "label": "PER"
+    },
+    {
+      "text": "Grandville",
+      "start": 81538,
+      "end": 81548,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 81761,
+      "end": 81765,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 82293,
+      "end": 82303,
+      "label": "PER"
+    },
+    {
+      "text": "Courteville",
+      "start": 82585,
+      "end": 82596,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 82619,
+      "end": 82625,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Courteville",
+      "start": 82685,
+      "end": 82706,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal de la Seine",
+      "start": 82743,
+      "end": 82763,
+      "label": "MISC"
+    },
+    {
+      "text": "Baron",
+      "start": 83001,
+      "end": 83006,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Courteville",
+      "start": 83224,
+      "end": 83245,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie de Courteville",
+      "start": 83341,
+      "end": 83362,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83747,
+      "end": 83752,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 84423,
+      "end": 84431,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 84437,
+      "end": 84447,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 84788,
+      "end": 84798,
+      "label": "LOC"
+    },
+    {
+      "text": "Octave",
+      "start": 84883,
+      "end": 84889,
+      "label": "PER"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 84891,
+      "end": 84904,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 84973,
+      "end": 84979,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 85293,
+      "end": 85299,
+      "label": "PER"
+    },
+    {
+      "text": "madame Gobain",
+      "start": 85669,
+      "end": 85682,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie de Courteville",
+      "start": 85976,
+      "end": 85997,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 86069,
+      "end": 86077,
+      "label": "PER"
+    },
+    {
+      "text": "Pompadour",
+      "start": 86467,
+      "end": 86476,
+      "label": "PER"
+    },
+    {
+      "text": "le manche",
+      "start": 86607,
+      "end": 86616,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon mur",
+      "start": 86652,
+      "end": 86659,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma pauvre Gobain",
+      "start": 86772,
+      "end": 86788,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, dit elle, je ne sais pas",
+      "start": 86829,
+      "end": 86861,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 86965,
+      "end": 86970,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 87245,
+      "end": 87249,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobain",
+      "start": 87299,
+      "end": 87305,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobain",
+      "start": 87603,
+      "end": 87609,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 87744,
+      "end": 87748,
+      "label": "MISC"
+    },
+    {
+      "text": "Honorine",
+      "start": 87762,
+      "end": 87770,
+      "label": "PER"
+    },
+    {
+      "text": "Gobain",
+      "start": 88116,
+      "end": 88122,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 88216,
+      "end": 88220,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 88263,
+      "end": 88269,
+      "label": "PER"
+    },
+    {
+      "text": "Gobain",
+      "start": 88278,
+      "end": 88284,
+      "label": "PER"
+    },
+    {
+      "text": "Gobain",
+      "start": 88761,
+      "end": 88767,
+      "label": "LOC"
+    },
+    {
+      "text": "foulard",
+      "start": 89052,
+      "end": 89059,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 89125,
+      "end": 89131,
+      "label": "PER"
+    },
+    {
+      "text": "Gobain",
+      "start": 89184,
+      "end": 89190,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 89538,
+      "end": 89546,
+      "label": "PER"
+    },
+    {
+      "text": "Octave",
+      "start": 89571,
+      "end": 89577,
+      "label": "PER"
+    },
+    {
+      "text": "Honorine",
+      "start": 90078,
+      "end": 90086,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 90119,
+      "end": 90126,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 90130,
+      "end": 90136,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 90197,
+      "end": 90203,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 90393,
+      "end": 90401,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 90794,
+      "end": 90800,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 90817,
+      "end": 90823,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 90962,
+      "end": 90970,
+      "label": "PER"
+    },
+    {
+      "text": "Gaie",
+      "start": 91685,
+      "end": 91689,
+      "label": "ORG"
+    },
+    {
+      "text": "seuil de la Débauche",
+      "start": 92367,
+      "end": 92387,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 92562,
+      "end": 92570,
+      "label": "PER"
+    },
+    {
+      "text": "Pensez",
+      "start": 92674,
+      "end": 92680,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 92889,
+      "end": 92893,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 93499,
+      "end": 93505,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 93980,
+      "end": 93984,
+      "label": "LOC"
+    },
+    {
+      "text": "Restons sur le mur mitoyen",
+      "start": 94090,
+      "end": 94116,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 94321,
+      "end": 94325,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 95089,
+      "end": 95096,
+      "label": "ORG"
+    },
+    {
+      "text": "Blancs Manteaux",
+      "start": 96312,
+      "end": 96327,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 96685,
+      "end": 96686,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 98635,
+      "end": 98640,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorine",
+      "start": 99068,
+      "end": 99076,
+      "label": "PER"
+    }
+  ]
+}

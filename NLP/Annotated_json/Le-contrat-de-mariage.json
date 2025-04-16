@@ -1,0 +1,3742 @@
+{
+  "entities": [
+    {
+      "text": "CONTRAT",
+      "start": 3,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "MARIAGE",
+      "start": 14,
+      "end": 21,
+      "label": "ORG"
+    },
+    {
+      "text": "Manerville le père",
+      "start": 67,
+      "end": 85,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 133,
+      "end": 154,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 210,
+      "end": 218,
+      "label": "LOC"
+    },
+    {
+      "text": "Guyenne",
+      "start": 294,
+      "end": 301,
+      "label": "LOC"
+    },
+    {
+      "text": "Normand",
+      "start": 306,
+      "end": 313,
+      "label": "LOC"
+    },
+    {
+      "text": "Bessin",
+      "start": 351,
+      "end": 357,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascon",
+      "start": 368,
+      "end": 374,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Lanstrac",
+      "start": 400,
+      "end": 419,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 502,
+      "end": 510,
+      "label": "PER"
+    },
+    {
+      "text": "Gardes",
+      "start": 545,
+      "end": 551,
+      "label": "LOC"
+    },
+    {
+      "text": "Martinique",
+      "start": 699,
+      "end": 709,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascogne",
+      "start": 780,
+      "end": 788,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 827,
+      "end": 834,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 897,
+      "end": 916,
+      "label": "PER"
+    },
+    {
+      "text": "Gascon",
+      "start": 1030,
+      "end": 1036,
+      "label": "LOC"
+    },
+    {
+      "text": "Normand",
+      "start": 1044,
+      "end": 1051,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Manerville",
+      "start": 1053,
+      "end": 1073,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 1268,
+      "end": 1278,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul de Manerville",
+      "start": 1470,
+      "end": 1488,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 1548,
+      "end": 1555,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascogne",
+      "start": 1845,
+      "end": 1853,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 1855,
+      "end": 1859,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain de Bordeaux",
+      "start": 3411,
+      "end": 3436,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 3662,
+      "end": 3666,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 3813,
+      "end": 3822,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 4210,
+      "end": 4214,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 4608,
+      "end": 4612,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 4748,
+      "end": 4756,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanstrac",
+      "start": 4795,
+      "end": 4803,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathias",
+      "start": 5063,
+      "end": 5070,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 5124,
+      "end": 5132,
+      "label": "LOC"
+    },
+    {
+      "text": "Attaché",
+      "start": 5134,
+      "end": 5141,
+      "label": "PER"
+    },
+    {
+      "text": "Naples",
+      "start": 5156,
+      "end": 5162,
+      "label": "LOC"
+    },
+    {
+      "text": "Madrid",
+      "start": 5211,
+      "end": 5217,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 5221,
+      "end": 5228,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 5256,
+      "end": 5262,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 5463,
+      "end": 5467,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5628,
+      "end": 5633,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 5645,
+      "end": 5653,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanstrac",
+      "start": 5708,
+      "end": 5716,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 5787,
+      "end": 5791,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 6029,
+      "end": 6033,
+      "label": "PER"
+    },
+    {
+      "text": "paris",
+      "start": 6457,
+      "end": 6462,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal de France",
+      "start": 6732,
+      "end": 6750,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 6802,
+      "end": 6806,
+      "label": "PER"
+    },
+    {
+      "text": "garçonnière",
+      "start": 6988,
+      "end": 6999,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7091,
+      "end": 7096,
+      "label": "LOC"
+    },
+    {
+      "text": "Guyenne",
+      "start": 7534,
+      "end": 7541,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 8016,
+      "end": 8022,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 8172,
+      "end": 8178,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanstrac",
+      "start": 8276,
+      "end": 8284,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 8313,
+      "end": 8321,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 8358,
+      "end": 8363,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 8547,
+      "end": 8551,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 8572,
+      "end": 8578,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse de Manerville",
+      "start": 9129,
+      "end": 9161,
+      "label": "PER"
+    },
+    {
+      "text": "département de la Gironde",
+      "start": 9407,
+      "end": 9432,
+      "label": "LOC"
+    },
+    {
+      "text": "Emmène",
+      "start": 9440,
+      "end": 9446,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 9491,
+      "end": 9499,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 9520,
+      "end": 9528,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9580,
+      "end": 9585,
+      "label": "LOC"
+    },
+    {
+      "text": "Manerville",
+      "start": 10554,
+      "end": 10564,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 10667,
+      "end": 10671,
+      "label": "MISC"
+    },
+    {
+      "text": "Tes",
+      "start": 10970,
+      "end": 10973,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourne",
+      "start": 11246,
+      "end": 11252,
+      "label": "PER"
+    },
+    {
+      "text": "Garçon",
+      "start": 11571,
+      "end": 11577,
+      "label": "LOC"
+    },
+    {
+      "text": "Garçon",
+      "start": 11756,
+      "end": 11762,
+      "label": "LOC"
+    },
+    {
+      "text": "paralytique",
+      "start": 12476,
+      "end": 12487,
+      "label": "LOC"
+    },
+    {
+      "text": "Boileau",
+      "start": 12653,
+      "end": 12660,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise",
+      "start": 13191,
+      "end": 13199,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 13500,
+      "end": 13519,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 13772,
+      "end": 13778,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul de Manerville",
+      "start": 13852,
+      "end": 13870,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 13931,
+      "end": 13940,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 14050,
+      "end": 14056,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 14169,
+      "end": 14174,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 14176,
+      "end": 14180,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 14295,
+      "end": 14299,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 14668,
+      "end": 14672,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 14832,
+      "end": 14836,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'en dira t on",
+      "start": 14996,
+      "end": 15011,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 15066,
+      "end": 15071,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 15073,
+      "end": 15077,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 15162,
+      "end": 15168,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 15197,
+      "end": 15203,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 15250,
+      "end": 15260,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15306,
+      "end": 15311,
+      "label": "LOC"
+    },
+    {
+      "text": "Longchamps",
+      "start": 15329,
+      "end": 15339,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 15386,
+      "end": 15392,
+      "label": "LOC"
+    },
+    {
+      "text": "Manerville",
+      "start": 15399,
+      "end": 15409,
+      "label": "LOC"
+    },
+    {
+      "text": "Crois",
+      "start": 15617,
+      "end": 15622,
+      "label": "LOC"
+    },
+    {
+      "text": "Henry",
+      "start": 15637,
+      "end": 15642,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 15741,
+      "end": 15745,
+      "label": "LOC"
+    },
+    {
+      "text": "Tes",
+      "start": 15949,
+      "end": 15952,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi, j'aime l'échange constant",
+      "start": 16664,
+      "end": 16694,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 16840,
+      "end": 16846,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 16848,
+      "end": 16852,
+      "label": "PER"
+    },
+    {
+      "text": "Ris",
+      "start": 16901,
+      "end": 16904,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 17021,
+      "end": 17027,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 17140,
+      "end": 17144,
+      "label": "PER"
+    },
+    {
+      "text": "Marche !",
+      "start": 17727,
+      "end": 17735,
+      "label": "MISC"
+    },
+    {
+      "text": "révolution française",
+      "start": 17971,
+      "end": 17991,
+      "label": "MISC"
+    },
+    {
+      "text": "Crois",
+      "start": 18037,
+      "end": 18042,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 18237,
+      "end": 18243,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 18518,
+      "end": 18522,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 18554,
+      "end": 18558,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 18575,
+      "end": 18583,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 18597,
+      "end": 18603,
+      "label": "LOC"
+    },
+    {
+      "text": "Boileau",
+      "start": 18618,
+      "end": 18625,
+      "label": "PER"
+    },
+    {
+      "text": "Avoir",
+      "start": 18766,
+      "end": 18771,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 20031,
+      "end": 20039,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 20057,
+      "end": 20065,
+      "label": "PER"
+    },
+    {
+      "text": "Toi",
+      "start": 20564,
+      "end": 20567,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 20634,
+      "end": 20638,
+      "label": "MISC"
+    },
+    {
+      "text": "École de Droit",
+      "start": 20751,
+      "end": 20765,
+      "label": "ORG"
+    },
+    {
+      "text": "Code",
+      "start": 20792,
+      "end": 20796,
+      "label": "MISC"
+    },
+    {
+      "text": "Code, mon cher",
+      "start": 20972,
+      "end": 20986,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 21136,
+      "end": 21140,
+      "label": "PER"
+    },
+    {
+      "text": "Tâte",
+      "start": 21165,
+      "end": 21169,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 21185,
+      "end": 21189,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemands",
+      "start": 21395,
+      "end": 21404,
+      "label": "LOC"
+    },
+    {
+      "text": "Anthropologie",
+      "start": 21416,
+      "end": 21429,
+      "label": "MISC"
+    },
+    {
+      "text": "Londres",
+      "start": 21735,
+      "end": 21742,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 21747,
+      "end": 21753,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21758,
+      "end": 21763,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 21768,
+      "end": 21772,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 22017,
+      "end": 22027,
+      "label": "ORG"
+    },
+    {
+      "text": "amèneras",
+      "start": 22182,
+      "end": 22190,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Manerville",
+      "start": 22197,
+      "end": 22219,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 22239,
+      "end": 22243,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 22275,
+      "end": 22281,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 22302,
+      "end": 22306,
+      "label": "PER"
+    },
+    {
+      "text": "Sois",
+      "start": 22310,
+      "end": 22314,
+      "label": "LOC"
+    },
+    {
+      "text": "Maison Rouge",
+      "start": 22364,
+      "end": 22376,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 22386,
+      "end": 22393,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontenoy",
+      "start": 22396,
+      "end": 22404,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 22451,
+      "end": 22470,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 22524,
+      "end": 22532,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 22765,
+      "end": 22773,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 22978,
+      "end": 22991,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 23071,
+      "end": 23075,
+      "label": "ORG"
+    },
+    {
+      "text": "Beaux",
+      "start": 23118,
+      "end": 23123,
+      "label": "LOC"
+    },
+    {
+      "text": "Petits Maîtres d'autrefois",
+      "start": 23129,
+      "end": 23155,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul de Manerville",
+      "start": 23368,
+      "end": 23386,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 23611,
+      "end": 23615,
+      "label": "PER"
+    },
+    {
+      "text": "Brummel",
+      "start": 24330,
+      "end": 24337,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 24629,
+      "end": 24633,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 25228,
+      "end": 25232,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25364,
+      "end": 25369,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Lanstrac",
+      "start": 25420,
+      "end": 25439,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 25878,
+      "end": 25882,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 26270,
+      "end": 26278,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 26554,
+      "end": 26562,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 26608,
+      "end": 26616,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 26642,
+      "end": 26653,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 26696,
+      "end": 26704,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 26716,
+      "end": 26727,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 26746,
+      "end": 26754,
+      "label": "LOC"
+    },
+    {
+      "text": "Créole",
+      "start": 27029,
+      "end": 27035,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 27086,
+      "end": 27104,
+      "label": "PER"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 27137,
+      "end": 27146,
+      "label": "ORG"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 27465,
+      "end": 27473,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 27520,
+      "end": 27528,
+      "label": "MISC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 27697,
+      "end": 27705,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 27728,
+      "end": 27746,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 27750,
+      "end": 27758,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 27987,
+      "end": 27998,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 28094,
+      "end": 28102,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 28343,
+      "end": 28347,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie Évangélista",
+      "start": 28410,
+      "end": 28429,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 28510,
+      "end": 28518,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 28803,
+      "end": 28810,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 28970,
+      "end": 28994,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 29256,
+      "end": 29267,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 29433,
+      "end": 29440,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 29667,
+      "end": 29674,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 29691,
+      "end": 29699,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 29822,
+      "end": 29833,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 30434,
+      "end": 30445,
+      "label": "PER"
+    },
+    {
+      "text": "Reine",
+      "start": 30447,
+      "end": 30452,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 30583,
+      "end": 30590,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 31355,
+      "end": 31359,
+      "label": "PER"
+    },
+    {
+      "text": "Fleur des pois et la reine des bals",
+      "start": 31415,
+      "end": 31450,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 31618,
+      "end": 31629,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 31657,
+      "end": 31661,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 31740,
+      "end": 31744,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 31765,
+      "end": 31772,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 31812,
+      "end": 31823,
+      "label": "MISC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 31847,
+      "end": 31855,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 31889,
+      "end": 31893,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 32182,
+      "end": 32186,
+      "label": "PER"
+    },
+    {
+      "text": "beauté de Natalie",
+      "start": 32281,
+      "end": 32298,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 32435,
+      "end": 32446,
+      "label": "PER"
+    },
+    {
+      "text": "Fleur des pois",
+      "start": 32451,
+      "end": 32465,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 33054,
+      "end": 33058,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 33165,
+      "end": 33183,
+      "label": "PER"
+    },
+    {
+      "text": "La Fleur des pois",
+      "start": 33245,
+      "end": 33262,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 33381,
+      "end": 33385,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 33499,
+      "end": 33509,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 33645,
+      "end": 33650,
+      "label": "LOC"
+    },
+    {
+      "text": "joli garçon",
+      "start": 33691,
+      "end": 33702,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 33743,
+      "end": 33754,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 33858,
+      "end": 33876,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 33997,
+      "end": 34001,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 34039,
+      "end": 34063,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 34297,
+      "end": 34305,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 34338,
+      "end": 34362,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 34377,
+      "end": 34381,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 34515,
+      "end": 34519,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 34591,
+      "end": 34598,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 34663,
+      "end": 34671,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 34710,
+      "end": 34717,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 34752,
+      "end": 34757,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 34780,
+      "end": 34791,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordelais",
+      "start": 34950,
+      "end": 34959,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 34972,
+      "end": 34996,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 35020,
+      "end": 35039,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 35226,
+      "end": 35230,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 35318,
+      "end": 35329,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 35413,
+      "end": 35418,
+      "label": "LOC"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 35487,
+      "end": 35496,
+      "label": "ORG"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 35648,
+      "end": 35656,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 35843,
+      "end": 35861,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 36058,
+      "end": 36065,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 36193,
+      "end": 36197,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 36290,
+      "end": 36294,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 36313,
+      "end": 36331,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 36529,
+      "end": 36547,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnoles",
+      "start": 36884,
+      "end": 36894,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 37005,
+      "end": 37014,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 37071,
+      "end": 37078,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 37948,
+      "end": 37957,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 37964,
+      "end": 37970,
+      "label": "LOC"
+    },
+    {
+      "text": "Amériques",
+      "start": 37999,
+      "end": 38008,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 38044,
+      "end": 38054,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 38778,
+      "end": 38796,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 38829,
+      "end": 38836,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 38929,
+      "end": 38947,
+      "label": "PER"
+    },
+    {
+      "text": "seconde Restauration",
+      "start": 38993,
+      "end": 39013,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 39080,
+      "end": 39098,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 39168,
+      "end": 39186,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 39324,
+      "end": 39344,
+      "label": "PER"
+    },
+    {
+      "text": "Haïssez et attendez",
+      "start": 39367,
+      "end": 39386,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 39586,
+      "end": 39595,
+      "label": "LOC"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 39602,
+      "end": 39611,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 39991,
+      "end": 40000,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 40150,
+      "end": 40161,
+      "label": "PER"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 40235,
+      "end": 40249,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 40887,
+      "end": 40905,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 40941,
+      "end": 40945,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 40968,
+      "end": 40972,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 41097,
+      "end": 41107,
+      "label": "ORG"
+    },
+    {
+      "text": "Maulincour",
+      "start": 41134,
+      "end": 41144,
+      "label": "LOC"
+    },
+    {
+      "text": "Pamiers",
+      "start": 41164,
+      "end": 41171,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 41200,
+      "end": 41213,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 41244,
+      "end": 41265,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 41293,
+      "end": 41297,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 41345,
+      "end": 41356,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 41433,
+      "end": 41438,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 41442,
+      "end": 41450,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41492,
+      "end": 41497,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 41646,
+      "end": 41664,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 41712,
+      "end": 41720,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 41886,
+      "end": 41894,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 42056,
+      "end": 42060,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 42329,
+      "end": 42347,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 42416,
+      "end": 42420,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 42766,
+      "end": 42770,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 42946,
+      "end": 42970,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Évangélista",
+      "start": 43279,
+      "end": 43296,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 43358,
+      "end": 43362,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 43389,
+      "end": 43396,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Évangélista",
+      "start": 43509,
+      "end": 43533,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 43737,
+      "end": 43741,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 43962,
+      "end": 43966,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 44008,
+      "end": 44026,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 44069,
+      "end": 44078,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 44289,
+      "end": 44293,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 44590,
+      "end": 44594,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 45504,
+      "end": 45511,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 45641,
+      "end": 45649,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 45985,
+      "end": 45992,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 46110,
+      "end": 46123,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 46148,
+      "end": 46155,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 46273,
+      "end": 46280,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 46334,
+      "end": 46338,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46365,
+      "end": 46370,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 46553,
+      "end": 46561,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 46563,
+      "end": 46570,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 46671,
+      "end": 46675,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 46934,
+      "end": 46938,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 47116,
+      "end": 47127,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 47221,
+      "end": 47227,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 47452,
+      "end": 47456,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 48035,
+      "end": 48041,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 48467,
+      "end": 48473,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 48897,
+      "end": 48908,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 49035,
+      "end": 49039,
+      "label": "PER"
+    },
+    {
+      "text": "Lavater",
+      "start": 49089,
+      "end": 49096,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 49103,
+      "end": 49107,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 49311,
+      "end": 49318,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice",
+      "start": 49465,
+      "end": 49472,
+      "label": "MISC"
+    },
+    {
+      "text": "Innocence",
+      "start": 49476,
+      "end": 49485,
+      "label": "ORG"
+    },
+    {
+      "text": "Natalie",
+      "start": 49822,
+      "end": 49829,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 50214,
+      "end": 50221,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 50838,
+      "end": 50845,
+      "label": "PER"
+    },
+    {
+      "text": "Odiate",
+      "start": 51411,
+      "end": 51417,
+      "label": "MISC"
+    },
+    {
+      "text": "Romains",
+      "start": 51600,
+      "end": 51607,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 51629,
+      "end": 51639,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 51764,
+      "end": 51782,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 51827,
+      "end": 51834,
+      "label": "MISC"
+    },
+    {
+      "text": "auguste",
+      "start": 52398,
+      "end": 52405,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 52420,
+      "end": 52427,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 52819,
+      "end": 52826,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albe",
+      "start": 53036,
+      "end": 53046,
+      "label": "PER"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 53087,
+      "end": 53096,
+      "label": "ORG"
+    },
+    {
+      "text": "Natalie",
+      "start": 53477,
+      "end": 53484,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 54184,
+      "end": 54191,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 54661,
+      "end": 54665,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 55330,
+      "end": 55336,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 55339,
+      "end": 55343,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 55572,
+      "end": 55576,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 55718,
+      "end": 55725,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 55738,
+      "end": 55742,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 55790,
+      "end": 55797,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 55905,
+      "end": 55909,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 55993,
+      "end": 56012,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 56055,
+      "end": 56063,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56114,
+      "end": 56119,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 56390,
+      "end": 56394,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 56787,
+      "end": 56791,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 57094,
+      "end": 57098,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 57179,
+      "end": 57183,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 57613,
+      "end": 57617,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 57623,
+      "end": 57647,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 57919,
+      "end": 57923,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 57932,
+      "end": 57950,
+      "label": "PER"
+    },
+    {
+      "text": "Paul de Manerville",
+      "start": 58413,
+      "end": 58431,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 58469,
+      "end": 58480,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 58515,
+      "end": 58525,
+      "label": "LOC"
+    },
+    {
+      "text": "Médoc",
+      "start": 58584,
+      "end": 58589,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 58754,
+      "end": 58772,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 58829,
+      "end": 58833,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 58960,
+      "end": 58978,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 59223,
+      "end": 59230,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 59445,
+      "end": 59450,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 59588,
+      "end": 59593,
+      "label": "LOC"
+    },
+    {
+      "text": "Chère",
+      "start": 59702,
+      "end": 59707,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 59719,
+      "end": 59723,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'a t",
+      "start": 60096,
+      "end": 60102,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 60443,
+      "end": 60448,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathias",
+      "start": 60456,
+      "end": 60463,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Maulincour",
+      "start": 60486,
+      "end": 60506,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 60533,
+      "end": 60537,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 60795,
+      "end": 60802,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 60899,
+      "end": 60917,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 61334,
+      "end": 61340,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 61373,
+      "end": 61380,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 61619,
+      "end": 61630,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 61764,
+      "end": 61768,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 61817,
+      "end": 61828,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 61863,
+      "end": 61864,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 62110,
+      "end": 62114,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 62270,
+      "end": 62277,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 62327,
+      "end": 62334,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 62712,
+      "end": 62716,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 62763,
+      "end": 62774,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 62901,
+      "end": 62912,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 63099,
+      "end": 63103,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 63115,
+      "end": 63119,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 63227,
+      "end": 63235,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 63276,
+      "end": 63283,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 64154,
+      "end": 64158,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 64449,
+      "end": 64458,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 64696,
+      "end": 64703,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 64958,
+      "end": 64965,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 65196,
+      "end": 65200,
+      "label": "PER"
+    },
+    {
+      "text": "Hésiter",
+      "start": 65456,
+      "end": 65463,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 65598,
+      "end": 65606,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 65649,
+      "end": 65656,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 65837,
+      "end": 65846,
+      "label": "PER"
+    },
+    {
+      "text": "Brouage",
+      "start": 65849,
+      "end": 65856,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 65999,
+      "end": 66010,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 66152,
+      "end": 66160,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 66171,
+      "end": 66178,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 66224,
+      "end": 66240,
+      "label": "ORG"
+    },
+    {
+      "text": "Bourbons",
+      "start": 66303,
+      "end": 66311,
+      "label": "MISC"
+    },
+    {
+      "text": "Heureux",
+      "start": 66313,
+      "end": 66320,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 66359,
+      "end": 66377,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 66447,
+      "end": 66455,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 66457,
+      "end": 66464,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 66549,
+      "end": 66567,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 66672,
+      "end": 66679,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 67258,
+      "end": 67276,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 67355,
+      "end": 67362,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 67398,
+      "end": 67416,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 67498,
+      "end": 67508,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 67584,
+      "end": 67602,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 67744,
+      "end": 67748,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 67869,
+      "end": 67888,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 67974,
+      "end": 67985,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 68175,
+      "end": 68179,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 68339,
+      "end": 68346,
+      "label": "PER"
+    },
+    {
+      "text": "Réponse",
+      "start": 68475,
+      "end": 68482,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 68501,
+      "end": 68508,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 68510,
+      "end": 68516,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 68551,
+      "end": 68558,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 68563,
+      "end": 68566,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 68728,
+      "end": 68731,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 68847,
+      "end": 68850,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 69131,
+      "end": 69135,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 69159,
+      "end": 69166,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 69169,
+      "end": 69178,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 69332,
+      "end": 69335,
+      "label": "LOC"
+    },
+    {
+      "text": "Propres",
+      "start": 69387,
+      "end": 69394,
+      "label": "MISC"
+    },
+    {
+      "text": "ajouta t",
+      "start": 69464,
+      "end": 69472,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 69607,
+      "end": 69614,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 69658,
+      "end": 69676,
+      "label": "PER"
+    },
+    {
+      "text": "toilette de Natalie",
+      "start": 69707,
+      "end": 69726,
+      "label": "PER"
+    },
+    {
+      "text": "Sévigné",
+      "start": 69839,
+      "end": 69846,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 70011,
+      "end": 70029,
+      "label": "PER"
+    },
+    {
+      "text": "Chère",
+      "start": 70177,
+      "end": 70182,
+      "label": "LOC"
+    },
+    {
+      "text": "Manerville",
+      "start": 70229,
+      "end": 70239,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 70873,
+      "end": 70882,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fleur des pois",
+      "start": 71000,
+      "end": 71017,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 71195,
+      "end": 71213,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 71257,
+      "end": 71264,
+      "label": "MISC"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 71284,
+      "end": 71293,
+      "label": "ORG"
+    },
+    {
+      "text": "Natalie",
+      "start": 71471,
+      "end": 71478,
+      "label": "LOC"
+    },
+    {
+      "text": "Favori",
+      "start": 71745,
+      "end": 71751,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 71775,
+      "end": 71782,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 72025,
+      "end": 72029,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 72311,
+      "end": 72319,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 72331,
+      "end": 72336,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 72346,
+      "end": 72351,
+      "label": "LOC"
+    },
+    {
+      "text": "Temninck",
+      "start": 72415,
+      "end": 72423,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 72456,
+      "end": 72465,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 72542,
+      "end": 72549,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 72611,
+      "end": 72618,
+      "label": "LOC"
+    },
+    {
+      "text": "Sois",
+      "start": 72667,
+      "end": 72671,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 72707,
+      "end": 72725,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 72733,
+      "end": 72740,
+      "label": "MISC"
+    },
+    {
+      "text": "Natalie",
+      "start": 72835,
+      "end": 72842,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 72871,
+      "end": 72875,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 72906,
+      "end": 72913,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 72985,
+      "end": 72989,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 73084,
+      "end": 73091,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 73183,
+      "end": 73187,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 73481,
+      "end": 73485,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 73531,
+      "end": 73538,
+      "label": "PER"
+    },
+    {
+      "text": "Cujas",
+      "start": 73744,
+      "end": 73749,
+      "label": "PER"
+    },
+    {
+      "text": "Barthole",
+      "start": 73753,
+      "end": 73761,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 73885,
+      "end": 73892,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 73905,
+      "end": 73923,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 73932,
+      "end": 73939,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 73950,
+      "end": 73957,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 74070,
+      "end": 74074,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 74214,
+      "end": 74232,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 74538,
+      "end": 74545,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 75641,
+      "end": 75649,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 75781,
+      "end": 75788,
+      "label": "PER"
+    },
+    {
+      "text": "Bordelais",
+      "start": 75904,
+      "end": 75913,
+      "label": "LOC"
+    },
+    {
+      "text": "Noël",
+      "start": 76622,
+      "end": 76626,
+      "label": "MISC"
+    },
+    {
+      "text": "Pâques",
+      "start": 76712,
+      "end": 76718,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathias",
+      "start": 76845,
+      "end": 76852,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 77759,
+      "end": 77766,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 78199,
+      "end": 78205,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 78243,
+      "end": 78250,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 78316,
+      "end": 78323,
+      "label": "PER"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 78578,
+      "end": 78606,
+      "label": "ORG"
+    },
+    {
+      "text": "Solonet",
+      "start": 79275,
+      "end": 79282,
+      "label": "PER"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 79332,
+      "end": 79342,
+      "label": "LOC"
+    },
+    {
+      "text": "JADIS",
+      "start": 79562,
+      "end": 79567,
+      "label": "MISC"
+    },
+    {
+      "text": "AUJOURD'HUI",
+      "start": 79571,
+      "end": 79582,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 79615,
+      "end": 79623,
+      "label": "LOC"
+    },
+    {
+      "text": "madame et",
+      "start": 79628,
+      "end": 79637,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 79651,
+      "end": 79662,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 79691,
+      "end": 79698,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 80044,
+      "end": 80051,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 80144,
+      "end": 80148,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 80382,
+      "end": 80389,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 80596,
+      "end": 80614,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 80871,
+      "end": 80878,
+      "label": "PER"
+    },
+    {
+      "text": "Parfaitement",
+      "start": 81011,
+      "end": 81023,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 81035,
+      "end": 81053,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 81139,
+      "end": 81146,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 81214,
+      "end": 81222,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 81263,
+      "end": 81267,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher maître",
+      "start": 81816,
+      "end": 81831,
+      "label": "MISC"
+    },
+    {
+      "text": "Solonet",
+      "start": 81837,
+      "end": 81844,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 81847,
+      "end": 81854,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 81931,
+      "end": 81938,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 81971,
+      "end": 81978,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 82584,
+      "end": 82591,
+      "label": "PER"
+    },
+    {
+      "text": "Quels",
+      "start": 82650,
+      "end": 82655,
+      "label": "LOC"
+    },
+    {
+      "text": "Quels",
+      "start": 82676,
+      "end": 82681,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 82704,
+      "end": 82711,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 82737,
+      "end": 82744,
+      "label": "PER"
+    },
+    {
+      "text": "Grassol",
+      "start": 82888,
+      "end": 82895,
+      "label": "LOC"
+    },
+    {
+      "text": "Guadet",
+      "start": 82902,
+      "end": 82908,
+      "label": "LOC"
+    },
+    {
+      "text": "Belle Rose",
+      "start": 82982,
+      "end": 82992,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 83122,
+      "end": 83130,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 83212,
+      "end": 83217,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Pépinière",
+      "start": 83219,
+      "end": 83238,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 83389,
+      "end": 83394,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Lanstrac",
+      "start": 83503,
+      "end": 83522,
+      "label": "LOC"
+    },
+    {
+      "text": "Nos droits, dit Solonet",
+      "start": 83679,
+      "end": 83702,
+      "label": "MISC"
+    },
+    {
+      "text": "Spécifiez",
+      "start": 83706,
+      "end": 83715,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathias",
+      "start": 83745,
+      "end": 83752,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 83828,
+      "end": 83839,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 84081,
+      "end": 84089,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 84093,
+      "end": 84112,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 84136,
+      "end": 84147,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 84417,
+      "end": 84424,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 84500,
+      "end": 84509,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 85064,
+      "end": 85071,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85156,
+      "end": 85161,
+      "label": "LOC"
+    },
+    {
+      "text": "Quels",
+      "start": 85270,
+      "end": 85275,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 85882,
+      "end": 85889,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Natalie",
+      "start": 86111,
+      "end": 86131,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 86319,
+      "end": 86326,
+      "label": "PER"
+    },
+    {
+      "text": "Cassandre",
+      "start": 86485,
+      "end": 86494,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 86561,
+      "end": 86568,
+      "label": "PER"
+    },
+    {
+      "text": "Sévigné",
+      "start": 86894,
+      "end": 86901,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 86920,
+      "end": 86927,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 87122,
+      "end": 87126,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 87386,
+      "end": 87393,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 87523,
+      "end": 87541,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 87781,
+      "end": 87785,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 88101,
+      "end": 88105,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 88227,
+      "end": 88231,
+      "label": "MISC"
+    },
+    {
+      "text": "Voulez",
+      "start": 88315,
+      "end": 88321,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 88772,
+      "end": 88776,
+      "label": "PER"
+    },
+    {
+      "text": "Achille",
+      "start": 88821,
+      "end": 88828,
+      "label": "PER"
+    },
+    {
+      "text": "Nestor",
+      "start": 88832,
+      "end": 88838,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 88844,
+      "end": 88851,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 89199,
+      "end": 89206,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 89378,
+      "end": 89385,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère enfant",
+      "start": 89438,
+      "end": 89453,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimez",
+      "start": 89627,
+      "end": 89632,
+      "label": "MISC"
+    },
+    {
+      "text": "Lanstrac",
+      "start": 89638,
+      "end": 89646,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 89653,
+      "end": 89657,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 89660,
+      "end": 89667,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 89788,
+      "end": 89792,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 89867,
+      "end": 89873,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 90049,
+      "end": 90060,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 90084,
+      "end": 90092,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90348,
+      "end": 90353,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 90621,
+      "end": 90627,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 90807,
+      "end": 90811,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 90872,
+      "end": 90877,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 90886,
+      "end": 90893,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'y a t il, mon ami ?",
+      "start": 90963,
+      "end": 90985,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 90990,
+      "end": 90994,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 91049,
+      "end": 91057,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 91232,
+      "end": 91236,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 91242,
+      "end": 91249,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 91316,
+      "end": 91334,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 91489,
+      "end": 91496,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 91699,
+      "end": 91706,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 92082,
+      "end": 92086,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 92211,
+      "end": 92218,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 92402,
+      "end": 92406,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 92735,
+      "end": 92739,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 92768,
+      "end": 92775,
+      "label": "LOC"
+    },
+    {
+      "text": "Natalie",
+      "start": 92948,
+      "end": 92955,
+      "label": "PER"
+    },
+    {
+      "text": "Sac",
+      "start": 92966,
+      "end": 92969,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 93075,
+      "end": 93079,
+      "label": "PER"
+    },
+    {
+      "text": "Natalie",
+      "start": 93189,
+      "end": 93196,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangélista",
+      "start": 93395,
+      "end": 93406,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 93505,
+      "end": 93511,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 93522,
+      "end": 93529,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 93554,
+      "end": 93558,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 93644,
+      "end": 93651,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 93749,
+      "end": 93753,
+      "label": "PER"
+    },
+    {
+      "text": "Accablé",
+      "start": 93755,
+      "end": 93762,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 93832,
+      "end": 93836,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 93976,
+      "end": 93982,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Évangélista",
+      "start": 94038,
+      "end": 94056,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 94318,
+      "end": 94324,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 94504,
+      "end": 94510,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 94656,
+      "end": 94674,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 94727,
+      "end": 94731,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 94734,
+      "end": 94738,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 94942,
+      "end": 94948,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 95144,
+      "end": 95152,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Évangélista",
+      "start": 95232,
+      "end": 95256,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 95288,
+      "end": 95295,
+      "label": "PER"
+    },
+    {
+      "text": "Mathias",
+      "start": 95615,
+      "end": 95622,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Manerville",
+      "start": 95688,
+      "end": 95707,
+      "label": "PER"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 95880,
+      "end": 95898,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 95918,
+      "end": 95924,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 96069,
+      "end": 96074,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 96099,
+      "end": 96106,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathias",
+      "start": 96179,
+      "end": 96186,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 96188,
+      "end": 96194,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 96309,
+      "end": 96313,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 96318,
+      "end": 96322,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 96363,
+      "end": 96381,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 96458,
+      "end": 96469,
+      "label": "PER"
+    },
+    {
+      "text": "Vouloir",
+      "start": 96819,
+      "end": 96826,
+      "label": "LOC"
+    },
+    {
+      "text": "Solonet",
+      "start": 96886,
+      "end": 96893,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 96897,
+      "end": 96899,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathias",
+      "start": 96919,
+      "end": 96926,
+      "label": "PER"
+    },
+    {
+      "text": "Évangélista",
+      "start": 97101,
+      "end": 97112,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 97283,
+      "end": 97290,
+      "label": "PER"
+    },
+    {
+      "text": "madame vive",
+      "start": 97956,
+      "end": 97967,
+      "label": "PER"
+    },
+    {
+      "text": "Gironde",
+      "start": 98089,
+      "end": 98096,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 98256,
+      "end": 98262,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 98348,
+      "end": 98354,
+      "label": "PER"
+    },
+    {
+      "text": "Solonet",
+      "start": 98737,
+      "end": 98744,
+      "label": "PER"
+    },
+    {
+      "text": "Allons !   ",
+      "start": 98802,
+      "end": 98813,
+      "label": "MISC"
+    },
+    {
+      "text": "calme madame Évangélista",
+      "start": 98868,
+      "end": 98892,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 99096,
+      "end": 99102,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 99211,
+      "end": 99215,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 99220,
+      "end": 99224,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Évangélista",
+      "start": 99240,
+      "end": 99258,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 99347,
+      "end": 99353,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 99363,
+      "end": 99372,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 99463,
+      "end": 99467,
+      "label": "MISC"
+    },
+    {
+      "text": "Natalie",
+      "start": 99872,
+      "end": 99879,
+      "label": "PER"
+    }
+  ]
+}

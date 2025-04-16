@@ -1,0 +1,2410 @@
+{
+  "entities": [
+    {
+      "text": "VALLÉE",
+      "start": 15,
+      "end": 21,
+      "label": "LOC"
+    },
+    {
+      "text": "MEMBRE",
+      "start": 58,
+      "end": 64,
+      "label": "MISC"
+    },
+    {
+      "text": "ACADÉMIE ROYALE DE",
+      "start": 70,
+      "end": 88,
+      "label": "ORG"
+    },
+    {
+      "text": "MÉDECINE",
+      "start": 89,
+      "end": 97,
+      "label": "ORG"
+    },
+    {
+      "text": "Cher",
+      "start": 99,
+      "end": 103,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 372,
+      "end": 378,
+      "label": "MISC"
+    },
+    {
+      "text": "COMTESSE",
+      "start": 398,
+      "end": 406,
+      "label": "MISC"
+    },
+    {
+      "text": "MANERVILLE",
+      "start": 418,
+      "end": 428,
+      "label": "ORG"
+    },
+    {
+      "text": "Natalie",
+      "start": 882,
+      "end": 889,
+      "label": "MISC"
+    },
+    {
+      "text": "Natalie",
+      "start": 1323,
+      "end": 1330,
+      "label": "PER"
+    },
+    {
+      "text": "FÉLIX",
+      "start": 2119,
+      "end": 2124,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 6453,
+      "end": 6461,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 7117,
+      "end": 7121,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 7122,
+      "end": 7128,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 7151,
+      "end": 7159,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 8413,
+      "end": 8420,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 9006,
+      "end": 9011,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 9261,
+      "end": 9266,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9664,
+      "end": 9669,
+      "label": "LOC"
+    },
+    {
+      "text": "Olivet",
+      "start": 10313,
+      "end": 10319,
+      "label": "LOC"
+    },
+    {
+      "text": "redoutable",
+      "start": 11120,
+      "end": 11130,
+      "label": "MISC"
+    },
+    {
+      "text": "Pont le Voy",
+      "start": 12083,
+      "end": 12094,
+      "label": "LOC"
+    },
+    {
+      "text": "Oratoriens",
+      "start": 12119,
+      "end": 12129,
+      "label": "LOC"
+    },
+    {
+      "text": "Pas latins",
+      "start": 12205,
+      "end": 12215,
+      "label": "MISC"
+    },
+    {
+      "text": "Outre mer",
+      "start": 13958,
+      "end": 13967,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien",
+      "start": 14361,
+      "end": 14368,
+      "label": "LOC"
+    },
+    {
+      "text": "Beati",
+      "start": 15542,
+      "end": 15547,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauveur",
+      "start": 15564,
+      "end": 15571,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 15793,
+      "end": 15797,
+      "label": "MISC"
+    },
+    {
+      "text": "Martyrologe",
+      "start": 15873,
+      "end": 15884,
+      "label": "LOC"
+    },
+    {
+      "text": "Sanctuaire",
+      "start": 15971,
+      "end": 15981,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont le Voy",
+      "start": 16737,
+      "end": 16748,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16766,
+      "end": 16771,
+      "label": "LOC"
+    },
+    {
+      "text": "Institution",
+      "start": 16781,
+      "end": 16792,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 16803,
+      "end": 16809,
+      "label": "LOC"
+    },
+    {
+      "text": "Examen",
+      "start": 16831,
+      "end": 16837,
+      "label": "MISC"
+    },
+    {
+      "text": "rhétoricien de Pont le Voy",
+      "start": 16862,
+      "end": 16888,
+      "label": "PER"
+    },
+    {
+      "text": "Lepître.",
+      "start": 17068,
+      "end": 17076,
+      "label": "MISC"
+    },
+    {
+      "text": "Attaché",
+      "start": 17373,
+      "end": 17380,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 17399,
+      "end": 17407,
+      "label": "MISC"
+    },
+    {
+      "text": "Lepître",
+      "start": 17418,
+      "end": 17425,
+      "label": "PER"
+    },
+    {
+      "text": "Temple la reine",
+      "start": 17524,
+      "end": 17539,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 17540,
+      "end": 17556,
+      "label": "PER"
+    },
+    {
+      "text": "Lepître",
+      "start": 17605,
+      "end": 17612,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Joyeuse",
+      "start": 17806,
+      "end": 17819,
+      "label": "LOC"
+    },
+    {
+      "text": "lycée Charlemagne",
+      "start": 17993,
+      "end": 18010,
+      "label": "LOC"
+    },
+    {
+      "text": "Doisy",
+      "start": 18079,
+      "end": 18084,
+      "label": "LOC"
+    },
+    {
+      "text": "Doisy",
+      "start": 18140,
+      "end": 18145,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 18495,
+      "end": 18503,
+      "label": "PER"
+    },
+    {
+      "text": "Doisy",
+      "start": 18753,
+      "end": 18758,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 18952,
+      "end": 18954,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 19441,
+      "end": 19446,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 19515,
+      "end": 19520,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris ensemble",
+      "start": 19612,
+      "end": 19626,
+      "label": "ORG"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 19665,
+      "end": 19677,
+      "label": "LOC"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 19705,
+      "end": 19721,
+      "label": "LOC"
+    },
+    {
+      "text": "Doisy",
+      "start": 19951,
+      "end": 19956,
+      "label": "LOC"
+    },
+    {
+      "text": "Doisy",
+      "start": 20069,
+      "end": 20074,
+      "label": "LOC"
+    },
+    {
+      "text": "Étais",
+      "start": 20366,
+      "end": 20371,
+      "label": "LOC"
+    },
+    {
+      "text": "Étais",
+      "start": 20421,
+      "end": 20426,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 20487,
+      "end": 20494,
+      "label": "PER"
+    },
+    {
+      "text": "Ignorais",
+      "start": 20680,
+      "end": 20688,
+      "label": "LOC"
+    },
+    {
+      "text": "Marat",
+      "start": 20861,
+      "end": 20866,
+      "label": "PER"
+    },
+    {
+      "text": "Frères Provençaux",
+      "start": 21044,
+      "end": 21061,
+      "label": "PER"
+    },
+    {
+      "text": "Talma",
+      "start": 21083,
+      "end": 21088,
+      "label": "PER"
+    },
+    {
+      "text": "Britannicus",
+      "start": 21094,
+      "end": 21105,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 21349,
+      "end": 21354,
+      "label": "PER"
+    },
+    {
+      "text": "Doisy",
+      "start": 21681,
+      "end": 21686,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21753,
+      "end": 21758,
+      "label": "LOC"
+    },
+    {
+      "text": "École de Droit",
+      "start": 21865,
+      "end": 21879,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 22094,
+      "end": 22099,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22330,
+      "end": 22335,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 22446,
+      "end": 22458,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Palais Royal",
+      "start": 22461,
+      "end": 22476,
+      "label": "MISC"
+    },
+    {
+      "text": "Eldorado",
+      "start": 22486,
+      "end": 22494,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 22645,
+      "end": 22657,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Louis",
+      "start": 22864,
+      "end": 22879,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 22944,
+      "end": 22950,
+      "label": "PER"
+    },
+    {
+      "text": "Lepître",
+      "start": 22967,
+      "end": 22974,
+      "label": "PER"
+    },
+    {
+      "text": "Singulières",
+      "start": 23053,
+      "end": 23064,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 23082,
+      "end": 23103,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 23305,
+      "end": 23313,
+      "label": "PER"
+    },
+    {
+      "text": "Galeries de bois",
+      "start": 23779,
+      "end": 23795,
+      "label": "ORG"
+    },
+    {
+      "text": "Jean",
+      "start": 23871,
+      "end": 23875,
+      "label": "PER"
+    },
+    {
+      "text": "Lepître",
+      "start": 23927,
+      "end": 23934,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca Capello",
+      "start": 24151,
+      "end": 24165,
+      "label": "PER"
+    },
+    {
+      "text": "suisse",
+      "start": 24202,
+      "end": 24208,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 24395,
+      "end": 24407,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 24681,
+      "end": 24692,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 24888,
+      "end": 24896,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 24965,
+      "end": 24973,
+      "label": "MISC"
+    },
+    {
+      "text": "Tours",
+      "start": 25060,
+      "end": 25065,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 25080,
+      "end": 25087,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25283,
+      "end": 25288,
+      "label": "LOC"
+    },
+    {
+      "text": "Affecté",
+      "start": 25931,
+      "end": 25938,
+      "label": "MISC"
+    },
+    {
+      "text": "Tours",
+      "start": 26148,
+      "end": 26153,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27233,
+      "end": 27238,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 27241,
+      "end": 27246,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 27477,
+      "end": 27484,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 27945,
+      "end": 27950,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 27995,
+      "end": 28000,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 28521,
+      "end": 28526,
+      "label": "LOC"
+    },
+    {
+      "text": "Listomère",
+      "start": 28905,
+      "end": 28914,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 30048,
+      "end": 30053,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Listomère",
+      "start": 30355,
+      "end": 30375,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 30562,
+      "end": 30570,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 30586,
+      "end": 30597,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 30600,
+      "end": 30605,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 30610,
+      "end": 30625,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 30737,
+      "end": 30743,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 30758,
+      "end": 30766,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 30771,
+      "end": 30779,
+      "label": "LOC"
+    },
+    {
+      "text": "Arrivais",
+      "start": 31175,
+      "end": 31183,
+      "label": "LOC"
+    },
+    {
+      "text": "Congo",
+      "start": 31190,
+      "end": 31195,
+      "label": "LOC"
+    },
+    {
+      "text": "Surpris",
+      "start": 31781,
+      "end": 31788,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 31843,
+      "end": 31848,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 31890,
+      "end": 31897,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 32498,
+      "end": 32506,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Papion",
+      "start": 32705,
+      "end": 32718,
+      "label": "MISC"
+    },
+    {
+      "text": "Vive le duc d'Angoulême",
+      "start": 33222,
+      "end": 33245,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 33273,
+      "end": 33281,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 33425,
+      "end": 33433,
+      "label": "ORG"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 33594,
+      "end": 33609,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 33701,
+      "end": 33711,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33896,
+      "end": 33901,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 33932,
+      "end": 33942,
+      "label": "PER"
+    },
+    {
+      "text": "île d'Elbe",
+      "start": 33961,
+      "end": 33971,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 34131,
+      "end": 34139,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaulois",
+      "start": 34197,
+      "end": 34204,
+      "label": "LOC"
+    },
+    {
+      "text": "Royauté",
+      "start": 34345,
+      "end": 34352,
+      "label": "LOC"
+    },
+    {
+      "text": "Trompée",
+      "start": 34892,
+      "end": 34899,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes",
+      "start": 35413,
+      "end": 35416,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36720,
+      "end": 36728,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 36733,
+      "end": 36737,
+      "label": "MISC"
+    },
+    {
+      "text": "Savoyard",
+      "start": 37430,
+      "end": 37438,
+      "label": "ORG"
+    },
+    {
+      "text": "Touraine",
+      "start": 38562,
+      "end": 38570,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 38787,
+      "end": 38796,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 39320,
+      "end": 39327,
+      "label": "PER"
+    },
+    {
+      "text": "Frapesle",
+      "start": 39371,
+      "end": 39379,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 39401,
+      "end": 39406,
+      "label": "LOC"
+    },
+    {
+      "text": "Montbazon",
+      "start": 39413,
+      "end": 39422,
+      "label": "PER"
+    },
+    {
+      "text": "Azay le Rideau",
+      "start": 39426,
+      "end": 39440,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 40166,
+      "end": 40174,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 40285,
+      "end": 40290,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Éloy",
+      "start": 40307,
+      "end": 40317,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Sauveur",
+      "start": 40342,
+      "end": 40355,
+      "label": "LOC"
+    },
+    {
+      "text": "Poncher",
+      "start": 40372,
+      "end": 40379,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinon",
+      "start": 40436,
+      "end": 40442,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont le Voy",
+      "start": 41013,
+      "end": 41024,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41052,
+      "end": 41057,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 41228,
+      "end": 41233,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Frapesle",
+      "start": 41449,
+      "end": 41468,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlemagne",
+      "start": 41551,
+      "end": 41562,
+      "label": "PER"
+    },
+    {
+      "text": "du Cher",
+      "start": 41632,
+      "end": 41639,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 41654,
+      "end": 41659,
+      "label": "LOC"
+    },
+    {
+      "text": "Champy",
+      "start": 41711,
+      "end": 41717,
+      "label": "LOC"
+    },
+    {
+      "text": "Saché",
+      "start": 41845,
+      "end": 41850,
+      "label": "PER"
+    },
+    {
+      "text": "Frapesle",
+      "start": 41882,
+      "end": 41890,
+      "label": "PER"
+    },
+    {
+      "text": "Chinon",
+      "start": 41932,
+      "end": 41938,
+      "label": "LOC"
+    },
+    {
+      "text": "Ballan",
+      "start": 41956,
+      "end": 41962,
+      "label": "PER"
+    },
+    {
+      "text": "pays d'Artanne",
+      "start": 42033,
+      "end": 42047,
+      "label": "LOC"
+    },
+    {
+      "text": "Montbazon",
+      "start": 42090,
+      "end": 42099,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 42112,
+      "end": 42117,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 42241,
+      "end": 42246,
+      "label": "LOC"
+    },
+    {
+      "text": "LE LYS DE CETTE VALLÉE",
+      "start": 43213,
+      "end": 43235,
+      "label": "MISC"
+    },
+    {
+      "text": "soleil",
+      "start": 43466,
+      "end": 43472,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 44266,
+      "end": 44271,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 44487,
+      "end": 44495,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 44675,
+      "end": 44683,
+      "label": "LOC"
+    },
+    {
+      "text": "Figurez",
+      "start": 45064,
+      "end": 45071,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 46088,
+      "end": 46093,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont de Ruan",
+      "start": 46547,
+      "end": 46559,
+      "label": "LOC"
+    },
+    {
+      "text": "Encadrez",
+      "start": 46716,
+      "end": 46724,
+      "label": "PER"
+    },
+    {
+      "text": "Saché",
+      "start": 46997,
+      "end": 47002,
+      "label": "PER"
+    },
+    {
+      "text": "château de Frapesle",
+      "start": 47174,
+      "end": 47193,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 47328,
+      "end": 47333,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 47559,
+      "end": 47564,
+      "label": "LOC"
+    },
+    {
+      "text": "Azay",
+      "start": 47739,
+      "end": 47743,
+      "label": "PER"
+    },
+    {
+      "text": "Indre",
+      "start": 47784,
+      "end": 47789,
+      "label": "LOC"
+    },
+    {
+      "text": "Saché",
+      "start": 47893,
+      "end": 47898,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé !",
+      "start": 48315,
+      "end": 48319,
+      "label": "MISC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 48603,
+      "end": 48615,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 48669,
+      "end": 48677,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 48723,
+      "end": 48731,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 48757,
+      "end": 48765,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 48913,
+      "end": 48921,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 49059,
+      "end": 49063,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi notre Sire",
+      "start": 49074,
+      "end": 49088,
+      "label": "PER"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 49215,
+      "end": 49225,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt Givry",
+      "start": 49242,
+      "end": 49258,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 49280,
+      "end": 49298,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 49478,
+      "end": 49490,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 49552,
+      "end": 49560,
+      "label": "MISC"
+    },
+    {
+      "text": "Frapesle",
+      "start": 49920,
+      "end": 49928,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Mortsauf",
+      "start": 49954,
+      "end": 49972,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 50058,
+      "end": 50063,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 50163,
+      "end": 50178,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 50227,
+      "end": 50235,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 50339,
+      "end": 50347,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 50487,
+      "end": 50499,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 51127,
+      "end": 51132,
+      "label": "LOC"
+    },
+    {
+      "text": "Japon",
+      "start": 51254,
+      "end": 51259,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 51875,
+      "end": 51888,
+      "label": "MISC"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 52100,
+      "end": 52115,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 52262,
+      "end": 52267,
+      "label": "LOC"
+    },
+    {
+      "text": "La Révolution",
+      "start": 52418,
+      "end": 52431,
+      "label": "MISC"
+    },
+    {
+      "text": "Senart",
+      "start": 52533,
+      "end": 52539,
+      "label": "LOC"
+    },
+    {
+      "text": "Comité de Salut public",
+      "start": 52555,
+      "end": 52577,
+      "label": "ORG"
+    },
+    {
+      "text": "Saché",
+      "start": 52595,
+      "end": 52600,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 52800,
+      "end": 52808,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 53189,
+      "end": 53194,
+      "label": "LOC"
+    },
+    {
+      "text": "les verts",
+      "start": 53252,
+      "end": 53261,
+      "label": "ORG"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 53335,
+      "end": 53347,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 53813,
+      "end": 53819,
+      "label": "MISC"
+    },
+    {
+      "text": "Apocalypse",
+      "start": 54162,
+      "end": 54172,
+      "label": "MISC"
+    },
+    {
+      "text": "Azay",
+      "start": 54613,
+      "end": 54617,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 54666,
+      "end": 54684,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 54760,
+      "end": 54778,
+      "label": "PER"
+    },
+    {
+      "text": "Entrez",
+      "start": 54952,
+      "end": 54958,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 55010,
+      "end": 55028,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 55718,
+      "end": 55725,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 56159,
+      "end": 56166,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 56239,
+      "end": 56244,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56316,
+      "end": 56321,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 56336,
+      "end": 56344,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 56354,
+      "end": 56362,
+      "label": "LOC"
+    },
+    {
+      "text": "Frapesle",
+      "start": 56458,
+      "end": 56466,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 56619,
+      "end": 56624,
+      "label": "LOC"
+    },
+    {
+      "text": "Frapesle",
+      "start": 56627,
+      "end": 56635,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 56708,
+      "end": 56720,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 56783,
+      "end": 56790,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 56859,
+      "end": 56877,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 57848,
+      "end": 57860,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 58112,
+      "end": 58119,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 58552,
+      "end": 58570,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 58657,
+      "end": 58664,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 58874,
+      "end": 58881,
+      "label": "PER"
+    },
+    {
+      "text": "Quélus",
+      "start": 59017,
+      "end": 59023,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 59118,
+      "end": 59125,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Mortsauf",
+      "start": 59503,
+      "end": 59521,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 59955,
+      "end": 59962,
+      "label": "PER"
+    },
+    {
+      "text": "la Joconde",
+      "start": 62886,
+      "end": 62896,
+      "label": "PER"
+    },
+    {
+      "text": "Phidias",
+      "start": 63500,
+      "end": 63507,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 64619,
+      "end": 64627,
+      "label": "LOC"
+    },
+    {
+      "text": "Rappelez",
+      "start": 65935,
+      "end": 65943,
+      "label": "PER"
+    },
+    {
+      "text": "villa Diodati",
+      "start": 66036,
+      "end": 66049,
+      "label": "LOC"
+    },
+    {
+      "text": "Habituellement",
+      "start": 66622,
+      "end": 66636,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 67584,
+      "end": 67592,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 68612,
+      "end": 68624,
+      "label": "LOC"
+    },
+    {
+      "text": "Cap",
+      "start": 68953,
+      "end": 68956,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 69499,
+      "end": 69511,
+      "label": "PER"
+    },
+    {
+      "text": "Pont de Ruan",
+      "start": 70006,
+      "end": 70018,
+      "label": "LOC"
+    },
+    {
+      "text": "Azay",
+      "start": 70039,
+      "end": 70043,
+      "label": "PER"
+    },
+    {
+      "text": "tours de Frapesle",
+      "start": 70106,
+      "end": 70123,
+      "label": "MISC"
+    },
+    {
+      "text": "Saché",
+      "start": 70171,
+      "end": 70176,
+      "label": "PER"
+    },
+    {
+      "text": "Indre",
+      "start": 70806,
+      "end": 70811,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 71150,
+      "end": 71155,
+      "label": "LOC"
+    },
+    {
+      "text": "Morgan",
+      "start": 71402,
+      "end": 71408,
+      "label": "MISC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 72436,
+      "end": 72444,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 72559,
+      "end": 72566,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 72747,
+      "end": 72751,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 72758,
+      "end": 72767,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 72813,
+      "end": 72820,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 72988,
+      "end": 72995,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 73143,
+      "end": 73150,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 73164,
+      "end": 73173,
+      "label": "PER"
+    },
+    {
+      "text": "Mon introducteur me jeta l'un de ces regards",
+      "start": 73295,
+      "end": 73339,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 73618,
+      "end": 73627,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 73923,
+      "end": 73932,
+      "label": "PER"
+    },
+    {
+      "text": "Bohémienne",
+      "start": 74396,
+      "end": 74406,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 74535,
+      "end": 74542,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 74776,
+      "end": 74783,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 75092,
+      "end": 75096,
+      "label": "MISC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 75193,
+      "end": 75201,
+      "label": "LOC"
+    },
+    {
+      "text": "Restez",
+      "start": 75581,
+      "end": 75587,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 76199,
+      "end": 76207,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 76708,
+      "end": 76716,
+      "label": "LOC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 77030,
+      "end": 77039,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 77145,
+      "end": 77152,
+      "label": "PER"
+    },
+    {
+      "text": "Agé",
+      "start": 77509,
+      "end": 77512,
+      "label": "PER"
+    },
+    {
+      "text": "Maigre",
+      "start": 78756,
+      "end": 78762,
+      "label": "LOC"
+    },
+    {
+      "text": "campagnard",
+      "start": 79030,
+      "end": 79040,
+      "label": "MISC"
+    },
+    {
+      "text": "Ses mains brunies et nerveuses",
+      "start": 79135,
+      "end": 79165,
+      "label": "MISC"
+    },
+    {
+      "text": "QUOTIDIENNE",
+      "start": 79636,
+      "end": 79647,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 79855,
+      "end": 79861,
+      "label": "LOC"
+    },
+    {
+      "text": "Amer",
+      "start": 80526,
+      "end": 80530,
+      "label": "PER"
+    },
+    {
+      "text": "balance",
+      "start": 80677,
+      "end": 80684,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 81435,
+      "end": 81442,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 83002,
+      "end": 83010,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 83037,
+      "end": 83041,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 83211,
+      "end": 83219,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 83232,
+      "end": 83237,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 83258,
+      "end": 83265,
+      "label": "PER"
+    },
+    {
+      "text": "Frapesle",
+      "start": 83304,
+      "end": 83312,
+      "label": "MISC"
+    },
+    {
+      "text": "Chessel",
+      "start": 83687,
+      "end": 83694,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 83715,
+      "end": 83733,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 83920,
+      "end": 83928,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulle",
+      "start": 84183,
+      "end": 84189,
+      "label": "LOC"
+    },
+    {
+      "text": "manche",
+      "start": 84489,
+      "end": 84495,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 84553,
+      "end": 84561,
+      "label": "LOC"
+    },
+    {
+      "text": "Réveillon et ses bordures de fleurs superbes",
+      "start": 84695,
+      "end": 84739,
+      "label": "MISC"
+    },
+    {
+      "text": "maussaderie",
+      "start": 85658,
+      "end": 85669,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre",
+      "start": 86270,
+      "end": 86275,
+      "label": "LOC"
+    },
+    {
+      "text": "Frapesle",
+      "start": 86941,
+      "end": 86949,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 86963,
+      "end": 86975,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 87012,
+      "end": 87020,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 87113,
+      "end": 87121,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 87154,
+      "end": 87158,
+      "label": "MISC"
+    },
+    {
+      "text": "Chessel",
+      "start": 87184,
+      "end": 87191,
+      "label": "PER"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 87380,
+      "end": 87388,
+      "label": "LOC"
+    },
+    {
+      "text": "Diantre",
+      "start": 87391,
+      "end": 87398,
+      "label": "ORG"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 87557,
+      "end": 87569,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 87586,
+      "end": 87593,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 88042,
+      "end": 88049,
+      "label": "PER"
+    },
+    {
+      "text": "Durand",
+      "start": 88162,
+      "end": 88168,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 88258,
+      "end": 88271,
+      "label": "MISC"
+    },
+    {
+      "text": "Chessel",
+      "start": 88342,
+      "end": 88349,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 88398,
+      "end": 88406,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 88502,
+      "end": 88509,
+      "label": "PER"
+    },
+    {
+      "text": "Durand",
+      "start": 88526,
+      "end": 88532,
+      "label": "LOC"
+    },
+    {
+      "text": "Durand",
+      "start": 88603,
+      "end": 88609,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 88613,
+      "end": 88620,
+      "label": "LOC"
+    },
+    {
+      "text": "D. de Chessel",
+      "start": 88627,
+      "end": 88640,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 88670,
+      "end": 88677,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 88687,
+      "end": 88699,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 88776,
+      "end": 88787,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 88949,
+      "end": 88956,
+      "label": "PER"
+    },
+    {
+      "text": "Durant",
+      "start": 88987,
+      "end": 88993,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 89039,
+      "end": 89047,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 89591,
+      "end": 89598,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 89978,
+      "end": 89986,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 90411,
+      "end": 90418,
+      "label": "PER"
+    },
+    {
+      "text": "de Frapesle",
+      "start": 90990,
+      "end": 91001,
+      "label": "PER"
+    },
+    {
+      "text": "Chessel",
+      "start": 91249,
+      "end": 91256,
+      "label": "PER"
+    },
+    {
+      "text": "terre de Frapesle",
+      "start": 91585,
+      "end": 91602,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 91678,
+      "end": 91686,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 91727,
+      "end": 91735,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 91846,
+      "end": 91858,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 91869,
+      "end": 91879,
+      "label": "LOC"
+    },
+    {
+      "text": "Chessel",
+      "start": 92193,
+      "end": 92200,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 92375,
+      "end": 92387,
+      "label": "LOC"
+    },
+    {
+      "text": "Frapesle",
+      "start": 92391,
+      "end": 92399,
+      "label": "PER"
+    },
+    {
+      "text": "Indre",
+      "start": 92429,
+      "end": 92434,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 92594,
+      "end": 92602,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 92882,
+      "end": 92890,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 93051,
+      "end": 93057,
+      "label": "LOC"
+    },
+    {
+      "text": "Condé",
+      "start": 93165,
+      "end": 93170,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 94000,
+      "end": 94008,
+      "label": "LOC"
+    },
+    {
+      "text": "Hongrie",
+      "start": 94050,
+      "end": 94057,
+      "label": "LOC"
+    },
+    {
+      "text": "Esterhazy",
+      "start": 94119,
+      "end": 94128,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 94271,
+      "end": 94280,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 94421,
+      "end": 94429,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 95097,
+      "end": 95106,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 95123,
+      "end": 95131,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 95175,
+      "end": 95179,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 95222,
+      "end": 95232,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 95273,
+      "end": 95282,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 95285,
+      "end": 95291,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 95307,
+      "end": 95312,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 95313,
+      "end": 95322,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère !",
+      "start": 95363,
+      "end": 95372,
+      "label": "PER"
+    },
+    {
+      "text": "Riche",
+      "start": 95396,
+      "end": 95401,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 95490,
+      "end": 95494,
+      "label": "LOC"
+    },
+    {
+      "text": "Condé",
+      "start": 95886,
+      "end": 95891,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 96004,
+      "end": 96010,
+      "label": "LOC"
+    },
+    {
+      "text": "Maine",
+      "start": 96068,
+      "end": 96073,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 96327,
+      "end": 96337,
+      "label": "LOC"
+    },
+    {
+      "text": "Givry",
+      "start": 96352,
+      "end": 96357,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 96420,
+      "end": 96428,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Lenoncourt",
+      "start": 96433,
+      "end": 96447,
+      "label": "PER"
+    },
+    {
+      "text": "Givry",
+      "start": 96480,
+      "end": 96485,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 96557,
+      "end": 96567,
+      "label": "PER"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 96737,
+      "end": 96747,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 96808,
+      "end": 96816,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 96964,
+      "end": 96974,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Verneuil",
+      "start": 97054,
+      "end": 97074,
+      "label": "PER"
+    },
+    {
+      "text": "prince de",
+      "start": 97084,
+      "end": 97093,
+      "label": "PER"
+    },
+    {
+      "text": "Amie",
+      "start": 97152,
+      "end": 97156,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Bourbon",
+      "start": 97170,
+      "end": 97189,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Verneuil",
+      "start": 97191,
+      "end": 97209,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 97272,
+      "end": 97284,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 97292,
+      "end": 97300,
+      "label": "LOC"
+    },
+    {
+      "text": "Philosophe",
+      "start": 97317,
+      "end": 97327,
+      "label": "PER"
+    },
+    {
+      "text": "Église romaine",
+      "start": 97952,
+      "end": 97966,
+      "label": "ORG"
+    },
+    {
+      "text": "Église primitive",
+      "start": 98007,
+      "end": 98023,
+      "label": "ORG"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 98025,
+      "end": 98037,
+      "label": "PER"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 98041,
+      "end": 98051,
+      "label": "LOC"
+    },
+    {
+      "text": "Église apostolique",
+      "start": 98081,
+      "end": 98099,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Verneuil",
+      "start": 98210,
+      "end": 98230,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 98453,
+      "end": 98465,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 98542,
+      "end": 98554,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martin surveilla de Clochegourde",
+      "start": 98615,
+      "end": 98653,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 98685,
+      "end": 98690,
+      "label": "LOC"
+    },
+    {
+      "text": "Letourmy",
+      "start": 98696,
+      "end": 98704,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Verneuil",
+      "start": 98802,
+      "end": 98820,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 98827,
+      "end": 98839,
+      "label": "LOC"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 99220,
+      "end": 99232,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 99321,
+      "end": 99329,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortsauf",
+      "start": 99472,
+      "end": 99480,
+      "label": "LOC"
+    },
+    {
+      "text": "Forcé de songer",
+      "start": 99635,
+      "end": 99650,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 99786,
+      "end": 99793,
+      "label": "PER"
+    }
+  ]
+}

@@ -1,0 +1,2902 @@
+{
+  "entities": [
+    {
+      "text": "Louis Lambert",
+      "start": 72,
+      "end": 85,
+      "label": "PER"
+    },
+    {
+      "text": "Montoire",
+      "start": 105,
+      "end": 113,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendômois",
+      "start": 131,
+      "end": 140,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 385,
+      "end": 390,
+      "label": "PER"
+    },
+    {
+      "text": "Ancien",
+      "start": 456,
+      "end": 462,
+      "label": "MISC"
+    },
+    {
+      "text": "Nouveau Testament",
+      "start": 469,
+      "end": 486,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 521,
+      "end": 526,
+      "label": "PER"
+    },
+    {
+      "text": "Écritures",
+      "start": 700,
+      "end": 709,
+      "label": "MISC"
+    },
+    {
+      "text": "Esprit Saint",
+      "start": 738,
+      "end": 750,
+      "label": "MISC"
+    },
+    {
+      "text": "sympathisa t",
+      "start": 920,
+      "end": 932,
+      "label": "PER"
+    },
+    {
+      "text": "la Bible",
+      "start": 1119,
+      "end": 1127,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 1130,
+      "end": 1135,
+      "label": "PER"
+    },
+    {
+      "text": "Montoire",
+      "start": 1152,
+      "end": 1160,
+      "label": "PER"
+    },
+    {
+      "text": "Mer",
+      "start": 1831,
+      "end": 1834,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 1869,
+      "end": 1874,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 1884,
+      "end": 1889,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 1942,
+      "end": 1947,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 2167,
+      "end": 2173,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 2266,
+      "end": 2271,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 2332,
+      "end": 2339,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 2381,
+      "end": 2396,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 2398,
+      "end": 2405,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 2476,
+      "end": 2486,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 3027,
+      "end": 3040,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 3556,
+      "end": 3561,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 4043,
+      "end": 4050,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 4342,
+      "end": 4347,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 4550,
+      "end": 4556,
+      "label": "MISC"
+    },
+    {
+      "text": "brin",
+      "start": 4919,
+      "end": 4923,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 4945,
+      "end": 4950,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 4965,
+      "end": 4969,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 6356,
+      "end": 6362,
+      "label": "MISC"
+    },
+    {
+      "text": "Bible hébraïque",
+      "start": 6715,
+      "end": 6730,
+      "label": "MISC"
+    },
+    {
+      "text": "Grèce",
+      "start": 6756,
+      "end": 6761,
+      "label": "LOC"
+    },
+    {
+      "text": "Esprit",
+      "start": 6856,
+      "end": 6862,
+      "label": "ORG"
+    },
+    {
+      "text": "VOL",
+      "start": 7340,
+      "end": 7343,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 8093,
+      "end": 8098,
+      "label": "PER"
+    },
+    {
+      "text": "Mer",
+      "start": 8165,
+      "end": 8168,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 8488,
+      "end": 8501,
+      "label": "PER"
+    },
+    {
+      "text": "Soudain",
+      "start": 10266,
+      "end": 10273,
+      "label": "PER"
+    },
+    {
+      "text": "bataille d'Austerlitz",
+      "start": 10947,
+      "end": 10968,
+      "label": "MISC"
+    },
+    {
+      "text": "Santon",
+      "start": 11304,
+      "end": 11310,
+      "label": "LOC"
+    },
+    {
+      "text": "Apocalypse",
+      "start": 11367,
+      "end": 11377,
+      "label": "MISC"
+    },
+    {
+      "text": "Abyssus",
+      "start": 12018,
+      "end": 12025,
+      "label": "ORG"
+    },
+    {
+      "text": "Sainte Thérèse",
+      "start": 12608,
+      "end": 12622,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guyon",
+      "start": 12626,
+      "end": 12638,
+      "label": "PER"
+    },
+    {
+      "text": "la Bible",
+      "start": 12656,
+      "end": 12664,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 13194,
+      "end": 13199,
+      "label": "PER"
+    },
+    {
+      "text": "Staël",
+      "start": 13371,
+      "end": 13376,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13406,
+      "end": 13411,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 13482,
+      "end": 13489,
+      "label": "LOC"
+    },
+    {
+      "text": "CIEL",
+      "start": 13651,
+      "end": 13655,
+      "label": "MISC"
+    },
+    {
+      "text": "ENFER",
+      "start": 13664,
+      "end": 13669,
+      "label": "MISC"
+    },
+    {
+      "text": "MM. Saint Martin",
+      "start": 13687,
+      "end": 13703,
+      "label": "ORG"
+    },
+    {
+      "text": "Gence",
+      "start": 13708,
+      "end": 13713,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 13860,
+      "end": 13870,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 13881,
+      "end": 13896,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 14044,
+      "end": 14051,
+      "label": "PER"
+    },
+    {
+      "text": "Priez vous Dieu",
+      "start": 14103,
+      "end": 14118,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 14251,
+      "end": 14258,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 14523,
+      "end": 14538,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 14854,
+      "end": 14869,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 14949,
+      "end": 14956,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 14981,
+      "end": 14986,
+      "label": "PER"
+    },
+    {
+      "text": "justifia",
+      "start": 14990,
+      "end": 14998,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Staël",
+      "start": 15244,
+      "end": 15259,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 15276,
+      "end": 15289,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 15292,
+      "end": 15302,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 15310,
+      "end": 15316,
+      "label": "MISC"
+    },
+    {
+      "text": "Moïse",
+      "start": 15426,
+      "end": 15431,
+      "label": "PER"
+    },
+    {
+      "text": "Corbigny",
+      "start": 15509,
+      "end": 15517,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 15534,
+      "end": 15539,
+      "label": "LOC"
+    },
+    {
+      "text": "Moïse",
+      "start": 15570,
+      "end": 15575,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 15590,
+      "end": 15597,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 15695,
+      "end": 15702,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 16101,
+      "end": 16114,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 16142,
+      "end": 16157,
+      "label": "PER"
+    },
+    {
+      "text": "Blois",
+      "start": 16293,
+      "end": 16298,
+      "label": "LOC"
+    },
+    {
+      "text": "Corinne",
+      "start": 16476,
+      "end": 16483,
+      "label": "PER"
+    },
+    {
+      "text": "Moïse",
+      "start": 16520,
+      "end": 16525,
+      "label": "PER"
+    },
+    {
+      "text": "Corbigny",
+      "start": 16568,
+      "end": 16576,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 16691,
+      "end": 16706,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 16848,
+      "end": 16861,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 16974,
+      "end": 16982,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 17012,
+      "end": 17017,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 17020,
+      "end": 17025,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 17136,
+      "end": 17143,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 17211,
+      "end": 17226,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 17232,
+      "end": 17237,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 17542,
+      "end": 17549,
+      "label": "PER"
+    },
+    {
+      "text": "Institution",
+      "start": 17632,
+      "end": 17643,
+      "label": "ORG"
+    },
+    {
+      "text": "Lambert",
+      "start": 17748,
+      "end": 17755,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre des Oratoriens",
+      "start": 17795,
+      "end": 17815,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus",
+      "start": 17838,
+      "end": 17843,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 18006,
+      "end": 18013,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournon",
+      "start": 18018,
+      "end": 18025,
+      "label": "LOC"
+    },
+    {
+      "text": "La Flèche",
+      "start": 18030,
+      "end": 18039,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont le Voy",
+      "start": 18044,
+      "end": 18055,
+      "label": "LOC"
+    },
+    {
+      "text": "Sorrèze",
+      "start": 18060,
+      "end": 18067,
+      "label": "LOC"
+    },
+    {
+      "text": "Juilly",
+      "start": 18074,
+      "end": 18080,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 18091,
+      "end": 18098,
+      "label": "LOC"
+    },
+    {
+      "text": "Corps enseignants",
+      "start": 18222,
+      "end": 18239,
+      "label": "ORG"
+    },
+    {
+      "text": "Convention",
+      "start": 18257,
+      "end": 18267,
+      "label": "MISC"
+    },
+    {
+      "text": "Institution de Vendôme",
+      "start": 18291,
+      "end": 18313,
+      "label": "LOC"
+    },
+    {
+      "text": "Oratoriens",
+      "start": 18386,
+      "end": 18396,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 18657,
+      "end": 18664,
+      "label": "LOC"
+    },
+    {
+      "text": "Loir",
+      "start": 18720,
+      "end": 18724,
+      "label": "LOC"
+    },
+    {
+      "text": "Institution",
+      "start": 18864,
+      "end": 18875,
+      "label": "ORG"
+    },
+    {
+      "text": "Pères",
+      "start": 19401,
+      "end": 19406,
+      "label": "MISC"
+    },
+    {
+      "text": "Correcteur",
+      "start": 19520,
+      "end": 19530,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnie de Jésus",
+      "start": 19673,
+      "end": 19691,
+      "label": "ORG"
+    },
+    {
+      "text": "Institut",
+      "start": 20091,
+      "end": 20099,
+      "label": "LOC"
+    },
+    {
+      "text": "Minimes",
+      "start": 20503,
+      "end": 20510,
+      "label": "LOC"
+    },
+    {
+      "text": "Petits",
+      "start": 20516,
+      "end": 20522,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyens",
+      "start": 20528,
+      "end": 20534,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands",
+      "start": 20542,
+      "end": 20548,
+      "label": "LOC"
+    },
+    {
+      "text": "division des Minimes",
+      "start": 20553,
+      "end": 20573,
+      "label": "LOC"
+    },
+    {
+      "text": "Petits",
+      "start": 20655,
+      "end": 20661,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyens",
+      "start": 20716,
+      "end": 20722,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands",
+      "start": 20769,
+      "end": 20775,
+      "label": "LOC"
+    },
+    {
+      "text": "Ordre",
+      "start": 21095,
+      "end": 21100,
+      "label": "ORG"
+    },
+    {
+      "text": "Moyen",
+      "start": 21434,
+      "end": 21439,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 22335,
+      "end": 22342,
+      "label": "LOC"
+    },
+    {
+      "text": "Pères",
+      "start": 22528,
+      "end": 22533,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 22880,
+      "end": 22887,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadets",
+      "start": 23386,
+      "end": 23392,
+      "label": "MISC"
+    },
+    {
+      "text": "Pères",
+      "start": 23432,
+      "end": 23437,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 23749,
+      "end": 23756,
+      "label": "PER"
+    },
+    {
+      "text": "Pariahs",
+      "start": 25339,
+      "end": 25346,
+      "label": "LOC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 25409,
+      "end": 25418,
+      "label": "LOC"
+    },
+    {
+      "text": "Division",
+      "start": 25870,
+      "end": 25878,
+      "label": "MISC"
+    },
+    {
+      "text": "Pères chargés",
+      "start": 25995,
+      "end": 26008,
+      "label": "ORG"
+    },
+    {
+      "text": "Nouveau !",
+      "start": 26169,
+      "end": 26178,
+      "label": "MISC"
+    },
+    {
+      "text": "Un Nouveau !",
+      "start": 26206,
+      "end": 26218,
+      "label": "MISC"
+    },
+    {
+      "text": "Nouveau !",
+      "start": 26222,
+      "end": 26231,
+      "label": "ORG"
+    },
+    {
+      "text": "Régent",
+      "start": 26312,
+      "end": 26318,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 26448,
+      "end": 26461,
+      "label": "PER"
+    },
+    {
+      "text": "Mille",
+      "start": 26496,
+      "end": 26501,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuits",
+      "start": 26509,
+      "end": 26514,
+      "label": "MISC"
+    },
+    {
+      "text": "Petits",
+      "start": 26552,
+      "end": 26558,
+      "label": "MISC"
+    },
+    {
+      "text": "Régents",
+      "start": 26577,
+      "end": 26584,
+      "label": "PER"
+    },
+    {
+      "text": "Pères",
+      "start": 26644,
+      "end": 26649,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 26716,
+      "end": 26723,
+      "label": "LOC"
+    },
+    {
+      "text": "Oratoriens",
+      "start": 26745,
+      "end": 26755,
+      "label": "LOC"
+    },
+    {
+      "text": "Mer",
+      "start": 26971,
+      "end": 26974,
+      "label": "LOC"
+    },
+    {
+      "text": "Haugoult",
+      "start": 26984,
+      "end": 26992,
+      "label": "PER"
+    },
+    {
+      "text": "Régent de semaine",
+      "start": 26997,
+      "end": 27014,
+      "label": "LOC"
+    },
+    {
+      "text": "Haugoult",
+      "start": 27240,
+      "end": 27248,
+      "label": "PER"
+    },
+    {
+      "text": "Nouveaux",
+      "start": 27385,
+      "end": 27393,
+      "label": "LOC"
+    },
+    {
+      "text": "Petits",
+      "start": 27433,
+      "end": 27439,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 27492,
+      "end": 27505,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 27539,
+      "end": 27554,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Haugoult",
+      "start": 27574,
+      "end": 27591,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 27611,
+      "end": 27626,
+      "label": "PER"
+    },
+    {
+      "text": "Corinne",
+      "start": 27712,
+      "end": 27719,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 27724,
+      "end": 27730,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 27866,
+      "end": 27881,
+      "label": "PER"
+    },
+    {
+      "text": "De l'Allemagne",
+      "start": 27970,
+      "end": 27984,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 27991,
+      "end": 27998,
+      "label": "PER"
+    },
+    {
+      "text": "Mareschal",
+      "start": 28068,
+      "end": 28077,
+      "label": "PER"
+    },
+    {
+      "text": "Haugoult",
+      "start": 28133,
+      "end": 28141,
+      "label": "PER"
+    },
+    {
+      "text": "Grands",
+      "start": 28164,
+      "end": 28170,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 28188,
+      "end": 28193,
+      "label": "PER"
+    },
+    {
+      "text": "Proh",
+      "start": 28338,
+      "end": 28342,
+      "label": "PER"
+    },
+    {
+      "text": "Petits un habit décoré du ruban rouge",
+      "start": 28401,
+      "end": 28438,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 28473,
+      "end": 28480,
+      "label": "LOC"
+    },
+    {
+      "text": "Directeur",
+      "start": 28577,
+      "end": 28586,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendômien",
+      "start": 28740,
+      "end": 28749,
+      "label": "MISC"
+    },
+    {
+      "text": "Académie française",
+      "start": 28835,
+      "end": 28853,
+      "label": "ORG"
+    },
+    {
+      "text": "académiciens",
+      "start": 29104,
+      "end": 29116,
+      "label": "LOC"
+    },
+    {
+      "text": "Âne vert",
+      "start": 29418,
+      "end": 29426,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 29601,
+      "end": 29616,
+      "label": "PER"
+    },
+    {
+      "text": "Haugoult",
+      "start": 29654,
+      "end": 29662,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 29824,
+      "end": 29837,
+      "label": "PER"
+    },
+    {
+      "text": "Haugoult",
+      "start": 29893,
+      "end": 29901,
+      "label": "PER"
+    },
+    {
+      "text": "Nouveau",
+      "start": 29944,
+      "end": 29951,
+      "label": "MISC"
+    },
+    {
+      "text": "Auprès",
+      "start": 30142,
+      "end": 30148,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 30190,
+      "end": 30194,
+      "label": "MISC"
+    },
+    {
+      "text": "Faisants",
+      "start": 30618,
+      "end": 30626,
+      "label": "ORG"
+    },
+    {
+      "text": "Haugoult",
+      "start": 30817,
+      "end": 30825,
+      "label": "PER"
+    },
+    {
+      "text": "Robinson Crusoé",
+      "start": 30946,
+      "end": 30961,
+      "label": "MISC"
+    },
+    {
+      "text": "naguère officier",
+      "start": 31539,
+      "end": 31555,
+      "label": "PER"
+    },
+    {
+      "text": "Barchou de Penhoën",
+      "start": 31607,
+      "end": 31625,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 31776,
+      "end": 31783,
+      "label": "LOC"
+    },
+    {
+      "text": "Fichte",
+      "start": 31851,
+      "end": 31857,
+      "label": "PER"
+    },
+    {
+      "text": "Ballanche",
+      "start": 31884,
+      "end": 31893,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 32007,
+      "end": 32011,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 32139,
+      "end": 32146,
+      "label": "PER"
+    },
+    {
+      "text": "les Enfants célèbres",
+      "start": 32181,
+      "end": 32201,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcalm",
+      "start": 32252,
+      "end": 32260,
+      "label": "MISC"
+    },
+    {
+      "text": "Pic de La Mirandole",
+      "start": 32262,
+      "end": 32281,
+      "label": "LOC"
+    },
+    {
+      "text": "Pascal",
+      "start": 32283,
+      "end": 32289,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 32405,
+      "end": 32412,
+      "label": "PER"
+    },
+    {
+      "text": "École Polytechnique",
+      "start": 32514,
+      "end": 32533,
+      "label": "ORG"
+    },
+    {
+      "text": "les Incas",
+      "start": 33413,
+      "end": 33422,
+      "label": "LOC"
+    },
+    {
+      "text": "O Inca",
+      "start": 33425,
+      "end": 33431,
+      "label": "LOC"
+    },
+    {
+      "text": "Poète",
+      "start": 33485,
+      "end": 33490,
+      "label": "LOC"
+    },
+    {
+      "text": "Mareschal",
+      "start": 33619,
+      "end": 33628,
+      "label": "PER"
+    },
+    {
+      "text": "Division des Petits",
+      "start": 33964,
+      "end": 33983,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 34145,
+      "end": 34152,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 34493,
+      "end": 34508,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 34510,
+      "end": 34523,
+      "label": "PER"
+    },
+    {
+      "text": "Mareschal",
+      "start": 34678,
+      "end": 34687,
+      "label": "PER"
+    },
+    {
+      "text": "Nouveau",
+      "start": 34694,
+      "end": 34701,
+      "label": "ORG"
+    },
+    {
+      "text": "Haugoult",
+      "start": 34779,
+      "end": 34787,
+      "label": "PER"
+    },
+    {
+      "text": "Nouveau",
+      "start": 34979,
+      "end": 34986,
+      "label": "MISC"
+    },
+    {
+      "text": "Mareschal",
+      "start": 35001,
+      "end": 35010,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 35034,
+      "end": 35040,
+      "label": "LOC"
+    },
+    {
+      "text": "Directeur",
+      "start": 35071,
+      "end": 35080,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 35129,
+      "end": 35137,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 35162,
+      "end": 35175,
+      "label": "PER"
+    },
+    {
+      "text": "Quatrièmes",
+      "start": 35202,
+      "end": 35212,
+      "label": "LOC"
+    },
+    {
+      "text": "Régent",
+      "start": 35288,
+      "end": 35294,
+      "label": "LOC"
+    },
+    {
+      "text": "Nouveau",
+      "start": 35395,
+      "end": 35402,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 35461,
+      "end": 35474,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 35641,
+      "end": 35648,
+      "label": "PER"
+    },
+    {
+      "text": "Mareschal",
+      "start": 35659,
+      "end": 35668,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 35958,
+      "end": 35965,
+      "label": "PER"
+    },
+    {
+      "text": "Mareschal",
+      "start": 35987,
+      "end": 35996,
+      "label": "PER"
+    },
+    {
+      "text": "Haugoult",
+      "start": 36036,
+      "end": 36044,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 36419,
+      "end": 36426,
+      "label": "PER"
+    },
+    {
+      "text": "Pythagore",
+      "start": 36552,
+      "end": 36561,
+      "label": "PER"
+    },
+    {
+      "text": "Nouveau",
+      "start": 36590,
+      "end": 36597,
+      "label": "ORG"
+    },
+    {
+      "text": "Pythagore",
+      "start": 36611,
+      "end": 36620,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 36682,
+      "end": 36689,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 37015,
+      "end": 37020,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 39119,
+      "end": 39126,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 39293,
+      "end": 39299,
+      "label": "LOC"
+    },
+    {
+      "text": "Mettez",
+      "start": 39392,
+      "end": 39398,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 39548,
+      "end": 39555,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 39829,
+      "end": 39834,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 39932,
+      "end": 39947,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 40043,
+      "end": 40048,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 40211,
+      "end": 40215,
+      "label": "MISC"
+    },
+    {
+      "text": "Faisants",
+      "start": 40318,
+      "end": 40326,
+      "label": "ORG"
+    },
+    {
+      "text": "Poète",
+      "start": 40497,
+      "end": 40502,
+      "label": "MISC"
+    },
+    {
+      "text": "Pythagore",
+      "start": 40506,
+      "end": 40515,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 40641,
+      "end": 40654,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 41850,
+      "end": 41857,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 41859,
+      "end": 41864,
+      "label": "PER"
+    },
+    {
+      "text": "Accoutumé",
+      "start": 42027,
+      "end": 42036,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 44080,
+      "end": 44087,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 44364,
+      "end": 44370,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 44405,
+      "end": 44412,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 44478,
+      "end": 44483,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 44661,
+      "end": 44668,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 44754,
+      "end": 44761,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 46535,
+      "end": 46542,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 46740,
+      "end": 46747,
+      "label": "PER"
+    },
+    {
+      "text": "Petits",
+      "start": 47233,
+      "end": 47239,
+      "label": "MISC"
+    },
+    {
+      "text": "Minimes",
+      "start": 47247,
+      "end": 47254,
+      "label": "MISC"
+    },
+    {
+      "text": "Père",
+      "start": 48185,
+      "end": 48189,
+      "label": "PER"
+    },
+    {
+      "text": "Petit",
+      "start": 48570,
+      "end": 48575,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendômois",
+      "start": 49291,
+      "end": 49300,
+      "label": "LOC"
+    },
+    {
+      "text": "dessécher",
+      "start": 50287,
+      "end": 50296,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 50579,
+      "end": 50592,
+      "label": "PER"
+    },
+    {
+      "text": "Semblable",
+      "start": 50594,
+      "end": 50603,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 50978,
+      "end": 50983,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 51946,
+      "end": 51956,
+      "label": "ORG"
+    },
+    {
+      "text": "Ministère",
+      "start": 51967,
+      "end": 51976,
+      "label": "MISC"
+    },
+    {
+      "text": "Opposition",
+      "start": 52056,
+      "end": 52066,
+      "label": "ORG"
+    },
+    {
+      "text": "Vendôme",
+      "start": 52710,
+      "end": 52717,
+      "label": "LOC"
+    },
+    {
+      "text": "Patrum",
+      "start": 52734,
+      "end": 52740,
+      "label": "MISC"
+    },
+    {
+      "text": "Régent",
+      "start": 53137,
+      "end": 53143,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 53469,
+      "end": 53475,
+      "label": "LOC"
+    },
+    {
+      "text": "Grève",
+      "start": 53481,
+      "end": 53486,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 53782,
+      "end": 53795,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 54007,
+      "end": 54013,
+      "label": "LOC"
+    },
+    {
+      "text": "Leyde",
+      "start": 54174,
+      "end": 54179,
+      "label": "LOC"
+    },
+    {
+      "text": "Père",
+      "start": 54387,
+      "end": 54391,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 54549,
+      "end": 54556,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 54688,
+      "end": 54693,
+      "label": "PER"
+    },
+    {
+      "text": "Père d'un coup d'œil rutilant",
+      "start": 54747,
+      "end": 54776,
+      "label": "MISC"
+    },
+    {
+      "text": "Régent",
+      "start": 54798,
+      "end": 54804,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 54808,
+      "end": 54815,
+      "label": "PER"
+    },
+    {
+      "text": "Corinne",
+      "start": 55200,
+      "end": 55207,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 55457,
+      "end": 55470,
+      "label": "PER"
+    },
+    {
+      "text": "Attaché",
+      "start": 55554,
+      "end": 55561,
+      "label": "PER"
+    },
+    {
+      "text": "Pères",
+      "start": 56534,
+      "end": 56539,
+      "label": "MISC"
+    },
+    {
+      "text": "Collége",
+      "start": 56803,
+      "end": 56810,
+      "label": "ORG"
+    },
+    {
+      "text": "Poète",
+      "start": 56934,
+      "end": 56939,
+      "label": "MISC"
+    },
+    {
+      "text": "Pythagore",
+      "start": 56943,
+      "end": 56952,
+      "label": "PER"
+    },
+    {
+      "text": "Poète",
+      "start": 58006,
+      "end": 58011,
+      "label": "LOC"
+    },
+    {
+      "text": "Pythagore",
+      "start": 58015,
+      "end": 58024,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 58042,
+      "end": 58049,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 58148,
+      "end": 58153,
+      "label": "PER"
+    },
+    {
+      "text": "LÉPREUX DE LA VALLÉE D'AOSTE",
+      "start": 58223,
+      "end": 58251,
+      "label": "MISC"
+    },
+    {
+      "text": "Maistre",
+      "start": 58326,
+      "end": 58333,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 58513,
+      "end": 58520,
+      "label": "PER"
+    },
+    {
+      "text": "WERTHER",
+      "start": 58619,
+      "end": 58626,
+      "label": "MISC"
+    },
+    {
+      "text": "Werther",
+      "start": 58875,
+      "end": 58882,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 58909,
+      "end": 58922,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 59196,
+      "end": 59201,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 60359,
+      "end": 60364,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 60558,
+      "end": 60563,
+      "label": "PER"
+    },
+    {
+      "text": "Sens",
+      "start": 60991,
+      "end": 60995,
+      "label": "LOC"
+    },
+    {
+      "text": "Hein",
+      "start": 61464,
+      "end": 61468,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 61699,
+      "end": 61706,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 61919,
+      "end": 61926,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 63044,
+      "end": 63051,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 63492,
+      "end": 63499,
+      "label": "PER"
+    },
+    {
+      "text": "Ciel",
+      "start": 63882,
+      "end": 63886,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfer",
+      "start": 63895,
+      "end": 63900,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis",
+      "start": 63902,
+      "end": 63907,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 63939,
+      "end": 63949,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 64719,
+      "end": 64726,
+      "label": "PER"
+    },
+    {
+      "text": "Prophète",
+      "start": 64742,
+      "end": 64750,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 64890,
+      "end": 64900,
+      "label": "PER"
+    },
+    {
+      "text": "Mort, l'ange",
+      "start": 65653,
+      "end": 65665,
+      "label": "MISC"
+    },
+    {
+      "text": "Aveugles des Voyants",
+      "start": 66217,
+      "end": 66237,
+      "label": "LOC"
+    },
+    {
+      "text": "Divine Comédie",
+      "start": 66807,
+      "end": 66821,
+      "label": "MISC"
+    },
+    {
+      "text": "Dante",
+      "start": 66823,
+      "end": 66828,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 67005,
+      "end": 67015,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 67274,
+      "end": 67281,
+      "label": "PER"
+    },
+    {
+      "text": "Jacob Bœhm",
+      "start": 67497,
+      "end": 67507,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 67512,
+      "end": 67522,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guyon",
+      "start": 67529,
+      "end": 67541,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 67665,
+      "end": 67672,
+      "label": "PER"
+    },
+    {
+      "text": "Avenir",
+      "start": 67963,
+      "end": 67969,
+      "label": "ORG"
+    },
+    {
+      "text": "Fable",
+      "start": 68019,
+      "end": 68024,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 68166,
+      "end": 68173,
+      "label": "PER"
+    },
+    {
+      "text": "Faisants",
+      "start": 68769,
+      "end": 68777,
+      "label": "ORG"
+    },
+    {
+      "text": "Lambert",
+      "start": 69368,
+      "end": 69375,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 69693,
+      "end": 69700,
+      "label": "PER"
+    },
+    {
+      "text": "Caïus Gracchus",
+      "start": 69726,
+      "end": 69740,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 69755,
+      "end": 69760,
+      "label": "PER"
+    },
+    {
+      "text": "Caïus Gracchus",
+      "start": 69790,
+      "end": 69804,
+      "label": "PER"
+    },
+    {
+      "text": "nobilis",
+      "start": 69855,
+      "end": 69862,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 69933,
+      "end": 69940,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 70199,
+      "end": 70207,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 70323,
+      "end": 70330,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Staël",
+      "start": 70416,
+      "end": 70431,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 70466,
+      "end": 70473,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 70588,
+      "end": 70593,
+      "label": "PER"
+    },
+    {
+      "text": "Père chargé d'assister à notre lever",
+      "start": 70996,
+      "end": 71032,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 72046,
+      "end": 72053,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 72502,
+      "end": 72509,
+      "label": "LOC"
+    },
+    {
+      "text": "Rochambeau",
+      "start": 72524,
+      "end": 72534,
+      "label": "PER"
+    },
+    {
+      "text": "Régents",
+      "start": 72721,
+      "end": 72728,
+      "label": "ORG"
+    },
+    {
+      "text": "Rochambeau",
+      "start": 72759,
+      "end": 72769,
+      "label": "LOC"
+    },
+    {
+      "text": "Rochambeau",
+      "start": 72907,
+      "end": 72917,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 73047,
+      "end": 73054,
+      "label": "PER"
+    },
+    {
+      "text": "vallée du Loir",
+      "start": 73086,
+      "end": 73100,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Lambert",
+      "start": 74142,
+      "end": 74155,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 74553,
+      "end": 74558,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 74724,
+      "end": 74731,
+      "label": "PER"
+    },
+    {
+      "text": "Rochambeau",
+      "start": 74959,
+      "end": 74969,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 75228,
+      "end": 75235,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 75308,
+      "end": 75314,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 75528,
+      "end": 75533,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 76790,
+      "end": 76792,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 78298,
+      "end": 78302,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 78416,
+      "end": 78426,
+      "label": "PER"
+    },
+    {
+      "text": "ESPRIT",
+      "start": 78572,
+      "end": 78578,
+      "label": "MISC"
+    },
+    {
+      "text": "Ciel",
+      "start": 78929,
+      "end": 78933,
+      "label": "PER"
+    },
+    {
+      "text": "Enfer",
+      "start": 78942,
+      "end": 78947,
+      "label": "MISC"
+    },
+    {
+      "text": "ajouta t",
+      "start": 79735,
+      "end": 79743,
+      "label": "PER"
+    },
+    {
+      "text": "Traité de la Volonté",
+      "start": 80287,
+      "end": 80307,
+      "label": "MISC"
+    },
+    {
+      "text": "Mesmer",
+      "start": 80494,
+      "end": 80500,
+      "label": "PER"
+    },
+    {
+      "text": "Isis",
+      "start": 80617,
+      "end": 80621,
+      "label": "PER"
+    },
+    {
+      "text": "Delphes",
+      "start": 80626,
+      "end": 80633,
+      "label": "LOC"
+    },
+    {
+      "text": "Trophonius",
+      "start": 80651,
+      "end": 80661,
+      "label": "PER"
+    },
+    {
+      "text": "Lavater",
+      "start": 80715,
+      "end": 80722,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 80741,
+      "end": 80745,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 80797,
+      "end": 80804,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 81020,
+      "end": 81027,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 81347,
+      "end": 81354,
+      "label": "PER"
+    },
+    {
+      "text": "Soudain",
+      "start": 81748,
+      "end": 81755,
+      "label": "PER"
+    },
+    {
+      "text": "Haugoult",
+      "start": 81801,
+      "end": 81809,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 81917,
+      "end": 81923,
+      "label": "LOC"
+    },
+    {
+      "text": "Haugoult",
+      "start": 82037,
+      "end": 82045,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 82138,
+      "end": 82145,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 82171,
+      "end": 82177,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 82252,
+      "end": 82257,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 82359,
+      "end": 82366,
+      "label": "PER"
+    },
+    {
+      "text": "Droit Écolier",
+      "start": 82636,
+      "end": 82649,
+      "label": "LOC"
+    },
+    {
+      "text": "Haugoult",
+      "start": 82793,
+      "end": 82801,
+      "label": "PER"
+    },
+    {
+      "text": "Vendôme",
+      "start": 82838,
+      "end": 82845,
+      "label": "LOC"
+    },
+    {
+      "text": "Traité de la Volonté",
+      "start": 82849,
+      "end": 82869,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 83043,
+      "end": 83050,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 83190,
+      "end": 83195,
+      "label": "PER"
+    },
+    {
+      "text": "Études",
+      "start": 83242,
+      "end": 83248,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 83322,
+      "end": 83329,
+      "label": "PER"
+    },
+    {
+      "text": "Histoire",
+      "start": 83644,
+      "end": 83652,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 83792,
+      "end": 83799,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 83946,
+      "end": 83953,
+      "label": "PER"
+    },
+    {
+      "text": "Traité",
+      "start": 84265,
+      "end": 84271,
+      "label": "MISC"
+    },
+    {
+      "text": "Buffon",
+      "start": 84915,
+      "end": 84921,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 84928,
+      "end": 84934,
+      "label": "PER"
+    },
+    {
+      "text": "Traité de Lambert",
+      "start": 84972,
+      "end": 84989,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 85570,
+      "end": 85577,
+      "label": "PER"
+    },
+    {
+      "text": "VOLONTÉ",
+      "start": 85715,
+      "end": 85722,
+      "label": "ORG"
+    },
+    {
+      "text": "VOLITION",
+      "start": 85953,
+      "end": 85961,
+      "label": "MISC"
+    },
+    {
+      "text": "Locke",
+      "start": 85988,
+      "end": 85993,
+      "label": "PER"
+    },
+    {
+      "text": "la Volonté",
+      "start": 86038,
+      "end": 86048,
+      "label": "MISC"
+    },
+    {
+      "text": "PENSÉE",
+      "start": 86060,
+      "end": 86066,
+      "label": "MISC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 86106,
+      "end": 86116,
+      "label": "MISC"
+    },
+    {
+      "text": "IDÉES",
+      "start": 86162,
+      "end": 86167,
+      "label": "MISC"
+    },
+    {
+      "text": "IDÉE",
+      "start": 86205,
+      "end": 86209,
+      "label": "ORG"
+    },
+    {
+      "text": "Pensée",
+      "start": 86305,
+      "end": 86311,
+      "label": "LOC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 86319,
+      "end": 86329,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensée",
+      "start": 86334,
+      "end": 86340,
+      "label": "LOC"
+    },
+    {
+      "text": "Volition",
+      "start": 86382,
+      "end": 86390,
+      "label": "MISC"
+    },
+    {
+      "text": "Idée",
+      "start": 86394,
+      "end": 86398,
+      "label": "MISC"
+    },
+    {
+      "text": "Volition",
+      "start": 86429,
+      "end": 86437,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensée et les Idées",
+      "start": 86659,
+      "end": 86678,
+      "label": "MISC"
+    },
+    {
+      "text": "Volitions et la Volonté",
+      "start": 86750,
+      "end": 86773,
+      "label": "MISC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 86834,
+      "end": 86844,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensée",
+      "start": 86854,
+      "end": 86860,
+      "label": "LOC"
+    },
+    {
+      "text": "Volonté",
+      "start": 86943,
+      "end": 86950,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensée",
+      "start": 86987,
+      "end": 86993,
+      "label": "LOC"
+    },
+    {
+      "text": "Nord",
+      "start": 86998,
+      "end": 87002,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 87022,
+      "end": 87026,
+      "label": "LOC"
+    },
+    {
+      "text": "Nord",
+      "start": 87072,
+      "end": 87076,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 87094,
+      "end": 87098,
+      "label": "LOC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 87126,
+      "end": 87136,
+      "label": "MISC"
+    },
+    {
+      "text": "Femme dans la perfection de ses attributs",
+      "start": 87598,
+      "end": 87639,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 87814,
+      "end": 87821,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 88376,
+      "end": 88383,
+      "label": "PER"
+    },
+    {
+      "text": "Idées",
+      "start": 88655,
+      "end": 88660,
+      "label": "MISC"
+    },
+    {
+      "text": "Volitions",
+      "start": 88668,
+      "end": 88677,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensée",
+      "start": 89740,
+      "end": 89746,
+      "label": "LOC"
+    },
+    {
+      "text": "ACTION",
+      "start": 90349,
+      "end": 90355,
+      "label": "ORG"
+    },
+    {
+      "text": "RÉACTION",
+      "start": 90362,
+      "end": 90370,
+      "label": "MISC"
+    },
+    {
+      "text": "notre Volonté",
+      "start": 90433,
+      "end": 90446,
+      "label": "MISC"
+    },
+    {
+      "text": "Volitions",
+      "start": 90504,
+      "end": 90513,
+      "label": "LOC"
+    },
+    {
+      "text": "Idées",
+      "start": 90524,
+      "end": 90529,
+      "label": "MISC"
+    },
+    {
+      "text": "Action",
+      "start": 90544,
+      "end": 90550,
+      "label": "ORG"
+    },
+    {
+      "text": "Réaction",
+      "start": 90594,
+      "end": 90602,
+      "label": "LOC"
+    },
+    {
+      "text": "Bichat",
+      "start": 90659,
+      "end": 90665,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 90846,
+      "end": 90853,
+      "label": "PER"
+    },
+    {
+      "text": "Morts",
+      "start": 90855,
+      "end": 90860,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 91224,
+      "end": 91231,
+      "label": "PER"
+    },
+    {
+      "text": "Action",
+      "start": 91249,
+      "end": 91255,
+      "label": "ORG"
+    },
+    {
+      "text": "Réaction",
+      "start": 91264,
+      "end": 91272,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensée",
+      "start": 91465,
+      "end": 91471,
+      "label": "LOC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 91476,
+      "end": 91486,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 92087,
+      "end": 92097,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 92418,
+      "end": 92425,
+      "label": "PER"
+    },
+    {
+      "text": "Analyse",
+      "start": 92482,
+      "end": 92489,
+      "label": "LOC"
+    },
+    {
+      "text": "Ciel",
+      "start": 92533,
+      "end": 92537,
+      "label": "PER"
+    },
+    {
+      "text": "Enfer",
+      "start": 92618,
+      "end": 92623,
+      "label": "MISC"
+    },
+    {
+      "text": "Christ",
+      "start": 92832,
+      "end": 92838,
+      "label": "PER"
+    },
+    {
+      "text": "Descartes",
+      "start": 92842,
+      "end": 92851,
+      "label": "PER"
+    },
+    {
+      "text": "Foi",
+      "start": 92862,
+      "end": 92865,
+      "label": "LOC"
+    },
+    {
+      "text": "Doute",
+      "start": 92872,
+      "end": 92877,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 93016,
+      "end": 93020,
+      "label": "MISC"
+    },
+    {
+      "text": "Temps",
+      "start": 93375,
+      "end": 93380,
+      "label": "LOC"
+    },
+    {
+      "text": "Distance",
+      "start": 93387,
+      "end": 93395,
+      "label": "LOC"
+    },
+    {
+      "text": "Lambert",
+      "start": 94830,
+      "end": 94837,
+      "label": "PER"
+    },
+    {
+      "text": "Hindous, la Tokeiade",
+      "start": 94996,
+      "end": 95016,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 95279,
+      "end": 95286,
+      "label": "PER"
+    },
+    {
+      "text": "Pensée et de la Volonté",
+      "start": 95673,
+      "end": 95696,
+      "label": "MISC"
+    },
+    {
+      "text": "Lambert",
+      "start": 95753,
+      "end": 95760,
+      "label": "PER"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 95979,
+      "end": 95988,
+      "label": "MISC"
+    },
+    {
+      "text": "Église romaine",
+      "start": 96128,
+      "end": 96142,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis",
+      "start": 96204,
+      "end": 96209,
+      "label": "PER"
+    },
+    {
+      "text": "Matière",
+      "start": 96284,
+      "end": 96291,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensée",
+      "start": 96306,
+      "end": 96312,
+      "label": "LOC"
+    },
+    {
+      "text": "Bayle",
+      "start": 96999,
+      "end": 97004,
+      "label": "PER"
+    },
+    {
+      "text": "Scaliger",
+      "start": 97062,
+      "end": 97070,
+      "label": "PER"
+    },
+    {
+      "text": "Érasme",
+      "start": 97103,
+      "end": 97109,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Épernon",
+      "start": 97212,
+      "end": 97225,
+      "label": "PER"
+    },
+    {
+      "text": "Tychobrahé",
+      "start": 97264,
+      "end": 97274,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 97296,
+      "end": 97305,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal d'Albret",
+      "start": 97328,
+      "end": 97345,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Guise",
+      "start": 97478,
+      "end": 97496,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 97498,
+      "end": 97514,
+      "label": "PER"
+    },
+    {
+      "text": "Bacon",
+      "start": 97630,
+      "end": 97635,
+      "label": "PER"
+    },
+    {
+      "text": "Lambert",
+      "start": 98114,
+      "end": 98121,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 98309,
+      "end": 98313,
+      "label": "PER"
+    },
+    {
+      "text": "Lavater",
+      "start": 98317,
+      "end": 98324,
+      "label": "PER"
+    },
+    {
+      "text": "Mesmer",
+      "start": 98588,
+      "end": 98594,
+      "label": "PER"
+    },
+    {
+      "text": "Traité",
+      "start": 98696,
+      "end": 98702,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 98712,
+      "end": 98717,
+      "label": "PER"
+    },
+    {
+      "text": "la Volonté",
+      "start": 98880,
+      "end": 98890,
+      "label": "MISC"
+    },
+    {
+      "text": "Science humaine",
+      "start": 99288,
+      "end": 99303,
+      "label": "ORG"
+    },
+    {
+      "text": "Marius",
+      "start": 99421,
+      "end": 99427,
+      "label": "PER"
+    },
+    {
+      "text": "Cimbre",
+      "start": 99449,
+      "end": 99455,
+      "label": "MISC"
+    },
+    {
+      "text": "Florence",
+      "start": 99525,
+      "end": 99533,
+      "label": "LOC"
+    },
+    {
+      "text": "la Volonté",
+      "start": 99633,
+      "end": 99643,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensée étaient des forces vives",
+      "start": 99648,
+      "end": 99679,
+      "label": "MISC"
+    },
+    {
+      "text": "Pensée",
+      "start": 99844,
+      "end": 99850,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,1378 @@
+{
+  "entities": [
+    {
+      "text": "DRAME",
+      "start": 3,
+      "end": 8,
+      "label": "LOC"
+    },
+    {
+      "text": "BORD",
+      "start": 12,
+      "end": 16,
+      "label": "MISC"
+    },
+    {
+      "text": "PRINCESSE",
+      "start": 46,
+      "end": 55,
+      "label": "MISC"
+    },
+    {
+      "text": "CAROLINE",
+      "start": 56,
+      "end": 64,
+      "label": "ORG"
+    },
+    {
+      "text": "GALLITZIN",
+      "start": 65,
+      "end": 74,
+      "label": "MISC"
+    },
+    {
+      "text": "GENTHOD",
+      "start": 78,
+      "end": 85,
+      "label": "MISC"
+    },
+    {
+      "text": "NÉE COMTESSE WALEWSKA",
+      "start": 87,
+      "end": 108,
+      "label": "ORG"
+    },
+    {
+      "text": "César",
+      "start": 928,
+      "end": 933,
+      "label": "PER"
+    },
+    {
+      "text": "Newton",
+      "start": 935,
+      "end": 941,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 945,
+      "end": 954,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 1138,
+      "end": 1143,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 1397,
+      "end": 1404,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 1593,
+      "end": 1600,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 1692,
+      "end": 1696,
+      "label": "LOC"
+    },
+    {
+      "text": "Nager",
+      "start": 1768,
+      "end": 1773,
+      "label": "PER"
+    },
+    {
+      "text": "Conception",
+      "start": 2057,
+      "end": 2067,
+      "label": "MISC"
+    },
+    {
+      "text": "Fortune",
+      "start": 2116,
+      "end": 2123,
+      "label": "MISC"
+    },
+    {
+      "text": "Grimpé",
+      "start": 2161,
+      "end": 2167,
+      "label": "PER"
+    },
+    {
+      "text": "Astolphe",
+      "start": 2188,
+      "end": 2196,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 2980,
+      "end": 2990,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauline",
+      "start": 3047,
+      "end": 3054,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 4386,
+      "end": 4393,
+      "label": "MISC"
+    },
+    {
+      "text": "Aboul Casem",
+      "start": 4817,
+      "end": 4828,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 6360,
+      "end": 6365,
+      "label": "LOC"
+    },
+    {
+      "text": "lac de Bienne",
+      "start": 6490,
+      "end": 6503,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Pierre",
+      "start": 6513,
+      "end": 6529,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 6642,
+      "end": 6649,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 7180,
+      "end": 7181,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 7194,
+      "end": 7201,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7339,
+      "end": 7347,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 7484,
+      "end": 7490,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 7537,
+      "end": 7544,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 7690,
+      "end": 7694,
+      "label": "MISC"
+    },
+    {
+      "text": "Dix sous",
+      "start": 7764,
+      "end": 7772,
+      "label": "MISC"
+    },
+    {
+      "text": "Douze",
+      "start": 7776,
+      "end": 7781,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent francs",
+      "start": 7855,
+      "end": 7866,
+      "label": "MISC"
+    },
+    {
+      "text": "Cent",
+      "start": 7870,
+      "end": 7874,
+      "label": "LOC"
+    },
+    {
+      "text": "Gagnez",
+      "start": 8215,
+      "end": 8221,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 8526,
+      "end": 8531,
+      "label": "LOC"
+    },
+    {
+      "text": "empoigne",
+      "start": 9012,
+      "end": 9020,
+      "label": "LOC"
+    },
+    {
+      "text": "Onze",
+      "start": 9082,
+      "end": 9086,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 9278,
+      "end": 9285,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 9571,
+      "end": 9573,
+      "label": "MISC"
+    },
+    {
+      "text": "Ha !",
+      "start": 9720,
+      "end": 9724,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 10019,
+      "end": 10023,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 10217,
+      "end": 10225,
+      "label": "LOC"
+    },
+    {
+      "text": "Savenay",
+      "start": 10265,
+      "end": 10272,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 10500,
+      "end": 10507,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 11179,
+      "end": 11186,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 11228,
+      "end": 11235,
+      "label": "LOC"
+    },
+    {
+      "text": "Inde",
+      "start": 11396,
+      "end": 11400,
+      "label": "LOC"
+    },
+    {
+      "text": "Buvez",
+      "start": 11567,
+      "end": 11572,
+      "label": "PER"
+    },
+    {
+      "text": "Trois",
+      "start": 11618,
+      "end": 11623,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 11649,
+      "end": 11651,
+      "label": "MISC"
+    },
+    {
+      "text": "boirez",
+      "start": 11668,
+      "end": 11674,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 11867,
+      "end": 11871,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 11940,
+      "end": 11944,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 11948,
+      "end": 11958,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 11989,
+      "end": 11994,
+      "label": "PER"
+    },
+    {
+      "text": "Pauline",
+      "start": 12351,
+      "end": 12358,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 13371,
+      "end": 13375,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 13626,
+      "end": 13637,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 14022,
+      "end": 14029,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 14042,
+      "end": 14046,
+      "label": "LOC"
+    },
+    {
+      "text": "Figurez",
+      "start": 14048,
+      "end": 14055,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan sur la droite",
+      "start": 14523,
+      "end": 14542,
+      "label": "LOC"
+    },
+    {
+      "text": "le Croisic",
+      "start": 14619,
+      "end": 14629,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 14662,
+      "end": 14670,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 14755,
+      "end": 14762,
+      "label": "PER"
+    },
+    {
+      "text": "tour de Batz",
+      "start": 14945,
+      "end": 14957,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 15418,
+      "end": 15425,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 16584,
+      "end": 16591,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 16650,
+      "end": 16656,
+      "label": "MISC"
+    },
+    {
+      "text": "Batz",
+      "start": 17498,
+      "end": 17502,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 18221,
+      "end": 18225,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 18229,
+      "end": 18236,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 18244,
+      "end": 18251,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 18264,
+      "end": 18268,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 18587,
+      "end": 18591,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18866,
+      "end": 18870,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauline",
+      "start": 19202,
+      "end": 19209,
+      "label": "PER"
+    },
+    {
+      "text": "L'Andiamo mio ben",
+      "start": 19893,
+      "end": 19910,
+      "label": "MISC"
+    },
+    {
+      "text": "Mozart",
+      "start": 19914,
+      "end": 19920,
+      "label": "PER"
+    },
+    {
+      "text": "Admirez",
+      "start": 20189,
+      "end": 20196,
+      "label": "LOC"
+    },
+    {
+      "text": "rameau",
+      "start": 20272,
+      "end": 20278,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 20627,
+      "end": 20632,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 21333,
+      "end": 21338,
+      "label": "LOC"
+    },
+    {
+      "text": "Jupiter olympien",
+      "start": 21765,
+      "end": 21781,
+      "label": "PER"
+    },
+    {
+      "text": "noirci",
+      "start": 21895,
+      "end": 21901,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 22756,
+      "end": 22762,
+      "label": "PER"
+    },
+    {
+      "text": "Homme au vœu",
+      "start": 23566,
+      "end": 23578,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 23849,
+      "end": 23855,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 23865,
+      "end": 23872,
+      "label": "LOC"
+    },
+    {
+      "text": "Batz",
+      "start": 23887,
+      "end": 23891,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 24044,
+      "end": 24050,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 24073,
+      "end": 24082,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisic",
+      "start": 24454,
+      "end": 24461,
+      "label": "MISC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 24474,
+      "end": 24483,
+      "label": "LOC"
+    },
+    {
+      "text": "Homme au vœu",
+      "start": 24514,
+      "end": 24526,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 24607,
+      "end": 24612,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 24800,
+      "end": 24804,
+      "label": "MISC"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 24812,
+      "end": 24825,
+      "label": "PER"
+    },
+    {
+      "text": "Dis",
+      "start": 25433,
+      "end": 25436,
+      "label": "MISC"
+    },
+    {
+      "text": "Pérotte",
+      "start": 25443,
+      "end": 25450,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 25457,
+      "end": 25459,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrette",
+      "start": 25480,
+      "end": 25489,
+      "label": "PER"
+    },
+    {
+      "text": "saint Pierre",
+      "start": 25535,
+      "end": 25547,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 25549,
+      "end": 25558,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 25569,
+      "end": 25575,
+      "label": "MISC"
+    },
+    {
+      "text": "Dis",
+      "start": 25602,
+      "end": 25605,
+      "label": "MISC"
+    },
+    {
+      "text": "Pérotte",
+      "start": 25612,
+      "end": 25619,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 25714,
+      "end": 25718,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 25808,
+      "end": 25812,
+      "label": "MISC"
+    },
+    {
+      "text": "Pérotte",
+      "start": 25910,
+      "end": 25917,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 26251,
+      "end": 26255,
+      "label": "MISC"
+    },
+    {
+      "text": "Défunt ma mère",
+      "start": 26337,
+      "end": 26351,
+      "label": "MISC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 26386,
+      "end": 26395,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 26538,
+      "end": 26547,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 26902,
+      "end": 26904,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre Cambremer",
+      "start": 27015,
+      "end": 27031,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 27069,
+      "end": 27078,
+      "label": "ORG"
+    },
+    {
+      "text": "Brouin de Guérande",
+      "start": 27440,
+      "end": 27458,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 27519,
+      "end": 27528,
+      "label": "LOC"
+    },
+    {
+      "text": "méditerranée",
+      "start": 27746,
+      "end": 27758,
+      "label": "LOC"
+    },
+    {
+      "text": "Guérande",
+      "start": 27832,
+      "end": 27840,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacquette Brouin",
+      "start": 27886,
+      "end": 27902,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 27906,
+      "end": 27915,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 28061,
+      "end": 28068,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 28163,
+      "end": 28170,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 28329,
+      "end": 28338,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 28442,
+      "end": 28451,
+      "label": "PER"
+    },
+    {
+      "text": "Votre fils",
+      "start": 28458,
+      "end": 28468,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah",
+      "start": 28528,
+      "end": 28531,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Cambremer",
+      "start": 28609,
+      "end": 28625,
+      "label": "PER"
+    },
+    {
+      "text": "Pougaud",
+      "start": 28680,
+      "end": 28687,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 28723,
+      "end": 28729,
+      "label": "MISC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 28965,
+      "end": 28974,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 28997,
+      "end": 29002,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 29064,
+      "end": 29073,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques Cambremer",
+      "start": 29133,
+      "end": 29150,
+      "label": "PER"
+    },
+    {
+      "text": "Guérande",
+      "start": 29199,
+      "end": 29207,
+      "label": "LOC"
+    },
+    {
+      "text": "Savenay",
+      "start": 29233,
+      "end": 29240,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 29333,
+      "end": 29342,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 29689,
+      "end": 29695,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Cambremer",
+      "start": 29848,
+      "end": 29864,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 30076,
+      "end": 30083,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 30088,
+      "end": 30095,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 30183,
+      "end": 30189,
+      "label": "MISC"
+    },
+    {
+      "text": "Nantes",
+      "start": 30273,
+      "end": 30279,
+      "label": "LOC"
+    },
+    {
+      "text": "ta mère",
+      "start": 30474,
+      "end": 30481,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 30655,
+      "end": 30661,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 30714,
+      "end": 30721,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Cambremer",
+      "start": 30950,
+      "end": 30966,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Nazaire",
+      "start": 31130,
+      "end": 31143,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 31203,
+      "end": 31209,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 31218,
+      "end": 31225,
+      "label": "PER"
+    },
+    {
+      "text": "Batz",
+      "start": 31344,
+      "end": 31348,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 31409,
+      "end": 31418,
+      "label": "PER"
+    },
+    {
+      "text": "Dupotet du Croisic",
+      "start": 31455,
+      "end": 31473,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 31716,
+      "end": 31725,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 31736,
+      "end": 31742,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 31839,
+      "end": 31848,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 31879,
+      "end": 31885,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 31918,
+      "end": 31925,
+      "label": "PER"
+    },
+    {
+      "text": "Pérotte",
+      "start": 31929,
+      "end": 31936,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 31956,
+      "end": 31965,
+      "label": "ORG"
+    },
+    {
+      "text": "Joseph Cambremer",
+      "start": 32053,
+      "end": 32069,
+      "label": "PER"
+    },
+    {
+      "text": "Pérotte",
+      "start": 32185,
+      "end": 32192,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Cambremer",
+      "start": 32206,
+      "end": 32222,
+      "label": "PER"
+    },
+    {
+      "text": "grande Frelu",
+      "start": 32344,
+      "end": 32356,
+      "label": "MISC"
+    },
+    {
+      "text": "Simon Gaudry",
+      "start": 32379,
+      "end": 32391,
+      "label": "PER"
+    },
+    {
+      "text": "Pérotte",
+      "start": 32411,
+      "end": 32418,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 32423,
+      "end": 32432,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 32455,
+      "end": 32464,
+      "label": "LOC"
+    },
+    {
+      "text": "Perotte",
+      "start": 32517,
+      "end": 32524,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 32713,
+      "end": 32720,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 32778,
+      "end": 32785,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 32799,
+      "end": 32808,
+      "label": "ORG"
+    },
+    {
+      "text": "Cambremer",
+      "start": 33012,
+      "end": 33021,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 33041,
+      "end": 33048,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 33182,
+      "end": 33189,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 33373,
+      "end": 33382,
+      "label": "PER"
+    },
+    {
+      "text": "Bon !",
+      "start": 33406,
+      "end": 33411,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 34030,
+      "end": 34038,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 34157,
+      "end": 34164,
+      "label": "PER"
+    },
+    {
+      "text": "Carnouf",
+      "start": 34276,
+      "end": 34283,
+      "label": "LOC"
+    },
+    {
+      "text": "Assieds toi",
+      "start": 34416,
+      "end": 34427,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 34545,
+      "end": 34552,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 34594,
+      "end": 34603,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 34768,
+      "end": 34774,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 34893,
+      "end": 34898,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 34904,
+      "end": 34910,
+      "label": "PER"
+    },
+    {
+      "text": "mère Fleurant",
+      "start": 35184,
+      "end": 35197,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 35259,
+      "end": 35266,
+      "label": "PER"
+    },
+    {
+      "text": "Nantes",
+      "start": 35354,
+      "end": 35360,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 35380,
+      "end": 35386,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 35591,
+      "end": 35598,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 35806,
+      "end": 35815,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 35917,
+      "end": 35920,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 35924,
+      "end": 35929,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 36048,
+      "end": 36055,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 36097,
+      "end": 36103,
+      "label": "MISC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 36178,
+      "end": 36187,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisic",
+      "start": 36221,
+      "end": 36228,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 36395,
+      "end": 36404,
+      "label": "ORG"
+    },
+    {
+      "text": "Piriac",
+      "start": 36437,
+      "end": 36443,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 36452,
+      "end": 36459,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 36582,
+      "end": 36587,
+      "label": "MISC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 36617,
+      "end": 36626,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 36668,
+      "end": 36675,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 36765,
+      "end": 36772,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 37217,
+      "end": 37226,
+      "label": "PER"
+    },
+    {
+      "text": "Cambremer",
+      "start": 37380,
+      "end": 37389,
+      "label": "ORG"
+    },
+    {
+      "text": "rin",
+      "start": 37837,
+      "end": 37840,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 37962,
+      "end": 37971,
+      "label": "ORG"
+    },
+    {
+      "text": "passe du Croisic",
+      "start": 38166,
+      "end": 38182,
+      "label": "LOC"
+    },
+    {
+      "text": "Brouin",
+      "start": 38203,
+      "end": 38209,
+      "label": "PER"
+    },
+    {
+      "text": "Batz",
+      "start": 38947,
+      "end": 38951,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 38957,
+      "end": 38964,
+      "label": "PER"
+    },
+    {
+      "text": "Croisic",
+      "start": 39023,
+      "end": 39030,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 39333,
+      "end": 39342,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretons",
+      "start": 40776,
+      "end": 40783,
+      "label": "MISC"
+    },
+    {
+      "text": "Flore",
+      "start": 41111,
+      "end": 41116,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambremer",
+      "start": 41495,
+      "end": 41504,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisic",
+      "start": 41683,
+      "end": 41690,
+      "label": "MISC"
+    },
+    {
+      "text": "Guérande",
+      "start": 41770,
+      "end": 41778,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauline",
+      "start": 41780,
+      "end": 41787,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 41995,
+      "end": 42000,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 42209,
+      "end": 42214,
+      "label": "LOC"
+    }
+  ]
+}

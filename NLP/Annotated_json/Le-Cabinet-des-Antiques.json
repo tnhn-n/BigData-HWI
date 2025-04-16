@@ -1,0 +1,4588 @@
+{
+  "entities": [
+    {
+      "text": "CABINET",
+      "start": 3,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "ANTIQUES",
+      "start": 15,
+      "end": 23,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Histoire de",
+      "start": 102,
+      "end": 115,
+      "label": "MISC"
+    },
+    {
+      "text": "Empire ottoman",
+      "start": 118,
+      "end": 132,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 134,
+      "end": 138,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous vous êtes si",
+      "start": 146,
+      "end": 163,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 501,
+      "end": 510,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 1173,
+      "end": 1184,
+      "label": "LOC"
+    },
+    {
+      "text": "Dobling",
+      "start": 1294,
+      "end": 1301,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 1399,
+      "end": 1405,
+      "label": "MISC"
+    },
+    {
+      "text": "Préfectures de France",
+      "start": 1444,
+      "end": 1465,
+      "label": "ORG"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 1779,
+      "end": 1796,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 1824,
+      "end": 1833,
+      "label": "LOC"
+    },
+    {
+      "text": "Belval",
+      "start": 1898,
+      "end": 1904,
+      "label": "LOC"
+    },
+    {
+      "text": "Floricour",
+      "start": 1910,
+      "end": 1919,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 1925,
+      "end": 1933,
+      "label": "PER"
+    },
+    {
+      "text": "Adalbert",
+      "start": 1953,
+      "end": 1961,
+      "label": "LOC"
+    },
+    {
+      "text": "Monbreuse",
+      "start": 1969,
+      "end": 1978,
+      "label": "MISC"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 2354,
+      "end": 2371,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Marie Victor",
+      "start": 2444,
+      "end": 2464,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 2477,
+      "end": 2496,
+      "label": "PER"
+    },
+    {
+      "text": "Grignons",
+      "start": 2504,
+      "end": 2512,
+      "label": "MISC"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 2735,
+      "end": 2752,
+      "label": "LOC"
+    },
+    {
+      "text": "Carol",
+      "start": 2799,
+      "end": 2804,
+      "label": "LOC"
+    },
+    {
+      "text": "Thierry",
+      "start": 2817,
+      "end": 2824,
+      "label": "PER"
+    },
+    {
+      "text": "Karawl",
+      "start": 2848,
+      "end": 2854,
+      "label": "LOC"
+    },
+    {
+      "text": "du Nord",
+      "start": 2920,
+      "end": 2927,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaules",
+      "start": 2961,
+      "end": 2967,
+      "label": "LOC"
+    },
+    {
+      "text": "Carol",
+      "start": 2980,
+      "end": 2985,
+      "label": "LOC"
+    },
+    {
+      "text": "Communes",
+      "start": 3024,
+      "end": 3032,
+      "label": "LOC"
+    },
+    {
+      "text": "Royauté",
+      "start": 3047,
+      "end": 3054,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 3068,
+      "end": 3074,
+      "label": "MISC"
+    },
+    {
+      "text": "Finance",
+      "start": 3089,
+      "end": 3096,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche française",
+      "start": 3132,
+      "end": 3148,
+      "label": "MISC"
+    },
+    {
+      "text": "d'Esgrignon",
+      "start": 3263,
+      "end": 3274,
+      "label": "LOC"
+    },
+    {
+      "text": "Vraie",
+      "start": 3305,
+      "end": 3310,
+      "label": "PER"
+    },
+    {
+      "text": "États",
+      "start": 3421,
+      "end": 3426,
+      "label": "LOC"
+    },
+    {
+      "text": "les pieux",
+      "start": 3604,
+      "end": 3613,
+      "label": "LOC"
+    },
+    {
+      "text": "César",
+      "start": 3644,
+      "end": 3649,
+      "label": "PER"
+    },
+    {
+      "text": "maison d'Esgrignon",
+      "start": 3935,
+      "end": 3953,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 4024,
+      "end": 4043,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 4133,
+      "end": 4142,
+      "label": "LOC"
+    },
+    {
+      "text": "État de France",
+      "start": 4183,
+      "end": 4197,
+      "label": "LOC"
+    },
+    {
+      "text": "connétable de Luynes",
+      "start": 4209,
+      "end": 4229,
+      "label": "PER"
+    },
+    {
+      "text": "Comptez",
+      "start": 4287,
+      "end": 4294,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 4336,
+      "end": 4345,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 4422,
+      "end": 4441,
+      "label": "PER"
+    },
+    {
+      "text": "Marche",
+      "start": 4486,
+      "end": 4492,
+      "label": "MISC"
+    },
+    {
+      "text": "Sans Culottes",
+      "start": 4606,
+      "end": 4619,
+      "label": "PER"
+    },
+    {
+      "text": "District",
+      "start": 4758,
+      "end": 4766,
+      "label": "LOC"
+    },
+    {
+      "text": "terre d'",
+      "start": 4780,
+      "end": 4788,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 4913,
+      "end": 4937,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 5189,
+      "end": 5199,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 5211,
+      "end": 5218,
+      "label": "PER"
+    },
+    {
+      "text": "La Terreur",
+      "start": 5467,
+      "end": 5477,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 5496,
+      "end": 5515,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 5652,
+      "end": 5661,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 5735,
+      "end": 5742,
+      "label": "PER"
+    },
+    {
+      "text": "Franc",
+      "start": 6374,
+      "end": 6379,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 6524,
+      "end": 6528,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 6566,
+      "end": 6573,
+      "label": "PER"
+    },
+    {
+      "text": "Carol",
+      "start": 6653,
+      "end": 6658,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 6797,
+      "end": 6804,
+      "label": "PER"
+    },
+    {
+      "text": "Maître Chesnel",
+      "start": 7264,
+      "end": 7278,
+      "label": "PER"
+    },
+    {
+      "text": "louis du marquis",
+      "start": 7305,
+      "end": 7321,
+      "label": "PER"
+    },
+    {
+      "text": "girouette",
+      "start": 7385,
+      "end": 7394,
+      "label": "PER"
+    },
+    {
+      "text": "colombier",
+      "start": 7410,
+      "end": 7419,
+      "label": "LOC"
+    },
+    {
+      "text": "Bailliage seigneurial",
+      "start": 7453,
+      "end": 7474,
+      "label": "ORG"
+    },
+    {
+      "text": "Présidial",
+      "start": 7484,
+      "end": 7493,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 7517,
+      "end": 7536,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 7726,
+      "end": 7743,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 7785,
+      "end": 7791,
+      "label": "LOC"
+    },
+    {
+      "text": "baron de Nouastre",
+      "start": 7967,
+      "end": 7984,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 8019,
+      "end": 8027,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 8030,
+      "end": 8039,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Nouastre",
+      "start": 8132,
+      "end": 8156,
+      "label": "PER"
+    },
+    {
+      "text": "Nouastre",
+      "start": 8183,
+      "end": 8191,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 8227,
+      "end": 8246,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 8387,
+      "end": 8396,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 9144,
+      "end": 9168,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 9177,
+      "end": 9181,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 9234,
+      "end": 9243,
+      "label": "MISC"
+    },
+    {
+      "text": "Franc",
+      "start": 9604,
+      "end": 9609,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 9713,
+      "end": 9737,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 9895,
+      "end": 9902,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle d'Esgrignon",
+      "start": 9982,
+      "end": 10006,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 10096,
+      "end": 10103,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 10162,
+      "end": 10170,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 10249,
+      "end": 10268,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 10673,
+      "end": 10680,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 11121,
+      "end": 11128,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 11208,
+      "end": 11215,
+      "label": "PER"
+    },
+    {
+      "text": "Noblesse",
+      "start": 11303,
+      "end": 11311,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 11393,
+      "end": 11401,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 11667,
+      "end": 11674,
+      "label": "PER"
+    },
+    {
+      "text": "Troubles",
+      "start": 11788,
+      "end": 11796,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 11865,
+      "end": 11872,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 12068,
+      "end": 12076,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Croisier",
+      "start": 12173,
+      "end": 12184,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 12298,
+      "end": 12307,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Croisier",
+      "start": 12597,
+      "end": 12608,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 12813,
+      "end": 12822,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 12885,
+      "end": 12898,
+      "label": "LOC"
+    },
+    {
+      "text": "La Roche Guyon",
+      "start": 13065,
+      "end": 13079,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 13162,
+      "end": 13171,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 13198,
+      "end": 13205,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 13233,
+      "end": 13242,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Marie Armande",
+      "start": 13244,
+      "end": 13270,
+      "label": "PER"
+    },
+    {
+      "text": "Claire d'Esgrignon",
+      "start": 13271,
+      "end": 13289,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 13375,
+      "end": 13382,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 13654,
+      "end": 13663,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 13746,
+      "end": 13755,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 13829,
+      "end": 13838,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 13977,
+      "end": 13984,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 14408,
+      "end": 14417,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 14507,
+      "end": 14514,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 14598,
+      "end": 14605,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 14737,
+      "end": 14746,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 14763,
+      "end": 14774,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 14836,
+      "end": 14845,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 15110,
+      "end": 15117,
+      "label": "PER"
+    },
+    {
+      "text": "voyais",
+      "start": 15445,
+      "end": 15451,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours",
+      "start": 15474,
+      "end": 15479,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 15537,
+      "end": 15547,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Armande",
+      "start": 15741,
+      "end": 15761,
+      "label": "PER"
+    },
+    {
+      "text": "Mille",
+      "start": 17060,
+      "end": 17065,
+      "label": "MISC"
+    },
+    {
+      "text": "Nuits",
+      "start": 17073,
+      "end": 17078,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 17183,
+      "end": 17192,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 17338,
+      "end": 17347,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 17421,
+      "end": 17428,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours",
+      "start": 17495,
+      "end": 17500,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 17636,
+      "end": 17643,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 18103,
+      "end": 18112,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 18558,
+      "end": 18582,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 18733,
+      "end": 18740,
+      "label": "LOC"
+    },
+    {
+      "text": "Féodalité",
+      "start": 18762,
+      "end": 18771,
+      "label": "LOC"
+    },
+    {
+      "text": "Agnès",
+      "start": 18892,
+      "end": 18897,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Touchet",
+      "start": 18899,
+      "end": 18912,
+      "label": "PER"
+    },
+    {
+      "text": "Gabrielle",
+      "start": 18914,
+      "end": 18923,
+      "label": "PER"
+    },
+    {
+      "text": "Souvenez",
+      "start": 19132,
+      "end": 19140,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 19198,
+      "end": 19222,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 19470,
+      "end": 19476,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 19543,
+      "end": 19562,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 19704,
+      "end": 19712,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 19961,
+      "end": 19966,
+      "label": "LOC"
+    },
+    {
+      "text": "les Roche",
+      "start": 20105,
+      "end": 20114,
+      "label": "LOC"
+    },
+    {
+      "text": "Nouâtre",
+      "start": 20126,
+      "end": 20133,
+      "label": "LOC"
+    },
+    {
+      "text": "Gordon",
+      "start": 20139,
+      "end": 20145,
+      "label": "LOC"
+    },
+    {
+      "text": "Casteran",
+      "start": 20151,
+      "end": 20159,
+      "label": "MISC"
+    },
+    {
+      "text": "Troisville",
+      "start": 20165,
+      "end": 20175,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 20529,
+      "end": 20548,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 20585,
+      "end": 20595,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 20599,
+      "end": 20602,
+      "label": "PER"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 20633,
+      "end": 20643,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 20668,
+      "end": 20679,
+      "label": "PER"
+    },
+    {
+      "text": "Mittau",
+      "start": 20689,
+      "end": 20695,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 20704,
+      "end": 20715,
+      "label": "LOC"
+    },
+    {
+      "text": "Province",
+      "start": 20732,
+      "end": 20740,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 20747,
+      "end": 20757,
+      "label": "LOC"
+    },
+    {
+      "text": "Intendance",
+      "start": 20762,
+      "end": 20772,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 20840,
+      "end": 20859,
+      "label": "PER"
+    },
+    {
+      "text": "Libéraux",
+      "start": 21518,
+      "end": 21526,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 21574,
+      "end": 21582,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 21882,
+      "end": 21901,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 21970,
+      "end": 21980,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 22072,
+      "end": 22081,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 22138,
+      "end": 22151,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet",
+      "start": 22187,
+      "end": 22194,
+      "label": "MISC"
+    },
+    {
+      "text": "Antiques",
+      "start": 22199,
+      "end": 22207,
+      "label": "ORG"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 22220,
+      "end": 22239,
+      "label": "PER"
+    },
+    {
+      "text": "Carol",
+      "start": 22267,
+      "end": 22272,
+      "label": "PER"
+    },
+    {
+      "text": "Grignons",
+      "start": 22390,
+      "end": 22398,
+      "label": "MISC"
+    },
+    {
+      "text": "d'Esgrignon",
+      "start": 22493,
+      "end": 22504,
+      "label": "PER"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 22542,
+      "end": 22555,
+      "label": "PER"
+    },
+    {
+      "text": "Cabinet",
+      "start": 22626,
+      "end": 22633,
+      "label": "MISC"
+    },
+    {
+      "text": "Antiques",
+      "start": 22638,
+      "end": 22646,
+      "label": "ORG"
+    },
+    {
+      "text": "Armande",
+      "start": 22734,
+      "end": 22741,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 22745,
+      "end": 22762,
+      "label": "LOC"
+    },
+    {
+      "text": "Place du Marché",
+      "start": 22954,
+      "end": 22969,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 23626,
+      "end": 23632,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri III",
+      "start": 23861,
+      "end": 23870,
+      "label": "PER"
+    },
+    {
+      "text": "Couronne",
+      "start": 23937,
+      "end": 23945,
+      "label": "ORG"
+    },
+    {
+      "text": "Salomon",
+      "start": 24266,
+      "end": 24273,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 24529,
+      "end": 24538,
+      "label": "PER"
+    },
+    {
+      "text": "Pas Perdus du Présidial",
+      "start": 24795,
+      "end": 24818,
+      "label": "LOC"
+    },
+    {
+      "text": "Maturin",
+      "start": 25928,
+      "end": 25935,
+      "label": "PER"
+    },
+    {
+      "text": "Hoffmann",
+      "start": 25939,
+      "end": 25947,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 26392,
+      "end": 26401,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27469,
+      "end": 27474,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 27478,
+      "end": 27485,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 27489,
+      "end": 27495,
+      "label": "LOC"
+    },
+    {
+      "text": "Munich",
+      "start": 27499,
+      "end": 27505,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet",
+      "start": 27616,
+      "end": 27623,
+      "label": "MISC"
+    },
+    {
+      "text": "Antiques",
+      "start": 27628,
+      "end": 27636,
+      "label": "ORG"
+    },
+    {
+      "text": "Armande",
+      "start": 27835,
+      "end": 27842,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 27928,
+      "end": 27938,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 28310,
+      "end": 28318,
+      "label": "PER"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 28350,
+      "end": 28370,
+      "label": "ORG"
+    },
+    {
+      "text": "Decazes",
+      "start": 28580,
+      "end": 28587,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 28641,
+      "end": 28648,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 28742,
+      "end": 28754,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 28792,
+      "end": 28811,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 29288,
+      "end": 29299,
+      "label": "PER"
+    },
+    {
+      "text": "Émigrés",
+      "start": 29334,
+      "end": 29341,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 29510,
+      "end": 29514,
+      "label": "LOC"
+    },
+    {
+      "text": "Domaines",
+      "start": 29536,
+      "end": 29544,
+      "label": "PER"
+    },
+    {
+      "text": "Libéraux",
+      "start": 29758,
+      "end": 29766,
+      "label": "LOC"
+    },
+    {
+      "text": "Constitutionnels",
+      "start": 29770,
+      "end": 29786,
+      "label": "LOC"
+    },
+    {
+      "text": "Ultras",
+      "start": 29814,
+      "end": 29820,
+      "label": "PER"
+    },
+    {
+      "text": "la Droite",
+      "start": 29897,
+      "end": 29906,
+      "label": "ORG"
+    },
+    {
+      "text": "Polignac",
+      "start": 29973,
+      "end": 29981,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 30016,
+      "end": 30027,
+      "label": "PER"
+    },
+    {
+      "text": "Royauté",
+      "start": 30120,
+      "end": 30127,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 30213,
+      "end": 30224,
+      "label": "PER"
+    },
+    {
+      "text": "la Droite",
+      "start": 30285,
+      "end": 30294,
+      "label": "ORG"
+    },
+    {
+      "text": "M. de Villèle",
+      "start": 30428,
+      "end": 30441,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration de 1814",
+      "start": 30584,
+      "end": 30607,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 30639,
+      "end": 30647,
+      "label": "PER"
+    },
+    {
+      "text": "Maison de Bourbon",
+      "start": 30697,
+      "end": 30714,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 30933,
+      "end": 30946,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 30953,
+      "end": 30961,
+      "label": "LOC"
+    },
+    {
+      "text": "fier d'Esgrignon",
+      "start": 31504,
+      "end": 31520,
+      "label": "LOC"
+    },
+    {
+      "text": "Monarchie",
+      "start": 31577,
+      "end": 31586,
+      "label": "MISC"
+    },
+    {
+      "text": "Religion",
+      "start": 31596,
+      "end": 31604,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 31772,
+      "end": 31792,
+      "label": "ORG"
+    },
+    {
+      "text": "Restauration",
+      "start": 31802,
+      "end": 31814,
+      "label": "MISC"
+    },
+    {
+      "text": "Croisier",
+      "start": 32088,
+      "end": 32096,
+      "label": "LOC"
+    },
+    {
+      "text": "CHEVALIER",
+      "start": 32428,
+      "end": 32437,
+      "label": "ORG"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 32457,
+      "end": 32471,
+      "label": "PER"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 32478,
+      "end": 32486,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 32862,
+      "end": 32868,
+      "label": "LOC"
+    },
+    {
+      "text": "Royalistes",
+      "start": 33060,
+      "end": 33070,
+      "label": "MISC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 33093,
+      "end": 33101,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Laffitte",
+      "start": 33839,
+      "end": 33856,
+      "label": "MISC"
+    },
+    {
+      "text": "Casimir Périer",
+      "start": 33874,
+      "end": 33888,
+      "label": "PER"
+    },
+    {
+      "text": "Villèle",
+      "start": 33925,
+      "end": 33932,
+      "label": "PER"
+    },
+    {
+      "text": "Peyronnet",
+      "start": 33953,
+      "end": 33962,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Laffitte",
+      "start": 33964,
+      "end": 33981,
+      "label": "MISC"
+    },
+    {
+      "text": "Benjamin Constant",
+      "start": 34092,
+      "end": 34109,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Châteaubriand",
+      "start": 34146,
+      "end": 34170,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 34264,
+      "end": 34275,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 34279,
+      "end": 34284,
+      "label": "LOC"
+    },
+    {
+      "text": "Province",
+      "start": 34319,
+      "end": 34327,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 34827,
+      "end": 34847,
+      "label": "ORG"
+    },
+    {
+      "text": "hôtel du Croisier",
+      "start": 34866,
+      "end": 34883,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauvages",
+      "start": 34928,
+      "end": 34936,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 35135,
+      "end": 35144,
+      "label": "ORG"
+    },
+    {
+      "text": "Mont Sacré",
+      "start": 35182,
+      "end": 35192,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 35287,
+      "end": 35295,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 35417,
+      "end": 35437,
+      "label": "ORG"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 35469,
+      "end": 35486,
+      "label": "LOC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 35729,
+      "end": 35737,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 36087,
+      "end": 36095,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 36132,
+      "end": 36140,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 36176,
+      "end": 36187,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 36198,
+      "end": 36217,
+      "label": "PER"
+    },
+    {
+      "text": "Gauche pure",
+      "start": 36332,
+      "end": 36343,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisier",
+      "start": 36348,
+      "end": 36356,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 36514,
+      "end": 36525,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 36542,
+      "end": 36550,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 36588,
+      "end": 36608,
+      "label": "ORG"
+    },
+    {
+      "text": "Département",
+      "start": 36660,
+      "end": 36671,
+      "label": "LOC"
+    },
+    {
+      "text": "gêna",
+      "start": 36754,
+      "end": 36758,
+      "label": "PER"
+    },
+    {
+      "text": "Monarchie",
+      "start": 36855,
+      "end": 36864,
+      "label": "MISC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 36870,
+      "end": 36878,
+      "label": "MISC"
+    },
+    {
+      "text": "Croisier",
+      "start": 37024,
+      "end": 37032,
+      "label": "LOC"
+    },
+    {
+      "text": "Gauche pure",
+      "start": 37089,
+      "end": 37100,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisier",
+      "start": 37127,
+      "end": 37135,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 37155,
+      "end": 37161,
+      "label": "PER"
+    },
+    {
+      "text": "Gauche",
+      "start": 37226,
+      "end": 37232,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Gondreville",
+      "start": 37317,
+      "end": 37337,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 37393,
+      "end": 37404,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 37555,
+      "end": 37563,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 37680,
+      "end": 37688,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 37807,
+      "end": 37826,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration",
+      "start": 38065,
+      "end": 38080,
+      "label": "MISC"
+    },
+    {
+      "text": "Croisier",
+      "start": 38119,
+      "end": 38127,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 38134,
+      "end": 38154,
+      "label": "ORG"
+    },
+    {
+      "text": "Providence",
+      "start": 38269,
+      "end": 38279,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 38423,
+      "end": 38431,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 38637,
+      "end": 38645,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 38697,
+      "end": 38706,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 38713,
+      "end": 38722,
+      "label": "ORG"
+    },
+    {
+      "text": "Cabinet",
+      "start": 38788,
+      "end": 38795,
+      "label": "MISC"
+    },
+    {
+      "text": "Antiques",
+      "start": 38800,
+      "end": 38808,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauvage",
+      "start": 38836,
+      "end": 38843,
+      "label": "MISC"
+    },
+    {
+      "text": "Président du Tribunal",
+      "start": 39094,
+      "end": 39115,
+      "label": "PER"
+    },
+    {
+      "text": "Ronceret",
+      "start": 39129,
+      "end": 39137,
+      "label": "MISC"
+    },
+    {
+      "text": "Cabinet",
+      "start": 39186,
+      "end": 39193,
+      "label": "MISC"
+    },
+    {
+      "text": "Antiques",
+      "start": 39198,
+      "end": 39206,
+      "label": "ORG"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 39258,
+      "end": 39267,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 39310,
+      "end": 39317,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien d'Esgrignon",
+      "start": 39462,
+      "end": 39484,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur l'Évêque",
+      "start": 39543,
+      "end": 39563,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 39712,
+      "end": 39719,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 39965,
+      "end": 39972,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 40007,
+      "end": 40014,
+      "label": "PER"
+    },
+    {
+      "text": "maison d'",
+      "start": 40740,
+      "end": 40749,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 40799,
+      "end": 40803,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 40815,
+      "end": 40819,
+      "label": "LOC"
+    },
+    {
+      "text": "maison d'Esgrignon",
+      "start": 40995,
+      "end": 41013,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 41079,
+      "end": 41089,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 41209,
+      "end": 41213,
+      "label": "ORG"
+    },
+    {
+      "text": "Roi",
+      "start": 41240,
+      "end": 41243,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 41292,
+      "end": 41301,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 41307,
+      "end": 41318,
+      "label": "PER"
+    },
+    {
+      "text": "Rohan",
+      "start": 41324,
+      "end": 41329,
+      "label": "LOC"
+    },
+    {
+      "text": "Crillon",
+      "start": 41335,
+      "end": 41342,
+      "label": "LOC"
+    },
+    {
+      "text": "Fesenzac",
+      "start": 41348,
+      "end": 41356,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouillon",
+      "start": 41362,
+      "end": 41370,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 41554,
+      "end": 41563,
+      "label": "ORG"
+    },
+    {
+      "text": "Troisville",
+      "start": 41569,
+      "end": 41579,
+      "label": "LOC"
+    },
+    {
+      "text": "Tréville",
+      "start": 41591,
+      "end": 41599,
+      "label": "PER"
+    },
+    {
+      "text": "La Roche Guyon",
+      "start": 41606,
+      "end": 41620,
+      "label": "LOC"
+    },
+    {
+      "text": "Castéran",
+      "start": 41626,
+      "end": 41634,
+      "label": "MISC"
+    },
+    {
+      "text": "Catéran",
+      "start": 41646,
+      "end": 41653,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Gordon",
+      "start": 41659,
+      "end": 41672,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 41931,
+      "end": 41940,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 42007,
+      "end": 42012,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 42020,
+      "end": 42031,
+      "label": "PER"
+    },
+    {
+      "text": "Charte de la vingt et unième année de son règne",
+      "start": 42074,
+      "end": 42121,
+      "label": "MISC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 42198,
+      "end": 42207,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 42392,
+      "end": 42396,
+      "label": "ORG"
+    },
+    {
+      "text": "Tribune",
+      "start": 42484,
+      "end": 42491,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Ampoule",
+      "start": 42565,
+      "end": 42579,
+      "label": "PER"
+    },
+    {
+      "text": "laide",
+      "start": 42688,
+      "end": 42693,
+      "label": "PER"
+    },
+    {
+      "text": "Troisville",
+      "start": 42782,
+      "end": 42792,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 42809,
+      "end": 42819,
+      "label": "MISC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 42840,
+      "end": 42860,
+      "label": "ORG"
+    },
+    {
+      "text": "Troisville",
+      "start": 42899,
+      "end": 42909,
+      "label": "LOC"
+    },
+    {
+      "text": "Troisville",
+      "start": 42954,
+      "end": 42964,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 43092,
+      "end": 43099,
+      "label": "ORG"
+    },
+    {
+      "text": "Industrie",
+      "start": 43501,
+      "end": 43510,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution",
+      "start": 43567,
+      "end": 43577,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 43876,
+      "end": 43889,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 44047,
+      "end": 44050,
+      "label": "PER"
+    },
+    {
+      "text": "Reine",
+      "start": 44065,
+      "end": 44070,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 44244,
+      "end": 44251,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 44291,
+      "end": 44300,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 45080,
+      "end": 45087,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 45151,
+      "end": 45155,
+      "label": "MISC"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 45165,
+      "end": 45175,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 45289,
+      "end": 45296,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 45350,
+      "end": 45354,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 45377,
+      "end": 45386,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien d'Esgrignon",
+      "start": 45773,
+      "end": 45795,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 46263,
+      "end": 46270,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 46273,
+      "end": 46283,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 46856,
+      "end": 46862,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 47387,
+      "end": 47394,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 47921,
+      "end": 47930,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 47937,
+      "end": 47945,
+      "label": "LOC"
+    },
+    {
+      "text": "plaçât",
+      "start": 48174,
+      "end": 48180,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Antiquaire",
+      "start": 48193,
+      "end": 48205,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 48221,
+      "end": 48224,
+      "label": "PER"
+    },
+    {
+      "text": "Du Croisier",
+      "start": 48299,
+      "end": 48310,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 48695,
+      "end": 48705,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 48763,
+      "end": 48766,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien les poussa",
+      "start": 49163,
+      "end": 49184,
+      "label": "MISC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 49659,
+      "end": 49668,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint George",
+      "start": 50132,
+      "end": 50144,
+      "label": "PER"
+    },
+    {
+      "text": "Privilége",
+      "start": 50354,
+      "end": 50363,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien d'Esgrignon",
+      "start": 50671,
+      "end": 50693,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 51231,
+      "end": 51250,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de France",
+      "start": 51272,
+      "end": 51290,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 51294,
+      "end": 51304,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 51442,
+      "end": 51446,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 51514,
+      "end": 51523,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 51957,
+      "end": 51966,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 52051,
+      "end": 52056,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 52167,
+      "end": 52170,
+      "label": "PER"
+    },
+    {
+      "text": "Faublas",
+      "start": 52445,
+      "end": 52452,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 52640,
+      "end": 52648,
+      "label": "PER"
+    },
+    {
+      "text": "Dancourt",
+      "start": 52864,
+      "end": 52872,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumarchais",
+      "start": 52891,
+      "end": 52903,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 53013,
+      "end": 53022,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 53294,
+      "end": 53303,
+      "label": "ORG"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 53359,
+      "end": 53368,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 53481,
+      "end": 53490,
+      "label": "LOC"
+    },
+    {
+      "text": "HONNEUR",
+      "start": 53539,
+      "end": 53546,
+      "label": "ORG"
+    },
+    {
+      "text": "d'Esgrignon",
+      "start": 53704,
+      "end": 53715,
+      "label": "LOC"
+    },
+    {
+      "text": "Un d'Esgrignon",
+      "start": 53788,
+      "end": 53802,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 53968,
+      "end": 53975,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 53977,
+      "end": 53984,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 54039,
+      "end": 54049,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 54170,
+      "end": 54180,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel d'Esgrignon",
+      "start": 54297,
+      "end": 54314,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 54376,
+      "end": 54381,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 54849,
+      "end": 54859,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 55089,
+      "end": 55096,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 55170,
+      "end": 55189,
+      "label": "PER"
+    },
+    {
+      "text": "saint Louis",
+      "start": 55327,
+      "end": 55338,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 55422,
+      "end": 55429,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 55521,
+      "end": 55530,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 55563,
+      "end": 55570,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 55688,
+      "end": 55692,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 55861,
+      "end": 55868,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 55925,
+      "end": 55935,
+      "label": "MISC"
+    },
+    {
+      "text": "Croisier",
+      "start": 56410,
+      "end": 56418,
+      "label": "LOC"
+    },
+    {
+      "text": "Président du Ronceret",
+      "start": 56721,
+      "end": 56742,
+      "label": "PER"
+    },
+    {
+      "text": "Procureur",
+      "start": 56787,
+      "end": 56796,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 56800,
+      "end": 56803,
+      "label": "PER"
+    },
+    {
+      "text": "maison d'",
+      "start": 57048,
+      "end": 57057,
+      "label": "PER"
+    },
+    {
+      "text": "Du Croisier",
+      "start": 57657,
+      "end": 57668,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 57692,
+      "end": 57701,
+      "label": "LOC"
+    },
+    {
+      "text": "Président du Ronceret",
+      "start": 57952,
+      "end": 57973,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 57979,
+      "end": 57989,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 58124,
+      "end": 58134,
+      "label": "PER"
+    },
+    {
+      "text": "Président du Ronceret",
+      "start": 58180,
+      "end": 58201,
+      "label": "PER"
+    },
+    {
+      "text": "Du Croisier",
+      "start": 58349,
+      "end": 58360,
+      "label": "PER"
+    },
+    {
+      "text": "Félicien du Ronceret",
+      "start": 58569,
+      "end": 58589,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 58814,
+      "end": 58824,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 58909,
+      "end": 58916,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 59207,
+      "end": 59214,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 59545,
+      "end": 59550,
+      "label": "LOC"
+    },
+    {
+      "text": "Croisier",
+      "start": 59656,
+      "end": 59664,
+      "label": "LOC"
+    },
+    {
+      "text": "Noblesse",
+      "start": 59707,
+      "end": 59715,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeoisie",
+      "start": 59754,
+      "end": 59765,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 59874,
+      "end": 59885,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 60011,
+      "end": 60018,
+      "label": "PER"
+    },
+    {
+      "text": "Parlements",
+      "start": 60072,
+      "end": 60082,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 60205,
+      "end": 60215,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 60315,
+      "end": 60322,
+      "label": "PER"
+    },
+    {
+      "text": "Troisville",
+      "start": 60626,
+      "end": 60636,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Gordon",
+      "start": 60646,
+      "end": 60659,
+      "label": "PER"
+    },
+    {
+      "text": "Préfecture",
+      "start": 60666,
+      "end": 60676,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 60688,
+      "end": 60704,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 60706,
+      "end": 60716,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 60788,
+      "end": 60798,
+      "label": "LOC"
+    },
+    {
+      "text": "Bercail",
+      "start": 60855,
+      "end": 60862,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 60904,
+      "end": 60906,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien s'asseyait",
+      "start": 61044,
+      "end": 61065,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 61350,
+      "end": 61357,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 61369,
+      "end": 61374,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 61583,
+      "end": 61588,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 61648,
+      "end": 61658,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 61675,
+      "end": 61682,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 62715,
+      "end": 62721,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric II",
+      "start": 62727,
+      "end": 62738,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 62746,
+      "end": 62754,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 62756,
+      "end": 62763,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien cette indomptable fureur",
+      "start": 62780,
+      "end": 62815,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 63386,
+      "end": 63393,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 63410,
+      "end": 63419,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 63475,
+      "end": 63484,
+      "label": "ORG"
+    },
+    {
+      "text": "Expliquez",
+      "start": 63546,
+      "end": 63555,
+      "label": "MISC"
+    },
+    {
+      "text": "Dette Publique",
+      "start": 63578,
+      "end": 63592,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 63603,
+      "end": 63610,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 63648,
+      "end": 63657,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien n'en",
+      "start": 63681,
+      "end": 63696,
+      "label": "MISC"
+    },
+    {
+      "text": "Voudriez",
+      "start": 63808,
+      "end": 63816,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien vous apportât des économies ?",
+      "start": 63837,
+      "end": 63877,
+      "label": "MISC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 63912,
+      "end": 63921,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Chinon",
+      "start": 64030,
+      "end": 64046,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 64063,
+      "end": 64072,
+      "label": "PER"
+    },
+    {
+      "text": "Université",
+      "start": 64115,
+      "end": 64125,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 64178,
+      "end": 64187,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 64191,
+      "end": 64193,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 64335,
+      "end": 64342,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 64698,
+      "end": 64706,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 64713,
+      "end": 64725,
+      "label": "MISC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 64880,
+      "end": 64900,
+      "label": "ORG"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 65131,
+      "end": 65140,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 65245,
+      "end": 65254,
+      "label": "ORG"
+    },
+    {
+      "text": "Victurnien",
+      "start": 65305,
+      "end": 65315,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 65320,
+      "end": 65329,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 65421,
+      "end": 65430,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour",
+      "start": 65510,
+      "end": 65514,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 65587,
+      "end": 65591,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 65721,
+      "end": 65724,
+      "label": "PER"
+    },
+    {
+      "text": "Majesté",
+      "start": 65784,
+      "end": 65791,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 65796,
+      "end": 65799,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 66106,
+      "end": 66109,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 66119,
+      "end": 66125,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 66206,
+      "end": 66214,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 66239,
+      "end": 66248,
+      "label": "LOC"
+    },
+    {
+      "text": "Troisville",
+      "start": 66346,
+      "end": 66356,
+      "label": "LOC"
+    },
+    {
+      "text": "Troisville",
+      "start": 66372,
+      "end": 66382,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 66396,
+      "end": 66405,
+      "label": "LOC"
+    },
+    {
+      "text": "Noblesse",
+      "start": 66433,
+      "end": 66441,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands Colléges",
+      "start": 66458,
+      "end": 66473,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 66830,
+      "end": 66839,
+      "label": "LOC"
+    },
+    {
+      "text": "Normande ben sotte",
+      "start": 66960,
+      "end": 66978,
+      "label": "PER"
+    },
+    {
+      "text": "Royaume",
+      "start": 67141,
+      "end": 67148,
+      "label": "LOC"
+    },
+    {
+      "text": "Couronne",
+      "start": 67158,
+      "end": 67166,
+      "label": "ORG"
+    },
+    {
+      "text": "comte d'Esgrignon",
+      "start": 67386,
+      "end": 67403,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 67557,
+      "end": 67566,
+      "label": "ORG"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 67690,
+      "end": 67698,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration",
+      "start": 67813,
+      "end": 67828,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 67833,
+      "end": 67836,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 67879,
+      "end": 67885,
+      "label": "PER"
+    },
+    {
+      "text": "Gaule",
+      "start": 67928,
+      "end": 67933,
+      "label": "LOC"
+    },
+    {
+      "text": "Tailles",
+      "start": 67981,
+      "end": 67988,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 68031,
+      "end": 68035,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68137,
+      "end": 68146,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 68150,
+      "end": 68152,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 68178,
+      "end": 68185,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 68197,
+      "end": 68204,
+      "label": "PER"
+    },
+    {
+      "text": "Croiriez",
+      "start": 68223,
+      "end": 68231,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68238,
+      "end": 68247,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 68272,
+      "end": 68279,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 68318,
+      "end": 68326,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 68332,
+      "end": 68336,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68384,
+      "end": 68393,
+      "label": "ORG"
+    },
+    {
+      "text": "Impardonnable",
+      "start": 68397,
+      "end": 68410,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 68430,
+      "end": 68432,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 68461,
+      "end": 68468,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 68535,
+      "end": 68542,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68584,
+      "end": 68593,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 68628,
+      "end": 68635,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68845,
+      "end": 68854,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 68960,
+      "end": 68969,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 69024,
+      "end": 69026,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 69042,
+      "end": 69051,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 69102,
+      "end": 69109,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 69235,
+      "end": 69242,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 69301,
+      "end": 69310,
+      "label": "ORG"
+    },
+    {
+      "text": "louis",
+      "start": 69354,
+      "end": 69359,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 69411,
+      "end": 69420,
+      "label": "ORG"
+    },
+    {
+      "text": "comte d'Esgrignon",
+      "start": 69441,
+      "end": 69458,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 69487,
+      "end": 69494,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 69746,
+      "end": 69753,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 69808,
+      "end": 69818,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 69874,
+      "end": 69883,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 70428,
+      "end": 70437,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 70535,
+      "end": 70544,
+      "label": "ORG"
+    },
+    {
+      "text": "Buonaparte",
+      "start": 70692,
+      "end": 70702,
+      "label": "PER"
+    },
+    {
+      "text": "Commissions militaires",
+      "start": 70712,
+      "end": 70734,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 70738,
+      "end": 70740,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 70893,
+      "end": 70902,
+      "label": "ORG"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 71052,
+      "end": 71061,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 71339,
+      "end": 71348,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 71397,
+      "end": 71399,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 71433,
+      "end": 71442,
+      "label": "ORG"
+    },
+    {
+      "text": "Allons",
+      "start": 71535,
+      "end": 71541,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 71591,
+      "end": 71594,
+      "label": "PER"
+    },
+    {
+      "text": "Navarreins",
+      "start": 71687,
+      "end": 71697,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 71702,
+      "end": 71712,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 71717,
+      "end": 71729,
+      "label": "PER"
+    },
+    {
+      "text": "Chaulieu",
+      "start": 71734,
+      "end": 71742,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 71751,
+      "end": 71760,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon cher Chevalier",
+      "start": 71800,
+      "end": 71818,
+      "label": "MISC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 71878,
+      "end": 71887,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 71893,
+      "end": 71897,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 71966,
+      "end": 71973,
+      "label": "PER"
+    },
+    {
+      "text": "Troubles",
+      "start": 72022,
+      "end": 72030,
+      "label": "LOC"
+    },
+    {
+      "text": "Mons Chesnel",
+      "start": 72032,
+      "end": 72044,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 72137,
+      "end": 72144,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 72266,
+      "end": 72275,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 72294,
+      "end": 72303,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 72559,
+      "end": 72568,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 72712,
+      "end": 72719,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 72780,
+      "end": 72799,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 73110,
+      "end": 73118,
+      "label": "PER"
+    },
+    {
+      "text": "Beaumarchais",
+      "start": 73134,
+      "end": 73146,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 73164,
+      "end": 73185,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Saxe",
+      "start": 73230,
+      "end": 73246,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 73294,
+      "end": 73302,
+      "label": "PER"
+    },
+    {
+      "text": "Condé",
+      "start": 73477,
+      "end": 73482,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 73505,
+      "end": 73513,
+      "label": "LOC"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 73605,
+      "end": 73619,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Preux",
+      "start": 73911,
+      "end": 73922,
+      "label": "PER"
+    },
+    {
+      "text": "Lovelace",
+      "start": 73931,
+      "end": 73939,
+      "label": "LOC"
+    },
+    {
+      "text": "Diderot",
+      "start": 73964,
+      "end": 73971,
+      "label": "PER"
+    },
+    {
+      "text": "Montesquieu",
+      "start": 73998,
+      "end": 74009,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 74283,
+      "end": 74286,
+      "label": "PER"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 74468,
+      "end": 74479,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazette de France",
+      "start": 74486,
+      "end": 74503,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 75025,
+      "end": 75044,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 75168,
+      "end": 75175,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 75182,
+      "end": 75191,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour",
+      "start": 75471,
+      "end": 75475,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 75576,
+      "end": 75580,
+      "label": "ORG"
+    },
+    {
+      "text": "Qu'a t on fait pour les Montauran",
+      "start": 75846,
+      "end": 75879,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 75890,
+      "end": 75899,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 76071,
+      "end": 76074,
+      "label": "PER"
+    },
+    {
+      "text": "Royauté",
+      "start": 76140,
+      "end": 76147,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle d'Esgrignon",
+      "start": 76149,
+      "end": 76173,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 76335,
+      "end": 76342,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphin",
+      "start": 76388,
+      "end": 76396,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 76458,
+      "end": 76465,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 76613,
+      "end": 76619,
+      "label": "LOC"
+    },
+    {
+      "text": "tuteur",
+      "start": 76746,
+      "end": 76752,
+      "label": "LOC"
+    },
+    {
+      "text": "comte d'Esgrignon",
+      "start": 76812,
+      "end": 76829,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 76995,
+      "end": 76999,
+      "label": "ORG"
+    },
+    {
+      "text": "Roi",
+      "start": 77009,
+      "end": 77012,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 77109,
+      "end": 77116,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 77191,
+      "end": 77196,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 77215,
+      "end": 77218,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 77361,
+      "end": 77368,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Armande",
+      "start": 77478,
+      "end": 77498,
+      "label": "PER"
+    },
+    {
+      "text": "Asseyez vous",
+      "start": 77648,
+      "end": 77660,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 77662,
+      "end": 77669,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Armande",
+      "start": 77736,
+      "end": 77756,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 77856,
+      "end": 77863,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 78474,
+      "end": 78478,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 78513,
+      "end": 78525,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 78680,
+      "end": 78689,
+      "label": "ORG"
+    },
+    {
+      "text": "Chevalier",
+      "start": 78982,
+      "end": 78991,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé",
+      "start": 79019,
+      "end": 79021,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 79030,
+      "end": 79037,
+      "label": "PER"
+    },
+    {
+      "text": "Armande",
+      "start": 79092,
+      "end": 79099,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 79124,
+      "end": 79131,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 79449,
+      "end": 79461,
+      "label": "PER"
+    },
+    {
+      "text": "Président du Tribunal",
+      "start": 79614,
+      "end": 79635,
+      "label": "PER"
+    },
+    {
+      "text": "Ronceret",
+      "start": 79649,
+      "end": 79657,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 79775,
+      "end": 79782,
+      "label": "LOC"
+    },
+    {
+      "text": "Troisville",
+      "start": 79896,
+      "end": 79906,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Gordon",
+      "start": 79919,
+      "end": 79932,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Casteran",
+      "start": 79945,
+      "end": 79964,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 80006,
+      "end": 80014,
+      "label": "LOC"
+    },
+    {
+      "text": "Félicien du Ronceret",
+      "start": 80025,
+      "end": 80045,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 80292,
+      "end": 80301,
+      "label": "ORG"
+    },
+    {
+      "text": "Croisier",
+      "start": 80506,
+      "end": 80514,
+      "label": "LOC"
+    },
+    {
+      "text": "Méprisé",
+      "start": 81161,
+      "end": 81168,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel !",
+      "start": 81184,
+      "end": 81193,
+      "label": "MISC"
+    },
+    {
+      "text": "Armande",
+      "start": 81231,
+      "end": 81238,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 81628,
+      "end": 81632,
+      "label": "MISC"
+    },
+    {
+      "text": "Croyez",
+      "start": 81642,
+      "end": 81648,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Armande",
+      "start": 81918,
+      "end": 81938,
+      "label": "PER"
+    },
+    {
+      "text": "Bon Chesnel",
+      "start": 82013,
+      "end": 82024,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 82121,
+      "end": 82125,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh ! mademoiselle",
+      "start": 82155,
+      "end": 82172,
+      "label": "MISC"
+    },
+    {
+      "text": "Jard",
+      "start": 82195,
+      "end": 82199,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 82237,
+      "end": 82245,
+      "label": "MISC"
+    },
+    {
+      "text": "maison d'Esgrignon",
+      "start": 82501,
+      "end": 82519,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 82570,
+      "end": 82577,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 82580,
+      "end": 82587,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 82769,
+      "end": 82774,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82946,
+      "end": 82954,
+      "label": "PER"
+    },
+    {
+      "text": "maison d'Esgrignon",
+      "start": 83090,
+      "end": 83108,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 83302,
+      "end": 83306,
+      "label": "ORG"
+    },
+    {
+      "text": "Roi",
+      "start": 83330,
+      "end": 83333,
+      "label": "PER"
+    },
+    {
+      "text": "Maison du Roi",
+      "start": 83472,
+      "end": 83485,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 83539,
+      "end": 83542,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 83572,
+      "end": 83581,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 83708,
+      "end": 83717,
+      "label": "LOC"
+    },
+    {
+      "text": "Écoles spéciales",
+      "start": 84060,
+      "end": 84076,
+      "label": "LOC"
+    },
+    {
+      "text": "Pages",
+      "start": 84105,
+      "end": 84110,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Cyr",
+      "start": 84169,
+      "end": 84178,
+      "label": "LOC"
+    },
+    {
+      "text": "École Polytechnique",
+      "start": 84186,
+      "end": 84205,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 84442,
+      "end": 84447,
+      "label": "LOC"
+    },
+    {
+      "text": "Armande",
+      "start": 84496,
+      "end": 84503,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 84548,
+      "end": 84551,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 84597,
+      "end": 84606,
+      "label": "LOC"
+    },
+    {
+      "text": "Marri",
+      "start": 84668,
+      "end": 84673,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphin",
+      "start": 84773,
+      "end": 84781,
+      "label": "MISC"
+    },
+    {
+      "text": "Souvenez",
+      "start": 84973,
+      "end": 84981,
+      "label": "LOC"
+    },
+    {
+      "text": "Carol",
+      "start": 85027,
+      "end": 85032,
+      "label": "PER"
+    },
+    {
+      "text": "Rendez",
+      "start": 85215,
+      "end": 85221,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 85431,
+      "end": 85434,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 85445,
+      "end": 85449,
+      "label": "MISC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 85497,
+      "end": 85504,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 85723,
+      "end": 85728,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 85765,
+      "end": 85772,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 85783,
+      "end": 85793,
+      "label": "PER"
+    },
+    {
+      "text": "Dédale",
+      "start": 85890,
+      "end": 85896,
+      "label": "PER"
+    },
+    {
+      "text": "Icare",
+      "start": 85899,
+      "end": 85904,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 86014,
+      "end": 86022,
+      "label": "LOC"
+    },
+    {
+      "text": "Sorbier",
+      "start": 86038,
+      "end": 86045,
+      "label": "PER"
+    },
+    {
+      "text": "Sorbier",
+      "start": 86639,
+      "end": 86646,
+      "label": "PER"
+    },
+    {
+      "text": "Chesnel",
+      "start": 86713,
+      "end": 86720,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 86846,
+      "end": 86865,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 86926,
+      "end": 86931,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 87080,
+      "end": 87093,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien",
+      "start": 87387,
+      "end": 87394,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 87409,
+      "end": 87417,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 87782,
+      "end": 87791,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 87860,
+      "end": 87865,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 87900,
+      "end": 87903,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 87905,
+      "end": 87910,
+      "label": "LOC"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 88218,
+      "end": 88234,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariage de Figaro",
+      "start": 88314,
+      "end": 88331,
+      "label": "MISC"
+    },
+    {
+      "text": "Sorbier",
+      "start": 88505,
+      "end": 88512,
+      "label": "PER"
+    },
+    {
+      "text": "refleuri",
+      "start": 88714,
+      "end": 88722,
+      "label": "PER"
+    },
+    {
+      "text": "maison d'Esgrignon",
+      "start": 88885,
+      "end": 88903,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89026,
+      "end": 89031,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Sorbier",
+      "start": 89151,
+      "end": 89165,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 89270,
+      "end": 89280,
+      "label": "PER"
+    },
+    {
+      "text": "Associe toi",
+      "start": 89544,
+      "end": 89555,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 90014,
+      "end": 90022,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalier",
+      "start": 90026,
+      "end": 90035,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour",
+      "start": 90117,
+      "end": 90121,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 90123,
+      "end": 90129,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Sorbier",
+      "start": 90189,
+      "end": 90203,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 90388,
+      "end": 90392,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien court de dangers",
+      "start": 90518,
+      "end": 90545,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 90551,
+      "end": 90556,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Sorbier",
+      "start": 90675,
+      "end": 90689,
+      "label": "PER"
+    },
+    {
+      "text": "Sonde Joséphin",
+      "start": 90835,
+      "end": 90849,
+      "label": "ORG"
+    },
+    {
+      "text": "Trésor",
+      "start": 91145,
+      "end": 91151,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 91199,
+      "end": 91204,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 91262,
+      "end": 91269,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Esgrignon",
+      "start": 91331,
+      "end": 91348,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 91774,
+      "end": 91779,
+      "label": "LOC"
+    },
+    {
+      "text": "Prince",
+      "start": 91838,
+      "end": 91844,
+      "label": "MISC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 91936,
+      "end": 91956,
+      "label": "ORG"
+    },
+    {
+      "text": "Chesnel",
+      "start": 92066,
+      "end": 92073,
+      "label": "PER"
+    },
+    {
+      "text": "Croisier",
+      "start": 92255,
+      "end": 92263,
+      "label": "LOC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 92297,
+      "end": 92306,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 92333,
+      "end": 92342,
+      "label": "ORG"
+    },
+    {
+      "text": "loi des Contraires",
+      "start": 92626,
+      "end": 92644,
+      "label": "MISC"
+    },
+    {
+      "text": "loi des Similaires",
+      "start": 92685,
+      "end": 92703,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 92716,
+      "end": 92726,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 92732,
+      "end": 92737,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevalier",
+      "start": 93058,
+      "end": 93067,
+      "label": "ORG"
+    },
+    {
+      "text": "Blondet",
+      "start": 93251,
+      "end": 93258,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 93619,
+      "end": 93629,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien écoutait les plus dangereuses idées",
+      "start": 93808,
+      "end": 93854,
+      "label": "MISC"
+    },
+    {
+      "text": "Amené",
+      "start": 94127,
+      "end": 94132,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 95892,
+      "end": 95896,
+      "label": "LOC"
+    },
+    {
+      "text": "Chesnel",
+      "start": 95954,
+      "end": 95961,
+      "label": "PER"
+    },
+    {
+      "text": "Victurnien",
+      "start": 96123,
+      "end": 96133,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96358,
+      "end": 96363,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 96570,
+      "end": 96581,
+      "label": "LOC"
+    },
+    {
+      "text": "Plein",
+      "start": 96613,
+      "end": 96618,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96710,
+      "end": 96715,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 96991,
+      "end": 96996,
+      "label": "LOC"
+    },
+    {
+      "text": "Surpris",
+      "start": 97098,
+      "end": 97105,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Lenoncourt",
+      "start": 97433,
+      "end": 97450,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 97506,
+      "end": 97509,
+      "label": "PER"
+    },
+    {
+      "text": "Ordres",
+      "start": 97760,
+      "end": 97766,
+      "label": "ORG"
+    },
+    {
+      "text": "Premier Gentilhomme de la Chambre du Roi",
+      "start": 97810,
+      "end": 97850,
+      "label": "MISC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 97977,
+      "end": 97987,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabinet des Antiques",
+      "start": 98035,
+      "end": 98055,
+      "label": "ORG"
+    },
+    {
+      "text": "Tuileries",
+      "start": 98063,
+      "end": 98072,
+      "label": "LOC"
+    },
+    {
+      "text": "Trône",
+      "start": 98141,
+      "end": 98146,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 98153,
+      "end": 98157,
+      "label": "LOC"
+    },
+    {
+      "text": "Fait et non l'Individu",
+      "start": 98324,
+      "end": 98346,
+      "label": "MISC"
+    },
+    {
+      "text": "Histoire",
+      "start": 98369,
+      "end": 98377,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour",
+      "start": 98448,
+      "end": 98452,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 98456,
+      "end": 98467,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 98550,
+      "end": 98558,
+      "label": "PER"
+    },
+    {
+      "text": "Rivière",
+      "start": 98565,
+      "end": 98572,
+      "label": "LOC"
+    },
+    {
+      "text": "Blacas",
+      "start": 98578,
+      "end": 98584,
+      "label": "LOC"
+    },
+    {
+      "text": "Avaray",
+      "start": 98592,
+      "end": 98598,
+      "label": "LOC"
+    },
+    {
+      "text": "Dambray",
+      "start": 98604,
+      "end": 98611,
+      "label": "LOC"
+    },
+    {
+      "text": "Vaublanc",
+      "start": 98617,
+      "end": 98625,
+      "label": "LOC"
+    },
+    {
+      "text": "Vitrolles",
+      "start": 98627,
+      "end": 98636,
+      "label": "LOC"
+    },
+    {
+      "text": "Autichamp",
+      "start": 98640,
+      "end": 98649,
+      "label": "LOC"
+    },
+    {
+      "text": "Larochejaquelein",
+      "start": 98651,
+      "end": 98667,
+      "label": "PER"
+    },
+    {
+      "text": "Pasquier",
+      "start": 98669,
+      "end": 98677,
+      "label": "PER"
+    },
+    {
+      "text": "Decazes",
+      "start": 98679,
+      "end": 98686,
+      "label": "PER"
+    },
+    {
+      "text": "Lainé",
+      "start": 98688,
+      "end": 98693,
+      "label": "PER"
+    },
+    {
+      "text": "Villèle",
+      "start": 98698,
+      "end": 98705,
+      "label": "LOC"
+    },
+    {
+      "text": "La Bourdonnaye",
+      "start": 98707,
+      "end": 98721,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 98748,
+      "end": 98752,
+      "label": "ORG"
+    },
+    {
+      "text": "Henri IV",
+      "start": 98756,
+      "end": 98764,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 98776,
+      "end": 98785,
+      "label": "PER"
+    },
+    {
+      "text": "Villeroy",
+      "start": 98846,
+      "end": 98854,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 98866,
+      "end": 98875,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 98926,
+      "end": 98936,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 98950,
+      "end": 98959,
+      "label": "PER"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 98993,
+      "end": 99002,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 99024,
+      "end": 99032,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 99059,
+      "end": 99065,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 99096,
+      "end": 99100,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 99104,
+      "end": 99115,
+      "label": "PER"
+    },
+    {
+      "text": "Foix Grailly",
+      "start": 99236,
+      "end": 99248,
+      "label": "LOC"
+    },
+    {
+      "text": "Victurnien",
+      "start": 99364,
+      "end": 99374,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration de dévorer le dernier morceau de",
+      "start": 99506,
+      "end": 99551,
+      "label": "MISC"
+    },
+    {
+      "text": "l'État",
+      "start": 99552,
+      "end": 99558,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 99719,
+      "end": 99724,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 99880,
+      "end": 99886,
+      "label": "PER"
+    }
+  ]
+}

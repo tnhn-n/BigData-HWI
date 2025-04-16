@@ -1,0 +1,598 @@
+{
+  "entities": [
+    {
+      "text": "UNE PASSION",
+      "start": 0,
+      "end": 11,
+      "label": "MISC"
+    },
+    {
+      "text": "DÉSERT",
+      "start": 20,
+      "end": 26,
+      "label": "MISC"
+    },
+    {
+      "text": "Martin",
+      "start": 119,
+      "end": 125,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 480,
+      "end": 484,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 566,
+      "end": 572,
+      "label": "MISC"
+    },
+    {
+      "text": "Martin",
+      "start": 800,
+      "end": 806,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 1137,
+      "end": 1145,
+      "label": "PER"
+    },
+    {
+      "text": "Martin",
+      "start": 1894,
+      "end": 1900,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 2267,
+      "end": 2279,
+      "label": "MISC"
+    },
+    {
+      "text": "Rentrée",
+      "start": 2424,
+      "end": 2431,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 2633,
+      "end": 2641,
+      "label": "MISC"
+    },
+    {
+      "text": "Égypte",
+      "start": 2645,
+      "end": 2651,
+      "label": "LOC"
+    },
+    {
+      "text": "Haute Égypte",
+      "start": 2699,
+      "end": 2711,
+      "label": "LOC"
+    },
+    {
+      "text": "Desaix",
+      "start": 2727,
+      "end": 2733,
+      "label": "MISC"
+    },
+    {
+      "text": "Maugrabins",
+      "start": 2783,
+      "end": 2793,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabes",
+      "start": 2814,
+      "end": 2820,
+      "label": "MISC"
+    },
+    {
+      "text": "Nil",
+      "start": 2871,
+      "end": 2874,
+      "label": "LOC"
+    },
+    {
+      "text": "Maugrabins",
+      "start": 2970,
+      "end": 2980,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 3386,
+      "end": 3395,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 4051,
+      "end": 4059,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 4281,
+      "end": 4287,
+      "label": "MISC"
+    },
+    {
+      "text": "Maugrabins",
+      "start": 4860,
+      "end": 4870,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 5104,
+      "end": 5113,
+      "label": "LOC"
+    },
+    {
+      "text": "Arles",
+      "start": 5425,
+      "end": 5430,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 6427,
+      "end": 6436,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 6889,
+      "end": 6898,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 7099,
+      "end": 7108,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7151,
+      "end": 7156,
+      "label": "LOC"
+    },
+    {
+      "text": "Provence",
+      "start": 7377,
+      "end": 7385,
+      "label": "LOC"
+    },
+    {
+      "text": "dattes",
+      "start": 7894,
+      "end": 7900,
+      "label": "PER"
+    },
+    {
+      "text": "Maugrabins",
+      "start": 8031,
+      "end": 8041,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 8121,
+      "end": 8130,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 8144,
+      "end": 8150,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 8180,
+      "end": 8188,
+      "label": "MISC"
+    },
+    {
+      "text": "Provençal",
+      "start": 8485,
+      "end": 8494,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 10617,
+      "end": 10626,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 11119,
+      "end": 11128,
+      "label": "LOC"
+    },
+    {
+      "text": "Égypte",
+      "start": 11459,
+      "end": 11465,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 11659,
+      "end": 11667,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa t",
+      "start": 12413,
+      "end": 12420,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 12539,
+      "end": 12547,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa t",
+      "start": 12642,
+      "end": 12649,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 13594,
+      "end": 13603,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabes",
+      "start": 14512,
+      "end": 14518,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 14987,
+      "end": 14995,
+      "label": "LOC"
+    },
+    {
+      "text": "Fais",
+      "start": 15214,
+      "end": 15218,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 15269,
+      "end": 15277,
+      "label": "LOC"
+    },
+    {
+      "text": "Maugrabins",
+      "start": 15431,
+      "end": 15441,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 15494,
+      "end": 15502,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 15628,
+      "end": 15637,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 16160,
+      "end": 16168,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 16445,
+      "end": 16454,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 17185,
+      "end": 17193,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 17656,
+      "end": 17664,
+      "label": "MISC"
+    },
+    {
+      "text": "Provençal",
+      "start": 18007,
+      "end": 18016,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 18405,
+      "end": 18413,
+      "label": "LOC"
+    },
+    {
+      "text": "enleva",
+      "start": 18593,
+      "end": 18599,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 18696,
+      "end": 18705,
+      "label": "LOC"
+    },
+    {
+      "text": "Néron",
+      "start": 19391,
+      "end": 19396,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 19873,
+      "end": 19881,
+      "label": "LOC"
+    },
+    {
+      "text": "gratta",
+      "start": 20519,
+      "end": 20525,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 20714,
+      "end": 20722,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 21186,
+      "end": 21194,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 21784,
+      "end": 21792,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 21818,
+      "end": 21826,
+      "label": "LOC"
+    },
+    {
+      "text": "Nil",
+      "start": 22462,
+      "end": 22465,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons !",
+      "start": 22678,
+      "end": 22686,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 22849,
+      "end": 22857,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 23151,
+      "end": 23155,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 23156,
+      "end": 23164,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 23384,
+      "end": 23392,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 23638,
+      "end": 23646,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 23850,
+      "end": 23858,
+      "label": "LOC"
+    },
+    {
+      "text": "rourou graves combien",
+      "start": 23986,
+      "end": 24007,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 24123,
+      "end": 24132,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24182,
+      "end": 24186,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 24254,
+      "end": 24259,
+      "label": "LOC"
+    },
+    {
+      "text": "Maugrabin",
+      "start": 24346,
+      "end": 24355,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 24438,
+      "end": 24446,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 24751,
+      "end": 24760,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 25522,
+      "end": 25528,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 26347,
+      "end": 26355,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 27264,
+      "end": 27272,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignonne",
+      "start": 28034,
+      "end": 28042,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 28123,
+      "end": 28132,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 28267,
+      "end": 28271,
+      "label": "MISC"
+    },
+    {
+      "text": "Virginie",
+      "start": 28364,
+      "end": 28372,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 28872,
+      "end": 28881,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 29422,
+      "end": 29426,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 29910,
+      "end": 29922,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 30562,
+      "end": 30566,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 30651,
+      "end": 30660,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 30665,
+      "end": 30672,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 30677,
+      "end": 30683,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 30688,
+      "end": 30694,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 30851,
+      "end": 30855,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 31101,
+      "end": 31105,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 31172,
+      "end": 31176,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 31194,
+      "end": 31199,
+      "label": "LOC"
+    }
+  ]
+}

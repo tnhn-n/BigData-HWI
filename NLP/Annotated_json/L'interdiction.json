@@ -1,0 +1,3682 @@
+{
+  "entities": [
+    {
+      "text": "INTERDICTION",
+      "start": 2,
+      "end": 14,
+      "label": "ORG"
+    },
+    {
+      "text": "CONTRE AMIRAL BAZOCHE",
+      "start": 42,
+      "end": 63,
+      "label": "ORG"
+    },
+    {
+      "text": "Gouverneur",
+      "start": 65,
+      "end": 75,
+      "label": "PER"
+    },
+    {
+      "text": "Île Bourbon",
+      "start": 81,
+      "end": 92,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 125,
+      "end": 131,
+      "label": "MISC"
+    },
+    {
+      "text": "rue du Faubourg Saint Honoré",
+      "start": 223,
+      "end": 251,
+      "label": "LOC"
+    },
+    {
+      "text": "Élysée Bourbon",
+      "start": 263,
+      "end": 277,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 312,
+      "end": 327,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 373,
+      "end": 378,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 562,
+      "end": 568,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 600,
+      "end": 619,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 622,
+      "end": 630,
+      "label": "LOC"
+    },
+    {
+      "text": "Cercle",
+      "start": 659,
+      "end": 665,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 735,
+      "end": 745,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 749,
+      "end": 753,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 855,
+      "end": 863,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 873,
+      "end": 882,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 938,
+      "end": 955,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 1004,
+      "end": 1008,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 1036,
+      "end": 1042,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 1069,
+      "end": 1077,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Nucingen",
+      "start": 1151,
+      "end": 1169,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 1188,
+      "end": 1196,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 1325,
+      "end": 1333,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 1823,
+      "end": 1830,
+      "label": "LOC"
+    },
+    {
+      "text": "État Civil",
+      "start": 2372,
+      "end": 2382,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 2527,
+      "end": 2531,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 2600,
+      "end": 2606,
+      "label": "PER"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 2621,
+      "end": 2636,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Berri",
+      "start": 2717,
+      "end": 2734,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 2876,
+      "end": 2884,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 2901,
+      "end": 2910,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 2914,
+      "end": 2917,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 3053,
+      "end": 3061,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 3360,
+      "end": 3368,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 3649,
+      "end": 3653,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 3700,
+      "end": 3708,
+      "label": "PER"
+    },
+    {
+      "text": "Tes",
+      "start": 3762,
+      "end": 3765,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 3808,
+      "end": 3823,
+      "label": "PER"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 3841,
+      "end": 3850,
+      "label": "PER"
+    },
+    {
+      "text": "Crois",
+      "start": 3984,
+      "end": 3989,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la marquise",
+      "start": 4234,
+      "end": 4252,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 4359,
+      "end": 4370,
+      "label": "PER"
+    },
+    {
+      "text": "frêle",
+      "start": 4417,
+      "end": 4422,
+      "label": "PER"
+    },
+    {
+      "text": "Ecco",
+      "start": 4695,
+      "end": 4699,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon !",
+      "start": 4718,
+      "end": 4728,
+      "label": "MISC"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 4788,
+      "end": 4802,
+      "label": "MISC"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 5921,
+      "end": 5935,
+      "label": "MISC"
+    },
+    {
+      "text": "Michonneau",
+      "start": 6074,
+      "end": 6084,
+      "label": "ORG"
+    },
+    {
+      "text": "Poiret",
+      "start": 6106,
+      "end": 6112,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 6190,
+      "end": 6197,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 8098,
+      "end": 8106,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 8127,
+      "end": 8135,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 8598,
+      "end": 8605,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 8650,
+      "end": 8658,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 8849,
+      "end": 8855,
+      "label": "PER"
+    },
+    {
+      "text": "Suppose Mahomet",
+      "start": 9308,
+      "end": 9323,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 9326,
+      "end": 9331,
+      "label": "LOC"
+    },
+    {
+      "text": "Rohan",
+      "start": 9378,
+      "end": 9383,
+      "label": "LOC"
+    },
+    {
+      "text": "Figaro",
+      "start": 9439,
+      "end": 9445,
+      "label": "PER"
+    },
+    {
+      "text": "Langeais",
+      "start": 9789,
+      "end": 9797,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 9804,
+      "end": 9816,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 9829,
+      "end": 9835,
+      "label": "PER"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 10315,
+      "end": 10330,
+      "label": "LOC"
+    },
+    {
+      "text": "Merci",
+      "start": 10463,
+      "end": 10468,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 10474,
+      "end": 10482,
+      "label": "PER"
+    },
+    {
+      "text": "Vieux Boniface",
+      "start": 10486,
+      "end": 10500,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 10521,
+      "end": 10530,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 10581,
+      "end": 10589,
+      "label": "PER"
+    },
+    {
+      "text": "sois baron",
+      "start": 10592,
+      "end": 10602,
+      "label": "PER"
+    },
+    {
+      "text": "ordre de Saint Michel",
+      "start": 10624,
+      "end": 10645,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 10660,
+      "end": 10669,
+      "label": "LOC"
+    },
+    {
+      "text": "marie tes filles",
+      "start": 10674,
+      "end": 10690,
+      "label": "PER"
+    },
+    {
+      "text": "Robespierre",
+      "start": 10948,
+      "end": 10959,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 11008,
+      "end": 11015,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 11028,
+      "end": 11036,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 11102,
+      "end": 11106,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 11172,
+      "end": 11177,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 11248,
+      "end": 11254,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Jules Popinot",
+      "start": 11325,
+      "end": 11343,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 11651,
+      "end": 11655,
+      "label": "MISC"
+    },
+    {
+      "text": "Paradis",
+      "start": 11687,
+      "end": 11694,
+      "label": "PER"
+    },
+    {
+      "text": "Purgatoire",
+      "start": 11713,
+      "end": 11723,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère des Affaires étrangères",
+      "start": 11911,
+      "end": 11944,
+      "label": "ORG"
+    },
+    {
+      "text": "boulevard des Capucines",
+      "start": 11957,
+      "end": 11980,
+      "label": "LOC"
+    },
+    {
+      "text": "Te voilà chez toi",
+      "start": 11984,
+      "end": 12001,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 12016,
+      "end": 12024,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 12347,
+      "end": 12348,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 12366,
+      "end": 12374,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 12391,
+      "end": 12400,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 12419,
+      "end": 12426,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre Bianchon !",
+      "start": 12629,
+      "end": 12646,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 12693,
+      "end": 12702,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 12737,
+      "end": 12746,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 12814,
+      "end": 12822,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 12968,
+      "end": 12974,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouarre",
+      "start": 13219,
+      "end": 13226,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Jules Popinot",
+      "start": 13249,
+      "end": 13267,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal de Première Instance du Département de la Seine",
+      "start": 13277,
+      "end": 13333,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouarre",
+      "start": 13345,
+      "end": 13352,
+      "label": "LOC"
+    },
+    {
+      "text": "Paille",
+      "start": 13393,
+      "end": 13399,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13449,
+      "end": 13454,
+      "label": "LOC"
+    },
+    {
+      "text": "Université",
+      "start": 13482,
+      "end": 13492,
+      "label": "ORG"
+    },
+    {
+      "text": "Abeilard",
+      "start": 13510,
+      "end": 13518,
+      "label": "LOC"
+    },
+    {
+      "text": "Gerson",
+      "start": 13531,
+      "end": 13537,
+      "label": "PER"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 13634,
+      "end": 13648,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13677,
+      "end": 13682,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfants Trouvés",
+      "start": 13808,
+      "end": 13823,
+      "label": "MISC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 13848,
+      "end": 13858,
+      "label": "LOC"
+    },
+    {
+      "text": "Police",
+      "start": 14096,
+      "end": 14102,
+      "label": "ORG"
+    },
+    {
+      "text": "la Seine",
+      "start": 14187,
+      "end": 14195,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 14288,
+      "end": 14300,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14487,
+      "end": 14492,
+      "label": "LOC"
+    },
+    {
+      "text": "Bologne",
+      "start": 14949,
+      "end": 14956,
+      "label": "LOC"
+    },
+    {
+      "text": "solives saillantes",
+      "start": 16189,
+      "end": 16207,
+      "label": "PER"
+    },
+    {
+      "text": "logis",
+      "start": 16832,
+      "end": 16837,
+      "label": "PER"
+    },
+    {
+      "text": "Utrecht",
+      "start": 18201,
+      "end": 18208,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 18299,
+      "end": 18308,
+      "label": "PER"
+    },
+    {
+      "text": "Parlement",
+      "start": 18363,
+      "end": 18372,
+      "label": "ORG"
+    },
+    {
+      "text": "Parties Casuelles",
+      "start": 18433,
+      "end": 18450,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Jules Popinot",
+      "start": 18583,
+      "end": 18601,
+      "label": "PER"
+    },
+    {
+      "text": "Arrondissement",
+      "start": 18805,
+      "end": 18819,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 18831,
+      "end": 18841,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 19014,
+      "end": 19031,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 19067,
+      "end": 19074,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 19362,
+      "end": 19369,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 19943,
+      "end": 19950,
+      "label": "PER"
+    },
+    {
+      "text": "Quiconque",
+      "start": 20933,
+      "end": 20942,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 20958,
+      "end": 20975,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20978,
+      "end": 20983,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 21088,
+      "end": 21095,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 21819,
+      "end": 21826,
+      "label": "PER"
+    },
+    {
+      "text": "le Droit",
+      "start": 23046,
+      "end": 23054,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 23090,
+      "end": 23098,
+      "label": "PER"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 23157,
+      "end": 23167,
+      "label": "PER"
+    },
+    {
+      "text": "Cour impériale de Paris",
+      "start": 23217,
+      "end": 23240,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 23242,
+      "end": 23249,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 23355,
+      "end": 23362,
+      "label": "PER"
+    },
+    {
+      "text": "Archichancelier",
+      "start": 23402,
+      "end": 23417,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 23429,
+      "end": 23439,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 23447,
+      "end": 23451,
+      "label": "ORG"
+    },
+    {
+      "text": "Tribunal",
+      "start": 23486,
+      "end": 23494,
+      "label": "MISC"
+    },
+    {
+      "text": "Juge",
+      "start": 23595,
+      "end": 23599,
+      "label": "MISC"
+    },
+    {
+      "text": "Palais",
+      "start": 23642,
+      "end": 23648,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot Juge",
+      "start": 23653,
+      "end": 23665,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 23773,
+      "end": 23780,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 23960,
+      "end": 23967,
+      "label": "PER"
+    },
+    {
+      "text": "Juge",
+      "start": 23972,
+      "end": 23976,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde des Sceaux de la Restauration",
+      "start": 24020,
+      "end": 24055,
+      "label": "ORG"
+    },
+    {
+      "text": "Grands Juges",
+      "start": 24128,
+      "end": 24140,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 24144,
+      "end": 24152,
+      "label": "LOC"
+    },
+    {
+      "text": "Juge",
+      "start": 24170,
+      "end": 24174,
+      "label": "ORG"
+    },
+    {
+      "text": "Popinot",
+      "start": 24216,
+      "end": 24223,
+      "label": "PER"
+    },
+    {
+      "text": "Juge au Tribunal de la Seine",
+      "start": 24256,
+      "end": 24284,
+      "label": "MISC"
+    },
+    {
+      "text": "Justice",
+      "start": 24566,
+      "end": 24573,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Popinot",
+      "start": 24575,
+      "end": 24591,
+      "label": "PER"
+    },
+    {
+      "text": "Présidents",
+      "start": 24617,
+      "end": 24627,
+      "label": "MISC"
+    },
+    {
+      "text": "Tribunal de la Seine",
+      "start": 24653,
+      "end": 24673,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 25319,
+      "end": 25323,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 25420,
+      "end": 25427,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 25608,
+      "end": 25613,
+      "label": "ORG"
+    },
+    {
+      "text": "Équité",
+      "start": 25619,
+      "end": 25625,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 25955,
+      "end": 25959,
+      "label": "MISC"
+    },
+    {
+      "text": "La France",
+      "start": 26242,
+      "end": 26251,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 26417,
+      "end": 26424,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 26819,
+      "end": 26827,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 27056,
+      "end": 27062,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 27220,
+      "end": 27226,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 27793,
+      "end": 27800,
+      "label": "PER"
+    },
+    {
+      "text": "Juge d'Instruction",
+      "start": 28113,
+      "end": 28131,
+      "label": "MISC"
+    },
+    {
+      "text": "Juge d'Instruction",
+      "start": 28149,
+      "end": 28167,
+      "label": "MISC"
+    },
+    {
+      "text": "Juge civil",
+      "start": 28557,
+      "end": 28567,
+      "label": "MISC"
+    },
+    {
+      "text": "Juge d'Instruction",
+      "start": 28586,
+      "end": 28604,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 28661,
+      "end": 28668,
+      "label": "PER"
+    },
+    {
+      "text": "Instruction",
+      "start": 28904,
+      "end": 28915,
+      "label": "MISC"
+    },
+    {
+      "text": "la Souricière",
+      "start": 29136,
+      "end": 29149,
+      "label": "LOC"
+    },
+    {
+      "text": "Crispins du bagne",
+      "start": 29514,
+      "end": 29531,
+      "label": "MISC"
+    },
+    {
+      "text": "Douze",
+      "start": 29841,
+      "end": 29846,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 29982,
+      "end": 29988,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 29990,
+      "end": 29997,
+      "label": "PER"
+    },
+    {
+      "text": "Fouarre",
+      "start": 30167,
+      "end": 30174,
+      "label": "LOC"
+    },
+    {
+      "text": "Vincent de Paul",
+      "start": 30688,
+      "end": 30703,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 30969,
+      "end": 30976,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 31531,
+      "end": 31538,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 31955,
+      "end": 31961,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 31970,
+      "end": 31975,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 32012,
+      "end": 32019,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 32532,
+      "end": 32539,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 33368,
+      "end": 33376,
+      "label": "PER"
+    },
+    {
+      "text": "Mont de Piété",
+      "start": 33485,
+      "end": 33498,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 33579,
+      "end": 33585,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 33728,
+      "end": 33735,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 33876,
+      "end": 33884,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 34190,
+      "end": 34197,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 34769,
+      "end": 34776,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 35101,
+      "end": 35108,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 35164,
+      "end": 35172,
+      "label": "PER"
+    },
+    {
+      "text": "Sancerre",
+      "start": 35192,
+      "end": 35200,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 35390,
+      "end": 35397,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 35696,
+      "end": 35703,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 35898,
+      "end": 35905,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal de la Seine",
+      "start": 35941,
+      "end": 35961,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 35991,
+      "end": 36007,
+      "label": "ORG"
+    },
+    {
+      "text": "Président de la deuxième Chambre du Tribunal",
+      "start": 36057,
+      "end": 36101,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 36126,
+      "end": 36133,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 36231,
+      "end": 36247,
+      "label": "PER"
+    },
+    {
+      "text": "Fouarre",
+      "start": 36330,
+      "end": 36337,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 36470,
+      "end": 36478,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 36654,
+      "end": 36669,
+      "label": "PER"
+    },
+    {
+      "text": "Mon oncle",
+      "start": 36761,
+      "end": 36770,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 36814,
+      "end": 36822,
+      "label": "PER"
+    },
+    {
+      "text": "Fouarre",
+      "start": 36849,
+      "end": 36856,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavienne",
+      "start": 36966,
+      "end": 36974,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 37114,
+      "end": 37122,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 37253,
+      "end": 37261,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 37516,
+      "end": 37525,
+      "label": "PER"
+    },
+    {
+      "text": "saint Pierre",
+      "start": 37772,
+      "end": 37784,
+      "label": "PER"
+    },
+    {
+      "text": "combattus",
+      "start": 38775,
+      "end": 38784,
+      "label": "PER"
+    },
+    {
+      "text": "Attentif",
+      "start": 40451,
+      "end": 40459,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 40758,
+      "end": 40766,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 40938,
+      "end": 40946,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 40997,
+      "end": 41005,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 41009,
+      "end": 41013,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 41040,
+      "end": 41047,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 41241,
+      "end": 41245,
+      "label": "MISC"
+    },
+    {
+      "text": "Lavienne",
+      "start": 41441,
+      "end": 41449,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 41488,
+      "end": 41496,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 41586,
+      "end": 41593,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavienne",
+      "start": 41600,
+      "end": 41608,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 41758,
+      "end": 41762,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 41796,
+      "end": 41803,
+      "label": "PER"
+    },
+    {
+      "text": "Pomponne",
+      "start": 41898,
+      "end": 41906,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre",
+      "start": 41910,
+      "end": 41915,
+      "label": "LOC"
+    },
+    {
+      "text": "Toupinet",
+      "start": 41925,
+      "end": 41933,
+      "label": "LOC"
+    },
+    {
+      "text": "Rue du Petit Banquier",
+      "start": 41937,
+      "end": 41958,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 41968,
+      "end": 41975,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 42138,
+      "end": 42145,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 42306,
+      "end": 42314,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 42381,
+      "end": 42385,
+      "label": "MISC"
+    },
+    {
+      "text": "la Halle",
+      "start": 42436,
+      "end": 42444,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavienne",
+      "start": 42590,
+      "end": 42598,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 42778,
+      "end": 42786,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 42913,
+      "end": 42921,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 42952,
+      "end": 42960,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 43041,
+      "end": 43049,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 43129,
+      "end": 43137,
+      "label": "PER"
+    },
+    {
+      "text": "Horace",
+      "start": 43266,
+      "end": 43272,
+      "label": "MISC"
+    },
+    {
+      "text": "Seine",
+      "start": 43336,
+      "end": 43341,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de l'Arbalète",
+      "start": 43354,
+      "end": 43371,
+      "label": "LOC"
+    },
+    {
+      "text": "Rue de Seine",
+      "start": 43382,
+      "end": 43394,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de l'Arbalète",
+      "start": 43450,
+      "end": 43467,
+      "label": "LOC"
+    },
+    {
+      "text": "Blanchon",
+      "start": 43537,
+      "end": 43545,
+      "label": "PER"
+    },
+    {
+      "text": "Fouarre",
+      "start": 43584,
+      "end": 43591,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavienne",
+      "start": 43751,
+      "end": 43759,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 43774,
+      "end": 43778,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 43879,
+      "end": 43887,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 43998,
+      "end": 44005,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 45572,
+      "end": 45579,
+      "label": "PER"
+    },
+    {
+      "text": "madame Popinot",
+      "start": 46355,
+      "end": 46369,
+      "label": "PER"
+    },
+    {
+      "text": "madame Popinot",
+      "start": 46652,
+      "end": 46666,
+      "label": "PER"
+    },
+    {
+      "text": "crin",
+      "start": 47158,
+      "end": 47162,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 47496,
+      "end": 47500,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 47733,
+      "end": 47750,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 47828,
+      "end": 47836,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 47873,
+      "end": 47890,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 48648,
+      "end": 48655,
+      "label": "PER"
+    },
+    {
+      "text": "A monsieur",
+      "start": 48926,
+      "end": 48936,
+      "label": "MISC"
+    },
+    {
+      "text": "Président du Tribunal",
+      "start": 48940,
+      "end": 48961,
+      "label": "PER"
+    },
+    {
+      "text": "Première Instance du département de la Seine",
+      "start": 48971,
+      "end": 49015,
+      "label": "MISC"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 49026,
+      "end": 49043,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 49047,
+      "end": 49053,
+      "label": "PER"
+    },
+    {
+      "text": "Athénaïs de Blamont Chauvry",
+      "start": 49072,
+      "end": 49099,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Maurice Marie",
+      "start": 49120,
+      "end": 49141,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Nègrepelisse",
+      "start": 49151,
+      "end": 49172,
+      "label": "PER"
+    },
+    {
+      "text": "Bonne",
+      "start": 49192,
+      "end": 49197,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 49238,
+      "end": 49244,
+      "label": "PER"
+    },
+    {
+      "text": "Faubourg Saint Honoré",
+      "start": 49262,
+      "end": 49283,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 49310,
+      "end": 49316,
+      "label": "PER"
+    },
+    {
+      "text": "Montagne Sainte Geneviève",
+      "start": 49328,
+      "end": 49353,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 49362,
+      "end": 49366,
+      "label": "MISC"
+    },
+    {
+      "text": "Me Desroches",
+      "start": 49442,
+      "end": 49454,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 49471,
+      "end": 49480,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 49531,
+      "end": 49539,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre",
+      "start": 49588,
+      "end": 49594,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 49608,
+      "end": 49616,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 49728,
+      "end": 49729,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 49855,
+      "end": 49861,
+      "label": "PER"
+    },
+    {
+      "text": "Code civil",
+      "start": 50005,
+      "end": 50015,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 50232,
+      "end": 50238,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 50568,
+      "end": 50584,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 50726,
+      "end": 50742,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 50907,
+      "end": 50917,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50938,
+      "end": 50943,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de La Vrillière",
+      "start": 50945,
+      "end": 50964,
+      "label": "LOC"
+    },
+    {
+      "text": "Villeparisis",
+      "start": 50986,
+      "end": 50998,
+      "label": "LOC"
+    },
+    {
+      "text": "Claye",
+      "start": 51005,
+      "end": 51010,
+      "label": "LOC"
+    },
+    {
+      "text": "département de Seine",
+      "start": 51012,
+      "end": 51032,
+      "label": "LOC"
+    },
+    {
+      "text": "Marne",
+      "start": 51036,
+      "end": 51041,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 51159,
+      "end": 51175,
+      "label": "PER"
+    },
+    {
+      "text": "Grande rue Verte",
+      "start": 51427,
+      "end": 51443,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 51457,
+      "end": 51467,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 51546,
+      "end": 51556,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 51709,
+      "end": 51725,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 51759,
+      "end": 51767,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 51826,
+      "end": 51836,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Majesté",
+      "start": 51960,
+      "end": 51970,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 52029,
+      "end": 52045,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Grandeur",
+      "start": 52085,
+      "end": 52096,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde des Sceaux",
+      "start": 52112,
+      "end": 52128,
+      "label": "ORG"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 52328,
+      "end": 52338,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 52353,
+      "end": 52369,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 52470,
+      "end": 52480,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 52707,
+      "end": 52711,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 52810,
+      "end": 52817,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 52819,
+      "end": 52827,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 52908,
+      "end": 52924,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 52989,
+      "end": 52995,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 53047,
+      "end": 53055,
+      "label": "PER"
+    },
+    {
+      "text": "terre d'Espard",
+      "start": 53213,
+      "end": 53227,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 53334,
+      "end": 53344,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 53415,
+      "end": 53431,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 54192,
+      "end": 54199,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 54301,
+      "end": 54309,
+      "label": "MISC"
+    },
+    {
+      "text": "Mesmer",
+      "start": 54374,
+      "end": 54380,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 55126,
+      "end": 55129,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 55247,
+      "end": 55255,
+      "label": "PER"
+    },
+    {
+      "text": "Hum",
+      "start": 55259,
+      "end": 55262,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 55470,
+      "end": 55480,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 55571,
+      "end": 55579,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 55763,
+      "end": 55769,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 55993,
+      "end": 55999,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jeanrenaud",
+      "start": 56176,
+      "end": 56193,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 56267,
+      "end": 56283,
+      "label": "PER"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 56305,
+      "end": 56320,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 56448,
+      "end": 56463,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 56769,
+      "end": 56785,
+      "label": "PER"
+    },
+    {
+      "text": "Montagne Sainte Geneviève",
+      "start": 56836,
+      "end": 56861,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément d'Espard",
+      "start": 57014,
+      "end": 57030,
+      "label": "PER"
+    },
+    {
+      "text": "Camille d'Espard",
+      "start": 57046,
+      "end": 57062,
+      "label": "PER"
+    },
+    {
+      "text": "Maraist",
+      "start": 57236,
+      "end": 57243,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 57358,
+      "end": 57374,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 57724,
+      "end": 57734,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 57753,
+      "end": 57763,
+      "label": "PER"
+    },
+    {
+      "text": "la Chine",
+      "start": 57861,
+      "end": 57869,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 58084,
+      "end": 58092,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 58153,
+      "end": 58156,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 58281,
+      "end": 58297,
+      "label": "PER"
+    },
+    {
+      "text": "la Chine",
+      "start": 58920,
+      "end": 58928,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 59070,
+      "end": 59086,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 59154,
+      "end": 59162,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 59295,
+      "end": 59303,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 59330,
+      "end": 59337,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 59587,
+      "end": 59596,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 59945,
+      "end": 59954,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 59976,
+      "end": 59984,
+      "label": "PER"
+    },
+    {
+      "text": "Chinois",
+      "start": 60060,
+      "end": 60067,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 60239,
+      "end": 60245,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 60469,
+      "end": 60473,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la marquise",
+      "start": 60474,
+      "end": 60492,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 60544,
+      "end": 60559,
+      "label": "MISC"
+    },
+    {
+      "text": "Continuons",
+      "start": 61071,
+      "end": 61081,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 61520,
+      "end": 61526,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 61659,
+      "end": 61667,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 61785,
+      "end": 61790,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 61870,
+      "end": 61880,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 61929,
+      "end": 61938,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 62021,
+      "end": 62026,
+      "label": "LOC"
+    },
+    {
+      "text": "Edme Becker",
+      "start": 62075,
+      "end": 62086,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Baptiste Frémiot",
+      "start": 62110,
+      "end": 62131,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 62210,
+      "end": 62226,
+      "label": "PER"
+    },
+    {
+      "text": "la Chine",
+      "start": 62275,
+      "end": 62283,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 62340,
+      "end": 62350,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 62430,
+      "end": 62446,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 62507,
+      "end": 62513,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 62522,
+      "end": 62532,
+      "label": "PER"
+    },
+    {
+      "text": "la Chine",
+      "start": 62589,
+      "end": 62597,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 62643,
+      "end": 62651,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 62705,
+      "end": 62715,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 62784,
+      "end": 62785,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 62859,
+      "end": 62868,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 62935,
+      "end": 62951,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 63092,
+      "end": 63108,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 63266,
+      "end": 63275,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 63452,
+      "end": 63468,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 63656,
+      "end": 63659,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal",
+      "start": 63813,
+      "end": 63821,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 63898,
+      "end": 63905,
+      "label": "PER"
+    },
+    {
+      "text": "Président",
+      "start": 63923,
+      "end": 63932,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 63979,
+      "end": 63996,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 64114,
+      "end": 64121,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 64274,
+      "end": 64289,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 64332,
+      "end": 64334,
+      "label": "MISC"
+    },
+    {
+      "text": "Oui",
+      "start": 64374,
+      "end": 64377,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 64421,
+      "end": 64436,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 64526,
+      "end": 64531,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 64718,
+      "end": 64725,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 64796,
+      "end": 64802,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 65250,
+      "end": 65265,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 65277,
+      "end": 65285,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 65374,
+      "end": 65382,
+      "label": "PER"
+    },
+    {
+      "text": "Lavienne",
+      "start": 65513,
+      "end": 65521,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 65576,
+      "end": 65583,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 65632,
+      "end": 65639,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 65743,
+      "end": 65751,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 66346,
+      "end": 66354,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 66620,
+      "end": 66627,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 66652,
+      "end": 66667,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66709,
+      "end": 66714,
+      "label": "LOC"
+    },
+    {
+      "text": "Mode",
+      "start": 66722,
+      "end": 66726,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 67194,
+      "end": 67209,
+      "label": "PER"
+    },
+    {
+      "text": "Mode",
+      "start": 67445,
+      "end": 67449,
+      "label": "MISC"
+    },
+    {
+      "text": "Mode",
+      "start": 67661,
+      "end": 67665,
+      "label": "MISC"
+    },
+    {
+      "text": "Mode",
+      "start": 67746,
+      "end": 67750,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 67798,
+      "end": 67813,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 68190,
+      "end": 68207,
+      "label": "PER"
+    },
+    {
+      "text": "crin",
+      "start": 68302,
+      "end": 68306,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonaise",
+      "start": 68663,
+      "end": 68672,
+      "label": "LOC"
+    },
+    {
+      "text": "Destinée",
+      "start": 68772,
+      "end": 68780,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 68806,
+      "end": 68812,
+      "label": "MISC"
+    },
+    {
+      "text": "Lorme",
+      "start": 68816,
+      "end": 68821,
+      "label": "PER"
+    },
+    {
+      "text": "Vice Reine",
+      "start": 68887,
+      "end": 68897,
+      "label": "LOC"
+    },
+    {
+      "text": "Varsovie",
+      "start": 69207,
+      "end": 69215,
+      "label": "LOC"
+    },
+    {
+      "text": "Herbault",
+      "start": 69248,
+      "end": 69256,
+      "label": "PER"
+    },
+    {
+      "text": "Grande dame",
+      "start": 69258,
+      "end": 69269,
+      "label": "PER"
+    },
+    {
+      "text": "empereur Alexandre",
+      "start": 69492,
+      "end": 69510,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 69554,
+      "end": 69561,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 69790,
+      "end": 69805,
+      "label": "PER"
+    },
+    {
+      "text": "madame Zayoncsek",
+      "start": 69823,
+      "end": 69839,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 70042,
+      "end": 70050,
+      "label": "PER"
+    },
+    {
+      "text": "Offensée",
+      "start": 70601,
+      "end": 70609,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 70974,
+      "end": 70980,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélie",
+      "start": 71241,
+      "end": 71249,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71538,
+      "end": 71546,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 71549,
+      "end": 71555,
+      "label": "PER"
+    },
+    {
+      "text": "Maîtresse",
+      "start": 71665,
+      "end": 71674,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 72307,
+      "end": 72320,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 72799,
+      "end": 72808,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 72813,
+      "end": 72833,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 72835,
+      "end": 72850,
+      "label": "PER"
+    },
+    {
+      "text": "Camps",
+      "start": 72897,
+      "end": 72902,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 72945,
+      "end": 72969,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 72986,
+      "end": 72992,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 73060,
+      "end": 73077,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 73446,
+      "end": 73461,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 73730,
+      "end": 73745,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 73944,
+      "end": 73959,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 73974,
+      "end": 73989,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 74220,
+      "end": 74231,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 74391,
+      "end": 74398,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 74569,
+      "end": 74575,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 75433,
+      "end": 75439,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 75444,
+      "end": 75456,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 75461,
+      "end": 75471,
+      "label": "LOC"
+    },
+    {
+      "text": "La Roche Hugon",
+      "start": 75476,
+      "end": 75490,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérizy",
+      "start": 75495,
+      "end": 75501,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 75503,
+      "end": 75510,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 75512,
+      "end": 75530,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 75535,
+      "end": 75544,
+      "label": "LOC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 75555,
+      "end": 75565,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 75570,
+      "end": 75578,
+      "label": "LOC"
+    },
+    {
+      "text": "Souvent elle admettait un homme",
+      "start": 75585,
+      "end": 75616,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 75814,
+      "end": 75822,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand du Tillet",
+      "start": 75826,
+      "end": 75845,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 77033,
+      "end": 77042,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 77253,
+      "end": 77261,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 77540,
+      "end": 77555,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel d'Espard",
+      "start": 77646,
+      "end": 77660,
+      "label": "LOC"
+    },
+    {
+      "text": "Versailles",
+      "start": 77967,
+      "end": 77977,
+      "label": "LOC"
+    },
+    {
+      "text": "suisse",
+      "start": 78139,
+      "end": 78145,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 78658,
+      "end": 78665,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Bianchon",
+      "start": 78669,
+      "end": 78686,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 78851,
+      "end": 78866,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 78924,
+      "end": 78930,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 78952,
+      "end": 78961,
+      "label": "LOC"
+    },
+    {
+      "text": "Debout",
+      "start": 79081,
+      "end": 79087,
+      "label": "ORG"
+    },
+    {
+      "text": "Londres",
+      "start": 79652,
+      "end": 79659,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 80215,
+      "end": 80222,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 80405,
+      "end": 80414,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 80605,
+      "end": 80613,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 80654,
+      "end": 80663,
+      "label": "LOC"
+    },
+    {
+      "text": "Decamps",
+      "start": 81231,
+      "end": 81238,
+      "label": "PER"
+    },
+    {
+      "text": "Bancal",
+      "start": 81666,
+      "end": 81672,
+      "label": "MISC"
+    },
+    {
+      "text": "Fualdès",
+      "start": 81699,
+      "end": 81706,
+      "label": "PER"
+    },
+    {
+      "text": "Broken",
+      "start": 82214,
+      "end": 82220,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésor",
+      "start": 82306,
+      "end": 82312,
+      "label": "LOC"
+    },
+    {
+      "text": "Decamps",
+      "start": 82314,
+      "end": 82321,
+      "label": "LOC"
+    },
+    {
+      "text": "Paganini",
+      "start": 82348,
+      "end": 82356,
+      "label": "PER"
+    },
+    {
+      "text": "la Seine",
+      "start": 82728,
+      "end": 82736,
+      "label": "LOC"
+    },
+    {
+      "text": "Decamps",
+      "start": 82921,
+      "end": 82928,
+      "label": "PER"
+    },
+    {
+      "text": "Commandeur",
+      "start": 83216,
+      "end": 83226,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 83235,
+      "end": 83242,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 83579,
+      "end": 83594,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 83632,
+      "end": 83640,
+      "label": "PER"
+    },
+    {
+      "text": "Daignez !",
+      "start": 83820,
+      "end": 83829,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa t",
+      "start": 83830,
+      "end": 83837,
+      "label": "PER"
+    },
+    {
+      "text": "Daignez",
+      "start": 83869,
+      "end": 83876,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 84147,
+      "end": 84153,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal",
+      "start": 84275,
+      "end": 84283,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 84599,
+      "end": 84606,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 84616,
+      "end": 84625,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 84644,
+      "end": 84652,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 84778,
+      "end": 84786,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 84802,
+      "end": 84811,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 84890,
+      "end": 84898,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 84943,
+      "end": 84950,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 85215,
+      "end": 85219,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 85220,
+      "end": 85226,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 85257,
+      "end": 85264,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 85434,
+      "end": 85440,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 85547,
+      "end": 85556,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 85585,
+      "end": 85590,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 85755,
+      "end": 85762,
+      "label": "PER"
+    },
+    {
+      "text": "Instruction",
+      "start": 85899,
+      "end": 85910,
+      "label": "MISC"
+    },
+    {
+      "text": "Pozzo di Borgo",
+      "start": 86066,
+      "end": 86080,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 86291,
+      "end": 86298,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 86503,
+      "end": 86509,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 86537,
+      "end": 86545,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 86912,
+      "end": 86916,
+      "label": "MISC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 86940,
+      "end": 86955,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 87142,
+      "end": 87148,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 87209,
+      "end": 87216,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 87323,
+      "end": 87339,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 87503,
+      "end": 87509,
+      "label": "PER"
+    },
+    {
+      "text": "Briançon",
+      "start": 87605,
+      "end": 87613,
+      "label": "LOC"
+    },
+    {
+      "text": "Montagne Sainte Geneviève",
+      "start": 87995,
+      "end": 88020,
+      "label": "LOC"
+    },
+    {
+      "text": "Permettez",
+      "start": 88054,
+      "end": 88063,
+      "label": "MISC"
+    },
+    {
+      "text": "Bordin",
+      "start": 88238,
+      "end": 88244,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 88670,
+      "end": 88676,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 88681,
+      "end": 88685,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 88697,
+      "end": 88703,
+      "label": "PER"
+    },
+    {
+      "text": "Quinze !",
+      "start": 89041,
+      "end": 89049,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 89085,
+      "end": 89093,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 89102,
+      "end": 89111,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 89113,
+      "end": 89128,
+      "label": "PER"
+    },
+    {
+      "text": "Ha !",
+      "start": 89204,
+      "end": 89208,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 89209,
+      "end": 89215,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 89628,
+      "end": 89635,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 89744,
+      "end": 89759,
+      "label": "PER"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 89844,
+      "end": 89853,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 89908,
+      "end": 89915,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 89941,
+      "end": 89947,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 90026,
+      "end": 90032,
+      "label": "PER"
+    },
+    {
+      "text": "Briançon",
+      "start": 90104,
+      "end": 90112,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90157,
+      "end": 90162,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 90216,
+      "end": 90226,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 90336,
+      "end": 90345,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 90369,
+      "end": 90375,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 90522,
+      "end": 90529,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 90644,
+      "end": 90652,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 90743,
+      "end": 90749,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 90870,
+      "end": 90878,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 90881,
+      "end": 90887,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 91087,
+      "end": 91096,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 91112,
+      "end": 91118,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 91152,
+      "end": 91162,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 91303,
+      "end": 91312,
+      "label": "PER"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 91320,
+      "end": 91328,
+      "label": "ORG"
+    },
+    {
+      "text": "Quelles",
+      "start": 91509,
+      "end": 91516,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 91570,
+      "end": 91576,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jeanrenaud",
+      "start": 91659,
+      "end": 91676,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 91761,
+      "end": 91767,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 91785,
+      "end": 91792,
+      "label": "PER"
+    },
+    {
+      "text": "la Chine",
+      "start": 92311,
+      "end": 92319,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 92599,
+      "end": 92605,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 92693,
+      "end": 92700,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 92740,
+      "end": 92744,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 92764,
+      "end": 92774,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 92841,
+      "end": 92845,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 92924,
+      "end": 92930,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 92980,
+      "end": 92988,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 92991,
+      "end": 92997,
+      "label": "PER"
+    },
+    {
+      "text": "Oratoire",
+      "start": 93040,
+      "end": 93048,
+      "label": "LOC"
+    },
+    {
+      "text": "Inconcevable !",
+      "start": 93329,
+      "end": 93343,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Verte",
+      "start": 93450,
+      "end": 93459,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 93564,
+      "end": 93570,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 93606,
+      "end": 93619,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 93835,
+      "end": 93842,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 94032,
+      "end": 94038,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 94304,
+      "end": 94310,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 94403,
+      "end": 94411,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 94421,
+      "end": 94431,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 94496,
+      "end": 94502,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 94723,
+      "end": 94729,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 94870,
+      "end": 94878,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 94941,
+      "end": 94947,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 95244,
+      "end": 95250,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 95322,
+      "end": 95330,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 95339,
+      "end": 95348,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 95399,
+      "end": 95414,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 95516,
+      "end": 95523,
+      "label": "PER"
+    },
+    {
+      "text": "Menacés",
+      "start": 95635,
+      "end": 95642,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 95698,
+      "end": 95704,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 95710,
+      "end": 95717,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 95736,
+      "end": 95742,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 96047,
+      "end": 96053,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 96164,
+      "end": 96170,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 96270,
+      "end": 96276,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 96389,
+      "end": 96393,
+      "label": "LOC"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 96540,
+      "end": 96555,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes",
+      "start": 96657,
+      "end": 96660,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 96702,
+      "end": 96708,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 96920,
+      "end": 96927,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 96999,
+      "end": 97005,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 97165,
+      "end": 97171,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 97220,
+      "end": 97222,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 97481,
+      "end": 97491,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Laurent",
+      "start": 98553,
+      "end": 98566,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 98642,
+      "end": 98648,
+      "label": "PER"
+    },
+    {
+      "text": "Songez",
+      "start": 99180,
+      "end": 99186,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 99192,
+      "end": 99199,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 99216,
+      "end": 99222,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanrenaud",
+      "start": 99533,
+      "end": 99543,
+      "label": "PER"
+    },
+    {
+      "text": "madame la marquise",
+      "start": 99887,
+      "end": 99905,
+      "label": "PER"
+    }
+  ]
+}

@@ -1,0 +1,4816 @@
+{
+  "entities": [
+    {
+      "text": "PARIS",
+      "start": 29,
+      "end": 34,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 39,
+      "end": 45,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 50,
+      "end": 68,
+      "label": "PER"
+    },
+    {
+      "text": "Gentil",
+      "start": 73,
+      "end": 79,
+      "label": "LOC"
+    },
+    {
+      "text": "Albertine",
+      "start": 84,
+      "end": 93,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 318,
+      "end": 324,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 423,
+      "end": 432,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 435,
+      "end": 440,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 1240,
+      "end": 1246,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 1282,
+      "end": 1300,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 1410,
+      "end": 1416,
+      "label": "PER"
+    },
+    {
+      "text": "rue de l'Échelle",
+      "start": 1594,
+      "end": 1610,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 1694,
+      "end": 1700,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 1758,
+      "end": 1764,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 1830,
+      "end": 1836,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 1875,
+      "end": 1893,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 1982,
+      "end": 1988,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2044,
+      "end": 2049,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 2255,
+      "end": 2261,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 2281,
+      "end": 2287,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 2862,
+      "end": 2880,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 2990,
+      "end": 2996,
+      "label": "PER"
+    },
+    {
+      "text": "Gentil",
+      "start": 3022,
+      "end": 3028,
+      "label": "LOC"
+    },
+    {
+      "text": "Albertine",
+      "start": 3032,
+      "end": 3041,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3296,
+      "end": 3301,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 3396,
+      "end": 3402,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 3444,
+      "end": 3450,
+      "label": "PER"
+    },
+    {
+      "text": "Sixte du Châtelet",
+      "start": 3666,
+      "end": 3683,
+      "label": "PER"
+    },
+    {
+      "text": "Albertine",
+      "start": 3732,
+      "end": 3741,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 3851,
+      "end": 3869,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 3975,
+      "end": 3983,
+      "label": "LOC"
+    },
+    {
+      "text": "Administration",
+      "start": 4112,
+      "end": 4126,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 4293,
+      "end": 4311,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 4343,
+      "end": 4349,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 4519,
+      "end": 4525,
+      "label": "PER"
+    },
+    {
+      "text": "Naïs",
+      "start": 4543,
+      "end": 4547,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 4582,
+      "end": 4597,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 4623,
+      "end": 4628,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 4700,
+      "end": 4709,
+      "label": "LOC"
+    },
+    {
+      "text": "Bargeton",
+      "start": 4771,
+      "end": 4779,
+      "label": "PER"
+    },
+    {
+      "text": "Chandour",
+      "start": 4795,
+      "end": 4803,
+      "label": "PER"
+    },
+    {
+      "text": "Escarbas",
+      "start": 4834,
+      "end": 4842,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimez monsieur",
+      "start": 4987,
+      "end": 5001,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 5005,
+      "end": 5013,
+      "label": "MISC"
+    },
+    {
+      "text": "Naïs",
+      "start": 5245,
+      "end": 5249,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 5425,
+      "end": 5435,
+      "label": "LOC"
+    },
+    {
+      "text": "Étudiez",
+      "start": 5627,
+      "end": 5634,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 5913,
+      "end": 5928,
+      "label": "PER"
+    },
+    {
+      "text": "Navarreins",
+      "start": 6072,
+      "end": 6082,
+      "label": "LOC"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 6088,
+      "end": 6103,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 6109,
+      "end": 6119,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 6249,
+      "end": 6265,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6409,
+      "end": 6414,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 6571,
+      "end": 6579,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 6663,
+      "end": 6669,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 6922,
+      "end": 6931,
+      "label": "LOC"
+    },
+    {
+      "text": "Députés",
+      "start": 6952,
+      "end": 6959,
+      "label": "PER"
+    },
+    {
+      "text": "Charente",
+      "start": 6966,
+      "end": 6974,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambres",
+      "start": 7009,
+      "end": 7017,
+      "label": "MISC"
+    },
+    {
+      "text": "Général",
+      "start": 7029,
+      "end": 7036,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7047,
+      "end": 7052,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 7101,
+      "end": 7110,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 7226,
+      "end": 7232,
+      "label": "PER"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 7300,
+      "end": 7316,
+      "label": "MISC"
+    },
+    {
+      "text": "rue du Faubourg Saint Honoré",
+      "start": 7318,
+      "end": 7346,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 7367,
+      "end": 7382,
+      "label": "PER"
+    },
+    {
+      "text": "Carigliano",
+      "start": 7417,
+      "end": 7427,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 7429,
+      "end": 7445,
+      "label": "PER"
+    },
+    {
+      "text": "Président du Conseil",
+      "start": 7452,
+      "end": 7472,
+      "label": "ORG"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 7533,
+      "end": 7548,
+      "label": "PER"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 7681,
+      "end": 7692,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 7713,
+      "end": 7731,
+      "label": "PER"
+    },
+    {
+      "text": "La reine d'Angoulême",
+      "start": 7803,
+      "end": 7823,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 7927,
+      "end": 7934,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 7949,
+      "end": 7957,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 8119,
+      "end": 8125,
+      "label": "MISC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 8285,
+      "end": 8291,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 8736,
+      "end": 8754,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 8860,
+      "end": 8866,
+      "label": "PER"
+    },
+    {
+      "text": "Habillez l'Apollon du Belvéder",
+      "start": 9055,
+      "end": 9085,
+      "label": "PER"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 9091,
+      "end": 9099,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 9288,
+      "end": 9294,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 9298,
+      "end": 9306,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 9356,
+      "end": 9362,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 9410,
+      "end": 9428,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 9441,
+      "end": 9447,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Lucien",
+      "start": 9551,
+      "end": 9561,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 9736,
+      "end": 9741,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 10067,
+      "end": 10073,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 10103,
+      "end": 10109,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien d'Angoulême",
+      "start": 10257,
+      "end": 10275,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 10277,
+      "end": 10283,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 10477,
+      "end": 10483,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 10510,
+      "end": 10528,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 10935,
+      "end": 10941,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 11030,
+      "end": 11034,
+      "label": "LOC"
+    },
+    {
+      "text": "Escarbas",
+      "start": 11245,
+      "end": 11253,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 11400,
+      "end": 11406,
+      "label": "PER"
+    },
+    {
+      "text": "Songe",
+      "start": 11473,
+      "end": 11478,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucien",
+      "start": 12108,
+      "end": 12114,
+      "label": "PER"
+    },
+    {
+      "text": "Gentil",
+      "start": 12133,
+      "end": 12139,
+      "label": "ORG"
+    },
+    {
+      "text": "Châtelet",
+      "start": 12166,
+      "end": 12174,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 12187,
+      "end": 12205,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve du Luxembourg",
+      "start": 12248,
+      "end": 12267,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de l'Échelle",
+      "start": 12354,
+      "end": 12370,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 12381,
+      "end": 12387,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 12432,
+      "end": 12438,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 12482,
+      "end": 12490,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12671,
+      "end": 12676,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 12711,
+      "end": 12717,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard Bois",
+      "start": 12768,
+      "end": 12781,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12804,
+      "end": 12809,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 12834,
+      "end": 12846,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve du Luxembourg",
+      "start": 12874,
+      "end": 12893,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de l'Échelle",
+      "start": 12900,
+      "end": 12916,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 13030,
+      "end": 13036,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 13069,
+      "end": 13087,
+      "label": "PER"
+    },
+    {
+      "text": "baron Châtelet",
+      "start": 13092,
+      "end": 13106,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre des Affaires Étrangères",
+      "start": 13137,
+      "end": 13169,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 13282,
+      "end": 13300,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 13302,
+      "end": 13308,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13487,
+      "end": 13492,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 13584,
+      "end": 13600,
+      "label": "MISC"
+    },
+    {
+      "text": "Naïs",
+      "start": 13896,
+      "end": 13900,
+      "label": "MISC"
+    },
+    {
+      "text": "Bargeton",
+      "start": 14160,
+      "end": 14168,
+      "label": "PER"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 14172,
+      "end": 14188,
+      "label": "PER"
+    },
+    {
+      "text": "Maison du Roi",
+      "start": 14223,
+      "end": 14236,
+      "label": "MISC"
+    },
+    {
+      "text": "Gentil",
+      "start": 14356,
+      "end": 14362,
+      "label": "MISC"
+    },
+    {
+      "text": "Albertine",
+      "start": 14389,
+      "end": 14398,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14456,
+      "end": 14461,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 14529,
+      "end": 14547,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14573,
+      "end": 14578,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 14580,
+      "end": 14591,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 14686,
+      "end": 14691,
+      "label": "LOC"
+    },
+    {
+      "text": "Naïs",
+      "start": 14712,
+      "end": 14716,
+      "label": "LOC"
+    },
+    {
+      "text": "Herbault",
+      "start": 14790,
+      "end": 14798,
+      "label": "PER"
+    },
+    {
+      "text": "Juliette pour les chapeaux",
+      "start": 14816,
+      "end": 14842,
+      "label": "MISC"
+    },
+    {
+      "text": "Victorine",
+      "start": 14922,
+      "end": 14931,
+      "label": "LOC"
+    },
+    {
+      "text": "Demain",
+      "start": 15072,
+      "end": 15078,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 15195,
+      "end": 15203,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 15270,
+      "end": 15275,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 15350,
+      "end": 15368,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 15391,
+      "end": 15397,
+      "label": "PER"
+    },
+    {
+      "text": "Ministres",
+      "start": 15420,
+      "end": 15429,
+      "label": "LOC"
+    },
+    {
+      "text": "Députés ministériels",
+      "start": 15484,
+      "end": 15504,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 15714,
+      "end": 15719,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 15847,
+      "end": 15858,
+      "label": "PER"
+    },
+    {
+      "text": "Naïs",
+      "start": 15966,
+      "end": 15970,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 16077,
+      "end": 16083,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 16098,
+      "end": 16104,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 16106,
+      "end": 16124,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 16284,
+      "end": 16292,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 16349,
+      "end": 16366,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 16376,
+      "end": 16394,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 16722,
+      "end": 16737,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 16869,
+      "end": 16877,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Espard",
+      "start": 17143,
+      "end": 17159,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 17640,
+      "end": 17658,
+      "label": "PER"
+    },
+    {
+      "text": "Nègrepelisse",
+      "start": 17664,
+      "end": 17676,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 17969,
+      "end": 17974,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevards",
+      "start": 18433,
+      "end": 18443,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Paix",
+      "start": 18450,
+      "end": 18464,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 18466,
+      "end": 18472,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 18560,
+      "end": 18565,
+      "label": "LOC"
+    },
+    {
+      "text": "Surpris",
+      "start": 18795,
+      "end": 18802,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 19179,
+      "end": 19184,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 19477,
+      "end": 19482,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 19514,
+      "end": 19520,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 19677,
+      "end": 19695,
+      "label": "PER"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 19804,
+      "end": 19821,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 19823,
+      "end": 19829,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 19903,
+      "end": 19909,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 20070,
+      "end": 20078,
+      "label": "PER"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 20110,
+      "end": 20120,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 20122,
+      "end": 20128,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 20181,
+      "end": 20189,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20237,
+      "end": 20242,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Directeur des Contributions",
+      "start": 20244,
+      "end": 20274,
+      "label": "MISC"
+    },
+    {
+      "text": "Secrétaire Général",
+      "start": 20357,
+      "end": 20375,
+      "label": "LOC"
+    },
+    {
+      "text": "Administration",
+      "start": 20382,
+      "end": 20396,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 20411,
+      "end": 20425,
+      "label": "ORG"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 20432,
+      "end": 20451,
+      "label": "PER"
+    },
+    {
+      "text": "Directeur des Contributions",
+      "start": 20567,
+      "end": 20594,
+      "label": "MISC"
+    },
+    {
+      "text": "Député",
+      "start": 20635,
+      "end": 20641,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucien",
+      "start": 20690,
+      "end": 20696,
+      "label": "PER"
+    },
+    {
+      "text": "Secrétaire des Commandements",
+      "start": 20909,
+      "end": 20937,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 20979,
+      "end": 20990,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 21218,
+      "end": 21224,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 21273,
+      "end": 21278,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 21550,
+      "end": 21561,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 21649,
+      "end": 21667,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 21813,
+      "end": 21822,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22192,
+      "end": 22197,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 22401,
+      "end": 22407,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 22437,
+      "end": 22455,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 22491,
+      "end": 22499,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 22514,
+      "end": 22532,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 22830,
+      "end": 22848,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 22987,
+      "end": 22995,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 23329,
+      "end": 23347,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 23356,
+      "end": 23362,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23416,
+      "end": 23421,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 23521,
+      "end": 23527,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 23660,
+      "end": 23666,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 23703,
+      "end": 23721,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 23788,
+      "end": 23796,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 23975,
+      "end": 23983,
+      "label": "LOC"
+    },
+    {
+      "text": "fière Nègrepelisse",
+      "start": 24311,
+      "end": 24329,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 24368,
+      "end": 24374,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 24387,
+      "end": 24393,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 24526,
+      "end": 24531,
+      "label": "PER"
+    },
+    {
+      "text": "Naïs",
+      "start": 24539,
+      "end": 24543,
+      "label": "LOC"
+    },
+    {
+      "text": "sirène",
+      "start": 24963,
+      "end": 24969,
+      "label": "PER"
+    },
+    {
+      "text": "Houmeau",
+      "start": 25158,
+      "end": 25165,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 25186,
+      "end": 25191,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Chardon",
+      "start": 25344,
+      "end": 25360,
+      "label": "MISC"
+    },
+    {
+      "text": "Demain",
+      "start": 25395,
+      "end": 25401,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve du Luxembourg",
+      "start": 25475,
+      "end": 25494,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 25496,
+      "end": 25511,
+      "label": "PER"
+    },
+    {
+      "text": "Premiers Gentilshommes",
+      "start": 25535,
+      "end": 25557,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambre",
+      "start": 25564,
+      "end": 25571,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 25659,
+      "end": 25675,
+      "label": "PER"
+    },
+    {
+      "text": "Danaïdes",
+      "start": 25690,
+      "end": 25698,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 25702,
+      "end": 25707,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 25733,
+      "end": 25751,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 25830,
+      "end": 25845,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 25928,
+      "end": 25937,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 26030,
+      "end": 26036,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 26231,
+      "end": 26248,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve du Luxembourg",
+      "start": 26562,
+      "end": 26581,
+      "label": "LOC"
+    },
+    {
+      "text": "Gentil",
+      "start": 26624,
+      "end": 26630,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 26715,
+      "end": 26721,
+      "label": "PER"
+    },
+    {
+      "text": "Gentil",
+      "start": 26759,
+      "end": 26765,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 26927,
+      "end": 26933,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 26980,
+      "end": 26998,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 27026,
+      "end": 27043,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 27066,
+      "end": 27071,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 27093,
+      "end": 27099,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 27303,
+      "end": 27309,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 27474,
+      "end": 27483,
+      "label": "LOC"
+    },
+    {
+      "text": "Véry",
+      "start": 27549,
+      "end": 27553,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà Lucien",
+      "start": 27555,
+      "end": 27567,
+      "label": "PER"
+    },
+    {
+      "text": "Feuillants",
+      "start": 27638,
+      "end": 27648,
+      "label": "ORG"
+    },
+    {
+      "text": "Beaulieu !",
+      "start": 27890,
+      "end": 27900,
+      "label": "MISC"
+    },
+    {
+      "text": "Les oiseaux",
+      "start": 27901,
+      "end": 27912,
+      "label": "MISC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 27974,
+      "end": 27983,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 28067,
+      "end": 28072,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 28081,
+      "end": 28089,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 28134,
+      "end": 28142,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 28144,
+      "end": 28150,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 28187,
+      "end": 28196,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 28422,
+      "end": 28428,
+      "label": "LOC"
+    },
+    {
+      "text": "nankin",
+      "start": 29107,
+      "end": 29113,
+      "label": "LOC"
+    },
+    {
+      "text": "Hautoy",
+      "start": 29553,
+      "end": 29559,
+      "label": "LOC"
+    },
+    {
+      "text": "Chandour",
+      "start": 29575,
+      "end": 29583,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 29815,
+      "end": 29821,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Rivoli",
+      "start": 29885,
+      "end": 29898,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 29969,
+      "end": 29978,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 30070,
+      "end": 30076,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 31075,
+      "end": 31081,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 31169,
+      "end": 31186,
+      "label": "PER"
+    },
+    {
+      "text": "Premier Gentilhomme de la Chambre du Roi",
+      "start": 31204,
+      "end": 31244,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 31549,
+      "end": 31562,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 31896,
+      "end": 31901,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 31929,
+      "end": 31935,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 32408,
+      "end": 32417,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 33370,
+      "end": 33376,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 33738,
+      "end": 33750,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 33795,
+      "end": 33801,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 33843,
+      "end": 33849,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 34135,
+      "end": 34141,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Konismarck",
+      "start": 34212,
+      "end": 34234,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 34269,
+      "end": 34275,
+      "label": "PER"
+    },
+    {
+      "text": "Touches",
+      "start": 34590,
+      "end": 34597,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 34624,
+      "end": 34638,
+      "label": "PER"
+    },
+    {
+      "text": "Ha !",
+      "start": 34789,
+      "end": 34793,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 34831,
+      "end": 34849,
+      "label": "PER"
+    },
+    {
+      "text": "madame Firmiani",
+      "start": 35026,
+      "end": 35041,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 35079,
+      "end": 35084,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 35360,
+      "end": 35372,
+      "label": "LOC"
+    },
+    {
+      "text": "Véry",
+      "start": 35477,
+      "end": 35481,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 35524,
+      "end": 35529,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 35598,
+      "end": 35606,
+      "label": "LOC"
+    },
+    {
+      "text": "Ostende",
+      "start": 35622,
+      "end": 35629,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 35809,
+      "end": 35826,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 36070,
+      "end": 36075,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 36121,
+      "end": 36130,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 36241,
+      "end": 36244,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 36310,
+      "end": 36316,
+      "label": "MISC"
+    },
+    {
+      "text": "prix de Paris",
+      "start": 36361,
+      "end": 36374,
+      "label": "MISC"
+    },
+    {
+      "text": "Houmeau",
+      "start": 36397,
+      "end": 36404,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 36587,
+      "end": 36602,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 36733,
+      "end": 36745,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 36851,
+      "end": 36863,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 37073,
+      "end": 37079,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 37479,
+      "end": 37484,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 37666,
+      "end": 37684,
+      "label": "PER"
+    },
+    {
+      "text": "Premiers Gentilshommes",
+      "start": 37709,
+      "end": 37731,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambre",
+      "start": 37738,
+      "end": 37745,
+      "label": "ORG"
+    },
+    {
+      "text": "Contrôleur",
+      "start": 37850,
+      "end": 37860,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 37998,
+      "end": 38013,
+      "label": "PER"
+    },
+    {
+      "text": "Contrôle",
+      "start": 38160,
+      "end": 38168,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 38240,
+      "end": 38246,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 38331,
+      "end": 38337,
+      "label": "PER"
+    },
+    {
+      "text": "Contrôleur",
+      "start": 38369,
+      "end": 38379,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 38473,
+      "end": 38490,
+      "label": "PER"
+    },
+    {
+      "text": "Contrôleur",
+      "start": 38551,
+      "end": 38561,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 38564,
+      "end": 38570,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 38572,
+      "end": 38578,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 38611,
+      "end": 38629,
+      "label": "PER"
+    },
+    {
+      "text": "Contrôle",
+      "start": 38796,
+      "end": 38804,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 38832,
+      "end": 38838,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 38846,
+      "end": 38864,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 38910,
+      "end": 38915,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 38930,
+      "end": 38938,
+      "label": "MISC"
+    },
+    {
+      "text": "Premiers Gentilshommes",
+      "start": 38965,
+      "end": 38987,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 39108,
+      "end": 39114,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 39190,
+      "end": 39198,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 39202,
+      "end": 39210,
+      "label": "ORG"
+    },
+    {
+      "text": "Opéra",
+      "start": 39292,
+      "end": 39297,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 39396,
+      "end": 39402,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 39494,
+      "end": 39500,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 39579,
+      "end": 39585,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 39587,
+      "end": 39593,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 39658,
+      "end": 39675,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 39683,
+      "end": 39701,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39705,
+      "end": 39710,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 39744,
+      "end": 39754,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 39828,
+      "end": 39834,
+      "label": "PER"
+    },
+    {
+      "text": "Anaïs de Nègrepelisse",
+      "start": 39951,
+      "end": 39972,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40015,
+      "end": 40020,
+      "label": "LOC"
+    },
+    {
+      "text": "anguleuse",
+      "start": 40093,
+      "end": 40102,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 40231,
+      "end": 40236,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 40471,
+      "end": 40477,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 40572,
+      "end": 40578,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 40760,
+      "end": 40778,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 40826,
+      "end": 40841,
+      "label": "PER"
+    },
+    {
+      "text": "Anaïs",
+      "start": 41212,
+      "end": 41217,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 41286,
+      "end": 41304,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 41669,
+      "end": 41675,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 41739,
+      "end": 41745,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 41837,
+      "end": 41852,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 42125,
+      "end": 42143,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 42255,
+      "end": 42270,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 42433,
+      "end": 42451,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 42603,
+      "end": 42618,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 43028,
+      "end": 43046,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43160,
+      "end": 43165,
+      "label": "LOC"
+    },
+    {
+      "text": "Espard",
+      "start": 43335,
+      "end": 43341,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 43606,
+      "end": 43617,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 43632,
+      "end": 43650,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 43864,
+      "end": 43872,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 43891,
+      "end": 43897,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 43941,
+      "end": 43957,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 44016,
+      "end": 44034,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 44200,
+      "end": 44206,
+      "label": "PER"
+    },
+    {
+      "text": "Française",
+      "start": 44281,
+      "end": 44290,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 44999,
+      "end": 45007,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 45035,
+      "end": 45051,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 45056,
+      "end": 45060,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 45091,
+      "end": 45107,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 45391,
+      "end": 45400,
+      "label": "LOC"
+    },
+    {
+      "text": "Anaïs",
+      "start": 45445,
+      "end": 45450,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 45475,
+      "end": 45480,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 45608,
+      "end": 45618,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 45624,
+      "end": 45628,
+      "label": "MISC"
+    },
+    {
+      "text": "pauvre duchesse de Langeais",
+      "start": 45690,
+      "end": 45717,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 45812,
+      "end": 45821,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 45835,
+      "end": 45843,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 45955,
+      "end": 45960,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 46106,
+      "end": 46114,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Langeais",
+      "start": 46173,
+      "end": 46191,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rastignac",
+      "start": 46346,
+      "end": 46365,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46444,
+      "end": 46449,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 46456,
+      "end": 46462,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 46465,
+      "end": 46483,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 46604,
+      "end": 46613,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 46682,
+      "end": 46688,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 46798,
+      "end": 46816,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 46869,
+      "end": 46875,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 46963,
+      "end": 46969,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Carigliano",
+      "start": 47167,
+      "end": 47189,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 47224,
+      "end": 47239,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 47249,
+      "end": 47267,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 47390,
+      "end": 47398,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 47544,
+      "end": 47550,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 47787,
+      "end": 47793,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 48063,
+      "end": 48069,
+      "label": "PER"
+    },
+    {
+      "text": "Jugez",
+      "start": 48202,
+      "end": 48207,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 48249,
+      "end": 48255,
+      "label": "PER"
+    },
+    {
+      "text": "De Marsay",
+      "start": 48304,
+      "end": 48313,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 48493,
+      "end": 48511,
+      "label": "PER"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 48573,
+      "end": 48583,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 48623,
+      "end": 48629,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 48763,
+      "end": 48769,
+      "label": "LOC"
+    },
+    {
+      "text": "général Montriveau",
+      "start": 48793,
+      "end": 48811,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 48840,
+      "end": 48860,
+      "label": "PER"
+    },
+    {
+      "text": "Canalis",
+      "start": 48893,
+      "end": 48900,
+      "label": "LOC"
+    },
+    {
+      "text": "Canning",
+      "start": 49362,
+      "end": 49369,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 49417,
+      "end": 49435,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 49486,
+      "end": 49492,
+      "label": "PER"
+    },
+    {
+      "text": "Anaïs",
+      "start": 49661,
+      "end": 49666,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 49834,
+      "end": 49840,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 49859,
+      "end": 49867,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 49894,
+      "end": 49900,
+      "label": "PER"
+    },
+    {
+      "text": "Permettez",
+      "start": 50087,
+      "end": 50096,
+      "label": "MISC"
+    },
+    {
+      "text": "Canalis",
+      "start": 50123,
+      "end": 50130,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 50162,
+      "end": 50170,
+      "label": "ORG"
+    },
+    {
+      "text": "Rubempré",
+      "start": 50282,
+      "end": 50290,
+      "label": "ORG"
+    },
+    {
+      "text": "Angoulême",
+      "start": 50300,
+      "end": 50309,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 50654,
+      "end": 50660,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 50739,
+      "end": 50745,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 50799,
+      "end": 50805,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 50808,
+      "end": 50826,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 50834,
+      "end": 50852,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 50855,
+      "end": 50861,
+      "label": "PER"
+    },
+    {
+      "text": "Félix de Vandenesse",
+      "start": 51083,
+      "end": 51102,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 51126,
+      "end": 51136,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 51146,
+      "end": 51152,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 51194,
+      "end": 51200,
+      "label": "PER"
+    },
+    {
+      "text": "Canalis",
+      "start": 51218,
+      "end": 51225,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 51378,
+      "end": 51380,
+      "label": "MISC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 51458,
+      "end": 51466,
+      "label": "ORG"
+    },
+    {
+      "text": "causerez",
+      "start": 51473,
+      "end": 51481,
+      "label": "PER"
+    },
+    {
+      "text": "Ourika",
+      "start": 51642,
+      "end": 51648,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame la marquise",
+      "start": 51692,
+      "end": 51710,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 51719,
+      "end": 51725,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51876,
+      "end": 51881,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 51920,
+      "end": 51938,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 52052,
+      "end": 52062,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 52068,
+      "end": 52074,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 52190,
+      "end": 52197,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 52199,
+      "end": 52205,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 52377,
+      "end": 52383,
+      "label": "PER"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 52425,
+      "end": 52436,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 52542,
+      "end": 52552,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 52569,
+      "end": 52574,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 52585,
+      "end": 52603,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 52622,
+      "end": 52628,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 52757,
+      "end": 52767,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 52901,
+      "end": 52906,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 52913,
+      "end": 52919,
+      "label": "PER"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 52974,
+      "end": 52984,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 52986,
+      "end": 52996,
+      "label": "PER"
+    },
+    {
+      "text": "Secrétaire des Commandements de l'Altesse impériale",
+      "start": 53072,
+      "end": 53123,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 53215,
+      "end": 53231,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 53306,
+      "end": 53316,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 53367,
+      "end": 53385,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 53501,
+      "end": 53509,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 53579,
+      "end": 53587,
+      "label": "PER"
+    },
+    {
+      "text": "Naïs",
+      "start": 53628,
+      "end": 53632,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 53643,
+      "end": 53651,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 53656,
+      "end": 53662,
+      "label": "PER"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 53948,
+      "end": 53959,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 53985,
+      "end": 53991,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 54007,
+      "end": 54017,
+      "label": "LOC"
+    },
+    {
+      "text": "Demandez",
+      "start": 54089,
+      "end": 54097,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Châtelet",
+      "start": 54202,
+      "end": 54213,
+      "label": "PER"
+    },
+    {
+      "text": "Surpris",
+      "start": 54355,
+      "end": 54362,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 54456,
+      "end": 54462,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 55134,
+      "end": 55140,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 55232,
+      "end": 55240,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 55252,
+      "end": 55258,
+      "label": "PER"
+    },
+    {
+      "text": "Félix de Vandenesse",
+      "start": 55261,
+      "end": 55280,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 55291,
+      "end": 55300,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 55350,
+      "end": 55371,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 55476,
+      "end": 55482,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 55535,
+      "end": 55553,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 55678,
+      "end": 55686,
+      "label": "ORG"
+    },
+    {
+      "text": "Félix de Vandenesse",
+      "start": 55717,
+      "end": 55736,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 55743,
+      "end": 55749,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 55793,
+      "end": 55812,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 55865,
+      "end": 55871,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 55887,
+      "end": 55893,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 55931,
+      "end": 55949,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56061,
+      "end": 56067,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 56148,
+      "end": 56166,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56182,
+      "end": 56188,
+      "label": "PER"
+    },
+    {
+      "text": "baron du Châtelet",
+      "start": 56256,
+      "end": 56273,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56348,
+      "end": 56354,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 56391,
+      "end": 56410,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 56491,
+      "end": 56509,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56516,
+      "end": 56522,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 56533,
+      "end": 56542,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 56783,
+      "end": 56798,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 57030,
+      "end": 57036,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 57045,
+      "end": 57063,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 57179,
+      "end": 57185,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 57254,
+      "end": 57262,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 57283,
+      "end": 57289,
+      "label": "PER"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 57305,
+      "end": 57315,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 57356,
+      "end": 57362,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 57430,
+      "end": 57448,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 57456,
+      "end": 57474,
+      "label": "PER"
+    },
+    {
+      "text": "J. J. Rousseau",
+      "start": 57571,
+      "end": 57585,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 57629,
+      "end": 57644,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 57999,
+      "end": 58017,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 58038,
+      "end": 58047,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 58222,
+      "end": 58231,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58265,
+      "end": 58270,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 58316,
+      "end": 58321,
+      "label": "LOC"
+    },
+    {
+      "text": "Célimène",
+      "start": 58389,
+      "end": 58397,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 58491,
+      "end": 58509,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 58547,
+      "end": 58553,
+      "label": "PER"
+    },
+    {
+      "text": "Danaüs",
+      "start": 58711,
+      "end": 58717,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 58850,
+      "end": 58856,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 58958,
+      "end": 58965,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 58972,
+      "end": 58980,
+      "label": "MISC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 58982,
+      "end": 58990,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 59194,
+      "end": 59200,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 59239,
+      "end": 59245,
+      "label": "LOC"
+    },
+    {
+      "text": "Listomère",
+      "start": 59290,
+      "end": 59299,
+      "label": "PER"
+    },
+    {
+      "text": "fat",
+      "start": 59327,
+      "end": 59330,
+      "label": "ORG"
+    },
+    {
+      "text": "Rubempré",
+      "start": 59491,
+      "end": 59499,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 59534,
+      "end": 59540,
+      "label": "PER"
+    },
+    {
+      "text": "Chardon",
+      "start": 59578,
+      "end": 59585,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 59599,
+      "end": 59608,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 59638,
+      "end": 59647,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 59911,
+      "end": 59917,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 60005,
+      "end": 60014,
+      "label": "LOC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 60097,
+      "end": 60105,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 60182,
+      "end": 60197,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 60200,
+      "end": 60218,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 60289,
+      "end": 60297,
+      "label": "MISC"
+    },
+    {
+      "text": "Anaïs embarrassée",
+      "start": 60335,
+      "end": 60352,
+      "label": "PER"
+    },
+    {
+      "text": "Chardon",
+      "start": 60393,
+      "end": 60400,
+      "label": "LOC"
+    },
+    {
+      "text": "Chardon",
+      "start": 60422,
+      "end": 60429,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60500,
+      "end": 60505,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 60674,
+      "end": 60680,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 60727,
+      "end": 60742,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 60783,
+      "end": 60789,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 61438,
+      "end": 61453,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 61858,
+      "end": 61873,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 61897,
+      "end": 61903,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Richelieu",
+      "start": 62119,
+      "end": 62135,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 62153,
+      "end": 62165,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma chère enfant",
+      "start": 62218,
+      "end": 62233,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 62586,
+      "end": 62604,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 62608,
+      "end": 62612,
+      "label": "MISC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 62958,
+      "end": 62966,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 63388,
+      "end": 63406,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 63413,
+      "end": 63419,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 63427,
+      "end": 63433,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 63663,
+      "end": 63669,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 63867,
+      "end": 63873,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 64033,
+      "end": 64048,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 64160,
+      "end": 64168,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 64365,
+      "end": 64371,
+      "label": "PER"
+    },
+    {
+      "text": "Enfer",
+      "start": 64552,
+      "end": 64557,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 64722,
+      "end": 64727,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 64910,
+      "end": 64925,
+      "label": "PER"
+    },
+    {
+      "text": "Staub",
+      "start": 65114,
+      "end": 65119,
+      "label": "PER"
+    },
+    {
+      "text": "Staub",
+      "start": 65285,
+      "end": 65290,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 65390,
+      "end": 65396,
+      "label": "PER"
+    },
+    {
+      "text": "Verdier",
+      "start": 65595,
+      "end": 65602,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Irlande",
+      "start": 65645,
+      "end": 65659,
+      "label": "PER"
+    },
+    {
+      "text": "Neuve du Luxembourg",
+      "start": 65767,
+      "end": 65786,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 65798,
+      "end": 65804,
+      "label": "PER"
+    },
+    {
+      "text": "madame la marquise d'Espard",
+      "start": 65830,
+      "end": 65857,
+      "label": "PER"
+    },
+    {
+      "text": "Albertine",
+      "start": 65886,
+      "end": 65895,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 65897,
+      "end": 65903,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 65953,
+      "end": 65965,
+      "label": "LOC"
+    },
+    {
+      "text": "Louise",
+      "start": 66038,
+      "end": 66044,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 66098,
+      "end": 66104,
+      "label": "PER"
+    },
+    {
+      "text": "Albertine",
+      "start": 66135,
+      "end": 66144,
+      "label": "PER"
+    },
+    {
+      "text": "répéta Lucien",
+      "start": 66219,
+      "end": 66232,
+      "label": "PER"
+    },
+    {
+      "text": "Albertine d'un air fort",
+      "start": 66290,
+      "end": 66313,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 66327,
+      "end": 66333,
+      "label": "PER"
+    },
+    {
+      "text": "Albertine",
+      "start": 66365,
+      "end": 66374,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 66405,
+      "end": 66423,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 66488,
+      "end": 66503,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 66805,
+      "end": 66811,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 66836,
+      "end": 66845,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 67084,
+      "end": 67092,
+      "label": "PER"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 67209,
+      "end": 67223,
+      "label": "LOC"
+    },
+    {
+      "text": "Longchamp",
+      "start": 67390,
+      "end": 67399,
+      "label": "LOC"
+    },
+    {
+      "text": "Arc de Triomphe",
+      "start": 67503,
+      "end": 67518,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 67582,
+      "end": 67597,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 67601,
+      "end": 67619,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 67815,
+      "end": 67821,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 67831,
+      "end": 67837,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 68129,
+      "end": 68144,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 68474,
+      "end": 68492,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 68896,
+      "end": 68911,
+      "label": "PER"
+    },
+    {
+      "text": "Espard",
+      "start": 69122,
+      "end": 69128,
+      "label": "PER"
+    },
+    {
+      "text": "Blamont Chauvry",
+      "start": 69136,
+      "end": 69151,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 69193,
+      "end": 69199,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 69298,
+      "end": 69303,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 69361,
+      "end": 69379,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 69386,
+      "end": 69401,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 69444,
+      "end": 69450,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 69463,
+      "end": 69469,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 69473,
+      "end": 69482,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 69568,
+      "end": 69574,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 69631,
+      "end": 69649,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 69671,
+      "end": 69686,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 69783,
+      "end": 69789,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 69962,
+      "end": 69980,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 70143,
+      "end": 70152,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 70181,
+      "end": 70187,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 70275,
+      "end": 70290,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 70414,
+      "end": 70420,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 70513,
+      "end": 70519,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 70665,
+      "end": 70683,
+      "label": "PER"
+    },
+    {
+      "text": "Fouquier Tinville",
+      "start": 70717,
+      "end": 70734,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 70774,
+      "end": 70789,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 70845,
+      "end": 70851,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 70925,
+      "end": 70932,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 71028,
+      "end": 71036,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 71071,
+      "end": 71077,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 71253,
+      "end": 71258,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 71260,
+      "end": 71268,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 71394,
+      "end": 71400,
+      "label": "PER"
+    },
+    {
+      "text": "Hurbain",
+      "start": 71465,
+      "end": 71472,
+      "label": "ORG"
+    },
+    {
+      "text": "Louise",
+      "start": 71544,
+      "end": 71550,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 71613,
+      "end": 71631,
+      "label": "PER"
+    },
+    {
+      "text": "Châtelet",
+      "start": 71768,
+      "end": 71776,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 71792,
+      "end": 71810,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 71854,
+      "end": 71860,
+      "label": "PER"
+    },
+    {
+      "text": "Châlelet",
+      "start": 71902,
+      "end": 71910,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 72045,
+      "end": 72051,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 72221,
+      "end": 72239,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 72299,
+      "end": 72314,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Chardon",
+      "start": 72319,
+      "end": 72335,
+      "label": "MISC"
+    },
+    {
+      "text": "Châtelet",
+      "start": 72349,
+      "end": 72357,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 72434,
+      "end": 72439,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 72472,
+      "end": 72474,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 72538,
+      "end": 72547,
+      "label": "LOC"
+    },
+    {
+      "text": "Chardon",
+      "start": 72646,
+      "end": 72653,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubempré",
+      "start": 72673,
+      "end": 72681,
+      "label": "MISC"
+    },
+    {
+      "text": "Houmeau",
+      "start": 72781,
+      "end": 72788,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 72801,
+      "end": 72810,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 72943,
+      "end": 72952,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 72959,
+      "end": 72966,
+      "label": "PER"
+    },
+    {
+      "text": "Mettez",
+      "start": 72984,
+      "end": 72990,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 73022,
+      "end": 73030,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 73034,
+      "end": 73040,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 73068,
+      "end": 73083,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Bargeton",
+      "start": 73220,
+      "end": 73238,
+      "label": "PER"
+    },
+    {
+      "text": "Réfugiez",
+      "start": 73404,
+      "end": 73412,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 73636,
+      "end": 73654,
+      "label": "PER"
+    },
+    {
+      "text": "Anaïs",
+      "start": 73816,
+      "end": 73821,
+      "label": "PER"
+    },
+    {
+      "text": "renvoyez",
+      "start": 73920,
+      "end": 73928,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 74283,
+      "end": 74289,
+      "label": "PER"
+    },
+    {
+      "text": "Staub",
+      "start": 74476,
+      "end": 74481,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard Bois",
+      "start": 74582,
+      "end": 74595,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 74656,
+      "end": 74662,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 74686,
+      "end": 74704,
+      "label": "PER"
+    },
+    {
+      "text": "Vaudeville jeudi dernier",
+      "start": 74723,
+      "end": 74747,
+      "label": "MISC"
+    },
+    {
+      "text": "Staub",
+      "start": 74793,
+      "end": 74798,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 74805,
+      "end": 74811,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 74977,
+      "end": 74986,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 75011,
+      "end": 75019,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 75233,
+      "end": 75239,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 75278,
+      "end": 75283,
+      "label": "LOC"
+    },
+    {
+      "text": "Archer",
+      "start": 75412,
+      "end": 75418,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 75422,
+      "end": 75432,
+      "label": "PER"
+    },
+    {
+      "text": "Staub",
+      "start": 75477,
+      "end": 75482,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 75643,
+      "end": 75649,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 75688,
+      "end": 75694,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 75884,
+      "end": 75889,
+      "label": "LOC"
+    },
+    {
+      "text": "Feuillants",
+      "start": 75989,
+      "end": 75999,
+      "label": "ORG"
+    },
+    {
+      "text": "David",
+      "start": 76645,
+      "end": 76650,
+      "label": "PER"
+    },
+    {
+      "text": "Cluny",
+      "start": 76763,
+      "end": 76768,
+      "label": "LOC"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 76781,
+      "end": 76789,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaillard Bois",
+      "start": 76908,
+      "end": 76921,
+      "label": "PER"
+    },
+    {
+      "text": "Cluny",
+      "start": 76950,
+      "end": 76955,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 77113,
+      "end": 77131,
+      "label": "PER"
+    },
+    {
+      "text": "Louise",
+      "start": 77349,
+      "end": 77355,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 77358,
+      "end": 77363,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 77432,
+      "end": 77450,
+      "label": "PER"
+    },
+    {
+      "text": "fier",
+      "start": 77523,
+      "end": 77527,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 77599,
+      "end": 77605,
+      "label": "LOC"
+    },
+    {
+      "text": "boue de Paris",
+      "start": 78941,
+      "end": 78954,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 79306,
+      "end": 79312,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 79452,
+      "end": 79458,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 79570,
+      "end": 79574,
+      "label": "MISC"
+    },
+    {
+      "text": "LUCIEN",
+      "start": 79847,
+      "end": 79853,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 79986,
+      "end": 79992,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 80077,
+      "end": 80082,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 80265,
+      "end": 80270,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 80422,
+      "end": 80427,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 80493,
+      "end": 80499,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère Ève",
+      "start": 80522,
+      "end": 80534,
+      "label": "MISC"
+    },
+    {
+      "text": "frères voués",
+      "start": 80639,
+      "end": 80651,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 81217,
+      "end": 81221,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 81272,
+      "end": 81279,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 81297,
+      "end": 81303,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 81321,
+      "end": 81326,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Ève",
+      "start": 81392,
+      "end": 81399,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 81655,
+      "end": 81673,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 81934,
+      "end": 81943,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82006,
+      "end": 82011,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Cluny",
+      "start": 82469,
+      "end": 82483,
+      "label": "LOC"
+    },
+    {
+      "text": "Cluny",
+      "start": 82492,
+      "end": 82497,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82563,
+      "end": 82568,
+      "label": "LOC"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 82626,
+      "end": 82634,
+      "label": "LOC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 82901,
+      "end": 82911,
+      "label": "PER"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 82954,
+      "end": 82962,
+      "label": "LOC"
+    },
+    {
+      "text": "Archer",
+      "start": 83177,
+      "end": 83183,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 83187,
+      "end": 83197,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerites",
+      "start": 83205,
+      "end": 83216,
+      "label": "MISC"
+    },
+    {
+      "text": "Plaute",
+      "start": 83429,
+      "end": 83435,
+      "label": "PER"
+    },
+    {
+      "text": "Machiavel",
+      "start": 83485,
+      "end": 83494,
+      "label": "PER"
+    },
+    {
+      "text": "Prince",
+      "start": 83507,
+      "end": 83513,
+      "label": "MISC"
+    },
+    {
+      "text": "Cervantès",
+      "start": 83602,
+      "end": 83611,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Lépante",
+      "start": 83642,
+      "end": 83661,
+      "label": "MISC"
+    },
+    {
+      "text": "Don Quichotte",
+      "start": 83878,
+      "end": 83891,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 84174,
+      "end": 84190,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 84902,
+      "end": 84920,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 85023,
+      "end": 85032,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85076,
+      "end": 85081,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85582,
+      "end": 85587,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85932,
+      "end": 85937,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 86267,
+      "end": 86272,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 86390,
+      "end": 86395,
+      "label": "PER"
+    },
+    {
+      "text": "LUCIEN",
+      "start": 86468,
+      "end": 86474,
+      "label": "MISC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 86478,
+      "end": 86488,
+      "label": "ORG"
+    },
+    {
+      "text": "la Restauration",
+      "start": 86617,
+      "end": 86632,
+      "label": "MISC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 87124,
+      "end": 87134,
+      "label": "PER"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 87331,
+      "end": 87339,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve de Richelieu",
+      "start": 87354,
+      "end": 87372,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux II",
+      "start": 87378,
+      "end": 87391,
+      "label": "PER"
+    },
+    {
+      "text": "III",
+      "start": 87395,
+      "end": 87398,
+      "label": "PER"
+    },
+    {
+      "text": "journées de Juillet",
+      "start": 87433,
+      "end": 87452,
+      "label": "MISC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 88055,
+      "end": 88065,
+      "label": "PER"
+    },
+    {
+      "text": "Molière",
+      "start": 88432,
+      "end": 88439,
+      "label": "PER"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 88866,
+      "end": 88874,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve de Richelieu",
+      "start": 88895,
+      "end": 88913,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux II",
+      "start": 89225,
+      "end": 89238,
+      "label": "PER"
+    },
+    {
+      "text": "Irlande",
+      "start": 89707,
+      "end": 89714,
+      "label": "LOC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 89768,
+      "end": 89778,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 89858,
+      "end": 89864,
+      "label": "PER"
+    },
+    {
+      "text": "coqs de bruyère",
+      "start": 90093,
+      "end": 90108,
+      "label": "PER"
+    },
+    {
+      "text": "Véry",
+      "start": 90149,
+      "end": 90153,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 90366,
+      "end": 90371,
+      "label": "LOC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 90395,
+      "end": 90405,
+      "label": "PER"
+    },
+    {
+      "text": "Temps",
+      "start": 90703,
+      "end": 90708,
+      "label": "MISC"
+    },
+    {
+      "text": "Halle",
+      "start": 90779,
+      "end": 90784,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 90899,
+      "end": 90905,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 91831,
+      "end": 91841,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 92135,
+      "end": 92145,
+      "label": "PER"
+    },
+    {
+      "text": "Cluny",
+      "start": 92350,
+      "end": 92355,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 92357,
+      "end": 92363,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 92618,
+      "end": 92623,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 92803,
+      "end": 92809,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 92823,
+      "end": 92833,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 93152,
+      "end": 93162,
+      "label": "PER"
+    },
+    {
+      "text": "vis à vis de Lucien",
+      "start": 93800,
+      "end": 93819,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 94075,
+      "end": 94081,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 94233,
+      "end": 94242,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne Lousteau",
+      "start": 94364,
+      "end": 94380,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 94388,
+      "end": 94394,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 94396,
+      "end": 94403,
+      "label": "PER"
+    },
+    {
+      "text": "Berry",
+      "start": 94443,
+      "end": 94448,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 94592,
+      "end": 94599,
+      "label": "MISC"
+    },
+    {
+      "text": "Sancerre",
+      "start": 94614,
+      "end": 94622,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucien",
+      "start": 94673,
+      "end": 94679,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 94891,
+      "end": 94897,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 95139,
+      "end": 95145,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 95313,
+      "end": 95319,
+      "label": "PER"
+    },
+    {
+      "text": "Ambigu Comique",
+      "start": 95473,
+      "end": 95487,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaieté",
+      "start": 95494,
+      "end": 95500,
+      "label": "LOC"
+    },
+    {
+      "text": "Panorama Dramatique",
+      "start": 95505,
+      "end": 95524,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 95586,
+      "end": 95592,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 95801,
+      "end": 95807,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 95832,
+      "end": 95839,
+      "label": "MISC"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 95855,
+      "end": 95865,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 95974,
+      "end": 95980,
+      "label": "PER"
+    },
+    {
+      "text": "punch",
+      "start": 96206,
+      "end": 96211,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 96326,
+      "end": 96332,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 96493,
+      "end": 96499,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 96537,
+      "end": 96544,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 96691,
+      "end": 96694,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 96698,
+      "end": 96703,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 96931,
+      "end": 96947,
+      "label": "PER"
+    },
+    {
+      "text": "Archer",
+      "start": 97065,
+      "end": 97071,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 97075,
+      "end": 97085,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 97245,
+      "end": 97255,
+      "label": "PER"
+    },
+    {
+      "text": "Commerce",
+      "start": 97285,
+      "end": 97293,
+      "label": "LOC"
+    },
+    {
+      "text": "Blosse",
+      "start": 97327,
+      "end": 97333,
+      "label": "MISC"
+    },
+    {
+      "text": "Marguerites",
+      "start": 97692,
+      "end": 97703,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucien",
+      "start": 97790,
+      "end": 97796,
+      "label": "PER"
+    },
+    {
+      "text": "Flicoteaux",
+      "start": 97888,
+      "end": 97898,
+      "label": "ORG"
+    },
+    {
+      "text": "Luxembourg",
+      "start": 98014,
+      "end": 98024,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 98200,
+      "end": 98206,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 98327,
+      "end": 98343,
+      "label": "LOC"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 98348,
+      "end": 98358,
+      "label": "LOC"
+    },
+    {
+      "text": "Variétés",
+      "start": 98364,
+      "end": 98372,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra Comique",
+      "start": 98376,
+      "end": 98389,
+      "label": "ORG"
+    },
+    {
+      "text": "Talma",
+      "start": 98509,
+      "end": 98514,
+      "label": "PER"
+    },
+    {
+      "text": "fascina Lucien",
+      "start": 98610,
+      "end": 98624,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 98909,
+      "end": 98913,
+      "label": "LOC"
+    },
+    {
+      "text": "Casimir Delavigne",
+      "start": 99010,
+      "end": 99027,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 99129,
+      "end": 99135,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 99320,
+      "end": 99332,
+      "label": "LOC"
+    },
+    {
+      "text": "Véry",
+      "start": 99425,
+      "end": 99429,
+      "label": "PER"
+    },
+    {
+      "text": "Fleury",
+      "start": 99516,
+      "end": 99522,
+      "label": "LOC"
+    },
+    {
+      "text": "Talma",
+      "start": 99524,
+      "end": 99529,
+      "label": "LOC"
+    },
+    {
+      "text": "Baptiste",
+      "start": 99540,
+      "end": 99548,
+      "label": "PER"
+    },
+    {
+      "text": "Michot",
+      "start": 99553,
+      "end": 99559,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 99919,
+      "end": 99925,
+      "label": "PER"
+    }
+  ]
+}

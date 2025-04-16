@@ -1,0 +1,4360 @@
+{
+  "entities": [
+    {
+      "text": "MIROUËT",
+      "start": 7,
+      "end": 14,
+      "label": "ORG"
+    },
+    {
+      "text": "Société",
+      "start": 533,
+      "end": 540,
+      "label": "ORG"
+    },
+    {
+      "text": "HONORÉ",
+      "start": 780,
+      "end": 786,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 790,
+      "end": 796,
+      "label": "MISC"
+    },
+    {
+      "text": "HÉRITIERS",
+      "start": 824,
+      "end": 833,
+      "label": "ORG"
+    },
+    {
+      "text": "Nemours",
+      "start": 855,
+      "end": 862,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 874,
+      "end": 879,
+      "label": "LOC"
+    },
+    {
+      "text": "canal du Loing",
+      "start": 897,
+      "end": 911,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 1713,
+      "end": 1729,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 2062,
+      "end": 2069,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouron",
+      "start": 2072,
+      "end": 2078,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée du Loing",
+      "start": 2101,
+      "end": 2116,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul Potter",
+      "start": 2385,
+      "end": 2396,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 2414,
+      "end": 2421,
+      "label": "PER"
+    },
+    {
+      "text": "Hobbéma",
+      "start": 2471,
+      "end": 2478,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 2493,
+      "end": 2500,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret Levraut",
+      "start": 2653,
+      "end": 2668,
+      "label": "MISC"
+    },
+    {
+      "text": "Réunissez",
+      "start": 2776,
+      "end": 2785,
+      "label": "PER"
+    },
+    {
+      "text": "Caliban",
+      "start": 2834,
+      "end": 2841,
+      "label": "PER"
+    },
+    {
+      "text": "Forme domine",
+      "start": 2887,
+      "end": 2899,
+      "label": "ORG"
+    },
+    {
+      "text": "Sentiment",
+      "start": 2904,
+      "end": 2913,
+      "label": "ORG"
+    },
+    {
+      "text": "melon",
+      "start": 3193,
+      "end": 3198,
+      "label": "LOC"
+    },
+    {
+      "text": "Gall",
+      "start": 3273,
+      "end": 3277,
+      "label": "PER"
+    },
+    {
+      "text": "Kalmouks",
+      "start": 3879,
+      "end": 3887,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 4417,
+      "end": 4433,
+      "label": "PER"
+    },
+    {
+      "text": "Atlas",
+      "start": 4604,
+      "end": 4609,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 5333,
+      "end": 5337,
+      "label": "MISC"
+    },
+    {
+      "text": "Nemours",
+      "start": 5374,
+      "end": 5381,
+      "label": "ORG"
+    },
+    {
+      "text": "la Révolution",
+      "start": 5748,
+      "end": 5761,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 5779,
+      "end": 5787,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 5789,
+      "end": 5805,
+      "label": "PER"
+    },
+    {
+      "text": "Code civil",
+      "start": 5998,
+      "end": 6008,
+      "label": "MISC"
+    },
+    {
+      "text": "Oise",
+      "start": 6159,
+      "end": 6163,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 6310,
+      "end": 6326,
+      "label": "PER"
+    },
+    {
+      "text": "Bavard",
+      "start": 6536,
+      "end": 6542,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 6651,
+      "end": 6667,
+      "label": "MISC"
+    },
+    {
+      "text": "Sterne",
+      "start": 6701,
+      "end": 6707,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution aidant",
+      "start": 6859,
+      "end": 6876,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 6958,
+      "end": 6965,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 7001,
+      "end": 7008,
+      "label": "LOC"
+    },
+    {
+      "text": "Gâtinais",
+      "start": 7027,
+      "end": 7035,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7038,
+      "end": 7043,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 7255,
+      "end": 7260,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7324,
+      "end": 7332,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 7343,
+      "end": 7359,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7541,
+      "end": 7546,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 7765,
+      "end": 7774,
+      "label": "LOC"
+    },
+    {
+      "text": "Essonne",
+      "start": 7783,
+      "end": 7790,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 7803,
+      "end": 7810,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 7943,
+      "end": 7950,
+      "label": "PER"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 8030,
+      "end": 8039,
+      "label": "ORG"
+    },
+    {
+      "text": "Nemours",
+      "start": 8183,
+      "end": 8190,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 8240,
+      "end": 8253,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 8258,
+      "end": 8263,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 8297,
+      "end": 8306,
+      "label": "LOC"
+    },
+    {
+      "text": "Montereau",
+      "start": 8313,
+      "end": 8322,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 8393,
+      "end": 8402,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 8510,
+      "end": 8517,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 8531,
+      "end": 8538,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 8633,
+      "end": 8640,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 8676,
+      "end": 8680,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 8797,
+      "end": 8804,
+      "label": "PER"
+    },
+    {
+      "text": "clairette",
+      "start": 9076,
+      "end": 9085,
+      "label": "PER"
+    },
+    {
+      "text": "Désiré",
+      "start": 9332,
+      "end": 9338,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 9530,
+      "end": 9537,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 9699,
+      "end": 9705,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 9930,
+      "end": 9937,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10054,
+      "end": 10059,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 10283,
+      "end": 10290,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 10742,
+      "end": 10758,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 11032,
+      "end": 11039,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret de l'écurie",
+      "start": 11562,
+      "end": 11581,
+      "label": "MISC"
+    },
+    {
+      "text": "As",
+      "start": 11639,
+      "end": 11641,
+      "label": "LOC"
+    },
+    {
+      "text": "Ducler",
+      "start": 11651,
+      "end": 11657,
+      "label": "PER"
+    },
+    {
+      "text": "Caillard, la Ducler",
+      "start": 11748,
+      "end": 11767,
+      "label": "MISC"
+    },
+    {
+      "text": "Nemours",
+      "start": 11783,
+      "end": 11790,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11793,
+      "end": 11798,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Bureau",
+      "start": 11804,
+      "end": 11816,
+      "label": "LOC"
+    },
+    {
+      "text": "Concurrence",
+      "start": 11851,
+      "end": 11862,
+      "label": "MISC"
+    },
+    {
+      "text": "Lecomte",
+      "start": 11894,
+      "end": 11901,
+      "label": "PER"
+    },
+    {
+      "text": "Comtesse",
+      "start": 11934,
+      "end": 11942,
+      "label": "LOC"
+    },
+    {
+      "text": "Comtesse",
+      "start": 11974,
+      "end": 11982,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Bureau",
+      "start": 11992,
+      "end": 12004,
+      "label": "LOC"
+    },
+    {
+      "text": "La Caillard",
+      "start": 12055,
+      "end": 12066,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Bureau",
+      "start": 12073,
+      "end": 12085,
+      "label": "LOC"
+    },
+    {
+      "text": "Françaises",
+      "start": 12102,
+      "end": 12112,
+      "label": "MISC"
+    },
+    {
+      "text": "Messageries Françaises",
+      "start": 12118,
+      "end": 12140,
+      "label": "ORG"
+    },
+    {
+      "text": "La Concurrence",
+      "start": 12305,
+      "end": 12319,
+      "label": "LOC"
+    },
+    {
+      "text": "Polignac",
+      "start": 12493,
+      "end": 12501,
+      "label": "LOC"
+    },
+    {
+      "text": "Polignac",
+      "start": 12540,
+      "end": 12548,
+      "label": "LOC"
+    },
+    {
+      "text": "Telles",
+      "start": 12550,
+      "end": 12556,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 12697,
+      "end": 12703,
+      "label": "LOC"
+    },
+    {
+      "text": "As",
+      "start": 12724,
+      "end": 12726,
+      "label": "LOC"
+    },
+    {
+      "text": "Ducler",
+      "start": 12741,
+      "end": 12747,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Désiré",
+      "start": 12755,
+      "end": 12770,
+      "label": "MISC"
+    },
+    {
+      "text": "Essonne",
+      "start": 13068,
+      "end": 13075,
+      "label": "LOC"
+    },
+    {
+      "text": "Ponthierry",
+      "start": 13079,
+      "end": 13089,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabirolle",
+      "start": 13138,
+      "end": 13147,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 13254,
+      "end": 13261,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 13375,
+      "end": 13379,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 13461,
+      "end": 13467,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 13476,
+      "end": 13485,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 13753,
+      "end": 13769,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 14103,
+      "end": 14119,
+      "label": "PER"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 14131,
+      "end": 14140,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret",
+      "start": 14225,
+      "end": 14232,
+      "label": "PER"
+    },
+    {
+      "text": "sainte",
+      "start": 14267,
+      "end": 14273,
+      "label": "PER"
+    },
+    {
+      "text": "madame Massin",
+      "start": 14395,
+      "end": 14408,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 14445,
+      "end": 14449,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin",
+      "start": 14476,
+      "end": 14482,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 14536,
+      "end": 14542,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 14933,
+      "end": 14940,
+      "label": "PER"
+    },
+    {
+      "text": "passe t",
+      "start": 14967,
+      "end": 14974,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 15051,
+      "end": 15059,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 15111,
+      "end": 15117,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 15235,
+      "end": 15241,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 15654,
+      "end": 15657,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 15726,
+      "end": 15732,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 15989,
+      "end": 15997,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 16075,
+      "end": 16083,
+      "label": "PER"
+    },
+    {
+      "text": "curé de Nemours",
+      "start": 16099,
+      "end": 16114,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Massin",
+      "start": 16305,
+      "end": 16318,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 16339,
+      "end": 16355,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 16433,
+      "end": 16439,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 16452,
+      "end": 16460,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Massin",
+      "start": 16812,
+      "end": 16825,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret et le montrer",
+      "start": 17062,
+      "end": 17083,
+      "label": "MISC"
+    },
+    {
+      "text": "Gâtinais",
+      "start": 17115,
+      "end": 17123,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 17125,
+      "end": 17132,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 17203,
+      "end": 17212,
+      "label": "LOC"
+    },
+    {
+      "text": "Loing",
+      "start": 17219,
+      "end": 17224,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 17368,
+      "end": 17373,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 17389,
+      "end": 17396,
+      "label": "ORG"
+    },
+    {
+      "text": "Ombragée",
+      "start": 17568,
+      "end": 17576,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 17733,
+      "end": 17740,
+      "label": "ORG"
+    },
+    {
+      "text": "Ursule",
+      "start": 17800,
+      "end": 17806,
+      "label": "MISC"
+    },
+    {
+      "text": "Paroissien",
+      "start": 17827,
+      "end": 17837,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 18022,
+      "end": 18026,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 18033,
+      "end": 18040,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 18134,
+      "end": 18141,
+      "label": "ORG"
+    },
+    {
+      "text": "Crémière",
+      "start": 18148,
+      "end": 18156,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault",
+      "start": 18278,
+      "end": 18286,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours le personnage",
+      "start": 18515,
+      "end": 18536,
+      "label": "MISC"
+    },
+    {
+      "text": "Méphistophélès de Faust",
+      "start": 18540,
+      "end": 18563,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 18590,
+      "end": 18596,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière Dionis",
+      "start": 18633,
+      "end": 18648,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 18664,
+      "end": 18671,
+      "label": "LOC"
+    },
+    {
+      "text": "Dionis",
+      "start": 18731,
+      "end": 18737,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 18749,
+      "end": 18755,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 18765,
+      "end": 18770,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 18791,
+      "end": 18796,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 18949,
+      "end": 18955,
+      "label": "PER"
+    },
+    {
+      "text": "Courbe",
+      "start": 19573,
+      "end": 19579,
+      "label": "PER"
+    },
+    {
+      "text": "Sardes",
+      "start": 19760,
+      "end": 19766,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 20012,
+      "end": 20018,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 20575,
+      "end": 20581,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 20587,
+      "end": 20594,
+      "label": "MISC"
+    },
+    {
+      "text": "Dionis",
+      "start": 20927,
+      "end": 20933,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 20992,
+      "end": 20998,
+      "label": "PER"
+    },
+    {
+      "text": "Dionis",
+      "start": 21415,
+      "end": 21421,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 21513,
+      "end": 21517,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 21631,
+      "end": 21637,
+      "label": "PER"
+    },
+    {
+      "text": "Désiré",
+      "start": 21680,
+      "end": 21686,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 21876,
+      "end": 21882,
+      "label": "LOC"
+    },
+    {
+      "text": "bourgeoisie de Nemours",
+      "start": 22032,
+      "end": 22054,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 22106,
+      "end": 22112,
+      "label": "PER"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 22177,
+      "end": 22192,
+      "label": "MISC"
+    },
+    {
+      "text": "Dionis",
+      "start": 22234,
+      "end": 22240,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 22328,
+      "end": 22344,
+      "label": "PER"
+    },
+    {
+      "text": "Désiré",
+      "start": 22384,
+      "end": 22390,
+      "label": "PER"
+    },
+    {
+      "text": "Arianes",
+      "start": 22440,
+      "end": 22447,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 22481,
+      "end": 22487,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 22613,
+      "end": 22617,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin Levrault",
+      "start": 22743,
+      "end": 22758,
+      "label": "PER"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 22785,
+      "end": 22800,
+      "label": "MISC"
+    },
+    {
+      "text": "Crémière",
+      "start": 22839,
+      "end": 22847,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 22875,
+      "end": 22882,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartare",
+      "start": 22973,
+      "end": 22980,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Crémière",
+      "start": 23457,
+      "end": 23472,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dionis",
+      "start": 23600,
+      "end": 23613,
+      "label": "PER"
+    },
+    {
+      "text": "Carcel",
+      "start": 23916,
+      "end": 23922,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 24022,
+      "end": 24028,
+      "label": "PER"
+    },
+    {
+      "text": "Dionis",
+      "start": 24139,
+      "end": 24145,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 24214,
+      "end": 24220,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 24298,
+      "end": 24305,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 24645,
+      "end": 24652,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 24817,
+      "end": 24824,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 25142,
+      "end": 25149,
+      "label": "ORG"
+    },
+    {
+      "text": "Goupil",
+      "start": 25152,
+      "end": 25158,
+      "label": "LOC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 25494,
+      "end": 25502,
+      "label": "PER"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 25575,
+      "end": 25590,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 25594,
+      "end": 25598,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 25645,
+      "end": 25651,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 25903,
+      "end": 25909,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 26239,
+      "end": 26245,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 26350,
+      "end": 26356,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 26442,
+      "end": 26459,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 26579,
+      "end": 26585,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 26686,
+      "end": 26692,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 26886,
+      "end": 26892,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 26930,
+      "end": 26946,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 27023,
+      "end": 27029,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 27238,
+      "end": 27250,
+      "label": "MISC"
+    },
+    {
+      "text": "Désiré",
+      "start": 27294,
+      "end": 27300,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 27837,
+      "end": 27844,
+      "label": "LOC"
+    },
+    {
+      "text": "Portenduère",
+      "start": 27961,
+      "end": 27972,
+      "label": "LOC"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 28109,
+      "end": 28118,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Lange",
+      "start": 28155,
+      "end": 28166,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 28174,
+      "end": 28191,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Portenduère",
+      "start": 28324,
+      "end": 28345,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 28468,
+      "end": 28481,
+      "label": "PER"
+    },
+    {
+      "text": "Cantons Suisses",
+      "start": 28718,
+      "end": 28733,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 28972,
+      "end": 28980,
+      "label": "PER"
+    },
+    {
+      "text": "Tiers État",
+      "start": 29003,
+      "end": 29013,
+      "label": "ORG"
+    },
+    {
+      "text": "Féodalité",
+      "start": 29108,
+      "end": 29117,
+      "label": "LOC"
+    },
+    {
+      "text": "bourgeoisie de Nemours",
+      "start": 29122,
+      "end": 29144,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 29161,
+      "end": 29168,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 29173,
+      "end": 29179,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault",
+      "start": 29184,
+      "end": 29192,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 29199,
+      "end": 29207,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 29214,
+      "end": 29224,
+      "label": "PER"
+    },
+    {
+      "text": "Massin Crémière",
+      "start": 29268,
+      "end": 29283,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault Massin",
+      "start": 29289,
+      "end": 29304,
+      "label": "PER"
+    },
+    {
+      "text": "Massin Minoret",
+      "start": 29310,
+      "end": 29324,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Minoret",
+      "start": 29330,
+      "end": 29345,
+      "label": "MISC"
+    },
+    {
+      "text": "Crémière Levrault",
+      "start": 29351,
+      "end": 29368,
+      "label": "ORG"
+    },
+    {
+      "text": "Levrault Minoret Massin",
+      "start": 29374,
+      "end": 29397,
+      "label": "PER"
+    },
+    {
+      "text": "Massin Levrault",
+      "start": 29403,
+      "end": 29418,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret Massin",
+      "start": 29424,
+      "end": 29438,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin Massin",
+      "start": 29444,
+      "end": 29457,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière Massin",
+      "start": 29463,
+      "end": 29478,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière François",
+      "start": 29526,
+      "end": 29543,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault Jacques",
+      "start": 29548,
+      "end": 29564,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Minoret",
+      "start": 29569,
+      "end": 29581,
+      "label": "PER"
+    },
+    {
+      "text": "Anselme du Peuple",
+      "start": 29604,
+      "end": 29621,
+      "label": "PER"
+    },
+    {
+      "text": "Peuple",
+      "start": 29629,
+      "end": 29635,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 29845,
+      "end": 29852,
+      "label": "ORG"
+    },
+    {
+      "text": "Bénédictins",
+      "start": 29872,
+      "end": 29883,
+      "label": "LOC"
+    },
+    {
+      "text": "Almanach",
+      "start": 29889,
+      "end": 29897,
+      "label": "LOC"
+    },
+    {
+      "text": "Gotha",
+      "start": 29901,
+      "end": 29906,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret occupèrent les tanneries",
+      "start": 30038,
+      "end": 30070,
+      "label": "MISC"
+    },
+    {
+      "text": "Crémière",
+      "start": 30076,
+      "end": 30084,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 30110,
+      "end": 30116,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault",
+      "start": 30147,
+      "end": 30155,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret couteliers",
+      "start": 30357,
+      "end": 30375,
+      "label": "MISC"
+    },
+    {
+      "text": "Melun",
+      "start": 30378,
+      "end": 30383,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault",
+      "start": 30389,
+      "end": 30397,
+      "label": "ORG"
+    },
+    {
+      "text": "Montargis",
+      "start": 30400,
+      "end": 30409,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 30415,
+      "end": 30421,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 30424,
+      "end": 30431,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 30439,
+      "end": 30447,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 30472,
+      "end": 30477,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 30553,
+      "end": 30559,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 30596,
+      "end": 30602,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 30669,
+      "end": 30677,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 30687,
+      "end": 30693,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret millionnaire",
+      "start": 30723,
+      "end": 30743,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret soldat",
+      "start": 30757,
+      "end": 30771,
+      "label": "MISC"
+    },
+    {
+      "text": "Féodalité",
+      "start": 31413,
+      "end": 31422,
+      "label": "LOC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 31449,
+      "end": 31461,
+      "label": "PER"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 31544,
+      "end": 31554,
+      "label": "ORG"
+    },
+    {
+      "text": "Histoire",
+      "start": 31562,
+      "end": 31570,
+      "label": "MISC"
+    },
+    {
+      "text": "Capet",
+      "start": 31681,
+      "end": 31686,
+      "label": "LOC"
+    },
+    {
+      "text": "Rohan",
+      "start": 31742,
+      "end": 31747,
+      "label": "PER"
+    },
+    {
+      "text": "Montmorency",
+      "start": 31754,
+      "end": 31765,
+      "label": "PER"
+    },
+    {
+      "text": "Bauffremont",
+      "start": 31772,
+      "end": 31783,
+      "label": "LOC"
+    },
+    {
+      "text": "Mortemart",
+      "start": 31790,
+      "end": 31799,
+      "label": "LOC"
+    },
+    {
+      "text": "Sem",
+      "start": 32091,
+      "end": 32094,
+      "label": "PER"
+    },
+    {
+      "text": "Cham",
+      "start": 32096,
+      "end": 32100,
+      "label": "PER"
+    },
+    {
+      "text": "Japhet",
+      "start": 32104,
+      "end": 32110,
+      "label": "PER"
+    },
+    {
+      "text": "Perse",
+      "start": 32495,
+      "end": 32500,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 33116,
+      "end": 33124,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret tout court",
+      "start": 33136,
+      "end": 33154,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 33201,
+      "end": 33208,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33277,
+      "end": 33282,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33565,
+      "end": 33570,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 33585,
+      "end": 33592,
+      "label": "LOC"
+    },
+    {
+      "text": "Appuyé",
+      "start": 33812,
+      "end": 33818,
+      "label": "PER"
+    },
+    {
+      "text": "Dupont de Nemours",
+      "start": 33823,
+      "end": 33840,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Morellet",
+      "start": 33875,
+      "end": 33888,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 33893,
+      "end": 33901,
+      "label": "PER"
+    },
+    {
+      "text": "Mord",
+      "start": 33911,
+      "end": 33915,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 33965,
+      "end": 33972,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeu",
+      "start": 34015,
+      "end": 34021,
+      "label": "PER"
+    },
+    {
+      "text": "Diderot",
+      "start": 34032,
+      "end": 34039,
+      "label": "PER"
+    },
+    {
+      "text": "D'Alembert",
+      "start": 34041,
+      "end": 34051,
+      "label": "PER"
+    },
+    {
+      "text": "Helvétius",
+      "start": 34053,
+      "end": 34062,
+      "label": "PER"
+    },
+    {
+      "text": "Grimm",
+      "start": 34084,
+      "end": 34089,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeu",
+      "start": 34155,
+      "end": 34161,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 34182,
+      "end": 34189,
+      "label": "LOC"
+    },
+    {
+      "text": "Lelièvre",
+      "start": 34426,
+      "end": 34434,
+      "label": "PER"
+    },
+    {
+      "text": "Mercure",
+      "start": 34454,
+      "end": 34461,
+      "label": "LOC"
+    },
+    {
+      "text": "Lelièvre",
+      "start": 34590,
+      "end": 34598,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 34636,
+      "end": 34643,
+      "label": "PER"
+    },
+    {
+      "text": "Codex",
+      "start": 34691,
+      "end": 34696,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouelle",
+      "start": 34761,
+      "end": 34768,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeu",
+      "start": 34804,
+      "end": 34810,
+      "label": "PER"
+    },
+    {
+      "text": "Nouvelle Héloïse",
+      "start": 34915,
+      "end": 34931,
+      "label": "LOC"
+    },
+    {
+      "text": "Valentin Mirouët",
+      "start": 35009,
+      "end": 35025,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 35125,
+      "end": 35137,
+      "label": "MISC"
+    },
+    {
+      "text": "Académie royale des sciences et des arts de Metz",
+      "start": 35541,
+      "end": 35589,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret",
+      "start": 35614,
+      "end": 35621,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 35944,
+      "end": 35950,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roland",
+      "start": 36021,
+      "end": 36034,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 36067,
+      "end": 36074,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 36104,
+      "end": 36110,
+      "label": "LOC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 36239,
+      "end": 36251,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 36314,
+      "end": 36321,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 36589,
+      "end": 36596,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 36620,
+      "end": 36627,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 36747,
+      "end": 36753,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 37428,
+      "end": 37435,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 37454,
+      "end": 37463,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 37602,
+      "end": 37615,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 37820,
+      "end": 37827,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouron",
+      "start": 37830,
+      "end": 37836,
+      "label": "LOC"
+    },
+    {
+      "text": "Loing",
+      "start": 37919,
+      "end": 37924,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 38003,
+      "end": 38012,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 38128,
+      "end": 38137,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 38193,
+      "end": 38198,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 38296,
+      "end": 38303,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Encyclopédie",
+      "start": 38463,
+      "end": 38477,
+      "label": "MISC"
+    },
+    {
+      "text": "La Harpe",
+      "start": 38515,
+      "end": 38523,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun Pindare",
+      "start": 38542,
+      "end": 38556,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Joseph de Chénier",
+      "start": 38561,
+      "end": 38584,
+      "label": "PER"
+    },
+    {
+      "text": "Morellet",
+      "start": 38589,
+      "end": 38597,
+      "label": "PER"
+    },
+    {
+      "text": "madame Helvétius",
+      "start": 38602,
+      "end": 38618,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 38653,
+      "end": 38661,
+      "label": "PER"
+    },
+    {
+      "text": "Geoffroy",
+      "start": 38675,
+      "end": 38683,
+      "label": "PER"
+    },
+    {
+      "text": "Fréron",
+      "start": 38704,
+      "end": 38710,
+      "label": "PER"
+    },
+    {
+      "text": "Grand'rue de Nemours",
+      "start": 38798,
+      "end": 38818,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 38863,
+      "end": 38879,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault Crémière",
+      "start": 39042,
+      "end": 39059,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 39147,
+      "end": 39151,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 39223,
+      "end": 39230,
+      "label": "PER"
+    },
+    {
+      "text": "Massin Massin",
+      "start": 39256,
+      "end": 39269,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lange",
+      "start": 39293,
+      "end": 39304,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière Crémière",
+      "start": 39389,
+      "end": 39406,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 39545,
+      "end": 39552,
+      "label": "PER"
+    },
+    {
+      "text": "Monte Legino",
+      "start": 39565,
+      "end": 39577,
+      "label": "PER"
+    },
+    {
+      "text": "Ma mère",
+      "start": 39674,
+      "end": 39681,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Massin Levrault",
+      "start": 39692,
+      "end": 39712,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Massin Levrault",
+      "start": 39720,
+      "end": 39740,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 39751,
+      "end": 39767,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Massin",
+      "start": 39791,
+      "end": 39802,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière Levrault Dionis",
+      "start": 39825,
+      "end": 39849,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault Minoret",
+      "start": 39983,
+      "end": 39999,
+      "label": "PER"
+    },
+    {
+      "text": "Montereau",
+      "start": 40011,
+      "end": 40020,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin Levrault",
+      "start": 40069,
+      "end": 40084,
+      "label": "PER"
+    },
+    {
+      "text": "Montargis",
+      "start": 40105,
+      "end": 40114,
+      "label": "LOC"
+    },
+    {
+      "text": "tour de Nemours",
+      "start": 40225,
+      "end": 40240,
+      "label": "MISC"
+    },
+    {
+      "text": "Loing",
+      "start": 40271,
+      "end": 40276,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 40473,
+      "end": 40482,
+      "label": "ORG"
+    },
+    {
+      "text": "rue des Bourgeois",
+      "start": 40491,
+      "end": 40508,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 40510,
+      "end": 40526,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault",
+      "start": 40563,
+      "end": 40571,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40598,
+      "end": 40603,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 40649,
+      "end": 40654,
+      "label": "LOC"
+    },
+    {
+      "text": "Entrons",
+      "start": 40738,
+      "end": 40745,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault Levrault",
+      "start": 41299,
+      "end": 41316,
+      "label": "PER"
+    },
+    {
+      "text": "Bon !",
+      "start": 41491,
+      "end": 41496,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret, je pourrais loger ma bibliothèque",
+      "start": 41559,
+      "end": 41601,
+      "label": "MISC"
+    },
+    {
+      "text": "Levrault Levrault",
+      "start": 42342,
+      "end": 42359,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 42399,
+      "end": 42403,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 42429,
+      "end": 42445,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 42554,
+      "end": 42559,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 42840,
+      "end": 42842,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 42988,
+      "end": 42997,
+      "label": "PER"
+    },
+    {
+      "text": "Portenduère",
+      "start": 43074,
+      "end": 43085,
+      "label": "PER"
+    },
+    {
+      "text": "Folie Levrault",
+      "start": 43190,
+      "end": 43204,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 43235,
+      "end": 43242,
+      "label": "ORG"
+    },
+    {
+      "text": "Dionis",
+      "start": 43272,
+      "end": 43278,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 43403,
+      "end": 43411,
+      "label": "PER"
+    },
+    {
+      "text": "richard",
+      "start": 43540,
+      "end": 43547,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43588,
+      "end": 43593,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 43690,
+      "end": 43706,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 43898,
+      "end": 43905,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Minoret Levrault",
+      "start": 44092,
+      "end": 44115,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 44255,
+      "end": 44262,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 44294,
+      "end": 44301,
+      "label": "LOC"
+    },
+    {
+      "text": "Gâtinais",
+      "start": 44404,
+      "end": 44412,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 44423,
+      "end": 44427,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule Mirouët",
+      "start": 44743,
+      "end": 44757,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 45142,
+      "end": 45149,
+      "label": "LOC"
+    },
+    {
+      "text": "Zélie Levrault",
+      "start": 45157,
+      "end": 45171,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 45398,
+      "end": 45408,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 45427,
+      "end": 45435,
+      "label": "LOC"
+    },
+    {
+      "text": "Zélie",
+      "start": 45747,
+      "end": 45752,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 45820,
+      "end": 45827,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 45915,
+      "end": 45920,
+      "label": "LOC"
+    },
+    {
+      "text": "Larrey",
+      "start": 45931,
+      "end": 45937,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 46141,
+      "end": 46157,
+      "label": "ORG"
+    },
+    {
+      "text": "ordre de Saint Michel",
+      "start": 46194,
+      "end": 46215,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Minoret Levault",
+      "start": 46419,
+      "end": 46441,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 46663,
+      "end": 46669,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 46728,
+      "end": 46735,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 46913,
+      "end": 46919,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 47044,
+      "end": 47050,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 47099,
+      "end": 47106,
+      "label": "ORG"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 47230,
+      "end": 47245,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin",
+      "start": 47323,
+      "end": 47329,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 47375,
+      "end": 47381,
+      "label": "LOC"
+    },
+    {
+      "text": "Montargis",
+      "start": 47395,
+      "end": 47404,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Massin",
+      "start": 47550,
+      "end": 47563,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault Minoret",
+      "start": 47565,
+      "end": 47581,
+      "label": "PER"
+    },
+    {
+      "text": "Montereau",
+      "start": 47602,
+      "end": 47611,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 47757,
+      "end": 47763,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 47893,
+      "end": 47908,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 48033,
+      "end": 48039,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 48178,
+      "end": 48183,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 48202,
+      "end": 48209,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 48212,
+      "end": 48220,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 48258,
+      "end": 48274,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 48297,
+      "end": 48302,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 48450,
+      "end": 48455,
+      "label": "LOC"
+    },
+    {
+      "text": "Médecin de Fontanes",
+      "start": 48507,
+      "end": 48526,
+      "label": "PER"
+    },
+    {
+      "text": "Louis le Grand",
+      "start": 48573,
+      "end": 48587,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière",
+      "start": 48635,
+      "end": 48643,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 48645,
+      "end": 48651,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 48655,
+      "end": 48671,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 49380,
+      "end": 49386,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 50012,
+      "end": 50019,
+      "label": "LOC"
+    },
+    {
+      "text": "curé Chaperon",
+      "start": 50117,
+      "end": 50130,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 50241,
+      "end": 50248,
+      "label": "PER"
+    },
+    {
+      "text": "curé de Nemours",
+      "start": 50699,
+      "end": 50714,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 50827,
+      "end": 50835,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 50914,
+      "end": 50921,
+      "label": "PER"
+    },
+    {
+      "text": "curé de Nemours",
+      "start": 50946,
+      "end": 50961,
+      "label": "LOC"
+    },
+    {
+      "text": "Fénelon du Gâtinais",
+      "start": 50971,
+      "end": 50990,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51050,
+      "end": 51054,
+      "label": "MISC"
+    },
+    {
+      "text": "Nemours",
+      "start": 51084,
+      "end": 51091,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 51712,
+      "end": 51718,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 51849,
+      "end": 51857,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 51895,
+      "end": 51902,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 51965,
+      "end": 51972,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 52628,
+      "end": 52636,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 52704,
+      "end": 52711,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 53124,
+      "end": 53131,
+      "label": "ORG"
+    },
+    {
+      "text": "pasteur",
+      "start": 53152,
+      "end": 53159,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Portenduère",
+      "start": 53363,
+      "end": 53384,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 54100,
+      "end": 54108,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 54551,
+      "end": 54558,
+      "label": "PER"
+    },
+    {
+      "text": "Riche",
+      "start": 54670,
+      "end": 54675,
+      "label": "ORG"
+    },
+    {
+      "text": "Nemours",
+      "start": 54756,
+      "end": 54763,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 55294,
+      "end": 55302,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 55653,
+      "end": 55661,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 56117,
+      "end": 56125,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 56243,
+      "end": 56256,
+      "label": "MISC"
+    },
+    {
+      "text": "In manus",
+      "start": 56376,
+      "end": 56384,
+      "label": "MISC"
+    },
+    {
+      "text": "Orléans",
+      "start": 57293,
+      "end": 57300,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 57894,
+      "end": 57901,
+      "label": "PER"
+    },
+    {
+      "text": "Royal Suédois",
+      "start": 58179,
+      "end": 58192,
+      "label": "PER"
+    },
+    {
+      "text": "Jordy",
+      "start": 58212,
+      "end": 58217,
+      "label": "PER"
+    },
+    {
+      "text": "Jordy",
+      "start": 58409,
+      "end": 58414,
+      "label": "PER"
+    },
+    {
+      "text": "École Militaire",
+      "start": 58528,
+      "end": 58543,
+      "label": "ORG"
+    },
+    {
+      "text": "Jordy",
+      "start": 58645,
+      "end": 58650,
+      "label": "PER"
+    },
+    {
+      "text": "Charles XII",
+      "start": 58791,
+      "end": 58802,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 59484,
+      "end": 59492,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 59790,
+      "end": 59804,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur de Jordy",
+      "start": 60119,
+      "end": 60136,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 60169,
+      "end": 60181,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 60266,
+      "end": 60272,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 60958,
+      "end": 60962,
+      "label": "MISC"
+    },
+    {
+      "text": "Jordy",
+      "start": 61011,
+      "end": 61016,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 61035,
+      "end": 61042,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Portenduère",
+      "start": 61155,
+      "end": 61176,
+      "label": "PER"
+    },
+    {
+      "text": "Jordy",
+      "start": 61573,
+      "end": 61578,
+      "label": "PER"
+    },
+    {
+      "text": "Chaperon",
+      "start": 61587,
+      "end": 61595,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 61599,
+      "end": 61606,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 61766,
+      "end": 61772,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 62310,
+      "end": 62317,
+      "label": "LOC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 62328,
+      "end": 62336,
+      "label": "PER"
+    },
+    {
+      "text": "Melun",
+      "start": 62371,
+      "end": 62376,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice de Paix de Nemours",
+      "start": 62575,
+      "end": 62601,
+      "label": "MISC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 62811,
+      "end": 62819,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 62841,
+      "end": 62848,
+      "label": "ORG"
+    },
+    {
+      "text": "Droit",
+      "start": 62953,
+      "end": 62958,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 62961,
+      "end": 62966,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 63019,
+      "end": 63027,
+      "label": "PER"
+    },
+    {
+      "text": "Bongrand",
+      "start": 63037,
+      "end": 63045,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 64015,
+      "end": 64021,
+      "label": "PER"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 64121,
+      "end": 64136,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 65284,
+      "end": 65291,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 65307,
+      "end": 65314,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret",
+      "start": 65388,
+      "end": 65395,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 65696,
+      "end": 65703,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret pour ses héritiers",
+      "start": 65800,
+      "end": 65826,
+      "label": "MISC"
+    },
+    {
+      "text": "whist",
+      "start": 66169,
+      "end": 66174,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 66243,
+      "end": 66250,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule une enfant adoptée",
+      "start": 66469,
+      "end": 66494,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 66661,
+      "end": 66668,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 66856,
+      "end": 66862,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 67587,
+      "end": 67596,
+      "label": "LOC"
+    },
+    {
+      "text": "renvoya t",
+      "start": 67703,
+      "end": 67712,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 67751,
+      "end": 67767,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 67904,
+      "end": 67910,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 67991,
+      "end": 67999,
+      "label": "PER"
+    },
+    {
+      "text": "Bresse",
+      "start": 68196,
+      "end": 68202,
+      "label": "LOC"
+    },
+    {
+      "text": "Antoinette Patris",
+      "start": 68239,
+      "end": 68256,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre dit de",
+      "start": 68267,
+      "end": 68280,
+      "label": "PER"
+    },
+    {
+      "text": "Bougival",
+      "start": 68281,
+      "end": 68289,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 68317,
+      "end": 68323,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 68516,
+      "end": 68524,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 68959,
+      "end": 68967,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 69254,
+      "end": 69262,
+      "label": "LOC"
+    },
+    {
+      "text": "Bougival",
+      "start": 69468,
+      "end": 69476,
+      "label": "LOC"
+    },
+    {
+      "text": "Antoinette",
+      "start": 69545,
+      "end": 69555,
+      "label": "MISC"
+    },
+    {
+      "text": "Nemours",
+      "start": 69815,
+      "end": 69822,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 70018,
+      "end": 70023,
+      "label": "LOC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 70162,
+      "end": 70170,
+      "label": "PER"
+    },
+    {
+      "text": "Telles",
+      "start": 70257,
+      "end": 70263,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré Minoret Levrault",
+      "start": 70717,
+      "end": 70740,
+      "label": "PER"
+    },
+    {
+      "text": "Curé Meslier",
+      "start": 70762,
+      "end": 70774,
+      "label": "PER"
+    },
+    {
+      "text": "général Foy",
+      "start": 70794,
+      "end": 70805,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 70870,
+      "end": 70877,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 70923,
+      "end": 70939,
+      "label": "PER"
+    },
+    {
+      "text": "Massin Levrault",
+      "start": 70972,
+      "end": 70987,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière Crémière",
+      "start": 71015,
+      "end": 71032,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière",
+      "start": 71066,
+      "end": 71074,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 71076,
+      "end": 71082,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 71086,
+      "end": 71093,
+      "label": "LOC"
+    },
+    {
+      "text": "Gâtinais",
+      "start": 71168,
+      "end": 71176,
+      "label": "LOC"
+    },
+    {
+      "text": "bourgeoisie de Nemours",
+      "start": 71470,
+      "end": 71492,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice de Paix",
+      "start": 71585,
+      "end": 71600,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 71722,
+      "end": 71731,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret",
+      "start": 72474,
+      "end": 72481,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 72613,
+      "end": 72620,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 72682,
+      "end": 72686,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah !",
+      "start": 72713,
+      "end": 72718,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 72897,
+      "end": 72903,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Massin",
+      "start": 72970,
+      "end": 72983,
+      "label": "PER"
+    },
+    {
+      "text": "Damoclès",
+      "start": 73033,
+      "end": 73041,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 73057,
+      "end": 73062,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Crémière",
+      "start": 73104,
+      "end": 73119,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 73632,
+      "end": 73639,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 73662,
+      "end": 73666,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 73667,
+      "end": 73674,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 73722,
+      "end": 73723,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 74023,
+      "end": 74028,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 74129,
+      "end": 74133,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 74326,
+      "end": 74332,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 74424,
+      "end": 74428,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 74448,
+      "end": 74455,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 74544,
+      "end": 74548,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin",
+      "start": 74614,
+      "end": 74620,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 74711,
+      "end": 74724,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 75018,
+      "end": 75024,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 75392,
+      "end": 75394,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 75405,
+      "end": 75411,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 75468,
+      "end": 75474,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 75982,
+      "end": 75986,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 76002,
+      "end": 76009,
+      "label": "PER"
+    },
+    {
+      "text": "Levrault Crémière",
+      "start": 76061,
+      "end": 76078,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière",
+      "start": 76438,
+      "end": 76446,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 76508,
+      "end": 76509,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 76537,
+      "end": 76545,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 76566,
+      "end": 76573,
+      "label": "LOC"
+    },
+    {
+      "text": "Levrault Levrault",
+      "start": 76578,
+      "end": 76595,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 76727,
+      "end": 76731,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontaine",
+      "start": 76759,
+      "end": 76767,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons",
+      "start": 76913,
+      "end": 76919,
+      "label": "LOC"
+    },
+    {
+      "text": "Dionis",
+      "start": 76930,
+      "end": 76936,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 76942,
+      "end": 76950,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 77399,
+      "end": 77405,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière Dionis",
+      "start": 77521,
+      "end": 77536,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 77621,
+      "end": 77627,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret le maître de poste",
+      "start": 77945,
+      "end": 77971,
+      "label": "MISC"
+    },
+    {
+      "text": "Crémière le receveur",
+      "start": 77976,
+      "end": 77996,
+      "label": "MISC"
+    },
+    {
+      "text": "Dionis",
+      "start": 78028,
+      "end": 78034,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 78100,
+      "end": 78106,
+      "label": "LOC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 78245,
+      "end": 78253,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 78321,
+      "end": 78327,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret ?",
+      "start": 78373,
+      "end": 78382,
+      "label": "MISC"
+    },
+    {
+      "text": "Désiré",
+      "start": 78526,
+      "end": 78532,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 78611,
+      "end": 78618,
+      "label": "MISC"
+    },
+    {
+      "text": "bombé",
+      "start": 79563,
+      "end": 79568,
+      "label": "LOC"
+    },
+    {
+      "text": "Vif",
+      "start": 79586,
+      "end": 79589,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 79652,
+      "end": 79657,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 79740,
+      "end": 79746,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 79842,
+      "end": 79847,
+      "label": "PER"
+    },
+    {
+      "text": "Postillon Ier",
+      "start": 79926,
+      "end": 79939,
+      "label": "PER"
+    },
+    {
+      "text": "Postillon II",
+      "start": 79941,
+      "end": 79953,
+      "label": "PER"
+    },
+    {
+      "text": "Postillon III",
+      "start": 79957,
+      "end": 79970,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 80073,
+      "end": 80078,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 80141,
+      "end": 80145,
+      "label": "MISC"
+    },
+    {
+      "text": "Zélie",
+      "start": 80152,
+      "end": 80157,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 80552,
+      "end": 80557,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 81018,
+      "end": 81034,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 81308,
+      "end": 81315,
+      "label": "PER"
+    },
+    {
+      "text": "La Minoret",
+      "start": 81392,
+      "end": 81402,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 81489,
+      "end": 81496,
+      "label": "PER"
+    },
+    {
+      "text": "Nemours",
+      "start": 81606,
+      "end": 81613,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 81651,
+      "end": 81655,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 81671,
+      "end": 81677,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 81696,
+      "end": 81703,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie Levrault",
+      "start": 81733,
+      "end": 81747,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 81957,
+      "end": 81964,
+      "label": "MISC"
+    },
+    {
+      "text": "place d'Ursule",
+      "start": 82072,
+      "end": 82086,
+      "label": "LOC"
+    },
+    {
+      "text": "Barbé Marbois",
+      "start": 82174,
+      "end": 82187,
+      "label": "PER"
+    },
+    {
+      "text": "Boissy d'Anglas",
+      "start": 82192,
+      "end": 82207,
+      "label": "PER"
+    },
+    {
+      "text": "Morellet",
+      "start": 82212,
+      "end": 82220,
+      "label": "PER"
+    },
+    {
+      "text": "Helvétius",
+      "start": 82224,
+      "end": 82233,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric le Grand",
+      "start": 82238,
+      "end": 82255,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 82316,
+      "end": 82323,
+      "label": "PER"
+    },
+    {
+      "text": "Gironde",
+      "start": 83013,
+      "end": 83020,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret",
+      "start": 83212,
+      "end": 83219,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 84505,
+      "end": 84509,
+      "label": "MISC"
+    },
+    {
+      "text": "Zélie",
+      "start": 84560,
+      "end": 84565,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 84835,
+      "end": 84841,
+      "label": "PER"
+    },
+    {
+      "text": "Dionis",
+      "start": 85052,
+      "end": 85058,
+      "label": "PER"
+    },
+    {
+      "text": "Massin",
+      "start": 85116,
+      "end": 85122,
+      "label": "LOC"
+    },
+    {
+      "text": "Crémière",
+      "start": 85128,
+      "end": 85136,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'rue",
+      "start": 85403,
+      "end": 85412,
+      "label": "ORG"
+    },
+    {
+      "text": "Tiens",
+      "start": 85438,
+      "end": 85443,
+      "label": "LOC"
+    },
+    {
+      "text": "Minoret, j'oublie Désiré",
+      "start": 85465,
+      "end": 85489,
+      "label": "MISC"
+    },
+    {
+      "text": "Zélie",
+      "start": 85495,
+      "end": 85500,
+      "label": "PER"
+    },
+    {
+      "text": "la Ducler",
+      "start": 85753,
+      "end": 85762,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà Désiré !",
+      "start": 85766,
+      "end": 85780,
+      "label": "MISC"
+    },
+    {
+      "text": "Nemours",
+      "start": 85844,
+      "end": 85851,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 85853,
+      "end": 85859,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimé",
+      "start": 85915,
+      "end": 85919,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 86126,
+      "end": 86131,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 86134,
+      "end": 86139,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré Minoret",
+      "start": 86141,
+      "end": 86155,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 86392,
+      "end": 86397,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 87062,
+      "end": 87064,
+      "label": "MISC"
+    },
+    {
+      "text": "Massin",
+      "start": 87113,
+      "end": 87119,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 87252,
+      "end": 87258,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 87285,
+      "end": 87289,
+      "label": "MISC"
+    },
+    {
+      "text": "Désiré",
+      "start": 87322,
+      "end": 87328,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Crémière",
+      "start": 87538,
+      "end": 87553,
+      "label": "PER"
+    },
+    {
+      "text": "Cabirolle",
+      "start": 87597,
+      "end": 87606,
+      "label": "PER"
+    },
+    {
+      "text": "cria t",
+      "start": 87609,
+      "end": 87615,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 87755,
+      "end": 87760,
+      "label": "PER"
+    },
+    {
+      "text": "Cabirolle",
+      "start": 87763,
+      "end": 87772,
+      "label": "PER"
+    },
+    {
+      "text": "Désiré",
+      "start": 87868,
+      "end": 87874,
+      "label": "PER"
+    },
+    {
+      "text": "Désiré",
+      "start": 88115,
+      "end": 88121,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré vit Ursule",
+      "start": 88385,
+      "end": 88402,
+      "label": "MISC"
+    },
+    {
+      "text": "Obligée",
+      "start": 88568,
+      "end": 88575,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 88679,
+      "end": 88685,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 88919,
+      "end": 88925,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 89742,
+      "end": 89748,
+      "label": "PER"
+    },
+    {
+      "text": "Berthe",
+      "start": 89795,
+      "end": 89801,
+      "label": "LOC"
+    },
+    {
+      "text": "Confiance",
+      "start": 90405,
+      "end": 90414,
+      "label": "LOC"
+    },
+    {
+      "text": "Modestie",
+      "start": 90423,
+      "end": 90431,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Crémière",
+      "start": 90894,
+      "end": 90909,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 90962,
+      "end": 90968,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 90979,
+      "end": 90985,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 91017,
+      "end": 91021,
+      "label": "MISC"
+    },
+    {
+      "text": "Chaperon",
+      "start": 91199,
+      "end": 91207,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 91224,
+      "end": 91230,
+      "label": "LOC"
+    },
+    {
+      "text": "Massin",
+      "start": 91268,
+      "end": 91274,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 91354,
+      "end": 91360,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 91485,
+      "end": 91491,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 91512,
+      "end": 91519,
+      "label": "LOC"
+    },
+    {
+      "text": "Bongrand",
+      "start": 91523,
+      "end": 91531,
+      "label": "LOC"
+    },
+    {
+      "text": "Zélie",
+      "start": 91838,
+      "end": 91843,
+      "label": "PER"
+    },
+    {
+      "text": "Ursule",
+      "start": 91993,
+      "end": 91999,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 92113,
+      "end": 92125,
+      "label": "PER"
+    },
+    {
+      "text": "Crémière",
+      "start": 92141,
+      "end": 92149,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 92247,
+      "end": 92251,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 92270,
+      "end": 92276,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 92285,
+      "end": 92289,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret Levrault",
+      "start": 92299,
+      "end": 92315,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 92453,
+      "end": 92457,
+      "label": "MISC"
+    },
+    {
+      "text": "Minoret",
+      "start": 92468,
+      "end": 92475,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 92613,
+      "end": 92618,
+      "label": "PER"
+    },
+    {
+      "text": "madame Massin",
+      "start": 92679,
+      "end": 92692,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 92796,
+      "end": 92801,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule",
+      "start": 92965,
+      "end": 92971,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 93099,
+      "end": 93105,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 93455,
+      "end": 93461,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Portenduère",
+      "start": 93463,
+      "end": 93484,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lebrun",
+      "start": 93769,
+      "end": 93782,
+      "label": "PER"
+    },
+    {
+      "text": "front fané",
+      "start": 94161,
+      "end": 94171,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Portenduère",
+      "start": 94682,
+      "end": 94703,
+      "label": "PER"
+    },
+    {
+      "text": "Minoret",
+      "start": 94782,
+      "end": 94789,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 94793,
+      "end": 94794,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Portenduère",
+      "start": 94799,
+      "end": 94820,
+      "label": "PER"
+    },
+    {
+      "text": "madame Massin",
+      "start": 94840,
+      "end": 94853,
+      "label": "PER"
+    },
+    {
+      "text": "Dionis",
+      "start": 94962,
+      "end": 94968,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 95111,
+      "end": 95117,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Minoret",
+      "start": 95141,
+      "end": 95155,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 95252,
+      "end": 95258,
+      "label": "PER"
+    },
+    {
+      "text": "Esther",
+      "start": 95496,
+      "end": 95502,
+      "label": "MISC"
+    },
+    {
+      "text": "Esther",
+      "start": 95564,
+      "end": 95570,
+      "label": "MISC"
+    },
+    {
+      "text": "Goupil",
+      "start": 95592,
+      "end": 95598,
+      "label": "PER"
+    },
+    {
+      "text": "Esther",
+      "start": 95662,
+      "end": 95668,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 95694,
+      "end": 95702,
+      "label": "ORG"
+    },
+    {
+      "text": "Goupil",
+      "start": 95847,
+      "end": 95853,
+      "label": "PER"
+    },
+    {
+      "text": "voyais",
+      "start": 95866,
+      "end": 95872,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 95973,
+      "end": 95979,
+      "label": "LOC"
+    },
+    {
+      "text": "Goupil",
+      "start": 96066,
+      "end": 96072,
+      "label": "PER"
+    },
+    {
+      "text": "Bongrand",
+      "start": 96101,
+      "end": 96109,
+      "label": "PER"
+    },
+    {
+      "text": "Varney",
+      "start": 96168,
+      "end": 96174,
+      "label": "LOC"
+    },
+    {
+      "text": "Amy Robsart",
+      "start": 96181,
+      "end": 96192,
+      "label": "PER"
+    },
+    {
+      "text": "Kenilworth",
+      "start": 96198,
+      "end": 96208,
+      "label": "MISC"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 96236,
+      "end": 96245,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouvre",
+      "start": 96267,
+      "end": 96273,
+      "label": "LOC"
+    },
+    {
+      "text": "Désiré",
+      "start": 96460,
+      "end": 96466,
+      "label": "PER"
+    },
+    {
+      "text": "Zélie",
+      "start": 96514,
+      "end": 96519,
+      "label": "PER"
+    },
+    {
+      "text": "Goupil",
+      "start": 96522,
+      "end": 96528,
+      "label": "PER"
+    },
+    {
+      "text": "rue des Bourgeois",
+      "start": 96625,
+      "end": 96642,
+      "label": "LOC"
+    },
+    {
+      "text": "Nemours",
+      "start": 96806,
+      "end": 96813,
+      "label": "LOC"
+    },
+    {
+      "text": "Valentin Mirouët",
+      "start": 97016,
+      "end": 97032,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 97299,
+      "end": 97313,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 97338,
+      "end": 97346,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 97406,
+      "end": 97415,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Minoret",
+      "start": 97584,
+      "end": 97598,
+      "label": "PER"
+    },
+    {
+      "text": "Érard",
+      "start": 97712,
+      "end": 97717,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 97776,
+      "end": 97790,
+      "label": "PER"
+    },
+    {
+      "text": "Grimm",
+      "start": 97798,
+      "end": 97803,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 97950,
+      "end": 97964,
+      "label": "PER"
+    },
+    {
+      "text": "Berlinois Hoffmann",
+      "start": 98164,
+      "end": 98182,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 98314,
+      "end": 98322,
+      "label": "LOC"
+    },
+    {
+      "text": "Hambourg",
+      "start": 98345,
+      "end": 98353,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 98549,
+      "end": 98563,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 98800,
+      "end": 98814,
+      "label": "PER"
+    },
+    {
+      "text": "Mirouët",
+      "start": 98976,
+      "end": 98983,
+      "label": "ORG"
+    },
+    {
+      "text": "Minoret",
+      "start": 99004,
+      "end": 99011,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 99114,
+      "end": 99119,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Mirouët",
+      "start": 99121,
+      "end": 99135,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 99142,
+      "end": 99147,
+      "label": "LOC"
+    },
+    {
+      "text": "Ursule",
+      "start": 99244,
+      "end": 99250,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 99517,
+      "end": 99523,
+      "label": "MISC"
+    },
+    {
+      "text": "Ursule Minoret",
+      "start": 99900,
+      "end": 99914,
+      "label": "PER"
+    }
+  ]
+}

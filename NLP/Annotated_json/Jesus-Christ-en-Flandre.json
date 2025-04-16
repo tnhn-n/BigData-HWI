@@ -1,0 +1,682 @@
+{
+  "entities": [
+    {
+      "text": "JÉSUS CHRIST EN FLANDRE",
+      "start": 0,
+      "end": 23,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 62,
+      "end": 63,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 82,
+      "end": 89,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandres",
+      "start": 157,
+      "end": 165,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 170,
+      "end": 176,
+      "label": "MISC"
+    },
+    {
+      "text": "île de Cadzant",
+      "start": 265,
+      "end": 279,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 299,
+      "end": 306,
+      "label": "LOC"
+    },
+    {
+      "text": "Midelbourg",
+      "start": 396,
+      "end": 406,
+      "label": "LOC"
+    },
+    {
+      "text": "riche Ostende",
+      "start": 511,
+      "end": 524,
+      "label": "MISC"
+    },
+    {
+      "text": "Ostende",
+      "start": 692,
+      "end": 699,
+      "label": "LOC"
+    },
+    {
+      "text": "Brabant",
+      "start": 1006,
+      "end": 1013,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 1018,
+      "end": 1025,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 1030,
+      "end": 1038,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 1503,
+      "end": 1512,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 1808,
+      "end": 1815,
+      "label": "LOC"
+    },
+    {
+      "text": "île de Cadzant",
+      "start": 2325,
+      "end": 2339,
+      "label": "LOC"
+    },
+    {
+      "text": "Ostende",
+      "start": 2342,
+      "end": 2349,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 2706,
+      "end": 2713,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'attendez",
+      "start": 2922,
+      "end": 2933,
+      "label": "MISC"
+    },
+    {
+      "text": "Flandres",
+      "start": 3759,
+      "end": 3767,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruges",
+      "start": 4399,
+      "end": 4405,
+      "label": "LOC"
+    },
+    {
+      "text": "université de Louvain",
+      "start": 4591,
+      "end": 4612,
+      "label": "ORG"
+    },
+    {
+      "text": "camelot brun",
+      "start": 5035,
+      "end": 5047,
+      "label": "PER"
+    },
+    {
+      "text": "Flamands",
+      "start": 5311,
+      "end": 5319,
+      "label": "LOC"
+    },
+    {
+      "text": "Ostende",
+      "start": 5971,
+      "end": 5978,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 6866,
+      "end": 6870,
+      "label": "MISC"
+    },
+    {
+      "text": "Thomas",
+      "start": 6887,
+      "end": 6893,
+      "label": "PER"
+    },
+    {
+      "text": "Pater",
+      "start": 6948,
+      "end": 6953,
+      "label": "MISC"
+    },
+    {
+      "text": "Ave",
+      "start": 6962,
+      "end": 6965,
+      "label": "MISC"
+    },
+    {
+      "text": "Ramez",
+      "start": 7269,
+      "end": 7274,
+      "label": "PER"
+    },
+    {
+      "text": "mer sourit",
+      "start": 7306,
+      "end": 7316,
+      "label": "LOC"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 8637,
+      "end": 8645,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 8696,
+      "end": 8700,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 8808,
+      "end": 8813,
+      "label": "LOC"
+    },
+    {
+      "text": "Ostende",
+      "start": 9188,
+      "end": 9195,
+      "label": "LOC"
+    },
+    {
+      "text": "Hau !",
+      "start": 10994,
+      "end": 10999,
+      "label": "MISC"
+    },
+    {
+      "text": "Thomas",
+      "start": 11121,
+      "end": 11127,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 11386,
+      "end": 11390,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Vierge de Bon Secours",
+      "start": 13014,
+      "end": 13042,
+      "label": "PER"
+    },
+    {
+      "text": "Anvers",
+      "start": 13055,
+      "end": 13061,
+      "label": "LOC"
+    },
+    {
+      "text": "La Vierge",
+      "start": 13190,
+      "end": 13199,
+      "label": "PER"
+    },
+    {
+      "text": "Anvers",
+      "start": 13217,
+      "end": 13223,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge d'Anvers",
+      "start": 13412,
+      "end": 13427,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 13457,
+      "end": 13470,
+      "label": "PER"
+    },
+    {
+      "text": "Empoignez",
+      "start": 13501,
+      "end": 13510,
+      "label": "PER"
+    },
+    {
+      "text": "videz moi",
+      "start": 13529,
+      "end": 13538,
+      "label": "ORG"
+    },
+    {
+      "text": "Thomas",
+      "start": 14039,
+      "end": 14045,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 14198,
+      "end": 14205,
+      "label": "LOC"
+    },
+    {
+      "text": "Soumettez",
+      "start": 14668,
+      "end": 14677,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 14699,
+      "end": 14703,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa t",
+      "start": 14873,
+      "end": 14880,
+      "label": "PER"
+    },
+    {
+      "text": "Rupelmonde",
+      "start": 14896,
+      "end": 14906,
+      "label": "PER"
+    },
+    {
+      "text": "Gâvres",
+      "start": 14950,
+      "end": 14956,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 15516,
+      "end": 15522,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 15585,
+      "end": 15589,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 17530,
+      "end": 17534,
+      "label": "MISC"
+    },
+    {
+      "text": "Galloise",
+      "start": 17688,
+      "end": 17696,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 17721,
+      "end": 17725,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 17838,
+      "end": 17842,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 17849,
+      "end": 17853,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Vierge",
+      "start": 17924,
+      "end": 17937,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 17947,
+      "end": 17951,
+      "label": "MISC"
+    },
+    {
+      "text": "Consolez",
+      "start": 17977,
+      "end": 17985,
+      "label": "LOC"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 18004,
+      "end": 18012,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 18146,
+      "end": 18150,
+      "label": "MISC"
+    },
+    {
+      "text": "Ayez",
+      "start": 18510,
+      "end": 18514,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 18563,
+      "end": 18567,
+      "label": "MISC"
+    },
+    {
+      "text": "bon Seigneur",
+      "start": 18589,
+      "end": 18601,
+      "label": "MISC"
+    },
+    {
+      "text": "Notre Dame de Lorette",
+      "start": 18687,
+      "end": 18708,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 18816,
+      "end": 18820,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 18907,
+      "end": 18913,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Vierge !",
+      "start": 19458,
+      "end": 19473,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 20087,
+      "end": 20091,
+      "label": "MISC"
+    },
+    {
+      "text": "Ostende",
+      "start": 20776,
+      "end": 20783,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 21229,
+      "end": 21233,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21382,
+      "end": 21386,
+      "label": "MISC"
+    },
+    {
+      "text": "Thomas",
+      "start": 21591,
+      "end": 21597,
+      "label": "PER"
+    },
+    {
+      "text": "Courage !",
+      "start": 22923,
+      "end": 22932,
+      "label": "MISC"
+    },
+    {
+      "text": "Assis",
+      "start": 23130,
+      "end": 23135,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauveur",
+      "start": 23659,
+      "end": 23666,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 23737,
+      "end": 23742,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 23793,
+      "end": 23805,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 23875,
+      "end": 23883,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 23887,
+      "end": 23895,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus",
+      "start": 23985,
+      "end": 23990,
+      "label": "PER"
+    },
+    {
+      "text": "la Terre",
+      "start": 24003,
+      "end": 24011,
+      "label": "LOC"
+    },
+    {
+      "text": "Mourir",
+      "start": 24505,
+      "end": 24511,
+      "label": "LOC"
+    },
+    {
+      "text": "joli filigrane",
+      "start": 25959,
+      "end": 25973,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 28357,
+      "end": 28366,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 29053,
+      "end": 29059,
+      "label": "PER"
+    },
+    {
+      "text": "Réveille toi",
+      "start": 29724,
+      "end": 29736,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 31105,
+      "end": 31110,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 32082,
+      "end": 32086,
+      "label": "MISC"
+    },
+    {
+      "text": "Malheureuse",
+      "start": 32132,
+      "end": 32143,
+      "label": "LOC"
+    },
+    {
+      "text": "Hardie",
+      "start": 32591,
+      "end": 32597,
+      "label": "PER"
+    },
+    {
+      "text": "tes",
+      "start": 33419,
+      "end": 33422,
+      "label": "MISC"
+    },
+    {
+      "text": "Occident",
+      "start": 33654,
+      "end": 33662,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 33669,
+      "end": 33675,
+      "label": "MISC"
+    },
+    {
+      "text": "Originale",
+      "start": 33999,
+      "end": 34008,
+      "label": "LOC"
+    },
+    {
+      "text": "tes",
+      "start": 34039,
+      "end": 34042,
+      "label": "MISC"
+    },
+    {
+      "text": "Semblable",
+      "start": 34151,
+      "end": 34160,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrible",
+      "start": 34375,
+      "end": 34383,
+      "label": "LOC"
+    },
+    {
+      "text": "Messaline",
+      "start": 34949,
+      "end": 34958,
+      "label": "PER"
+    },
+    {
+      "text": "vierge",
+      "start": 35044,
+      "end": 35050,
+      "label": "PER"
+    },
+    {
+      "text": "Tes",
+      "start": 35118,
+      "end": 35121,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 36128,
+      "end": 36132,
+      "label": "LOC"
+    },
+    {
+      "text": "HISTOIRE",
+      "start": 36775,
+      "end": 36783,
+      "label": "MISC"
+    },
+    {
+      "text": "SCIENCES",
+      "start": 36785,
+      "end": 36793,
+      "label": "ORG"
+    },
+    {
+      "text": "LITTÉRATURES",
+      "start": 36795,
+      "end": 36807,
+      "label": "MISC"
+    },
+    {
+      "text": "Réveillez",
+      "start": 37435,
+      "end": 37444,
+      "label": "MISC"
+    },
+    {
+      "text": "Croire !",
+      "start": 37700,
+      "end": 37708,
+      "label": "MISC"
+    },
+    {
+      "text": "Monarchie",
+      "start": 37774,
+      "end": 37783,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 37813,
+      "end": 37818,
+      "label": "LOC"
+    }
+  ]
+}

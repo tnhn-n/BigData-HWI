@@ -1,0 +1,2080 @@
+{
+  "entities": [
+    {
+      "text": "ÉTUDE",
+      "start": 6,
+      "end": 11,
+      "label": "MISC"
+    },
+    {
+      "text": "FEMME",
+      "start": 15,
+      "end": 20,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 111,
+      "end": 116,
+      "label": "LOC"
+    },
+    {
+      "text": "Comptez",
+      "start": 593,
+      "end": 600,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 654,
+      "end": 660,
+      "label": "PER"
+    },
+    {
+      "text": "Restez",
+      "start": 1056,
+      "end": 1062,
+      "label": "LOC"
+    },
+    {
+      "text": "La seconde",
+      "start": 1126,
+      "end": 1136,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Angleterre",
+      "start": 1675,
+      "end": 1687,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 1799,
+      "end": 1805,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2504,
+      "end": 2509,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 2550,
+      "end": 2563,
+      "label": "PER"
+    },
+    {
+      "text": "marquise d'Espard",
+      "start": 2624,
+      "end": 2641,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2711,
+      "end": 2716,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 2776,
+      "end": 2791,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2814,
+      "end": 2819,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 3539,
+      "end": 3545,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 3958,
+      "end": 3967,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 4489,
+      "end": 4495,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4576,
+      "end": 4581,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4892,
+      "end": 4897,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame d'Espard",
+      "start": 6907,
+      "end": 6922,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 7137,
+      "end": 7143,
+      "label": "LOC"
+    },
+    {
+      "text": "Sterne",
+      "start": 7239,
+      "end": 7245,
+      "label": "LOC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 8422,
+      "end": 8432,
+      "label": "PER"
+    },
+    {
+      "text": "Metternich",
+      "start": 8439,
+      "end": 8449,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 8475,
+      "end": 8481,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9130,
+      "end": 9135,
+      "label": "LOC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 9305,
+      "end": 9318,
+      "label": "PER"
+    },
+    {
+      "text": "Newton",
+      "start": 9347,
+      "end": 9353,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 9461,
+      "end": 9467,
+      "label": "LOC"
+    },
+    {
+      "text": "Jolies",
+      "start": 9495,
+      "end": 9501,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 9570,
+      "end": 9576,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 10514,
+      "end": 10520,
+      "label": "LOC"
+    },
+    {
+      "text": "Dudley",
+      "start": 10540,
+      "end": 10546,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 10675,
+      "end": 10684,
+      "label": "PER"
+    },
+    {
+      "text": "Concini",
+      "start": 10711,
+      "end": 10718,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 10835,
+      "end": 10839,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 10843,
+      "end": 10851,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 10982,
+      "end": 10997,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 11285,
+      "end": 11293,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 11390,
+      "end": 11397,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 11433,
+      "end": 11439,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 11444,
+      "end": 11456,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 11654,
+      "end": 11659,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 12007,
+      "end": 12019,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 12207,
+      "end": 12222,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 12760,
+      "end": 12764,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de l'Estorade",
+      "start": 12816,
+      "end": 12836,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 12979,
+      "end": 12985,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13693,
+      "end": 13698,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 13878,
+      "end": 13890,
+      "label": "MISC"
+    },
+    {
+      "text": "Othello",
+      "start": 14111,
+      "end": 14118,
+      "label": "MISC"
+    },
+    {
+      "text": "Cantique des Cantiques !",
+      "start": 14627,
+      "end": 14651,
+      "label": "MISC"
+    },
+    {
+      "text": "Sultan",
+      "start": 14957,
+      "end": 14963,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 14990,
+      "end": 15000,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Dudley",
+      "start": 15011,
+      "end": 15022,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16774,
+      "end": 16779,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 16981,
+      "end": 16987,
+      "label": "PER"
+    },
+    {
+      "text": "Cadignan",
+      "start": 17100,
+      "end": 17108,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 17143,
+      "end": 17149,
+      "label": "PER"
+    },
+    {
+      "text": "ministre étranger sourit",
+      "start": 17424,
+      "end": 17448,
+      "label": "ORG"
+    },
+    {
+      "text": "Marsay",
+      "start": 17588,
+      "end": 17594,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 17895,
+      "end": 17900,
+      "label": "LOC"
+    },
+    {
+      "text": "fiacre",
+      "start": 18084,
+      "end": 18090,
+      "label": "LOC"
+    },
+    {
+      "text": "Othello",
+      "start": 18971,
+      "end": 18978,
+      "label": "MISC"
+    },
+    {
+      "text": "Shakspeare",
+      "start": 19087,
+      "end": 19097,
+      "label": "PER"
+    },
+    {
+      "text": "More de Venise",
+      "start": 19150,
+      "end": 19164,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 19852,
+      "end": 19856,
+      "label": "MISC"
+    },
+    {
+      "text": "More",
+      "start": 20220,
+      "end": 20224,
+      "label": "PER"
+    },
+    {
+      "text": "Desdémona",
+      "start": 20235,
+      "end": 20244,
+      "label": "PER"
+    },
+    {
+      "text": "stores du fiacre baissés",
+      "start": 21203,
+      "end": 21227,
+      "label": "MISC"
+    },
+    {
+      "text": "More de Venise",
+      "start": 21321,
+      "end": 21335,
+      "label": "PER"
+    },
+    {
+      "text": "Desdémona",
+      "start": 21497,
+      "end": 21506,
+      "label": "LOC"
+    },
+    {
+      "text": "Clarisse heureuse",
+      "start": 21795,
+      "end": 21812,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 22094,
+      "end": 22100,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 22325,
+      "end": 22331,
+      "label": "PER"
+    },
+    {
+      "text": "Othello",
+      "start": 23362,
+      "end": 23369,
+      "label": "MISC"
+    },
+    {
+      "text": "Guéri",
+      "start": 23543,
+      "end": 23548,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaises",
+      "start": 24001,
+      "end": 24010,
+      "label": "MISC"
+    },
+    {
+      "text": "Barimore",
+      "start": 24073,
+      "end": 24081,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Dudley",
+      "start": 24092,
+      "end": 24103,
+      "label": "PER"
+    },
+    {
+      "text": "rue Boucher",
+      "start": 24292,
+      "end": 24303,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 25110,
+      "end": 25114,
+      "label": "MISC"
+    },
+    {
+      "text": "Alpes",
+      "start": 25707,
+      "end": 25712,
+      "label": "LOC"
+    },
+    {
+      "text": "M'",
+      "start": 26085,
+      "end": 26087,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 26765,
+      "end": 26769,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 26877,
+      "end": 26883,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 27875,
+      "end": 27879,
+      "label": "MISC"
+    },
+    {
+      "text": "Malibran",
+      "start": 28015,
+      "end": 28023,
+      "label": "LOC"
+    },
+    {
+      "text": "Malibran",
+      "start": 28051,
+      "end": 28059,
+      "label": "LOC"
+    },
+    {
+      "text": "Relevez",
+      "start": 28515,
+      "end": 28522,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 28592,
+      "end": 28596,
+      "label": "MISC"
+    },
+    {
+      "text": "Doutez",
+      "start": 28600,
+      "end": 28606,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 28662,
+      "end": 28666,
+      "label": "MISC"
+    },
+    {
+      "text": "Tranquillement !",
+      "start": 28849,
+      "end": 28865,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri",
+      "start": 28916,
+      "end": 28921,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Thomas d'Aquin",
+      "start": 29312,
+      "end": 29332,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 29378,
+      "end": 29382,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 29437,
+      "end": 29441,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 30075,
+      "end": 30080,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlotte",
+      "start": 30226,
+      "end": 30235,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 30625,
+      "end": 30629,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri",
+      "start": 30664,
+      "end": 30669,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu !",
+      "start": 30943,
+      "end": 30953,
+      "label": "MISC"
+    },
+    {
+      "text": "Croyez",
+      "start": 31155,
+      "end": 31161,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri",
+      "start": 31168,
+      "end": 31173,
+      "label": "PER"
+    },
+    {
+      "text": "Henri",
+      "start": 31220,
+      "end": 31225,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 31394,
+      "end": 31398,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 31733,
+      "end": 31737,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri",
+      "start": 31744,
+      "end": 31749,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 32306,
+      "end": 32310,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 32318,
+      "end": 32322,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 32401,
+      "end": 32403,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 32610,
+      "end": 32616,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 32784,
+      "end": 32788,
+      "label": "MISC"
+    },
+    {
+      "text": "Charlotte",
+      "start": 33004,
+      "end": 33013,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 33473,
+      "end": 33481,
+      "label": "MISC"
+    },
+    {
+      "text": "Charte de Louis XVIII !",
+      "start": 34264,
+      "end": 34287,
+      "label": "MISC"
+    },
+    {
+      "text": "Jugez",
+      "start": 34292,
+      "end": 34297,
+      "label": "LOC"
+    },
+    {
+      "text": "Chère",
+      "start": 34560,
+      "end": 34565,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 34762,
+      "end": 34767,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 34781,
+      "end": 34787,
+      "label": "PER"
+    },
+    {
+      "text": "Madame la duchesse",
+      "start": 34837,
+      "end": 34855,
+      "label": "PER"
+    },
+    {
+      "text": "Charlotte",
+      "start": 34943,
+      "end": 34952,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 35312,
+      "end": 35333,
+      "label": "PER"
+    },
+    {
+      "text": "Lauzun",
+      "start": 35338,
+      "end": 35344,
+      "label": "PER"
+    },
+    {
+      "text": "Louis de Valois",
+      "start": 35349,
+      "end": 35364,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 35663,
+      "end": 35670,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 35712,
+      "end": 35720,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 35790,
+      "end": 35796,
+      "label": "LOC"
+    },
+    {
+      "text": "Delphine",
+      "start": 35809,
+      "end": 35817,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 35821,
+      "end": 35829,
+      "label": "LOC"
+    },
+    {
+      "text": "Gomme",
+      "start": 35833,
+      "end": 35838,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 35871,
+      "end": 35879,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 35972,
+      "end": 35978,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 36087,
+      "end": 36093,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 36301,
+      "end": 36307,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 36428,
+      "end": 36434,
+      "label": "PER"
+    },
+    {
+      "text": "Code civil",
+      "start": 36601,
+      "end": 36611,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Nucingen",
+      "start": 36810,
+      "end": 36828,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 36881,
+      "end": 36890,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 36997,
+      "end": 37004,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 37055,
+      "end": 37061,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 37538,
+      "end": 37546,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 37796,
+      "end": 37804,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 37837,
+      "end": 37841,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Vandenesse",
+      "start": 38144,
+      "end": 38165,
+      "label": "PER"
+    },
+    {
+      "text": "Buisson",
+      "start": 38779,
+      "end": 38786,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 38873,
+      "end": 38878,
+      "label": "LOC"
+    },
+    {
+      "text": "Dudley",
+      "start": 38946,
+      "end": 38952,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 39023,
+      "end": 39029,
+      "label": "LOC"
+    },
+    {
+      "text": "Travail",
+      "start": 39067,
+      "end": 39074,
+      "label": "LOC"
+    },
+    {
+      "text": "Propriété",
+      "start": 39113,
+      "end": 39122,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 39207,
+      "end": 39218,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 39227,
+      "end": 39236,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 39439,
+      "end": 39449,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 40166,
+      "end": 40181,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 40414,
+      "end": 40421,
+      "label": "PER"
+    },
+    {
+      "text": "Monarchie française",
+      "start": 40511,
+      "end": 40530,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 40792,
+      "end": 40798,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 40845,
+      "end": 40860,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bourbon",
+      "start": 41728,
+      "end": 41742,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 41799,
+      "end": 41803,
+      "label": "MISC"
+    },
+    {
+      "text": "lord Dudley",
+      "start": 41842,
+      "end": 41853,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 42182,
+      "end": 42192,
+      "label": "MISC"
+    },
+    {
+      "text": "Presse",
+      "start": 42199,
+      "end": 42205,
+      "label": "LOC"
+    },
+    {
+      "text": "la Femme",
+      "start": 42218,
+      "end": 42226,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Vandenesse",
+      "start": 42239,
+      "end": 42260,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 42630,
+      "end": 42639,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 42946,
+      "end": 42952,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 43249,
+      "end": 43255,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 43440,
+      "end": 43450,
+      "label": "LOC"
+    },
+    {
+      "text": "Touches",
+      "start": 43515,
+      "end": 43522,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 43564,
+      "end": 43568,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 43593,
+      "end": 43601,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 43855,
+      "end": 43866,
+      "label": "PER"
+    },
+    {
+      "text": "Montmorency",
+      "start": 43890,
+      "end": 43901,
+      "label": "PER"
+    },
+    {
+      "text": "Adam Laginski",
+      "start": 44057,
+      "end": 44070,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44347,
+      "end": 44352,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 44533,
+      "end": 44541,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 44619,
+      "end": 44623,
+      "label": "LOC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 44665,
+      "end": 44678,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44744,
+      "end": 44749,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 46712,
+      "end": 46722,
+      "label": "LOC"
+    },
+    {
+      "text": "Mnémosyne antique",
+      "start": 46868,
+      "end": 46885,
+      "label": "LOC"
+    },
+    {
+      "text": "Examinez",
+      "start": 46966,
+      "end": 46974,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise",
+      "start": 47171,
+      "end": 47179,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 47289,
+      "end": 47294,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 47603,
+      "end": 47608,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 47728,
+      "end": 47735,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 48442,
+      "end": 48447,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge",
+      "start": 48467,
+      "end": 48473,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 48590,
+      "end": 48595,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Rivoli",
+      "start": 48653,
+      "end": 48666,
+      "label": "LOC"
+    },
+    {
+      "text": "Ligne des boulevards",
+      "start": 48677,
+      "end": 48697,
+      "label": "MISC"
+    },
+    {
+      "text": "Équateur",
+      "start": 48708,
+      "end": 48716,
+      "label": "LOC"
+    },
+    {
+      "text": "Panomaras",
+      "start": 48721,
+      "end": 48730,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 48766,
+      "end": 48771,
+      "label": "LOC"
+    },
+    {
+      "text": "cap de la Madeleine",
+      "start": 48843,
+      "end": 48862,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Faubourg Saint Honoré",
+      "start": 48955,
+      "end": 48983,
+      "label": "LOC"
+    },
+    {
+      "text": "Feuillants",
+      "start": 49035,
+      "end": 49045,
+      "label": "ORG"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 49138,
+      "end": 49152,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 49182,
+      "end": 49190,
+      "label": "PER"
+    },
+    {
+      "text": "avenue de",
+      "start": 49208,
+      "end": 49217,
+      "label": "LOC"
+    },
+    {
+      "text": "Marigny",
+      "start": 49218,
+      "end": 49225,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 49288,
+      "end": 49300,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 49396,
+      "end": 49411,
+      "label": "LOC"
+    },
+    {
+      "text": "Kamtschatka",
+      "start": 49429,
+      "end": 49440,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 49540,
+      "end": 49545,
+      "label": "LOC"
+    },
+    {
+      "text": "Béatrix",
+      "start": 49823,
+      "end": 49830,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 50073,
+      "end": 50082,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 51299,
+      "end": 51307,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 51313,
+      "end": 51318,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 51683,
+      "end": 51691,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 52586,
+      "end": 52588,
+      "label": "MISC"
+    },
+    {
+      "text": "Espard",
+      "start": 54256,
+      "end": 54262,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 54272,
+      "end": 54278,
+      "label": "LOC"
+    },
+    {
+      "text": "Russe",
+      "start": 54336,
+      "end": 54341,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 54417,
+      "end": 54424,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 54662,
+      "end": 54670,
+      "label": "PER"
+    },
+    {
+      "text": "Un air de tête",
+      "start": 54717,
+      "end": 54731,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 55355,
+      "end": 55362,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 55545,
+      "end": 55552,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe Colomb",
+      "start": 55736,
+      "end": 55753,
+      "label": "PER"
+    },
+    {
+      "text": "Sommeil",
+      "start": 56175,
+      "end": 56182,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 56902,
+      "end": 56908,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 57756,
+      "end": 57762,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 58061,
+      "end": 58068,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 58769,
+      "end": 58773,
+      "label": "MISC"
+    },
+    {
+      "text": "néo",
+      "start": 59188,
+      "end": 59191,
+      "label": "PER"
+    },
+    {
+      "text": "Émile",
+      "start": 59472,
+      "end": 59477,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 59541,
+      "end": 59548,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 59565,
+      "end": 59573,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 61234,
+      "end": 61242,
+      "label": "MISC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 62015,
+      "end": 62023,
+      "label": "LOC"
+    },
+    {
+      "text": "Blondet",
+      "start": 62041,
+      "end": 62048,
+      "label": "PER"
+    },
+    {
+      "text": "Des Touches",
+      "start": 62939,
+      "end": 62950,
+      "label": "MISC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 62953,
+      "end": 62966,
+      "label": "PER"
+    },
+    {
+      "text": "classeriez",
+      "start": 62971,
+      "end": 62981,
+      "label": "PER"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 63118,
+      "end": 63131,
+      "label": "PER"
+    },
+    {
+      "text": "Camille Maupin",
+      "start": 63230,
+      "end": 63244,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 63286,
+      "end": 63294,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 63311,
+      "end": 63315,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 63334,
+      "end": 63342,
+      "label": "PER"
+    },
+    {
+      "text": "Daniel d'Arthez",
+      "start": 63348,
+      "end": 63363,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 63543,
+      "end": 63551,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 64306,
+      "end": 64316,
+      "label": "PER"
+    },
+    {
+      "text": "Pozzo di Borgo",
+      "start": 64321,
+      "end": 64335,
+      "label": "LOC"
+    },
+    {
+      "text": "Metternich",
+      "start": 64342,
+      "end": 64352,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 64388,
+      "end": 64396,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 64635,
+      "end": 64643,
+      "label": "LOC"
+    },
+    {
+      "text": "Hypocrite",
+      "start": 64713,
+      "end": 64722,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 64874,
+      "end": 64879,
+      "label": "PER"
+    },
+    {
+      "text": "Cromwell",
+      "start": 64898,
+      "end": 64906,
+      "label": "PER"
+    },
+    {
+      "text": "Père La Chaise",
+      "start": 64944,
+      "end": 64958,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 65150,
+      "end": 65158,
+      "label": "LOC"
+    },
+    {
+      "text": "Desaix",
+      "start": 65513,
+      "end": 65519,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouché",
+      "start": 65523,
+      "end": 65529,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 65597,
+      "end": 65603,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 65607,
+      "end": 65611,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 65669,
+      "end": 65677,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 65686,
+      "end": 65692,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 65745,
+      "end": 65752,
+      "label": "PER"
+    },
+    {
+      "text": "Sommes",
+      "start": 65956,
+      "end": 65962,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 66048,
+      "end": 66056,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 66704,
+      "end": 66717,
+      "label": "PER"
+    },
+    {
+      "text": "Agnès Sorel",
+      "start": 66741,
+      "end": 66752,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 66754,
+      "end": 66760,
+      "label": "PER"
+    },
+    {
+      "text": "Doublet",
+      "start": 66821,
+      "end": 66828,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Deffant",
+      "start": 66832,
+      "end": 66849,
+      "label": "PER"
+    },
+    {
+      "text": "Taglioni",
+      "start": 66886,
+      "end": 66894,
+      "label": "PER"
+    },
+    {
+      "text": "Camargo",
+      "start": 66912,
+      "end": 66919,
+      "label": "LOC"
+    },
+    {
+      "text": "Malibran",
+      "start": 66922,
+      "end": 66930,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Huberti",
+      "start": 66957,
+      "end": 66970,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 67139,
+      "end": 67147,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 67200,
+      "end": 67208,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 67320,
+      "end": 67340,
+      "label": "PER"
+    },
+    {
+      "text": "La Vallière",
+      "start": 67451,
+      "end": 67462,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 67530,
+      "end": 67536,
+      "label": "PER"
+    },
+    {
+      "text": "madame Récamier",
+      "start": 67639,
+      "end": 67654,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 67830,
+      "end": 67839,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sévigné",
+      "start": 67854,
+      "end": 67871,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 67910,
+      "end": 67915,
+      "label": "LOC"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 68101,
+      "end": 68114,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 68685,
+      "end": 68695,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vandenesse",
+      "start": 68781,
+      "end": 68801,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montriveau",
+      "start": 68864,
+      "end": 68885,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 68994,
+      "end": 69002,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma foi",
+      "start": 69006,
+      "end": 69012,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 69120,
+      "end": 69127,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 69157,
+      "end": 69161,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 69233,
+      "end": 69237,
+      "label": "MISC"
+    },
+    {
+      "text": "Barimore",
+      "start": 69273,
+      "end": 69281,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 69354,
+      "end": 69360,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Dudley",
+      "start": 69396,
+      "end": 69407,
+      "label": "PER"
+    },
+    {
+      "text": "général Montriveau",
+      "start": 69453,
+      "end": 69471,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 69555,
+      "end": 69563,
+      "label": "PER"
+    },
+    {
+      "text": "la Volonté",
+      "start": 69711,
+      "end": 69721,
+      "label": "MISC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 69879,
+      "end": 69887,
+      "label": "LOC"
+    },
+    {
+      "text": "marais de Zembin",
+      "start": 70334,
+      "end": 70350,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 70544,
+      "end": 70551,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 70657,
+      "end": 70672,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauce",
+      "start": 70709,
+      "end": 70715,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérésina",
+      "start": 71551,
+      "end": 71559,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 72261,
+      "end": 72268,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 72439,
+      "end": 72447,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Nodier",
+      "start": 72556,
+      "end": 72570,
+      "label": "PER"
+    },
+    {
+      "text": "Oudet",
+      "start": 72595,
+      "end": 72600,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 72677,
+      "end": 72684,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 72794,
+      "end": 72800,
+      "label": "PER"
+    },
+    {
+      "text": "cheval de Redgauntlet",
+      "start": 73765,
+      "end": 73786,
+      "label": "MISC"
+    },
+    {
+      "text": "Oudet",
+      "start": 74065,
+      "end": 74070,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Nodier",
+      "start": 74074,
+      "end": 74088,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 74420,
+      "end": 74425,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Italie",
+      "start": 74622,
+      "end": 74630,
+      "label": "LOC"
+    },
+    {
+      "text": "Orsay",
+      "start": 74680,
+      "end": 74685,
+      "label": "LOC"
+    },
+    {
+      "text": "beau d'Orsay",
+      "start": 74699,
+      "end": 74711,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 74779,
+      "end": 74787,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 74806,
+      "end": 74812,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadignan",
+      "start": 75043,
+      "end": 75051,
+      "label": "LOC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 76496,
+      "end": 76508,
+      "label": "MISC"
+    },
+    {
+      "text": "Italienne de Messine",
+      "start": 77043,
+      "end": 77063,
+      "label": "MISC"
+    },
+    {
+      "text": "Zembin",
+      "start": 77301,
+      "end": 77307,
+      "label": "LOC"
+    },
+    {
+      "text": "Messinaise",
+      "start": 77423,
+      "end": 77433,
+      "label": "PER"
+    },
+    {
+      "text": "Rosina",
+      "start": 77465,
+      "end": 77471,
+      "label": "PER"
+    },
+    {
+      "text": "Sicile",
+      "start": 77573,
+      "end": 77579,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 77859,
+      "end": 77864,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosine",
+      "start": 78179,
+      "end": 78185,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 79251,
+      "end": 79257,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 79418,
+      "end": 79427,
+      "label": "LOC"
+    },
+    {
+      "text": "Rosina",
+      "start": 80044,
+      "end": 80050,
+      "label": "PER"
+    },
+    {
+      "text": "Rosina",
+      "start": 80473,
+      "end": 80479,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, mon camarade",
+      "start": 80747,
+      "end": 80767,
+      "label": "MISC"
+    },
+    {
+      "text": "Son'io",
+      "start": 82608,
+      "end": 82614,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 82758,
+      "end": 82764,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vandenesse",
+      "start": 82855,
+      "end": 82875,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 82956,
+      "end": 82962,
+      "label": "PER"
+    },
+    {
+      "text": "Dudley",
+      "start": 82986,
+      "end": 82992,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 83006,
+      "end": 83013,
+      "label": "MISC"
+    },
+    {
+      "text": "Blondet",
+      "start": 83116,
+      "end": 83123,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Bianchon",
+      "start": 83127,
+      "end": 83144,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsay",
+      "start": 83176,
+      "end": 83182,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame la duchesse",
+      "start": 83494,
+      "end": 83512,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 84755,
+      "end": 84764,
+      "label": "LOC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 85317,
+      "end": 85327,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 85388,
+      "end": 85403,
+      "label": "PER"
+    }
+  ]
+}

@@ -1,0 +1,6070 @@
+{
+  "entities": [
+    {
+      "text": "MIGNON",
+      "start": 8,
+      "end": 14,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauté",
+      "start": 288,
+      "end": 294,
+      "label": "PER"
+    },
+    {
+      "text": "BALZAC",
+      "start": 608,
+      "end": 614,
+      "label": "MISC"
+    },
+    {
+      "text": "Simon Babylas Latournelle",
+      "start": 670,
+      "end": 695,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 717,
+      "end": 725,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 728,
+      "end": 738,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 869,
+      "end": 874,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Butscha",
+      "start": 897,
+      "end": 909,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 1074,
+      "end": 1082,
+      "label": "LOC"
+    },
+    {
+      "text": "Exupère",
+      "start": 1273,
+      "end": 1280,
+      "label": "PER"
+    },
+    {
+      "text": "Styx",
+      "start": 1467,
+      "end": 1471,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 1651,
+      "end": 1657,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 1674,
+      "end": 1680,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 1696,
+      "end": 1708,
+      "label": "PER"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 1721,
+      "end": 1730,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 1743,
+      "end": 1749,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 1795,
+      "end": 1800,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 1888,
+      "end": 1895,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste t'entende",
+      "start": 2222,
+      "end": 2239,
+      "label": "MISC"
+    },
+    {
+      "text": "Exupère",
+      "start": 2268,
+      "end": 2275,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2308,
+      "end": 2313,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 2331,
+      "end": 2336,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 2370,
+      "end": 2381,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 2403,
+      "end": 2408,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 2523,
+      "end": 2530,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 2580,
+      "end": 2587,
+      "label": "LOC"
+    },
+    {
+      "text": "Chut",
+      "start": 2623,
+      "end": 2627,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 2630,
+      "end": 2637,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 2655,
+      "end": 2666,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Latournelle",
+      "start": 2701,
+      "end": 2719,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 3591,
+      "end": 3602,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 3937,
+      "end": 3945,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 3978,
+      "end": 3986,
+      "label": "LOC"
+    },
+    {
+      "text": "au Havre",
+      "start": 4005,
+      "end": 4013,
+      "label": "LOC"
+    },
+    {
+      "text": "Normande",
+      "start": 4052,
+      "end": 4060,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 4136,
+      "end": 4147,
+      "label": "LOC"
+    },
+    {
+      "text": "Minotaure",
+      "start": 4432,
+      "end": 4441,
+      "label": "PER"
+    },
+    {
+      "text": "Agnès",
+      "start": 4680,
+      "end": 4685,
+      "label": "PER"
+    },
+    {
+      "text": "Agnès",
+      "start": 4703,
+      "end": 4708,
+      "label": "PER"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 4877,
+      "end": 4895,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 5163,
+      "end": 5170,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 5266,
+      "end": 5272,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste Mignon",
+      "start": 5323,
+      "end": 5337,
+      "label": "PER"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 5462,
+      "end": 5480,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 5567,
+      "end": 5572,
+      "label": "PER"
+    },
+    {
+      "text": "Physiologie du Mariage",
+      "start": 5643,
+      "end": 5665,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 5675,
+      "end": 5686,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 5857,
+      "end": 5865,
+      "label": "LOC"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 6441,
+      "end": 6455,
+      "label": "PER"
+    },
+    {
+      "text": "Babylas Latournelle",
+      "start": 6550,
+      "end": 6569,
+      "label": "PER"
+    },
+    {
+      "text": "Normand",
+      "start": 6846,
+      "end": 6853,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Butscha",
+      "start": 7061,
+      "end": 7073,
+      "label": "PER"
+    },
+    {
+      "text": "Labrosse",
+      "start": 7127,
+      "end": 7135,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste une idole",
+      "start": 7344,
+      "end": 7361,
+      "label": "MISC"
+    },
+    {
+      "text": "Silencieux",
+      "start": 7712,
+      "end": 7722,
+      "label": "LOC"
+    },
+    {
+      "text": "Tendre",
+      "start": 7841,
+      "end": 7847,
+      "label": "LOC"
+    },
+    {
+      "text": "Amour sans espoir",
+      "start": 7849,
+      "end": 7866,
+      "label": "MISC"
+    },
+    {
+      "text": "Désir",
+      "start": 7902,
+      "end": 7907,
+      "label": "ORG"
+    },
+    {
+      "text": "Modeste",
+      "start": 7909,
+      "end": 7916,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 8003,
+      "end": 8010,
+      "label": "LOC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 8023,
+      "end": 8035,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 8049,
+      "end": 8056,
+      "label": "MISC"
+    },
+    {
+      "text": "Voulez",
+      "start": 8061,
+      "end": 8067,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 8304,
+      "end": 8311,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 8473,
+      "end": 8481,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 8558,
+      "end": 8566,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 8624,
+      "end": 8635,
+      "label": "PER"
+    },
+    {
+      "text": "Ingouville",
+      "start": 8684,
+      "end": 8694,
+      "label": "LOC"
+    },
+    {
+      "text": "au Havre",
+      "start": 8699,
+      "end": 8707,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmartre",
+      "start": 8715,
+      "end": 8725,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 8732,
+      "end": 8737,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 8836,
+      "end": 8841,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 8880,
+      "end": 8888,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9085,
+      "end": 9090,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmartre",
+      "start": 9102,
+      "end": 9112,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 9169,
+      "end": 9179,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouen",
+      "start": 9263,
+      "end": 9268,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 9508,
+      "end": 9518,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 9573,
+      "end": 9581,
+      "label": "LOC"
+    },
+    {
+      "text": "Auteuil",
+      "start": 9606,
+      "end": 9613,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 9618,
+      "end": 9631,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 9636,
+      "end": 9647,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 10028,
+      "end": 10036,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 10146,
+      "end": 10154,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville !",
+      "start": 10172,
+      "end": 10184,
+      "label": "MISC"
+    },
+    {
+      "text": "Graville",
+      "start": 10265,
+      "end": 10273,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 10309,
+      "end": 10317,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 10382,
+      "end": 10392,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 10476,
+      "end": 10481,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Adresse",
+      "start": 11290,
+      "end": 11304,
+      "label": "PER"
+    },
+    {
+      "text": "Ingouville",
+      "start": 11401,
+      "end": 11411,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée de la Seine",
+      "start": 11480,
+      "end": 11498,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 11749,
+      "end": 11759,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville d'aujourd'hui",
+      "start": 11928,
+      "end": 11952,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet",
+      "start": 11998,
+      "end": 12004,
+      "label": "MISC"
+    },
+    {
+      "text": "jardins",
+      "start": 12149,
+      "end": 12156,
+      "label": "LOC"
+    },
+    {
+      "text": "le Chalet",
+      "start": 12564,
+      "end": 12573,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 12618,
+      "end": 12624,
+      "label": "MISC"
+    },
+    {
+      "text": "du Havre",
+      "start": 12889,
+      "end": 12897,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 12901,
+      "end": 12907,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 12960,
+      "end": 12967,
+      "label": "PER"
+    },
+    {
+      "text": "le Chalet",
+      "start": 13234,
+      "end": 13243,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Mignon",
+      "start": 13288,
+      "end": 13303,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 13393,
+      "end": 13398,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 13480,
+      "end": 13485,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 13574,
+      "end": 13580,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher Dumay",
+      "start": 13615,
+      "end": 13629,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignon",
+      "start": 13753,
+      "end": 13759,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 13795,
+      "end": 13803,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 13822,
+      "end": 13829,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 13916,
+      "end": 13922,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 13982,
+      "end": 13987,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14056,
+      "end": 14063,
+      "label": "PER"
+    },
+    {
+      "text": "poche de Vilquin",
+      "start": 14170,
+      "end": 14186,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14210,
+      "end": 14217,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14229,
+      "end": 14236,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14245,
+      "end": 14252,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14272,
+      "end": 14279,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 14312,
+      "end": 14319,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 14410,
+      "end": 14416,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 15150,
+      "end": 15162,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 15517,
+      "end": 15524,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 15664,
+      "end": 15670,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15698,
+      "end": 15703,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 15764,
+      "end": 15770,
+      "label": "MISC"
+    },
+    {
+      "text": "Chine",
+      "start": 16003,
+      "end": 16008,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 16143,
+      "end": 16150,
+      "label": "LOC"
+    },
+    {
+      "text": "du Nord",
+      "start": 16202,
+      "end": 16209,
+      "label": "LOC"
+    },
+    {
+      "text": "perse",
+      "start": 16436,
+      "end": 16441,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 16640,
+      "end": 16647,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 16742,
+      "end": 16747,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 16814,
+      "end": 16820,
+      "label": "LOC"
+    },
+    {
+      "text": "Flore",
+      "start": 17118,
+      "end": 17123,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 17245,
+      "end": 17251,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 17263,
+      "end": 17269,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 17289,
+      "end": 17296,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 17337,
+      "end": 17342,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 17468,
+      "end": 17475,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 17500,
+      "end": 17507,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 17687,
+      "end": 17692,
+      "label": "PER"
+    },
+    {
+      "text": "Mur",
+      "start": 17727,
+      "end": 17730,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 17760,
+      "end": 17765,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 17792,
+      "end": 17799,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 17857,
+      "end": 17863,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 17932,
+      "end": 17939,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 17949,
+      "end": 17954,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenbeim",
+      "start": 18100,
+      "end": 18109,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 18143,
+      "end": 18148,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 18150,
+      "end": 18156,
+      "label": "MISC"
+    },
+    {
+      "text": "Breton",
+      "start": 18168,
+      "end": 18174,
+      "label": "PER"
+    },
+    {
+      "text": "Sort",
+      "start": 18190,
+      "end": 18194,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 18198,
+      "end": 18207,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 18259,
+      "end": 18265,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 18281,
+      "end": 18288,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 18404,
+      "end": 18411,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 18451,
+      "end": 18459,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 18522,
+      "end": 18527,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Havre",
+      "start": 18552,
+      "end": 18560,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 18678,
+      "end": 18683,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 18688,
+      "end": 18694,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 18726,
+      "end": 18732,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Mignon",
+      "start": 18744,
+      "end": 18763,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 19151,
+      "end": 19158,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 19353,
+      "end": 19364,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 19378,
+      "end": 19384,
+      "label": "MISC"
+    },
+    {
+      "text": "du Havre",
+      "start": 19536,
+      "end": 19544,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 19546,
+      "end": 19555,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim Keller",
+      "start": 19567,
+      "end": 19583,
+      "label": "PER"
+    },
+    {
+      "text": "grande maison de Paris",
+      "start": 19596,
+      "end": 19618,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignon",
+      "start": 20186,
+      "end": 20192,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 20213,
+      "end": 20222,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 20283,
+      "end": 20291,
+      "label": "LOC"
+    },
+    {
+      "text": "Veau d'or",
+      "start": 20389,
+      "end": 20398,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 20517,
+      "end": 20528,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 20535,
+      "end": 20542,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 20544,
+      "end": 20553,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 20745,
+      "end": 20752,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Mignon",
+      "start": 20865,
+      "end": 20878,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 20887,
+      "end": 20893,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet",
+      "start": 20969,
+      "end": 20975,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 21097,
+      "end": 21104,
+      "label": "MISC"
+    },
+    {
+      "text": "Commerce",
+      "start": 21213,
+      "end": 21221,
+      "label": "MISC"
+    },
+    {
+      "text": "pauvre Butscha",
+      "start": 21240,
+      "end": 21254,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 21332,
+      "end": 21343,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Mignon",
+      "start": 21562,
+      "end": 21575,
+      "label": "PER"
+    },
+    {
+      "text": "Destin",
+      "start": 21731,
+      "end": 21737,
+      "label": "LOC"
+    },
+    {
+      "text": "Niobé",
+      "start": 21820,
+      "end": 21825,
+      "label": "PER"
+    },
+    {
+      "text": "Holbein",
+      "start": 21958,
+      "end": 21965,
+      "label": "PER"
+    },
+    {
+      "text": "châle",
+      "start": 22057,
+      "end": 22062,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste pour sa mère",
+      "start": 22107,
+      "end": 22127,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 22212,
+      "end": 22219,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 22554,
+      "end": 22563,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 22661,
+      "end": 22666,
+      "label": "PER"
+    },
+    {
+      "text": "Butscha",
+      "start": 22704,
+      "end": 22711,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 22722,
+      "end": 22733,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 22751,
+      "end": 22763,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 22844,
+      "end": 22851,
+      "label": "MISC"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 22942,
+      "end": 22950,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 23033,
+      "end": 23039,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 23085,
+      "end": 23096,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 23191,
+      "end": 23198,
+      "label": "MISC"
+    },
+    {
+      "text": "trapu",
+      "start": 23299,
+      "end": 23304,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 23360,
+      "end": 23366,
+      "label": "PER"
+    },
+    {
+      "text": "Garde",
+      "start": 23392,
+      "end": 23397,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 23683,
+      "end": 23688,
+      "label": "LOC"
+    },
+    {
+      "text": "Bautzen",
+      "start": 23846,
+      "end": 23853,
+      "label": "LOC"
+    },
+    {
+      "text": "Saxon",
+      "start": 23903,
+      "end": 23908,
+      "label": "ORG"
+    },
+    {
+      "text": "Cour d'Assises",
+      "start": 24278,
+      "end": 24292,
+      "label": "ORG"
+    },
+    {
+      "text": "Modeste Mignon",
+      "start": 24348,
+      "end": 24362,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Latournelle",
+      "start": 24798,
+      "end": 24816,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 24820,
+      "end": 24832,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 24854,
+      "end": 24861,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 25246,
+      "end": 25255,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 25312,
+      "end": 25319,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 25396,
+      "end": 25409,
+      "label": "PER"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 25411,
+      "end": 25429,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 25486,
+      "end": 25493,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Mignon",
+      "start": 25495,
+      "end": 25508,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 25637,
+      "end": 25644,
+      "label": "MISC"
+    },
+    {
+      "text": "Exupère",
+      "start": 25798,
+      "end": 25805,
+      "label": "PER"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 25892,
+      "end": 25901,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 25990,
+      "end": 25997,
+      "label": "MISC"
+    },
+    {
+      "text": "Margherita Doni",
+      "start": 27302,
+      "end": 27317,
+      "label": "MISC"
+    },
+    {
+      "text": "Pitti",
+      "start": 27347,
+      "end": 27352,
+      "label": "PER"
+    },
+    {
+      "text": "Catulle",
+      "start": 27393,
+      "end": 27400,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 27626,
+      "end": 27633,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 27721,
+      "end": 27727,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemandes",
+      "start": 27780,
+      "end": 27790,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 28060,
+      "end": 28063,
+      "label": "LOC"
+    },
+    {
+      "text": "nacre",
+      "start": 28986,
+      "end": 28991,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 29086,
+      "end": 29093,
+      "label": "PER"
+    },
+    {
+      "text": "Bengale",
+      "start": 29201,
+      "end": 29208,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonard de Vinci",
+      "start": 29404,
+      "end": 29420,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 29517,
+      "end": 29524,
+      "label": "MISC"
+    },
+    {
+      "text": "Italie",
+      "start": 29597,
+      "end": 29603,
+      "label": "LOC"
+    },
+    {
+      "text": "École Angélique",
+      "start": 29610,
+      "end": 29625,
+      "label": "ORG"
+    },
+    {
+      "text": "Maternité",
+      "start": 29774,
+      "end": 29783,
+      "label": "MISC"
+    },
+    {
+      "text": "Idéal",
+      "start": 30868,
+      "end": 30873,
+      "label": "LOC"
+    },
+    {
+      "text": "Fantaisie",
+      "start": 31017,
+      "end": 31026,
+      "label": "LOC"
+    },
+    {
+      "text": "Réalité",
+      "start": 31033,
+      "end": 31040,
+      "label": "ORG"
+    },
+    {
+      "text": "Modeste",
+      "start": 31042,
+      "end": 31049,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 31148,
+      "end": 31157,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 31178,
+      "end": 31185,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 31218,
+      "end": 31223,
+      "label": "PER"
+    },
+    {
+      "text": "Exupère",
+      "start": 31231,
+      "end": 31238,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 31243,
+      "end": 31248,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 31381,
+      "end": 31386,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 31499,
+      "end": 31503,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 31578,
+      "end": 31589,
+      "label": "LOC"
+    },
+    {
+      "text": "Jouons",
+      "start": 31609,
+      "end": 31615,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 31625,
+      "end": 31630,
+      "label": "PER"
+    },
+    {
+      "text": "Exupère",
+      "start": 31664,
+      "end": 31671,
+      "label": "PER"
+    },
+    {
+      "text": "Mets toi",
+      "start": 31675,
+      "end": 31683,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 31688,
+      "end": 31695,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 31708,
+      "end": 31719,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 31792,
+      "end": 31805,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 31847,
+      "end": 31852,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Dumay",
+      "start": 31906,
+      "end": 31918,
+      "label": "PER"
+    },
+    {
+      "text": "Américaine",
+      "start": 31927,
+      "end": 31937,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 32001,
+      "end": 32008,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 32079,
+      "end": 32086,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 32112,
+      "end": 32121,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 32263,
+      "end": 32268,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 32284,
+      "end": 32291,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 32488,
+      "end": 32493,
+      "label": "PER"
+    },
+    {
+      "text": "Anne François Bernard",
+      "start": 32495,
+      "end": 32516,
+      "label": "PER"
+    },
+    {
+      "text": "Vannes",
+      "start": 32524,
+      "end": 32530,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Italie",
+      "start": 32565,
+      "end": 32573,
+      "label": "LOC"
+    },
+    {
+      "text": "Anne",
+      "start": 32835,
+      "end": 32839,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 32912,
+      "end": 32918,
+      "label": "LOC"
+    },
+    {
+      "text": "département du Var",
+      "start": 32979,
+      "end": 32997,
+      "label": "LOC"
+    },
+    {
+      "text": "Provence",
+      "start": 33133,
+      "end": 33141,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 33143,
+      "end": 33157,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33203,
+      "end": 33208,
+      "label": "LOC"
+    },
+    {
+      "text": "cardinal Mignon",
+      "start": 33244,
+      "end": 33259,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 33324,
+      "end": 33337,
+      "label": "MISC"
+    },
+    {
+      "text": "terre de la Bastie",
+      "start": 33341,
+      "end": 33359,
+      "label": "LOC"
+    },
+    {
+      "text": "Comtat",
+      "start": 33377,
+      "end": 33383,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de la Bastie",
+      "start": 33424,
+      "end": 33442,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 33462,
+      "end": 33468,
+      "label": "PER"
+    },
+    {
+      "text": "Neuf Thermidor",
+      "start": 33574,
+      "end": 33588,
+      "label": "ORG"
+    },
+    {
+      "text": "comté de la Bastie",
+      "start": 33639,
+      "end": 33657,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 33742,
+      "end": 33748,
+      "label": "PER"
+    },
+    {
+      "text": "Orange",
+      "start": 33762,
+      "end": 33768,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 33831,
+      "end": 33845,
+      "label": "PER"
+    },
+    {
+      "text": "Hautes Alpes",
+      "start": 33896,
+      "end": 33908,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 33945,
+      "end": 33952,
+      "label": "PER"
+    },
+    {
+      "text": "Mont Genèvre",
+      "start": 33982,
+      "end": 33994,
+      "label": "LOC"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 34268,
+      "end": 34276,
+      "label": "PER"
+    },
+    {
+      "text": "Adrien",
+      "start": 34298,
+      "end": 34304,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 34306,
+      "end": 34313,
+      "label": "PER"
+    },
+    {
+      "text": "Guerre son audace provençale",
+      "start": 34359,
+      "end": 34387,
+      "label": "MISC"
+    },
+    {
+      "text": "Nice",
+      "start": 34482,
+      "end": 34486,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 34504,
+      "end": 34510,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Marengo",
+      "start": 34769,
+      "end": 34788,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 34818,
+      "end": 34832,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 34920,
+      "end": 34926,
+      "label": "PER"
+    },
+    {
+      "text": "Bastie",
+      "start": 34933,
+      "end": 34939,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 34971,
+      "end": 34987,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 35086,
+      "end": 35096,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 35111,
+      "end": 35117,
+      "label": "MISC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 35158,
+      "end": 35165,
+      "label": "LOC"
+    },
+    {
+      "text": "Anne Dumay",
+      "start": 35234,
+      "end": 35244,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 35371,
+      "end": 35379,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 35402,
+      "end": 35410,
+      "label": "LOC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 35415,
+      "end": 35422,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 35506,
+      "end": 35512,
+      "label": "PER"
+    },
+    {
+      "text": "Scévola",
+      "start": 35558,
+      "end": 35565,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 35567,
+      "end": 35574,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 35720,
+      "end": 35728,
+      "label": "LOC"
+    },
+    {
+      "text": "Francfort",
+      "start": 35812,
+      "end": 35821,
+      "label": "LOC"
+    },
+    {
+      "text": "Mein",
+      "start": 35826,
+      "end": 35830,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina Wallenrod",
+      "start": 35849,
+      "end": 35866,
+      "label": "PER"
+    },
+    {
+      "text": "Wallenrod",
+      "start": 36149,
+      "end": 36158,
+      "label": "MISC"
+    },
+    {
+      "text": "Banque",
+      "start": 36176,
+      "end": 36182,
+      "label": "ORG"
+    },
+    {
+      "text": "Mignon",
+      "start": 36274,
+      "end": 36280,
+      "label": "LOC"
+    },
+    {
+      "text": "Bastie",
+      "start": 36287,
+      "end": 36293,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina",
+      "start": 36328,
+      "end": 36335,
+      "label": "PER"
+    },
+    {
+      "text": "Francfort",
+      "start": 36377,
+      "end": 36386,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 36433,
+      "end": 36442,
+      "label": "LOC"
+    },
+    {
+      "text": "Wallenrod",
+      "start": 36444,
+      "end": 36453,
+      "label": "LOC"
+    },
+    {
+      "text": "Bastie Wallenrod",
+      "start": 36503,
+      "end": 36519,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Empire",
+      "start": 36708,
+      "end": 36716,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 36817,
+      "end": 36824,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 37337,
+      "end": 37344,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina Wallenrod",
+      "start": 37350,
+      "end": 37367,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 37439,
+      "end": 37448,
+      "label": "LOC"
+    },
+    {
+      "text": "Albert Durer",
+      "start": 37571,
+      "end": 37583,
+      "label": "PER"
+    },
+    {
+      "text": "Francfort",
+      "start": 37636,
+      "end": 37645,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 37648,
+      "end": 37655,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 37769,
+      "end": 37775,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 37797,
+      "end": 37802,
+      "label": "PER"
+    },
+    {
+      "text": "Charlet",
+      "start": 37876,
+      "end": 37883,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina Caroline",
+      "start": 37943,
+      "end": 37959,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Modeste",
+      "start": 37985,
+      "end": 37998,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 38143,
+      "end": 38149,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 38156,
+      "end": 38162,
+      "label": "LOC"
+    },
+    {
+      "text": "Francfort",
+      "start": 38247,
+      "end": 38256,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 38270,
+      "end": 38278,
+      "label": "PER"
+    },
+    {
+      "text": "Cannes",
+      "start": 38292,
+      "end": 38298,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 38300,
+      "end": 38307,
+      "label": "PER"
+    },
+    {
+      "text": "Francfort",
+      "start": 38326,
+      "end": 38335,
+      "label": "LOC"
+    },
+    {
+      "text": "Wallenrod",
+      "start": 38497,
+      "end": 38506,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 38541,
+      "end": 38549,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 38629,
+      "end": 38637,
+      "label": "PER"
+    },
+    {
+      "text": "Wallenrod",
+      "start": 38733,
+      "end": 38742,
+      "label": "MISC"
+    },
+    {
+      "text": "Wallenrod Tustall Bartenstild",
+      "start": 38754,
+      "end": 38783,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 38836,
+      "end": 38846,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 38891,
+      "end": 38900,
+      "label": "LOC"
+    },
+    {
+      "text": "Che",
+      "start": 38904,
+      "end": 38907,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 38973,
+      "end": 38979,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 39085,
+      "end": 39093,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 39096,
+      "end": 39105,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 39242,
+      "end": 39256,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39266,
+      "end": 39271,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 39275,
+      "end": 39285,
+      "label": "PER"
+    },
+    {
+      "text": "Garde",
+      "start": 39341,
+      "end": 39346,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 39375,
+      "end": 39391,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 39473,
+      "end": 39481,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 39520,
+      "end": 39528,
+      "label": "MISC"
+    },
+    {
+      "text": "Loire",
+      "start": 39582,
+      "end": 39587,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 39598,
+      "end": 39603,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 39649,
+      "end": 39656,
+      "label": "PER"
+    },
+    {
+      "text": "Amérique",
+      "start": 39787,
+      "end": 39795,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 39869,
+      "end": 39877,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39895,
+      "end": 39900,
+      "label": "LOC"
+    },
+    {
+      "text": "Havre",
+      "start": 39904,
+      "end": 39909,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 39924,
+      "end": 39929,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 40074,
+      "end": 40082,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 40084,
+      "end": 40089,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 40146,
+      "end": 40153,
+      "label": "PER"
+    },
+    {
+      "text": "le Breton",
+      "start": 40165,
+      "end": 40174,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 40450,
+      "end": 40455,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 40762,
+      "end": 40770,
+      "label": "LOC"
+    },
+    {
+      "text": "New York",
+      "start": 40984,
+      "end": 40992,
+      "label": "LOC"
+    },
+    {
+      "text": "Lyon",
+      "start": 41055,
+      "end": 41059,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 41061,
+      "end": 41066,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Royale",
+      "start": 41171,
+      "end": 41181,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque",
+      "start": 41231,
+      "end": 41237,
+      "label": "ORG"
+    },
+    {
+      "text": "Provençaux",
+      "start": 41295,
+      "end": 41305,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 41307,
+      "end": 41312,
+      "label": "PER"
+    },
+    {
+      "text": "maison Mignon",
+      "start": 41449,
+      "end": 41462,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 41513,
+      "end": 41523,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 41539,
+      "end": 41544,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Royale",
+      "start": 41580,
+      "end": 41590,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 41602,
+      "end": 41608,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 41625,
+      "end": 41633,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 41725,
+      "end": 41733,
+      "label": "LOC"
+    },
+    {
+      "text": "Miss Grummer",
+      "start": 41735,
+      "end": 41747,
+      "label": "ORG"
+    },
+    {
+      "text": "Dumay",
+      "start": 41811,
+      "end": 41816,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 41841,
+      "end": 41846,
+      "label": "PER"
+    },
+    {
+      "text": "Ego de l'armateur",
+      "start": 41863,
+      "end": 41880,
+      "label": "MISC"
+    },
+    {
+      "text": "Fortune",
+      "start": 42051,
+      "end": 42058,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 42333,
+      "end": 42338,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 42486,
+      "end": 42494,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Dumay",
+      "start": 42496,
+      "end": 42508,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 42721,
+      "end": 42727,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 42753,
+      "end": 42758,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Dumay",
+      "start": 42796,
+      "end": 42808,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 42968,
+      "end": 42973,
+      "label": "PER"
+    },
+    {
+      "text": "maison Mignon",
+      "start": 43032,
+      "end": 43045,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 43262,
+      "end": 43276,
+      "label": "PER"
+    },
+    {
+      "text": "Bastie",
+      "start": 43290,
+      "end": 43296,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 43368,
+      "end": 43374,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste et sa mère",
+      "start": 43417,
+      "end": 43435,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 43470,
+      "end": 43483,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 43574,
+      "end": 43581,
+      "label": "PER"
+    },
+    {
+      "text": "Allemande",
+      "start": 43651,
+      "end": 43660,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 43911,
+      "end": 43918,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 43922,
+      "end": 43929,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina",
+      "start": 44108,
+      "end": 44115,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 44199,
+      "end": 44206,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 44268,
+      "end": 44276,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 44437,
+      "end": 44445,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 44531,
+      "end": 44537,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 44602,
+      "end": 44609,
+      "label": "PER"
+    },
+    {
+      "text": "le Havre",
+      "start": 45024,
+      "end": 45032,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 45055,
+      "end": 45069,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 45112,
+      "end": 45120,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 45125,
+      "end": 45130,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 45137,
+      "end": 45144,
+      "label": "LOC"
+    },
+    {
+      "text": "Prospérité",
+      "start": 45215,
+      "end": 45225,
+      "label": "ORG"
+    },
+    {
+      "text": "Dumay",
+      "start": 45406,
+      "end": 45411,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 45413,
+      "end": 45427,
+      "label": "PER"
+    },
+    {
+      "text": "Le Havre",
+      "start": 45522,
+      "end": 45530,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 45586,
+      "end": 45591,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 45650,
+      "end": 45651,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 45674,
+      "end": 45675,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 45692,
+      "end": 45706,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 45776,
+      "end": 45783,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 45947,
+      "end": 45952,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 46052,
+      "end": 46063,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 46191,
+      "end": 46198,
+      "label": "MISC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 46213,
+      "end": 46227,
+      "label": "LOC"
+    },
+    {
+      "text": "Breton",
+      "start": 46263,
+      "end": 46269,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 46277,
+      "end": 46286,
+      "label": "LOC"
+    },
+    {
+      "text": "Quels",
+      "start": 46291,
+      "end": 46296,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'aucun homme",
+      "start": 46338,
+      "end": 46352,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet !",
+      "start": 46367,
+      "end": 46375,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay !",
+      "start": 46415,
+      "end": 46422,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 46703,
+      "end": 46710,
+      "label": "MISC"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 46815,
+      "end": 46823,
+      "label": "LOC"
+    },
+    {
+      "text": "Pardon",
+      "start": 46858,
+      "end": 46864,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 47010,
+      "end": 47017,
+      "label": "LOC"
+    },
+    {
+      "text": "Courrier du Havre",
+      "start": 47036,
+      "end": 47053,
+      "label": "LOC"
+    },
+    {
+      "text": "premier Havre",
+      "start": 47106,
+      "end": 47119,
+      "label": "LOC"
+    },
+    {
+      "text": "place du Havre",
+      "start": 47521,
+      "end": 47535,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 47539,
+      "end": 47547,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 47548,
+      "end": 47562,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste pour l'Asie Mineure",
+      "start": 47589,
+      "end": 47616,
+      "label": "MISC"
+    },
+    {
+      "text": "DUMAY",
+      "start": 47714,
+      "end": 47719,
+      "label": "MISC"
+    },
+    {
+      "text": "LATOURNELLE",
+      "start": 47763,
+      "end": 47774,
+      "label": "MISC"
+    },
+    {
+      "text": "GOBENHEIM",
+      "start": 47839,
+      "end": 47848,
+      "label": "ORG"
+    },
+    {
+      "text": "Latournelle",
+      "start": 47902,
+      "end": 47913,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 47958,
+      "end": 47964,
+      "label": "PER"
+    },
+    {
+      "text": "Étude du Havre",
+      "start": 48035,
+      "end": 48049,
+      "label": "PER"
+    },
+    {
+      "text": "le Havre",
+      "start": 48236,
+      "end": 48244,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 48291,
+      "end": 48296,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 48303,
+      "end": 48312,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 48396,
+      "end": 48402,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 48512,
+      "end": 48518,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 48664,
+      "end": 48675,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 48679,
+      "end": 48684,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 48775,
+      "end": 48782,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 48860,
+      "end": 48871,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 48940,
+      "end": 48947,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 48990,
+      "end": 48996,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 49025,
+      "end": 49032,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 49052,
+      "end": 49058,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 49387,
+      "end": 49394,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 49476,
+      "end": 49481,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 49511,
+      "end": 49519,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 49523,
+      "end": 49530,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 49536,
+      "end": 49541,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 49706,
+      "end": 49713,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 49837,
+      "end": 49845,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 49849,
+      "end": 49857,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 49881,
+      "end": 49887,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 50004,
+      "end": 50010,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 50030,
+      "end": 50036,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 50041,
+      "end": 50048,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 50093,
+      "end": 50098,
+      "label": "PER"
+    },
+    {
+      "text": "Le Breton",
+      "start": 50100,
+      "end": 50109,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 50171,
+      "end": 50184,
+      "label": "PER"
+    },
+    {
+      "text": "Faute de trente mille francs",
+      "start": 50274,
+      "end": 50302,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 50334,
+      "end": 50345,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 50404,
+      "end": 50410,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon du Havre",
+      "start": 50479,
+      "end": 50494,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50676,
+      "end": 50681,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal de Commerce",
+      "start": 50706,
+      "end": 50726,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina Wallenrod",
+      "start": 50849,
+      "end": 50866,
+      "label": "PER"
+    },
+    {
+      "text": "Sibérie",
+      "start": 51011,
+      "end": 51018,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 51284,
+      "end": 51294,
+      "label": "LOC"
+    },
+    {
+      "text": "BETTINA",
+      "start": 51321,
+      "end": 51328,
+      "label": "ORG"
+    },
+    {
+      "text": "CAROLINE",
+      "start": 51329,
+      "end": 51337,
+      "label": "ORG"
+    },
+    {
+      "text": "MIGNON",
+      "start": 51338,
+      "end": 51344,
+      "label": "LOC"
+    },
+    {
+      "text": "Morte",
+      "start": 51346,
+      "end": 51351,
+      "label": "LOC"
+    },
+    {
+      "text": "PRIEZ POUR ELLE",
+      "start": 51370,
+      "end": 51385,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges d'Estourny",
+      "start": 51698,
+      "end": 51716,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 51723,
+      "end": 51731,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline Mignon",
+      "start": 51786,
+      "end": 51801,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51828,
+      "end": 51833,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 51932,
+      "end": 51938,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 51960,
+      "end": 51970,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 51996,
+      "end": 52004,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 52026,
+      "end": 52034,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 52129,
+      "end": 52137,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 52515,
+      "end": 52529,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 52557,
+      "end": 52562,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 52568,
+      "end": 52573,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 52735,
+      "end": 52743,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 52940,
+      "end": 52944,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 52963,
+      "end": 52970,
+      "label": "PER"
+    },
+    {
+      "text": "docteur Troussenard",
+      "start": 53074,
+      "end": 53093,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 53101,
+      "end": 53113,
+      "label": "PER"
+    },
+    {
+      "text": "maison Mignon",
+      "start": 53141,
+      "end": 53154,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 53220,
+      "end": 53228,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges d'Estourny",
+      "start": 53338,
+      "end": 53356,
+      "label": "PER"
+    },
+    {
+      "text": "Police",
+      "start": 53408,
+      "end": 53414,
+      "label": "ORG"
+    },
+    {
+      "text": "Mignon",
+      "start": 53490,
+      "end": 53496,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 53525,
+      "end": 53533,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 53574,
+      "end": 53582,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 53738,
+      "end": 53744,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignon",
+      "start": 53849,
+      "end": 53855,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 53952,
+      "end": 53960,
+      "label": "LOC"
+    },
+    {
+      "text": "Nice",
+      "start": 53965,
+      "end": 53969,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina",
+      "start": 54032,
+      "end": 54039,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 54065,
+      "end": 54072,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 54088,
+      "end": 54095,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina",
+      "start": 54159,
+      "end": 54166,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 54191,
+      "end": 54198,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 54206,
+      "end": 54213,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 54296,
+      "end": 54304,
+      "label": "PER"
+    },
+    {
+      "text": "Provence",
+      "start": 54318,
+      "end": 54326,
+      "label": "LOC"
+    },
+    {
+      "text": "Un Diable",
+      "start": 54734,
+      "end": 54743,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemande",
+      "start": 54913,
+      "end": 54922,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 55038,
+      "end": 55046,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 55246,
+      "end": 55253,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 55309,
+      "end": 55314,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Dumay",
+      "start": 55374,
+      "end": 55386,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 55674,
+      "end": 55679,
+      "label": "PER"
+    },
+    {
+      "text": "à Modeste",
+      "start": 55687,
+      "end": 55696,
+      "label": "MISC"
+    },
+    {
+      "text": "Procureur",
+      "start": 55820,
+      "end": 55829,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 55833,
+      "end": 55836,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 55990,
+      "end": 55995,
+      "label": "PER"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 56102,
+      "end": 56110,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 56415,
+      "end": 56421,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 56447,
+      "end": 56455,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 56466,
+      "end": 56477,
+      "label": "PER"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 56502,
+      "end": 56511,
+      "label": "LOC"
+    },
+    {
+      "text": "du Havre",
+      "start": 56641,
+      "end": 56649,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 56750,
+      "end": 56757,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 56987,
+      "end": 56994,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 57088,
+      "end": 57095,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 57459,
+      "end": 57470,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 57489,
+      "end": 57501,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 57503,
+      "end": 57510,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 57592,
+      "end": 57605,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 57609,
+      "end": 57621,
+      "label": "PER"
+    },
+    {
+      "text": "soleil",
+      "start": 57654,
+      "end": 57660,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 57732,
+      "end": 57739,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 57897,
+      "end": 57910,
+      "label": "PER"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 57951,
+      "end": 57969,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 57985,
+      "end": 57990,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 58004,
+      "end": 58016,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 58025,
+      "end": 58032,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 58061,
+      "end": 58068,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 58327,
+      "end": 58332,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 58352,
+      "end": 58359,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobet",
+      "start": 58536,
+      "end": 58541,
+      "label": "PER"
+    },
+    {
+      "text": "Asseyez vous",
+      "start": 58896,
+      "end": 58908,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 58910,
+      "end": 58915,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 58943,
+      "end": 58950,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste, je devine ce qui se passe en elle : si",
+      "start": 59498,
+      "end": 59545,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 59686,
+      "end": 59693,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 59851,
+      "end": 59856,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 59937,
+      "end": 59948,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 59968,
+      "end": 59980,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 60051,
+      "end": 60058,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 60099,
+      "end": 60104,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 60179,
+      "end": 60187,
+      "label": "MISC"
+    },
+    {
+      "text": "parc Vilquin",
+      "start": 60305,
+      "end": 60317,
+      "label": "LOC"
+    },
+    {
+      "text": "Lutin",
+      "start": 60337,
+      "end": 60342,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 60344,
+      "end": 60351,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Dumay",
+      "start": 60422,
+      "end": 60434,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste endormie",
+      "start": 60471,
+      "end": 60487,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet",
+      "start": 60522,
+      "end": 60528,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 60770,
+      "end": 60783,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Latournelle",
+      "start": 60812,
+      "end": 60830,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 60887,
+      "end": 60894,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 61198,
+      "end": 61205,
+      "label": "LOC"
+    },
+    {
+      "text": "le Dernier jour d'un",
+      "start": 61272,
+      "end": 61292,
+      "label": "MISC"
+    },
+    {
+      "text": "Condamné",
+      "start": 61293,
+      "end": 61301,
+      "label": "MISC"
+    },
+    {
+      "text": "Hugo",
+      "start": 61372,
+      "end": 61376,
+      "label": "PER"
+    },
+    {
+      "text": "Victor Hugo",
+      "start": 61409,
+      "end": 61420,
+      "label": "PER"
+    },
+    {
+      "text": "Lamartine",
+      "start": 61422,
+      "end": 61431,
+      "label": "PER"
+    },
+    {
+      "text": "Byron",
+      "start": 61433,
+      "end": 61438,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 61472,
+      "end": 61483,
+      "label": "PER"
+    },
+    {
+      "text": "Child Harold",
+      "start": 61534,
+      "end": 61546,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 61936,
+      "end": 61943,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 62040,
+      "end": 62047,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 62095,
+      "end": 62100,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 62239,
+      "end": 62247,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 62471,
+      "end": 62481,
+      "label": "PER"
+    },
+    {
+      "text": "Exupère",
+      "start": 62516,
+      "end": 62523,
+      "label": "PER"
+    },
+    {
+      "text": "Ducray Duminil",
+      "start": 62562,
+      "end": 62576,
+      "label": "PER"
+    },
+    {
+      "text": "Moi je suis trop Normande",
+      "start": 62600,
+      "end": 62625,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 62696,
+      "end": 62706,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Mignon",
+      "start": 62708,
+      "end": 62721,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 62797,
+      "end": 62808,
+      "label": "PER"
+    },
+    {
+      "text": "Child Harold",
+      "start": 62816,
+      "end": 62828,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 62945,
+      "end": 62958,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 62978,
+      "end": 62985,
+      "label": "MISC"
+    },
+    {
+      "text": "Francfort",
+      "start": 63231,
+      "end": 63240,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 63291,
+      "end": 63298,
+      "label": "MISC"
+    },
+    {
+      "text": "lord Byron",
+      "start": 63685,
+      "end": 63695,
+      "label": "PER"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 63724,
+      "end": 63736,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 63747,
+      "end": 63756,
+      "label": "LOC"
+    },
+    {
+      "text": "Egmont",
+      "start": 63771,
+      "end": 63777,
+      "label": "LOC"
+    },
+    {
+      "text": "Werther",
+      "start": 63779,
+      "end": 63786,
+      "label": "PER"
+    },
+    {
+      "text": "Schiller",
+      "start": 63788,
+      "end": 63796,
+      "label": "PER"
+    },
+    {
+      "text": "Err",
+      "start": 63807,
+      "end": 63810,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 63814,
+      "end": 63818,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 63857,
+      "end": 63862,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 63893,
+      "end": 63906,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 63910,
+      "end": 63917,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 64003,
+      "end": 64009,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay !",
+      "start": 64217,
+      "end": 64224,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 64225,
+      "end": 64229,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 64327,
+      "end": 64345,
+      "label": "PER"
+    },
+    {
+      "text": "Exupère",
+      "start": 64379,
+      "end": 64386,
+      "label": "PER"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 64409,
+      "end": 64418,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 64502,
+      "end": 64507,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 64538,
+      "end": 64545,
+      "label": "MISC"
+    },
+    {
+      "text": "Deviens",
+      "start": 64622,
+      "end": 64629,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 64659,
+      "end": 64665,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 64741,
+      "end": 64748,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 64811,
+      "end": 64818,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 64864,
+      "end": 64869,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 64902,
+      "end": 64909,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 64947,
+      "end": 64954,
+      "label": "MISC"
+    },
+    {
+      "text": "Vannes",
+      "start": 64993,
+      "end": 64999,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Latournelle",
+      "start": 65047,
+      "end": 65065,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 65117,
+      "end": 65124,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 65484,
+      "end": 65493,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 65524,
+      "end": 65529,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 65589,
+      "end": 65602,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 65698,
+      "end": 65703,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 65720,
+      "end": 65725,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 65736,
+      "end": 65749,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 65753,
+      "end": 65757,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 66006,
+      "end": 66011,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste !   ",
+      "start": 66046,
+      "end": 66058,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 66104,
+      "end": 66117,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 66181,
+      "end": 66188,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 66243,
+      "end": 66255,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 66282,
+      "end": 66287,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 66292,
+      "end": 66310,
+      "label": "PER"
+    },
+    {
+      "text": "Anne",
+      "start": 66516,
+      "end": 66520,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 66530,
+      "end": 66542,
+      "label": "PER"
+    },
+    {
+      "text": "Obéissez",
+      "start": 66615,
+      "end": 66623,
+      "label": "MISC"
+    },
+    {
+      "text": "whist",
+      "start": 67210,
+      "end": 67215,
+      "label": "PER"
+    },
+    {
+      "text": "Pique",
+      "start": 67219,
+      "end": 67224,
+      "label": "LOC"
+    },
+    {
+      "text": "Atout",
+      "start": 67229,
+      "end": 67234,
+      "label": "LOC"
+    },
+    {
+      "text": "Coupe !   ",
+      "start": 67239,
+      "end": 67249,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 67310,
+      "end": 67311,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 67494,
+      "end": 67507,
+      "label": "PER"
+    },
+    {
+      "text": "Butscha",
+      "start": 67544,
+      "end": 67551,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 67605,
+      "end": 67612,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 67640,
+      "end": 67646,
+      "label": "PER"
+    },
+    {
+      "text": "Exupère",
+      "start": 67895,
+      "end": 67902,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 68010,
+      "end": 68015,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 68043,
+      "end": 68048,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 68095,
+      "end": 68099,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 68104,
+      "end": 68108,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 68139,
+      "end": 68151,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 68214,
+      "end": 68221,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet !",
+      "start": 68338,
+      "end": 68346,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 68365,
+      "end": 68376,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 68380,
+      "end": 68384,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 68398,
+      "end": 68405,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 68421,
+      "end": 68426,
+      "label": "PER"
+    },
+    {
+      "text": "Sancta",
+      "start": 68448,
+      "end": 68454,
+      "label": "LOC"
+    },
+    {
+      "text": "Butscha",
+      "start": 68475,
+      "end": 68482,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 68527,
+      "end": 68536,
+      "label": "PER"
+    },
+    {
+      "text": "Babylone",
+      "start": 68545,
+      "end": 68553,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebrun",
+      "start": 68573,
+      "end": 68579,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 68581,
+      "end": 68588,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste ?",
+      "start": 68622,
+      "end": 68631,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste d'une voix aussi",
+      "start": 68701,
+      "end": 68725,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 68832,
+      "end": 68837,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 68857,
+      "end": 68864,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 68921,
+      "end": 68932,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 68936,
+      "end": 68940,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 68945,
+      "end": 68949,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 69128,
+      "end": 69137,
+      "label": "PER"
+    },
+    {
+      "text": "Butscha",
+      "start": 69209,
+      "end": 69216,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 69286,
+      "end": 69295,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 69316,
+      "end": 69321,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 69430,
+      "end": 69435,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 69540,
+      "end": 69547,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 69549,
+      "end": 69558,
+      "label": "LOC"
+    },
+    {
+      "text": "Exupère",
+      "start": 69668,
+      "end": 69675,
+      "label": "MISC"
+    },
+    {
+      "text": "Butscha",
+      "start": 69684,
+      "end": 69691,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 69711,
+      "end": 69729,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 69737,
+      "end": 69745,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 69831,
+      "end": 69844,
+      "label": "PER"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 69878,
+      "end": 69896,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 69918,
+      "end": 69923,
+      "label": "MISC"
+    },
+    {
+      "text": "Breton",
+      "start": 69930,
+      "end": 69936,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Mignon",
+      "start": 70055,
+      "end": 70068,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 70128,
+      "end": 70132,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 70225,
+      "end": 70232,
+      "label": "MISC"
+    },
+    {
+      "text": "Mignon",
+      "start": 70289,
+      "end": 70295,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 70398,
+      "end": 70404,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 70757,
+      "end": 70764,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 71118,
+      "end": 71125,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 71303,
+      "end": 71310,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 71315,
+      "end": 71321,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 71326,
+      "end": 71332,
+      "label": "LOC"
+    },
+    {
+      "text": "Murillo",
+      "start": 71337,
+      "end": 71344,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 71349,
+      "end": 71358,
+      "label": "PER"
+    },
+    {
+      "text": "Albert Durer",
+      "start": 71362,
+      "end": 71374,
+      "label": "PER"
+    },
+    {
+      "text": "Holbein",
+      "start": 71380,
+      "end": 71387,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 71467,
+      "end": 71474,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste acharnée à la composition",
+      "start": 71621,
+      "end": 71654,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 71747,
+      "end": 71758,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 71761,
+      "end": 71774,
+      "label": "PER"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 71837,
+      "end": 71848,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 71863,
+      "end": 71868,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste improvisant, dit la mère",
+      "start": 71944,
+      "end": 71976,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre enfant",
+      "start": 72000,
+      "end": 72013,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 72026,
+      "end": 72031,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 72165,
+      "end": 72170,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 72223,
+      "end": 72236,
+      "label": "PER"
+    },
+    {
+      "text": "Fille mal gardée",
+      "start": 72328,
+      "end": 72344,
+      "label": "ORG"
+    },
+    {
+      "text": "Bartholo",
+      "start": 72419,
+      "end": 72427,
+      "label": "PER"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 72465,
+      "end": 72473,
+      "label": "LOC"
+    },
+    {
+      "text": "Création",
+      "start": 72783,
+      "end": 72791,
+      "label": "ORG"
+    },
+    {
+      "text": "Ève",
+      "start": 72794,
+      "end": 72797,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 72916,
+      "end": 72923,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 73014,
+      "end": 73020,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 73031,
+      "end": 73038,
+      "label": "MISC"
+    },
+    {
+      "text": "Christophe Colomb",
+      "start": 73121,
+      "end": 73138,
+      "label": "PER"
+    },
+    {
+      "text": "Expliquons",
+      "start": 73221,
+      "end": 73231,
+      "label": "ORG"
+    },
+    {
+      "text": "Modeste",
+      "start": 73270,
+      "end": 73277,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina",
+      "start": 73426,
+      "end": 73433,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 73435,
+      "end": 73443,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 73447,
+      "end": 73460,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 73504,
+      "end": 73511,
+      "label": "MISC"
+    },
+    {
+      "text": "Hambourgeois",
+      "start": 73568,
+      "end": 73580,
+      "label": "LOC"
+    },
+    {
+      "text": "au Havre",
+      "start": 73588,
+      "end": 73596,
+      "label": "LOC"
+    },
+    {
+      "text": "Francisque",
+      "start": 73656,
+      "end": 73666,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 73684,
+      "end": 73692,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 73762,
+      "end": 73769,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 73933,
+      "end": 73940,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 73945,
+      "end": 73958,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 73967,
+      "end": 73972,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 73974,
+      "end": 73985,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacob Althor",
+      "start": 74021,
+      "end": 74033,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 74048,
+      "end": 74056,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 74167,
+      "end": 74174,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 74253,
+      "end": 74264,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 74268,
+      "end": 74273,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Mignon",
+      "start": 74359,
+      "end": 74373,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 74528,
+      "end": 74535,
+      "label": "MISC"
+    },
+    {
+      "text": "Francisque",
+      "start": 74549,
+      "end": 74559,
+      "label": "PER"
+    },
+    {
+      "text": "Gobenheim",
+      "start": 74897,
+      "end": 74906,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 74912,
+      "end": 74919,
+      "label": "LOC"
+    },
+    {
+      "text": "Althor",
+      "start": 74927,
+      "end": 74933,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 74978,
+      "end": 74984,
+      "label": "PER"
+    },
+    {
+      "text": "Mignon",
+      "start": 75004,
+      "end": 75010,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 75014,
+      "end": 75020,
+      "label": "LOC"
+    },
+    {
+      "text": "Francisque",
+      "start": 75022,
+      "end": 75032,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 75060,
+      "end": 75067,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 75079,
+      "end": 75086,
+      "label": "MISC"
+    },
+    {
+      "text": "boulingrin",
+      "start": 75108,
+      "end": 75118,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 75184,
+      "end": 75191,
+      "label": "PER"
+    },
+    {
+      "text": "Million",
+      "start": 75316,
+      "end": 75323,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 75347,
+      "end": 75354,
+      "label": "MISC"
+    },
+    {
+      "text": "Chalet",
+      "start": 75409,
+      "end": 75415,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 75448,
+      "end": 75453,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 75482,
+      "end": 75493,
+      "label": "LOC"
+    },
+    {
+      "text": "Mignon",
+      "start": 75525,
+      "end": 75531,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Catherine",
+      "start": 75615,
+      "end": 75631,
+      "label": "PER"
+    },
+    {
+      "text": "Althor",
+      "start": 75720,
+      "end": 75726,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 75933,
+      "end": 75940,
+      "label": "MISC"
+    },
+    {
+      "text": "du Havre",
+      "start": 76029,
+      "end": 76037,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingouville",
+      "start": 76054,
+      "end": 76064,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 76083,
+      "end": 76089,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Mignon",
+      "start": 76093,
+      "end": 76112,
+      "label": "PER"
+    },
+    {
+      "text": "Chalet",
+      "start": 76123,
+      "end": 76129,
+      "label": "MISC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 76209,
+      "end": 76216,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 76330,
+      "end": 76337,
+      "label": "MISC"
+    },
+    {
+      "text": "boulingrin",
+      "start": 76504,
+      "end": 76514,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilquin",
+      "start": 76544,
+      "end": 76551,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Mignon",
+      "start": 76674,
+      "end": 76693,
+      "label": "PER"
+    },
+    {
+      "text": "Envie",
+      "start": 76817,
+      "end": 76822,
+      "label": "ORG"
+    },
+    {
+      "text": "Modeste",
+      "start": 77042,
+      "end": 77049,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina Caroline",
+      "start": 77275,
+      "end": 77291,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 77322,
+      "end": 77329,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina",
+      "start": 77533,
+      "end": 77540,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina",
+      "start": 77599,
+      "end": 77606,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estourny",
+      "start": 77874,
+      "end": 77892,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 78014,
+      "end": 78022,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina",
+      "start": 78054,
+      "end": 78061,
+      "label": "PER"
+    },
+    {
+      "text": "madame Vilquin",
+      "start": 78091,
+      "end": 78105,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina",
+      "start": 78139,
+      "end": 78146,
+      "label": "PER"
+    },
+    {
+      "text": "Justice",
+      "start": 78233,
+      "end": 78240,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina",
+      "start": 78264,
+      "end": 78271,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 78416,
+      "end": 78423,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 78438,
+      "end": 78443,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina",
+      "start": 78480,
+      "end": 78487,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 78720,
+      "end": 78727,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina",
+      "start": 78868,
+      "end": 78875,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 78980,
+      "end": 78987,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina",
+      "start": 79208,
+      "end": 79215,
+      "label": "PER"
+    },
+    {
+      "text": "Religion",
+      "start": 79364,
+      "end": 79372,
+      "label": "ORG"
+    },
+    {
+      "text": "Bettina",
+      "start": 79405,
+      "end": 79412,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 79554,
+      "end": 79562,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 79565,
+      "end": 79572,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 79825,
+      "end": 79832,
+      "label": "MISC"
+    },
+    {
+      "text": "Bettina",
+      "start": 79838,
+      "end": 79845,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 80006,
+      "end": 80014,
+      "label": "LOC"
+    },
+    {
+      "text": "Françoise Cochet",
+      "start": 80039,
+      "end": 80055,
+      "label": "PER"
+    },
+    {
+      "text": "Bettina",
+      "start": 80066,
+      "end": 80073,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin",
+      "start": 80719,
+      "end": 80726,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 80823,
+      "end": 80830,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 80858,
+      "end": 80863,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 80869,
+      "end": 80880,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 80958,
+      "end": 80964,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 81018,
+      "end": 81023,
+      "label": "PER"
+    },
+    {
+      "text": "Monde Spirituel",
+      "start": 81344,
+      "end": 81359,
+      "label": "MISC"
+    },
+    {
+      "text": "Fantaisie",
+      "start": 81564,
+      "end": 81573,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 81579,
+      "end": 81584,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 81602,
+      "end": 81609,
+      "label": "MISC"
+    },
+    {
+      "text": "Dumay",
+      "start": 81766,
+      "end": 81771,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 81807,
+      "end": 81814,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 82017,
+      "end": 82029,
+      "label": "PER"
+    },
+    {
+      "text": "Lord Byron",
+      "start": 82206,
+      "end": 82216,
+      "label": "PER"
+    },
+    {
+      "text": "Goethe",
+      "start": 82218,
+      "end": 82224,
+      "label": "PER"
+    },
+    {
+      "text": "Schiller",
+      "start": 82226,
+      "end": 82234,
+      "label": "PER"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 82236,
+      "end": 82248,
+      "label": "PER"
+    },
+    {
+      "text": "Hugo",
+      "start": 82250,
+      "end": 82254,
+      "label": "PER"
+    },
+    {
+      "text": "Lamartine",
+      "start": 82256,
+      "end": 82265,
+      "label": "PER"
+    },
+    {
+      "text": "Crabbe",
+      "start": 82267,
+      "end": 82273,
+      "label": "PER"
+    },
+    {
+      "text": "Moore",
+      "start": 82275,
+      "end": 82280,
+      "label": "PER"
+    },
+    {
+      "text": "Histoire",
+      "start": 82348,
+      "end": 82356,
+      "label": "ORG"
+    },
+    {
+      "text": "Rabelais",
+      "start": 82388,
+      "end": 82396,
+      "label": "PER"
+    },
+    {
+      "text": "Manon Lescaut",
+      "start": 82405,
+      "end": 82418,
+      "label": "PER"
+    },
+    {
+      "text": "Essais de Montaigne",
+      "start": 82431,
+      "end": 82450,
+      "label": "LOC"
+    },
+    {
+      "text": "Diderot",
+      "start": 82459,
+      "end": 82466,
+      "label": "PER"
+    },
+    {
+      "text": "Fabliaux",
+      "start": 82479,
+      "end": 82487,
+      "label": "LOC"
+    },
+    {
+      "text": "Nouvelle Héloïse",
+      "start": 82499,
+      "end": 82515,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 82720,
+      "end": 82727,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 82816,
+      "end": 82827,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 83097,
+      "end": 83102,
+      "label": "PER"
+    },
+    {
+      "text": "Latournelle",
+      "start": 83128,
+      "end": 83139,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 83234,
+      "end": 83241,
+      "label": "MISC"
+    },
+    {
+      "text": "fier",
+      "start": 83332,
+      "end": 83336,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 83723,
+      "end": 83730,
+      "label": "PER"
+    },
+    {
+      "text": "Salomon",
+      "start": 83762,
+      "end": 83769,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 84203,
+      "end": 84210,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 84561,
+      "end": 84574,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 84657,
+      "end": 84664,
+      "label": "MISC"
+    },
+    {
+      "text": "Sixième Chambre",
+      "start": 84986,
+      "end": 85001,
+      "label": "ORG"
+    },
+    {
+      "text": "Ninon",
+      "start": 85097,
+      "end": 85102,
+      "label": "LOC"
+    },
+    {
+      "text": "Gil Blas",
+      "start": 85212,
+      "end": 85220,
+      "label": "PER"
+    },
+    {
+      "text": "Pasta",
+      "start": 85242,
+      "end": 85247,
+      "label": "PER"
+    },
+    {
+      "text": "Malibran",
+      "start": 85253,
+      "end": 85261,
+      "label": "LOC"
+    },
+    {
+      "text": "Florine",
+      "start": 85267,
+      "end": 85274,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 85429,
+      "end": 85440,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 85618,
+      "end": 85627,
+      "label": "LOC"
+    },
+    {
+      "text": "Staël",
+      "start": 85725,
+      "end": 85730,
+      "label": "PER"
+    },
+    {
+      "text": "Mille",
+      "start": 86127,
+      "end": 86132,
+      "label": "MISC"
+    },
+    {
+      "text": "Nuits",
+      "start": 86140,
+      "end": 86145,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 86212,
+      "end": 86219,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 86396,
+      "end": 86400,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 86648,
+      "end": 86655,
+      "label": "MISC"
+    },
+    {
+      "text": "Grâce",
+      "start": 86736,
+      "end": 86741,
+      "label": "LOC"
+    },
+    {
+      "text": "Charité",
+      "start": 86813,
+      "end": 86820,
+      "label": "LOC"
+    },
+    {
+      "text": "Fantaisie",
+      "start": 86934,
+      "end": 86943,
+      "label": "LOC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 87156,
+      "end": 87167,
+      "label": "LOC"
+    },
+    {
+      "text": "Dumay",
+      "start": 87194,
+      "end": 87199,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 87294,
+      "end": 87301,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 87442,
+      "end": 87446,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 87504,
+      "end": 87516,
+      "label": "PER"
+    },
+    {
+      "text": "Sauveur",
+      "start": 87553,
+      "end": 87560,
+      "label": "PER"
+    },
+    {
+      "text": "lac de Tibériade",
+      "start": 87588,
+      "end": 87604,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 87634,
+      "end": 87638,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 87993,
+      "end": 87997,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 88231,
+      "end": 88238,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglaises",
+      "start": 88268,
+      "end": 88277,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 88304,
+      "end": 88311,
+      "label": "MISC"
+    },
+    {
+      "text": "Child Harold",
+      "start": 88341,
+      "end": 88353,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 88428,
+      "end": 88434,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 88496,
+      "end": 88500,
+      "label": "MISC"
+    },
+    {
+      "text": "Latournelle",
+      "start": 88608,
+      "end": 88619,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 88718,
+      "end": 88722,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 89031,
+      "end": 89038,
+      "label": "MISC"
+    },
+    {
+      "text": "Francisque Althor",
+      "start": 89080,
+      "end": 89097,
+      "label": "PER"
+    },
+    {
+      "text": "Vilquin fils",
+      "start": 89104,
+      "end": 89116,
+      "label": "PER"
+    },
+    {
+      "text": "Tasse",
+      "start": 89614,
+      "end": 89619,
+      "label": "PER"
+    },
+    {
+      "text": "Milton",
+      "start": 89624,
+      "end": 89630,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques Rousseau",
+      "start": 89635,
+      "end": 89656,
+      "label": "PER"
+    },
+    {
+      "text": "Murat",
+      "start": 89661,
+      "end": 89666,
+      "label": "PER"
+    },
+    {
+      "text": "Christophe Colomb",
+      "start": 89671,
+      "end": 89688,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 89899,
+      "end": 89905,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques",
+      "start": 90053,
+      "end": 90065,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 90067,
+      "end": 90073,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 90105,
+      "end": 90115,
+      "label": "PER"
+    },
+    {
+      "text": "Manfred",
+      "start": 90204,
+      "end": 90211,
+      "label": "MISC"
+    },
+    {
+      "text": "Molière",
+      "start": 90292,
+      "end": 90299,
+      "label": "PER"
+    },
+    {
+      "text": "Lara",
+      "start": 90487,
+      "end": 90491,
+      "label": "LOC"
+    },
+    {
+      "text": "Gulnare",
+      "start": 90615,
+      "end": 90622,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise",
+      "start": 90671,
+      "end": 90679,
+      "label": "PER"
+    },
+    {
+      "text": "Crébillon",
+      "start": 90703,
+      "end": 90712,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 90750,
+      "end": 90756,
+      "label": "LOC"
+    },
+    {
+      "text": "Éliza Draper",
+      "start": 90762,
+      "end": 90774,
+      "label": "PER"
+    },
+    {
+      "text": "Éliza",
+      "start": 90915,
+      "end": 90920,
+      "label": "MISC"
+    },
+    {
+      "text": "Modeste",
+      "start": 91105,
+      "end": 91112,
+      "label": "MISC"
+    },
+    {
+      "text": "Goldsmith",
+      "start": 91242,
+      "end": 91251,
+      "label": "PER"
+    },
+    {
+      "text": "Obermann",
+      "start": 91264,
+      "end": 91272,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Nodier",
+      "start": 91274,
+      "end": 91288,
+      "label": "PER"
+    },
+    {
+      "text": "Maturin",
+      "start": 91290,
+      "end": 91297,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 91809,
+      "end": 91813,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 91915,
+      "end": 91921,
+      "label": "LOC"
+    },
+    {
+      "text": "Modeste",
+      "start": 91971,
+      "end": 91978,
+      "label": "MISC"
+    },
+    {
+      "text": "Fantaisie",
+      "start": 92199,
+      "end": 92208,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 93169,
+      "end": 93178,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 93211,
+      "end": 93217,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Latournelle",
+      "start": 93232,
+      "end": 93250,
+      "label": "PER"
+    },
+    {
+      "text": "Dumay",
+      "start": 93258,
+      "end": 93263,
+      "label": "LOC"
+    },
+    {
+      "text": "Chalet",
+      "start": 93391,
+      "end": 93397,
+      "label": "MISC"
+    },
+    {
+      "text": "Chartreux",
+      "start": 93490,
+      "end": 93499,
+      "label": "MISC"
+    },
+    {
+      "text": "Bayle",
+      "start": 93758,
+      "end": 93763,
+      "label": "PER"
+    },
+    {
+      "text": "Montesquieu",
+      "start": 93795,
+      "end": 93806,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Mignon",
+      "start": 93884,
+      "end": 93897,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 93953,
+      "end": 93960,
+      "label": "MISC"
+    },
+    {
+      "text": "coupe de l'Inconnu",
+      "start": 94164,
+      "end": 94182,
+      "label": "MISC"
+    },
+    {
+      "text": "Impossible",
+      "start": 94189,
+      "end": 94199,
+      "label": "LOC"
+    },
+    {
+      "text": "Rêve",
+      "start": 94204,
+      "end": 94208,
+      "label": "LOC"
+    },
+    {
+      "text": "Réalité",
+      "start": 94522,
+      "end": 94529,
+      "label": "ORG"
+    },
+    {
+      "text": "Harpie",
+      "start": 94545,
+      "end": 94551,
+      "label": "PER"
+    },
+    {
+      "text": "Maire",
+      "start": 94593,
+      "end": 94598,
+      "label": "LOC"
+    },
+    {
+      "text": "Chimère",
+      "start": 94697,
+      "end": 94704,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 94898,
+      "end": 94905,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 95102,
+      "end": 95109,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor Hugo",
+      "start": 95282,
+      "end": 95293,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 95340,
+      "end": 95348,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 95439,
+      "end": 95446,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthès",
+      "start": 95519,
+      "end": 95525,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 95550,
+      "end": 95557,
+      "label": "MISC"
+    },
+    {
+      "text": "Françoise Cochet",
+      "start": 95757,
+      "end": 95773,
+      "label": "PER"
+    },
+    {
+      "text": "du Havre",
+      "start": 95792,
+      "end": 95800,
+      "label": "LOC"
+    },
+    {
+      "text": "Bettina Caroline",
+      "start": 95826,
+      "end": 95842,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mignon",
+      "start": 95848,
+      "end": 95861,
+      "label": "PER"
+    },
+    {
+      "text": "madame Dumay",
+      "start": 95865,
+      "end": 95877,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 95946,
+      "end": 95954,
+      "label": "LOC"
+    },
+    {
+      "text": "Françoise",
+      "start": 96154,
+      "end": 96163,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 96376,
+      "end": 96383,
+      "label": "MISC"
+    },
+    {
+      "text": "Françoise Cochet",
+      "start": 96491,
+      "end": 96507,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste",
+      "start": 96526,
+      "end": 96533,
+      "label": "MISC"
+    },
+    {
+      "text": "Dauriat",
+      "start": 96568,
+      "end": 96575,
+      "label": "PER"
+    },
+    {
+      "text": "Canalis",
+      "start": 96602,
+      "end": 96609,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 96678,
+      "end": 96685,
+      "label": "LOC"
+    },
+    {
+      "text": "Françoise",
+      "start": 96757,
+      "end": 96766,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 96784,
+      "end": 96792,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 96989,
+      "end": 97001,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 97005,
+      "end": 97012,
+      "label": "LOC"
+    },
+    {
+      "text": "Constant Cyr Melchior",
+      "start": 97025,
+      "end": 97046,
+      "label": "PER"
+    },
+    {
+      "text": "Académie française",
+      "start": 97060,
+      "end": 97078,
+      "label": "ORG"
+    },
+    {
+      "text": "Canalis",
+      "start": 97094,
+      "end": 97101,
+      "label": "LOC"
+    },
+    {
+      "text": "Corrèze",
+      "start": 97103,
+      "end": 97110,
+      "label": "LOC"
+    },
+    {
+      "text": "Corrèze",
+      "start": 97295,
+      "end": 97302,
+      "label": "LOC"
+    },
+    {
+      "text": "OR ET FER",
+      "start": 97522,
+      "end": 97531,
+      "label": "ORG"
+    },
+    {
+      "text": "Canalis",
+      "start": 97570,
+      "end": 97577,
+      "label": "LOC"
+    },
+    {
+      "text": "Terre Sainte",
+      "start": 97598,
+      "end": 97610,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergne",
+      "start": 97666,
+      "end": 97674,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 97969,
+      "end": 97978,
+      "label": "LOC"
+    },
+    {
+      "text": "Ascalon",
+      "start": 98028,
+      "end": 98035,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Canalis",
+      "start": 98080,
+      "end": 98098,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 98386,
+      "end": 98393,
+      "label": "LOC"
+    },
+    {
+      "text": "Corrèze",
+      "start": 98446,
+      "end": 98453,
+      "label": "LOC"
+    },
+    {
+      "text": "Paradis Poissonnière",
+      "start": 98470,
+      "end": 98490,
+      "label": "LOC"
+    },
+    {
+      "text": "École Angélique",
+      "start": 98530,
+      "end": 98545,
+      "label": "ORG"
+    },
+    {
+      "text": "Affranchir",
+      "start": 98606,
+      "end": 98616,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 98654,
+      "end": 98667,
+      "label": "PER"
+    },
+    {
+      "text": "Paradis",
+      "start": 98707,
+      "end": 98714,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 98732,
+      "end": 98736,
+      "label": "MISC"
+    },
+    {
+      "text": "Le roi",
+      "start": 98738,
+      "end": 98744,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 98745,
+      "end": 98754,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 98876,
+      "end": 98892,
+      "label": "ORG"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 98917,
+      "end": 98936,
+      "label": "MISC"
+    },
+    {
+      "text": "ministère des Affaires Étrangères",
+      "start": 98948,
+      "end": 98981,
+      "label": "ORG"
+    },
+    {
+      "text": "Arts et des Lettres",
+      "start": 99124,
+      "end": 99143,
+      "label": "MISC"
+    },
+    {
+      "text": "Librairie",
+      "start": 99173,
+      "end": 99182,
+      "label": "LOC"
+    },
+    {
+      "text": "Égypte",
+      "start": 99225,
+      "end": 99231,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 99280,
+      "end": 99287,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 99340,
+      "end": 99346,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 99348,
+      "end": 99361,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 99363,
+      "end": 99371,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 99373,
+      "end": 99384,
+      "label": "MISC"
+    },
+    {
+      "text": "Didot",
+      "start": 99405,
+      "end": 99410,
+      "label": "PER"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 99531,
+      "end": 99550,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 99565,
+      "end": 99574,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 99661,
+      "end": 99674,
+      "label": "PER"
+    },
+    {
+      "text": "Modeste devina la raillerie du libraire",
+      "start": 99830,
+      "end": 99869,
+      "label": "MISC"
+    },
+    {
+      "text": "Canalis",
+      "start": 99903,
+      "end": 99910,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 99923,
+      "end": 99929,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 99970,
+      "end": 99977,
+      "label": "LOC"
+    }
+  ]
+}

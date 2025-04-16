@@ -1,0 +1,2884 @@
+{
+  "entities": [
+    {
+      "text": "TÜRHEIM",
+      "start": 57,
+      "end": 64,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 149,
+      "end": 155,
+      "label": "ORG"
+    },
+    {
+      "text": "Tourniquet Saint Jean",
+      "start": 173,
+      "end": 194,
+      "label": "ORG"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 290,
+      "end": 304,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture de Paris",
+      "start": 350,
+      "end": 369,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Martroi",
+      "start": 396,
+      "end": 410,
+      "label": "LOC"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 583,
+      "end": 597,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 661,
+      "end": 675,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 717,
+      "end": 732,
+      "label": "PER"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 746,
+      "end": 755,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 794,
+      "end": 804,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Tixeranderie",
+      "start": 834,
+      "end": 856,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1328,
+      "end": 1333,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 1765,
+      "end": 1771,
+      "label": "PER"
+    },
+    {
+      "text": "Chaume",
+      "start": 1820,
+      "end": 1826,
+      "label": "LOC"
+    },
+    {
+      "text": "Homme Armé",
+      "start": 1842,
+      "end": 1852,
+      "label": "MISC"
+    },
+    {
+      "text": "Billettes",
+      "start": 1858,
+      "end": 1867,
+      "label": "MISC"
+    },
+    {
+      "text": "Deux Portes",
+      "start": 1875,
+      "end": 1886,
+      "label": "ORG"
+    },
+    {
+      "text": "Tourniquet Saint Jean",
+      "start": 1909,
+      "end": 1930,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 2013,
+      "end": 2018,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 2255,
+      "end": 2265,
+      "label": "LOC"
+    },
+    {
+      "text": "Tixeranderie",
+      "start": 2275,
+      "end": 2287,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 3129,
+      "end": 3139,
+      "label": "LOC"
+    },
+    {
+      "text": "X",
+      "start": 4138,
+      "end": 4139,
+      "label": "MISC"
+    },
+    {
+      "text": "volubilis",
+      "start": 6719,
+      "end": 6728,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7112,
+      "end": 7117,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel de Ville",
+      "start": 7846,
+      "end": 7860,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 7867,
+      "end": 7873,
+      "label": "LOC"
+    },
+    {
+      "text": "Adonis",
+      "start": 8096,
+      "end": 8102,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11013,
+      "end": 11018,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 11658,
+      "end": 11666,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 11964,
+      "end": 11973,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 12412,
+      "end": 12418,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 12422,
+      "end": 12427,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavater",
+      "start": 12811,
+      "end": 12818,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 13040,
+      "end": 13048,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 13768,
+      "end": 13776,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 14462,
+      "end": 14470,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 14694,
+      "end": 14702,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 15623,
+      "end": 15631,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 16019,
+      "end": 16029,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 16205,
+      "end": 16213,
+      "label": "PER"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 16557,
+      "end": 16567,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 16793,
+      "end": 16801,
+      "label": "PER"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 17024,
+      "end": 17034,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline Crochard",
+      "start": 17109,
+      "end": 17126,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 17891,
+      "end": 17899,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 18112,
+      "end": 18120,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 18345,
+      "end": 18353,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 18514,
+      "end": 18524,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 18816,
+      "end": 18824,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 19111,
+      "end": 19119,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 19324,
+      "end": 19332,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 19915,
+      "end": 19923,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 20137,
+      "end": 20145,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 20321,
+      "end": 20325,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 20403,
+      "end": 20411,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 20675,
+      "end": 20683,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 21180,
+      "end": 21188,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 21403,
+      "end": 21411,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 22537,
+      "end": 22545,
+      "label": "PER"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 22648,
+      "end": 22663,
+      "label": "PER"
+    },
+    {
+      "text": "tulle",
+      "start": 23158,
+      "end": 23163,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 23175,
+      "end": 23183,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 23648,
+      "end": 23656,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet Saint Jean",
+      "start": 23835,
+      "end": 23856,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 23942,
+      "end": 23950,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Crochard",
+      "start": 24631,
+      "end": 24646,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 24671,
+      "end": 24679,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Molineux",
+      "start": 24785,
+      "end": 24802,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 24934,
+      "end": 24947,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 26024,
+      "end": 26032,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 26522,
+      "end": 26530,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 26764,
+      "end": 26774,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 26844,
+      "end": 26852,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 27050,
+      "end": 27055,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorency",
+      "start": 27094,
+      "end": 27105,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 27278,
+      "end": 27286,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 27366,
+      "end": 27374,
+      "label": "PER"
+    },
+    {
+      "text": "brun rouge",
+      "start": 27409,
+      "end": 27419,
+      "label": "PER"
+    },
+    {
+      "text": "cachemire",
+      "start": 27483,
+      "end": 27492,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Faubourg Saint Denis",
+      "start": 27543,
+      "end": 27570,
+      "label": "LOC"
+    },
+    {
+      "text": "rue d'Enghien",
+      "start": 27580,
+      "end": 27593,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 27751,
+      "end": 27759,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 28330,
+      "end": 28338,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu Taverny",
+      "start": 28681,
+      "end": 28698,
+      "label": "PER"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 28763,
+      "end": 28778,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 28908,
+      "end": 28919,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29054,
+      "end": 29062,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 29098,
+      "end": 29107,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 29359,
+      "end": 29370,
+      "label": "PER"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 29376,
+      "end": 29391,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 29567,
+      "end": 29571,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 29597,
+      "end": 29605,
+      "label": "LOC"
+    },
+    {
+      "text": "Eaubonne",
+      "start": 29962,
+      "end": 29970,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 30001,
+      "end": 30009,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 30478,
+      "end": 30486,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 31035,
+      "end": 31041,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 31434,
+      "end": 31442,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 32022,
+      "end": 32030,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 32295,
+      "end": 32303,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 32650,
+      "end": 32659,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 32661,
+      "end": 32669,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 32697,
+      "end": 32702,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 32768,
+      "end": 32776,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 32806,
+      "end": 32811,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 32867,
+      "end": 32875,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 33073,
+      "end": 33081,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 33125,
+      "end": 33130,
+      "label": "PER"
+    },
+    {
+      "text": "parc de Saint Leu",
+      "start": 33139,
+      "end": 33156,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 33290,
+      "end": 33298,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 33323,
+      "end": 33331,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 33365,
+      "end": 33373,
+      "label": "PER"
+    },
+    {
+      "text": "forêt de Montmorency",
+      "start": 33425,
+      "end": 33445,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 33858,
+      "end": 33866,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33870,
+      "end": 33878,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 33886,
+      "end": 33894,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 34026,
+      "end": 34034,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 34231,
+      "end": 34236,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 34295,
+      "end": 34299,
+      "label": "MISC"
+    },
+    {
+      "text": "Roger",
+      "start": 34329,
+      "end": 34334,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 34511,
+      "end": 34516,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 35253,
+      "end": 35257,
+      "label": "MISC"
+    },
+    {
+      "text": "Crochard",
+      "start": 35412,
+      "end": 35420,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 35486,
+      "end": 35494,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 35506,
+      "end": 35510,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien",
+      "start": 35536,
+      "end": 35543,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 35908,
+      "end": 35912,
+      "label": "MISC"
+    },
+    {
+      "text": "Roger",
+      "start": 36038,
+      "end": 36043,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 36122,
+      "end": 36131,
+      "label": "PER"
+    },
+    {
+      "text": "prise de la Bastille",
+      "start": 36355,
+      "end": 36375,
+      "label": "MISC"
+    },
+    {
+      "text": "Sambre",
+      "start": 36656,
+      "end": 36662,
+      "label": "LOC"
+    },
+    {
+      "text": "Meuse",
+      "start": 36666,
+      "end": 36671,
+      "label": "LOC"
+    },
+    {
+      "text": "Lutzen",
+      "start": 36787,
+      "end": 36793,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36820,
+      "end": 36825,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 36855,
+      "end": 36863,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 37329,
+      "end": 37334,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 37539,
+      "end": 37547,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 37727,
+      "end": 37732,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre homme !",
+      "start": 37827,
+      "end": 37841,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 37880,
+      "end": 37884,
+      "label": "MISC"
+    },
+    {
+      "text": "Crochard",
+      "start": 37885,
+      "end": 37893,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 37984,
+      "end": 37989,
+      "label": "PER"
+    },
+    {
+      "text": "Suffit",
+      "start": 38083,
+      "end": 38089,
+      "label": "MISC"
+    },
+    {
+      "text": "Crochard",
+      "start": 38345,
+      "end": 38353,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 38457,
+      "end": 38462,
+      "label": "PER"
+    },
+    {
+      "text": "Taverny",
+      "start": 38688,
+      "end": 38695,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 38828,
+      "end": 38833,
+      "label": "PER"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 38900,
+      "end": 38910,
+      "label": "LOC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 39328,
+      "end": 39340,
+      "label": "MISC"
+    },
+    {
+      "text": "Roger",
+      "start": 39342,
+      "end": 39347,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 39419,
+      "end": 39427,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 40211,
+      "end": 40216,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 40320,
+      "end": 40328,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40464,
+      "end": 40469,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 40514,
+      "end": 40523,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 40895,
+      "end": 40903,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 40907,
+      "end": 40912,
+      "label": "PER"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 41350,
+      "end": 41365,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline !",
+      "start": 41494,
+      "end": 41504,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 41509,
+      "end": 41514,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Crochard",
+      "start": 41818,
+      "end": 41833,
+      "label": "PER"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 42033,
+      "end": 42043,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 42060,
+      "end": 42068,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 42072,
+      "end": 42077,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 42128,
+      "end": 42133,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Taitbout",
+      "start": 42504,
+      "end": 42516,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 42764,
+      "end": 42774,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 43526,
+      "end": 43534,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 43824,
+      "end": 43829,
+      "label": "PER"
+    },
+    {
+      "text": "Amour couronnant",
+      "start": 44509,
+      "end": 44525,
+      "label": "MISC"
+    },
+    {
+      "text": "Psyché",
+      "start": 44526,
+      "end": 44532,
+      "label": "PER"
+    },
+    {
+      "text": "science de Plaisir",
+      "start": 44768,
+      "end": 44786,
+      "label": "MISC"
+    },
+    {
+      "text": "Espérez",
+      "start": 44812,
+      "end": 44819,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 44869,
+      "end": 44875,
+      "label": "PER"
+    },
+    {
+      "text": "Plaisir",
+      "start": 44921,
+      "end": 44928,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 44930,
+      "end": 44938,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 45253,
+      "end": 45258,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 45422,
+      "end": 45430,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Taitbout",
+      "start": 45837,
+      "end": 45849,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 46115,
+      "end": 46120,
+      "label": "PER"
+    },
+    {
+      "text": "Tourniquet",
+      "start": 46186,
+      "end": 46196,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 46288,
+      "end": 46294,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 46303,
+      "end": 46310,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 46986,
+      "end": 46991,
+      "label": "LOC"
+    },
+    {
+      "text": "bai brun",
+      "start": 47373,
+      "end": 47381,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 47451,
+      "end": 47459,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 47596,
+      "end": 47601,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 47885,
+      "end": 47890,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 47926,
+      "end": 47934,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 48608,
+      "end": 48616,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 48644,
+      "end": 48652,
+      "label": "PER"
+    },
+    {
+      "text": "Feydeau",
+      "start": 48722,
+      "end": 48729,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 48731,
+      "end": 48739,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 48989,
+      "end": 48994,
+      "label": "PER"
+    },
+    {
+      "text": "Feydeau",
+      "start": 49250,
+      "end": 49257,
+      "label": "PER"
+    },
+    {
+      "text": "Aller",
+      "start": 49334,
+      "end": 49339,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 49473,
+      "end": 49478,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 49603,
+      "end": 49611,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 49650,
+      "end": 49656,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 49714,
+      "end": 49722,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 49731,
+      "end": 49739,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 49909,
+      "end": 49917,
+      "label": "LOC"
+    },
+    {
+      "text": "Chut",
+      "start": 49995,
+      "end": 49999,
+      "label": "MISC"
+    },
+    {
+      "text": "Roger",
+      "start": 50047,
+      "end": 50052,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 50155,
+      "end": 50160,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 50280,
+      "end": 50288,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourniquet Saint Jean",
+      "start": 50333,
+      "end": 50354,
+      "label": "ORG"
+    },
+    {
+      "text": "Roger",
+      "start": 50836,
+      "end": 50841,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 51025,
+      "end": 51032,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 51061,
+      "end": 51073,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 51164,
+      "end": 51169,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline de Bellefeuille",
+      "start": 51193,
+      "end": 51217,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 51365,
+      "end": 51373,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 51378,
+      "end": 51386,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 51661,
+      "end": 51666,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 51890,
+      "end": 51898,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 52113,
+      "end": 52118,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 52136,
+      "end": 52148,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 52239,
+      "end": 52244,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline de Bellefeuille",
+      "start": 52796,
+      "end": 52820,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Taitbout",
+      "start": 52848,
+      "end": 52860,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 53514,
+      "end": 53521,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 53982,
+      "end": 53989,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 54154,
+      "end": 54158,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 54184,
+      "end": 54192,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 54284,
+      "end": 54292,
+      "label": "PER"
+    },
+    {
+      "text": "Charmée",
+      "start": 54487,
+      "end": 54494,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 54526,
+      "end": 54531,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 55699,
+      "end": 55704,
+      "label": "PER"
+    },
+    {
+      "text": "Psyché",
+      "start": 55765,
+      "end": 55771,
+      "label": "PER"
+    },
+    {
+      "text": "Amour",
+      "start": 55807,
+      "end": 55812,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 55984,
+      "end": 55989,
+      "label": "PER"
+    },
+    {
+      "text": "Attendre",
+      "start": 56125,
+      "end": 56133,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 56162,
+      "end": 56167,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 56266,
+      "end": 56271,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 56623,
+      "end": 56628,
+      "label": "PER"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 56642,
+      "end": 56654,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 57052,
+      "end": 57057,
+      "label": "PER"
+    },
+    {
+      "text": "Gatinais",
+      "start": 57378,
+      "end": 57386,
+      "label": "LOC"
+    },
+    {
+      "text": "Inutile",
+      "start": 57388,
+      "end": 57395,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 57983,
+      "end": 57988,
+      "label": "PER"
+    },
+    {
+      "text": "parc de Saint Leu",
+      "start": 58404,
+      "end": 58421,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 58519,
+      "end": 58527,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 58664,
+      "end": 58669,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 58959,
+      "end": 58967,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 59010,
+      "end": 59015,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 59166,
+      "end": 59174,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie de Bellefeuille",
+      "start": 59213,
+      "end": 59236,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 59381,
+      "end": 59388,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 59436,
+      "end": 59443,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 59448,
+      "end": 59455,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 59832,
+      "end": 59839,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 60242,
+      "end": 60249,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 60358,
+      "end": 60366,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 60373,
+      "end": 60378,
+      "label": "PER"
+    },
+    {
+      "text": "Roger",
+      "start": 60570,
+      "end": 60575,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline blanche",
+      "start": 60685,
+      "end": 60701,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 61150,
+      "end": 61155,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 61317,
+      "end": 61325,
+      "label": "LOC"
+    },
+    {
+      "text": "Roger",
+      "start": 61338,
+      "end": 61343,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 61685,
+      "end": 61693,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 61829,
+      "end": 61834,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62037,
+      "end": 62042,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle de Bellefeuille",
+      "start": 62093,
+      "end": 62121,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 62152,
+      "end": 62163,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 62168,
+      "end": 62174,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 62332,
+      "end": 62347,
+      "label": "PER"
+    },
+    {
+      "text": "cocher de fiacre",
+      "start": 62468,
+      "end": 62484,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 62544,
+      "end": 62552,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 62650,
+      "end": 62658,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 62857,
+      "end": 62865,
+      "label": "PER"
+    },
+    {
+      "text": "jardin Turc",
+      "start": 63166,
+      "end": 63177,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 63224,
+      "end": 63232,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint François",
+      "start": 63558,
+      "end": 63576,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieille Rue du Temple",
+      "start": 63586,
+      "end": 63607,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 63662,
+      "end": 63670,
+      "label": "PER"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 64085,
+      "end": 64097,
+      "label": "LOC"
+    },
+    {
+      "text": "Françoise",
+      "start": 64099,
+      "end": 64108,
+      "label": "PER"
+    },
+    {
+      "text": "Taitbout",
+      "start": 64191,
+      "end": 64199,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 64409,
+      "end": 64424,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 64577,
+      "end": 64586,
+      "label": "PER"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 64663,
+      "end": 64675,
+      "label": "LOC"
+    },
+    {
+      "text": "Crochard",
+      "start": 64690,
+      "end": 64698,
+      "label": "PER"
+    },
+    {
+      "text": "us de l'ancien Opéra",
+      "start": 64758,
+      "end": 64778,
+      "label": "ORG"
+    },
+    {
+      "text": "Fontanon",
+      "start": 65053,
+      "end": 65061,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 65594,
+      "end": 65602,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 65622,
+      "end": 65631,
+      "label": "PER"
+    },
+    {
+      "text": "Crochard",
+      "start": 66141,
+      "end": 66149,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 66226,
+      "end": 66235,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 66388,
+      "end": 66392,
+      "label": "MISC"
+    },
+    {
+      "text": "Françoise",
+      "start": 66422,
+      "end": 66431,
+      "label": "PER"
+    },
+    {
+      "text": "Fontanon",
+      "start": 66853,
+      "end": 66861,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Crochard",
+      "start": 66957,
+      "end": 66972,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 67088,
+      "end": 67104,
+      "label": "ORG"
+    },
+    {
+      "text": "Françoise",
+      "start": 67288,
+      "end": 67297,
+      "label": "PER"
+    },
+    {
+      "text": "Malédiction sur moi !",
+      "start": 67317,
+      "end": 67338,
+      "label": "MISC"
+    },
+    {
+      "text": "Françoise",
+      "start": 67552,
+      "end": 67561,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 67697,
+      "end": 67705,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 67820,
+      "end": 67826,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 67866,
+      "end": 67875,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 68119,
+      "end": 68128,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 68459,
+      "end": 68468,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Crochard",
+      "start": 68494,
+      "end": 68509,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 68636,
+      "end": 68640,
+      "label": "MISC"
+    },
+    {
+      "text": "Françoise",
+      "start": 68738,
+      "end": 68747,
+      "label": "PER"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 68870,
+      "end": 68882,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 68955,
+      "end": 68959,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 69092,
+      "end": 69100,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 69191,
+      "end": 69203,
+      "label": "LOC"
+    },
+    {
+      "text": "Françoise",
+      "start": 69205,
+      "end": 69214,
+      "label": "PER"
+    },
+    {
+      "text": "La mère",
+      "start": 69434,
+      "end": 69441,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 69495,
+      "end": 69503,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 69617,
+      "end": 69623,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 69637,
+      "end": 69645,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellefeuille",
+      "start": 69881,
+      "end": 69893,
+      "label": "LOC"
+    },
+    {
+      "text": "Mort",
+      "start": 69980,
+      "end": 69984,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Crochard",
+      "start": 70194,
+      "end": 70209,
+      "label": "PER"
+    },
+    {
+      "text": "Archi Chancelier",
+      "start": 70514,
+      "end": 70530,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 70534,
+      "end": 70542,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 70721,
+      "end": 70729,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 70985,
+      "end": 70995,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 71052,
+      "end": 71062,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 71238,
+      "end": 71248,
+      "label": "MISC"
+    },
+    {
+      "text": "laquais",
+      "start": 71278,
+      "end": 71285,
+      "label": "LOC"
+    },
+    {
+      "text": "Convention",
+      "start": 71350,
+      "end": 71360,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 71452,
+      "end": 71462,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 71627,
+      "end": 71641,
+      "label": "ORG"
+    },
+    {
+      "text": "Code Napoléon",
+      "start": 71657,
+      "end": 71670,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 71673,
+      "end": 71682,
+      "label": "LOC"
+    },
+    {
+      "text": "Quai des Augustins",
+      "start": 71906,
+      "end": 71924,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 72109,
+      "end": 72119,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 72128,
+      "end": 72138,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 72192,
+      "end": 72196,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 72215,
+      "end": 72224,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 72295,
+      "end": 72311,
+      "label": "MISC"
+    },
+    {
+      "text": "Ximeuse",
+      "start": 72427,
+      "end": 72434,
+      "label": "PER"
+    },
+    {
+      "text": "Hauteserre",
+      "start": 72440,
+      "end": 72450,
+      "label": "LOC"
+    },
+    {
+      "text": "Archi Chancelier",
+      "start": 72686,
+      "end": 72702,
+      "label": "ORG"
+    },
+    {
+      "text": "Entrez",
+      "start": 72704,
+      "end": 72710,
+      "label": "PER"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 72795,
+      "end": 72805,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 73150,
+      "end": 73155,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 73417,
+      "end": 73427,
+      "label": "PER"
+    },
+    {
+      "text": "Augustins",
+      "start": 73612,
+      "end": 73621,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Granville",
+      "start": 73926,
+      "end": 73944,
+      "label": "MISC"
+    },
+    {
+      "text": "cria t",
+      "start": 73975,
+      "end": 73981,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 74331,
+      "end": 74337,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Angélique",
+      "start": 74412,
+      "end": 74434,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bontems",
+      "start": 74534,
+      "end": 74548,
+      "label": "PER"
+    },
+    {
+      "text": "Bontems",
+      "start": 74740,
+      "end": 74747,
+      "label": "PER"
+    },
+    {
+      "text": "Bontems",
+      "start": 74757,
+      "end": 74764,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 75334,
+      "end": 75351,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Granville",
+      "start": 75641,
+      "end": 75659,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 75675,
+      "end": 75684,
+      "label": "LOC"
+    },
+    {
+      "text": "Archi Chancelier",
+      "start": 75786,
+      "end": 75802,
+      "label": "ORG"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 75811,
+      "end": 75821,
+      "label": "LOC"
+    },
+    {
+      "text": "Code",
+      "start": 75872,
+      "end": 75876,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour de l'Empire",
+      "start": 75936,
+      "end": 75952,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 75991,
+      "end": 75999,
+      "label": "PER"
+    },
+    {
+      "text": "Empire",
+      "start": 76044,
+      "end": 76050,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique Bontems",
+      "start": 76373,
+      "end": 76390,
+      "label": "ORG"
+    },
+    {
+      "text": "Bayeux",
+      "start": 76657,
+      "end": 76663,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 76802,
+      "end": 76811,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 77149,
+      "end": 77158,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 77256,
+      "end": 77265,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 77280,
+      "end": 77289,
+      "label": "PER"
+    },
+    {
+      "text": "Messageries",
+      "start": 77467,
+      "end": 77478,
+      "label": "ORG"
+    },
+    {
+      "text": "Notre Dame des Victoires",
+      "start": 77489,
+      "end": 77513,
+      "label": "MISC"
+    },
+    {
+      "text": "Caen",
+      "start": 77620,
+      "end": 77624,
+      "label": "LOC"
+    },
+    {
+      "text": "cathédrale de Bayeux",
+      "start": 77703,
+      "end": 77723,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Teinture",
+      "start": 78020,
+      "end": 78032,
+      "label": "LOC"
+    },
+    {
+      "text": "Bayeux",
+      "start": 78135,
+      "end": 78141,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Granville",
+      "start": 78145,
+      "end": 78163,
+      "label": "PER"
+    },
+    {
+      "text": "paix d'Utrecht",
+      "start": 78905,
+      "end": 78919,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 78973,
+      "end": 78982,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 79041,
+      "end": 79045,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 79204,
+      "end": 79208,
+      "label": "LOC"
+    },
+    {
+      "text": "Bontems",
+      "start": 79420,
+      "end": 79427,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 79716,
+      "end": 79725,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 79777,
+      "end": 79782,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 79907,
+      "end": 79916,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 80042,
+      "end": 80052,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 80258,
+      "end": 80266,
+      "label": "LOC"
+    },
+    {
+      "text": "Groënland",
+      "start": 80270,
+      "end": 80279,
+      "label": "LOC"
+    },
+    {
+      "text": "Vivre",
+      "start": 80284,
+      "end": 80289,
+      "label": "LOC"
+    },
+    {
+      "text": "Bontems",
+      "start": 80707,
+      "end": 80714,
+      "label": "PER"
+    },
+    {
+      "text": "saint Pierre",
+      "start": 81009,
+      "end": 81021,
+      "label": "PER"
+    },
+    {
+      "text": "communie",
+      "start": 81113,
+      "end": 81121,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 81145,
+      "end": 81149,
+      "label": "MISC"
+    },
+    {
+      "text": "chapes",
+      "start": 81253,
+      "end": 81259,
+      "label": "LOC"
+    },
+    {
+      "text": "Fête Dieu",
+      "start": 81339,
+      "end": 81348,
+      "label": "MISC"
+    },
+    {
+      "text": "Dominiquin",
+      "start": 81611,
+      "end": 81621,
+      "label": "PER"
+    },
+    {
+      "text": "Corrége",
+      "start": 81626,
+      "end": 81633,
+      "label": "PER"
+    },
+    {
+      "text": "André del Sarto",
+      "start": 81640,
+      "end": 81655,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 81693,
+      "end": 81702,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 81763,
+      "end": 81772,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 82044,
+      "end": 82049,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bontems",
+      "start": 82467,
+      "end": 82481,
+      "label": "PER"
+    },
+    {
+      "text": "Bontems",
+      "start": 82533,
+      "end": 82540,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 82570,
+      "end": 82579,
+      "label": "LOC"
+    },
+    {
+      "text": "Bayeux",
+      "start": 82888,
+      "end": 82894,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Gatienne",
+      "start": 83677,
+      "end": 83698,
+      "label": "PER"
+    },
+    {
+      "text": "la Vierge",
+      "start": 83747,
+      "end": 83756,
+      "label": "PER"
+    },
+    {
+      "text": "Sacré Cœur",
+      "start": 83791,
+      "end": 83801,
+      "label": "MISC"
+    },
+    {
+      "text": "Gatienne",
+      "start": 83845,
+      "end": 83853,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 83958,
+      "end": 83962,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 83994,
+      "end": 84000,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'as tu donc ?",
+      "start": 84175,
+      "end": 84190,
+      "label": "MISC"
+    },
+    {
+      "text": "Bontems",
+      "start": 84698,
+      "end": 84705,
+      "label": "LOC"
+    },
+    {
+      "text": "Es",
+      "start": 84709,
+      "end": 84711,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 84757,
+      "end": 84767,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 84814,
+      "end": 84819,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 85311,
+      "end": 85318,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 85666,
+      "end": 85670,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 85818,
+      "end": 85827,
+      "label": "LOC"
+    },
+    {
+      "text": "Rose",
+      "start": 85994,
+      "end": 85998,
+      "label": "PER"
+    },
+    {
+      "text": "Colas",
+      "start": 86002,
+      "end": 86007,
+      "label": "PER"
+    },
+    {
+      "text": "Sacré Cœur",
+      "start": 86239,
+      "end": 86249,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 86598,
+      "end": 86607,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 87186,
+      "end": 87195,
+      "label": "PER"
+    },
+    {
+      "text": "mérinos brun",
+      "start": 87218,
+      "end": 87230,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 87616,
+      "end": 87625,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 88653,
+      "end": 88662,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 88788,
+      "end": 88797,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 89131,
+      "end": 89140,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 89557,
+      "end": 89566,
+      "label": "MISC"
+    },
+    {
+      "text": "Granville",
+      "start": 89697,
+      "end": 89706,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Bontems",
+      "start": 90083,
+      "end": 90097,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Granville",
+      "start": 90138,
+      "end": 90156,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Granville",
+      "start": 90361,
+      "end": 90381,
+      "label": "PER"
+    },
+    {
+      "text": "Bontems",
+      "start": 90413,
+      "end": 90420,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 90600,
+      "end": 90609,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Lucie",
+      "start": 90768,
+      "end": 90780,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 90857,
+      "end": 90866,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 91102,
+      "end": 91111,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 91272,
+      "end": 91281,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 91488,
+      "end": 91494,
+      "label": "MISC"
+    },
+    {
+      "text": "Voudriez",
+      "start": 91521,
+      "end": 91529,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 91650,
+      "end": 91654,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 91700,
+      "end": 91706,
+      "label": "MISC"
+    },
+    {
+      "text": "Angélique",
+      "start": 91715,
+      "end": 91724,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 92056,
+      "end": 92065,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 92150,
+      "end": 92159,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 92662,
+      "end": 92671,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 92906,
+      "end": 92915,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 92993,
+      "end": 93002,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bontems",
+      "start": 93113,
+      "end": 93127,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bontems",
+      "start": 93297,
+      "end": 93311,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 93620,
+      "end": 93629,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 93685,
+      "end": 93694,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontanon",
+      "start": 93778,
+      "end": 93786,
+      "label": "PER"
+    },
+    {
+      "text": "Bontems",
+      "start": 93888,
+      "end": 93895,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 94120,
+      "end": 94129,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 94154,
+      "end": 94159,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat Général",
+      "start": 94224,
+      "end": 94238,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 94326,
+      "end": 94335,
+      "label": "PER"
+    },
+    {
+      "text": "Granville",
+      "start": 94418,
+      "end": 94427,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 94536,
+      "end": 94542,
+      "label": "LOC"
+    },
+    {
+      "text": "rue d'Orléans",
+      "start": 94662,
+      "end": 94675,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 94745,
+      "end": 94756,
+      "label": "PER"
+    },
+    {
+      "text": "Angélique",
+      "start": 94845,
+      "end": 94854,
+      "label": "PER"
+    },
+    {
+      "text": "Marais avoisine",
+      "start": 94905,
+      "end": 94920,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais de Justice",
+      "start": 94924,
+      "end": 94941,
+      "label": "LOC"
+    },
+    {
+      "text": "Ciel",
+      "start": 95105,
+      "end": 95109,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat Général",
+      "start": 95211,
+      "end": 95225,
+      "label": "PER"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 95258,
+      "end": 95274,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 95633,
+      "end": 95639,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 95658,
+      "end": 95667,
+      "label": "LOC"
+    },
+    {
+      "text": "Angélique",
+      "start": 96009,
+      "end": 96018,
+      "label": "MISC"
+    },
+    {
+      "text": "Avocat Général",
+      "start": 96283,
+      "end": 96297,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Granville",
+      "start": 96686,
+      "end": 96705,
+      "label": "PER"
+    },
+    {
+      "text": "Bayeux",
+      "start": 97107,
+      "end": 97113,
+      "label": "LOC"
+    },
+    {
+      "text": "Granville",
+      "start": 98535,
+      "end": 98544,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 98647,
+      "end": 98652,
+      "label": "LOC"
+    },
+    {
+      "text": "Bayeux",
+      "start": 98697,
+      "end": 98703,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 99039,
+      "end": 99044,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 99101,
+      "end": 99107,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Granville",
+      "start": 99328,
+      "end": 99347,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 99443,
+      "end": 99451,
+      "label": "PER"
+    },
+    {
+      "text": "Boucher",
+      "start": 99750,
+      "end": 99757,
+      "label": "LOC"
+    }
+  ]
+}

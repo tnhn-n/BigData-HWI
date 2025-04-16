@@ -1,0 +1,3382 @@
+{
+  "entities": [
+    {
+      "text": "SÉRAPHITA",
+      "start": 0,
+      "end": 9,
+      "label": "MISC"
+    },
+    {
+      "text": "NÉE COMTESSE RZEWUSKA",
+      "start": 45,
+      "end": 66,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 68,
+      "end": 74,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 445,
+      "end": 451,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacob",
+      "start": 532,
+      "end": 537,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 1022,
+      "end": 1031,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 1288,
+      "end": 1294,
+      "label": "PER"
+    },
+    {
+      "text": "BALZAC",
+      "start": 1323,
+      "end": 1329,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 1331,
+      "end": 1336,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége",
+      "start": 1409,
+      "end": 1416,
+      "label": "LOC"
+    },
+    {
+      "text": "mer du Nord",
+      "start": 1558,
+      "end": 1569,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége",
+      "start": 2305,
+      "end": 2312,
+      "label": "MISC"
+    },
+    {
+      "text": "Suisse",
+      "start": 3440,
+      "end": 3446,
+      "label": "LOC"
+    },
+    {
+      "text": "Drontheim",
+      "start": 3463,
+      "end": 3472,
+      "label": "LOC"
+    },
+    {
+      "text": "Christiania",
+      "start": 3476,
+      "end": 3487,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 3527,
+      "end": 3537,
+      "label": "MISC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 3545,
+      "end": 3555,
+      "label": "MISC"
+    },
+    {
+      "text": "Norwége",
+      "start": 3666,
+      "end": 3673,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 3768,
+      "end": 3778,
+      "label": "MISC"
+    },
+    {
+      "text": "Océan",
+      "start": 3933,
+      "end": 3938,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége",
+      "start": 4159,
+      "end": 4166,
+      "label": "MISC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 4295,
+      "end": 4301,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 4380,
+      "end": 4386,
+      "label": "PER"
+    },
+    {
+      "text": "Fiord",
+      "start": 5104,
+      "end": 5109,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 5626,
+      "end": 5636,
+      "label": "MISC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 5753,
+      "end": 5763,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 5854,
+      "end": 5861,
+      "label": "ORG"
+    },
+    {
+      "text": "Norwége",
+      "start": 5952,
+      "end": 5959,
+      "label": "LOC"
+    },
+    {
+      "text": "Sieg",
+      "start": 6217,
+      "end": 6221,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiord",
+      "start": 6353,
+      "end": 6358,
+      "label": "LOC"
+    },
+    {
+      "text": "Siegdalhen",
+      "start": 6427,
+      "end": 6437,
+      "label": "LOC"
+    },
+    {
+      "text": "Sieg",
+      "start": 6490,
+      "end": 6494,
+      "label": "LOC"
+    },
+    {
+      "text": "Falberg",
+      "start": 6555,
+      "end": 6562,
+      "label": "ORG"
+    },
+    {
+      "text": "vallée de Jarvis",
+      "start": 6570,
+      "end": 6586,
+      "label": "LOC"
+    },
+    {
+      "text": "Flore",
+      "start": 6988,
+      "end": 6993,
+      "label": "LOC"
+    },
+    {
+      "text": "Falberg",
+      "start": 7081,
+      "end": 7088,
+      "label": "ORG"
+    },
+    {
+      "text": "vienne",
+      "start": 7090,
+      "end": 7096,
+      "label": "LOC"
+    },
+    {
+      "text": "Suède",
+      "start": 7303,
+      "end": 7308,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 7470,
+      "end": 7476,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwégiens",
+      "start": 7919,
+      "end": 7929,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiord",
+      "start": 7988,
+      "end": 7993,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwégien",
+      "start": 8352,
+      "end": 8361,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiord",
+      "start": 8560,
+      "end": 8565,
+      "label": "LOC"
+    },
+    {
+      "text": "Christiania",
+      "start": 8764,
+      "end": 8775,
+      "label": "LOC"
+    },
+    {
+      "text": "Drontheim",
+      "start": 8778,
+      "end": 8787,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 8807,
+      "end": 8817,
+      "label": "MISC"
+    },
+    {
+      "text": "Sieg",
+      "start": 8833,
+      "end": 8837,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée de Jarvis",
+      "start": 8907,
+      "end": 8923,
+      "label": "LOC"
+    },
+    {
+      "text": "Drontheim",
+      "start": 8927,
+      "end": 8936,
+      "label": "LOC"
+    },
+    {
+      "text": "Falberg",
+      "start": 8991,
+      "end": 8998,
+      "label": "ORG"
+    },
+    {
+      "text": "Christiania",
+      "start": 9029,
+      "end": 9040,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 9087,
+      "end": 9093,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége intérieure",
+      "start": 9134,
+      "end": 9152,
+      "label": "LOC"
+    },
+    {
+      "text": "Suède",
+      "start": 9159,
+      "end": 9164,
+      "label": "LOC"
+    },
+    {
+      "text": "Sieg",
+      "start": 9172,
+      "end": 9176,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 9235,
+      "end": 9245,
+      "label": "MISC"
+    },
+    {
+      "text": "Suédois",
+      "start": 9319,
+      "end": 9326,
+      "label": "LOC"
+    },
+    {
+      "text": "Créateur",
+      "start": 9440,
+      "end": 9448,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 9687,
+      "end": 9697,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 9848,
+      "end": 9855,
+      "label": "ORG"
+    },
+    {
+      "text": "Sieg",
+      "start": 10037,
+      "end": 10041,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 10268,
+      "end": 10274,
+      "label": "PER"
+    },
+    {
+      "text": "Flore",
+      "start": 10685,
+      "end": 10690,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 10992,
+      "end": 10997,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 11148,
+      "end": 11153,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 11269,
+      "end": 11275,
+      "label": "LOC"
+    },
+    {
+      "text": "Suédois",
+      "start": 11886,
+      "end": 11893,
+      "label": "LOC"
+    },
+    {
+      "text": "de Suède",
+      "start": 11925,
+      "end": 11933,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 12003,
+      "end": 12009,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége",
+      "start": 12221,
+      "end": 12228,
+      "label": "LOC"
+    },
+    {
+      "text": "Falberg",
+      "start": 12694,
+      "end": 12701,
+      "label": "ORG"
+    },
+    {
+      "text": "Sieg",
+      "start": 12817,
+      "end": 12821,
+      "label": "LOC"
+    },
+    {
+      "text": "Européens",
+      "start": 13137,
+      "end": 13146,
+      "label": "LOC"
+    },
+    {
+      "text": "mer de Norwége",
+      "start": 13152,
+      "end": 13166,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiords",
+      "start": 13196,
+      "end": 13202,
+      "label": "MISC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 13355,
+      "end": 13365,
+      "label": "MISC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 13470,
+      "end": 13476,
+      "label": "PER"
+    },
+    {
+      "text": "Sieg",
+      "start": 13897,
+      "end": 13901,
+      "label": "LOC"
+    },
+    {
+      "text": "Bédouin",
+      "start": 14757,
+      "end": 14764,
+      "label": "PER"
+    },
+    {
+      "text": "l'Afrique",
+      "start": 14797,
+      "end": 14806,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 16537,
+      "end": 16538,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 17500,
+      "end": 17510,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 17775,
+      "end": 17782,
+      "label": "LOC"
+    },
+    {
+      "text": "Arrête moi",
+      "start": 18480,
+      "end": 18490,
+      "label": "MISC"
+    },
+    {
+      "text": "SÉRAPHÎTÜS",
+      "start": 18492,
+      "end": 18502,
+      "label": "ORG"
+    },
+    {
+      "text": "Minna",
+      "start": 18800,
+      "end": 18805,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 19095,
+      "end": 19100,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 19109,
+      "end": 19119,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 19443,
+      "end": 19453,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 19756,
+      "end": 19761,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonnet",
+      "start": 19852,
+      "end": 19858,
+      "label": "MISC"
+    },
+    {
+      "text": "Norwége",
+      "start": 19962,
+      "end": 19969,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 20057,
+      "end": 20067,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 20281,
+      "end": 20291,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 20488,
+      "end": 20498,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 20531,
+      "end": 20536,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 20617,
+      "end": 20627,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 20825,
+      "end": 20830,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 21015,
+      "end": 21020,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiord",
+      "start": 21245,
+      "end": 21250,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 22016,
+      "end": 22026,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 22112,
+      "end": 22122,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 22231,
+      "end": 22236,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 22619,
+      "end": 22629,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 22637,
+      "end": 22642,
+      "label": "LOC"
+    },
+    {
+      "text": "Fiord",
+      "start": 22773,
+      "end": 22778,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 22943,
+      "end": 22953,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 23101,
+      "end": 23110,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 23173,
+      "end": 23183,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 23743,
+      "end": 23749,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 24150,
+      "end": 24155,
+      "label": "LOC"
+    },
+    {
+      "text": "Flore",
+      "start": 24298,
+      "end": 24303,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 24321,
+      "end": 24331,
+      "label": "PER"
+    },
+    {
+      "text": "Mets",
+      "start": 24465,
+      "end": 24469,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 24498,
+      "end": 24503,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 24928,
+      "end": 24933,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 25675,
+      "end": 25685,
+      "label": "PER"
+    },
+    {
+      "text": "mélancolie",
+      "start": 25703,
+      "end": 25713,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 25812,
+      "end": 25817,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 26066,
+      "end": 26076,
+      "label": "PER"
+    },
+    {
+      "text": "Fiord",
+      "start": 26399,
+      "end": 26404,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 26560,
+      "end": 26570,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 26951,
+      "end": 26956,
+      "label": "LOC"
+    },
+    {
+      "text": "Norwége",
+      "start": 27109,
+      "end": 27116,
+      "label": "MISC"
+    },
+    {
+      "text": "Tes",
+      "start": 27497,
+      "end": 27500,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 27684,
+      "end": 27688,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde",
+      "start": 27764,
+      "end": 27769,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 27787,
+      "end": 27794,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 27815,
+      "end": 27825,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 27829,
+      "end": 27836,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 27846,
+      "end": 27851,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 28112,
+      "end": 28117,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 28269,
+      "end": 28279,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 28379,
+      "end": 28384,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 28739,
+      "end": 28744,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 28925,
+      "end": 28935,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 30075,
+      "end": 30085,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 30246,
+      "end": 30251,
+      "label": "LOC"
+    },
+    {
+      "text": "Créateur",
+      "start": 30309,
+      "end": 30317,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 30716,
+      "end": 30726,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 31057,
+      "end": 31062,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 31175,
+      "end": 31185,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 31328,
+      "end": 31333,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 31429,
+      "end": 31436,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 31601,
+      "end": 31611,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 32175,
+      "end": 32185,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 32649,
+      "end": 32654,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 32687,
+      "end": 32697,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 33136,
+      "end": 33141,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 33417,
+      "end": 33427,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 33857,
+      "end": 33861,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 33940,
+      "end": 33942,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 33951,
+      "end": 33956,
+      "label": "LOC"
+    },
+    {
+      "text": "Tout Puissant",
+      "start": 34077,
+      "end": 34090,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 34325,
+      "end": 34335,
+      "label": "PER"
+    },
+    {
+      "text": "Christiania",
+      "start": 34403,
+      "end": 34414,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 34469,
+      "end": 34473,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 34598,
+      "end": 34608,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 34624,
+      "end": 34629,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 35601,
+      "end": 35605,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 35983,
+      "end": 35987,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 36212,
+      "end": 36216,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 36488,
+      "end": 36493,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 36573,
+      "end": 36578,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 36750,
+      "end": 36754,
+      "label": "MISC"
+    },
+    {
+      "text": "Vois",
+      "start": 36772,
+      "end": 36776,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 37337,
+      "end": 37347,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 37405,
+      "end": 37410,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 37708,
+      "end": 37713,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 37792,
+      "end": 37802,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 38306,
+      "end": 38311,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 38870,
+      "end": 38874,
+      "label": "LOC"
+    },
+    {
+      "text": "Abandonne",
+      "start": 38961,
+      "end": 38970,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 38996,
+      "end": 39006,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 39146,
+      "end": 39151,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 39173,
+      "end": 39183,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 39286,
+      "end": 39293,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 39296,
+      "end": 39303,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 39650,
+      "end": 39657,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 39659,
+      "end": 39664,
+      "label": "LOC"
+    },
+    {
+      "text": "Oses",
+      "start": 39694,
+      "end": 39698,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 39813,
+      "end": 39823,
+      "label": "PER"
+    },
+    {
+      "text": "Aime",
+      "start": 39828,
+      "end": 39832,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 39919,
+      "end": 39929,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 39947,
+      "end": 39952,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 40266,
+      "end": 40271,
+      "label": "PER"
+    },
+    {
+      "text": "Restes",
+      "start": 40273,
+      "end": 40279,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 40982,
+      "end": 40992,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 41053,
+      "end": 41058,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 41252,
+      "end": 41257,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 41437,
+      "end": 41442,
+      "label": "LOC"
+    },
+    {
+      "text": "Fuyons",
+      "start": 41710,
+      "end": 41716,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 41806,
+      "end": 41813,
+      "label": "ORG"
+    },
+    {
+      "text": "Sieg",
+      "start": 41871,
+      "end": 41875,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 42017,
+      "end": 42027,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 42039,
+      "end": 42044,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 42350,
+      "end": 42355,
+      "label": "LOC"
+    },
+    {
+      "text": "Siegdalhen",
+      "start": 42465,
+      "end": 42475,
+      "label": "LOC"
+    },
+    {
+      "text": "Stromfiord",
+      "start": 42575,
+      "end": 42585,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 42587,
+      "end": 42597,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 42605,
+      "end": 42610,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 42639,
+      "end": 42648,
+      "label": "PER"
+    },
+    {
+      "text": "Hâtons",
+      "start": 42746,
+      "end": 42752,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 42800,
+      "end": 42805,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 43017,
+      "end": 43027,
+      "label": "PER"
+    },
+    {
+      "text": "Fiord",
+      "start": 43175,
+      "end": 43180,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 43291,
+      "end": 43297,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 43484,
+      "end": 43489,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 43507,
+      "end": 43517,
+      "label": "PER"
+    },
+    {
+      "text": "Becker",
+      "start": 43598,
+      "end": 43604,
+      "label": "PER"
+    },
+    {
+      "text": "pasteur de Jarvis",
+      "start": 43609,
+      "end": 43626,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 43682,
+      "end": 43686,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 43696,
+      "end": 43702,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 43708,
+      "end": 43718,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 43735,
+      "end": 43740,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 43759,
+      "end": 43764,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 43883,
+      "end": 43888,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 44029,
+      "end": 44039,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Becker",
+      "start": 44050,
+      "end": 44065,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 44108,
+      "end": 44118,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 44327,
+      "end": 44337,
+      "label": "PER"
+    },
+    {
+      "text": "Norwége",
+      "start": 44607,
+      "end": 44614,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 44624,
+      "end": 44629,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 44651,
+      "end": 44661,
+      "label": "PER"
+    },
+    {
+      "text": "II",
+      "start": 45525,
+      "end": 45527,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 45557,
+      "end": 45562,
+      "label": "PER"
+    },
+    {
+      "text": "SÉRAPHÎTA",
+      "start": 45624,
+      "end": 45633,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 45655,
+      "end": 45662,
+      "label": "PER"
+    },
+    {
+      "text": "Fiord",
+      "start": 46053,
+      "end": 46058,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 46064,
+      "end": 46069,
+      "label": "LOC"
+    },
+    {
+      "text": "Falberg",
+      "start": 46096,
+      "end": 46103,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 46193,
+      "end": 46200,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 46229,
+      "end": 46234,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 46236,
+      "end": 46243,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 46456,
+      "end": 46462,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 46484,
+      "end": 46493,
+      "label": "LOC"
+    },
+    {
+      "text": "Pardon",
+      "start": 46497,
+      "end": 46503,
+      "label": "LOC"
+    },
+    {
+      "text": "Parlez",
+      "start": 46544,
+      "end": 46550,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 46740,
+      "end": 46745,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 46965,
+      "end": 46972,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 47000,
+      "end": 47009,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 47138,
+      "end": 47142,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimez",
+      "start": 47342,
+      "end": 47347,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 47381,
+      "end": 47386,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 47440,
+      "end": 47447,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 47503,
+      "end": 47512,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes de qui vous me racontez",
+      "start": 47554,
+      "end": 47589,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 47603,
+      "end": 47610,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 47653,
+      "end": 47662,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 47748,
+      "end": 47752,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 47784,
+      "end": 47787,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 47875,
+      "end": 47882,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Dieu",
+      "start": 48097,
+      "end": 48107,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 48164,
+      "end": 48173,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 48210,
+      "end": 48219,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 48326,
+      "end": 48333,
+      "label": "ORG"
+    },
+    {
+      "text": "Falberg",
+      "start": 48411,
+      "end": 48418,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 48423,
+      "end": 48428,
+      "label": "LOC"
+    },
+    {
+      "text": "Méchante",
+      "start": 49444,
+      "end": 49452,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 49900,
+      "end": 49909,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 50169,
+      "end": 50176,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 50213,
+      "end": 50218,
+      "label": "LOC"
+    },
+    {
+      "text": "Savez",
+      "start": 50249,
+      "end": 50254,
+      "label": "LOC"
+    },
+    {
+      "text": "Taisez",
+      "start": 50290,
+      "end": 50296,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 50303,
+      "end": 50310,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 50418,
+      "end": 50422,
+      "label": "MISC"
+    },
+    {
+      "text": "église de Jarvis",
+      "start": 50533,
+      "end": 50549,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 50563,
+      "end": 50572,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 50642,
+      "end": 50649,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 50821,
+      "end": 50830,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 51045,
+      "end": 51052,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 51165,
+      "end": 51174,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 51292,
+      "end": 51299,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 51738,
+      "end": 51745,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 51975,
+      "end": 51981,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 52041,
+      "end": 52048,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 52054,
+      "end": 52061,
+      "label": "ORG"
+    },
+    {
+      "text": "En Haut",
+      "start": 52994,
+      "end": 53001,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous me tuez",
+      "start": 53122,
+      "end": 53134,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 53136,
+      "end": 53145,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 53539,
+      "end": 53546,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 53640,
+      "end": 53645,
+      "label": "MISC"
+    },
+    {
+      "text": "Doucha",
+      "start": 53712,
+      "end": 53718,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 53844,
+      "end": 53850,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 54099,
+      "end": 54106,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 54205,
+      "end": 54210,
+      "label": "PER"
+    },
+    {
+      "text": "Restez",
+      "start": 54214,
+      "end": 54220,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 54248,
+      "end": 54253,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 54255,
+      "end": 54261,
+      "label": "LOC"
+    },
+    {
+      "text": "Réunis",
+      "start": 54306,
+      "end": 54312,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariez",
+      "start": 54378,
+      "end": 54384,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 54487,
+      "end": 54495,
+      "label": "MISC"
+    },
+    {
+      "text": "Taisez",
+      "start": 54572,
+      "end": 54578,
+      "label": "ORG"
+    },
+    {
+      "text": "Mourez",
+      "start": 54628,
+      "end": 54634,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariez",
+      "start": 54782,
+      "end": 54788,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid, écoutez",
+      "start": 54912,
+      "end": 54928,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 54997,
+      "end": 55002,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 55155,
+      "end": 55164,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 55667,
+      "end": 55674,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 55716,
+      "end": 55725,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 56239,
+      "end": 56246,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 57186,
+      "end": 57193,
+      "label": "LOC"
+    },
+    {
+      "text": "Pardonne",
+      "start": 57456,
+      "end": 57464,
+      "label": "LOC"
+    },
+    {
+      "text": "Rafraîchis",
+      "start": 57646,
+      "end": 57656,
+      "label": "PER"
+    },
+    {
+      "text": "Comprends",
+      "start": 58357,
+      "end": 58366,
+      "label": "LOC"
+    },
+    {
+      "text": "Comprends",
+      "start": 58721,
+      "end": 58730,
+      "label": "LOC"
+    },
+    {
+      "text": "Esprit",
+      "start": 59124,
+      "end": 59130,
+      "label": "ORG"
+    },
+    {
+      "text": "Vole",
+      "start": 59135,
+      "end": 59139,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours",
+      "start": 59442,
+      "end": 59447,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 59714,
+      "end": 59718,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 59803,
+      "end": 59807,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 59944,
+      "end": 59953,
+      "label": "LOC"
+    },
+    {
+      "text": "Messagers",
+      "start": 60101,
+      "end": 60110,
+      "label": "MISC"
+    },
+    {
+      "text": "Polymnie antique",
+      "start": 60292,
+      "end": 60308,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 60340,
+      "end": 60347,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 60374,
+      "end": 60383,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 60508,
+      "end": 60515,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 60836,
+      "end": 60843,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 60867,
+      "end": 60872,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 60896,
+      "end": 60900,
+      "label": "MISC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 61202,
+      "end": 61211,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 61467,
+      "end": 61473,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 61497,
+      "end": 61502,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre",
+      "start": 61685,
+      "end": 61691,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 61853,
+      "end": 61860,
+      "label": "ORG"
+    },
+    {
+      "text": "Qu'ai je donc vu ?",
+      "start": 62114,
+      "end": 62132,
+      "label": "MISC"
+    },
+    {
+      "text": "Suis",
+      "start": 62569,
+      "end": 62573,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 62945,
+      "end": 62954,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 63271,
+      "end": 63278,
+      "label": "ORG"
+    },
+    {
+      "text": "monsieur Becker",
+      "start": 63542,
+      "end": 63557,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 63698,
+      "end": 63704,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 63763,
+      "end": 63769,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 63862,
+      "end": 63869,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 63935,
+      "end": 63940,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 63968,
+      "end": 63974,
+      "label": "PER"
+    },
+    {
+      "text": "Chimère",
+      "start": 64253,
+      "end": 64260,
+      "label": "LOC"
+    },
+    {
+      "text": "Corps et l'Esprit",
+      "start": 64681,
+      "end": 64698,
+      "label": "ORG"
+    },
+    {
+      "text": "Chimie",
+      "start": 65180,
+      "end": 65186,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 65289,
+      "end": 65296,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 65310,
+      "end": 65319,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation",
+      "start": 65448,
+      "end": 65458,
+      "label": "ORG"
+    },
+    {
+      "text": "la Prière",
+      "start": 65482,
+      "end": 65491,
+      "label": "MISC"
+    },
+    {
+      "text": "Vision emmène un artiste",
+      "start": 65527,
+      "end": 65551,
+      "label": "ORG"
+    },
+    {
+      "text": "Sommeil",
+      "start": 65559,
+      "end": 65566,
+      "label": "LOC"
+    },
+    {
+      "text": "Révélation",
+      "start": 65775,
+      "end": 65785,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 65897,
+      "end": 65904,
+      "label": "LOC"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 65931,
+      "end": 65940,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 66380,
+      "end": 66385,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 66470,
+      "end": 66476,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 66573,
+      "end": 66579,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Becker",
+      "start": 66752,
+      "end": 66767,
+      "label": "PER"
+    },
+    {
+      "text": "Norwége",
+      "start": 66976,
+      "end": 66983,
+      "label": "MISC"
+    },
+    {
+      "text": "Becker",
+      "start": 67472,
+      "end": 67478,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 67793,
+      "end": 67802,
+      "label": "PER"
+    },
+    {
+      "text": "menton",
+      "start": 68083,
+      "end": 68089,
+      "label": "LOC"
+    },
+    {
+      "text": "Minna",
+      "start": 68845,
+      "end": 68850,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 70074,
+      "end": 70081,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 71128,
+      "end": 71134,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 71211,
+      "end": 71218,
+      "label": "LOC"
+    },
+    {
+      "text": "Merci",
+      "start": 71241,
+      "end": 71246,
+      "label": "MISC"
+    },
+    {
+      "text": "Becker",
+      "start": 71262,
+      "end": 71268,
+      "label": "PER"
+    },
+    {
+      "text": "Minna frappée",
+      "start": 71367,
+      "end": 71380,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 71486,
+      "end": 71491,
+      "label": "LOC"
+    },
+    {
+      "text": "Jarvis",
+      "start": 71961,
+      "end": 71967,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 72068,
+      "end": 72077,
+      "label": "LOC"
+    },
+    {
+      "text": "Existe t",
+      "start": 72496,
+      "end": 72504,
+      "label": "PER"
+    },
+    {
+      "text": "INCANTATIONS",
+      "start": 72601,
+      "end": 72613,
+      "label": "ORG"
+    },
+    {
+      "text": "Jean Wier",
+      "start": 72617,
+      "end": 72626,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 72718,
+      "end": 72725,
+      "label": "MISC"
+    },
+    {
+      "text": "Matière",
+      "start": 73667,
+      "end": 73674,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 73958,
+      "end": 73964,
+      "label": "MISC"
+    },
+    {
+      "text": "Verbe",
+      "start": 73988,
+      "end": 73993,
+      "label": "LOC"
+    },
+    {
+      "text": "Genèses",
+      "start": 74596,
+      "end": 74603,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Jean",
+      "start": 74605,
+      "end": 74615,
+      "label": "PER"
+    },
+    {
+      "text": "Verbe",
+      "start": 74631,
+      "end": 74636,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 74646,
+      "end": 74650,
+      "label": "MISC"
+    },
+    {
+      "text": "Monde Spirituel",
+      "start": 75325,
+      "end": 75340,
+      "label": "MISC"
+    },
+    {
+      "text": "Esprit",
+      "start": 76451,
+      "end": 76457,
+      "label": "ORG"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 76829,
+      "end": 76838,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 77001,
+      "end": 77005,
+      "label": "MISC"
+    },
+    {
+      "text": "frêle",
+      "start": 77547,
+      "end": 77552,
+      "label": "PER"
+    },
+    {
+      "text": "Becker",
+      "start": 78612,
+      "end": 78618,
+      "label": "PER"
+    },
+    {
+      "text": "Wilfrid d'un air mystérieux",
+      "start": 78628,
+      "end": 78655,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 78771,
+      "end": 78778,
+      "label": "PER"
+    },
+    {
+      "text": "Hamlet",
+      "start": 78796,
+      "end": 78802,
+      "label": "PER"
+    },
+    {
+      "text": "Amoureux !",
+      "start": 79013,
+      "end": 79023,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 79031,
+      "end": 79038,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 79097,
+      "end": 79103,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 79229,
+      "end": 79234,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 79259,
+      "end": 79271,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 79965,
+      "end": 79973,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 80075,
+      "end": 80080,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 80107,
+      "end": 80111,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 80179,
+      "end": 80186,
+      "label": "ORG"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 80289,
+      "end": 80296,
+      "label": "PER"
+    },
+    {
+      "text": "Génie de la Prière",
+      "start": 80370,
+      "end": 80388,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 80448,
+      "end": 80452,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 80468,
+      "end": 80475,
+      "label": "MISC"
+    },
+    {
+      "text": "Falberg",
+      "start": 80571,
+      "end": 80578,
+      "label": "MISC"
+    },
+    {
+      "text": "Minna",
+      "start": 80678,
+      "end": 80683,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 81044,
+      "end": 81049,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 81145,
+      "end": 81152,
+      "label": "PER"
+    },
+    {
+      "text": "Minna",
+      "start": 81217,
+      "end": 81222,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 81385,
+      "end": 81391,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 81413,
+      "end": 81422,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher hôte",
+      "start": 81512,
+      "end": 81525,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 82018,
+      "end": 82020,
+      "label": "MISC"
+    },
+    {
+      "text": "SÉRAPHÎTÜS",
+      "start": 82087,
+      "end": 82097,
+      "label": "ORG"
+    },
+    {
+      "text": "Emmanuel de SWEDENBORG",
+      "start": 82200,
+      "end": 82222,
+      "label": "PER"
+    },
+    {
+      "text": "Upsal",
+      "start": 82232,
+      "end": 82237,
+      "label": "LOC"
+    },
+    {
+      "text": "Suède",
+      "start": 82242,
+      "end": 82247,
+      "label": "LOC"
+    },
+    {
+      "text": "Skara",
+      "start": 82361,
+      "end": 82366,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 82368,
+      "end": 82378,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 82435,
+      "end": 82442,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 82556,
+      "end": 82566,
+      "label": "PER"
+    },
+    {
+      "text": "Jarvis",
+      "start": 82583,
+      "end": 82589,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82595,
+      "end": 82600,
+      "label": "LOC"
+    },
+    {
+      "text": "Permettez",
+      "start": 82631,
+      "end": 82640,
+      "label": "MISC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 82660,
+      "end": 82667,
+      "label": "PER"
+    },
+    {
+      "text": "Becker",
+      "start": 82682,
+      "end": 82688,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 82798,
+      "end": 82805,
+      "label": "LOC"
+    },
+    {
+      "text": "Emmanuel Swedenborg",
+      "start": 83027,
+      "end": 83046,
+      "label": "PER"
+    },
+    {
+      "text": "Emmanuel de Swedenborg",
+      "start": 83118,
+      "end": 83140,
+      "label": "PER"
+    },
+    {
+      "text": "Suède",
+      "start": 83317,
+      "end": 83322,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartarie",
+      "start": 84136,
+      "end": 84144,
+      "label": "LOC"
+    },
+    {
+      "text": "GUERRES DE JEHOVAH",
+      "start": 84203,
+      "end": 84221,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉNONCÉS",
+      "start": 84230,
+      "end": 84237,
+      "label": "ORG"
+    },
+    {
+      "text": "Moïse",
+      "start": 84260,
+      "end": 84265,
+      "label": "PER"
+    },
+    {
+      "text": "NOMBRES",
+      "start": 84275,
+      "end": 84282,
+      "label": "MISC"
+    },
+    {
+      "text": "XXI",
+      "start": 84284,
+      "end": 84287,
+      "label": "MISC"
+    },
+    {
+      "text": "Josué",
+      "start": 84309,
+      "end": 84314,
+      "label": "PER"
+    },
+    {
+      "text": "Jérémie",
+      "start": 84320,
+      "end": 84327,
+      "label": "PER"
+    },
+    {
+      "text": "Samuel",
+      "start": 84335,
+      "end": 84341,
+      "label": "PER"
+    },
+    {
+      "text": "GUERRES DE JEHOVAH",
+      "start": 84347,
+      "end": 84365,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉNONCÉS",
+      "start": 84404,
+      "end": 84411,
+      "label": "ORG"
+    },
+    {
+      "text": "GENÈSE",
+      "start": 84461,
+      "end": 84467,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 84469,
+      "end": 84479,
+      "label": "PER"
+    },
+    {
+      "text": "JASCHAR",
+      "start": 84503,
+      "end": 84510,
+      "label": "ORG"
+    },
+    {
+      "text": "LIVRE DU JUSTE",
+      "start": 84517,
+      "end": 84531,
+      "label": "MISC"
+    },
+    {
+      "text": "Josué",
+      "start": 84547,
+      "end": 84552,
+      "label": "PER"
+    },
+    {
+      "text": "Tartarie Orientale",
+      "start": 84571,
+      "end": 84589,
+      "label": "LOC"
+    },
+    {
+      "text": "culte des Correspondances",
+      "start": 84599,
+      "end": 84624,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 84629,
+      "end": 84637,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 84686,
+      "end": 84696,
+      "label": "PER"
+    },
+    {
+      "text": "Bagdad",
+      "start": 84726,
+      "end": 84732,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bible",
+      "start": 84754,
+      "end": 84762,
+      "label": "MISC"
+    },
+    {
+      "text": "Europe",
+      "start": 84776,
+      "end": 84782,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 84860,
+      "end": 84865,
+      "label": "LOC"
+    },
+    {
+      "text": "Thomé",
+      "start": 84963,
+      "end": 84968,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 84990,
+      "end": 85000,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 85069,
+      "end": 85082,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 85195,
+      "end": 85205,
+      "label": "PER"
+    },
+    {
+      "text": "Thomé",
+      "start": 85251,
+      "end": 85256,
+      "label": "PER"
+    },
+    {
+      "text": "Suédois",
+      "start": 85378,
+      "end": 85385,
+      "label": "PER"
+    },
+    {
+      "text": "Thomé",
+      "start": 85508,
+      "end": 85513,
+      "label": "PER"
+    },
+    {
+      "text": "THÉORIE",
+      "start": 85539,
+      "end": 85546,
+      "label": "ORG"
+    },
+    {
+      "text": "Buffon",
+      "start": 85563,
+      "end": 85569,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 85734,
+      "end": 85744,
+      "label": "PER"
+    },
+    {
+      "text": "Mesmer",
+      "start": 86300,
+      "end": 86306,
+      "label": "PER"
+    },
+    {
+      "text": "Becker",
+      "start": 86344,
+      "end": 86350,
+      "label": "PER"
+    },
+    {
+      "text": "Œuvres Philosophiques",
+      "start": 86527,
+      "end": 86548,
+      "label": "MISC"
+    },
+    {
+      "text": "Minéralogiques",
+      "start": 86552,
+      "end": 86566,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 86676,
+      "end": 86686,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 86719,
+      "end": 86729,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphîta",
+      "start": 86751,
+      "end": 86760,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 86771,
+      "end": 86781,
+      "label": "PER"
+    },
+    {
+      "text": "Ciel",
+      "start": 86952,
+      "end": 86956,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 87018,
+      "end": 87025,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 87393,
+      "end": 87397,
+      "label": "MISC"
+    },
+    {
+      "text": "ANGE",
+      "start": 87552,
+      "end": 87556,
+      "label": "ORG"
+    },
+    {
+      "text": "Ciel",
+      "start": 87689,
+      "end": 87693,
+      "label": "LOC"
+    },
+    {
+      "text": "Esprits",
+      "start": 87713,
+      "end": 87720,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfers",
+      "start": 87733,
+      "end": 87739,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 87926,
+      "end": 87936,
+      "label": "PER"
+    },
+    {
+      "text": "Esprits",
+      "start": 87970,
+      "end": 87977,
+      "label": "MISC"
+    },
+    {
+      "text": "Envoyé de Dieu",
+      "start": 88008,
+      "end": 88022,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 88441,
+      "end": 88448,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 88504,
+      "end": 88509,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 88753,
+      "end": 88763,
+      "label": "PER"
+    },
+    {
+      "text": "Gothembourg",
+      "start": 88960,
+      "end": 88971,
+      "label": "LOC"
+    },
+    {
+      "text": "Stockholm",
+      "start": 89007,
+      "end": 89016,
+      "label": "LOC"
+    },
+    {
+      "text": "Stockholm",
+      "start": 89115,
+      "end": 89124,
+      "label": "LOC"
+    },
+    {
+      "text": "Berlin",
+      "start": 89223,
+      "end": 89229,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 89417,
+      "end": 89427,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 89516,
+      "end": 89526,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 89809,
+      "end": 89819,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 89887,
+      "end": 89894,
+      "label": "LOC"
+    },
+    {
+      "text": "Dixon",
+      "start": 89924,
+      "end": 89929,
+      "label": "PER"
+    },
+    {
+      "text": "port de Stockholm",
+      "start": 90100,
+      "end": 90117,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 90163,
+      "end": 90173,
+      "label": "PER"
+    },
+    {
+      "text": "ASTRALES",
+      "start": 90439,
+      "end": 90447,
+      "label": "MISC"
+    },
+    {
+      "text": "des Orientaux",
+      "start": 90764,
+      "end": 90777,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 90989,
+      "end": 90999,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 91118,
+      "end": 91122,
+      "label": "MISC"
+    },
+    {
+      "text": "Klopstock",
+      "start": 91180,
+      "end": 91189,
+      "label": "LOC"
+    },
+    {
+      "text": "Milton",
+      "start": 91194,
+      "end": 91200,
+      "label": "PER"
+    },
+    {
+      "text": "Tasse",
+      "start": 91205,
+      "end": 91210,
+      "label": "PER"
+    },
+    {
+      "text": "Dante",
+      "start": 91217,
+      "end": 91222,
+      "label": "PER"
+    },
+    {
+      "text": "ASTRALES",
+      "start": 91285,
+      "end": 91293,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 91373,
+      "end": 91383,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Silverichm",
+      "start": 91442,
+      "end": 91461,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Séraphîtüs",
+      "start": 91481,
+      "end": 91500,
+      "label": "PER"
+    },
+    {
+      "text": "Ange",
+      "start": 91717,
+      "end": 91721,
+      "label": "ORG"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 91731,
+      "end": 91741,
+      "label": "PER"
+    },
+    {
+      "text": "Jupiter",
+      "start": 91935,
+      "end": 91942,
+      "label": "LOC"
+    },
+    {
+      "text": "Mercure",
+      "start": 92011,
+      "end": 92018,
+      "label": "LOC"
+    },
+    {
+      "text": "Saturne",
+      "start": 92137,
+      "end": 92144,
+      "label": "LOC"
+    },
+    {
+      "text": "Lune",
+      "start": 92209,
+      "end": 92213,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénus",
+      "start": 92310,
+      "end": 92315,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 92888,
+      "end": 92894,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 93025,
+      "end": 93027,
+      "label": "MISC"
+    },
+    {
+      "text": "Terres Astrales",
+      "start": 93088,
+      "end": 93103,
+      "label": "PER"
+    },
+    {
+      "text": "Esprits Angéliques",
+      "start": 93288,
+      "end": 93306,
+      "label": "ORG"
+    },
+    {
+      "text": "Séraphîtüs",
+      "start": 93426,
+      "end": 93436,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 93458,
+      "end": 93468,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 93614,
+      "end": 93622,
+      "label": "LOC"
+    },
+    {
+      "text": "Beylon",
+      "start": 93690,
+      "end": 93696,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 93698,
+      "end": 93708,
+      "label": "PER"
+    },
+    {
+      "text": "Suède",
+      "start": 93797,
+      "end": 93802,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 93821,
+      "end": 93827,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Léonhard de Stahlhammer",
+      "start": 93990,
+      "end": 94021,
+      "label": "PER"
+    },
+    {
+      "text": "Épée",
+      "start": 94072,
+      "end": 94076,
+      "label": "LOC"
+    },
+    {
+      "text": "Wilfrid",
+      "start": 94239,
+      "end": 94246,
+      "label": "LOC"
+    },
+    {
+      "text": "Stockholm",
+      "start": 94291,
+      "end": 94300,
+      "label": "LOC"
+    },
+    {
+      "text": "J'ai lu",
+      "start": 94317,
+      "end": 94324,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 94394,
+      "end": 94404,
+      "label": "PER"
+    },
+    {
+      "text": "Louise Ulrique",
+      "start": 94419,
+      "end": 94433,
+      "label": "PER"
+    },
+    {
+      "text": "Prusse",
+      "start": 94744,
+      "end": 94750,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 94752,
+      "end": 94762,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 94945,
+      "end": 94955,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 95288,
+      "end": 95298,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre Blanche",
+      "start": 95416,
+      "end": 95431,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 95505,
+      "end": 95515,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 95798,
+      "end": 95802,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 96019,
+      "end": 96029,
+      "label": "PER"
+    },
+    {
+      "text": "H",
+      "start": 96129,
+      "end": 96130,
+      "label": "PER"
+    },
+    {
+      "text": "comte H",
+      "start": 96468,
+      "end": 96475,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 96969,
+      "end": 96979,
+      "label": "PER"
+    },
+    {
+      "text": "Beylon",
+      "start": 97440,
+      "end": 97446,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 97530,
+      "end": 97540,
+      "label": "PER"
+    },
+    {
+      "text": "comtes H",
+      "start": 97550,
+      "end": 97558,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 97691,
+      "end": 97701,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 97935,
+      "end": 97945,
+      "label": "PER"
+    },
+    {
+      "text": "de Suède",
+      "start": 97982,
+      "end": 97990,
+      "label": "LOC"
+    },
+    {
+      "text": "Prusse",
+      "start": 97997,
+      "end": 98003,
+      "label": "LOC"
+    },
+    {
+      "text": "Becker",
+      "start": 98115,
+      "end": 98121,
+      "label": "PER"
+    },
+    {
+      "text": "Voyants",
+      "start": 98705,
+      "end": 98712,
+      "label": "LOC"
+    },
+    {
+      "text": "Matthésius",
+      "start": 98903,
+      "end": 98913,
+      "label": "PER"
+    },
+    {
+      "text": "Matthésius",
+      "start": 98967,
+      "end": 98977,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 98989,
+      "end": 98999,
+      "label": "PER"
+    },
+    {
+      "text": "Stockholm",
+      "start": 99091,
+      "end": 99100,
+      "label": "LOC"
+    },
+    {
+      "text": "Suède",
+      "start": 99141,
+      "end": 99146,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 99159,
+      "end": 99169,
+      "label": "PER"
+    },
+    {
+      "text": "Académie royale des sciences à Stockholm",
+      "start": 99288,
+      "end": 99328,
+      "label": "ORG"
+    },
+    {
+      "text": "Sandel",
+      "start": 99345,
+      "end": 99351,
+      "label": "PER"
+    },
+    {
+      "text": "Mines",
+      "start": 99379,
+      "end": 99384,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 99444,
+      "end": 99451,
+      "label": "LOC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 99523,
+      "end": 99533,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Férélius",
+      "start": 99561,
+      "end": 99578,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 99705,
+      "end": 99715,
+      "label": "PER"
+    },
+    {
+      "text": "Férélius",
+      "start": 99789,
+      "end": 99797,
+      "label": "PER"
+    },
+    {
+      "text": "Cinq heures",
+      "start": 99951,
+      "end": 99962,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 99983,
+      "end": 99988,
+      "label": "LOC"
+    }
+  ]
+}

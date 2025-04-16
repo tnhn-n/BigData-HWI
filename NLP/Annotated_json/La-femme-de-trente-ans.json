@@ -1,0 +1,2656 @@
+{
+  "entities": [
+    {
+      "text": "FEMME DE TRENTE ANS",
+      "start": 3,
+      "end": 22,
+      "label": "MISC"
+    },
+    {
+      "text": "PEINTRE",
+      "start": 55,
+      "end": 62,
+      "label": "MISC"
+    },
+    {
+      "text": "FAUTES",
+      "start": 82,
+      "end": 88,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 204,
+      "end": 213,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Rivoli",
+      "start": 384,
+      "end": 397,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Castiglione",
+      "start": 405,
+      "end": 420,
+      "label": "LOC"
+    },
+    {
+      "text": "Feuillants",
+      "start": 536,
+      "end": 546,
+      "label": "ORG"
+    },
+    {
+      "text": "château des Tuileries",
+      "start": 3059,
+      "end": 3080,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 3886,
+      "end": 3894,
+      "label": "PER"
+    },
+    {
+      "text": "Bessières",
+      "start": 3979,
+      "end": 3988,
+      "label": "PER"
+    },
+    {
+      "text": "Duroc",
+      "start": 3992,
+      "end": 3997,
+      "label": "PER"
+    },
+    {
+      "text": "Lutzen",
+      "start": 4034,
+      "end": 4040,
+      "label": "LOC"
+    },
+    {
+      "text": "Bautzen",
+      "start": 4047,
+      "end": 4054,
+      "label": "MISC"
+    },
+    {
+      "text": "Autriche",
+      "start": 4076,
+      "end": 4084,
+      "label": "LOC"
+    },
+    {
+      "text": "Saxe",
+      "start": 4089,
+      "end": 4093,
+      "label": "LOC"
+    },
+    {
+      "text": "Bavière",
+      "start": 4098,
+      "end": 4105,
+      "label": "LOC"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 4111,
+      "end": 4121,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Leipsick",
+      "start": 4147,
+      "end": 4167,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 4295,
+      "end": 4304,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 4561,
+      "end": 4570,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 4776,
+      "end": 4785,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 4856,
+      "end": 4862,
+      "label": "MISC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 5024,
+      "end": 5033,
+      "label": "LOC"
+    },
+    {
+      "text": "jardin des Tuileries",
+      "start": 6064,
+      "end": 6084,
+      "label": "LOC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 6093,
+      "end": 6102,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 6525,
+      "end": 6530,
+      "label": "MISC"
+    },
+    {
+      "text": "Restons",
+      "start": 6580,
+      "end": 6587,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 7004,
+      "end": 7009,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 7713,
+      "end": 7721,
+      "label": "PER"
+    },
+    {
+      "text": "L'empereur",
+      "start": 7813,
+      "end": 7823,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 7974,
+      "end": 7979,
+      "label": "LOC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 8016,
+      "end": 8025,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 8027,
+      "end": 8032,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 8258,
+      "end": 8267,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 8506,
+      "end": 8511,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 8527,
+      "end": 8533,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 8576,
+      "end": 8581,
+      "label": "MISC"
+    },
+    {
+      "text": "souleva",
+      "start": 8602,
+      "end": 8609,
+      "label": "LOC"
+    },
+    {
+      "text": "Mameluck",
+      "start": 8840,
+      "end": 8848,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 8852,
+      "end": 8860,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 9356,
+      "end": 9361,
+      "label": "PER"
+    },
+    {
+      "text": "Carrousel",
+      "start": 9981,
+      "end": 9990,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 9998,
+      "end": 10003,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 10300,
+      "end": 10305,
+      "label": "PER"
+    },
+    {
+      "text": "Carrousel",
+      "start": 10417,
+      "end": 10426,
+      "label": "LOC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 10739,
+      "end": 10748,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 10885,
+      "end": 10894,
+      "label": "LOC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 11162,
+      "end": 11171,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 11418,
+      "end": 11424,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 11481,
+      "end": 11487,
+      "label": "LOC"
+    },
+    {
+      "text": "palais de la Belle au bois dormant",
+      "start": 13329,
+      "end": 13363,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 13858,
+      "end": 13867,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 13894,
+      "end": 13902,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 14019,
+      "end": 14027,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 14234,
+      "end": 14242,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 14267,
+      "end": 14276,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 14669,
+      "end": 14677,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 14681,
+      "end": 14690,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 14791,
+      "end": 14799,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 14812,
+      "end": 14821,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 15427,
+      "end": 15443,
+      "label": "ORG"
+    },
+    {
+      "text": "L'Homme fut aperçu",
+      "start": 15504,
+      "end": 15522,
+      "label": "MISC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 16018,
+      "end": 16027,
+      "label": "LOC"
+    },
+    {
+      "text": "Vive l'empereur",
+      "start": 16114,
+      "end": 16129,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 16229,
+      "end": 16237,
+      "label": "PER"
+    },
+    {
+      "text": "Vive l'empereur",
+      "start": 16502,
+      "end": 16517,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 17039,
+      "end": 17043,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 17048,
+      "end": 17052,
+      "label": "MISC"
+    },
+    {
+      "text": "Wagram",
+      "start": 17061,
+      "end": 17067,
+      "label": "LOC"
+    },
+    {
+      "text": "Moscowa",
+      "start": 17091,
+      "end": 17098,
+      "label": "LOC"
+    },
+    {
+      "text": "Baptiste",
+      "start": 17149,
+      "end": 17157,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 17281,
+      "end": 17286,
+      "label": "PER"
+    },
+    {
+      "text": "L'empereur",
+      "start": 17417,
+      "end": 17427,
+      "label": "PER"
+    },
+    {
+      "text": "Duroc",
+      "start": 17443,
+      "end": 17448,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 17636,
+      "end": 17644,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 17987,
+      "end": 17995,
+      "label": "PER"
+    },
+    {
+      "text": "Océan courroucé",
+      "start": 18680,
+      "end": 18695,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 18905,
+      "end": 18910,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 18986,
+      "end": 18992,
+      "label": "PER"
+    },
+    {
+      "text": "Rapp",
+      "start": 19013,
+      "end": 19017,
+      "label": "MISC"
+    },
+    {
+      "text": "Bataille d'Austerlitz",
+      "start": 19040,
+      "end": 19061,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor d'Aiglemont",
+      "start": 19166,
+      "end": 19184,
+      "label": "PER"
+    },
+    {
+      "text": "brune",
+      "start": 19432,
+      "end": 19437,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 20134,
+      "end": 20143,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 20537,
+      "end": 20545,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 20547,
+      "end": 20552,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 20683,
+      "end": 20689,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 20895,
+      "end": 20900,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 21098,
+      "end": 21106,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 21155,
+      "end": 21160,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 21325,
+      "end": 21331,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 21728,
+      "end": 21733,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 21992,
+      "end": 21997,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 22178,
+      "end": 22187,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 22253,
+      "end": 22258,
+      "label": "MISC"
+    },
+    {
+      "text": "jardin des Tuileries",
+      "start": 22391,
+      "end": 22411,
+      "label": "LOC"
+    },
+    {
+      "text": "Carrousel",
+      "start": 22474,
+      "end": 22483,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 22611,
+      "end": 22619,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 22622,
+      "end": 22631,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 22710,
+      "end": 22715,
+      "label": "PER"
+    },
+    {
+      "text": "Souffrez",
+      "start": 22858,
+      "end": 22866,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 22883,
+      "end": 22892,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 23106,
+      "end": 23112,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 23160,
+      "end": 23164,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 23588,
+      "end": 23592,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 23667,
+      "end": 23672,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 23896,
+      "end": 23901,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 24544,
+      "end": 24548,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 24698,
+      "end": 24702,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 25464,
+      "end": 25470,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère",
+      "start": 26122,
+      "end": 26130,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 26132,
+      "end": 26138,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 26350,
+      "end": 26355,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 26465,
+      "end": 26474,
+      "label": "LOC"
+    },
+    {
+      "text": "ta mère",
+      "start": 26531,
+      "end": 26538,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 26988,
+      "end": 26994,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 27099,
+      "end": 27104,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 27341,
+      "end": 27346,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 27753,
+      "end": 27759,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 28530,
+      "end": 28536,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 28745,
+      "end": 28750,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 29090,
+      "end": 29095,
+      "label": "MISC"
+    },
+    {
+      "text": "Amboise",
+      "start": 29232,
+      "end": 29239,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 29242,
+      "end": 29247,
+      "label": "LOC"
+    },
+    {
+      "text": "Frillière",
+      "start": 29325,
+      "end": 29334,
+      "label": "LOC"
+    },
+    {
+      "text": "Cise",
+      "start": 29436,
+      "end": 29440,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 29482,
+      "end": 29487,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 29882,
+      "end": 29887,
+      "label": "LOC"
+    },
+    {
+      "text": "Cise",
+      "start": 29963,
+      "end": 29967,
+      "label": "LOC"
+    },
+    {
+      "text": "la Loire",
+      "start": 30135,
+      "end": 30143,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 30541,
+      "end": 30549,
+      "label": "LOC"
+    },
+    {
+      "text": "du Cher",
+      "start": 30660,
+      "end": 30667,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 30824,
+      "end": 30829,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 30844,
+      "end": 30850,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 31136,
+      "end": 31141,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 31150,
+      "end": 31155,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 31378,
+      "end": 31385,
+      "label": "LOC"
+    },
+    {
+      "text": "pont de la Cise",
+      "start": 31502,
+      "end": 31517,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 31528,
+      "end": 31535,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 31544,
+      "end": 31549,
+      "label": "LOC"
+    },
+    {
+      "text": "jupon rouge",
+      "start": 31836,
+      "end": 31847,
+      "label": "ORG"
+    },
+    {
+      "text": "Loire",
+      "start": 32613,
+      "end": 32618,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 32645,
+      "end": 32653,
+      "label": "LOC"
+    },
+    {
+      "text": "pont de la Cise",
+      "start": 33001,
+      "end": 33016,
+      "label": "LOC"
+    },
+    {
+      "text": "Les oiseaux",
+      "start": 33245,
+      "end": 33256,
+      "label": "MISC"
+    },
+    {
+      "text": "Touraine",
+      "start": 33587,
+      "end": 33595,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 33672,
+      "end": 33681,
+      "label": "LOC"
+    },
+    {
+      "text": "Invasion",
+      "start": 33828,
+      "end": 33836,
+      "label": "MISC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 34097,
+      "end": 34107,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 34388,
+      "end": 34393,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 34395,
+      "end": 34400,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 34494,
+      "end": 34499,
+      "label": "PER"
+    },
+    {
+      "text": "Julie d'Aiglemont",
+      "start": 34717,
+      "end": 34734,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 34833,
+      "end": 34842,
+      "label": "LOC"
+    },
+    {
+      "text": "du Cher",
+      "start": 35312,
+      "end": 35319,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 35324,
+      "end": 35329,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 35343,
+      "end": 35348,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 35373,
+      "end": 35380,
+      "label": "MISC"
+    },
+    {
+      "text": "Cise",
+      "start": 35438,
+      "end": 35442,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 35664,
+      "end": 35669,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 35705,
+      "end": 35709,
+      "label": "MISC"
+    },
+    {
+      "text": "Souffres",
+      "start": 35755,
+      "end": 35763,
+      "label": "LOC"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 35794,
+      "end": 35803,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor d'Aiglemont",
+      "start": 35985,
+      "end": 36003,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 36110,
+      "end": 36115,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 36766,
+      "end": 36773,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 36792,
+      "end": 36796,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 36801,
+      "end": 36805,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 36902,
+      "end": 36911,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 36992,
+      "end": 37000,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 37017,
+      "end": 37024,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint James",
+      "start": 37105,
+      "end": 37116,
+      "label": "PER"
+    },
+    {
+      "text": "traité d'Amiens",
+      "start": 37139,
+      "end": 37154,
+      "label": "MISC"
+    },
+    {
+      "text": "Touraine",
+      "start": 37384,
+      "end": 37392,
+      "label": "LOC"
+    },
+    {
+      "text": "Relations Extérieures",
+      "start": 37684,
+      "end": 37705,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpellier",
+      "start": 37735,
+      "end": 37746,
+      "label": "LOC"
+    },
+    {
+      "text": "comte d'Aiglemont",
+      "start": 37914,
+      "end": 37931,
+      "label": "PER"
+    },
+    {
+      "text": "Cise",
+      "start": 38033,
+      "end": 38037,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 38050,
+      "end": 38057,
+      "label": "MISC"
+    },
+    {
+      "text": "Soult",
+      "start": 38152,
+      "end": 38157,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 38678,
+      "end": 38683,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 39001,
+      "end": 39008,
+      "label": "MISC"
+    },
+    {
+      "text": "abbaye de Marmoutiers",
+      "start": 39114,
+      "end": 39135,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Martin",
+      "start": 39152,
+      "end": 39164,
+      "label": "PER"
+    },
+    {
+      "text": "pont de la Cise",
+      "start": 39292,
+      "end": 39307,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 39342,
+      "end": 39349,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 39540,
+      "end": 39547,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 40010,
+      "end": 40020,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 40124,
+      "end": 40129,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 40294,
+      "end": 40299,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 40335,
+      "end": 40342,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 40468,
+      "end": 40469,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 40783,
+      "end": 40788,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 40959,
+      "end": 40964,
+      "label": "MISC"
+    },
+    {
+      "text": "sommeilla",
+      "start": 40981,
+      "end": 40990,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 40992,
+      "end": 41010,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 41314,
+      "end": 41321,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal Soult",
+      "start": 41521,
+      "end": 41535,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 41558,
+      "end": 41567,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 41596,
+      "end": 41603,
+      "label": "LOC"
+    },
+    {
+      "text": "Béarn",
+      "start": 41612,
+      "end": 41617,
+      "label": "LOC"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 41632,
+      "end": 41641,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41724,
+      "end": 41729,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 41750,
+      "end": 41755,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 41828,
+      "end": 41833,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Rue",
+      "start": 41856,
+      "end": 41866,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Listomère",
+      "start": 41962,
+      "end": 41983,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 42215,
+      "end": 42223,
+      "label": "PER"
+    },
+    {
+      "text": "guerre d'Espagne",
+      "start": 42706,
+      "end": 42722,
+      "label": "MISC"
+    },
+    {
+      "text": "Galerie",
+      "start": 42765,
+      "end": 42772,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonjour",
+      "start": 42990,
+      "end": 42997,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma Julie",
+      "start": 43178,
+      "end": 43186,
+      "label": "PER"
+    },
+    {
+      "text": "Mauvais",
+      "start": 43316,
+      "end": 43323,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 43460,
+      "end": 43465,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 44435,
+      "end": 44439,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 44617,
+      "end": 44623,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 44684,
+      "end": 44689,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 44776,
+      "end": 44782,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 44910,
+      "end": 44914,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 44930,
+      "end": 44935,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 45019,
+      "end": 45025,
+      "label": "MISC"
+    },
+    {
+      "text": "Hélas !",
+      "start": 45153,
+      "end": 45160,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 45161,
+      "end": 45167,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 45178,
+      "end": 45183,
+      "label": "MISC"
+    },
+    {
+      "text": "Duclos",
+      "start": 45410,
+      "end": 45416,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 45423,
+      "end": 45444,
+      "label": "PER"
+    },
+    {
+      "text": "Provençale",
+      "start": 45726,
+      "end": 45736,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 45837,
+      "end": 45846,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 46015,
+      "end": 46021,
+      "label": "PER"
+    },
+    {
+      "text": "Madame d'Aiglemont",
+      "start": 46075,
+      "end": 46093,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Listomère",
+      "start": 46205,
+      "end": 46224,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 46253,
+      "end": 46258,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 46426,
+      "end": 46444,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 46782,
+      "end": 46792,
+      "label": "LOC"
+    },
+    {
+      "text": "Honteuse",
+      "start": 47719,
+      "end": 47727,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 47780,
+      "end": 47785,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma chère petite",
+      "start": 47837,
+      "end": 47852,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Listomère",
+      "start": 48069,
+      "end": 48088,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 48491,
+      "end": 48496,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 49040,
+      "end": 49045,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 49299,
+      "end": 49318,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 49540,
+      "end": 49558,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 49707,
+      "end": 49712,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 49933,
+      "end": 49939,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 50210,
+      "end": 50215,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 50467,
+      "end": 50473,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Listomère",
+      "start": 50475,
+      "end": 50494,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 50708,
+      "end": 50713,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 50777,
+      "end": 50782,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame d'Aiglemont",
+      "start": 50825,
+      "end": 50843,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 50926,
+      "end": 50933,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur Ormond",
+      "start": 50963,
+      "end": 50976,
+      "label": "PER"
+    },
+    {
+      "text": "lord Grenville",
+      "start": 50991,
+      "end": 51005,
+      "label": "PER"
+    },
+    {
+      "text": "Montpellier",
+      "start": 51052,
+      "end": 51063,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 51261,
+      "end": 51270,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 51366,
+      "end": 51373,
+      "label": "LOC"
+    },
+    {
+      "text": "Régent",
+      "start": 51603,
+      "end": 51609,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Arthur",
+      "start": 51646,
+      "end": 51661,
+      "label": "MISC"
+    },
+    {
+      "text": "Montpellier",
+      "start": 51721,
+      "end": 51732,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 51959,
+      "end": 51965,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 52008,
+      "end": 52013,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 52531,
+      "end": 52536,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 52779,
+      "end": 52784,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 53069,
+      "end": 53074,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 53205,
+      "end": 53211,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 53249,
+      "end": 53256,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 53355,
+      "end": 53360,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 53401,
+      "end": 53409,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 53566,
+      "end": 53571,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 54028,
+      "end": 54033,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 54343,
+      "end": 54348,
+      "label": "PER"
+    },
+    {
+      "text": "Sais",
+      "start": 54712,
+      "end": 54716,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 55219,
+      "end": 55228,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 55408,
+      "end": 55413,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère Louisa",
+      "start": 55552,
+      "end": 55567,
+      "label": "PER"
+    },
+    {
+      "text": "Louisa",
+      "start": 56061,
+      "end": 56067,
+      "label": "PER"
+    },
+    {
+      "text": "marie toi",
+      "start": 56113,
+      "end": 56122,
+      "label": "PER"
+    },
+    {
+      "text": "Écouen",
+      "start": 56252,
+      "end": 56258,
+      "label": "LOC"
+    },
+    {
+      "text": "Louisa",
+      "start": 57025,
+      "end": 57031,
+      "label": "PER"
+    },
+    {
+      "text": "Victor d'Aiglemont",
+      "start": 57257,
+      "end": 57275,
+      "label": "PER"
+    },
+    {
+      "text": "Restée",
+      "start": 57841,
+      "end": 57847,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 57964,
+      "end": 57970,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 58867,
+      "end": 58872,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 59099,
+      "end": 59102,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 59426,
+      "end": 59432,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 59812,
+      "end": 59817,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 60114,
+      "end": 60119,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 60406,
+      "end": 60410,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 60426,
+      "end": 60432,
+      "label": "PER"
+    },
+    {
+      "text": "Hélas !",
+      "start": 60700,
+      "end": 60707,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 60981,
+      "end": 60985,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes",
+      "start": 61076,
+      "end": 61079,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 61398,
+      "end": 61404,
+      "label": "PER"
+    },
+    {
+      "text": "Enfantillages",
+      "start": 61433,
+      "end": 61446,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 61719,
+      "end": 61725,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 61839,
+      "end": 61844,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 61907,
+      "end": 61913,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 62027,
+      "end": 62029,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 62079,
+      "end": 62083,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 63163,
+      "end": 63168,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 63466,
+      "end": 63472,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez ma mère !",
+      "start": 63685,
+      "end": 63700,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 63729,
+      "end": 63742,
+      "label": "MISC"
+    },
+    {
+      "text": "Terreur",
+      "start": 63850,
+      "end": 63857,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 65114,
+      "end": 65121,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur",
+      "start": 65499,
+      "end": 65505,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 65878,
+      "end": 65885,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur",
+      "start": 66000,
+      "end": 66006,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 66129,
+      "end": 66134,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthur",
+      "start": 66140,
+      "end": 66146,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 66252,
+      "end": 66259,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 66318,
+      "end": 66323,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 66414,
+      "end": 66421,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 66483,
+      "end": 66485,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 66936,
+      "end": 66941,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 67042,
+      "end": 67048,
+      "label": "PER"
+    },
+    {
+      "text": "de Bourges",
+      "start": 67075,
+      "end": 67085,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 67180,
+      "end": 67186,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 67279,
+      "end": 67284,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 67331,
+      "end": 67339,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 67363,
+      "end": 67372,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 67416,
+      "end": 67421,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 67461,
+      "end": 67468,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie de Tours",
+      "start": 67585,
+      "end": 67599,
+      "label": "PER"
+    },
+    {
+      "text": "Orléans",
+      "start": 67602,
+      "end": 67609,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 67621,
+      "end": 67627,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 67652,
+      "end": 67658,
+      "label": "PER"
+    },
+    {
+      "text": "Prussiens",
+      "start": 67726,
+      "end": 67735,
+      "label": "LOC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 67741,
+      "end": 67752,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 67760,
+      "end": 67767,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 67795,
+      "end": 67800,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 67806,
+      "end": 67813,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 67966,
+      "end": 67971,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 68036,
+      "end": 68044,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 68202,
+      "end": 68208,
+      "label": "PER"
+    },
+    {
+      "text": "Blois",
+      "start": 68481,
+      "end": 68486,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 68488,
+      "end": 68493,
+      "label": "LOC"
+    },
+    {
+      "text": "Amboise",
+      "start": 68591,
+      "end": 68598,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur",
+      "start": 68715,
+      "end": 68721,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 69550,
+      "end": 69557,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 69695,
+      "end": 69700,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 69762,
+      "end": 69768,
+      "label": "PER"
+    },
+    {
+      "text": "Orléans",
+      "start": 69955,
+      "end": 69962,
+      "label": "LOC"
+    },
+    {
+      "text": "Prussiens",
+      "start": 70003,
+      "end": 70012,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 70681,
+      "end": 70687,
+      "label": "PER"
+    },
+    {
+      "text": "agréez",
+      "start": 70709,
+      "end": 70715,
+      "label": "PER"
+    },
+    {
+      "text": "Arthur",
+      "start": 71006,
+      "end": 71012,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 71113,
+      "end": 71120,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 71157,
+      "end": 71162,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 71200,
+      "end": 71218,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 71229,
+      "end": 71234,
+      "label": "LOC"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 71376,
+      "end": 71390,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 71441,
+      "end": 71452,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 71454,
+      "end": 71460,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 71601,
+      "end": 71609,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 71690,
+      "end": 71695,
+      "label": "MISC"
+    },
+    {
+      "text": "Tours",
+      "start": 71822,
+      "end": 71827,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 71831,
+      "end": 71846,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 71914,
+      "end": 71920,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 72425,
+      "end": 72430,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 72521,
+      "end": 72530,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 72539,
+      "end": 72551,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 74456,
+      "end": 74460,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine II",
+      "start": 74896,
+      "end": 74908,
+      "label": "PER"
+    },
+    {
+      "text": "la Grande",
+      "start": 74927,
+      "end": 74936,
+      "label": "MISC"
+    },
+    {
+      "text": "Celles",
+      "start": 75112,
+      "end": 75118,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 75416,
+      "end": 75421,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 75432,
+      "end": 75440,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Aiglemont",
+      "start": 75458,
+      "end": 75475,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 75774,
+      "end": 75786,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 75864,
+      "end": 75872,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 75875,
+      "end": 75879,
+      "label": "LOC"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 76094,
+      "end": 76103,
+      "label": "LOC"
+    },
+    {
+      "text": "Conservateur",
+      "start": 76183,
+      "end": 76195,
+      "label": "LOC"
+    },
+    {
+      "text": "Retranché",
+      "start": 76327,
+      "end": 76336,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 76480,
+      "end": 76485,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 76885,
+      "end": 76889,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis d'Aiglemont",
+      "start": 77326,
+      "end": 77345,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil",
+      "start": 77812,
+      "end": 77819,
+      "label": "ORG"
+    },
+    {
+      "text": "Julie",
+      "start": 78930,
+      "end": 78935,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère Landon",
+      "start": 80021,
+      "end": 80047,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 80166,
+      "end": 80174,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 81107,
+      "end": 81112,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise d'Aiglemont",
+      "start": 81221,
+      "end": 81241,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 82589,
+      "end": 82594,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 83545,
+      "end": 83551,
+      "label": "PER"
+    },
+    {
+      "text": "Hélène",
+      "start": 84091,
+      "end": 84097,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 84099,
+      "end": 84104,
+      "label": "MISC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 84399,
+      "end": 84408,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur",
+      "start": 85523,
+      "end": 85529,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 85680,
+      "end": 85687,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 85915,
+      "end": 85920,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 86227,
+      "end": 86232,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 87141,
+      "end": 87146,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 87211,
+      "end": 87220,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélène",
+      "start": 88973,
+      "end": 88979,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 89028,
+      "end": 89033,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 89454,
+      "end": 89460,
+      "label": "PER"
+    },
+    {
+      "text": "Aiglemont",
+      "start": 89970,
+      "end": 89979,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 90004,
+      "end": 90009,
+      "label": "PER"
+    },
+    {
+      "text": "Hélène",
+      "start": 90039,
+      "end": 90045,
+      "label": "MISC"
+    },
+    {
+      "text": "Julie",
+      "start": 90271,
+      "end": 90276,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 90411,
+      "end": 90429,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 90558,
+      "end": 90567,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 90619,
+      "end": 90635,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 90787,
+      "end": 90792,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sérizy",
+      "start": 90920,
+      "end": 90936,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 91226,
+      "end": 91231,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 91374,
+      "end": 91380,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 91428,
+      "end": 91433,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 91451,
+      "end": 91467,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 91614,
+      "end": 91620,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 91926,
+      "end": 91931,
+      "label": "PER"
+    },
+    {
+      "text": "grimace",
+      "start": 92039,
+      "end": 92046,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 92082,
+      "end": 92088,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 92692,
+      "end": 92697,
+      "label": "PER"
+    },
+    {
+      "text": "feindre",
+      "start": 93316,
+      "end": 93323,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 94255,
+      "end": 94260,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 94937,
+      "end": 94942,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 95028,
+      "end": 95044,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 95212,
+      "end": 95218,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Sérizy",
+      "start": 95222,
+      "end": 95240,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 95290,
+      "end": 95295,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 95607,
+      "end": 95623,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 95777,
+      "end": 95782,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 96271,
+      "end": 96276,
+      "label": "PER"
+    },
+    {
+      "text": "Desdémone",
+      "start": 96327,
+      "end": 96336,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 96747,
+      "end": 96755,
+      "label": "PER"
+    },
+    {
+      "text": "Malibran",
+      "start": 96849,
+      "end": 96857,
+      "label": "LOC"
+    },
+    {
+      "text": "Pasta",
+      "start": 96865,
+      "end": 96870,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthur",
+      "start": 97022,
+      "end": 97028,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sérizy",
+      "start": 97117,
+      "end": 97133,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 97350,
+      "end": 97355,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 97583,
+      "end": 97599,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 97708,
+      "end": 97713,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthur",
+      "start": 97766,
+      "end": 97772,
+      "label": "MISC"
+    },
+    {
+      "text": "Arthur",
+      "start": 98335,
+      "end": 98341,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 99109,
+      "end": 99125,
+      "label": "PER"
+    },
+    {
+      "text": "Julie",
+      "start": 99267,
+      "end": 99272,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 99456,
+      "end": 99460,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 99520,
+      "end": 99536,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Aiglemont",
+      "start": 99571,
+      "end": 99589,
+      "label": "PER"
+    }
+  ]
+}

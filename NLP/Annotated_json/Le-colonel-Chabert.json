@@ -1,0 +1,3790 @@
+{
+  "entities": [
+    {
+      "text": "COLONEL",
+      "start": 3,
+      "end": 10,
+      "label": "LOC"
+    },
+    {
+      "text": "BOCARMÉ",
+      "start": 54,
+      "end": 61,
+      "label": "ORG"
+    },
+    {
+      "text": "CHASTELER",
+      "start": 70,
+      "end": 79,
+      "label": "ORG"
+    },
+    {
+      "text": "Études des saute ruisseaux",
+      "start": 218,
+      "end": 244,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Vivienne",
+      "start": 610,
+      "end": 622,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 644,
+      "end": 652,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 663,
+      "end": 669,
+      "label": "MISC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 671,
+      "end": 679,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 942,
+      "end": 950,
+      "label": "PER"
+    },
+    {
+      "text": "Études",
+      "start": 1008,
+      "end": 1014,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 1196,
+      "end": 1202,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1225,
+      "end": 1230,
+      "label": "LOC"
+    },
+    {
+      "text": "Chicane",
+      "start": 1254,
+      "end": 1261,
+      "label": "LOC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 1648,
+      "end": 1656,
+      "label": "PER"
+    },
+    {
+      "text": "coucou",
+      "start": 1863,
+      "end": 1869,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 2043,
+      "end": 2052,
+      "label": "LOC"
+    },
+    {
+      "text": "Sa Majesté",
+      "start": 2321,
+      "end": 2331,
+      "label": "MISC"
+    },
+    {
+      "text": "la Grosse !",
+      "start": 2409,
+      "end": 2420,
+      "label": "LOC"
+    },
+    {
+      "text": "Providence",
+      "start": 2594,
+      "end": 2604,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 2672,
+      "end": 2678,
+      "label": "LOC"
+    },
+    {
+      "text": "Attendez",
+      "start": 3391,
+      "end": 3399,
+      "label": "MISC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 3405,
+      "end": 3414,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 3489,
+      "end": 3493,
+      "label": "MISC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 3815,
+      "end": 3824,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 3883,
+      "end": 3892,
+      "label": "PER"
+    },
+    {
+      "text": "Rendue",
+      "start": 4004,
+      "end": 4010,
+      "label": "ORG"
+    },
+    {
+      "text": "Hein",
+      "start": 4017,
+      "end": 4021,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 4029,
+      "end": 4036,
+      "label": "LOC"
+    },
+    {
+      "text": "Saquerlotte !",
+      "start": 4149,
+      "end": 4162,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard le Maître",
+      "start": 4198,
+      "end": 4215,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 4286,
+      "end": 4295,
+      "label": "PER"
+    },
+    {
+      "text": "Huré",
+      "start": 4598,
+      "end": 4602,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 4645,
+      "end": 4650,
+      "label": "PER"
+    },
+    {
+      "text": "Mortagne",
+      "start": 4683,
+      "end": 4691,
+      "label": "LOC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 4702,
+      "end": 4710,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 4911,
+      "end": 4917,
+      "label": "MISC"
+    },
+    {
+      "text": "Huré",
+      "start": 4962,
+      "end": 4966,
+      "label": "MISC"
+    },
+    {
+      "text": "Normand",
+      "start": 4972,
+      "end": 4979,
+      "label": "LOC"
+    },
+    {
+      "text": "Portez",
+      "start": 5039,
+      "end": 5045,
+      "label": "LOC"
+    },
+    {
+      "text": "Bazoche",
+      "start": 5059,
+      "end": 5066,
+      "label": "LOC"
+    },
+    {
+      "text": "Rendue",
+      "start": 5070,
+      "end": 5076,
+      "label": "ORG"
+    },
+    {
+      "text": "Godeschal",
+      "start": 5095,
+      "end": 5104,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 5129,
+      "end": 5136,
+      "label": "LOC"
+    },
+    {
+      "text": "porte de l'Étude",
+      "start": 5224,
+      "end": 5240,
+      "label": "LOC"
+    },
+    {
+      "text": "Entrez",
+      "start": 5439,
+      "end": 5445,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 5447,
+      "end": 5454,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 5533,
+      "end": 5539,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 5609,
+      "end": 5614,
+      "label": "LOC"
+    },
+    {
+      "text": "Brie",
+      "start": 5884,
+      "end": 5888,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître clerc",
+      "start": 5975,
+      "end": 5987,
+      "label": "PER"
+    },
+    {
+      "text": "Principal",
+      "start": 6335,
+      "end": 6344,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 6504,
+      "end": 6509,
+      "label": "LOC"
+    },
+    {
+      "text": "Études !",
+      "start": 6719,
+      "end": 6727,
+      "label": "MISC"
+    },
+    {
+      "text": "le Maître",
+      "start": 6737,
+      "end": 6746,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7316,
+      "end": 7321,
+      "label": "LOC"
+    },
+    {
+      "text": "Études",
+      "start": 7333,
+      "end": 7339,
+      "label": "LOC"
+    },
+    {
+      "text": "Études",
+      "start": 7845,
+      "end": 7851,
+      "label": "LOC"
+    },
+    {
+      "text": "Chlet",
+      "start": 7949,
+      "end": 7954,
+      "label": "LOC"
+    },
+    {
+      "text": "CHATELET",
+      "start": 7975,
+      "end": 7983,
+      "label": "MISC"
+    },
+    {
+      "text": "Tribunal de Première Instance",
+      "start": 8048,
+      "end": 8077,
+      "label": "MISC"
+    },
+    {
+      "text": "Étude",
+      "start": 8092,
+      "end": 8097,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 8574,
+      "end": 8579,
+      "label": "LOC"
+    },
+    {
+      "text": "Chît",
+      "start": 9044,
+      "end": 9048,
+      "label": "LOC"
+    },
+    {
+      "text": "L'inconnu essaya de sourire",
+      "start": 9233,
+      "end": 9260,
+      "label": "MISC"
+    },
+    {
+      "text": "Accoutumé",
+      "start": 9427,
+      "end": 9436,
+      "label": "PER"
+    },
+    {
+      "text": "Pâtiras",
+      "start": 9533,
+      "end": 9540,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 9572,
+      "end": 9580,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 9834,
+      "end": 9843,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 10192,
+      "end": 10200,
+      "label": "PER"
+    },
+    {
+      "text": "Études",
+      "start": 10963,
+      "end": 10969,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 11141,
+      "end": 11149,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 11258,
+      "end": 11266,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 11296,
+      "end": 11303,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 11683,
+      "end": 11688,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 11797,
+      "end": 11799,
+      "label": "MISC"
+    },
+    {
+      "text": "Maître",
+      "start": 11899,
+      "end": 11905,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 12296,
+      "end": 12304,
+      "label": "PER"
+    },
+    {
+      "text": "Misère",
+      "start": 12470,
+      "end": 12476,
+      "label": "PER"
+    },
+    {
+      "text": "Justice et la Bienfaisance",
+      "start": 12494,
+      "end": 12520,
+      "label": "MISC"
+    },
+    {
+      "text": "Société de mensonge",
+      "start": 12581,
+      "end": 12600,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 12649,
+      "end": 12653,
+      "label": "MISC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 12697,
+      "end": 12705,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 12917,
+      "end": 12926,
+      "label": "PER"
+    },
+    {
+      "text": "Parions",
+      "start": 12930,
+      "end": 12937,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 12963,
+      "end": 12970,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 13013,
+      "end": 13022,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 13369,
+      "end": 13371,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 13397,
+      "end": 13404,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 13487,
+      "end": 13497,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 13501,
+      "end": 13505,
+      "label": "MISC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 13577,
+      "end": 13586,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 13590,
+      "end": 13592,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 13606,
+      "end": 13613,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 13617,
+      "end": 13625,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 13697,
+      "end": 13705,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 13716,
+      "end": 13723,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 13931,
+      "end": 13940,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 13973,
+      "end": 13980,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 14128,
+      "end": 14136,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 14146,
+      "end": 14153,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 14248,
+      "end": 14255,
+      "label": "PER"
+    },
+    {
+      "text": "Eylau",
+      "start": 14284,
+      "end": 14289,
+      "label": "MISC"
+    },
+    {
+      "text": "Huré",
+      "start": 14300,
+      "end": 14304,
+      "label": "MISC"
+    },
+    {
+      "text": "Dégommé",
+      "start": 14493,
+      "end": 14500,
+      "label": "LOC"
+    },
+    {
+      "text": "Puff !   ",
+      "start": 14505,
+      "end": 14514,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !   ",
+      "start": 14514,
+      "end": 14521,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !   ",
+      "start": 14521,
+      "end": 14528,
+      "label": "MISC"
+    },
+    {
+      "text": "Bâoun",
+      "start": 14528,
+      "end": 14533,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 14538,
+      "end": 14542,
+      "label": "MISC"
+    },
+    {
+      "text": "Trinn",
+      "start": 14562,
+      "end": 14567,
+      "label": "LOC"
+    },
+    {
+      "text": "trinn",
+      "start": 14577,
+      "end": 14582,
+      "label": "LOC"
+    },
+    {
+      "text": "trinn",
+      "start": 14584,
+      "end": 14589,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfoncé",
+      "start": 14593,
+      "end": 14600,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Desroches",
+      "start": 14605,
+      "end": 14623,
+      "label": "ORG"
+    },
+    {
+      "text": "Huré",
+      "start": 14664,
+      "end": 14668,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 14923,
+      "end": 14924,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra !",
+      "start": 14927,
+      "end": 14934,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 14975,
+      "end": 14984,
+      "label": "PER"
+    },
+    {
+      "text": "madame Saqui",
+      "start": 15055,
+      "end": 15067,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Saqui",
+      "start": 15071,
+      "end": 15083,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 15145,
+      "end": 15154,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont Neuf",
+      "start": 15384,
+      "end": 15393,
+      "label": "LOC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 15404,
+      "end": 15412,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 15468,
+      "end": 15477,
+      "label": "LOC"
+    },
+    {
+      "text": "Huré",
+      "start": 15607,
+      "end": 15611,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous déraisonnez",
+      "start": 15642,
+      "end": 15658,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 15674,
+      "end": 15681,
+      "label": "PER"
+    },
+    {
+      "text": "Curtius",
+      "start": 15685,
+      "end": 15692,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 15719,
+      "end": 15728,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 15838,
+      "end": 15847,
+      "label": "PER"
+    },
+    {
+      "text": "Curtius",
+      "start": 15867,
+      "end": 15874,
+      "label": "PER"
+    },
+    {
+      "text": "berlik berlok",
+      "start": 16053,
+      "end": 16066,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 16072,
+      "end": 16080,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 16084,
+      "end": 16090,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 16127,
+      "end": 16136,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 16358,
+      "end": 16365,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 16412,
+      "end": 16419,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 16421,
+      "end": 16438,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Ferraud",
+      "start": 16440,
+      "end": 16454,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 16481,
+      "end": 16486,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 16525,
+      "end": 16532,
+      "label": "LOC"
+    },
+    {
+      "text": "Sac",
+      "start": 16559,
+      "end": 16562,
+      "label": "LOC"
+    },
+    {
+      "text": "Finissez",
+      "start": 16597,
+      "end": 16605,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 16684,
+      "end": 16691,
+      "label": "ORG"
+    },
+    {
+      "text": "Chabert",
+      "start": 16768,
+      "end": 16775,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 16867,
+      "end": 16875,
+      "label": "PER"
+    },
+    {
+      "text": "Huré",
+      "start": 16907,
+      "end": 16911,
+      "label": "MISC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 16978,
+      "end": 16987,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 17025,
+      "end": 17032,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 17075,
+      "end": 17083,
+      "label": "MISC"
+    },
+    {
+      "text": "Talma",
+      "start": 17089,
+      "end": 17094,
+      "label": "PER"
+    },
+    {
+      "text": "Néron",
+      "start": 17100,
+      "end": 17105,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 17107,
+      "end": 17115,
+      "label": "PER"
+    },
+    {
+      "text": "Rendue",
+      "start": 17204,
+      "end": 17210,
+      "label": "ORG"
+    },
+    {
+      "text": "Godeschal",
+      "start": 17267,
+      "end": 17276,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 17424,
+      "end": 17429,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 17534,
+      "end": 17543,
+      "label": "PER"
+    },
+    {
+      "text": "Halte !",
+      "start": 17588,
+      "end": 17595,
+      "label": "MISC"
+    },
+    {
+      "text": "Quarante",
+      "start": 17665,
+      "end": 17673,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 17681,
+      "end": 17683,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 17739,
+      "end": 17746,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 17772,
+      "end": 17781,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 17809,
+      "end": 17818,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 18019,
+      "end": 18035,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur Godeschal",
+      "start": 18114,
+      "end": 18132,
+      "label": "LOC"
+    },
+    {
+      "text": "Simonnin !",
+      "start": 18199,
+      "end": 18209,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 18214,
+      "end": 18221,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 18223,
+      "end": 18228,
+      "label": "LOC"
+    },
+    {
+      "text": "Invalides",
+      "start": 18305,
+      "end": 18314,
+      "label": "LOC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 18351,
+      "end": 18360,
+      "label": "LOC"
+    },
+    {
+      "text": "Ajoutez",
+      "start": 18362,
+      "end": 18369,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 18390,
+      "end": 18396,
+      "label": "PER"
+    },
+    {
+      "text": "Maître clerc",
+      "start": 18473,
+      "end": 18485,
+      "label": "PER"
+    },
+    {
+      "text": "Vicomtesse de Grandlieu",
+      "start": 18541,
+      "end": 18564,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 18572,
+      "end": 18588,
+      "label": "ORG"
+    },
+    {
+      "text": "Étude",
+      "start": 18616,
+      "end": 18621,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 18678,
+      "end": 18684,
+      "label": "PER"
+    },
+    {
+      "text": "Hospices",
+      "start": 18794,
+      "end": 18802,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 18890,
+      "end": 18896,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 19068,
+      "end": 19075,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 19110,
+      "end": 19118,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal de Première Instance du département de la Seine",
+      "start": 19134,
+      "end": 19190,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 19229,
+      "end": 19237,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 19400,
+      "end": 19406,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma foi, monsieur",
+      "start": 19746,
+      "end": 19762,
+      "label": "MISC"
+    },
+    {
+      "text": "Principal",
+      "start": 20011,
+      "end": 20020,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Derville",
+      "start": 20048,
+      "end": 20065,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 20878,
+      "end": 20882,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 21349,
+      "end": 21357,
+      "label": "PER"
+    },
+    {
+      "text": "Maître clerc",
+      "start": 21394,
+      "end": 21406,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 21613,
+      "end": 21620,
+      "label": "PER"
+    },
+    {
+      "text": "Curtius",
+      "start": 21707,
+      "end": 21714,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 21718,
+      "end": 21727,
+      "label": "PER"
+    },
+    {
+      "text": "nacre",
+      "start": 22145,
+      "end": 22150,
+      "label": "LOC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 22606,
+      "end": 22615,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 24716,
+      "end": 24723,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 24763,
+      "end": 24770,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 24774,
+      "end": 24782,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 24792,
+      "end": 24800,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 24849,
+      "end": 24856,
+      "label": "PER"
+    },
+    {
+      "text": "Eylau",
+      "start": 24892,
+      "end": 24897,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25038,
+      "end": 25046,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 25436,
+      "end": 25444,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 25460,
+      "end": 25467,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25485,
+      "end": 25493,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 25766,
+      "end": 25772,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 25964,
+      "end": 25972,
+      "label": "PER"
+    },
+    {
+      "text": "Eylau",
+      "start": 26055,
+      "end": 26060,
+      "label": "MISC"
+    },
+    {
+      "text": "Murat",
+      "start": 26129,
+      "end": 26134,
+      "label": "PER"
+    },
+    {
+      "text": "Victoires et Conquêtes",
+      "start": 26249,
+      "end": 26271,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 26472,
+      "end": 26482,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 26509,
+      "end": 26515,
+      "label": "MISC"
+    },
+    {
+      "text": "Murat",
+      "start": 26845,
+      "end": 26850,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 26981,
+      "end": 26991,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 27323,
+      "end": 27328,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 27366,
+      "end": 27373,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 28042,
+      "end": 28049,
+      "label": "PER"
+    },
+    {
+      "text": "Père éternel",
+      "start": 28445,
+      "end": 28457,
+      "label": "MISC"
+    },
+    {
+      "text": "Stuttgard",
+      "start": 29024,
+      "end": 29033,
+      "label": "PER"
+    },
+    {
+      "text": "Hercule !",
+      "start": 31383,
+      "end": 31392,
+      "label": "MISC"
+    },
+    {
+      "text": "Respect",
+      "start": 32936,
+      "end": 32943,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemands",
+      "start": 33103,
+      "end": 33112,
+      "label": "LOC"
+    },
+    {
+      "text": "Heilsberg",
+      "start": 33803,
+      "end": 33812,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 34004,
+      "end": 34011,
+      "label": "PER"
+    },
+    {
+      "text": "Sparchmann",
+      "start": 34408,
+      "end": 34418,
+      "label": "PER"
+    },
+    {
+      "text": "Heilsberg",
+      "start": 34866,
+      "end": 34875,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 35350,
+      "end": 35358,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 35443,
+      "end": 35450,
+      "label": "PER"
+    },
+    {
+      "text": "Stuttgard",
+      "start": 35572,
+      "end": 35581,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 35815,
+      "end": 35820,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 35863,
+      "end": 35870,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 36057,
+      "end": 36064,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 36109,
+      "end": 36118,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36142,
+      "end": 36147,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 36218,
+      "end": 36225,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 36262,
+      "end": 36270,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36283,
+      "end": 36291,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 36505,
+      "end": 36512,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 36863,
+      "end": 36871,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 36878,
+      "end": 36884,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36888,
+      "end": 36896,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 37022,
+      "end": 37031,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 37196,
+      "end": 37205,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 38191,
+      "end": 38199,
+      "label": "PER"
+    },
+    {
+      "text": "Veuillez",
+      "start": 38248,
+      "end": 38256,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 38559,
+      "end": 38567,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 38593,
+      "end": 38600,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 38951,
+      "end": 38958,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 40439,
+      "end": 40447,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 40711,
+      "end": 40717,
+      "label": "LOC"
+    },
+    {
+      "text": "Stuttgard",
+      "start": 40723,
+      "end": 40732,
+      "label": "PER"
+    },
+    {
+      "text": "Vous connaissez ma femme ?",
+      "start": 40778,
+      "end": 40804,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 40841,
+      "end": 40849,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 41120,
+      "end": 41128,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 41393,
+      "end": 41401,
+      "label": "PER"
+    },
+    {
+      "text": "Esquimau",
+      "start": 41850,
+      "end": 41858,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 41867,
+      "end": 41875,
+      "label": "MISC"
+    },
+    {
+      "text": "Chabert",
+      "start": 41947,
+      "end": 41954,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 41965,
+      "end": 41973,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 42129,
+      "end": 42135,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 42393,
+      "end": 42399,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 42728,
+      "end": 42734,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 42856,
+      "end": 42862,
+      "label": "LOC"
+    },
+    {
+      "text": "Ravenne",
+      "start": 42866,
+      "end": 42873,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 42888,
+      "end": 42894,
+      "label": "PER"
+    },
+    {
+      "text": "Boutin",
+      "start": 43029,
+      "end": 43035,
+      "label": "LOC"
+    },
+    {
+      "text": "Albinos",
+      "start": 43404,
+      "end": 43411,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 43652,
+      "end": 43657,
+      "label": "LOC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 43713,
+      "end": 43720,
+      "label": "LOC"
+    },
+    {
+      "text": "campagne de Russie",
+      "start": 43754,
+      "end": 43772,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 43802,
+      "end": 43810,
+      "label": "PER"
+    },
+    {
+      "text": "Océan les cailloux",
+      "start": 43968,
+      "end": 43986,
+      "label": "LOC"
+    },
+    {
+      "text": "Égypte",
+      "start": 44065,
+      "end": 44071,
+      "label": "LOC"
+    },
+    {
+      "text": "Syrie",
+      "start": 44076,
+      "end": 44081,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 44085,
+      "end": 44092,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 44097,
+      "end": 44103,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 44108,
+      "end": 44116,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 44120,
+      "end": 44129,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 44133,
+      "end": 44139,
+      "label": "LOC"
+    },
+    {
+      "text": "Dalmatie",
+      "start": 44144,
+      "end": 44152,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 44156,
+      "end": 44166,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 44171,
+      "end": 44176,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartarie",
+      "start": 44181,
+      "end": 44189,
+      "label": "LOC"
+    },
+    {
+      "text": "Sibérie",
+      "start": 44194,
+      "end": 44201,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 44250,
+      "end": 44255,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 44262,
+      "end": 44270,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 44312,
+      "end": 44318,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44340,
+      "end": 44345,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Chabert",
+      "start": 44449,
+      "end": 44463,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 44744,
+      "end": 44750,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 44780,
+      "end": 44784,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 44818,
+      "end": 44828,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 44831,
+      "end": 44835,
+      "label": "MISC"
+    },
+    {
+      "text": "Chabert",
+      "start": 44888,
+      "end": 44895,
+      "label": "PER"
+    },
+    {
+      "text": "Boutin",
+      "start": 45135,
+      "end": 45141,
+      "label": "PER"
+    },
+    {
+      "text": "A Carlsruhe",
+      "start": 45500,
+      "end": 45511,
+      "label": "MISC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 45897,
+      "end": 45907,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 46026,
+      "end": 46032,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 46176,
+      "end": 46181,
+      "label": "LOC"
+    },
+    {
+      "text": "Boutin",
+      "start": 46262,
+      "end": 46268,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 46338,
+      "end": 46346,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 46469,
+      "end": 46474,
+      "label": "LOC"
+    },
+    {
+      "text": "Cosaques",
+      "start": 46497,
+      "end": 46505,
+      "label": "MISC"
+    },
+    {
+      "text": "Russes",
+      "start": 46559,
+      "end": 46565,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 46569,
+      "end": 46575,
+      "label": "LOC"
+    },
+    {
+      "text": "bois de Claye",
+      "start": 46769,
+      "end": 46782,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 46910,
+      "end": 46922,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 47029,
+      "end": 47039,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 47170,
+      "end": 47175,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont Blanc",
+      "start": 47231,
+      "end": 47241,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 47295,
+      "end": 47298,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Mont Blanc",
+      "start": 47304,
+      "end": 47321,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 47349,
+      "end": 47365,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 47532,
+      "end": 47539,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 47917,
+      "end": 47924,
+      "label": "PER"
+    },
+    {
+      "text": "Stuttgard",
+      "start": 48031,
+      "end": 48040,
+      "label": "PER"
+    },
+    {
+      "text": "Charenton",
+      "start": 48057,
+      "end": 48066,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 48847,
+      "end": 48855,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 49295,
+      "end": 49303,
+      "label": "PER"
+    },
+    {
+      "text": "Heilsberg",
+      "start": 49474,
+      "end": 49483,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 49694,
+      "end": 49698,
+      "label": "MISC"
+    },
+    {
+      "text": "Transiger",
+      "start": 49999,
+      "end": 50008,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 50028,
+      "end": 50035,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 50037,
+      "end": 50041,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50072,
+      "end": 50080,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 50523,
+      "end": 50530,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 50731,
+      "end": 50739,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 50934,
+      "end": 50941,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 51043,
+      "end": 51049,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 51263,
+      "end": 51271,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, monsieur",
+      "start": 51350,
+      "end": 51366,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 51374,
+      "end": 51384,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 51544,
+      "end": 51551,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 51557,
+      "end": 51565,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 52150,
+      "end": 52157,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 52163,
+      "end": 52171,
+      "label": "PER"
+    },
+    {
+      "text": "Crottat",
+      "start": 52467,
+      "end": 52474,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître clerc",
+      "start": 52529,
+      "end": 52541,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 52670,
+      "end": 52678,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 52762,
+      "end": 52767,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 52837,
+      "end": 52845,
+      "label": "PER"
+    },
+    {
+      "text": "Maître",
+      "start": 52908,
+      "end": 52914,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 53118,
+      "end": 53122,
+      "label": "MISC"
+    },
+    {
+      "text": "Boucard",
+      "start": 53302,
+      "end": 53309,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 53384,
+      "end": 53392,
+      "label": "PER"
+    },
+    {
+      "text": "Maître clerc",
+      "start": 53460,
+      "end": 53472,
+      "label": "PER"
+    },
+    {
+      "text": "Berlin",
+      "start": 53488,
+      "end": 53494,
+      "label": "LOC"
+    },
+    {
+      "text": "Prussich Eylau",
+      "start": 53888,
+      "end": 53902,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 53950,
+      "end": 53957,
+      "label": "PER"
+    },
+    {
+      "text": "Heilsberg",
+      "start": 54011,
+      "end": 54020,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 54054,
+      "end": 54062,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 54069,
+      "end": 54076,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 54300,
+      "end": 54306,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 54352,
+      "end": 54358,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre Crottat",
+      "start": 54374,
+      "end": 54391,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 54417,
+      "end": 54425,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 54614,
+      "end": 54621,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 54670,
+      "end": 54677,
+      "label": "PER"
+    },
+    {
+      "text": "Crottat",
+      "start": 54695,
+      "end": 54702,
+      "label": "LOC"
+    },
+    {
+      "text": "Rose Chapotel",
+      "start": 54786,
+      "end": 54799,
+      "label": "PER"
+    },
+    {
+      "text": "Hyacinthe",
+      "start": 54820,
+      "end": 54829,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 54835,
+      "end": 54842,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 54884,
+      "end": 54900,
+      "label": "ORG"
+    },
+    {
+      "text": "Chabert",
+      "start": 55078,
+      "end": 55085,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 55136,
+      "end": 55141,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 55415,
+      "end": 55424,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 55529,
+      "end": 55536,
+      "label": "PER"
+    },
+    {
+      "text": "Crottat",
+      "start": 55627,
+      "end": 55634,
+      "label": "LOC"
+    },
+    {
+      "text": "Pour que le Contre",
+      "start": 55757,
+      "end": 55775,
+      "label": "MISC"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 55780,
+      "end": 55793,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 55912,
+      "end": 55925,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Banquier",
+      "start": 55934,
+      "end": 55948,
+      "label": "LOC"
+    },
+    {
+      "text": "Vergniaud",
+      "start": 56035,
+      "end": 56044,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 56057,
+      "end": 56065,
+      "label": "PER"
+    },
+    {
+      "text": "VERGNIAUD",
+      "start": 56688,
+      "end": 56697,
+      "label": "MISC"
+    },
+    {
+      "text": "NOURICEURE",
+      "start": 56699,
+      "end": 56709,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 57038,
+      "end": 57043,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 57441,
+      "end": 57446,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 57692,
+      "end": 57697,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 57699,
+      "end": 57707,
+      "label": "PER"
+    },
+    {
+      "text": "Magasin",
+      "start": 57765,
+      "end": 57772,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58765,
+      "end": 58770,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 58813,
+      "end": 58821,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 59618,
+      "end": 59626,
+      "label": "PER"
+    },
+    {
+      "text": "bataille d'Eylau",
+      "start": 59717,
+      "end": 59733,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 59753,
+      "end": 59761,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 60312,
+      "end": 60320,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 60376,
+      "end": 60383,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 60505,
+      "end": 60513,
+      "label": "PER"
+    },
+    {
+      "text": "gamins",
+      "start": 60706,
+      "end": 60712,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 60754,
+      "end": 60762,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 61168,
+      "end": 61176,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 61476,
+      "end": 61484,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 61517,
+      "end": 61522,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 61686,
+      "end": 61694,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 61758,
+      "end": 61765,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 61867,
+      "end": 61875,
+      "label": "PER"
+    },
+    {
+      "text": "mur",
+      "start": 62283,
+      "end": 62286,
+      "label": "MISC"
+    },
+    {
+      "text": "Bulletins",
+      "start": 62498,
+      "end": 62507,
+      "label": "MISC"
+    },
+    {
+      "text": "Plancher",
+      "start": 62542,
+      "end": 62550,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 62697,
+      "end": 62705,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 63044,
+      "end": 63052,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 63215,
+      "end": 63220,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 63829,
+      "end": 63834,
+      "label": "LOC"
+    },
+    {
+      "text": "expédition d'Égypte",
+      "start": 64248,
+      "end": 64267,
+      "label": "MISC"
+    },
+    {
+      "text": "Vergniaud",
+      "start": 64367,
+      "end": 64376,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 64582,
+      "end": 64587,
+      "label": "MISC"
+    },
+    {
+      "text": "Colonel",
+      "start": 64840,
+      "end": 64847,
+      "label": "PER"
+    },
+    {
+      "text": "Heilsberg",
+      "start": 64894,
+      "end": 64903,
+      "label": "LOC"
+    },
+    {
+      "text": "Régie",
+      "start": 65178,
+      "end": 65183,
+      "label": "LOC"
+    },
+    {
+      "text": "Colonel",
+      "start": 65282,
+      "end": 65289,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 65343,
+      "end": 65351,
+      "label": "PER"
+    },
+    {
+      "text": "bataille d'Eylau",
+      "start": 65665,
+      "end": 65681,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 65747,
+      "end": 65755,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 65757,
+      "end": 65764,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 65783,
+      "end": 65796,
+      "label": "PER"
+    },
+    {
+      "text": "Vos",
+      "start": 66187,
+      "end": 66190,
+      "label": "PER"
+    },
+    {
+      "text": "Prusse",
+      "start": 66330,
+      "end": 66336,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 66450,
+      "end": 66457,
+      "label": "PER"
+    },
+    {
+      "text": "Serez",
+      "start": 67112,
+      "end": 67117,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 67532,
+      "end": 67538,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 67757,
+      "end": 67761,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 68665,
+      "end": 68675,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Ferraud",
+      "start": 69041,
+      "end": 69055,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 69117,
+      "end": 69127,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 69214,
+      "end": 69221,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 69702,
+      "end": 69709,
+      "label": "PER"
+    },
+    {
+      "text": "Allons ensemble",
+      "start": 69807,
+      "end": 69822,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon procès",
+      "start": 69951,
+      "end": 69961,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 70011,
+      "end": 70019,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 70044,
+      "end": 70051,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 70332,
+      "end": 70339,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 70362,
+      "end": 70378,
+      "label": "ORG"
+    },
+    {
+      "text": "Tiens",
+      "start": 70382,
+      "end": 70387,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion",
+      "start": 70418,
+      "end": 70424,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 70467,
+      "end": 70471,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 70496,
+      "end": 70504,
+      "label": "PER"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 71155,
+      "end": 71168,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 71209,
+      "end": 71216,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 71250,
+      "end": 71256,
+      "label": "MISC"
+    },
+    {
+      "text": "Eylau",
+      "start": 71259,
+      "end": 71264,
+      "label": "MISC"
+    },
+    {
+      "text": "Charenton",
+      "start": 71337,
+      "end": 71346,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 71509,
+      "end": 71517,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 71519,
+      "end": 71524,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 71653,
+      "end": 71661,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 71915,
+      "end": 71922,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 73197,
+      "end": 73205,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 73218,
+      "end": 73224,
+      "label": "LOC"
+    },
+    {
+      "text": "Faites",
+      "start": 73440,
+      "end": 73446,
+      "label": "MISC"
+    },
+    {
+      "text": "Chabert",
+      "start": 73471,
+      "end": 73478,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 73835,
+      "end": 73842,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 73936,
+      "end": 73941,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 73958,
+      "end": 73965,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 74051,
+      "end": 74059,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 74061,
+      "end": 74066,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 74127,
+      "end": 74134,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 74168,
+      "end": 74176,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 74556,
+      "end": 74564,
+      "label": "PER"
+    },
+    {
+      "text": "Excusez",
+      "start": 74881,
+      "end": 74888,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 74909,
+      "end": 74917,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 75081,
+      "end": 75089,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Vergniaud",
+      "start": 75184,
+      "end": 75199,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 75296,
+      "end": 75303,
+      "label": "PER"
+    },
+    {
+      "text": "Pardon",
+      "start": 75323,
+      "end": 75329,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 75979,
+      "end": 75981,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah !",
+      "start": 76065,
+      "end": 76070,
+      "label": "MISC"
+    },
+    {
+      "text": "Grados",
+      "start": 76239,
+      "end": 76245,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis Vergniaud",
+      "start": 76447,
+      "end": 76462,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Vergniaud",
+      "start": 77362,
+      "end": 77377,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 77445,
+      "end": 77453,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 77905,
+      "end": 77909,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 77914,
+      "end": 77918,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 78031,
+      "end": 78039,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 78592,
+      "end": 78596,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 78770,
+      "end": 78778,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 78788,
+      "end": 78795,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller",
+      "start": 78822,
+      "end": 78832,
+      "label": "ORG"
+    },
+    {
+      "text": "Parlement",
+      "start": 78836,
+      "end": 78845,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 78849,
+      "end": 78854,
+      "label": "LOC"
+    },
+    {
+      "text": "Terreur",
+      "start": 78896,
+      "end": 78903,
+      "label": "MISC"
+    },
+    {
+      "text": "Consulat",
+      "start": 78969,
+      "end": 78977,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 79022,
+      "end": 79033,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 79142,
+      "end": 79155,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79196,
+      "end": 79204,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 79292,
+      "end": 79299,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 79339,
+      "end": 79349,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 79616,
+      "end": 79623,
+      "label": "PER"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 79650,
+      "end": 79663,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 79778,
+      "end": 79791,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 79837,
+      "end": 79843,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 79856,
+      "end": 79863,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 80114,
+      "end": 80127,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 80188,
+      "end": 80196,
+      "label": "PER"
+    },
+    {
+      "text": "madame Chabert",
+      "start": 80206,
+      "end": 80220,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 80306,
+      "end": 80314,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Ferraud",
+      "start": 80335,
+      "end": 80349,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 80681,
+      "end": 80694,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 80843,
+      "end": 80850,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 80939,
+      "end": 80950,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 81357,
+      "end": 81364,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 81369,
+      "end": 81386,
+      "label": "ORG"
+    },
+    {
+      "text": "Directeur général",
+      "start": 81388,
+      "end": 81405,
+      "label": "MISC"
+    },
+    {
+      "text": "Delbecq",
+      "start": 81595,
+      "end": 81602,
+      "label": "LOC"
+    },
+    {
+      "text": "Delbecq",
+      "start": 82351,
+      "end": 82358,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 82387,
+      "end": 82394,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 82519,
+      "end": 82528,
+      "label": "LOC"
+    },
+    {
+      "text": "Delbecq",
+      "start": 82758,
+      "end": 82765,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 82878,
+      "end": 82884,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82931,
+      "end": 82936,
+      "label": "LOC"
+    },
+    {
+      "text": "la Restauration",
+      "start": 82992,
+      "end": 83007,
+      "label": "MISC"
+    },
+    {
+      "text": "Delbecq",
+      "start": 83321,
+      "end": 83328,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 83625,
+      "end": 83636,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 83712,
+      "end": 83719,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 84079,
+      "end": 84091,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 84244,
+      "end": 84253,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 84331,
+      "end": 84337,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ferraud",
+      "start": 84473,
+      "end": 84487,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 85002,
+      "end": 85009,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 85075,
+      "end": 85082,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 85428,
+      "end": 85438,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 85548,
+      "end": 85555,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 85988,
+      "end": 85996,
+      "label": "MISC"
+    },
+    {
+      "text": "Boutin",
+      "start": 86040,
+      "end": 86046,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 86241,
+      "end": 86254,
+      "label": "PER"
+    },
+    {
+      "text": "Charenton",
+      "start": 86488,
+      "end": 86497,
+      "label": "PER"
+    },
+    {
+      "text": "Delbecq",
+      "start": 86564,
+      "end": 86571,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 86682,
+      "end": 86687,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 86737,
+      "end": 86744,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 86987,
+      "end": 86995,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Varennes",
+      "start": 87067,
+      "end": 87082,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Ferraud",
+      "start": 87100,
+      "end": 87113,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 87176,
+      "end": 87185,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 87267,
+      "end": 87286,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller",
+      "start": 87381,
+      "end": 87391,
+      "label": "ORG"
+    },
+    {
+      "text": "Parlement",
+      "start": 87395,
+      "end": 87404,
+      "label": "ORG"
+    },
+    {
+      "text": "Crillon",
+      "start": 87417,
+      "end": 87424,
+      "label": "PER"
+    },
+    {
+      "text": "Rohan",
+      "start": 87432,
+      "end": 87437,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 87795,
+      "end": 87803,
+      "label": "PER"
+    },
+    {
+      "text": "plaie secrète",
+      "start": 87847,
+      "end": 87860,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Ferraud",
+      "start": 87906,
+      "end": 87920,
+      "label": "PER"
+    },
+    {
+      "text": "nacre",
+      "start": 88318,
+      "end": 88323,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 88472,
+      "end": 88485,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 89101,
+      "end": 89108,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 89119,
+      "end": 89127,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 89188,
+      "end": 89194,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 89288,
+      "end": 89295,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 89306,
+      "end": 89314,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 89452,
+      "end": 89458,
+      "label": "PER"
+    },
+    {
+      "text": "Delbecq",
+      "start": 89541,
+      "end": 89548,
+      "label": "PER"
+    },
+    {
+      "text": "Delbecq",
+      "start": 89662,
+      "end": 89669,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 89735,
+      "end": 89743,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 89745,
+      "end": 89752,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 89813,
+      "end": 89820,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 90043,
+      "end": 90051,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 90108,
+      "end": 90114,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 90353,
+      "end": 90360,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 91073,
+      "end": 91080,
+      "label": "PER"
+    },
+    {
+      "text": "Cogniard",
+      "start": 91185,
+      "end": 91193,
+      "label": "ORG"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 91286,
+      "end": 91295,
+      "label": "PER"
+    },
+    {
+      "text": "Chambres",
+      "start": 91441,
+      "end": 91449,
+      "label": "LOC"
+    },
+    {
+      "text": "Chabert",
+      "start": 91499,
+      "end": 91506,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 92059,
+      "end": 92065,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 92123,
+      "end": 92127,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 92223,
+      "end": 92231,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 92320,
+      "end": 92326,
+      "label": "MISC"
+    },
+    {
+      "text": "Chabert",
+      "start": 92553,
+      "end": 92560,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 92592,
+      "end": 92598,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 92604,
+      "end": 92612,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 92696,
+      "end": 92702,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 92813,
+      "end": 92819,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 92904,
+      "end": 92911,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 92995,
+      "end": 93001,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 93243,
+      "end": 93251,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 93323,
+      "end": 93330,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 93485,
+      "end": 93492,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 93496,
+      "end": 93502,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 94085,
+      "end": 94093,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 94112,
+      "end": 94118,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 94131,
+      "end": 94138,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 94275,
+      "end": 94283,
+      "label": "PER"
+    },
+    {
+      "text": "Ferraud",
+      "start": 94373,
+      "end": 94380,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 94760,
+      "end": 94769,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 94825,
+      "end": 94828,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 94888,
+      "end": 94896,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 94971,
+      "end": 94977,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 95108,
+      "end": 95124,
+      "label": "ORG"
+    },
+    {
+      "text": "Transiger",
+      "start": 95288,
+      "end": 95297,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 95304,
+      "end": 95312,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 95631,
+      "end": 95637,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 95766,
+      "end": 95774,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 95837,
+      "end": 95845,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96001,
+      "end": 96006,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 96040,
+      "end": 96045,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 96112,
+      "end": 96120,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 96132,
+      "end": 96139,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 96441,
+      "end": 96457,
+      "label": "ORG"
+    },
+    {
+      "text": "Chabert",
+      "start": 96803,
+      "end": 96810,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 97321,
+      "end": 97329,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 97468,
+      "end": 97474,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 97759,
+      "end": 97764,
+      "label": "LOC"
+    },
+    {
+      "text": "Simonnin",
+      "start": 97882,
+      "end": 97890,
+      "label": "PER"
+    },
+    {
+      "text": "logis noirs",
+      "start": 98050,
+      "end": 98061,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 98137,
+      "end": 98144,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 98216,
+      "end": 98225,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 98288,
+      "end": 98297,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 98345,
+      "end": 98352,
+      "label": "PER"
+    },
+    {
+      "text": "Boucard",
+      "start": 98359,
+      "end": 98366,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 98370,
+      "end": 98376,
+      "label": "MISC"
+    },
+    {
+      "text": "Godeschal",
+      "start": 98382,
+      "end": 98391,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferraud",
+      "start": 98405,
+      "end": 98412,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 98467,
+      "end": 98475,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 98519,
+      "end": 98527,
+      "label": "PER"
+    },
+    {
+      "text": "Simonnin",
+      "start": 98569,
+      "end": 98577,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 98623,
+      "end": 98630,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 98843,
+      "end": 98850,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 98862,
+      "end": 98870,
+      "label": "PER"
+    },
+    {
+      "text": "porte de l'Étude",
+      "start": 98907,
+      "end": 98923,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 98939,
+      "end": 98946,
+      "label": "PER"
+    },
+    {
+      "text": "comte Ferraud",
+      "start": 99068,
+      "end": 99081,
+      "label": "PER"
+    },
+    {
+      "text": "comte Chabert",
+      "start": 99111,
+      "end": 99124,
+      "label": "PER"
+    },
+    {
+      "text": "Godeschal",
+      "start": 99161,
+      "end": 99170,
+      "label": "PER"
+    },
+    {
+      "text": "Taisez",
+      "start": 99192,
+      "end": 99198,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucard",
+      "start": 99257,
+      "end": 99264,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 99287,
+      "end": 99292,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 99352,
+      "end": 99360,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 99447,
+      "end": 99453,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 99534,
+      "end": 99541,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 99595,
+      "end": 99603,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 99752,
+      "end": 99759,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons",
+      "start": 99884,
+      "end": 99890,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 99962,
+      "end": 99970,
+      "label": "PER"
+    }
+  ]
+}

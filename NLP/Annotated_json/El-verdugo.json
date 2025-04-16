@@ -1,0 +1,862 @@
+{
+  "entities": [
+    {
+      "text": "EL VERDUGO",
+      "start": 0,
+      "end": 10,
+      "label": "LOC"
+    },
+    {
+      "text": "ROSA",
+      "start": 35,
+      "end": 39,
+      "label": "ORG"
+    },
+    {
+      "text": "Menda",
+      "start": 80,
+      "end": 85,
+      "label": "ORG"
+    },
+    {
+      "text": "château de Menda",
+      "start": 224,
+      "end": 240,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 462,
+      "end": 471,
+      "label": "LOC"
+    },
+    {
+      "text": "lune",
+      "start": 573,
+      "end": 577,
+      "label": "LOC"
+    },
+    {
+      "text": "Appuyé",
+      "start": 655,
+      "end": 661,
+      "label": "PER"
+    },
+    {
+      "text": "Menda",
+      "start": 766,
+      "end": 771,
+      "label": "ORG"
+    },
+    {
+      "text": "château de Menda",
+      "start": 1447,
+      "end": 1463,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 1487,
+      "end": 1496,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 1708,
+      "end": 1717,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 1752,
+      "end": 1760,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 1762,
+      "end": 1767,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Léganès",
+      "start": 1839,
+      "end": 1857,
+      "label": "PER"
+    },
+    {
+      "text": "Victor Marchand",
+      "start": 1911,
+      "end": 1926,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 2066,
+      "end": 2073,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2120,
+      "end": 2125,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 2144,
+      "end": 2152,
+      "label": "MISC"
+    },
+    {
+      "text": "général G",
+      "start": 2205,
+      "end": 2214,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand VII",
+      "start": 2290,
+      "end": 2303,
+      "label": "PER"
+    },
+    {
+      "text": "Victor Marchand",
+      "start": 2331,
+      "end": 2346,
+      "label": "PER"
+    },
+    {
+      "text": "Menda",
+      "start": 2390,
+      "end": 2395,
+      "label": "ORG"
+    },
+    {
+      "text": "Léganès",
+      "start": 2464,
+      "end": 2471,
+      "label": "LOC"
+    },
+    {
+      "text": "Ney",
+      "start": 2505,
+      "end": 2508,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 2534,
+      "end": 2541,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 2678,
+      "end": 2685,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 2724,
+      "end": 2732,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor Marchand",
+      "start": 2746,
+      "end": 2761,
+      "label": "PER"
+    },
+    {
+      "text": "saint Jacques",
+      "start": 3405,
+      "end": 3418,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 3716,
+      "end": 3725,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 4451,
+      "end": 4456,
+      "label": "LOC"
+    },
+    {
+      "text": "Parle",
+      "start": 5277,
+      "end": 5282,
+      "label": "PER"
+    },
+    {
+      "text": "Victor Marchand",
+      "start": 5293,
+      "end": 5308,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 6243,
+      "end": 6248,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 6379,
+      "end": 6386,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 6581,
+      "end": 6586,
+      "label": "PER"
+    },
+    {
+      "text": "Fuyez",
+      "start": 6607,
+      "end": 6612,
+      "label": "LOC"
+    },
+    {
+      "text": "Juanito",
+      "start": 6718,
+      "end": 6725,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 7068,
+      "end": 7073,
+      "label": "PER"
+    },
+    {
+      "text": "monta",
+      "start": 7269,
+      "end": 7274,
+      "label": "LOC"
+    },
+    {
+      "text": "G",
+      "start": 7389,
+      "end": 7390,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 7739,
+      "end": 7748,
+      "label": "LOC"
+    },
+    {
+      "text": "façon des Sauvages",
+      "start": 8176,
+      "end": 8194,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 8319,
+      "end": 8325,
+      "label": "PER"
+    },
+    {
+      "text": "Menda",
+      "start": 8501,
+      "end": 8506,
+      "label": "LOC"
+    },
+    {
+      "text": "Menda",
+      "start": 8967,
+      "end": 8972,
+      "label": "LOC"
+    },
+    {
+      "text": "la Péninsule",
+      "start": 9271,
+      "end": 9283,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 9303,
+      "end": 9311,
+      "label": "LOC"
+    },
+    {
+      "text": "Menda",
+      "start": 9366,
+      "end": 9371,
+      "label": "PER"
+    },
+    {
+      "text": "Léganès",
+      "start": 10263,
+      "end": 10270,
+      "label": "LOC"
+    },
+    {
+      "text": "Ney",
+      "start": 10672,
+      "end": 10675,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 10792,
+      "end": 10801,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 11349,
+      "end": 11355,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 11936,
+      "end": 11942,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 12144,
+      "end": 12153,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor Marchand",
+      "start": 12455,
+      "end": 12470,
+      "label": "PER"
+    },
+    {
+      "text": "Léganès",
+      "start": 12583,
+      "end": 12590,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 13449,
+      "end": 13455,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 13557,
+      "end": 13562,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 13755,
+      "end": 13764,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 13905,
+      "end": 13909,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 14014,
+      "end": 14020,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 14092,
+      "end": 14097,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 14387,
+      "end": 14394,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 14407,
+      "end": 14415,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 14466,
+      "end": 14471,
+      "label": "PER"
+    },
+    {
+      "text": "Manuel",
+      "start": 14544,
+      "end": 14550,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 14589,
+      "end": 14594,
+      "label": "PER"
+    },
+    {
+      "text": "Murillo",
+      "start": 14743,
+      "end": 14750,
+      "label": "PER"
+    },
+    {
+      "text": "officier hocha la tête",
+      "start": 14775,
+      "end": 14797,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 14917,
+      "end": 14922,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole frissonna d'abord",
+      "start": 14926,
+      "end": 14953,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 15038,
+      "end": 15042,
+      "label": "MISC"
+    },
+    {
+      "text": "Juanito",
+      "start": 15072,
+      "end": 15079,
+      "label": "LOC"
+    },
+    {
+      "text": "donnerez",
+      "start": 15128,
+      "end": 15136,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 15282,
+      "end": 15287,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 15312,
+      "end": 15319,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 15367,
+      "end": 15373,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 15583,
+      "end": 15589,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito !",
+      "start": 15633,
+      "end": 15642,
+      "label": "MISC"
+    },
+    {
+      "text": "Juanito",
+      "start": 15651,
+      "end": 15658,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 15802,
+      "end": 15807,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher Juanito",
+      "start": 15860,
+      "end": 15876,
+      "label": "MISC"
+    },
+    {
+      "text": "Je n'aurai pas à subir l'odieux contact des mains d'un bourreau",
+      "start": 16021,
+      "end": 16084,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor",
+      "start": 16246,
+      "end": 16252,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 16291,
+      "end": 16298,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 16315,
+      "end": 16323,
+      "label": "LOC"
+    },
+    {
+      "text": "Aie",
+      "start": 16327,
+      "end": 16330,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 16361,
+      "end": 16369,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 16432,
+      "end": 16437,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 16485,
+      "end": 16492,
+      "label": "LOC"
+    },
+    {
+      "text": "Juanito",
+      "start": 16613,
+      "end": 16620,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 16719,
+      "end": 16724,
+      "label": "PER"
+    },
+    {
+      "text": "Manuel",
+      "start": 16726,
+      "end": 16732,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 16736,
+      "end": 16744,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 16955,
+      "end": 16959,
+      "label": "PER"
+    },
+    {
+      "text": "madame ?",
+      "start": 17061,
+      "end": 17069,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 17183,
+      "end": 17190,
+      "label": "PER"
+    },
+    {
+      "text": "Mariquita",
+      "start": 17272,
+      "end": 17281,
+      "label": "PER"
+    },
+    {
+      "text": "Manuel",
+      "start": 17421,
+      "end": 17427,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 17545,
+      "end": 17552,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 17554,
+      "end": 17560,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 17626,
+      "end": 17631,
+      "label": "PER"
+    },
+    {
+      "text": "Menda",
+      "start": 17874,
+      "end": 17879,
+      "label": "ORG"
+    },
+    {
+      "text": "Léganès",
+      "start": 17983,
+      "end": 17990,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 18046,
+      "end": 18055,
+      "label": "LOC"
+    },
+    {
+      "text": "Juanito",
+      "start": 18338,
+      "end": 18345,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnols",
+      "start": 18359,
+      "end": 18368,
+      "label": "LOC"
+    },
+    {
+      "text": "Juanito",
+      "start": 19069,
+      "end": 19076,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 19144,
+      "end": 19149,
+      "label": "PER"
+    },
+    {
+      "text": "Mariquita",
+      "start": 19151,
+      "end": 19160,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 19234,
+      "end": 19241,
+      "label": "PER"
+    },
+    {
+      "text": "la manche",
+      "start": 19323,
+      "end": 19332,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 19507,
+      "end": 19516,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 19558,
+      "end": 19563,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 19603,
+      "end": 19610,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 19736,
+      "end": 19742,
+      "label": "PER"
+    },
+    {
+      "text": "Clara",
+      "start": 19778,
+      "end": 19783,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 19983,
+      "end": 19992,
+      "label": "LOC"
+    },
+    {
+      "text": "Juanito",
+      "start": 20056,
+      "end": 20063,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 20127,
+      "end": 20133,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 20261,
+      "end": 20265,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 20292,
+      "end": 20299,
+      "label": "LOC"
+    },
+    {
+      "text": "Manuel",
+      "start": 20334,
+      "end": 20340,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 20356,
+      "end": 20360,
+      "label": "MISC"
+    },
+    {
+      "text": "Mariquita !",
+      "start": 20373,
+      "end": 20384,
+      "label": "MISC"
+    },
+    {
+      "text": "Juanito",
+      "start": 20389,
+      "end": 20396,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 20410,
+      "end": 20414,
+      "label": "MISC"
+    },
+    {
+      "text": "Juanito",
+      "start": 20472,
+      "end": 20479,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 20671,
+      "end": 20678,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 20708,
+      "end": 20717,
+      "label": "LOC"
+    },
+    {
+      "text": "Maintenant",
+      "start": 20767,
+      "end": 20777,
+      "label": "ORG"
+    },
+    {
+      "text": "Juanito",
+      "start": 20838,
+      "end": 20845,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 21109,
+      "end": 21116,
+      "label": "PER"
+    },
+    {
+      "text": "Juanito",
+      "start": 21253,
+      "end": 21260,
+      "label": "PER"
+    },
+    {
+      "text": "Marchand",
+      "start": 21328,
+      "end": 21336,
+      "label": "LOC"
+    },
+    {
+      "text": "général C",
+      "start": 21474,
+      "end": 21483,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 21583,
+      "end": 21590,
+      "label": "LOC"
+    },
+    {
+      "text": "El verdugo",
+      "start": 21790,
+      "end": 21800,
+      "label": "LOC"
+    },
+    {
+      "text": "roi d'Espagne",
+      "start": 21822,
+      "end": 21835,
+      "label": "PER"
+    },
+    {
+      "text": "Léganès",
+      "start": 21882,
+      "end": 21889,
+      "label": "PER"
+    },
+    {
+      "text": "Accablé",
+      "start": 21961,
+      "end": 21968,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 22156,
+      "end": 22161,
+      "label": "LOC"
+    }
+  ]
+}

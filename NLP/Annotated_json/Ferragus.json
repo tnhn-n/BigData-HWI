@@ -1,0 +1,2998 @@
+{
+  "entities": [
+    {
+      "text": "FERRAGUS",
+      "start": 0,
+      "end": 8,
+      "label": "ORG"
+    },
+    {
+      "text": "HISTOIRE DES",
+      "start": 11,
+      "end": 23,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Empire",
+      "start": 72,
+      "end": 80,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89,
+      "end": 94,
+      "label": "LOC"
+    },
+    {
+      "text": "Manfred",
+      "start": 1252,
+      "end": 1259,
+      "label": "MISC"
+    },
+    {
+      "text": "Faust",
+      "start": 1265,
+      "end": 1270,
+      "label": "MISC"
+    },
+    {
+      "text": "Melmoth",
+      "start": 1276,
+      "end": 1283,
+      "label": "MISC"
+    },
+    {
+      "text": "Morgan",
+      "start": 1412,
+      "end": 1418,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Achille",
+      "start": 1420,
+      "end": 1429,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 1625,
+      "end": 1633,
+      "label": "PER"
+    },
+    {
+      "text": "madame Radcliffe",
+      "start": 1778,
+      "end": 1794,
+      "label": "PER"
+    },
+    {
+      "text": "Macpherson",
+      "start": 2812,
+      "end": 2822,
+      "label": "PER"
+    },
+    {
+      "text": "Ossian",
+      "start": 2838,
+      "end": 2844,
+      "label": "LOC"
+    },
+    {
+      "text": "Itinéraire",
+      "start": 3078,
+      "end": 3088,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3092,
+      "end": 3097,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 3100,
+      "end": 3109,
+      "label": "LOC"
+    },
+    {
+      "text": "Homère",
+      "start": 3195,
+      "end": 3201,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 3228,
+      "end": 3232,
+      "label": "MISC"
+    },
+    {
+      "text": "Treize",
+      "start": 4071,
+      "end": 4077,
+      "label": "MISC"
+    },
+    {
+      "text": "Histoire des treize",
+      "start": 4894,
+      "end": 4913,
+      "label": "MISC"
+    },
+    {
+      "text": "FERRAGUS",
+      "start": 5389,
+      "end": 5397,
+      "label": "ORG"
+    },
+    {
+      "text": "Dévorants",
+      "start": 5460,
+      "end": 5469,
+      "label": "PER"
+    },
+    {
+      "text": "Dévorants",
+      "start": 5670,
+      "end": 5679,
+      "label": "PER"
+    },
+    {
+      "text": "Trempe la",
+      "start": 5684,
+      "end": 5693,
+      "label": "PER"
+    },
+    {
+      "text": "Soupe IX",
+      "start": 5694,
+      "end": 5702,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferragus XXII",
+      "start": 5704,
+      "end": 5717,
+      "label": "MISC"
+    },
+    {
+      "text": "Tutanus XIII",
+      "start": 5719,
+      "end": 5731,
+      "label": "PER"
+    },
+    {
+      "text": "Masche Fer IV",
+      "start": 5733,
+      "end": 5746,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 5762,
+      "end": 5768,
+      "label": "MISC"
+    },
+    {
+      "text": "Clément XIV",
+      "start": 5775,
+      "end": 5786,
+      "label": "PER"
+    },
+    {
+      "text": "Grégoire IX",
+      "start": 5788,
+      "end": 5799,
+      "label": "PER"
+    },
+    {
+      "text": "Jules II",
+      "start": 5801,
+      "end": 5809,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre VI",
+      "start": 5811,
+      "end": 5823,
+      "label": "PER"
+    },
+    {
+      "text": "Maintenant",
+      "start": 5830,
+      "end": 5840,
+      "label": "PER"
+    },
+    {
+      "text": "Dévorants",
+      "start": 5855,
+      "end": 5864,
+      "label": "MISC"
+    },
+    {
+      "text": "Compagnons",
+      "start": 5908,
+      "end": 5918,
+      "label": "LOC"
+    },
+    {
+      "text": "temple de Jérusalem",
+      "start": 6032,
+      "end": 6051,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnonage",
+      "start": 6056,
+      "end": 6068,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 6090,
+      "end": 6096,
+      "label": "LOC"
+    },
+    {
+      "text": "les Compagnons",
+      "start": 6460,
+      "end": 6474,
+      "label": "ORG"
+    },
+    {
+      "text": "Obade",
+      "start": 6507,
+      "end": 6512,
+      "label": "LOC"
+    },
+    {
+      "text": "Mère",
+      "start": 6542,
+      "end": 6546,
+      "label": "PER"
+    },
+    {
+      "text": "Compagnon",
+      "start": 6904,
+      "end": 6913,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnons",
+      "start": 7170,
+      "end": 7180,
+      "label": "LOC"
+    },
+    {
+      "text": "Dévorant",
+      "start": 7381,
+      "end": 7389,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnonage",
+      "start": 7457,
+      "end": 7469,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnons du Devoir",
+      "start": 7527,
+      "end": 7547,
+      "label": "MISC"
+    },
+    {
+      "text": "Dévorants",
+      "start": 7564,
+      "end": 7573,
+      "label": "ORG"
+    },
+    {
+      "text": "Trempe la Soupe",
+      "start": 7868,
+      "end": 7883,
+      "label": "ORG"
+    },
+    {
+      "text": "Providence",
+      "start": 8206,
+      "end": 8216,
+      "label": "LOC"
+    },
+    {
+      "text": "les Dévorants",
+      "start": 8259,
+      "end": 8272,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferragus",
+      "start": 8443,
+      "end": 8451,
+      "label": "LOC"
+    },
+    {
+      "text": "Dévorants",
+      "start": 8466,
+      "end": 8475,
+      "label": "PER"
+    },
+    {
+      "text": "Treize l'auteur",
+      "start": 8508,
+      "end": 8523,
+      "label": "MISC"
+    },
+    {
+      "text": "Châtelet de la littérature",
+      "start": 8712,
+      "end": 8738,
+      "label": "MISC"
+    },
+    {
+      "text": "CONTEMPORAINE",
+      "start": 8835,
+      "end": 8848,
+      "label": "LOC"
+    },
+    {
+      "text": "Treize",
+      "start": 8854,
+      "end": 8860,
+      "label": "LOC"
+    },
+    {
+      "text": "Trelawney",
+      "start": 8906,
+      "end": 8915,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Byron",
+      "start": 8926,
+      "end": 8936,
+      "label": "PER"
+    },
+    {
+      "text": "Corsaire",
+      "start": 8964,
+      "end": 8972,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 9254,
+      "end": 9260,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 9307,
+      "end": 9313,
+      "label": "MISC"
+    },
+    {
+      "text": "Jaffier",
+      "start": 9320,
+      "end": 9327,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus",
+      "start": 11028,
+      "end": 11033,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11188,
+      "end": 11193,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux de la Montagne",
+      "start": 11420,
+      "end": 11440,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12304,
+      "end": 12309,
+      "label": "LOC"
+    },
+    {
+      "text": "I",
+      "start": 12317,
+      "end": 12318,
+      "label": "LOC"
+    },
+    {
+      "text": "FERRAGUS",
+      "start": 12319,
+      "end": 12327,
+      "label": "ORG"
+    },
+    {
+      "text": "CHEF DES DÉVORANTS       ",
+      "start": 12329,
+      "end": 12354,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 12383,
+      "end": 12388,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12866,
+      "end": 12871,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 13153,
+      "end": 13167,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Paix",
+      "start": 13225,
+      "end": 13239,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Royale",
+      "start": 13390,
+      "end": 13400,
+      "label": "LOC"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 13462,
+      "end": 13475,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Louis",
+      "start": 13518,
+      "end": 13533,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise de Paris",
+      "start": 13732,
+      "end": 13747,
+      "label": "LOC"
+    },
+    {
+      "text": "place de la Bourse",
+      "start": 13752,
+      "end": 13770,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13904,
+      "end": 13909,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 13959,
+      "end": 13964,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Traversière Saint Honoré",
+      "start": 13969,
+      "end": 13997,
+      "label": "LOC"
+    },
+    {
+      "text": "Justice d'",
+      "start": 14305,
+      "end": 14315,
+      "label": "MISC"
+    },
+    {
+      "text": "Parlement",
+      "start": 14364,
+      "end": 14373,
+      "label": "ORG"
+    },
+    {
+      "text": "Beauvais",
+      "start": 14564,
+      "end": 14572,
+      "label": "LOC"
+    },
+    {
+      "text": "Benoiston",
+      "start": 14593,
+      "end": 14602,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteauneuf",
+      "start": 14606,
+      "end": 14617,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Fromenteau",
+      "start": 14745,
+      "end": 14759,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14869,
+      "end": 14874,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15000,
+      "end": 15005,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15103,
+      "end": 15108,
+      "label": "LOC"
+    },
+    {
+      "text": "Barrières",
+      "start": 15673,
+      "end": 15682,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16243,
+      "end": 16248,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16614,
+      "end": 16619,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16730,
+      "end": 16735,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16910,
+      "end": 16915,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16976,
+      "end": 16981,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 17220,
+      "end": 17225,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 17357,
+      "end": 17363,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyager",
+      "start": 17460,
+      "end": 17467,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 17473,
+      "end": 17478,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 17911,
+      "end": 17916,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 18133,
+      "end": 18138,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 19376,
+      "end": 19381,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 19890,
+      "end": 19901,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 19923,
+      "end": 19934,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20082,
+      "end": 20087,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 20355,
+      "end": 20366,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 20395,
+      "end": 20410,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Bourbon",
+      "start": 20505,
+      "end": 20519,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20654,
+      "end": 20659,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21028,
+      "end": 21033,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen Age",
+      "start": 22104,
+      "end": 22113,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22499,
+      "end": 22504,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 22671,
+      "end": 22677,
+      "label": "PER"
+    },
+    {
+      "text": "châle",
+      "start": 24047,
+      "end": 24052,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 24281,
+      "end": 24291,
+      "label": "LOC"
+    },
+    {
+      "text": "grelot",
+      "start": 24815,
+      "end": 24821,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 25055,
+      "end": 25061,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25438,
+      "end": 25443,
+      "label": "LOC"
+    },
+    {
+      "text": "maison ignoble",
+      "start": 25445,
+      "end": 25459,
+      "label": "LOC"
+    },
+    {
+      "text": "Gare",
+      "start": 26191,
+      "end": 26195,
+      "label": "LOC"
+    },
+    {
+      "text": "Providence",
+      "start": 26411,
+      "end": 26421,
+      "label": "LOC"
+    },
+    {
+      "text": "Songe",
+      "start": 26469,
+      "end": 26474,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 26504,
+      "end": 26513,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 26825,
+      "end": 26840,
+      "label": "LOC"
+    },
+    {
+      "text": "fiacre",
+      "start": 27235,
+      "end": 27241,
+      "label": "LOC"
+    },
+    {
+      "text": "monta",
+      "start": 27247,
+      "end": 27252,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de",
+      "start": 27463,
+      "end": 27469,
+      "label": "LOC"
+    },
+    {
+      "text": "Ménars",
+      "start": 27542,
+      "end": 27548,
+      "label": "LOC"
+    },
+    {
+      "text": "Brune",
+      "start": 27706,
+      "end": 27711,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 27859,
+      "end": 27865,
+      "label": "PER"
+    },
+    {
+      "text": "Madame la duchesse de Langeais",
+      "start": 28025,
+      "end": 28055,
+      "label": "PER"
+    },
+    {
+      "text": "Envoyez",
+      "start": 28158,
+      "end": 28165,
+      "label": "MISC"
+    },
+    {
+      "text": "Ménars",
+      "start": 28232,
+      "end": 28238,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 28425,
+      "end": 28430,
+      "label": "LOC"
+    },
+    {
+      "text": "Fatalité",
+      "start": 28853,
+      "end": 28861,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseiller",
+      "start": 29121,
+      "end": 29131,
+      "label": "ORG"
+    },
+    {
+      "text": "Parlement",
+      "start": 29135,
+      "end": 29144,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 29148,
+      "end": 29153,
+      "label": "LOC"
+    },
+    {
+      "text": "Président",
+      "start": 29174,
+      "end": 29183,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 29573,
+      "end": 29594,
+      "label": "PER"
+    },
+    {
+      "text": "Charbonnon de Maulincour",
+      "start": 29617,
+      "end": 29641,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 29771,
+      "end": 29783,
+      "label": "MISC"
+    },
+    {
+      "text": "Maison Rouge",
+      "start": 29842,
+      "end": 29854,
+      "label": "MISC"
+    },
+    {
+      "text": "Gand",
+      "start": 29877,
+      "end": 29881,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardes du corps",
+      "start": 29910,
+      "end": 29925,
+      "label": "MISC"
+    },
+    {
+      "text": "Ligne",
+      "start": 29957,
+      "end": 29962,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde royale",
+      "start": 29984,
+      "end": 29996,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 30386,
+      "end": 30392,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 30407,
+      "end": 30417,
+      "label": "LOC"
+    },
+    {
+      "text": "Pamiers",
+      "start": 30452,
+      "end": 30459,
+      "label": "PER"
+    },
+    {
+      "text": "Commandeur de l'ordre de Malte",
+      "start": 30468,
+      "end": 30498,
+      "label": "ORG"
+    },
+    {
+      "text": "Doyen de Killerine",
+      "start": 30857,
+      "end": 30875,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 30963,
+      "end": 30984,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 31009,
+      "end": 31022,
+      "label": "LOC"
+    },
+    {
+      "text": "Clovis",
+      "start": 31176,
+      "end": 31182,
+      "label": "PER"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 31436,
+      "end": 31464,
+      "label": "ORG"
+    },
+    {
+      "text": "Restauration",
+      "start": 31520,
+      "end": 31532,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 31672,
+      "end": 31680,
+      "label": "LOC"
+    },
+    {
+      "text": "Émigration",
+      "start": 31703,
+      "end": 31713,
+      "label": "LOC"
+    },
+    {
+      "text": "Fois politiques",
+      "start": 31856,
+      "end": 31871,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 31879,
+      "end": 31890,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 31924,
+      "end": 31933,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 32173,
+      "end": 32177,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 32297,
+      "end": 32303,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 32370,
+      "end": 32382,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 32403,
+      "end": 32424,
+      "label": "PER"
+    },
+    {
+      "text": "Tarare",
+      "start": 32800,
+      "end": 32806,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 33188,
+      "end": 33192,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 33422,
+      "end": 33432,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 33654,
+      "end": 33658,
+      "label": "MISC"
+    },
+    {
+      "text": "douce mélancolie",
+      "start": 34527,
+      "end": 34543,
+      "label": "PER"
+    },
+    {
+      "text": "Grandisson",
+      "start": 35598,
+      "end": 35608,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste",
+      "start": 36322,
+      "end": 36329,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 36664,
+      "end": 36671,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 38032,
+      "end": 38039,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 38257,
+      "end": 38264,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 38393,
+      "end": 38400,
+      "label": "PER"
+    },
+    {
+      "text": "Soly",
+      "start": 38778,
+      "end": 38782,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 38792,
+      "end": 38803,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 38988,
+      "end": 38995,
+      "label": "PER"
+    },
+    {
+      "text": "Descartes",
+      "start": 39066,
+      "end": 39075,
+      "label": "PER"
+    },
+    {
+      "text": "baron de Maulincour",
+      "start": 39180,
+      "end": 39199,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Nucingen",
+      "start": 39371,
+      "end": 39389,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 39443,
+      "end": 39455,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 39493,
+      "end": 39500,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste",
+      "start": 39526,
+      "end": 39533,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 39547,
+      "end": 39555,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 39571,
+      "end": 39583,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 39767,
+      "end": 39774,
+      "label": "PER"
+    },
+    {
+      "text": "Rue Soly",
+      "start": 39906,
+      "end": 39914,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 39987,
+      "end": 39999,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 40568,
+      "end": 40589,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 40605,
+      "end": 40617,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 41272,
+      "end": 41284,
+      "label": "PER"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 41483,
+      "end": 41498,
+      "label": "PER"
+    },
+    {
+      "text": "Agent de change du baron de",
+      "start": 41512,
+      "end": 41539,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 41540,
+      "end": 41548,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Desmarets",
+      "start": 41581,
+      "end": 41599,
+      "label": "PER"
+    },
+    {
+      "text": "Agent de change",
+      "start": 41649,
+      "end": 41664,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 42670,
+      "end": 42675,
+      "label": "LOC"
+    },
+    {
+      "text": "Commerce",
+      "start": 43317,
+      "end": 43325,
+      "label": "LOC"
+    },
+    {
+      "text": "Barreau",
+      "start": 43330,
+      "end": 43337,
+      "label": "LOC"
+    },
+    {
+      "text": "Politique",
+      "start": 43347,
+      "end": 43356,
+      "label": "LOC"
+    },
+    {
+      "text": "les Lettres",
+      "start": 43365,
+      "end": 43376,
+      "label": "MISC"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 43645,
+      "end": 43660,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44446,
+      "end": 44451,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 44790,
+      "end": 44805,
+      "label": "PER"
+    },
+    {
+      "text": "État Civil",
+      "start": 45326,
+      "end": 45336,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémence",
+      "start": 45352,
+      "end": 45360,
+      "label": "PER"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 45464,
+      "end": 45479,
+      "label": "PER"
+    },
+    {
+      "text": "Clémence",
+      "start": 45538,
+      "end": 45546,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 45756,
+      "end": 45761,
+      "label": "PER"
+    },
+    {
+      "text": "Clémence",
+      "start": 45999,
+      "end": 46007,
+      "label": "PER"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 46069,
+      "end": 46084,
+      "label": "PER"
+    },
+    {
+      "text": "Agent de change",
+      "start": 46108,
+      "end": 46123,
+      "label": "MISC"
+    },
+    {
+      "text": "Charges",
+      "start": 46204,
+      "end": 46211,
+      "label": "MISC"
+    },
+    {
+      "text": "Agent de change",
+      "start": 46280,
+      "end": 46295,
+      "label": "MISC"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 46366,
+      "end": 46381,
+      "label": "PER"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 46604,
+      "end": 46619,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 47022,
+      "end": 47032,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémence",
+      "start": 47065,
+      "end": 47073,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 47117,
+      "end": 47122,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 47214,
+      "end": 47219,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 47295,
+      "end": 47300,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules",
+      "start": 47450,
+      "end": 47455,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 47531,
+      "end": 47543,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 47916,
+      "end": 47928,
+      "label": "PER"
+    },
+    {
+      "text": "Ménars",
+      "start": 48214,
+      "end": 48220,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules",
+      "start": 48440,
+      "end": 48445,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 48648,
+      "end": 48653,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 48774,
+      "end": 48786,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 48943,
+      "end": 48955,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 49481,
+      "end": 49486,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 49678,
+      "end": 49699,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 50020,
+      "end": 50032,
+      "label": "MISC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 50510,
+      "end": 50520,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 50888,
+      "end": 50900,
+      "label": "PER"
+    },
+    {
+      "text": "Quel abîme",
+      "start": 51017,
+      "end": 51027,
+      "label": "MISC"
+    },
+    {
+      "text": "Nuits d'Young",
+      "start": 51211,
+      "end": 51224,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 51512,
+      "end": 51525,
+      "label": "PER"
+    },
+    {
+      "text": "Banque envahirait le Luxembourg",
+      "start": 51554,
+      "end": 51585,
+      "label": "ORG"
+    },
+    {
+      "text": "Banque",
+      "start": 51734,
+      "end": 51740,
+      "label": "ORG"
+    },
+    {
+      "text": "Nucingen",
+      "start": 51783,
+      "end": 51791,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 51845,
+      "end": 51850,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 51901,
+      "end": 51906,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 52083,
+      "end": 52088,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh",
+      "start": 52290,
+      "end": 52292,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 52307,
+      "end": 52314,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 52480,
+      "end": 52485,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 52497,
+      "end": 52502,
+      "label": "PER"
+    },
+    {
+      "text": "Soly",
+      "start": 52510,
+      "end": 52514,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 52582,
+      "end": 52588,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 52623,
+      "end": 52632,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 52903,
+      "end": 52908,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 52929,
+      "end": 52936,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 53213,
+      "end": 53219,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 53277,
+      "end": 53283,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 53953,
+      "end": 53957,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 54175,
+      "end": 54179,
+      "label": "MISC"
+    },
+    {
+      "text": "Soly",
+      "start": 54435,
+      "end": 54439,
+      "label": "MISC"
+    },
+    {
+      "text": "Soly",
+      "start": 54475,
+      "end": 54479,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 54486,
+      "end": 54495,
+      "label": "PER"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 54718,
+      "end": 54733,
+      "label": "LOC"
+    },
+    {
+      "text": "Soly",
+      "start": 54753,
+      "end": 54757,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de Richelieu",
+      "start": 54825,
+      "end": 54841,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 55172,
+      "end": 55179,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 55306,
+      "end": 55314,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 55640,
+      "end": 55652,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 55754,
+      "end": 55766,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 55897,
+      "end": 55907,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 56086,
+      "end": 56098,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 56312,
+      "end": 56319,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 56492,
+      "end": 56497,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 56713,
+      "end": 56725,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 56887,
+      "end": 56894,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 57158,
+      "end": 57165,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 57178,
+      "end": 57190,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58193,
+      "end": 58198,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58424,
+      "end": 58429,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58521,
+      "end": 58526,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 58730,
+      "end": 58751,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58890,
+      "end": 58895,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 58929,
+      "end": 58940,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 58958,
+      "end": 58973,
+      "label": "LOC"
+    },
+    {
+      "text": "Ménars",
+      "start": 59017,
+      "end": 59023,
+      "label": "LOC"
+    },
+    {
+      "text": "Ménars",
+      "start": 59066,
+      "end": 59072,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 59341,
+      "end": 59353,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 59648,
+      "end": 59653,
+      "label": "PER"
+    },
+    {
+      "text": "rue Coquillière",
+      "start": 60190,
+      "end": 60205,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60383,
+      "end": 60388,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 60721,
+      "end": 60730,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 62098,
+      "end": 62102,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 62184,
+      "end": 62189,
+      "label": "LOC"
+    },
+    {
+      "text": "parapluie",
+      "start": 62199,
+      "end": 62208,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 62830,
+      "end": 62840,
+      "label": "LOC"
+    },
+    {
+      "text": "logis",
+      "start": 63122,
+      "end": 63127,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Cloud",
+      "start": 63169,
+      "end": 63180,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 63977,
+      "end": 63982,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 64229,
+      "end": 64234,
+      "label": "LOC"
+    },
+    {
+      "text": "Charlet",
+      "start": 64521,
+      "end": 64528,
+      "label": "PER"
+    },
+    {
+      "text": "mime profond",
+      "start": 65674,
+      "end": 65686,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 65973,
+      "end": 65978,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 66376,
+      "end": 66386,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 67044,
+      "end": 67052,
+      "label": "PER"
+    },
+    {
+      "text": "don Quichotte",
+      "start": 67058,
+      "end": 67071,
+      "label": "MISC"
+    },
+    {
+      "text": "brun",
+      "start": 67373,
+      "end": 67377,
+      "label": "PER"
+    },
+    {
+      "text": "meurtri",
+      "start": 67379,
+      "end": 67386,
+      "label": "PER"
+    },
+    {
+      "text": "Bureaux",
+      "start": 67832,
+      "end": 67839,
+      "label": "MISC"
+    },
+    {
+      "text": "Sacristies",
+      "start": 67845,
+      "end": 67855,
+      "label": "MISC"
+    },
+    {
+      "text": "Hospices",
+      "start": 67863,
+      "end": 67871,
+      "label": "LOC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 68134,
+      "end": 68144,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 68639,
+      "end": 68649,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 68816,
+      "end": 68826,
+      "label": "LOC"
+    },
+    {
+      "text": "Mosieur",
+      "start": 69216,
+      "end": 69223,
+      "label": "PER"
+    },
+    {
+      "text": "Mosieur Ferragusse",
+      "start": 69225,
+      "end": 69243,
+      "label": "PER"
+    },
+    {
+      "text": "Rue des Grans Augustains",
+      "start": 69245,
+      "end": 69269,
+      "label": "LOC"
+    },
+    {
+      "text": "PARIS",
+      "start": 69296,
+      "end": 69301,
+      "label": "MISC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 69374,
+      "end": 69384,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 69836,
+      "end": 69848,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 70098,
+      "end": 70110,
+      "label": "PER"
+    },
+    {
+      "text": "HENRY",
+      "start": 70739,
+      "end": 70744,
+      "label": "MISC"
+    },
+    {
+      "text": "Henry",
+      "start": 71259,
+      "end": 71264,
+      "label": "PER"
+    },
+    {
+      "text": "Henry",
+      "start": 72121,
+      "end": 72126,
+      "label": "PER"
+    },
+    {
+      "text": "Ainci",
+      "start": 72279,
+      "end": 72284,
+      "label": "PER"
+    },
+    {
+      "text": "Henry",
+      "start": 72302,
+      "end": 72307,
+      "label": "PER"
+    },
+    {
+      "text": "Ida",
+      "start": 72325,
+      "end": 72328,
+      "label": "PER"
+    },
+    {
+      "text": "Henry",
+      "start": 72501,
+      "end": 72506,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Meynardie",
+      "start": 73390,
+      "end": 73406,
+      "label": "PER"
+    },
+    {
+      "text": "Henry",
+      "start": 73778,
+      "end": 73783,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 74610,
+      "end": 74620,
+      "label": "LOC"
+    },
+    {
+      "text": "Ida",
+      "start": 74657,
+      "end": 74660,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 74690,
+      "end": 74702,
+      "label": "PER"
+    },
+    {
+      "text": "Ida",
+      "start": 74862,
+      "end": 74865,
+      "label": "PER"
+    },
+    {
+      "text": "rue Pagevin",
+      "start": 75039,
+      "end": 75050,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 75103,
+      "end": 75118,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 75135,
+      "end": 75149,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa t",
+      "start": 75225,
+      "end": 75232,
+      "label": "PER"
+    },
+    {
+      "text": "grelot",
+      "start": 75321,
+      "end": 75327,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Ferragus",
+      "start": 75566,
+      "end": 75583,
+      "label": "MISC"
+    },
+    {
+      "text": "Connais",
+      "start": 75588,
+      "end": 75595,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferragus",
+      "start": 75623,
+      "end": 75631,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 75788,
+      "end": 75794,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Ferragus",
+      "start": 75842,
+      "end": 75859,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 75863,
+      "end": 75867,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste",
+      "start": 75996,
+      "end": 76003,
+      "label": "PER"
+    },
+    {
+      "text": "mystérieux Ferragus",
+      "start": 76135,
+      "end": 76154,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 76199,
+      "end": 76203,
+      "label": "MISC"
+    },
+    {
+      "text": "le Ferragus",
+      "start": 76510,
+      "end": 76521,
+      "label": "PER"
+    },
+    {
+      "text": "Ida",
+      "start": 76544,
+      "end": 76547,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 76735,
+      "end": 76747,
+      "label": "PER"
+    },
+    {
+      "text": "Ferragus",
+      "start": 76923,
+      "end": 76931,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 77017,
+      "end": 77024,
+      "label": "PER"
+    },
+    {
+      "text": "Arrière",
+      "start": 77085,
+      "end": 77092,
+      "label": "LOC"
+    },
+    {
+      "text": "Seriez",
+      "start": 77196,
+      "end": 77202,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 77303,
+      "end": 77310,
+      "label": "PER"
+    },
+    {
+      "text": "Ferragus",
+      "start": 77561,
+      "end": 77569,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 78208,
+      "end": 78215,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 78438,
+      "end": 78445,
+      "label": "PER"
+    },
+    {
+      "text": "Ida",
+      "start": 78558,
+      "end": 78561,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferragus",
+      "start": 78563,
+      "end": 78571,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 78575,
+      "end": 78587,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 78740,
+      "end": 78752,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 78765,
+      "end": 78777,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 78789,
+      "end": 78801,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 78819,
+      "end": 78829,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 79097,
+      "end": 79109,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79159,
+      "end": 79164,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 79203,
+      "end": 79208,
+      "label": "LOC"
+    },
+    {
+      "text": "place du Châtelet",
+      "start": 79631,
+      "end": 79648,
+      "label": "LOC"
+    },
+    {
+      "text": "Weynen",
+      "start": 79842,
+      "end": 79848,
+      "label": "PER"
+    },
+    {
+      "text": "Limousins",
+      "start": 80386,
+      "end": 80395,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Maulincour",
+      "start": 80710,
+      "end": 80726,
+      "label": "ORG"
+    },
+    {
+      "text": "baron de Maulincour",
+      "start": 80862,
+      "end": 80881,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 80939,
+      "end": 80951,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 81440,
+      "end": 81450,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 81689,
+      "end": 81699,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 81921,
+      "end": 81931,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 82193,
+      "end": 82205,
+      "label": "PER"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 82280,
+      "end": 82296,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 82357,
+      "end": 82366,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre des Députés",
+      "start": 82413,
+      "end": 82432,
+      "label": "ORG"
+    },
+    {
+      "text": "Ferragus",
+      "start": 82916,
+      "end": 82924,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 82930,
+      "end": 82942,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 83125,
+      "end": 83135,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 83529,
+      "end": 83533,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 83665,
+      "end": 83673,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 83677,
+      "end": 83687,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 84041,
+      "end": 84053,
+      "label": "PER"
+    },
+    {
+      "text": "Ferragus",
+      "start": 84123,
+      "end": 84131,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 84152,
+      "end": 84162,
+      "label": "LOC"
+    },
+    {
+      "text": "Taire",
+      "start": 85627,
+      "end": 85632,
+      "label": "PER"
+    },
+    {
+      "text": "Ali Pacha",
+      "start": 85760,
+      "end": 85769,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 85937,
+      "end": 85947,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 85971,
+      "end": 85983,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Jules",
+      "start": 86211,
+      "end": 86223,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 86559,
+      "end": 86566,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 86810,
+      "end": 86817,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 87770,
+      "end": 87776,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 87780,
+      "end": 87786,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 87790,
+      "end": 87795,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 87800,
+      "end": 87805,
+      "label": "LOC"
+    },
+    {
+      "text": "Syrie",
+      "start": 87809,
+      "end": 87814,
+      "label": "LOC"
+    },
+    {
+      "text": "Syrie",
+      "start": 87819,
+      "end": 87824,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie",
+      "start": 87828,
+      "end": 87832,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferragus",
+      "start": 88065,
+      "end": 88073,
+      "label": "MISC"
+    },
+    {
+      "text": "Figaro retiré",
+      "start": 88467,
+      "end": 88480,
+      "label": "MISC"
+    },
+    {
+      "text": "Scapin",
+      "start": 88821,
+      "end": 88827,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 89360,
+      "end": 89370,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 89374,
+      "end": 89382,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 89597,
+      "end": 89607,
+      "label": "LOC"
+    },
+    {
+      "text": "Justin",
+      "start": 89693,
+      "end": 89699,
+      "label": "PER"
+    },
+    {
+      "text": "Ferragus",
+      "start": 89864,
+      "end": 89872,
+      "label": "LOC"
+    },
+    {
+      "text": "Gratien",
+      "start": 89965,
+      "end": 89972,
+      "label": "PER"
+    },
+    {
+      "text": "Henri",
+      "start": 89974,
+      "end": 89979,
+      "label": "PER"
+    },
+    {
+      "text": "Victor",
+      "start": 89981,
+      "end": 89987,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Joseph Bourignard",
+      "start": 89989,
+      "end": 90011,
+      "label": "PER"
+    },
+    {
+      "text": "Gratien Bourignard",
+      "start": 90022,
+      "end": 90040,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 90142,
+      "end": 90147,
+      "label": "LOC"
+    },
+    {
+      "text": "Lovelace",
+      "start": 90152,
+      "end": 90160,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandisson",
+      "start": 90180,
+      "end": 90190,
+      "label": "PER"
+    },
+    {
+      "text": "les Compagnons de l'Ordre des Dévorants",
+      "start": 90255,
+      "end": 90294,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferragus XXIII",
+      "start": 90347,
+      "end": 90361,
+      "label": "PER"
+    },
+    {
+      "text": "Vieux Augustins",
+      "start": 90496,
+      "end": 90511,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Joquelet",
+      "start": 90534,
+      "end": 90546,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules Desmarest",
+      "start": 90555,
+      "end": 90570,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 90631,
+      "end": 90637,
+      "label": "LOC"
+    },
+    {
+      "text": "Vivienne",
+      "start": 90651,
+      "end": 90659,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 90688,
+      "end": 90694,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 90696,
+      "end": 90704,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 90847,
+      "end": 90859,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Bourignard",
+      "start": 90935,
+      "end": 90949,
+      "label": "PER"
+    },
+    {
+      "text": "Justin",
+      "start": 91708,
+      "end": 91714,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 91855,
+      "end": 91870,
+      "label": "MISC"
+    },
+    {
+      "text": "Jules",
+      "start": 91923,
+      "end": 91928,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 91946,
+      "end": 91953,
+      "label": "PER"
+    },
+    {
+      "text": "Gratien Bourignard",
+      "start": 91984,
+      "end": 92002,
+      "label": "PER"
+    },
+    {
+      "text": "madame Jules",
+      "start": 92045,
+      "end": 92057,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste de Maulincour",
+      "start": 92083,
+      "end": 92104,
+      "label": "PER"
+    },
+    {
+      "text": "Gardes du corps",
+      "start": 92166,
+      "end": 92181,
+      "label": "MISC"
+    },
+    {
+      "text": "Élysée Bourbon",
+      "start": 92200,
+      "end": 92214,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la duchesse de Berri",
+      "start": 92221,
+      "end": 92248,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 92463,
+      "end": 92486,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 92535,
+      "end": 92542,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 92547,
+      "end": 92554,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 92627,
+      "end": 92639,
+      "label": "LOC"
+    },
+    {
+      "text": "Serizy",
+      "start": 92656,
+      "end": 92662,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 92840,
+      "end": 92847,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Serizy",
+      "start": 92883,
+      "end": 92899,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 93124,
+      "end": 93136,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 93150,
+      "end": 93163,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Serizy",
+      "start": 93214,
+      "end": 93230,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 93287,
+      "end": 93297,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 93407,
+      "end": 93417,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 93424,
+      "end": 93436,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 93535,
+      "end": 93542,
+      "label": "PER"
+    },
+    {
+      "text": "Ferragus",
+      "start": 93686,
+      "end": 93694,
+      "label": "LOC"
+    },
+    {
+      "text": "Dévorants",
+      "start": 93705,
+      "end": 93714,
+      "label": "ORG"
+    },
+    {
+      "text": "Messieurs",
+      "start": 93817,
+      "end": 93826,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 93904,
+      "end": 93916,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur de Ronquerolles",
+      "start": 94277,
+      "end": 94301,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 94422,
+      "end": 94426,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 94635,
+      "end": 94643,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 94698,
+      "end": 94710,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur de Ronquerolles",
+      "start": 94843,
+      "end": 94867,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 94949,
+      "end": 94959,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 95257,
+      "end": 95269,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 95275,
+      "end": 95282,
+      "label": "PER"
+    },
+    {
+      "text": "Jules César",
+      "start": 95368,
+      "end": 95379,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 95438,
+      "end": 95443,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 95454,
+      "end": 95461,
+      "label": "PER"
+    },
+    {
+      "text": "F",
+      "start": 95997,
+      "end": 95998,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 96211,
+      "end": 96221,
+      "label": "LOC"
+    },
+    {
+      "text": "Ménars",
+      "start": 96273,
+      "end": 96279,
+      "label": "LOC"
+    },
+    {
+      "text": "Jules Desmarets",
+      "start": 96459,
+      "end": 96474,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 96846,
+      "end": 96856,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 97216,
+      "end": 97223,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 97296,
+      "end": 97306,
+      "label": "LOC"
+    },
+    {
+      "text": "Manquer",
+      "start": 97308,
+      "end": 97315,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 97903,
+      "end": 97913,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 97952,
+      "end": 97957,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jules",
+      "start": 98002,
+      "end": 98014,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 98135,
+      "end": 98145,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous Chef",
+      "start": 98468,
+      "end": 98477,
+      "label": "MISC"
+    },
+    {
+      "text": "Vidocq",
+      "start": 98509,
+      "end": 98515,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 98593,
+      "end": 98603,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 98676,
+      "end": 98681,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de",
+      "start": 98746,
+      "end": 98754,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 98755,
+      "end": 98765,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourignard",
+      "start": 98977,
+      "end": 98987,
+      "label": "PER"
+    },
+    {
+      "text": "chaîne de Bicêtre",
+      "start": 99099,
+      "end": 99116,
+      "label": "LOC"
+    },
+    {
+      "text": "Toulon",
+      "start": 99119,
+      "end": 99125,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 99262,
+      "end": 99267,
+      "label": "LOC"
+    },
+    {
+      "text": "Maulincour",
+      "start": 99611,
+      "end": 99621,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourignard",
+      "start": 99710,
+      "end": 99720,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Foi",
+      "start": 99781,
+      "end": 99791,
+      "label": "PER"
+    },
+    {
+      "text": "Maulincour",
+      "start": 99850,
+      "end": 99860,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 99965,
+      "end": 99970,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,5200 @@
+{
+  "entities": [
+    {
+      "text": "ÈVE",
+      "start": 0,
+      "end": 3,
+      "label": "LOC"
+    },
+    {
+      "text": "DAVID",
+      "start": 7,
+      "end": 12,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 28,
+      "end": 34,
+      "label": "PER"
+    },
+    {
+      "text": "rue d'Enfer",
+      "start": 110,
+      "end": 121,
+      "label": "LOC"
+    },
+    {
+      "text": "Lonjumeau",
+      "start": 167,
+      "end": 176,
+      "label": "LOC"
+    },
+    {
+      "text": "Arpajon",
+      "start": 251,
+      "end": 258,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 281,
+      "end": 288,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 387,
+      "end": 392,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 468,
+      "end": 473,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 476,
+      "end": 484,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 486,
+      "end": 492,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 536,
+      "end": 544,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 652,
+      "end": 658,
+      "label": "PER"
+    },
+    {
+      "text": "Mansle",
+      "start": 1091,
+      "end": 1097,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 1171,
+      "end": 1189,
+      "label": "PER"
+    },
+    {
+      "text": "Charente",
+      "start": 1518,
+      "end": 1526,
+      "label": "LOC"
+    },
+    {
+      "text": "Sixte du Châtelet",
+      "start": 1537,
+      "end": 1554,
+      "label": "PER"
+    },
+    {
+      "text": "Louise de Nègrepelisse",
+      "start": 1568,
+      "end": 1590,
+      "label": "PER"
+    },
+    {
+      "text": "Montez",
+      "start": 1673,
+      "end": 1679,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 1701,
+      "end": 1707,
+      "label": "PER"
+    },
+    {
+      "text": "Mansle",
+      "start": 1841,
+      "end": 1847,
+      "label": "PER"
+    },
+    {
+      "text": "L'auteur des",
+      "start": 1999,
+      "end": 2011,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerites",
+      "start": 2012,
+      "end": 2023,
+      "label": "MISC"
+    },
+    {
+      "text": "chaume orné",
+      "start": 2519,
+      "end": 2530,
+      "label": "PER"
+    },
+    {
+      "text": "chèvrefeuille",
+      "start": 2622,
+      "end": 2635,
+      "label": "LOC"
+    },
+    {
+      "text": "houblon",
+      "start": 2642,
+      "end": 2649,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 3222,
+      "end": 3228,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 3510,
+      "end": 3520,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 3609,
+      "end": 3615,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 3916,
+      "end": 3924,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 4284,
+      "end": 4285,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 4748,
+      "end": 4757,
+      "label": "LOC"
+    },
+    {
+      "text": "Poète",
+      "start": 4949,
+      "end": 4954,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 5007,
+      "end": 5017,
+      "label": "ORG"
+    },
+    {
+      "text": "Courtois",
+      "start": 5071,
+      "end": 5079,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 5155,
+      "end": 5158,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 5323,
+      "end": 5329,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5489,
+      "end": 5494,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien de Rubempré",
+      "start": 5512,
+      "end": 5530,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Chardon",
+      "start": 5551,
+      "end": 5567,
+      "label": "PER"
+    },
+    {
+      "text": "Postel",
+      "start": 5588,
+      "end": 5594,
+      "label": "LOC"
+    },
+    {
+      "text": "Houmeau",
+      "start": 5615,
+      "end": 5622,
+      "label": "MISC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 5641,
+      "end": 5654,
+      "label": "PER"
+    },
+    {
+      "text": "Mûrier",
+      "start": 5683,
+      "end": 5689,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 5692,
+      "end": 5701,
+      "label": "LOC"
+    },
+    {
+      "text": "Attendez",
+      "start": 5705,
+      "end": 5713,
+      "label": "MISC"
+    },
+    {
+      "text": "Marsac",
+      "start": 5821,
+      "end": 5827,
+      "label": "LOC"
+    },
+    {
+      "text": "Précisément",
+      "start": 5832,
+      "end": 5843,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 5854,
+      "end": 5860,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 5897,
+      "end": 5905,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 6284,
+      "end": 6290,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 6433,
+      "end": 6446,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 6466,
+      "end": 6470,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 6514,
+      "end": 6518,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 7141,
+      "end": 7147,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 7175,
+      "end": 7183,
+      "label": "PER"
+    },
+    {
+      "text": "Dis",
+      "start": 7187,
+      "end": 7190,
+      "label": "MISC"
+    },
+    {
+      "text": "Marron",
+      "start": 7253,
+      "end": 7259,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsac",
+      "start": 7275,
+      "end": 7281,
+      "label": "MISC"
+    },
+    {
+      "text": "Mûrier",
+      "start": 7466,
+      "end": 7472,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 7482,
+      "end": 7488,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Marron",
+      "start": 7506,
+      "end": 7521,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 7523,
+      "end": 7531,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 7655,
+      "end": 7661,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 7768,
+      "end": 7776,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsac",
+      "start": 7804,
+      "end": 7810,
+      "label": "LOC"
+    },
+    {
+      "text": "Mansle",
+      "start": 7854,
+      "end": 7860,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 7866,
+      "end": 7875,
+      "label": "LOC"
+    },
+    {
+      "text": "curé de Marsac",
+      "start": 7950,
+      "end": 7964,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 8025,
+      "end": 8031,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 8037,
+      "end": 8055,
+      "label": "PER"
+    },
+    {
+      "text": "Charente",
+      "start": 8090,
+      "end": 8098,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 8164,
+      "end": 8173,
+      "label": "LOC"
+    },
+    {
+      "text": "Sixte du Châtelet",
+      "start": 8207,
+      "end": 8224,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 8249,
+      "end": 8255,
+      "label": "PER"
+    },
+    {
+      "text": "Bargeton",
+      "start": 8396,
+      "end": 8404,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 8528,
+      "end": 8541,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 8685,
+      "end": 8693,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 8695,
+      "end": 8701,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs Marron",
+      "start": 8826,
+      "end": 8842,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 8912,
+      "end": 8918,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 8975,
+      "end": 8988,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Courtois",
+      "start": 9171,
+      "end": 9186,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 9442,
+      "end": 9446,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 9461,
+      "end": 9467,
+      "label": "PER"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 9606,
+      "end": 9620,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 9633,
+      "end": 9637,
+      "label": "MISC"
+    },
+    {
+      "text": "Courtois",
+      "start": 9670,
+      "end": 9678,
+      "label": "PER"
+    },
+    {
+      "text": "Postel",
+      "start": 9705,
+      "end": 9711,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 9761,
+      "end": 9774,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 9886,
+      "end": 9892,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 9942,
+      "end": 9947,
+      "label": "LOC"
+    },
+    {
+      "text": "Marron",
+      "start": 10054,
+      "end": 10060,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 10219,
+      "end": 10225,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 10488,
+      "end": 10501,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 10552,
+      "end": 10557,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 10664,
+      "end": 10670,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 10769,
+      "end": 10778,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 10805,
+      "end": 10808,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Chardon",
+      "start": 10834,
+      "end": 10848,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 11043,
+      "end": 11048,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 11119,
+      "end": 11127,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11348,
+      "end": 11353,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 11490,
+      "end": 11499,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 11534,
+      "end": 11541,
+      "label": "PER"
+    },
+    {
+      "text": "Marsac",
+      "start": 11566,
+      "end": 11572,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 11675,
+      "end": 11684,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 11879,
+      "end": 11885,
+      "label": "PER"
+    },
+    {
+      "text": "Mansle",
+      "start": 12332,
+      "end": 12338,
+      "label": "PER"
+    },
+    {
+      "text": "Ruffec",
+      "start": 12356,
+      "end": 12362,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 12365,
+      "end": 12374,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 12497,
+      "end": 12510,
+      "label": "PER"
+    },
+    {
+      "text": "Postel",
+      "start": 12529,
+      "end": 12535,
+      "label": "LOC"
+    },
+    {
+      "text": "Houmeau",
+      "start": 12556,
+      "end": 12563,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 12614,
+      "end": 12617,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruffec",
+      "start": 12761,
+      "end": 12767,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 12770,
+      "end": 12779,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Postel",
+      "start": 12836,
+      "end": 12849,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 12901,
+      "end": 12905,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Postel",
+      "start": 13052,
+      "end": 13065,
+      "label": "PER"
+    },
+    {
+      "text": "Houmeau",
+      "start": 13129,
+      "end": 13136,
+      "label": "MISC"
+    },
+    {
+      "text": "Postel",
+      "start": 13160,
+      "end": 13166,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 13671,
+      "end": 13677,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Léonie",
+      "start": 13724,
+      "end": 13737,
+      "label": "PER"
+    },
+    {
+      "text": "Marron",
+      "start": 13750,
+      "end": 13756,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 13819,
+      "end": 13825,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 13889,
+      "end": 13891,
+      "label": "MISC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 13939,
+      "end": 13948,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonie",
+      "start": 13954,
+      "end": 13960,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 14104,
+      "end": 14107,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 14114,
+      "end": 14127,
+      "label": "PER"
+    },
+    {
+      "text": "Postel rougit",
+      "start": 14129,
+      "end": 14142,
+      "label": "MISC"
+    },
+    {
+      "text": "Léonie",
+      "start": 14147,
+      "end": 14153,
+      "label": "PER"
+    },
+    {
+      "text": "Léonie",
+      "start": 14441,
+      "end": 14447,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 14538,
+      "end": 14544,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 14576,
+      "end": 14582,
+      "label": "PER"
+    },
+    {
+      "text": "Courtois",
+      "start": 14592,
+      "end": 14600,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 14604,
+      "end": 14608,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 14648,
+      "end": 14653,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 14663,
+      "end": 14669,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 14898,
+      "end": 14903,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 14915,
+      "end": 14921,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal",
+      "start": 14986,
+      "end": 14994,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 15084,
+      "end": 15090,
+      "label": "PER"
+    },
+    {
+      "text": "Bien",
+      "start": 15254,
+      "end": 15258,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 15260,
+      "end": 15266,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonie",
+      "start": 15403,
+      "end": 15409,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Postel",
+      "start": 15463,
+      "end": 15476,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 15707,
+      "end": 15716,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 15835,
+      "end": 15844,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15971,
+      "end": 15976,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 15978,
+      "end": 15991,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 16184,
+      "end": 16187,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 16196,
+      "end": 16202,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 16480,
+      "end": 16486,
+      "label": "PER"
+    },
+    {
+      "text": "Chardon le père",
+      "start": 16536,
+      "end": 16551,
+      "label": "MISC"
+    },
+    {
+      "text": "rue du Mûrier",
+      "start": 16821,
+      "end": 16834,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 16858,
+      "end": 16865,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 17139,
+      "end": 17151,
+      "label": "MISC"
+    },
+    {
+      "text": "Ouvrard",
+      "start": 17271,
+      "end": 17278,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 17298,
+      "end": 17311,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 17396,
+      "end": 17402,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouvrard",
+      "start": 17475,
+      "end": 17482,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 17556,
+      "end": 17561,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 18250,
+      "end": 18259,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 18505,
+      "end": 18514,
+      "label": "LOC"
+    },
+    {
+      "text": "Stanhope",
+      "start": 18679,
+      "end": 18687,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 18760,
+      "end": 18768,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 18847,
+      "end": 18857,
+      "label": "LOC"
+    },
+    {
+      "text": "Chose",
+      "start": 19115,
+      "end": 19120,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 19143,
+      "end": 19149,
+      "label": "PER"
+    },
+    {
+      "text": "Journalisme",
+      "start": 19199,
+      "end": 19210,
+      "label": "MISC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 19279,
+      "end": 19292,
+      "label": "PER"
+    },
+    {
+      "text": "Presse",
+      "start": 19351,
+      "end": 19357,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 19413,
+      "end": 19419,
+      "label": "PER"
+    },
+    {
+      "text": "Chardon",
+      "start": 19452,
+      "end": 19459,
+      "label": "PER"
+    },
+    {
+      "text": "Siècle",
+      "start": 19609,
+      "end": 19615,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 19770,
+      "end": 19779,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20138,
+      "end": 20143,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 20335,
+      "end": 20341,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 20344,
+      "end": 20349,
+      "label": "LOC"
+    },
+    {
+      "text": "Postel",
+      "start": 20519,
+      "end": 20525,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 21980,
+      "end": 21985,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 22505,
+      "end": 22510,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 22616,
+      "end": 22621,
+      "label": "PER"
+    },
+    {
+      "text": "Postel",
+      "start": 22624,
+      "end": 22630,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 22713,
+      "end": 22716,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 22841,
+      "end": 22844,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 22865,
+      "end": 22870,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 23018,
+      "end": 23023,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 23195,
+      "end": 23204,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 23521,
+      "end": 23528,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 23543,
+      "end": 23548,
+      "label": "PER"
+    },
+    {
+      "text": "bassine",
+      "start": 23618,
+      "end": 23625,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 24094,
+      "end": 24097,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 24100,
+      "end": 24105,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 24619,
+      "end": 24624,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 25149,
+      "end": 25154,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 25292,
+      "end": 25299,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 25448,
+      "end": 25456,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 25642,
+      "end": 25649,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 25651,
+      "end": 25654,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 25715,
+      "end": 25720,
+      "label": "PER"
+    },
+    {
+      "text": "Didot",
+      "start": 25751,
+      "end": 25756,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 25916,
+      "end": 25921,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 25955,
+      "end": 25962,
+      "label": "MISC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 25966,
+      "end": 25975,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 26011,
+      "end": 26017,
+      "label": "MISC"
+    },
+    {
+      "text": "Kolb",
+      "start": 26072,
+      "end": 26076,
+      "label": "LOC"
+    },
+    {
+      "text": "Alsacien",
+      "start": 26081,
+      "end": 26089,
+      "label": "LOC"
+    },
+    {
+      "text": "Didot",
+      "start": 26127,
+      "end": 26132,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 26165,
+      "end": 26169,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 26193,
+      "end": 26202,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 26207,
+      "end": 26212,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 26282,
+      "end": 26286,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 26297,
+      "end": 26302,
+      "label": "PER"
+    },
+    {
+      "text": "Marion",
+      "start": 26513,
+      "end": 26519,
+      "label": "MISC"
+    },
+    {
+      "text": "Alsaciens",
+      "start": 26619,
+      "end": 26628,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 26830,
+      "end": 26836,
+      "label": "LOC"
+    },
+    {
+      "text": "Alsacien",
+      "start": 27080,
+      "end": 27088,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 27116,
+      "end": 27122,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 27126,
+      "end": 27131,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 27314,
+      "end": 27321,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 27409,
+      "end": 27416,
+      "label": "MISC"
+    },
+    {
+      "text": "Kant",
+      "start": 27434,
+      "end": 27438,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 27754,
+      "end": 27761,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 27809,
+      "end": 27813,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 27929,
+      "end": 27932,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 27982,
+      "end": 27989,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 28099,
+      "end": 28106,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 28110,
+      "end": 28114,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 28345,
+      "end": 28348,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 28400,
+      "end": 28405,
+      "label": "PER"
+    },
+    {
+      "text": "gages de Marion",
+      "start": 28517,
+      "end": 28532,
+      "label": "MISC"
+    },
+    {
+      "text": "blanchet",
+      "start": 28818,
+      "end": 28826,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 28969,
+      "end": 28972,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 29071,
+      "end": 29078,
+      "label": "PER"
+    },
+    {
+      "text": "Évêché",
+      "start": 29152,
+      "end": 29158,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville",
+      "start": 29179,
+      "end": 29184,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 29194,
+      "end": 29204,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 29247,
+      "end": 29254,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 29354,
+      "end": 29357,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 29425,
+      "end": 29432,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 29463,
+      "end": 29470,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 29684,
+      "end": 29688,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 29690,
+      "end": 29696,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 29700,
+      "end": 29707,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 29788,
+      "end": 29793,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 29916,
+      "end": 29919,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 30004,
+      "end": 30011,
+      "label": "PER"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 30097,
+      "end": 30111,
+      "label": "PER"
+    },
+    {
+      "text": "Juif Errant",
+      "start": 30352,
+      "end": 30363,
+      "label": "MISC"
+    },
+    {
+      "text": "Robert le Diable",
+      "start": 30365,
+      "end": 30381,
+      "label": "PER"
+    },
+    {
+      "text": "Belle Maguelonne",
+      "start": 30386,
+      "end": 30402,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 30435,
+      "end": 30438,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 30446,
+      "end": 30450,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 30588,
+      "end": 30594,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Chardon",
+      "start": 30616,
+      "end": 30630,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 30677,
+      "end": 30680,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 30739,
+      "end": 30743,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 30761,
+      "end": 30775,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 30812,
+      "end": 30821,
+      "label": "LOC"
+    },
+    {
+      "text": "Alsacien",
+      "start": 31096,
+      "end": 31104,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 31152,
+      "end": 31155,
+      "label": "LOC"
+    },
+    {
+      "text": "Bergers",
+      "start": 31277,
+      "end": 31284,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 31402,
+      "end": 31409,
+      "label": "PER"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 31804,
+      "end": 31818,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 31831,
+      "end": 31851,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 31921,
+      "end": 31941,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 32008,
+      "end": 32014,
+      "label": "LOC"
+    },
+    {
+      "text": "Almanach Liégeois",
+      "start": 32049,
+      "end": 32066,
+      "label": "LOC"
+    },
+    {
+      "text": "Imprimée",
+      "start": 32108,
+      "end": 32116,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Séchard",
+      "start": 32227,
+      "end": 32241,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 32460,
+      "end": 32465,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 32561,
+      "end": 32568,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 32616,
+      "end": 32630,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 32701,
+      "end": 32704,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 32823,
+      "end": 32828,
+      "label": "PER"
+    },
+    {
+      "text": "lesquelles Lucien",
+      "start": 33206,
+      "end": 33223,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33302,
+      "end": 33307,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 33387,
+      "end": 33390,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Chardon",
+      "start": 33392,
+      "end": 33406,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 33410,
+      "end": 33415,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 33583,
+      "end": 33586,
+      "label": "LOC"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 33917,
+      "end": 33937,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 33991,
+      "end": 33998,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 34091,
+      "end": 34105,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 34202,
+      "end": 34210,
+      "label": "PER"
+    },
+    {
+      "text": "Enfants Trouvés de Paris",
+      "start": 34242,
+      "end": 34266,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 34268,
+      "end": 34275,
+      "label": "LOC"
+    },
+    {
+      "text": "Didot",
+      "start": 34307,
+      "end": 34312,
+      "label": "PER"
+    },
+    {
+      "text": "Séide de Séchard",
+      "start": 34367,
+      "end": 34383,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 34500,
+      "end": 34505,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 34534,
+      "end": 34541,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 34786,
+      "end": 34793,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 34824,
+      "end": 34829,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoumois",
+      "start": 34852,
+      "end": 34861,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 34950,
+      "end": 34955,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 34958,
+      "end": 34967,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 35092,
+      "end": 35099,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 35135,
+      "end": 35143,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 35320,
+      "end": 35327,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 35581,
+      "end": 35586,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 35736,
+      "end": 35741,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 35759,
+      "end": 35764,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 35838,
+      "end": 35845,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 36049,
+      "end": 36056,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 36095,
+      "end": 36100,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 36250,
+      "end": 36257,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 36373,
+      "end": 36380,
+      "label": "PER"
+    },
+    {
+      "text": "parti de",
+      "start": 36469,
+      "end": 36477,
+      "label": "ORG"
+    },
+    {
+      "text": "David",
+      "start": 36478,
+      "end": 36483,
+      "label": "PER"
+    },
+    {
+      "text": "Naïf",
+      "start": 36564,
+      "end": 36568,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 36733,
+      "end": 36742,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarre",
+      "start": 36749,
+      "end": 36756,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 36867,
+      "end": 36872,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 36901,
+      "end": 36908,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 37150,
+      "end": 37157,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 37191,
+      "end": 37198,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 37241,
+      "end": 37244,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnons",
+      "start": 37378,
+      "end": 37385,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 37481,
+      "end": 37488,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 37526,
+      "end": 37533,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 37726,
+      "end": 37733,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 37761,
+      "end": 37768,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 37777,
+      "end": 37790,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 37865,
+      "end": 37872,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 38038,
+      "end": 38045,
+      "label": "ORG"
+    },
+    {
+      "text": "A",
+      "start": 38226,
+      "end": 38227,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 38287,
+      "end": 38294,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 38604,
+      "end": 38611,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah !",
+      "start": 38615,
+      "end": 38620,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 38781,
+      "end": 38788,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 39048,
+      "end": 39053,
+      "label": "LOC"
+    },
+    {
+      "text": "Paroissien du Diocèse",
+      "start": 39107,
+      "end": 39128,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 39146,
+      "end": 39153,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 39371,
+      "end": 39378,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 39409,
+      "end": 39429,
+      "label": "LOC"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 39518,
+      "end": 39538,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 39655,
+      "end": 39662,
+      "label": "MISC"
+    },
+    {
+      "text": "Almanach",
+      "start": 39707,
+      "end": 39715,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 39788,
+      "end": 39791,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 39907,
+      "end": 39914,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 40086,
+      "end": 40093,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 40183,
+      "end": 40190,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 40602,
+      "end": 40606,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 40629,
+      "end": 40636,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 40676,
+      "end": 40680,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 40698,
+      "end": 40705,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 40753,
+      "end": 40759,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 40903,
+      "end": 40910,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 41017,
+      "end": 41020,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41065,
+      "end": 41072,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 41325,
+      "end": 41328,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41338,
+      "end": 41345,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 41395,
+      "end": 41400,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 41430,
+      "end": 41432,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41471,
+      "end": 41478,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41483,
+      "end": 41490,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 41700,
+      "end": 41703,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41726,
+      "end": 41733,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 41773,
+      "end": 41780,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 41834,
+      "end": 41839,
+      "label": "MISC"
+    },
+    {
+      "text": "Kolb",
+      "start": 41953,
+      "end": 41957,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 41961,
+      "end": 41968,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 41971,
+      "end": 41975,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 42166,
+      "end": 42170,
+      "label": "LOC"
+    },
+    {
+      "text": "les Cointet",
+      "start": 42241,
+      "end": 42252,
+      "label": "ORG"
+    },
+    {
+      "text": "Cérizet",
+      "start": 42365,
+      "end": 42372,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 42682,
+      "end": 42687,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 42715,
+      "end": 42720,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 42735,
+      "end": 42740,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 42744,
+      "end": 42748,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 42970,
+      "end": 42975,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach",
+      "start": 42991,
+      "end": 42999,
+      "label": "ORG"
+    },
+    {
+      "text": "Cointet",
+      "start": 43066,
+      "end": 43073,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 43157,
+      "end": 43161,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 43267,
+      "end": 43271,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 43287,
+      "end": 43293,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 43333,
+      "end": 43340,
+      "label": "MISC"
+    },
+    {
+      "text": "Imprimé",
+      "start": 43513,
+      "end": 43520,
+      "label": "PER"
+    },
+    {
+      "text": "Almanach des Bergers",
+      "start": 43545,
+      "end": 43565,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 43903,
+      "end": 43910,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 44036,
+      "end": 44039,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 44095,
+      "end": 44102,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 44244,
+      "end": 44248,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 44349,
+      "end": 44356,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44469,
+      "end": 44474,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 44491,
+      "end": 44498,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 44525,
+      "end": 44532,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 45021,
+      "end": 45026,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 45083,
+      "end": 45090,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 45135,
+      "end": 45139,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 45141,
+      "end": 45144,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 45365,
+      "end": 45373,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 45395,
+      "end": 45408,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 45414,
+      "end": 45421,
+      "label": "PER"
+    },
+    {
+      "text": "Journal de la Librairie",
+      "start": 45506,
+      "end": 45529,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 45533,
+      "end": 45538,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 45563,
+      "end": 45564,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 45636,
+      "end": 45645,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 45691,
+      "end": 45699,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Serpente",
+      "start": 45701,
+      "end": 45713,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 45787,
+      "end": 45794,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 46009,
+      "end": 46014,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 46113,
+      "end": 46120,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 46138,
+      "end": 46151,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 46153,
+      "end": 46156,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 46324,
+      "end": 46331,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 46483,
+      "end": 46491,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 46545,
+      "end": 46550,
+      "label": "MISC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 46554,
+      "end": 46563,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 46590,
+      "end": 46597,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 46610,
+      "end": 46617,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 46633,
+      "end": 46638,
+      "label": "PER"
+    },
+    {
+      "text": "Didot",
+      "start": 46702,
+      "end": 46707,
+      "label": "PER"
+    },
+    {
+      "text": "notre Almanach",
+      "start": 47061,
+      "end": 47075,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 47127,
+      "end": 47131,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 47142,
+      "end": 47148,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 47300,
+      "end": 47306,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 47386,
+      "end": 47393,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 47493,
+      "end": 47500,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 47577,
+      "end": 47584,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 47589,
+      "end": 47596,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 47696,
+      "end": 47700,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface",
+      "start": 47847,
+      "end": 47855,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 47880,
+      "end": 47884,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface",
+      "start": 47919,
+      "end": 47927,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 48453,
+      "end": 48466,
+      "label": "ORG"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 48641,
+      "end": 48650,
+      "label": "PER"
+    },
+    {
+      "text": "Noblesse",
+      "start": 48741,
+      "end": 48749,
+      "label": "LOC"
+    },
+    {
+      "text": "Administration",
+      "start": 48755,
+      "end": 48769,
+      "label": "ORG"
+    },
+    {
+      "text": "Cointet",
+      "start": 49775,
+      "end": 49782,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Cointet",
+      "start": 49999,
+      "end": 50011,
+      "label": "PER"
+    },
+    {
+      "text": "brunie",
+      "start": 50046,
+      "end": 50052,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoumois",
+      "start": 50072,
+      "end": 50081,
+      "label": "LOC"
+    },
+    {
+      "text": "Sancho",
+      "start": 50111,
+      "end": 50117,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean",
+      "start": 50219,
+      "end": 50223,
+      "label": "PER"
+    },
+    {
+      "text": "Centre Gauche",
+      "start": 50355,
+      "end": 50368,
+      "label": "ORG"
+    },
+    {
+      "text": "Houmeau",
+      "start": 50492,
+      "end": 50499,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 50593,
+      "end": 50600,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 50678,
+      "end": 50682,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 50703,
+      "end": 50707,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 50801,
+      "end": 50805,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 51009,
+      "end": 51012,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 51175,
+      "end": 51180,
+      "label": "MISC"
+    },
+    {
+      "text": "Entendez",
+      "start": 51286,
+      "end": 51294,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 51331,
+      "end": 51338,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 51661,
+      "end": 51668,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 51679,
+      "end": 51682,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 51817,
+      "end": 51822,
+      "label": "MISC"
+    },
+    {
+      "text": "Boniface",
+      "start": 51893,
+      "end": 51901,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 51964,
+      "end": 51967,
+      "label": "LOC"
+    },
+    {
+      "text": "Exploitons",
+      "start": 52369,
+      "end": 52379,
+      "label": "LOC"
+    },
+    {
+      "text": "Boniface",
+      "start": 52392,
+      "end": 52400,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 52424,
+      "end": 52428,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 52432,
+      "end": 52437,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 52473,
+      "end": 52487,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface",
+      "start": 52798,
+      "end": 52806,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 52847,
+      "end": 52851,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53246,
+      "end": 53251,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève Séchard",
+      "start": 53410,
+      "end": 53421,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface",
+      "start": 53475,
+      "end": 53483,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Cointet",
+      "start": 53614,
+      "end": 53626,
+      "label": "PER"
+    },
+    {
+      "text": "Trois mille francs",
+      "start": 53630,
+      "end": 53648,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 53676,
+      "end": 53680,
+      "label": "MISC"
+    },
+    {
+      "text": "Boniface",
+      "start": 53790,
+      "end": 53798,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 53882,
+      "end": 53885,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 54179,
+      "end": 54186,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 54262,
+      "end": 54265,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 54432,
+      "end": 54439,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 54480,
+      "end": 54483,
+      "label": "LOC"
+    },
+    {
+      "text": "gros Cointet",
+      "start": 54605,
+      "end": 54617,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 54619,
+      "end": 54622,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 54697,
+      "end": 54704,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 54708,
+      "end": 54712,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 54766,
+      "end": 54771,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 54846,
+      "end": 54851,
+      "label": "MISC"
+    },
+    {
+      "text": "Kolb",
+      "start": 54893,
+      "end": 54897,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 54904,
+      "end": 54910,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 55184,
+      "end": 55191,
+      "label": "PER"
+    },
+    {
+      "text": "ménage de David",
+      "start": 55245,
+      "end": 55260,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 55344,
+      "end": 55351,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 55400,
+      "end": 55407,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 55875,
+      "end": 55888,
+      "label": "ORG"
+    },
+    {
+      "text": "Mairie",
+      "start": 56001,
+      "end": 56007,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal de commerce",
+      "start": 56014,
+      "end": 56034,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 56127,
+      "end": 56132,
+      "label": "PER"
+    },
+    {
+      "text": "Kolb",
+      "start": 56156,
+      "end": 56160,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 56168,
+      "end": 56174,
+      "label": "MISC"
+    },
+    {
+      "text": "Boniface Cointet",
+      "start": 56223,
+      "end": 56239,
+      "label": "PER"
+    },
+    {
+      "text": "madame Séchard",
+      "start": 56272,
+      "end": 56286,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56337,
+      "end": 56343,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 56373,
+      "end": 56380,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 56423,
+      "end": 56426,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 56439,
+      "end": 56444,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 56475,
+      "end": 56481,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 56640,
+      "end": 56649,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56655,
+      "end": 56660,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 56699,
+      "end": 56704,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher David",
+      "start": 56775,
+      "end": 56789,
+      "label": "MISC"
+    },
+    {
+      "text": "Métivier",
+      "start": 56810,
+      "end": 56818,
+      "label": "LOC"
+    },
+    {
+      "text": "Brûle ma lettre",
+      "start": 57137,
+      "end": 57152,
+      "label": "MISC"
+    },
+    {
+      "text": "Ton",
+      "start": 57254,
+      "end": 57257,
+      "label": "LOC"
+    },
+    {
+      "text": "LUCIEN DE RUBEMPRÉ",
+      "start": 57280,
+      "end": 57298,
+      "label": "ORG"
+    },
+    {
+      "text": "David",
+      "start": 57326,
+      "end": 57331,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 57659,
+      "end": 57662,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac fils",
+      "start": 57874,
+      "end": 57888,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 57960,
+      "end": 57966,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58017,
+      "end": 58022,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 58148,
+      "end": 58151,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rastignac",
+      "start": 58162,
+      "end": 58181,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 58324,
+      "end": 58330,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58333,
+      "end": 58338,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 58354,
+      "end": 58357,
+      "label": "LOC"
+    },
+    {
+      "text": "Coralie",
+      "start": 58394,
+      "end": 58401,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 58417,
+      "end": 58433,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 58466,
+      "end": 58472,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 58518,
+      "end": 58524,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 58764,
+      "end": 58773,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 58825,
+      "end": 58831,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 58993,
+      "end": 59001,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 59005,
+      "end": 59011,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 59114,
+      "end": 59132,
+      "label": "PER"
+    },
+    {
+      "text": "Sixte du Châtelet",
+      "start": 59245,
+      "end": 59262,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 59280,
+      "end": 59286,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 59326,
+      "end": 59333,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 59594,
+      "end": 59597,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 59992,
+      "end": 59995,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 60007,
+      "end": 60026,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 60120,
+      "end": 60126,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 60168,
+      "end": 60174,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 60188,
+      "end": 60194,
+      "label": "PER"
+    },
+    {
+      "text": "Cénacle",
+      "start": 60217,
+      "end": 60224,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 60264,
+      "end": 60270,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 60323,
+      "end": 60328,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 60491,
+      "end": 60500,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 60570,
+      "end": 60576,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 60613,
+      "end": 60619,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 60652,
+      "end": 60661,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 60914,
+      "end": 60920,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 61233,
+      "end": 61239,
+      "label": "PER"
+    },
+    {
+      "text": "Votre Lucien",
+      "start": 61515,
+      "end": 61527,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 61716,
+      "end": 61724,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 61732,
+      "end": 61738,
+      "label": "PER"
+    },
+    {
+      "text": "Rassurez",
+      "start": 62381,
+      "end": 62389,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 62396,
+      "end": 62402,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 63120,
+      "end": 63126,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 63401,
+      "end": 63406,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 63611,
+      "end": 63617,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 64032,
+      "end": 64038,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 64172,
+      "end": 64179,
+      "label": "ORG"
+    },
+    {
+      "text": "Société",
+      "start": 64672,
+      "end": 64679,
+      "label": "ORG"
+    },
+    {
+      "text": "Mode",
+      "start": 65038,
+      "end": 65042,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 65135,
+      "end": 65141,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 65527,
+      "end": 65533,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 65723,
+      "end": 65729,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 66029,
+      "end": 66035,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 66202,
+      "end": 66208,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66525,
+      "end": 66530,
+      "label": "LOC"
+    },
+    {
+      "text": "Agréez",
+      "start": 66823,
+      "end": 66829,
+      "label": "LOC"
+    },
+    {
+      "text": "D'ARTHEZ",
+      "start": 67050,
+      "end": 67058,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 67103,
+      "end": 67106,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 67519,
+      "end": 67524,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 67657,
+      "end": 67660,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 67758,
+      "end": 67763,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 68022,
+      "end": 68026,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 68263,
+      "end": 68267,
+      "label": "MISC"
+    },
+    {
+      "text": "Société",
+      "start": 68286,
+      "end": 68293,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucien",
+      "start": 68624,
+      "end": 68630,
+      "label": "PER"
+    },
+    {
+      "text": "Mercier",
+      "start": 68632,
+      "end": 68639,
+      "label": "PER"
+    },
+    {
+      "text": "Tableau de Paris",
+      "start": 68656,
+      "end": 68672,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 68835,
+      "end": 68841,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 69019,
+      "end": 69025,
+      "label": "PER"
+    },
+    {
+      "text": "Pourvu",
+      "start": 69266,
+      "end": 69272,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 69398,
+      "end": 69401,
+      "label": "PER"
+    },
+    {
+      "text": "vertus Lucien",
+      "start": 69424,
+      "end": 69437,
+      "label": "PER"
+    },
+    {
+      "text": "Attaquer",
+      "start": 69487,
+      "end": 69495,
+      "label": "PER"
+    },
+    {
+      "text": "Accepter",
+      "start": 69518,
+      "end": 69526,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 69611,
+      "end": 69615,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 69649,
+      "end": 69654,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 69753,
+      "end": 69756,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 69929,
+      "end": 69934,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 70018,
+      "end": 70025,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 70072,
+      "end": 70079,
+      "label": "PER"
+    },
+    {
+      "text": "Si les Cointet",
+      "start": 70222,
+      "end": 70236,
+      "label": "ORG"
+    },
+    {
+      "text": "Ève",
+      "start": 70324,
+      "end": 70327,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 70334,
+      "end": 70341,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 70368,
+      "end": 70372,
+      "label": "MISC"
+    },
+    {
+      "text": "Séchard",
+      "start": 70397,
+      "end": 70404,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 70456,
+      "end": 70462,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 70510,
+      "end": 70514,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 70515,
+      "end": 70520,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 70602,
+      "end": 70608,
+      "label": "PER"
+    },
+    {
+      "text": "Arthèz",
+      "start": 70696,
+      "end": 70702,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 70748,
+      "end": 70754,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 70820,
+      "end": 70824,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 70910,
+      "end": 70916,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 70973,
+      "end": 70978,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 71337,
+      "end": 71340,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 71549,
+      "end": 71556,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 71832,
+      "end": 71837,
+      "label": "LOC"
+    },
+    {
+      "text": "Asie Mineure",
+      "start": 71906,
+      "end": 71918,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 72191,
+      "end": 72197,
+      "label": "MISC"
+    },
+    {
+      "text": "Bâle",
+      "start": 72239,
+      "end": 72243,
+      "label": "LOC"
+    },
+    {
+      "text": "Grecs",
+      "start": 72262,
+      "end": 72267,
+      "label": "MISC"
+    },
+    {
+      "text": "Padoue",
+      "start": 72299,
+      "end": 72305,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 72323,
+      "end": 72330,
+      "label": "LOC"
+    },
+    {
+      "text": "Pax",
+      "start": 72337,
+      "end": 72340,
+      "label": "PER"
+    },
+    {
+      "text": "Charles VI",
+      "start": 72435,
+      "end": 72445,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 72462,
+      "end": 72467,
+      "label": "LOC"
+    },
+    {
+      "text": "Faust",
+      "start": 72518,
+      "end": 72523,
+      "label": "LOC"
+    },
+    {
+      "text": "Coster",
+      "start": 72525,
+      "end": 72531,
+      "label": "LOC"
+    },
+    {
+      "text": "Guttemberg",
+      "start": 72535,
+      "end": 72545,
+      "label": "LOC"
+    },
+    {
+      "text": "LE LIVRE",
+      "start": 72561,
+      "end": 72569,
+      "label": "PER"
+    },
+    {
+      "text": "Raisin",
+      "start": 72892,
+      "end": 72898,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus",
+      "start": 72903,
+      "end": 72908,
+      "label": "LOC"
+    },
+    {
+      "text": "Colombier",
+      "start": 72913,
+      "end": 72922,
+      "label": "LOC"
+    },
+    {
+      "text": "Pot",
+      "start": 72934,
+      "end": 72937,
+      "label": "PER"
+    },
+    {
+      "text": "Écu",
+      "start": 72941,
+      "end": 72944,
+      "label": "LOC"
+    },
+    {
+      "text": "Coquille",
+      "start": 72949,
+      "end": 72957,
+      "label": "LOC"
+    },
+    {
+      "text": "Couronne",
+      "start": 72962,
+      "end": 72970,
+      "label": "ORG"
+    },
+    {
+      "text": "Notre Seigneur",
+      "start": 73020,
+      "end": 73034,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 73143,
+      "end": 73151,
+      "label": "PER"
+    },
+    {
+      "text": "Cicéro",
+      "start": 73239,
+      "end": 73245,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Augustin",
+      "start": 73247,
+      "end": 73261,
+      "label": "PER"
+    },
+    {
+      "text": "Gros Canon",
+      "start": 73263,
+      "end": 73273,
+      "label": "PER"
+    },
+    {
+      "text": "Cicéron",
+      "start": 73341,
+      "end": 73348,
+      "label": "PER"
+    },
+    {
+      "text": "Alde",
+      "start": 73429,
+      "end": 73433,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 73437,
+      "end": 73443,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Colombier",
+      "start": 73588,
+      "end": 73603,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 73799,
+      "end": 73806,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 73938,
+      "end": 73944,
+      "label": "LOC"
+    },
+    {
+      "text": "Denis Robert d'Essone",
+      "start": 73959,
+      "end": 73980,
+      "label": "PER"
+    },
+    {
+      "text": "Didot Saint Léger",
+      "start": 74046,
+      "end": 74063,
+      "label": "PER"
+    },
+    {
+      "text": "Ambroise Didot",
+      "start": 74118,
+      "end": 74132,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 74373,
+      "end": 74379,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 74551,
+      "end": 74559,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 74654,
+      "end": 74661,
+      "label": "PER"
+    },
+    {
+      "text": "Cardon",
+      "start": 74888,
+      "end": 74894,
+      "label": "LOC"
+    },
+    {
+      "text": "Buges",
+      "start": 74922,
+      "end": 74927,
+      "label": "LOC"
+    },
+    {
+      "text": "Langlée",
+      "start": 74934,
+      "end": 74941,
+      "label": "LOC"
+    },
+    {
+      "text": "Léorier de l'Isle",
+      "start": 74946,
+      "end": 74963,
+      "label": "PER"
+    },
+    {
+      "text": "Proust",
+      "start": 75058,
+      "end": 75064,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 75575,
+      "end": 75579,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 75622,
+      "end": 75625,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 75628,
+      "end": 75633,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 75681,
+      "end": 75687,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 75738,
+      "end": 75747,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Masson",
+      "start": 75913,
+      "end": 75926,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 76036,
+      "end": 76046,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Salisbury",
+      "start": 76062,
+      "end": 76082,
+      "label": "PER"
+    },
+    {
+      "text": "Séguin",
+      "start": 76110,
+      "end": 76116,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 76129,
+      "end": 76135,
+      "label": "LOC"
+    },
+    {
+      "text": "Didot",
+      "start": 76302,
+      "end": 76307,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 77009,
+      "end": 77019,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 78100,
+      "end": 78105,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 78287,
+      "end": 78292,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 78515,
+      "end": 78520,
+      "label": "LOC"
+    },
+    {
+      "text": "Fourier",
+      "start": 78573,
+      "end": 78580,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Leroux",
+      "start": 78584,
+      "end": 78597,
+      "label": "PER"
+    },
+    {
+      "text": "Lachevardière",
+      "start": 78633,
+      "end": 78646,
+      "label": "ORG"
+    },
+    {
+      "text": "Kempfer",
+      "start": 78784,
+      "end": 78791,
+      "label": "PER"
+    },
+    {
+      "text": "Du Halde",
+      "start": 78795,
+      "end": 78803,
+      "label": "PER"
+    },
+    {
+      "text": "Chinois",
+      "start": 78837,
+      "end": 78844,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 78957,
+      "end": 78962,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 79048,
+      "end": 79053,
+      "label": "LOC"
+    },
+    {
+      "text": "Didot",
+      "start": 79098,
+      "end": 79103,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 79129,
+      "end": 79137,
+      "label": "LOC"
+    },
+    {
+      "text": "Marcel",
+      "start": 79221,
+      "end": 79227,
+      "label": "PER"
+    },
+    {
+      "text": "Arsenal",
+      "start": 79380,
+      "end": 79387,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Grozier",
+      "start": 79406,
+      "end": 79418,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 79480,
+      "end": 79485,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 79908,
+      "end": 79914,
+      "label": "PER"
+    },
+    {
+      "text": "Chinois",
+      "start": 80167,
+      "end": 80174,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 80898,
+      "end": 80903,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 80948,
+      "end": 80955,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 81288,
+      "end": 81295,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 81395,
+      "end": 81403,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 81523,
+      "end": 81531,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 81608,
+      "end": 81616,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 81728,
+      "end": 81733,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 81974,
+      "end": 81979,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 82239,
+      "end": 82247,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 82383,
+      "end": 82389,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 82481,
+      "end": 82488,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacquard",
+      "start": 82563,
+      "end": 82571,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquart",
+      "start": 82573,
+      "end": 82581,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 82600,
+      "end": 82603,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 82680,
+      "end": 82685,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 82861,
+      "end": 82864,
+      "label": "LOC"
+    },
+    {
+      "text": "Graindorge",
+      "start": 83204,
+      "end": 83214,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouvet",
+      "start": 83220,
+      "end": 83226,
+      "label": "MISC"
+    },
+    {
+      "text": "Van Robais",
+      "start": 83232,
+      "end": 83242,
+      "label": "ORG"
+    },
+    {
+      "text": "Persan",
+      "start": 83253,
+      "end": 83259,
+      "label": "MISC"
+    },
+    {
+      "text": "Boniface",
+      "start": 83477,
+      "end": 83485,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 83490,
+      "end": 83503,
+      "label": "ORG"
+    },
+    {
+      "text": "Mûrier",
+      "start": 83533,
+      "end": 83539,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 83545,
+      "end": 83552,
+      "label": "LOC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 83701,
+      "end": 83708,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 83854,
+      "end": 83861,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 83973,
+      "end": 83980,
+      "label": "MISC"
+    },
+    {
+      "text": "bassine",
+      "start": 84102,
+      "end": 84109,
+      "label": "LOC"
+    },
+    {
+      "text": "Boniface Cointet",
+      "start": 84320,
+      "end": 84336,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Séchard",
+      "start": 84394,
+      "end": 84408,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 84709,
+      "end": 84716,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 84749,
+      "end": 84756,
+      "label": "PER"
+    },
+    {
+      "text": "Métivier",
+      "start": 84797,
+      "end": 84805,
+      "label": "PER"
+    },
+    {
+      "text": "Banquiers",
+      "start": 84859,
+      "end": 84868,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 85018,
+      "end": 85022,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85197,
+      "end": 85202,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 85258,
+      "end": 85265,
+      "label": "PER"
+    },
+    {
+      "text": "Métivier",
+      "start": 85269,
+      "end": 85277,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse des marrons",
+      "start": 85311,
+      "end": 85329,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 85433,
+      "end": 85438,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 85443,
+      "end": 85451,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 85457,
+      "end": 85466,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85532,
+      "end": 85537,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 85589,
+      "end": 85595,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 85606,
+      "end": 85613,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface Cointet",
+      "start": 85780,
+      "end": 85796,
+      "label": "PER"
+    },
+    {
+      "text": "Tribunal de première instance d'Angoulême",
+      "start": 86004,
+      "end": 86045,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre Petit Claud",
+      "start": 86056,
+      "end": 86074,
+      "label": "PER"
+    },
+    {
+      "text": "Vous étiez",
+      "start": 86078,
+      "end": 86088,
+      "label": "MISC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 86102,
+      "end": 86111,
+      "label": "LOC"
+    },
+    {
+      "text": "David Séchard",
+      "start": 86130,
+      "end": 86143,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 86158,
+      "end": 86165,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 86279,
+      "end": 86290,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 86332,
+      "end": 86336,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 86499,
+      "end": 86504,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 86511,
+      "end": 86517,
+      "label": "LOC"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 86662,
+      "end": 86675,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 86722,
+      "end": 86727,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 86832,
+      "end": 86837,
+      "label": "ORG"
+    },
+    {
+      "text": "Poitiers",
+      "start": 86840,
+      "end": 86848,
+      "label": "LOC"
+    },
+    {
+      "text": "Olivet",
+      "start": 86889,
+      "end": 86895,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien Chardon",
+      "start": 86990,
+      "end": 87004,
+      "label": "PER"
+    },
+    {
+      "text": "Rubempré",
+      "start": 87040,
+      "end": 87048,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Bargeton",
+      "start": 87061,
+      "end": 87079,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 87123,
+      "end": 87136,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 87175,
+      "end": 87180,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 87233,
+      "end": 87246,
+      "label": "ORG"
+    },
+    {
+      "text": "Cointet",
+      "start": 87375,
+      "end": 87382,
+      "label": "PER"
+    },
+    {
+      "text": "Houmeau",
+      "start": 87460,
+      "end": 87467,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre Petit Claud",
+      "start": 87508,
+      "end": 87526,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 88062,
+      "end": 88070,
+      "label": "PER"
+    },
+    {
+      "text": "Regardez",
+      "start": 88097,
+      "end": 88105,
+      "label": "LOC"
+    },
+    {
+      "text": "Las Cazes",
+      "start": 88126,
+      "end": 88135,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Hélène",
+      "start": 88138,
+      "end": 88151,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 88343,
+      "end": 88356,
+      "label": "ORG"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 88606,
+      "end": 88617,
+      "label": "PER"
+    },
+    {
+      "text": "Claud",
+      "start": 89001,
+      "end": 89006,
+      "label": "PER"
+    },
+    {
+      "text": "Grande haine",
+      "start": 89154,
+      "end": 89166,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89239,
+      "end": 89244,
+      "label": "LOC"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 89278,
+      "end": 89291,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 89401,
+      "end": 89406,
+      "label": "LOC"
+    },
+    {
+      "text": "Procédure",
+      "start": 89640,
+      "end": 89649,
+      "label": "LOC"
+    },
+    {
+      "text": "Procédure",
+      "start": 89703,
+      "end": 89712,
+      "label": "LOC"
+    },
+    {
+      "text": "Études de Paris",
+      "start": 89844,
+      "end": 89859,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 90060,
+      "end": 90065,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 90228,
+      "end": 90232,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90512,
+      "end": 90517,
+      "label": "LOC"
+    },
+    {
+      "text": "Meissonnier",
+      "start": 90739,
+      "end": 90750,
+      "label": "PER"
+    },
+    {
+      "text": "Avoués Honoraires",
+      "start": 90796,
+      "end": 90813,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 90842,
+      "end": 90847,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90904,
+      "end": 90909,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal dans les Référés",
+      "start": 90951,
+      "end": 90976,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 91501,
+      "end": 91506,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribunal",
+      "start": 91552,
+      "end": 91560,
+      "label": "MISC"
+    },
+    {
+      "text": "Pour et le Contre",
+      "start": 91589,
+      "end": 91606,
+      "label": "MISC"
+    },
+    {
+      "text": "Droit",
+      "start": 91685,
+      "end": 91690,
+      "label": "ORG"
+    },
+    {
+      "text": "Jurisprudence",
+      "start": 91771,
+      "end": 91784,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 92168,
+      "end": 92173,
+      "label": "LOC"
+    },
+    {
+      "text": "Code de Procédure",
+      "start": 92410,
+      "end": 92427,
+      "label": "MISC"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 92666,
+      "end": 92677,
+      "label": "PER"
+    },
+    {
+      "text": "grand Cointet",
+      "start": 92784,
+      "end": 92797,
+      "label": "ORG"
+    },
+    {
+      "text": "Boniface Cointet",
+      "start": 92825,
+      "end": 92841,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 92843,
+      "end": 92850,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 92893,
+      "end": 92900,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 92940,
+      "end": 92951,
+      "label": "PER"
+    },
+    {
+      "text": "Hautoy",
+      "start": 92984,
+      "end": 92990,
+      "label": "LOC"
+    },
+    {
+      "text": "Angoulême",
+      "start": 93001,
+      "end": 93010,
+      "label": "LOC"
+    },
+    {
+      "text": "Valence",
+      "start": 93032,
+      "end": 93039,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Sénonches",
+      "start": 93074,
+      "end": 93093,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 93114,
+      "end": 93123,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 93153,
+      "end": 93160,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 93256,
+      "end": 93267,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 93296,
+      "end": 93305,
+      "label": "PER"
+    },
+    {
+      "text": "Sénonches",
+      "start": 93323,
+      "end": 93332,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise de La Haye",
+      "start": 93447,
+      "end": 93467,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sénonches",
+      "start": 93485,
+      "end": 93504,
+      "label": "PER"
+    },
+    {
+      "text": "Cardanet",
+      "start": 93590,
+      "end": 93598,
+      "label": "PER"
+    },
+    {
+      "text": "Zéphirine",
+      "start": 93630,
+      "end": 93639,
+      "label": "PER"
+    },
+    {
+      "text": "Cardanet",
+      "start": 93683,
+      "end": 93691,
+      "label": "PER"
+    },
+    {
+      "text": "Sénonches",
+      "start": 93699,
+      "end": 93708,
+      "label": "MISC"
+    },
+    {
+      "text": "Francis du Hautoy",
+      "start": 93789,
+      "end": 93806,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Sénonches",
+      "start": 93941,
+      "end": 93960,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 94092,
+      "end": 94099,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 94128,
+      "end": 94139,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise de La Haye",
+      "start": 94153,
+      "end": 94173,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 94257,
+      "end": 94266,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 94464,
+      "end": 94475,
+      "label": "PER"
+    },
+    {
+      "text": "Cachan",
+      "start": 94498,
+      "end": 94504,
+      "label": "LOC"
+    },
+    {
+      "text": "Cachan",
+      "start": 94559,
+      "end": 94565,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 94640,
+      "end": 94647,
+      "label": "PER"
+    },
+    {
+      "text": "David Séchard",
+      "start": 94706,
+      "end": 94719,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 94880,
+      "end": 94885,
+      "label": "MISC"
+    },
+    {
+      "text": "Cachan",
+      "start": 95012,
+      "end": 95018,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 95227,
+      "end": 95234,
+      "label": "PER"
+    },
+    {
+      "text": "Hautoy",
+      "start": 95294,
+      "end": 95300,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Sénonches",
+      "start": 95308,
+      "end": 95327,
+      "label": "PER"
+    },
+    {
+      "text": "La Haye",
+      "start": 95351,
+      "end": 95358,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 95564,
+      "end": 95571,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 95582,
+      "end": 95593,
+      "label": "PER"
+    },
+    {
+      "text": "Me",
+      "start": 95698,
+      "end": 95700,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 95824,
+      "end": 95831,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 95850,
+      "end": 95861,
+      "label": "LOC"
+    },
+    {
+      "text": "Boniface",
+      "start": 95896,
+      "end": 95904,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 96106,
+      "end": 96117,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 96275,
+      "end": 96282,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Claud",
+      "start": 96294,
+      "end": 96305,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 96365,
+      "end": 96372,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 96433,
+      "end": 96439,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 96491,
+      "end": 96498,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 96565,
+      "end": 96571,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 96579,
+      "end": 96584,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 96724,
+      "end": 96727,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 96903,
+      "end": 96908,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 96935,
+      "end": 96938,
+      "label": "LOC"
+    },
+    {
+      "text": "Séchard",
+      "start": 96941,
+      "end": 96948,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 96991,
+      "end": 96998,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 97119,
+      "end": 97126,
+      "label": "MISC"
+    },
+    {
+      "text": "David",
+      "start": 97156,
+      "end": 97161,
+      "label": "PER"
+    },
+    {
+      "text": "David",
+      "start": 97314,
+      "end": 97319,
+      "label": "PER"
+    },
+    {
+      "text": "resta t",
+      "start": 97355,
+      "end": 97362,
+      "label": "PER"
+    },
+    {
+      "text": "Métivier",
+      "start": 97597,
+      "end": 97605,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 97607,
+      "end": 97615,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 97654,
+      "end": 97662,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 97666,
+      "end": 97670,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 97675,
+      "end": 97678,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 97750,
+      "end": 97758,
+      "label": "LOC"
+    },
+    {
+      "text": "Victor",
+      "start": 97804,
+      "end": 97810,
+      "label": "MISC"
+    },
+    {
+      "text": "Cointet",
+      "start": 97860,
+      "end": 97867,
+      "label": "PER"
+    },
+    {
+      "text": "Place du Mûrier",
+      "start": 97910,
+      "end": 97925,
+      "label": "LOC"
+    },
+    {
+      "text": "Marion",
+      "start": 98016,
+      "end": 98022,
+      "label": "LOC"
+    },
+    {
+      "text": "Kolb",
+      "start": 98026,
+      "end": 98030,
+      "label": "LOC"
+    },
+    {
+      "text": "le Commerce d'Angoulême",
+      "start": 98075,
+      "end": 98098,
+      "label": "MISC"
+    },
+    {
+      "text": "Doublon",
+      "start": 98159,
+      "end": 98166,
+      "label": "PER"
+    },
+    {
+      "text": "Cointet",
+      "start": 98183,
+      "end": 98190,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 98255,
+      "end": 98258,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 98262,
+      "end": 98267,
+      "label": "PER"
+    },
+    {
+      "text": "LOI !",
+      "start": 98650,
+      "end": 98655,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 98689,
+      "end": 98697,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque",
+      "start": 98735,
+      "end": 98741,
+      "label": "ORG"
+    },
+    {
+      "text": "David",
+      "start": 98957,
+      "end": 98962,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucien",
+      "start": 99001,
+      "end": 99007,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 99246,
+      "end": 99252,
+      "label": "LOC"
+    },
+    {
+      "text": "Métivier",
+      "start": 99254,
+      "end": 99262,
+      "label": "LOC"
+    },
+    {
+      "text": "Cointet",
+      "start": 99332,
+      "end": 99339,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 99398,
+      "end": 99404,
+      "label": "PER"
+    },
+    {
+      "text": "Séchard",
+      "start": 99564,
+      "end": 99571,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 99625,
+      "end": 99631,
+      "label": "LOC"
+    },
+    {
+      "text": "auguste de créancier",
+      "start": 99709,
+      "end": 99729,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 99774,
+      "end": 99780,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 99858,
+      "end": 99863,
+      "label": "LOC"
+    },
+    {
+      "text": "Compte de Retour",
+      "start": 99973,
+      "end": 99989,
+      "label": "PER"
+    }
+  ]
+}

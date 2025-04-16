@@ -1,0 +1,460 @@
+{
+  "entities": [
+    {
+      "text": "MESSAGE",
+      "start": 3,
+      "end": 10,
+      "label": "ORG"
+    },
+    {
+      "text": "MARQUIS",
+      "start": 32,
+      "end": 39,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 771,
+      "end": 776,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulins",
+      "start": 779,
+      "end": 786,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 867,
+      "end": 874,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeunes",
+      "start": 1964,
+      "end": 1970,
+      "label": "PER"
+    },
+    {
+      "text": "Montargis",
+      "start": 2167,
+      "end": 2176,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 3287,
+      "end": 3293,
+      "label": "PER"
+    },
+    {
+      "text": "Pouilly",
+      "start": 4715,
+      "end": 4722,
+      "label": "LOC"
+    },
+    {
+      "text": "Ajoutez",
+      "start": 5240,
+      "end": 5247,
+      "label": "LOC"
+    },
+    {
+      "text": "Pouilly",
+      "start": 5684,
+      "end": 5691,
+      "label": "LOC"
+    },
+    {
+      "text": "Charité sur Loire",
+      "start": 6931,
+      "end": 6948,
+      "label": "LOC"
+    },
+    {
+      "text": "Affligé",
+      "start": 7194,
+      "end": 7201,
+      "label": "PER"
+    },
+    {
+      "text": "Charité",
+      "start": 7569,
+      "end": 7576,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulins",
+      "start": 8271,
+      "end": 8278,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulins",
+      "start": 8526,
+      "end": 8533,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonnais",
+      "start": 8785,
+      "end": 8796,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpersan",
+      "start": 8895,
+      "end": 8905,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la",
+      "start": 9121,
+      "end": 9130,
+      "label": "PER"
+    },
+    {
+      "text": "la Juliette",
+      "start": 9196,
+      "end": 9207,
+      "label": "LOC"
+    },
+    {
+      "text": "Sosie",
+      "start": 9420,
+      "end": 9425,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbonnais",
+      "start": 10107,
+      "end": 10118,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpersan",
+      "start": 10220,
+      "end": 10230,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 10655,
+      "end": 10673,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 10804,
+      "end": 10810,
+      "label": "PER"
+    },
+    {
+      "text": "Merci !",
+      "start": 10827,
+      "end": 10834,
+      "label": "MISC"
+    },
+    {
+      "text": "bonds",
+      "start": 11279,
+      "end": 11284,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascon",
+      "start": 11850,
+      "end": 11856,
+      "label": "LOC"
+    },
+    {
+      "text": "Juliette",
+      "start": 12197,
+      "end": 12205,
+      "label": "PER"
+    },
+    {
+      "text": "madame la",
+      "start": 12948,
+      "end": 12957,
+      "label": "PER"
+    },
+    {
+      "text": "mignonne",
+      "start": 14290,
+      "end": 14298,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Lignolles",
+      "start": 14979,
+      "end": 15000,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise de B",
+      "start": 15010,
+      "end": 15023,
+      "label": "PER"
+    },
+    {
+      "text": "Louvet",
+      "start": 15123,
+      "end": 15129,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 15649,
+      "end": 15657,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 16374,
+      "end": 16382,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 16527,
+      "end": 16545,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 16821,
+      "end": 16827,
+      "label": "PER"
+    },
+    {
+      "text": "Juliette nous examina",
+      "start": 17195,
+      "end": 17216,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 18284,
+      "end": 18290,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 18366,
+      "end": 18374,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 18392,
+      "end": 18396,
+      "label": "MISC"
+    },
+    {
+      "text": "Juliette",
+      "start": 18448,
+      "end": 18456,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 18682,
+      "end": 18688,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 18796,
+      "end": 18800,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 19028,
+      "end": 19032,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 19176,
+      "end": 19184,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 19234,
+      "end": 19240,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 19552,
+      "end": 19558,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 19657,
+      "end": 19659,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 20054,
+      "end": 20065,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 20138,
+      "end": 20142,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 20305,
+      "end": 20309,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 20634,
+      "end": 20642,
+      "label": "PER"
+    },
+    {
+      "text": "Restez",
+      "start": 20908,
+      "end": 20914,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 20957,
+      "end": 20963,
+      "label": "PER"
+    },
+    {
+      "text": "Juliette",
+      "start": 21712,
+      "end": 21720,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 22192,
+      "end": 22198,
+      "label": "MISC"
+    },
+    {
+      "text": "Juliette",
+      "start": 22348,
+      "end": 22356,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 26423,
+      "end": 26429,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 26986,
+      "end": 26990,
+      "label": "MISC"
+    },
+    {
+      "text": "Soyez",
+      "start": 27014,
+      "end": 27019,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Montpersan",
+      "start": 27749,
+      "end": 27768,
+      "label": "PER"
+    },
+    {
+      "text": "Moulins",
+      "start": 27799,
+      "end": 27806,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 27863,
+      "end": 27871,
+      "label": "PER"
+    },
+    {
+      "text": "voudriez",
+      "start": 28003,
+      "end": 28011,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 28047,
+      "end": 28052,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Sentier",
+      "start": 28118,
+      "end": 28132,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 28215,
+      "end": 28225,
+      "label": "LOC"
+    },
+    {
+      "text": "louis",
+      "start": 28300,
+      "end": 28305,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 28333,
+      "end": 28338,
+      "label": "LOC"
+    },
+    {
+      "text": "Montpersan",
+      "start": 28409,
+      "end": 28419,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 28423,
+      "end": 28428,
+      "label": "LOC"
+    },
+    {
+      "text": "Juliette",
+      "start": 28537,
+      "end": 28545,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 28818,
+      "end": 28822,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 28849,
+      "end": 28854,
+      "label": "LOC"
+    }
+  ]
+}

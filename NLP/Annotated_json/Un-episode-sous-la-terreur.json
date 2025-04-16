@@ -1,0 +1,778 @@
+{
+  "entities": [
+    {
+      "text": "ÉPISODE",
+      "start": 3,
+      "end": 10,
+      "label": "ORG"
+    },
+    {
+      "text": "TERREUR",
+      "start": 19,
+      "end": 26,
+      "label": "MISC"
+    },
+    {
+      "text": "MONSIEUR GUYONNET MERVILLE",
+      "start": 36,
+      "end": 62,
+      "label": "MISC"
+    },
+    {
+      "text": "Ne faut il pas",
+      "start": 64,
+      "end": 78,
+      "label": "MISC"
+    },
+    {
+      "text": "Scribe",
+      "start": 306,
+      "end": 312,
+      "label": "PER"
+    },
+    {
+      "text": "Passez",
+      "start": 337,
+      "end": 343,
+      "label": "MISC"
+    },
+    {
+      "text": "Étude",
+      "start": 353,
+      "end": 358,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 523,
+      "end": 529,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 614,
+      "end": 619,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Laurent",
+      "start": 665,
+      "end": 678,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 697,
+      "end": 709,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 927,
+      "end": 936,
+      "label": "LOC"
+    },
+    {
+      "text": "Morts",
+      "start": 1375,
+      "end": 1380,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 3301,
+      "end": 3310,
+      "label": "PER"
+    },
+    {
+      "text": "Crois",
+      "start": 3629,
+      "end": 3634,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 4685,
+      "end": 4691,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu",
+      "start": 4925,
+      "end": 4933,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 5330,
+      "end": 5334,
+      "label": "MISC"
+    },
+    {
+      "text": "Excusez",
+      "start": 5500,
+      "end": 5507,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 6512,
+      "end": 6518,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 6687,
+      "end": 6693,
+      "label": "PER"
+    },
+    {
+      "text": "Gagnée",
+      "start": 6863,
+      "end": 6869,
+      "label": "PER"
+    },
+    {
+      "text": "Attends",
+      "start": 7110,
+      "end": 7117,
+      "label": "LOC"
+    },
+    {
+      "text": "Réflexion",
+      "start": 7512,
+      "end": 7521,
+      "label": "ORG"
+    },
+    {
+      "text": "Bienfaisance",
+      "start": 7550,
+      "end": 7562,
+      "label": "LOC"
+    },
+    {
+      "text": "Inquiète",
+      "start": 7564,
+      "end": 7572,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 8197,
+      "end": 8201,
+      "label": "MISC"
+    },
+    {
+      "text": "Veux",
+      "start": 8705,
+      "end": 8709,
+      "label": "LOC"
+    },
+    {
+      "text": "Songe",
+      "start": 8792,
+      "end": 8797,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 9209,
+      "end": 9213,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Laurent",
+      "start": 10130,
+      "end": 10143,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 10846,
+      "end": 10858,
+      "label": "PER"
+    },
+    {
+      "text": "Pantin",
+      "start": 11030,
+      "end": 11036,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11097,
+      "end": 11102,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Chaumont",
+      "start": 11136,
+      "end": 11150,
+      "label": "MISC"
+    },
+    {
+      "text": "Belleville",
+      "start": 11157,
+      "end": 11167,
+      "label": "LOC"
+    },
+    {
+      "text": "Cachez",
+      "start": 13316,
+      "end": 13322,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 14230,
+      "end": 14234,
+      "label": "MISC"
+    },
+    {
+      "text": "Carmes",
+      "start": 14396,
+      "end": 14402,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye de Chelles",
+      "start": 14791,
+      "end": 14808,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Langeais",
+      "start": 15368,
+      "end": 15383,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Beauséant",
+      "start": 15390,
+      "end": 15410,
+      "label": "PER"
+    },
+    {
+      "text": "Sœur Marthe",
+      "start": 15796,
+      "end": 15807,
+      "label": "MISC"
+    },
+    {
+      "text": "Fiat",
+      "start": 15911,
+      "end": 15915,
+      "label": "ORG"
+    },
+    {
+      "text": "Hosanna",
+      "start": 15933,
+      "end": 15940,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 16368,
+      "end": 16374,
+      "label": "PER"
+    },
+    {
+      "text": "Séparées",
+      "start": 16649,
+      "end": 16657,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 17029,
+      "end": 17042,
+      "label": "MISC"
+    },
+    {
+      "text": "Incapables",
+      "start": 17088,
+      "end": 17098,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye de Chelles",
+      "start": 18805,
+      "end": 18822,
+      "label": "LOC"
+    },
+    {
+      "text": "Un sentiment de commisération",
+      "start": 19189,
+      "end": 19218,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes sœurs",
+      "start": 19647,
+      "end": 19656,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 19694,
+      "end": 19700,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 20186,
+      "end": 20192,
+      "label": "PER"
+    },
+    {
+      "text": "Langeais",
+      "start": 20252,
+      "end": 20260,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmes",
+      "start": 20743,
+      "end": 20749,
+      "label": "LOC"
+    },
+    {
+      "text": "Hosanna",
+      "start": 20753,
+      "end": 20760,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 20778,
+      "end": 20784,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 20947,
+      "end": 20953,
+      "label": "PER"
+    },
+    {
+      "text": "Rassurez",
+      "start": 21402,
+      "end": 21410,
+      "label": "LOC"
+    },
+    {
+      "text": "Chut",
+      "start": 21604,
+      "end": 21608,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 21630,
+      "end": 21636,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 22926,
+      "end": 22930,
+      "label": "MISC"
+    },
+    {
+      "text": "L'inconnu tressaillit",
+      "start": 23105,
+      "end": 23126,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 23538,
+      "end": 23547,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 24714,
+      "end": 24723,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye de Chelles",
+      "start": 25233,
+      "end": 25250,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 25903,
+      "end": 25907,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 26574,
+      "end": 26578,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi de France",
+      "start": 26587,
+      "end": 26600,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 26772,
+      "end": 26776,
+      "label": "MISC"
+    },
+    {
+      "text": "Monarchie",
+      "start": 26845,
+      "end": 26854,
+      "label": "MISC"
+    },
+    {
+      "text": "Révolution",
+      "start": 26946,
+      "end": 26956,
+      "label": "MISC"
+    },
+    {
+      "text": "Introïbo",
+      "start": 27152,
+      "end": 27160,
+      "label": "PER"
+    },
+    {
+      "text": "Dei",
+      "start": 27171,
+      "end": 27174,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 27266,
+      "end": 27275,
+      "label": "LOC"
+    },
+    {
+      "text": "sanctuaire de",
+      "start": 27370,
+      "end": 27383,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 27384,
+      "end": 27388,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Pierre de Rome",
+      "start": 27523,
+      "end": 27543,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 27545,
+      "end": 27549,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 27898,
+      "end": 27902,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 27909,
+      "end": 27912,
+      "label": "PER"
+    },
+    {
+      "text": "Pater",
+      "start": 28076,
+      "end": 28081,
+      "label": "MISC"
+    },
+    {
+      "text": "Ludovicus",
+      "start": 28209,
+      "end": 28218,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 28276,
+      "end": 28285,
+      "label": "PER"
+    },
+    {
+      "text": "Domine salvum fac regem",
+      "start": 28485,
+      "end": 28508,
+      "label": "ORG"
+    },
+    {
+      "text": "Très Haut",
+      "start": 28640,
+      "end": 28649,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi Martyr",
+      "start": 29118,
+      "end": 29128,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 29189,
+      "end": 29193,
+      "label": "MISC"
+    },
+    {
+      "text": "Conventionnels",
+      "start": 29752,
+      "end": 29766,
+      "label": "PER"
+    },
+    {
+      "text": "Vous croyez",
+      "start": 30330,
+      "end": 30341,
+      "label": "MISC"
+    },
+    {
+      "text": "Daignez",
+      "start": 31280,
+      "end": 31287,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 31804,
+      "end": 31813,
+      "label": "MISC"
+    },
+    {
+      "text": "Mucius Scævola",
+      "start": 31872,
+      "end": 31886,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 32015,
+      "end": 32023,
+      "label": "LOC"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 32051,
+      "end": 32062,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Conti",
+      "start": 32066,
+      "end": 32081,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 32190,
+      "end": 32199,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle de Langeais",
+      "start": 33045,
+      "end": 33069,
+      "label": "PER"
+    },
+    {
+      "text": "Terreur",
+      "start": 33592,
+      "end": 33599,
+      "label": "MISC"
+    },
+    {
+      "text": "Mucius Scævola",
+      "start": 33979,
+      "end": 33993,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 34254,
+      "end": 34258,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 34290,
+      "end": 34295,
+      "label": "LOC"
+    },
+    {
+      "text": "Mucius Scaevola",
+      "start": 34478,
+      "end": 34493,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 35083,
+      "end": 35087,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 35771,
+      "end": 35780,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle de Langeais",
+      "start": 36094,
+      "end": 36118,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 36189,
+      "end": 36194,
+      "label": "LOC"
+    },
+    {
+      "text": "Langeais",
+      "start": 37105,
+      "end": 37113,
+      "label": "LOC"
+    },
+    {
+      "text": "Marolles",
+      "start": 37207,
+      "end": 37215,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 37234,
+      "end": 37239,
+      "label": "LOC"
+    },
+    {
+      "text": "Reine des Fleurs",
+      "start": 37363,
+      "end": 37379,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 37415,
+      "end": 37420,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendéens",
+      "start": 37514,
+      "end": 37522,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 37584,
+      "end": 37589,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 37701,
+      "end": 37711,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Frondeurs",
+      "start": 37718,
+      "end": 37735,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 37777,
+      "end": 37789,
+      "label": "PER"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 37835,
+      "end": 37847,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 37933,
+      "end": 37941,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 38182,
+      "end": 38186,
+      "label": "MISC"
+    },
+    {
+      "text": "Robespierre",
+      "start": 38222,
+      "end": 38233,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 38375,
+      "end": 38387,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé de Marolles",
+      "start": 38432,
+      "end": 38448,
+      "label": "PER"
+    },
+    {
+      "text": "Ragon",
+      "start": 38648,
+      "end": 38653,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Ragon",
+      "start": 38747,
+      "end": 38759,
+      "label": "PER"
+    },
+    {
+      "text": "évanoui",
+      "start": 38868,
+      "end": 38875,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 39052,
+      "end": 39061,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 39140,
+      "end": 39145,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,4108 @@
+{
+  "entities": [
+    {
+      "text": "MARANA",
+      "start": 4,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "COMTESSE MERLIN",
+      "start": 30,
+      "end": 45,
+      "label": "ORG"
+    },
+    {
+      "text": "maréchal Suchet",
+      "start": 81,
+      "end": 96,
+      "label": "PER"
+    },
+    {
+      "text": "Tarragone",
+      "start": 215,
+      "end": 224,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 615,
+      "end": 624,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 932,
+      "end": 940,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 977,
+      "end": 983,
+      "label": "PER"
+    },
+    {
+      "text": "Murat",
+      "start": 1032,
+      "end": 1037,
+      "label": "PER"
+    },
+    {
+      "text": "duché de Berg",
+      "start": 1096,
+      "end": 1109,
+      "label": "LOC"
+    },
+    {
+      "text": "royaume de Naples",
+      "start": 1114,
+      "end": 1131,
+      "label": "LOC"
+    },
+    {
+      "text": "Pizzo",
+      "start": 1144,
+      "end": 1149,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 1392,
+      "end": 1400,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 1418,
+      "end": 1427,
+      "label": "LOC"
+    },
+    {
+      "text": "île d'Elbe",
+      "start": 1476,
+      "end": 1486,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 1976,
+      "end": 1984,
+      "label": "PER"
+    },
+    {
+      "text": "Tarragone",
+      "start": 2425,
+      "end": 2434,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 2440,
+      "end": 2448,
+      "label": "LOC"
+    },
+    {
+      "text": "capitaine Bianchi",
+      "start": 2472,
+      "end": 2489,
+      "label": "PER"
+    },
+    {
+      "text": "SCÈNES",
+      "start": 2645,
+      "end": 2651,
+      "label": "MISC"
+    },
+    {
+      "text": "PARISIENNE",
+      "start": 2662,
+      "end": 2672,
+      "label": "ORG"
+    },
+    {
+      "text": "Bianchi",
+      "start": 2777,
+      "end": 2784,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchi",
+      "start": 3173,
+      "end": 3180,
+      "label": "PER"
+    },
+    {
+      "text": "Tarragone",
+      "start": 3303,
+      "end": 3312,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchi",
+      "start": 3374,
+      "end": 3381,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchi",
+      "start": 3401,
+      "end": 3408,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 3618,
+      "end": 3627,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 4577,
+      "end": 4587,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore de Milan",
+      "start": 4614,
+      "end": 4633,
+      "label": "PER"
+    },
+    {
+      "text": "royaume d'Italie",
+      "start": 4658,
+      "end": 4674,
+      "label": "LOC"
+    },
+    {
+      "text": "Turc",
+      "start": 5111,
+      "end": 5115,
+      "label": "LOC"
+    },
+    {
+      "text": "Girodet",
+      "start": 5126,
+      "end": 5133,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolte du Caire",
+      "start": 5157,
+      "end": 5173,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Montefiore",
+      "start": 5265,
+      "end": 5286,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5455,
+      "end": 5460,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 5504,
+      "end": 5509,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 5608,
+      "end": 5618,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe II",
+      "start": 5873,
+      "end": 5884,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Saint Quentin",
+      "start": 5908,
+      "end": 5933,
+      "label": "MISC"
+    },
+    {
+      "text": "Inquisition",
+      "start": 5998,
+      "end": 6009,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Albe",
+      "start": 6018,
+      "end": 6028,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 6176,
+      "end": 6186,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe II",
+      "start": 6336,
+      "end": 6347,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 7031,
+      "end": 7041,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 7220,
+      "end": 7230,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 7281,
+      "end": 7290,
+      "label": "PER"
+    },
+    {
+      "text": "Nice",
+      "start": 7310,
+      "end": 7314,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 7325,
+      "end": 7330,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 7423,
+      "end": 7433,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 7437,
+      "end": 7442,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 7876,
+      "end": 7886,
+      "label": "PER"
+    },
+    {
+      "text": "Rizzio",
+      "start": 7905,
+      "end": 7911,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 7917,
+      "end": 7922,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 8387,
+      "end": 8392,
+      "label": "PER"
+    },
+    {
+      "text": "Journalier",
+      "start": 8762,
+      "end": 8772,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 8821,
+      "end": 8826,
+      "label": "PER"
+    },
+    {
+      "text": "vantard",
+      "start": 8842,
+      "end": 8849,
+      "label": "ORG"
+    },
+    {
+      "text": "Montefiore",
+      "start": 9309,
+      "end": 9319,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 9519,
+      "end": 9529,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchi",
+      "start": 9556,
+      "end": 9563,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 9595,
+      "end": 9605,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 9609,
+      "end": 9614,
+      "label": "PER"
+    },
+    {
+      "text": "Tarragone",
+      "start": 10073,
+      "end": 10082,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 10084,
+      "end": 10089,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 10277,
+      "end": 10286,
+      "label": "LOC"
+    },
+    {
+      "text": "Albane",
+      "start": 10315,
+      "end": 10321,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 10431,
+      "end": 10441,
+      "label": "PER"
+    },
+    {
+      "text": "Tarragone",
+      "start": 10760,
+      "end": 10769,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 10786,
+      "end": 10795,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 10845,
+      "end": 10854,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagole intrépide",
+      "start": 11000,
+      "end": 11018,
+      "label": "ORG"
+    },
+    {
+      "text": "Montefiore",
+      "start": 11067,
+      "end": 11077,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 11223,
+      "end": 11232,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiennes",
+      "start": 11323,
+      "end": 11333,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 11969,
+      "end": 11974,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 11994,
+      "end": 12004,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 12277,
+      "end": 12285,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 12411,
+      "end": 12416,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombards",
+      "start": 12450,
+      "end": 12458,
+      "label": "MISC"
+    },
+    {
+      "text": "antique brazero",
+      "start": 12640,
+      "end": 12655,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholo",
+      "start": 12737,
+      "end": 12745,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 12962,
+      "end": 12970,
+      "label": "LOC"
+    },
+    {
+      "text": "brun",
+      "start": 13230,
+      "end": 13234,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 13908,
+      "end": 13918,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 13952,
+      "end": 13961,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 13977,
+      "end": 13985,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 14181,
+      "end": 14191,
+      "label": "PER"
+    },
+    {
+      "text": "Poucet",
+      "start": 14332,
+      "end": 14338,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 14598,
+      "end": 14606,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 14896,
+      "end": 14906,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 15600,
+      "end": 15610,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 15810,
+      "end": 15818,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 16316,
+      "end": 16326,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 16342,
+      "end": 16350,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 16401,
+      "end": 16409,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 16740,
+      "end": 16750,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 16837,
+      "end": 16843,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 16987,
+      "end": 16994,
+      "label": "LOC"
+    },
+    {
+      "text": "Alarmée",
+      "start": 17086,
+      "end": 17093,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 17165,
+      "end": 17172,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez de Lagounia",
+      "start": 17405,
+      "end": 17422,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 17499,
+      "end": 17504,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 17508,
+      "end": 17516,
+      "label": "LOC"
+    },
+    {
+      "text": "Livourne",
+      "start": 17520,
+      "end": 17528,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 17849,
+      "end": 17859,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 18026,
+      "end": 18036,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 18166,
+      "end": 18171,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 18655,
+      "end": 18664,
+      "label": "LOC"
+    },
+    {
+      "text": "Relevés",
+      "start": 18890,
+      "end": 18897,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge de l'Espagne",
+      "start": 19340,
+      "end": 19359,
+      "label": "MISC"
+    },
+    {
+      "text": "Murillo",
+      "start": 19370,
+      "end": 19377,
+      "label": "LOC"
+    },
+    {
+      "text": "Christ",
+      "start": 19465,
+      "end": 19471,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Thérèse",
+      "start": 19711,
+      "end": 19725,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 19811,
+      "end": 19821,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 20118,
+      "end": 20128,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 20261,
+      "end": 20271,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 20380,
+      "end": 20385,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 20467,
+      "end": 20475,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 20543,
+      "end": 20553,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 20587,
+      "end": 20593,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 20834,
+      "end": 20844,
+      "label": "PER"
+    },
+    {
+      "text": "révolution française",
+      "start": 20901,
+      "end": 20921,
+      "label": "MISC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 20996,
+      "end": 21005,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 21036,
+      "end": 21042,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 21059,
+      "end": 21065,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine II",
+      "start": 21557,
+      "end": 21569,
+      "label": "PER"
+    },
+    {
+      "text": "Jetée",
+      "start": 21974,
+      "end": 21979,
+      "label": "ORG"
+    },
+    {
+      "text": "Espagnole",
+      "start": 22334,
+      "end": 22343,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 22509,
+      "end": 22513,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 23086,
+      "end": 23095,
+      "label": "MISC"
+    },
+    {
+      "text": "MARANA",
+      "start": 23122,
+      "end": 23128,
+      "label": "MISC"
+    },
+    {
+      "text": "Marana",
+      "start": 23292,
+      "end": 23298,
+      "label": "LOC"
+    },
+    {
+      "text": "Stuart",
+      "start": 23338,
+      "end": 23344,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 23512,
+      "end": 23518,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 23523,
+      "end": 23530,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 23537,
+      "end": 23543,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 23703,
+      "end": 23709,
+      "label": "LOC"
+    },
+    {
+      "text": "Lenclos",
+      "start": 23910,
+      "end": 23917,
+      "label": "PER"
+    },
+    {
+      "text": "Marion Delorme",
+      "start": 23921,
+      "end": 23935,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 23951,
+      "end": 23957,
+      "label": "LOC"
+    },
+    {
+      "text": "Impéria",
+      "start": 23976,
+      "end": 23983,
+      "label": "MISC"
+    },
+    {
+      "text": "Catalina",
+      "start": 23989,
+      "end": 23997,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 24003,
+      "end": 24009,
+      "label": "MISC"
+    },
+    {
+      "text": "Impéria",
+      "start": 24104,
+      "end": 24111,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 24120,
+      "end": 24124,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhodope",
+      "start": 24184,
+      "end": 24191,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 24226,
+      "end": 24232,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 24441,
+      "end": 24447,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 24557,
+      "end": 24561,
+      "label": "MISC"
+    },
+    {
+      "text": "jura",
+      "start": 24806,
+      "end": 24810,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 25219,
+      "end": 25225,
+      "label": "MISC"
+    },
+    {
+      "text": "Henriette Wilson",
+      "start": 25375,
+      "end": 25391,
+      "label": "PER"
+    },
+    {
+      "text": "Ponsomby",
+      "start": 25402,
+      "end": 25410,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Dupuis",
+      "start": 25418,
+      "end": 25437,
+      "label": "PER"
+    },
+    {
+      "text": "Bolingbroke",
+      "start": 25443,
+      "end": 25454,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Pescaire",
+      "start": 25465,
+      "end": 25485,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 25795,
+      "end": 25799,
+      "label": "MISC"
+    },
+    {
+      "text": "Marana",
+      "start": 26337,
+      "end": 26343,
+      "label": "LOC"
+    },
+    {
+      "text": "Accomplir",
+      "start": 26466,
+      "end": 26475,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 26684,
+      "end": 26688,
+      "label": "MISC"
+    },
+    {
+      "text": "Maria Juana Pepita",
+      "start": 26726,
+      "end": 26744,
+      "label": "PER"
+    },
+    {
+      "text": "Légende",
+      "start": 26815,
+      "end": 26822,
+      "label": "MISC"
+    },
+    {
+      "text": "Vice",
+      "start": 26952,
+      "end": 26956,
+      "label": "ORG"
+    },
+    {
+      "text": "Marana",
+      "start": 27396,
+      "end": 27402,
+      "label": "LOC"
+    },
+    {
+      "text": "réclama t",
+      "start": 27568,
+      "end": 27577,
+      "label": "PER"
+    },
+    {
+      "text": "Juana Marana",
+      "start": 27674,
+      "end": 27686,
+      "label": "PER"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 27693,
+      "end": 27709,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 27813,
+      "end": 27819,
+      "label": "MISC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 28203,
+      "end": 28212,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 28255,
+      "end": 28263,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 28324,
+      "end": 28332,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 28522,
+      "end": 28528,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 28576,
+      "end": 28581,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 28736,
+      "end": 28740,
+      "label": "MISC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 28817,
+      "end": 28825,
+      "label": "LOC"
+    },
+    {
+      "text": "Dona Lagounia",
+      "start": 28941,
+      "end": 28954,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 29081,
+      "end": 29086,
+      "label": "LOC"
+    },
+    {
+      "text": "Mancini",
+      "start": 29188,
+      "end": 29195,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 29208,
+      "end": 29214,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 29490,
+      "end": 29495,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 29703,
+      "end": 29709,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 29824,
+      "end": 29829,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 29908,
+      "end": 29913,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 29983,
+      "end": 29988,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 30197,
+      "end": 30203,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 30237,
+      "end": 30253,
+      "label": "PER"
+    },
+    {
+      "text": "Alpe",
+      "start": 30470,
+      "end": 30474,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 30514,
+      "end": 30520,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 30696,
+      "end": 30704,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 30835,
+      "end": 30840,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 30887,
+      "end": 30893,
+      "label": "LOC"
+    },
+    {
+      "text": "Corso",
+      "start": 30905,
+      "end": 30910,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 31055,
+      "end": 31061,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 31296,
+      "end": 31301,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Lina",
+      "start": 31384,
+      "end": 31395,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 31463,
+      "end": 31468,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 31753,
+      "end": 31758,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez de Lagounia",
+      "start": 31794,
+      "end": 31811,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 32172,
+      "end": 32177,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 32354,
+      "end": 32359,
+      "label": "PER"
+    },
+    {
+      "text": "Madrid",
+      "start": 32386,
+      "end": 32392,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 32423,
+      "end": 32432,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 32469,
+      "end": 32475,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 32481,
+      "end": 32486,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 32635,
+      "end": 32644,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 32799,
+      "end": 32815,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de",
+      "start": 32819,
+      "end": 32830,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 32831,
+      "end": 32841,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 32867,
+      "end": 32873,
+      "label": "MISC"
+    },
+    {
+      "text": "Perez",
+      "start": 33351,
+      "end": 33356,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 33565,
+      "end": 33575,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 33634,
+      "end": 33640,
+      "label": "MISC"
+    },
+    {
+      "text": "Italienne",
+      "start": 33681,
+      "end": 33690,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 33692,
+      "end": 33701,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 33777,
+      "end": 33787,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 33834,
+      "end": 33844,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 34043,
+      "end": 34053,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 34792,
+      "end": 34797,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 34924,
+      "end": 34934,
+      "label": "PER"
+    },
+    {
+      "text": "île d'Elbe",
+      "start": 35221,
+      "end": 35231,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 35626,
+      "end": 35636,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 35787,
+      "end": 35792,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 35920,
+      "end": 35930,
+      "label": "PER"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 36032,
+      "end": 36048,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 36130,
+      "end": 36135,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 37038,
+      "end": 37043,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 37185,
+      "end": 37190,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 37249,
+      "end": 37258,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 37443,
+      "end": 37453,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 37545,
+      "end": 37550,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 38021,
+      "end": 38026,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 38049,
+      "end": 38059,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 38095,
+      "end": 38100,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholo",
+      "start": 38238,
+      "end": 38246,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 38262,
+      "end": 38267,
+      "label": "LOC"
+    },
+    {
+      "text": "Venir !",
+      "start": 38475,
+      "end": 38482,
+      "label": "MISC"
+    },
+    {
+      "text": "Perez",
+      "start": 38533,
+      "end": 38538,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux Perez",
+      "start": 38718,
+      "end": 38729,
+      "label": "LOC"
+    },
+    {
+      "text": "Satan",
+      "start": 38905,
+      "end": 38910,
+      "label": "PER"
+    },
+    {
+      "text": "Lovelace",
+      "start": 38914,
+      "end": 38922,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 39166,
+      "end": 39176,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 39497,
+      "end": 39504,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 39756,
+      "end": 39766,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 40129,
+      "end": 40134,
+      "label": "LOC"
+    },
+    {
+      "text": "Dona Lagounia",
+      "start": 40378,
+      "end": 40391,
+      "label": "PER"
+    },
+    {
+      "text": "Mancini",
+      "start": 40673,
+      "end": 40680,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 40921,
+      "end": 40927,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 41100,
+      "end": 41110,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 41155,
+      "end": 41160,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 41169,
+      "end": 41179,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 41838,
+      "end": 41843,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 42110,
+      "end": 42115,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 42122,
+      "end": 42127,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 42245,
+      "end": 42250,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 42365,
+      "end": 42375,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 42416,
+      "end": 42421,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 42572,
+      "end": 42582,
+      "label": "PER"
+    },
+    {
+      "text": "Satan",
+      "start": 42655,
+      "end": 42660,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 42932,
+      "end": 42937,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 43496,
+      "end": 43501,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 43734,
+      "end": 43739,
+      "label": "LOC"
+    },
+    {
+      "text": "Demain je me tuerai",
+      "start": 44120,
+      "end": 44139,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 44566,
+      "end": 44570,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 44821,
+      "end": 44825,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 45042,
+      "end": 45052,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 45160,
+      "end": 45170,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 45308,
+      "end": 45312,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 45344,
+      "end": 45349,
+      "label": "MISC"
+    },
+    {
+      "text": "palais de Milan",
+      "start": 45588,
+      "end": 45603,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 46156,
+      "end": 46161,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 46206,
+      "end": 46216,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 46312,
+      "end": 46316,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 46318,
+      "end": 46322,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 46422,
+      "end": 46427,
+      "label": "PER"
+    },
+    {
+      "text": "d'Italie",
+      "start": 46477,
+      "end": 46485,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 46524,
+      "end": 46534,
+      "label": "PER"
+    },
+    {
+      "text": "saint Michel",
+      "start": 46568,
+      "end": 46580,
+      "label": "PER"
+    },
+    {
+      "text": "Regardez",
+      "start": 46604,
+      "end": 46612,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 46916,
+      "end": 46924,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 47245,
+      "end": 47250,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 47259,
+      "end": 47269,
+      "label": "PER"
+    },
+    {
+      "text": "Mets",
+      "start": 47642,
+      "end": 47646,
+      "label": "LOC"
+    },
+    {
+      "text": "Sens",
+      "start": 47669,
+      "end": 47673,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 47715,
+      "end": 47719,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 47806,
+      "end": 47811,
+      "label": "LOC"
+    },
+    {
+      "text": "Donne moi le tien",
+      "start": 47834,
+      "end": 47851,
+      "label": "MISC"
+    },
+    {
+      "text": "Donner",
+      "start": 47855,
+      "end": 47861,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 47931,
+      "end": 47941,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 48164,
+      "end": 48169,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 48200,
+      "end": 48204,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 48327,
+      "end": 48337,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 48441,
+      "end": 48445,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 48449,
+      "end": 48454,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 48460,
+      "end": 48470,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 48572,
+      "end": 48577,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 48601,
+      "end": 48611,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 49078,
+      "end": 49083,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 49266,
+      "end": 49271,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 49706,
+      "end": 49711,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 49740,
+      "end": 49745,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 50423,
+      "end": 50433,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 50460,
+      "end": 50465,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 50696,
+      "end": 50706,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Perez",
+      "start": 50762,
+      "end": 50773,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 50785,
+      "end": 50793,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 50960,
+      "end": 50965,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 51029,
+      "end": 51038,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 51463,
+      "end": 51473,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 51804,
+      "end": 51811,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 51829,
+      "end": 51834,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 51847,
+      "end": 51852,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 51862,
+      "end": 51867,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 52113,
+      "end": 52120,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux Perez",
+      "start": 52345,
+      "end": 52356,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 52552,
+      "end": 52562,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 52743,
+      "end": 52748,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 52809,
+      "end": 52814,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 52867,
+      "end": 52872,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montefiore",
+      "start": 52933,
+      "end": 52954,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 53057,
+      "end": 53062,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 53070,
+      "end": 53077,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 53123,
+      "end": 53128,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 53229,
+      "end": 53234,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 53356,
+      "end": 53366,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 53491,
+      "end": 53496,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 53542,
+      "end": 53547,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 53559,
+      "end": 53568,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 53580,
+      "end": 53589,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 53926,
+      "end": 53936,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 54684,
+      "end": 54692,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 54697,
+      "end": 54703,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 54709,
+      "end": 54716,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 54729,
+      "end": 54735,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 54741,
+      "end": 54747,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 54900,
+      "end": 54905,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 54941,
+      "end": 54947,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 54993,
+      "end": 54999,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 55014,
+      "end": 55020,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 55033,
+      "end": 55039,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 55153,
+      "end": 55162,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 55178,
+      "end": 55187,
+      "label": "LOC"
+    },
+    {
+      "text": "A Tarragone",
+      "start": 55191,
+      "end": 55202,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 55222,
+      "end": 55231,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 55285,
+      "end": 55294,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 55369,
+      "end": 55378,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma fille !",
+      "start": 55643,
+      "end": 55653,
+      "label": "MISC"
+    },
+    {
+      "text": "Marana",
+      "start": 55673,
+      "end": 55679,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 55801,
+      "end": 55806,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 55883,
+      "end": 55889,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 56099,
+      "end": 56105,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 56253,
+      "end": 56261,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu !",
+      "start": 56265,
+      "end": 56275,
+      "label": "MISC"
+    },
+    {
+      "text": "Marana",
+      "start": 56356,
+      "end": 56362,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 56754,
+      "end": 56763,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 56800,
+      "end": 56805,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 56914,
+      "end": 56919,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 56980,
+      "end": 56985,
+      "label": "LOC"
+    },
+    {
+      "text": "Bon Perez",
+      "start": 57140,
+      "end": 57149,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 57239,
+      "end": 57247,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 57314,
+      "end": 57322,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 57327,
+      "end": 57334,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 57344,
+      "end": 57353,
+      "label": "PER"
+    },
+    {
+      "text": "Un Italien !",
+      "start": 57470,
+      "end": 57482,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 57517,
+      "end": 57527,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 57573,
+      "end": 57583,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 57623,
+      "end": 57628,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 57647,
+      "end": 57655,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 57695,
+      "end": 57700,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 57723,
+      "end": 57728,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 57862,
+      "end": 57866,
+      "label": "MISC"
+    },
+    {
+      "text": "Perez",
+      "start": 57917,
+      "end": 57922,
+      "label": "LOC"
+    },
+    {
+      "text": "serrure",
+      "start": 57968,
+      "end": 57975,
+      "label": "LOC"
+    },
+    {
+      "text": "Canova",
+      "start": 58316,
+      "end": 58322,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 58367,
+      "end": 58375,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 58419,
+      "end": 58425,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 58620,
+      "end": 58625,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 58640,
+      "end": 58645,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 58742,
+      "end": 58747,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 58811,
+      "end": 58821,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 58942,
+      "end": 58948,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 59084,
+      "end": 59089,
+      "label": "LOC"
+    },
+    {
+      "text": "serrure",
+      "start": 59102,
+      "end": 59109,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 59225,
+      "end": 59230,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 59321,
+      "end": 59329,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 59386,
+      "end": 59392,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 59588,
+      "end": 59593,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 59603,
+      "end": 59609,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 59790,
+      "end": 59800,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 59853,
+      "end": 59860,
+      "label": "LOC"
+    },
+    {
+      "text": "Sortez",
+      "start": 59864,
+      "end": 59870,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 59910,
+      "end": 59916,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 60003,
+      "end": 60008,
+      "label": "PER"
+    },
+    {
+      "text": "Sortez",
+      "start": 60019,
+      "end": 60025,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 60027,
+      "end": 60032,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 60197,
+      "end": 60205,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 60297,
+      "end": 60301,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 60389,
+      "end": 60394,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 60458,
+      "end": 60464,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 60698,
+      "end": 60704,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 60721,
+      "end": 60726,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 60787,
+      "end": 60795,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 60874,
+      "end": 60879,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 60997,
+      "end": 61003,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 61040,
+      "end": 61045,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 61047,
+      "end": 61056,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 61099,
+      "end": 61104,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 61197,
+      "end": 61202,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 61429,
+      "end": 61435,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Montefiore",
+      "start": 61512,
+      "end": 61534,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Perez",
+      "start": 61567,
+      "end": 61578,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 61622,
+      "end": 61632,
+      "label": "PER"
+    },
+    {
+      "text": "viens",
+      "start": 61715,
+      "end": 61720,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 61748,
+      "end": 61755,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 61822,
+      "end": 61828,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 61848,
+      "end": 61854,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 61986,
+      "end": 61994,
+      "label": "MISC"
+    },
+    {
+      "text": "Soldats du 6e de ligne",
+      "start": 61996,
+      "end": 62018,
+      "label": "MISC"
+    },
+    {
+      "text": "Diard",
+      "start": 62049,
+      "end": 62054,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 62070,
+      "end": 62075,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 62206,
+      "end": 62211,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 62364,
+      "end": 62374,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 62489,
+      "end": 62491,
+      "label": "LOC"
+    },
+    {
+      "text": "Réponds",
+      "start": 62503,
+      "end": 62510,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 62512,
+      "end": 62522,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 62570,
+      "end": 62575,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 62731,
+      "end": 62736,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 62790,
+      "end": 62795,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Vierge !",
+      "start": 62816,
+      "end": 62831,
+      "label": "PER"
+    },
+    {
+      "text": "Lagounia",
+      "start": 62845,
+      "end": 62853,
+      "label": "LOC"
+    },
+    {
+      "text": "Répondras",
+      "start": 62857,
+      "end": 62866,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 62897,
+      "end": 62903,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 62975,
+      "end": 62985,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 63046,
+      "end": 63052,
+      "label": "LOC"
+    },
+    {
+      "text": "Réponds",
+      "start": 63102,
+      "end": 63109,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 63150,
+      "end": 63160,
+      "label": "PER"
+    },
+    {
+      "text": "Mon noble Montefiore !",
+      "start": 63218,
+      "end": 63240,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 63245,
+      "end": 63250,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 63318,
+      "end": 63326,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 63345,
+      "end": 63350,
+      "label": "LOC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 63621,
+      "end": 63631,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 63671,
+      "end": 63676,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 63793,
+      "end": 63803,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 63868,
+      "end": 63873,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 63876,
+      "end": 63881,
+      "label": "PER"
+    },
+    {
+      "text": "cria t",
+      "start": 63884,
+      "end": 63890,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 64095,
+      "end": 64101,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 64242,
+      "end": 64252,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 64297,
+      "end": 64304,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 64330,
+      "end": 64335,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana sauta",
+      "start": 64365,
+      "end": 64377,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 64553,
+      "end": 64557,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 64709,
+      "end": 64714,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 64730,
+      "end": 64735,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 64823,
+      "end": 64827,
+      "label": "MISC"
+    },
+    {
+      "text": "Montefiore",
+      "start": 64951,
+      "end": 64961,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 65157,
+      "end": 65162,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 65245,
+      "end": 65250,
+      "label": "LOC"
+    },
+    {
+      "text": "Rengaînez",
+      "start": 65324,
+      "end": 65333,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 65352,
+      "end": 65358,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 65366,
+      "end": 65373,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 65615,
+      "end": 65624,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 65632,
+      "end": 65637,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 65736,
+      "end": 65741,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 65813,
+      "end": 65823,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 65958,
+      "end": 65963,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 66047,
+      "end": 66054,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 66122,
+      "end": 66127,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 66194,
+      "end": 66206,
+      "label": "PER"
+    },
+    {
+      "text": "Demain",
+      "start": 66208,
+      "end": 66214,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 66245,
+      "end": 66250,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 66255,
+      "end": 66260,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 66376,
+      "end": 66381,
+      "label": "LOC"
+    },
+    {
+      "text": "répéta t",
+      "start": 66417,
+      "end": 66425,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 66447,
+      "end": 66456,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre François Diard",
+      "start": 66616,
+      "end": 66637,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 66705,
+      "end": 66709,
+      "label": "MISC"
+    },
+    {
+      "text": "Marana",
+      "start": 66761,
+      "end": 66767,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 66798,
+      "end": 66814,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 66860,
+      "end": 66865,
+      "label": "LOC"
+    },
+    {
+      "text": "Attends toi",
+      "start": 67120,
+      "end": 67131,
+      "label": "MISC"
+    },
+    {
+      "text": "Perez",
+      "start": 67455,
+      "end": 67460,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 67538,
+      "end": 67543,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 67650,
+      "end": 67655,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre enfant !",
+      "start": 67790,
+      "end": 67805,
+      "label": "MISC"
+    },
+    {
+      "text": "Faites",
+      "start": 67878,
+      "end": 67884,
+      "label": "ORG"
+    },
+    {
+      "text": "Étude",
+      "start": 68026,
+      "end": 68031,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 68154,
+      "end": 68159,
+      "label": "PER"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 68167,
+      "end": 68183,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 68193,
+      "end": 68203,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 68207,
+      "end": 68212,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 68306,
+      "end": 68311,
+      "label": "PER"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 68500,
+      "end": 68516,
+      "label": "PER"
+    },
+    {
+      "text": "Juana de Mancini",
+      "start": 68518,
+      "end": 68534,
+      "label": "PER"
+    },
+    {
+      "text": "Destinée",
+      "start": 68581,
+      "end": 68589,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 68601,
+      "end": 68606,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 68625,
+      "end": 68630,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 68744,
+      "end": 68753,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 68957,
+      "end": 68962,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 69204,
+      "end": 69209,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 69233,
+      "end": 69238,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 69432,
+      "end": 69437,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 69447,
+      "end": 69452,
+      "label": "PER"
+    },
+    {
+      "text": "Marion Delorme",
+      "start": 69883,
+      "end": 69897,
+      "label": "PER"
+    },
+    {
+      "text": "Corneille",
+      "start": 70061,
+      "end": 70070,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 70267,
+      "end": 70272,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 70297,
+      "end": 70302,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 70332,
+      "end": 70337,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 70645,
+      "end": 70650,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 70788,
+      "end": 70793,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagounia",
+      "start": 70806,
+      "end": 70814,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 71037,
+      "end": 71042,
+      "label": "LOC"
+    },
+    {
+      "text": "Perez",
+      "start": 71243,
+      "end": 71248,
+      "label": "LOC"
+    },
+    {
+      "text": "comte d'Arcos",
+      "start": 71351,
+      "end": 71364,
+      "label": "PER"
+    },
+    {
+      "text": "Perez",
+      "start": 71523,
+      "end": 71528,
+      "label": "PER"
+    },
+    {
+      "text": "Lagounia",
+      "start": 71581,
+      "end": 71589,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 71719,
+      "end": 71724,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 71794,
+      "end": 71799,
+      "label": "LOC"
+    },
+    {
+      "text": "Tomber",
+      "start": 72074,
+      "end": 72080,
+      "label": "PER"
+    },
+    {
+      "text": "Grandesse",
+      "start": 72095,
+      "end": 72104,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 72116,
+      "end": 72121,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 72124,
+      "end": 72129,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 72138,
+      "end": 72143,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 72409,
+      "end": 72414,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 72437,
+      "end": 72442,
+      "label": "LOC"
+    },
+    {
+      "text": "Dona Lagounia",
+      "start": 72562,
+      "end": 72575,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 72680,
+      "end": 72684,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 72705,
+      "end": 72710,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 72852,
+      "end": 72857,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 73072,
+      "end": 73077,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 73139,
+      "end": 73144,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 73198,
+      "end": 73204,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 73470,
+      "end": 73475,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 73735,
+      "end": 73740,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 74068,
+      "end": 74073,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 75299,
+      "end": 75304,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 75892,
+      "end": 75897,
+      "label": "PER"
+    },
+    {
+      "text": "Montefiore",
+      "start": 75952,
+      "end": 75962,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 76102,
+      "end": 76109,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde impériale",
+      "start": 76188,
+      "end": 76203,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 76398,
+      "end": 76407,
+      "label": "LOC"
+    },
+    {
+      "text": "Menacé",
+      "start": 76475,
+      "end": 76481,
+      "label": "ORG"
+    },
+    {
+      "text": "Diard",
+      "start": 76650,
+      "end": 76655,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 77106,
+      "end": 77111,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 77153,
+      "end": 77158,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 77334,
+      "end": 77339,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 77445,
+      "end": 77450,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 77795,
+      "end": 77800,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 77858,
+      "end": 77863,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 77984,
+      "end": 77989,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 78407,
+      "end": 78412,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 78793,
+      "end": 78798,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 78834,
+      "end": 78839,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 78859,
+      "end": 78864,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 78874,
+      "end": 78879,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 78881,
+      "end": 78886,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79143,
+      "end": 79151,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79283,
+      "end": 79291,
+      "label": "PER"
+    },
+    {
+      "text": "Corse",
+      "start": 79298,
+      "end": 79303,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard Provençal",
+      "start": 79308,
+      "end": 79323,
+      "label": "PER"
+    },
+    {
+      "text": "Corse de la Provence",
+      "start": 79474,
+      "end": 79494,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 79639,
+      "end": 79644,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79826,
+      "end": 79831,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 80070,
+      "end": 80077,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 80150,
+      "end": 80155,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 80167,
+      "end": 80172,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 80232,
+      "end": 80240,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 80306,
+      "end": 80315,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 80377,
+      "end": 80382,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 80582,
+      "end": 80587,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80722,
+      "end": 80727,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 80739,
+      "end": 80744,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 81292,
+      "end": 81297,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 81305,
+      "end": 81310,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 81346,
+      "end": 81359,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Lazare",
+      "start": 81383,
+      "end": 81399,
+      "label": "LOC"
+    },
+    {
+      "text": "butte du Luxembourg",
+      "start": 81410,
+      "end": 81429,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmartre",
+      "start": 81442,
+      "end": 81452,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour d'assises pour la haute société",
+      "start": 82141,
+      "end": 82177,
+      "label": "ORG"
+    },
+    {
+      "text": "duc de Berry",
+      "start": 82751,
+      "end": 82763,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 82776,
+      "end": 82781,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Louis",
+      "start": 82851,
+      "end": 82866,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 82904,
+      "end": 82909,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 82973,
+      "end": 82978,
+      "label": "PER"
+    },
+    {
+      "text": "Miracle",
+      "start": 83094,
+      "end": 83101,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 83139,
+      "end": 83144,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 83549,
+      "end": 83554,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarragone",
+      "start": 83616,
+      "end": 83625,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 83861,
+      "end": 83866,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 84349,
+      "end": 84354,
+      "label": "PER"
+    },
+    {
+      "text": "Soudain",
+      "start": 84370,
+      "end": 84377,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 85094,
+      "end": 85099,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 85345,
+      "end": 85353,
+      "label": "PER"
+    },
+    {
+      "text": "S. M. l'empereur",
+      "start": 85509,
+      "end": 85525,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 85674,
+      "end": 85679,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 85918,
+      "end": 85926,
+      "label": "LOC"
+    },
+    {
+      "text": "Savenay",
+      "start": 85932,
+      "end": 85939,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 85994,
+      "end": 85999,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 86114,
+      "end": 86119,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 86200,
+      "end": 86205,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 86343,
+      "end": 86348,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 86406,
+      "end": 86411,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 86516,
+      "end": 86520,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 86877,
+      "end": 86882,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 87244,
+      "end": 87253,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 87598,
+      "end": 87606,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 87707,
+      "end": 87712,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 87890,
+      "end": 87895,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 88070,
+      "end": 88075,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 88381,
+      "end": 88386,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 88589,
+      "end": 88594,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 88640,
+      "end": 88645,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 89023,
+      "end": 89028,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 89034,
+      "end": 89039,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 89397,
+      "end": 89402,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 89452,
+      "end": 89457,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 89638,
+      "end": 89643,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 90079,
+      "end": 90084,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 90334,
+      "end": 90339,
+      "label": "PER"
+    },
+    {
+      "text": "Écriture sainte",
+      "start": 90521,
+      "end": 90536,
+      "label": "MISC"
+    },
+    {
+      "text": "Juana",
+      "start": 90610,
+      "end": 90615,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 90638,
+      "end": 90643,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 91174,
+      "end": 91179,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 91186,
+      "end": 91191,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte",
+      "start": 91511,
+      "end": 91517,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 91587,
+      "end": 91592,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 92344,
+      "end": 92349,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan",
+      "start": 92473,
+      "end": 92477,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 92559,
+      "end": 92564,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 92599,
+      "end": 92604,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 92610,
+      "end": 92615,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 92638,
+      "end": 92643,
+      "label": "LOC"
+    },
+    {
+      "text": "Francisque",
+      "start": 92686,
+      "end": 92696,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 92708,
+      "end": 92713,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 92902,
+      "end": 92907,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 93067,
+      "end": 93072,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 93098,
+      "end": 93107,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan",
+      "start": 93116,
+      "end": 93120,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 93253,
+      "end": 93258,
+      "label": "LOC"
+    },
+    {
+      "text": "Benjamin",
+      "start": 93319,
+      "end": 93327,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 93409,
+      "end": 93414,
+      "label": "PER"
+    },
+    {
+      "text": "Marana",
+      "start": 93538,
+      "end": 93544,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 93815,
+      "end": 93821,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 93861,
+      "end": 93866,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 94074,
+      "end": 94079,
+      "label": "LOC"
+    },
+    {
+      "text": "Marana",
+      "start": 94292,
+      "end": 94298,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 94454,
+      "end": 94459,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 94745,
+      "end": 94750,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan",
+      "start": 94808,
+      "end": 94812,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 94843,
+      "end": 94848,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnole",
+      "start": 94923,
+      "end": 94932,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 94940,
+      "end": 94945,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 95235,
+      "end": 95240,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 95633,
+      "end": 95638,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 95961,
+      "end": 95966,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 96092,
+      "end": 96097,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 96141,
+      "end": 96146,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 96261,
+      "end": 96266,
+      "label": "LOC"
+    },
+    {
+      "text": "Francisque",
+      "start": 96538,
+      "end": 96548,
+      "label": "LOC"
+    },
+    {
+      "text": "Le roi",
+      "start": 96552,
+      "end": 96558,
+      "label": "PER"
+    },
+    {
+      "text": "Juan",
+      "start": 96599,
+      "end": 96603,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 96622,
+      "end": 96627,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 96631,
+      "end": 96636,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 96853,
+      "end": 96858,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 96869,
+      "end": 96874,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 97030,
+      "end": 97034,
+      "label": "MISC"
+    },
+    {
+      "text": "Juan",
+      "start": 97036,
+      "end": 97040,
+      "label": "PER"
+    },
+    {
+      "text": "Francisque",
+      "start": 97217,
+      "end": 97227,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 97234,
+      "end": 97239,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 97257,
+      "end": 97262,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 97373,
+      "end": 97378,
+      "label": "LOC"
+    },
+    {
+      "text": "Francisque",
+      "start": 97433,
+      "end": 97443,
+      "label": "PER"
+    },
+    {
+      "text": "Juan",
+      "start": 97551,
+      "end": 97555,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 97651,
+      "end": 97656,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan",
+      "start": 97698,
+      "end": 97702,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Diard",
+      "start": 97705,
+      "end": 97717,
+      "label": "PER"
+    },
+    {
+      "text": "ajouta t il",
+      "start": 97825,
+      "end": 97836,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 98033,
+      "end": 98038,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 98230,
+      "end": 98239,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 98334,
+      "end": 98339,
+      "label": "PER"
+    },
+    {
+      "text": "Juan",
+      "start": 98355,
+      "end": 98359,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 98715,
+      "end": 98720,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 98806,
+      "end": 98811,
+      "label": "LOC"
+    },
+    {
+      "text": "Diard",
+      "start": 98977,
+      "end": 98982,
+      "label": "PER"
+    },
+    {
+      "text": "Diard",
+      "start": 99487,
+      "end": 99492,
+      "label": "LOC"
+    },
+    {
+      "text": "Juana",
+      "start": 99496,
+      "end": 99501,
+      "label": "LOC"
+    }
+  ]
+}

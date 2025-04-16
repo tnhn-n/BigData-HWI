@@ -1,0 +1,2662 @@
+{
+  "entities": [
+    {
+      "text": "GRASSOU",
+      "start": 7,
+      "end": 14,
+      "label": "ORG"
+    },
+    {
+      "text": "LIEUTENANT",
+      "start": 25,
+      "end": 35,
+      "label": "ORG"
+    },
+    {
+      "text": "Comme un témoignage de l'affectueuse estime de l'auteur",
+      "start": 68,
+      "end": 123,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 128,
+      "end": 134,
+      "label": "MISC"
+    },
+    {
+      "text": "Exposition des ouvrages de sculpture et de peinture",
+      "start": 197,
+      "end": 248,
+      "label": "MISC"
+    },
+    {
+      "text": "Révolution de 1830",
+      "start": 278,
+      "end": 296,
+      "label": "MISC"
+    },
+    {
+      "text": "Salon",
+      "start": 436,
+      "end": 441,
+      "label": "LOC"
+    },
+    {
+      "text": "le Louvre",
+      "start": 475,
+      "end": 484,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 604,
+      "end": 609,
+      "label": "LOC"
+    },
+    {
+      "text": "Delacroix",
+      "start": 915,
+      "end": 924,
+      "label": "LOC"
+    },
+    {
+      "text": "Ingres",
+      "start": 928,
+      "end": 934,
+      "label": "PER"
+    },
+    {
+      "text": "Critique",
+      "start": 1054,
+      "end": 1062,
+      "label": "MISC"
+    },
+    {
+      "text": "Jury d'examen",
+      "start": 1177,
+      "end": 1190,
+      "label": "MISC"
+    },
+    {
+      "text": "Exposition",
+      "start": 1258,
+      "end": 1268,
+      "label": "MISC"
+    },
+    {
+      "text": "Genre historique",
+      "start": 1500,
+      "end": 1516,
+      "label": "LOC"
+    },
+    {
+      "text": "Genre",
+      "start": 1521,
+      "end": 1526,
+      "label": "LOC"
+    },
+    {
+      "text": "Paysage, les Fleurs, les Animaux",
+      "start": 1572,
+      "end": 1604,
+      "label": "MISC"
+    },
+    {
+      "text": "Aquarelle",
+      "start": 1611,
+      "end": 1620,
+      "label": "LOC"
+    },
+    {
+      "text": "Jury",
+      "start": 1842,
+      "end": 1846,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 1914,
+      "end": 1919,
+      "label": "LOC"
+    },
+    {
+      "text": "Galerie",
+      "start": 1940,
+      "end": 1947,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 1952,
+      "end": 1957,
+      "label": "LOC"
+    },
+    {
+      "text": "Genre",
+      "start": 2040,
+      "end": 2045,
+      "label": "LOC"
+    },
+    {
+      "text": "Exposition glorieuse",
+      "start": 2204,
+      "end": 2224,
+      "label": "MISC"
+    },
+    {
+      "text": "Café Turc",
+      "start": 2344,
+      "end": 2353,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfants à la fontaine",
+      "start": 2359,
+      "end": 2380,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph de Decamps",
+      "start": 2414,
+      "end": 2431,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 2492,
+      "end": 2497,
+      "label": "PER"
+    },
+    {
+      "text": "Courtisane de Ingres",
+      "start": 2773,
+      "end": 2793,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigalon",
+      "start": 2807,
+      "end": 2814,
+      "label": "LOC"
+    },
+    {
+      "text": "Méduse",
+      "start": 2819,
+      "end": 2825,
+      "label": "PER"
+    },
+    {
+      "text": "Géricault",
+      "start": 2829,
+      "end": 2838,
+      "label": "PER"
+    },
+    {
+      "text": "Massacre de Scio de Delacroix",
+      "start": 2843,
+      "end": 2872,
+      "label": "MISC"
+    },
+    {
+      "text": "Baptême d'",
+      "start": 2877,
+      "end": 2887,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 2887,
+      "end": 2895,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène Deveria",
+      "start": 2900,
+      "end": 2914,
+      "label": "PER"
+    },
+    {
+      "text": "Critique",
+      "start": 3012,
+      "end": 3020,
+      "label": "MISC"
+    },
+    {
+      "text": "Académie",
+      "start": 3431,
+      "end": 3439,
+      "label": "ORG"
+    },
+    {
+      "text": "Salon",
+      "start": 3461,
+      "end": 3466,
+      "label": "PER"
+    },
+    {
+      "text": "Salon l'Art",
+      "start": 3476,
+      "end": 3487,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 3741,
+      "end": 3755,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 3765,
+      "end": 3773,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 3798,
+      "end": 3806,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribu",
+      "start": 4009,
+      "end": 4014,
+      "label": "MISC"
+    },
+    {
+      "text": "Artistes",
+      "start": 4019,
+      "end": 4027,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougères",
+      "start": 4038,
+      "end": 4046,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarin",
+      "start": 4064,
+      "end": 4071,
+      "label": "LOC"
+    },
+    {
+      "text": "Luxor",
+      "start": 4165,
+      "end": 4170,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou de Fougères",
+      "start": 4462,
+      "end": 4481,
+      "label": "PER"
+    },
+    {
+      "text": "Montmartre",
+      "start": 4524,
+      "end": 4534,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 5206,
+      "end": 5214,
+      "label": "LOC"
+    },
+    {
+      "text": "Genre",
+      "start": 5234,
+      "end": 5239,
+      "label": "LOC"
+    },
+    {
+      "text": "Histoire",
+      "start": 5304,
+      "end": 5312,
+      "label": "PER"
+    },
+    {
+      "text": "Chevalet",
+      "start": 5426,
+      "end": 5434,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5523,
+      "end": 5528,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 5635,
+      "end": 5649,
+      "label": "PER"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 6088,
+      "end": 6099,
+      "label": "PER"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 6157,
+      "end": 6168,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 6317,
+      "end": 6325,
+      "label": "PER"
+    },
+    {
+      "text": "Élias",
+      "start": 6345,
+      "end": 6350,
+      "label": "PER"
+    },
+    {
+      "text": "Élias",
+      "start": 6474,
+      "end": 6479,
+      "label": "PER"
+    },
+    {
+      "text": "Timeo Danaos",
+      "start": 6735,
+      "end": 6747,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 6770,
+      "end": 6778,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 6811,
+      "end": 6815,
+      "label": "MISC"
+    },
+    {
+      "text": "Grecs",
+      "start": 6845,
+      "end": 6850,
+      "label": "MISC"
+    },
+    {
+      "text": "Troyens",
+      "start": 6891,
+      "end": 6898,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 6953,
+      "end": 6959,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 6999,
+      "end": 7005,
+      "label": "PER"
+    },
+    {
+      "text": "Ulysse Lageingeole Élias Magus",
+      "start": 7036,
+      "end": 7066,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougères",
+      "start": 7142,
+      "end": 7150,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 7279,
+      "end": 7283,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 7384,
+      "end": 7386,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma foi",
+      "start": 7461,
+      "end": 7467,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 7740,
+      "end": 7749,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 7791,
+      "end": 7802,
+      "label": "PER"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 7904,
+      "end": 7918,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 8051,
+      "end": 8059,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 8144,
+      "end": 8158,
+      "label": "PER"
+    },
+    {
+      "text": "Cent mille francs",
+      "start": 8262,
+      "end": 8279,
+      "label": "MISC"
+    },
+    {
+      "text": "Magus",
+      "start": 8285,
+      "end": 8290,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 8347,
+      "end": 8353,
+      "label": "PER"
+    },
+    {
+      "text": "Anciens",
+      "start": 8400,
+      "end": 8407,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 8481,
+      "end": 8494,
+      "label": "LOC"
+    },
+    {
+      "text": "Faut",
+      "start": 8679,
+      "end": 8683,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 8737,
+      "end": 8742,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias",
+      "start": 8810,
+      "end": 8815,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 8857,
+      "end": 8865,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 8993,
+      "end": 9001,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou de Fougères",
+      "start": 9096,
+      "end": 9122,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 9131,
+      "end": 9139,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 9168,
+      "end": 9174,
+      "label": "ORG"
+    },
+    {
+      "text": "Schinner",
+      "start": 9266,
+      "end": 9274,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 9424,
+      "end": 9430,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 9462,
+      "end": 9470,
+      "label": "LOC"
+    },
+    {
+      "text": "Gros",
+      "start": 9501,
+      "end": 9505,
+      "label": "PER"
+    },
+    {
+      "text": "Composition",
+      "start": 9564,
+      "end": 9575,
+      "label": "LOC"
+    },
+    {
+      "text": "Composition",
+      "start": 9585,
+      "end": 9596,
+      "label": "MISC"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 9665,
+      "end": 9676,
+      "label": "LOC"
+    },
+    {
+      "text": "Drolling",
+      "start": 9680,
+      "end": 9688,
+      "label": "LOC"
+    },
+    {
+      "text": "Intérieurs",
+      "start": 9723,
+      "end": 9733,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougères",
+      "start": 9793,
+      "end": 9801,
+      "label": "LOC"
+    },
+    {
+      "text": "Duval Lecamus",
+      "start": 9835,
+      "end": 9848,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 9904,
+      "end": 9912,
+      "label": "LOC"
+    },
+    {
+      "text": "Maîtres",
+      "start": 10134,
+      "end": 10141,
+      "label": "LOC"
+    },
+    {
+      "text": "Maîtres",
+      "start": 10195,
+      "end": 10202,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 10356,
+      "end": 10364,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 10404,
+      "end": 10412,
+      "label": "LOC"
+    },
+    {
+      "text": "pièce de l'Églantine",
+      "start": 10439,
+      "end": 10459,
+      "label": "LOC"
+    },
+    {
+      "text": "la Ville",
+      "start": 10546,
+      "end": 10554,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou de Fougères",
+      "start": 10571,
+      "end": 10590,
+      "label": "PER"
+    },
+    {
+      "text": "Grassouillet",
+      "start": 10614,
+      "end": 10626,
+      "label": "PER"
+    },
+    {
+      "text": "Mayenne",
+      "start": 11200,
+      "end": 11207,
+      "label": "LOC"
+    },
+    {
+      "text": "Orgemont",
+      "start": 11232,
+      "end": 11240,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 11400,
+      "end": 11404,
+      "label": "MISC"
+    },
+    {
+      "text": "Vanités",
+      "start": 11594,
+      "end": 11601,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 11682,
+      "end": 11690,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Martyrs",
+      "start": 11721,
+      "end": 11736,
+      "label": "LOC"
+    },
+    {
+      "text": "Jury",
+      "start": 11833,
+      "end": 11837,
+      "label": "MISC"
+    },
+    {
+      "text": "Exposition du Louvre",
+      "start": 11845,
+      "end": 11865,
+      "label": "MISC"
+    },
+    {
+      "text": "Greuze",
+      "start": 11947,
+      "end": 11953,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 11981,
+      "end": 11989,
+      "label": "PER"
+    },
+    {
+      "text": "Musée",
+      "start": 12228,
+      "end": 12233,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 12265,
+      "end": 12273,
+      "label": "PER"
+    },
+    {
+      "text": "Maître",
+      "start": 12477,
+      "end": 12483,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 12520,
+      "end": 12528,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 12617,
+      "end": 12622,
+      "label": "LOC"
+    },
+    {
+      "text": "Schinner",
+      "start": 12771,
+      "end": 12779,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 12821,
+      "end": 12829,
+      "label": "LOC"
+    },
+    {
+      "text": "Brullon",
+      "start": 13080,
+      "end": 13087,
+      "label": "LOC"
+    },
+    {
+      "text": "Arts",
+      "start": 13293,
+      "end": 13297,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 13314,
+      "end": 13322,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 13414,
+      "end": 13418,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 13460,
+      "end": 13466,
+      "label": "MISC"
+    },
+    {
+      "text": "Greuze",
+      "start": 13553,
+      "end": 13559,
+      "label": "LOC"
+    },
+    {
+      "text": "Schinner",
+      "start": 13664,
+      "end": 13672,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 13694,
+      "end": 13702,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 13820,
+      "end": 13828,
+      "label": "LOC"
+    },
+    {
+      "text": "Schinner",
+      "start": 13960,
+      "end": 13968,
+      "label": "PER"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 14044,
+      "end": 14055,
+      "label": "PER"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 14057,
+      "end": 14068,
+      "label": "PER"
+    },
+    {
+      "text": "Hollando Belge Flamand",
+      "start": 14080,
+      "end": 14102,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 14173,
+      "end": 14181,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14203,
+      "end": 14208,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonne Nouvelle",
+      "start": 14264,
+      "end": 14278,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougères",
+      "start": 14280,
+      "end": 14288,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 14490,
+      "end": 14501,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 14509,
+      "end": 14515,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 14661,
+      "end": 14669,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 14702,
+      "end": 14713,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 14853,
+      "end": 14861,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Martyrs",
+      "start": 14878,
+      "end": 14893,
+      "label": "LOC"
+    },
+    {
+      "text": "Magus",
+      "start": 14974,
+      "end": 14979,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 15113,
+      "end": 15121,
+      "label": "LOC"
+    },
+    {
+      "text": "Juif",
+      "start": 15214,
+      "end": 15218,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 15241,
+      "end": 15243,
+      "label": "MISC"
+    },
+    {
+      "text": "Magus j'y mets",
+      "start": 15298,
+      "end": 15312,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 15396,
+      "end": 15404,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevard",
+      "start": 15431,
+      "end": 15440,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevard",
+      "start": 15603,
+      "end": 15612,
+      "label": "LOC"
+    },
+    {
+      "text": "Magus",
+      "start": 15671,
+      "end": 15676,
+      "label": "PER"
+    },
+    {
+      "text": "Élias",
+      "start": 15934,
+      "end": 15939,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 15941,
+      "end": 15949,
+      "label": "LOC"
+    },
+    {
+      "text": "Magus",
+      "start": 15963,
+      "end": 15968,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 16061,
+      "end": 16069,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16120,
+      "end": 16125,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 16190,
+      "end": 16197,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 16409,
+      "end": 16420,
+      "label": "PER"
+    },
+    {
+      "text": "Juif",
+      "start": 16563,
+      "end": 16567,
+      "label": "MISC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 16571,
+      "end": 16583,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 16606,
+      "end": 16614,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevards",
+      "start": 16634,
+      "end": 16644,
+      "label": "LOC"
+    },
+    {
+      "text": "Lycéen",
+      "start": 16725,
+      "end": 16731,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 16768,
+      "end": 16781,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 16873,
+      "end": 16886,
+      "label": "PER"
+    },
+    {
+      "text": "emmena Fougères",
+      "start": 16949,
+      "end": 16964,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 16976,
+      "end": 16984,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 17087,
+      "end": 17093,
+      "label": "PER"
+    },
+    {
+      "text": "Magus",
+      "start": 17546,
+      "end": 17551,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 17608,
+      "end": 17614,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 17672,
+      "end": 17680,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 17702,
+      "end": 17715,
+      "label": "PER"
+    },
+    {
+      "text": "Metzu",
+      "start": 17823,
+      "end": 17828,
+      "label": "LOC"
+    },
+    {
+      "text": "la Leçon d'anatomie",
+      "start": 17864,
+      "end": 17883,
+      "label": "MISC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 17887,
+      "end": 17896,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 17928,
+      "end": 17936,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 17943,
+      "end": 17951,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 18041,
+      "end": 18047,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 18062,
+      "end": 18070,
+      "label": "LOC"
+    },
+    {
+      "text": "Jette",
+      "start": 18074,
+      "end": 18079,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 18105,
+      "end": 18113,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias",
+      "start": 18265,
+      "end": 18270,
+      "label": "PER"
+    },
+    {
+      "text": "Élias",
+      "start": 18272,
+      "end": 18277,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 18326,
+      "end": 18334,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias",
+      "start": 18702,
+      "end": 18707,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 18726,
+      "end": 18734,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 18919,
+      "end": 18927,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias",
+      "start": 19044,
+      "end": 19049,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 19096,
+      "end": 19102,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 19143,
+      "end": 19148,
+      "label": "PER"
+    },
+    {
+      "text": "Exposition de 1829",
+      "start": 19209,
+      "end": 19227,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 19229,
+      "end": 19241,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 19243,
+      "end": 19251,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 19255,
+      "end": 19261,
+      "label": "PER"
+    },
+    {
+      "text": "Arts",
+      "start": 19355,
+      "end": 19359,
+      "label": "MISC"
+    },
+    {
+      "text": "Exposition",
+      "start": 19472,
+      "end": 19482,
+      "label": "MISC"
+    },
+    {
+      "text": "Salon",
+      "start": 19498,
+      "end": 19503,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 19519,
+      "end": 19527,
+      "label": "LOC"
+    },
+    {
+      "text": "Vigneron",
+      "start": 19575,
+      "end": 19583,
+      "label": "PER"
+    },
+    {
+      "text": "Dubufe",
+      "start": 19625,
+      "end": 19631,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 20075,
+      "end": 20083,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 20134,
+      "end": 20144,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 20335,
+      "end": 20339,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 20509,
+      "end": 20519,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou de Fougères",
+      "start": 20680,
+      "end": 20699,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre",
+      "start": 20701,
+      "end": 20707,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de Navarin",
+      "start": 20710,
+      "end": 20724,
+      "label": "LOC"
+    },
+    {
+      "text": "TOILETTE D'UN",
+      "start": 20732,
+      "end": 20745,
+      "label": "ORG"
+    },
+    {
+      "text": "CONDAMNÉ A",
+      "start": 20754,
+      "end": 20764,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles X",
+      "start": 20897,
+      "end": 20906,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 20919,
+      "end": 20925,
+      "label": "MISC"
+    },
+    {
+      "text": "Breton",
+      "start": 20969,
+      "end": 20975,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 21000,
+      "end": 21006,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Orléans",
+      "start": 21011,
+      "end": 21024,
+      "label": "PER"
+    },
+    {
+      "text": "madame la Dauphine",
+      "start": 21074,
+      "end": 21092,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur le Dauphin",
+      "start": 21196,
+      "end": 21218,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 21282,
+      "end": 21290,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 21374,
+      "end": 21380,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphin",
+      "start": 21416,
+      "end": 21423,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles X",
+      "start": 21446,
+      "end": 21455,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 21543,
+      "end": 21556,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre de l'Intérieur",
+      "start": 21598,
+      "end": 21621,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougère",
+      "start": 21656,
+      "end": 21663,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 21683,
+      "end": 21697,
+      "label": "PER"
+    },
+    {
+      "text": "Inventer",
+      "start": 21747,
+      "end": 21755,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou de Fougères",
+      "start": 21877,
+      "end": 21896,
+      "label": "PER"
+    },
+    {
+      "text": "Élection",
+      "start": 22182,
+      "end": 22190,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 22219,
+      "end": 22228,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 22309,
+      "end": 22317,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 22394,
+      "end": 22401,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 22427,
+      "end": 22434,
+      "label": "LOC"
+    },
+    {
+      "text": "Dominiquin",
+      "start": 22530,
+      "end": 22540,
+      "label": "PER"
+    },
+    {
+      "text": "Arts !",
+      "start": 22598,
+      "end": 22604,
+      "label": "MISC"
+    },
+    {
+      "text": "Grassou",
+      "start": 22605,
+      "end": 22612,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 22958,
+      "end": 22966,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarin",
+      "start": 23168,
+      "end": 23175,
+      "label": "LOC"
+    },
+    {
+      "text": "monseigneur le Dauphin",
+      "start": 23209,
+      "end": 23231,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 23280,
+      "end": 23289,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 23355,
+      "end": 23364,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 23466,
+      "end": 23473,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution de Juillet",
+      "start": 23490,
+      "end": 23511,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 23552,
+      "end": 23560,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 23581,
+      "end": 23592,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 23810,
+      "end": 23818,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 24048,
+      "end": 24056,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 24123,
+      "end": 24130,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 24329,
+      "end": 24337,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution de Juillet",
+      "start": 24540,
+      "end": 24561,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 24563,
+      "end": 24571,
+      "label": "LOC"
+    },
+    {
+      "text": "Exposition une dizaine de tableaux",
+      "start": 24592,
+      "end": 24626,
+      "label": "MISC"
+    },
+    {
+      "text": "Jury",
+      "start": 24646,
+      "end": 24650,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 24904,
+      "end": 24910,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 24962,
+      "end": 24968,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 25421,
+      "end": 25427,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou",
+      "start": 25495,
+      "end": 25502,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou de Fougères",
+      "start": 25798,
+      "end": 25817,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 26231,
+      "end": 26239,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur !",
+      "start": 26282,
+      "end": 26300,
+      "label": "ORG"
+    },
+    {
+      "text": "Schinner",
+      "start": 26321,
+      "end": 26329,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 26336,
+      "end": 26348,
+      "label": "PER"
+    },
+    {
+      "text": "Académie",
+      "start": 26362,
+      "end": 26370,
+      "label": "ORG"
+    },
+    {
+      "text": "Bridau",
+      "start": 26377,
+      "end": 26383,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 26543,
+      "end": 26551,
+      "label": "LOC"
+    },
+    {
+      "text": "boutonna",
+      "start": 26575,
+      "end": 26583,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 27107,
+      "end": 27115,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 27160,
+      "end": 27168,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 27219,
+      "end": 27227,
+      "label": "LOC"
+    },
+    {
+      "text": "Magus",
+      "start": 27236,
+      "end": 27241,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 27361,
+      "end": 27369,
+      "label": "LOC"
+    },
+    {
+      "text": "Romain",
+      "start": 28367,
+      "end": 28373,
+      "label": "LOC"
+    },
+    {
+      "text": "Arts",
+      "start": 28796,
+      "end": 28800,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou",
+      "start": 28934,
+      "end": 28941,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 28945,
+      "end": 28953,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias Magus",
+      "start": 29174,
+      "end": 29185,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 29203,
+      "end": 29211,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou",
+      "start": 29223,
+      "end": 29230,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent mille francs de dot !   ",
+      "start": 29321,
+      "end": 29350,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Boucherat",
+      "start": 29425,
+      "end": 29438,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 29464,
+      "end": 29477,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucherat",
+      "start": 29481,
+      "end": 29490,
+      "label": "LOC"
+    },
+    {
+      "text": "Élias",
+      "start": 29614,
+      "end": 29619,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 29654,
+      "end": 29668,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 29990,
+      "end": 29998,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 30381,
+      "end": 30389,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vervelle",
+      "start": 30503,
+      "end": 30518,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 30550,
+      "end": 30556,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 30560,
+      "end": 30565,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 30595,
+      "end": 30603,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 30605,
+      "end": 30611,
+      "label": "LOC"
+    },
+    {
+      "text": "Anténor",
+      "start": 30701,
+      "end": 30708,
+      "label": "PER"
+    },
+    {
+      "text": "voyais",
+      "start": 30764,
+      "end": 30770,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 30804,
+      "end": 30812,
+      "label": "MISC"
+    },
+    {
+      "text": "Arts ?",
+      "start": 30854,
+      "end": 30860,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 30881,
+      "end": 30889,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 30907,
+      "end": 30915,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 31106,
+      "end": 31114,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 31237,
+      "end": 31245,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 31482,
+      "end": 31488,
+      "label": "LOC"
+    },
+    {
+      "text": "Hein",
+      "start": 31491,
+      "end": 31495,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fougères",
+      "start": 31507,
+      "end": 31525,
+      "label": "PER"
+    },
+    {
+      "text": "ça",
+      "start": 31531,
+      "end": 31533,
+      "label": "MISC"
+    },
+    {
+      "text": "Arts",
+      "start": 31759,
+      "end": 31763,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 31778,
+      "end": 31792,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 31817,
+      "end": 31825,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 31861,
+      "end": 31869,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevard",
+      "start": 31952,
+      "end": 31961,
+      "label": "LOC"
+    },
+    {
+      "text": "Romains",
+      "start": 32137,
+      "end": 32144,
+      "label": "LOC"
+    },
+    {
+      "text": "Romain",
+      "start": 32187,
+      "end": 32193,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie Vervelle",
+      "start": 32403,
+      "end": 32420,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 32448,
+      "end": 32456,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 32813,
+      "end": 32821,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 32921,
+      "end": 32935,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 32980,
+      "end": 32988,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 33092,
+      "end": 33096,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 33281,
+      "end": 33289,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 33414,
+      "end": 33422,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 33479,
+      "end": 33493,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 33595,
+      "end": 33603,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 33636,
+      "end": 33644,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 33712,
+      "end": 33725,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubens",
+      "start": 33732,
+      "end": 33738,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 33744,
+      "end": 33754,
+      "label": "PER"
+    },
+    {
+      "text": "Mieris",
+      "start": 33760,
+      "end": 33766,
+      "label": "LOC"
+    },
+    {
+      "text": "Terburg",
+      "start": 33772,
+      "end": 33779,
+      "label": "LOC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 33785,
+      "end": 33794,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 33799,
+      "end": 33805,
+      "label": "PER"
+    },
+    {
+      "text": "Paul Potter",
+      "start": 33811,
+      "end": 33822,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Vervelle",
+      "start": 33831,
+      "end": 33848,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 33893,
+      "end": 33901,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Vervelle",
+      "start": 34024,
+      "end": 34039,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 34211,
+      "end": 34225,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 34609,
+      "end": 34617,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 34659,
+      "end": 34667,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 34680,
+      "end": 34688,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 34711,
+      "end": 34719,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 34768,
+      "end": 34776,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 34788,
+      "end": 34796,
+      "label": "LOC"
+    },
+    {
+      "text": "Abyssus",
+      "start": 34985,
+      "end": 34992,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 35127,
+      "end": 35140,
+      "label": "PER"
+    },
+    {
+      "text": "Grassou",
+      "start": 35317,
+      "end": 35324,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 35508,
+      "end": 35515,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !   ",
+      "start": 35519,
+      "end": 35526,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 35530,
+      "end": 35537,
+      "label": "LOC"
+    },
+    {
+      "text": "Tais",
+      "start": 35588,
+      "end": 35592,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 35606,
+      "end": 35610,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 35628,
+      "end": 35636,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 35758,
+      "end": 35760,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 35779,
+      "end": 35785,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 36095,
+      "end": 36098,
+      "label": "LOC"
+    },
+    {
+      "text": "Ca",
+      "start": 36102,
+      "end": 36104,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 36222,
+      "end": 36229,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 36259,
+      "end": 36267,
+      "label": "LOC"
+    },
+    {
+      "text": "Aborde",
+      "start": 36278,
+      "end": 36284,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 36293,
+      "end": 36299,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 36353,
+      "end": 36365,
+      "label": "PER"
+    },
+    {
+      "text": "Mets",
+      "start": 36447,
+      "end": 36451,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 36602,
+      "end": 36608,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 36613,
+      "end": 36618,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 36624,
+      "end": 36632,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 36678,
+      "end": 36686,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 36740,
+      "end": 36747,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 36843,
+      "end": 36851,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 36894,
+      "end": 36902,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 37102,
+      "end": 37107,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 37135,
+      "end": 37141,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 37291,
+      "end": 37303,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 37349,
+      "end": 37354,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 37432,
+      "end": 37440,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 37478,
+      "end": 37486,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 37517,
+      "end": 37524,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 37574,
+      "end": 37582,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 37684,
+      "end": 37691,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 37783,
+      "end": 37791,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 37795,
+      "end": 37799,
+      "label": "MISC"
+    },
+    {
+      "text": "Virginie",
+      "start": 37886,
+      "end": 37894,
+      "label": "LOC"
+    },
+    {
+      "text": "Génie",
+      "start": 37911,
+      "end": 37916,
+      "label": "LOC"
+    },
+    {
+      "text": "Été de la Saint Martin",
+      "start": 38024,
+      "end": 38046,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 38120,
+      "end": 38128,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 38605,
+      "end": 38619,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre royal de la Légion d'Honneur",
+      "start": 38799,
+      "end": 38833,
+      "label": "ORG"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 38913,
+      "end": 38926,
+      "label": "LOC"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 39111,
+      "end": 39124,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 39161,
+      "end": 39169,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 39238,
+      "end": 39246,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 39727,
+      "end": 39735,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 39892,
+      "end": 39899,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 39992,
+      "end": 40000,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 40236,
+      "end": 40244,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 40271,
+      "end": 40278,
+      "label": "PER"
+    },
+    {
+      "text": "Vervelle",
+      "start": 40367,
+      "end": 40375,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 40501,
+      "end": 40515,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 40535,
+      "end": 40545,
+      "label": "LOC"
+    },
+    {
+      "text": "RUBENS",
+      "start": 40656,
+      "end": 40662,
+      "label": "ORG"
+    },
+    {
+      "text": "REMBRANDT",
+      "start": 40696,
+      "end": 40705,
+      "label": "MISC"
+    },
+    {
+      "text": "Tromp",
+      "start": 40755,
+      "end": 40760,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 41108,
+      "end": 41114,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul Potter",
+      "start": 41116,
+      "end": 41127,
+      "label": "PER"
+    },
+    {
+      "text": "Mieris",
+      "start": 41129,
+      "end": 41135,
+      "label": "LOC"
+    },
+    {
+      "text": "Metzu",
+      "start": 41137,
+      "end": 41142,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 41144,
+      "end": 41154,
+      "label": "PER"
+    },
+    {
+      "text": "Ma fille, un verre d'eau",
+      "start": 41234,
+      "end": 41258,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 41276,
+      "end": 41284,
+      "label": "LOC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 41310,
+      "end": 41318,
+      "label": "LOC"
+    },
+    {
+      "text": "Murillo",
+      "start": 41398,
+      "end": 41405,
+      "label": "PER"
+    },
+    {
+      "text": "Élie Magus",
+      "start": 41492,
+      "end": 41502,
+      "label": "PER"
+    },
+    {
+      "text": "Trois mille francs !",
+      "start": 41779,
+      "end": 41799,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 41817,
+      "end": 41825,
+      "label": "LOC"
+    },
+    {
+      "text": "Quarante mille francs",
+      "start": 41889,
+      "end": 41910,
+      "label": "MISC"
+    },
+    {
+      "text": "Titien",
+      "start": 41914,
+      "end": 41920,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 42053,
+      "end": 42061,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 42117,
+      "end": 42131,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 42301,
+      "end": 42307,
+      "label": "LOC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 42309,
+      "end": 42318,
+      "label": "PER"
+    },
+    {
+      "text": "Terburg",
+      "start": 42320,
+      "end": 42327,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 42329,
+      "end": 42335,
+      "label": "MISC"
+    },
+    {
+      "text": "Magus",
+      "start": 42343,
+      "end": 42348,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 42561,
+      "end": 42569,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 42612,
+      "end": 42626,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 42780,
+      "end": 42794,
+      "label": "PER"
+    },
+    {
+      "text": "Exposition",
+      "start": 42824,
+      "end": 42834,
+      "label": "MISC"
+    },
+    {
+      "text": "Vervelle",
+      "start": 43067,
+      "end": 43075,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassou",
+      "start": 43083,
+      "end": 43090,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 43175,
+      "end": 43189,
+      "label": "PER"
+    },
+    {
+      "text": "Trône",
+      "start": 43360,
+      "end": 43365,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 43379,
+      "end": 43385,
+      "label": "LOC"
+    },
+    {
+      "text": "Officier",
+      "start": 43531,
+      "end": 43539,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 43546,
+      "end": 43562,
+      "label": "ORG"
+    },
+    {
+      "text": "Garde nationale",
+      "start": 43597,
+      "end": 43612,
+      "label": "ORG"
+    },
+    {
+      "text": "Musée de Versailles",
+      "start": 43617,
+      "end": 43636,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Fougères",
+      "start": 43714,
+      "end": 43732,
+      "label": "PER"
+    },
+    {
+      "text": "Académie",
+      "start": 44056,
+      "end": 44064,
+      "label": "ORG"
+    },
+    {
+      "text": "Ville d'Avray",
+      "start": 44232,
+      "end": 44245,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Grassou",
+      "start": 44370,
+      "end": 44384,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44463,
+      "end": 44468,
+      "label": "LOC"
+    }
+  ]
+}

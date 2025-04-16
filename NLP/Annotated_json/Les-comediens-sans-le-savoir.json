@@ -1,0 +1,6040 @@
+{
+  "entities": [
+    {
+      "text": "COMÉDIENS SANS",
+      "start": 4,
+      "end": 18,
+      "label": "ORG"
+    },
+    {
+      "text": "SAVOIR",
+      "start": 22,
+      "end": 28,
+      "label": "ORG"
+    },
+    {
+      "text": "COMTE",
+      "start": 50,
+      "end": 55,
+      "label": "MISC"
+    },
+    {
+      "text": "JULES",
+      "start": 56,
+      "end": 61,
+      "label": "MISC"
+    },
+    {
+      "text": "CASTELLANE",
+      "start": 65,
+      "end": 75,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 83,
+      "end": 95,
+      "label": "PER"
+    },
+    {
+      "text": "Roussillon",
+      "start": 178,
+      "end": 188,
+      "label": "LOC"
+    },
+    {
+      "text": "Hidalgos",
+      "start": 325,
+      "end": 333,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 360,
+      "end": 365,
+      "label": "LOC"
+    },
+    {
+      "text": "département des Pyrénées Orientales",
+      "start": 369,
+      "end": 404,
+      "label": "LOC"
+    },
+    {
+      "text": "Études",
+      "start": 774,
+      "end": 780,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 814,
+      "end": 823,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 834,
+      "end": 842,
+      "label": "PER"
+    },
+    {
+      "text": "Un début dans la vie",
+      "start": 860,
+      "end": 880,
+      "label": "MISC"
+    },
+    {
+      "text": "SCÈNES",
+      "start": 882,
+      "end": 888,
+      "label": "MISC"
+    },
+    {
+      "text": "VIE PRIVÉE",
+      "start": 895,
+      "end": 905,
+      "label": "MISC"
+    },
+    {
+      "text": "Scènes",
+      "start": 951,
+      "end": 957,
+      "label": "MISC"
+    },
+    {
+      "text": "Hobbéma",
+      "start": 993,
+      "end": 1000,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruysdaël",
+      "start": 1006,
+      "end": 1014,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorrain",
+      "start": 1020,
+      "end": 1027,
+      "label": "PER"
+    },
+    {
+      "text": "Berlin",
+      "start": 1148,
+      "end": 1154,
+      "label": "LOC"
+    },
+    {
+      "text": "Brambourg",
+      "start": 1179,
+      "end": 1188,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 1208,
+      "end": 1214,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 1240,
+      "end": 1248,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 1288,
+      "end": 1296,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 1315,
+      "end": 1331,
+      "label": "ORG"
+    },
+    {
+      "text": "Presse",
+      "start": 1570,
+      "end": 1576,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 1579,
+      "end": 1587,
+      "label": "LOC"
+    },
+    {
+      "text": "Lora",
+      "start": 1677,
+      "end": 1681,
+      "label": "MISC"
+    },
+    {
+      "text": "Urraca y Lora",
+      "start": 1754,
+      "end": 1767,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 1986,
+      "end": 1990,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 2011,
+      "end": 2023,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvestre Palafox Castel Gazonal",
+      "start": 2053,
+      "end": 2085,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 2110,
+      "end": 2117,
+      "label": "MISC"
+    },
+    {
+      "text": "Léonie Gazonal",
+      "start": 2195,
+      "end": 2209,
+      "label": "PER"
+    },
+    {
+      "text": "Fernand Didas y Lora",
+      "start": 2226,
+      "end": 2246,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvestre Gazonal",
+      "start": 2258,
+      "end": 2275,
+      "label": "PER"
+    },
+    {
+      "text": "Lora",
+      "start": 2354,
+      "end": 2358,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 2372,
+      "end": 2376,
+      "label": "PER"
+    },
+    {
+      "text": "Rio de la Plata",
+      "start": 2403,
+      "end": 2418,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan de Lora",
+      "start": 2587,
+      "end": 2603,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 2622,
+      "end": 2629,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2670,
+      "end": 2675,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 2687,
+      "end": 2694,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2718,
+      "end": 2723,
+      "label": "LOC"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 2783,
+      "end": 2791,
+      "label": "LOC"
+    },
+    {
+      "text": "Orientales",
+      "start": 2792,
+      "end": 2802,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 2868,
+      "end": 2882,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 3016,
+      "end": 3023,
+      "label": "PER"
+    },
+    {
+      "text": "rue Croix des Petits Champs",
+      "start": 3057,
+      "end": 3084,
+      "label": "LOC"
+    },
+    {
+      "text": "Berlin",
+      "start": 3127,
+      "end": 3133,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 3177,
+      "end": 3183,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 3317,
+      "end": 3324,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 3550,
+      "end": 3557,
+      "label": "PER"
+    },
+    {
+      "text": "Maître des Requêtes",
+      "start": 3620,
+      "end": 3639,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 3918,
+      "end": 3923,
+      "label": "LOC"
+    },
+    {
+      "text": "soleil",
+      "start": 4065,
+      "end": 4071,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4082,
+      "end": 4087,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 4543,
+      "end": 4555,
+      "label": "PER"
+    },
+    {
+      "text": "d'Italie",
+      "start": 4564,
+      "end": 4572,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 4618,
+      "end": 4623,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 4697,
+      "end": 4704,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 4860,
+      "end": 4867,
+      "label": "PER"
+    },
+    {
+      "text": "Berlin",
+      "start": 4942,
+      "end": 4948,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 4966,
+      "end": 4978,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 5001,
+      "end": 5008,
+      "label": "PER"
+    },
+    {
+      "text": "Café de Paris",
+      "start": 5040,
+      "end": 5053,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 5188,
+      "end": 5192,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 5267,
+      "end": 5274,
+      "label": "PER"
+    },
+    {
+      "text": "jabot",
+      "start": 5383,
+      "end": 5388,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 5675,
+      "end": 5684,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà ton Gazonal !",
+      "start": 5849,
+      "end": 5868,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 5896,
+      "end": 5902,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 5910,
+      "end": 5922,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 6041,
+      "end": 6045,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 6082,
+      "end": 6089,
+      "label": "PER"
+    },
+    {
+      "text": "Ostende",
+      "start": 6422,
+      "end": 6429,
+      "label": "LOC"
+    },
+    {
+      "text": "Soubise",
+      "start": 6451,
+      "end": 6458,
+      "label": "MISC"
+    },
+    {
+      "text": "Marengo",
+      "start": 6475,
+      "end": 6482,
+      "label": "MISC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 6593,
+      "end": 6601,
+      "label": "LOC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 6630,
+      "end": 6642,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 6712,
+      "end": 6719,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6751,
+      "end": 6756,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 7057,
+      "end": 7064,
+      "label": "PER"
+    },
+    {
+      "text": "bienne",
+      "start": 7201,
+      "end": 7207,
+      "label": "LOC"
+    },
+    {
+      "text": "neu",
+      "start": 7475,
+      "end": 7478,
+      "label": "ORG"
+    },
+    {
+      "text": "État",
+      "start": 7669,
+      "end": 7673,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 7987,
+      "end": 7993,
+      "label": "MISC"
+    },
+    {
+      "text": "Déppuis",
+      "start": 8049,
+      "end": 8056,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 8072,
+      "end": 8076,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 8202,
+      "end": 8219,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisiens",
+      "start": 8330,
+      "end": 8339,
+      "label": "LOC"
+    },
+    {
+      "text": "uné",
+      "start": 8414,
+      "end": 8417,
+      "label": "ORG"
+    },
+    {
+      "text": "Sorbonne",
+      "start": 8476,
+      "end": 8484,
+      "label": "LOC"
+    },
+    {
+      "text": "Révue",
+      "start": 8509,
+      "end": 8514,
+      "label": "LOC"
+    },
+    {
+      "text": "Claude Vignon",
+      "start": 8571,
+      "end": 8584,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 8590,
+      "end": 8596,
+      "label": "PER"
+    },
+    {
+      "text": "Méridional",
+      "start": 8626,
+      "end": 8636,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 8638,
+      "end": 8644,
+      "label": "LOC"
+    },
+    {
+      "text": "Vignon",
+      "start": 8648,
+      "end": 8654,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 8768,
+      "end": 8780,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 8819,
+      "end": 8824,
+      "label": "LOC"
+    },
+    {
+      "text": "Frrance",
+      "start": 9010,
+      "end": 9017,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 9053,
+      "end": 9059,
+      "label": "PER"
+    },
+    {
+      "text": "Renommée",
+      "start": 9241,
+      "end": 9249,
+      "label": "ORG"
+    },
+    {
+      "text": "Place Royale",
+      "start": 9315,
+      "end": 9327,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont Neuf",
+      "start": 9337,
+      "end": 9346,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevard des Italiens",
+      "start": 9394,
+      "end": 9416,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9420,
+      "end": 9425,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 9576,
+      "end": 9581,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 9673,
+      "end": 9678,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 9719,
+      "end": 9726,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 9728,
+      "end": 9730,
+      "label": "MISC"
+    },
+    {
+      "text": "châle",
+      "start": 9821,
+      "end": 9826,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 10328,
+      "end": 10330,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 10345,
+      "end": 10351,
+      "label": "PER"
+    },
+    {
+      "text": "Uné",
+      "start": 10385,
+      "end": 10388,
+      "label": "ORG"
+    },
+    {
+      "text": "Léon",
+      "start": 10421,
+      "end": 10425,
+      "label": "PER"
+    },
+    {
+      "text": "Ninette",
+      "start": 10473,
+      "end": 10480,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal bondit",
+      "start": 10517,
+      "end": 10531,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 10538,
+      "end": 10544,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 10697,
+      "end": 10702,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 11399,
+      "end": 11404,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 11536,
+      "end": 11543,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 11610,
+      "end": 11616,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 12087,
+      "end": 12096,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 12137,
+      "end": 12142,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12208,
+      "end": 12213,
+      "label": "LOC"
+    },
+    {
+      "text": "Opérra",
+      "start": 12234,
+      "end": 12240,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal d'un air suffisant",
+      "start": 12251,
+      "end": 12277,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 12377,
+      "end": 12382,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Croix des Petits Champs",
+      "start": 12384,
+      "end": 12411,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 12457,
+      "end": 12462,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillomme Tèle",
+      "start": 12489,
+      "end": 12503,
+      "label": "PER"
+    },
+    {
+      "text": "Mathilde",
+      "start": 12552,
+      "end": 12560,
+      "label": "PER"
+    },
+    {
+      "text": "Assise",
+      "start": 12698,
+      "end": 12704,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 12791,
+      "end": 12795,
+      "label": "MISC"
+    },
+    {
+      "text": "La Malibran",
+      "start": 12808,
+      "end": 12819,
+      "label": "MISC"
+    },
+    {
+      "text": "Mone",
+      "start": 13053,
+      "end": 13057,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 13072,
+      "end": 13077,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 13125,
+      "end": 13129,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 13436,
+      "end": 13444,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 13450,
+      "end": 13456,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 13516,
+      "end": 13524,
+      "label": "LOC"
+    },
+    {
+      "text": "Uné",
+      "start": 13602,
+      "end": 13605,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 14077,
+      "end": 14086,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14221,
+      "end": 14226,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14427,
+      "end": 14432,
+      "label": "LOC"
+    },
+    {
+      "text": "tyrolienne",
+      "start": 14636,
+      "end": 14646,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 14769,
+      "end": 14775,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Georges",
+      "start": 14878,
+      "end": 14891,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 15012,
+      "end": 15017,
+      "label": "LOC"
+    },
+    {
+      "text": "Carabine",
+      "start": 15042,
+      "end": 15050,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 15097,
+      "end": 15106,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 15139,
+      "end": 15146,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 15224,
+      "end": 15231,
+      "label": "LOC"
+    },
+    {
+      "text": "Regarde",
+      "start": 15235,
+      "end": 15242,
+      "label": "PER"
+    },
+    {
+      "text": "rue Grange Batelière",
+      "start": 15335,
+      "end": 15355,
+      "label": "LOC"
+    },
+    {
+      "text": "Danse",
+      "start": 15392,
+      "end": 15397,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15437,
+      "end": 15442,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 15609,
+      "end": 15613,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 15677,
+      "end": 15682,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 15697,
+      "end": 15703,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 15957,
+      "end": 15962,
+      "label": "LOC"
+    },
+    {
+      "text": "neu",
+      "start": 16137,
+      "end": 16140,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisse",
+      "start": 16165,
+      "end": 16172,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 16176,
+      "end": 16180,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 16259,
+      "end": 16264,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 16281,
+      "end": 16287,
+      "label": "PER"
+    },
+    {
+      "text": "Passage",
+      "start": 16333,
+      "end": 16340,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 16537,
+      "end": 16542,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 16552,
+      "end": 16558,
+      "label": "PER"
+    },
+    {
+      "text": "Taglioni",
+      "start": 16793,
+      "end": 16801,
+      "label": "MISC"
+    },
+    {
+      "text": "Elssler",
+      "start": 16808,
+      "end": 16815,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 17141,
+      "end": 17150,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 17170,
+      "end": 17177,
+      "label": "ORG"
+    },
+    {
+      "text": "Opéra",
+      "start": 17411,
+      "end": 17416,
+      "label": "LOC"
+    },
+    {
+      "text": "Danse",
+      "start": 17557,
+      "end": 17562,
+      "label": "LOC"
+    },
+    {
+      "text": "Chant",
+      "start": 17574,
+      "end": 17579,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 17629,
+      "end": 17634,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 17649,
+      "end": 17657,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 17823,
+      "end": 17828,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 18255,
+      "end": 18260,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 18287,
+      "end": 18294,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 18409,
+      "end": 18414,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 18518,
+      "end": 18523,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 18583,
+      "end": 18590,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 18634,
+      "end": 18642,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 18648,
+      "end": 18654,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 18663,
+      "end": 18671,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 18753,
+      "end": 18760,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 18811,
+      "end": 18819,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 18993,
+      "end": 19001,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 19120,
+      "end": 19126,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore Gaillard",
+      "start": 19133,
+      "end": 19150,
+      "label": "PER"
+    },
+    {
+      "text": "Ménars",
+      "start": 19170,
+      "end": 19176,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 19323,
+      "end": 19329,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 19507,
+      "end": 19514,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 19520,
+      "end": 19526,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 19566,
+      "end": 19570,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 19594,
+      "end": 19601,
+      "label": "PER"
+    },
+    {
+      "text": "madame Gaillard",
+      "start": 19611,
+      "end": 19626,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 19641,
+      "end": 19653,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 19740,
+      "end": 19745,
+      "label": "LOC"
+    },
+    {
+      "text": "Frédérick Lemaître",
+      "start": 19898,
+      "end": 19916,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore Gaillard",
+      "start": 19918,
+      "end": 19935,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 20054,
+      "end": 20059,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 20267,
+      "end": 20271,
+      "label": "MISC"
+    },
+    {
+      "text": "Encôre",
+      "start": 20275,
+      "end": 20281,
+      "label": "MISC"
+    },
+    {
+      "text": "Odry",
+      "start": 20297,
+      "end": 20301,
+      "label": "LOC"
+    },
+    {
+      "text": "Saltimbanques",
+      "start": 20311,
+      "end": 20324,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 20384,
+      "end": 20392,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 20447,
+      "end": 20457,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 20468,
+      "end": 20476,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 20656,
+      "end": 20661,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 20682,
+      "end": 20687,
+      "label": "LOC"
+    },
+    {
+      "text": "Oise",
+      "start": 20691,
+      "end": 20695,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 20769,
+      "end": 20777,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 20793,
+      "end": 20795,
+      "label": "MISC"
+    },
+    {
+      "text": "Vidocq",
+      "start": 20924,
+      "end": 20930,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 21052,
+      "end": 21058,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 21060,
+      "end": 21067,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 21105,
+      "end": 21113,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 21146,
+      "end": 21156,
+      "label": "LOC"
+    },
+    {
+      "text": "Odry",
+      "start": 21225,
+      "end": 21229,
+      "label": "LOC"
+    },
+    {
+      "text": "Saltimbanques",
+      "start": 21239,
+      "end": 21252,
+      "label": "LOC"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 21312,
+      "end": 21322,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 21387,
+      "end": 21395,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 21428,
+      "end": 21438,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 21487,
+      "end": 21493,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 21742,
+      "end": 21746,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 21787,
+      "end": 21794,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 21944,
+      "end": 21954,
+      "label": "LOC"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 22023,
+      "end": 22033,
+      "label": "LOC"
+    },
+    {
+      "text": "Vidocq",
+      "start": 22069,
+      "end": 22075,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouché",
+      "start": 22165,
+      "end": 22171,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 22232,
+      "end": 22242,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 22244,
+      "end": 22255,
+      "label": "PER"
+    },
+    {
+      "text": "Malaquais",
+      "start": 22302,
+      "end": 22311,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 22313,
+      "end": 22315,
+      "label": "MISC"
+    },
+    {
+      "text": "Decazes",
+      "start": 22328,
+      "end": 22335,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 22362,
+      "end": 22373,
+      "label": "PER"
+    },
+    {
+      "text": "Contenson",
+      "start": 22411,
+      "end": 22420,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 22422,
+      "end": 22434,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 22436,
+      "end": 22442,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 22444,
+      "end": 22451,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 22455,
+      "end": 22463,
+      "label": "PER"
+    },
+    {
+      "text": "Maintenant",
+      "start": 22565,
+      "end": 22575,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardes du commerce",
+      "start": 22871,
+      "end": 22889,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 22895,
+      "end": 22903,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 22919,
+      "end": 22925,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 23082,
+      "end": 23092,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnez",
+      "start": 23216,
+      "end": 23222,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore Gaillard",
+      "start": 23361,
+      "end": 23378,
+      "label": "PER"
+    },
+    {
+      "text": "Lisette",
+      "start": 23382,
+      "end": 23389,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisette",
+      "start": 23477,
+      "end": 23484,
+      "label": "PER"
+    },
+    {
+      "text": "Béranger",
+      "start": 23496,
+      "end": 23504,
+      "label": "PER"
+    },
+    {
+      "text": "Lisette",
+      "start": 23522,
+      "end": 23529,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 23585,
+      "end": 23592,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23676,
+      "end": 23681,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal en",
+      "start": 23736,
+      "end": 23746,
+      "label": "MISC"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 23907,
+      "end": 23917,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 23967,
+      "end": 23974,
+      "label": "PER"
+    },
+    {
+      "text": "Vue",
+      "start": 24059,
+      "end": 24062,
+      "label": "LOC"
+    },
+    {
+      "text": "Sagacité",
+      "start": 24234,
+      "end": 24242,
+      "label": "ORG"
+    },
+    {
+      "text": "L'Invention",
+      "start": 24246,
+      "end": 24257,
+      "label": "MISC"
+    },
+    {
+      "text": "Agilité",
+      "start": 24422,
+      "end": 24429,
+      "label": "MISC"
+    },
+    {
+      "text": "la Force",
+      "start": 24431,
+      "end": 24439,
+      "label": "MISC"
+    },
+    {
+      "text": "Gymnase Amoros",
+      "start": 24507,
+      "end": 24521,
+      "label": "LOC"
+    },
+    {
+      "text": "Vertu",
+      "start": 24537,
+      "end": 24542,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 24657,
+      "end": 24661,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 24673,
+      "end": 24682,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde du commerce",
+      "start": 24690,
+      "end": 24707,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 24762,
+      "end": 24769,
+      "label": "PER"
+    },
+    {
+      "text": "Fromenteau",
+      "start": 24771,
+      "end": 24781,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 24914,
+      "end": 24918,
+      "label": "LOC"
+    },
+    {
+      "text": "Police",
+      "start": 24953,
+      "end": 24959,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon à",
+      "start": 24974,
+      "end": 24980,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 24981,
+      "end": 24988,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 24992,
+      "end": 24994,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 25067,
+      "end": 25075,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 25079,
+      "end": 25085,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 25156,
+      "end": 25164,
+      "label": "PER"
+    },
+    {
+      "text": "Gaillard",
+      "start": 25180,
+      "end": 25188,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 25238,
+      "end": 25245,
+      "label": "LOC"
+    },
+    {
+      "text": "Méridional",
+      "start": 25305,
+      "end": 25315,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 25362,
+      "end": 25374,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 25501,
+      "end": 25508,
+      "label": "ORG"
+    },
+    {
+      "text": "Léon",
+      "start": 25546,
+      "end": 25550,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 25553,
+      "end": 25559,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 25720,
+      "end": 25726,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 25793,
+      "end": 25797,
+      "label": "MISC"
+    },
+    {
+      "text": "Bravo",
+      "start": 25801,
+      "end": 25806,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 25817,
+      "end": 25823,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 25903,
+      "end": 25907,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 26324,
+      "end": 26331,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 26386,
+      "end": 26392,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 26617,
+      "end": 26622,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 26624,
+      "end": 26628,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 26640,
+      "end": 26647,
+      "label": "LOC"
+    },
+    {
+      "text": "VITAL",
+      "start": 26685,
+      "end": 26690,
+      "label": "ORG"
+    },
+    {
+      "text": "SUCCESSEUR",
+      "start": 26692,
+      "end": 26702,
+      "label": "ORG"
+    },
+    {
+      "text": "FINOT",
+      "start": 26706,
+      "end": 26711,
+      "label": "MISC"
+    },
+    {
+      "text": "FABRICANT",
+      "start": 26713,
+      "end": 26722,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAPEAUX",
+      "start": 26726,
+      "end": 26734,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 26943,
+      "end": 26951,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal Bixiou",
+      "start": 26959,
+      "end": 26973,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 27023,
+      "end": 27028,
+      "label": "PER"
+    },
+    {
+      "text": "Méridional",
+      "start": 27101,
+      "end": 27111,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 27133,
+      "end": 27139,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 27199,
+      "end": 27203,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Vital",
+      "start": 27261,
+      "end": 27275,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 27298,
+      "end": 27304,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 27343,
+      "end": 27351,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 27421,
+      "end": 27425,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 27445,
+      "end": 27449,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 27561,
+      "end": 27568,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 27695,
+      "end": 27700,
+      "label": "PER"
+    },
+    {
+      "text": "jabot",
+      "start": 27787,
+      "end": 27792,
+      "label": "LOC"
+    },
+    {
+      "text": "Vital",
+      "start": 27910,
+      "end": 27915,
+      "label": "LOC"
+    },
+    {
+      "text": "Vital",
+      "start": 28369,
+      "end": 28374,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 28813,
+      "end": 28818,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 28927,
+      "end": 28932,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquart",
+      "start": 29218,
+      "end": 29226,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 29276,
+      "end": 29282,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 29297,
+      "end": 29304,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 29535,
+      "end": 29540,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 29566,
+      "end": 29572,
+      "label": "MISC"
+    },
+    {
+      "text": "Vital",
+      "start": 29629,
+      "end": 29634,
+      "label": "PER"
+    },
+    {
+      "text": "Debout",
+      "start": 29688,
+      "end": 29694,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29710,
+      "end": 29718,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vital",
+      "start": 29748,
+      "end": 29760,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal la salua",
+      "start": 29795,
+      "end": 29811,
+      "label": "MISC"
+    },
+    {
+      "text": "Aurais",
+      "start": 29815,
+      "end": 29821,
+      "label": "LOC"
+    },
+    {
+      "text": "Vital",
+      "start": 29860,
+      "end": 29865,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 29930,
+      "end": 29936,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Lousteau",
+      "start": 30118,
+      "end": 30135,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 30157,
+      "end": 30163,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 30239,
+      "end": 30246,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 30250,
+      "end": 30254,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 30345,
+      "end": 30350,
+      "label": "PER"
+    },
+    {
+      "text": "Béthune",
+      "start": 30446,
+      "end": 30453,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 30685,
+      "end": 30693,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 31007,
+      "end": 31016,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 31114,
+      "end": 31119,
+      "label": "LOC"
+    },
+    {
+      "text": "ajouta t",
+      "start": 31359,
+      "end": 31367,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 31626,
+      "end": 31631,
+      "label": "PER"
+    },
+    {
+      "text": "Claude Vignon",
+      "start": 31749,
+      "end": 31762,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 31821,
+      "end": 31830,
+      "label": "LOC"
+    },
+    {
+      "text": "Débats",
+      "start": 31900,
+      "end": 31906,
+      "label": "LOC"
+    },
+    {
+      "text": "Vital",
+      "start": 32084,
+      "end": 32089,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 32229,
+      "end": 32236,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 32294,
+      "end": 32299,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 32305,
+      "end": 32309,
+      "label": "PER"
+    },
+    {
+      "text": "Vital",
+      "start": 32311,
+      "end": 32316,
+      "label": "PER"
+    },
+    {
+      "text": "Pourriez",
+      "start": 32360,
+      "end": 32368,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 32458,
+      "end": 32463,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 32544,
+      "end": 32551,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 32740,
+      "end": 32745,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 32751,
+      "end": 32755,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 32759,
+      "end": 32763,
+      "label": "MISC"
+    },
+    {
+      "text": "Vital",
+      "start": 32811,
+      "end": 32816,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 32960,
+      "end": 32967,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33099,
+      "end": 33104,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 33303,
+      "end": 33309,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 33997,
+      "end": 34006,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 34287,
+      "end": 34297,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 34301,
+      "end": 34310,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 34410,
+      "end": 34419,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 34464,
+      "end": 34469,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 34690,
+      "end": 34696,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 34773,
+      "end": 34782,
+      "label": "MISC"
+    },
+    {
+      "text": "Luther",
+      "start": 34805,
+      "end": 34811,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 34817,
+      "end": 34821,
+      "label": "PER"
+    },
+    {
+      "text": "Réforme",
+      "start": 34872,
+      "end": 34879,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 35031,
+      "end": 35040,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 35084,
+      "end": 35089,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 35254,
+      "end": 35261,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 35355,
+      "end": 35361,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 35374,
+      "end": 35380,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marc",
+      "start": 35400,
+      "end": 35410,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 35610,
+      "end": 35616,
+      "label": "PER"
+    },
+    {
+      "text": "Mort ?",
+      "start": 36200,
+      "end": 36206,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 36241,
+      "end": 36248,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 36328,
+      "end": 36345,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 36349,
+      "end": 36355,
+      "label": "PER"
+    },
+    {
+      "text": "Méridionaux",
+      "start": 36580,
+      "end": 36591,
+      "label": "ORG"
+    },
+    {
+      "text": "Lamballe",
+      "start": 36663,
+      "end": 36671,
+      "label": "LOC"
+    },
+    {
+      "text": "Château",
+      "start": 36696,
+      "end": 36703,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 36714,
+      "end": 36720,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 36724,
+      "end": 36732,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 36772,
+      "end": 36778,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 36827,
+      "end": 36833,
+      "label": "PER"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 36873,
+      "end": 36890,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 36991,
+      "end": 37000,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 37104,
+      "end": 37112,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 37174,
+      "end": 37183,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 37261,
+      "end": 37273,
+      "label": "PER"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 37299,
+      "end": 37316,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 37336,
+      "end": 37342,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 37402,
+      "end": 37406,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 37420,
+      "end": 37437,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 37544,
+      "end": 37550,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 37669,
+      "end": 37678,
+      "label": "PER"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 37705,
+      "end": 37722,
+      "label": "PER"
+    },
+    {
+      "text": "Lamballe",
+      "start": 37753,
+      "end": 37761,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 37765,
+      "end": 37767,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 37910,
+      "end": 37914,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 38004,
+      "end": 38010,
+      "label": "PER"
+    },
+    {
+      "text": "Méridional",
+      "start": 38027,
+      "end": 38037,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien monsieur",
+      "start": 38192,
+      "end": 38208,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 38224,
+      "end": 38233,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 38252,
+      "end": 38259,
+      "label": "PER"
+    },
+    {
+      "text": "Cent francs",
+      "start": 38288,
+      "end": 38299,
+      "label": "MISC"
+    },
+    {
+      "text": "Merci",
+      "start": 38326,
+      "end": 38331,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 38423,
+      "end": 38440,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 38451,
+      "end": 38457,
+      "label": "PER"
+    },
+    {
+      "text": "Beunier et Cie",
+      "start": 39030,
+      "end": 39044,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 39055,
+      "end": 39061,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 39138,
+      "end": 39142,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 39512,
+      "end": 39519,
+      "label": "PER"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 39562,
+      "end": 39579,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39866,
+      "end": 39871,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 40411,
+      "end": 40418,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Nourrisson",
+      "start": 40574,
+      "end": 40591,
+      "label": "PER"
+    },
+    {
+      "text": "Mont de Piété",
+      "start": 40794,
+      "end": 40807,
+      "label": "LOC"
+    },
+    {
+      "text": "Trente",
+      "start": 40903,
+      "end": 40909,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 41028,
+      "end": 41033,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Mahuchet",
+      "start": 41150,
+      "end": 41165,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 41294,
+      "end": 41296,
+      "label": "MISC"
+    },
+    {
+      "text": "Ça",
+      "start": 41361,
+      "end": 41363,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma petite mère Mahuchet",
+      "start": 41686,
+      "end": 41709,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 41907,
+      "end": 41913,
+      "label": "PER"
+    },
+    {
+      "text": "Mahuchet",
+      "start": 41970,
+      "end": 41978,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, cela me faisait de la peine",
+      "start": 42154,
+      "end": 42186,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahuchet",
+      "start": 42316,
+      "end": 42324,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma Mahuchet",
+      "start": 42470,
+      "end": 42481,
+      "label": "PER"
+    },
+    {
+      "text": "Pas de fonds !",
+      "start": 42966,
+      "end": 42980,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahuchet",
+      "start": 43001,
+      "end": 43009,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 43022,
+      "end": 43026,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 43027,
+      "end": 43033,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 43097,
+      "end": 43103,
+      "label": "PER"
+    },
+    {
+      "text": "Mahuchet",
+      "start": 43306,
+      "end": 43314,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 43510,
+      "end": 43522,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 43541,
+      "end": 43550,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 43575,
+      "end": 43579,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 43603,
+      "end": 43620,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 43726,
+      "end": 43732,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Antonia",
+      "start": 43758,
+      "end": 43772,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 43811,
+      "end": 43817,
+      "label": "MISC"
+    },
+    {
+      "text": "Carabine",
+      "start": 43873,
+      "end": 43881,
+      "label": "LOC"
+    },
+    {
+      "text": "Mousqueton",
+      "start": 43885,
+      "end": 43895,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 43897,
+      "end": 43903,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 43907,
+      "end": 43919,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 43923,
+      "end": 43929,
+      "label": "LOC"
+    },
+    {
+      "text": "Carabine",
+      "start": 43931,
+      "end": 43939,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 44003,
+      "end": 44015,
+      "label": "PER"
+    },
+    {
+      "text": "madame Nourrisson",
+      "start": 44042,
+      "end": 44059,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 44262,
+      "end": 44268,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de France",
+      "start": 44307,
+      "end": 44325,
+      "label": "PER"
+    },
+    {
+      "text": "prince d'Ysembourg",
+      "start": 44330,
+      "end": 44348,
+      "label": "PER"
+    },
+    {
+      "text": "Dorine",
+      "start": 44382,
+      "end": 44388,
+      "label": "MISC"
+    },
+    {
+      "text": "prince d'Ysembourg",
+      "start": 44621,
+      "end": 44639,
+      "label": "PER"
+    },
+    {
+      "text": "Condé de la République",
+      "start": 44644,
+      "end": 44666,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 44709,
+      "end": 44716,
+      "label": "LOC"
+    },
+    {
+      "text": "Leroy",
+      "start": 45185,
+      "end": 45190,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 45260,
+      "end": 45269,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 45896,
+      "end": 45903,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 46050,
+      "end": 46057,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 46082,
+      "end": 46088,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 46196,
+      "end": 46202,
+      "label": "MISC"
+    },
+    {
+      "text": "lisière",
+      "start": 46664,
+      "end": 46671,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 46843,
+      "end": 46855,
+      "label": "LOC"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 46873,
+      "end": 46885,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 46891,
+      "end": 46897,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 46917,
+      "end": 46924,
+      "label": "LOC"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 46960,
+      "end": 46972,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 47034,
+      "end": 47041,
+      "label": "PER"
+    },
+    {
+      "text": "Inscris",
+      "start": 47052,
+      "end": 47059,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 47122,
+      "end": 47128,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 47198,
+      "end": 47210,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 47216,
+      "end": 47228,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 47333,
+      "end": 47338,
+      "label": "LOC"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 47340,
+      "end": 47352,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 47358,
+      "end": 47364,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 47366,
+      "end": 47371,
+      "label": "MISC"
+    },
+    {
+      "text": "Vaudeville",
+      "start": 47396,
+      "end": 47406,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 47412,
+      "end": 47416,
+      "label": "MISC"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 47454,
+      "end": 47466,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 47534,
+      "end": 47540,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 47572,
+      "end": 47584,
+      "label": "LOC"
+    },
+    {
+      "text": "Providence",
+      "start": 47726,
+      "end": 47736,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 47820,
+      "end": 47824,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 47825,
+      "end": 47830,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 47832,
+      "end": 47837,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 47851,
+      "end": 47858,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 47885,
+      "end": 47891,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 47951,
+      "end": 47958,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 48036,
+      "end": 48040,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 48122,
+      "end": 48134,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 48137,
+      "end": 48142,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal aperçut mademoiselle",
+      "start": 48171,
+      "end": 48199,
+      "label": "MISC"
+    },
+    {
+      "text": "Lucienne Ravenouillet",
+      "start": 48200,
+      "end": 48221,
+      "label": "PER"
+    },
+    {
+      "text": "Conservatoire",
+      "start": 48275,
+      "end": 48288,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Ravenouillet",
+      "start": 48321,
+      "end": 48340,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 48402,
+      "end": 48407,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 48418,
+      "end": 48424,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 48469,
+      "end": 48473,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 48546,
+      "end": 48553,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 48668,
+      "end": 48672,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 48716,
+      "end": 48728,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 48737,
+      "end": 48743,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevard",
+      "start": 48786,
+      "end": 48795,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 48806,
+      "end": 48812,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 48820,
+      "end": 48837,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 48935,
+      "end": 48949,
+      "label": "PER"
+    },
+    {
+      "text": "Carcassonne",
+      "start": 49016,
+      "end": 49027,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 49117,
+      "end": 49123,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 49285,
+      "end": 49291,
+      "label": "PER"
+    },
+    {
+      "text": "Département",
+      "start": 49437,
+      "end": 49448,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 49943,
+      "end": 49949,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50061,
+      "end": 50066,
+      "label": "LOC"
+    },
+    {
+      "text": "Paradis",
+      "start": 50088,
+      "end": 50095,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 50822,
+      "end": 50828,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 51171,
+      "end": 51177,
+      "label": "PER"
+    },
+    {
+      "text": "Massol",
+      "start": 51347,
+      "end": 51353,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 51490,
+      "end": 51502,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 51550,
+      "end": 51554,
+      "label": "PER"
+    },
+    {
+      "text": "Genre Portier",
+      "start": 51580,
+      "end": 51593,
+      "label": "MISC"
+    },
+    {
+      "text": "Irlandais",
+      "start": 51956,
+      "end": 51965,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 52076,
+      "end": 52080,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 52199,
+      "end": 52205,
+      "label": "PER"
+    },
+    {
+      "text": "Bimane",
+      "start": 52526,
+      "end": 52532,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 53051,
+      "end": 53056,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 53171,
+      "end": 53178,
+      "label": "PER"
+    },
+    {
+      "text": "Empire Napoléon",
+      "start": 53371,
+      "end": 53386,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 53398,
+      "end": 53406,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 53457,
+      "end": 53465,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 53482,
+      "end": 53488,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 53671,
+      "end": 53680,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 53908,
+      "end": 53915,
+      "label": "PER"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 53917,
+      "end": 53925,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaboisseau",
+      "start": 53927,
+      "end": 53938,
+      "label": "LOC"
+    },
+    {
+      "text": "Samanon",
+      "start": 53940,
+      "end": 53947,
+      "label": "PER"
+    },
+    {
+      "text": "Romains",
+      "start": 53966,
+      "end": 53973,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 54005,
+      "end": 54013,
+      "label": "PER"
+    },
+    {
+      "text": "Observez",
+      "start": 54146,
+      "end": 54154,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 54176,
+      "end": 54183,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 54439,
+      "end": 54447,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 54616,
+      "end": 54628,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 54641,
+      "end": 54649,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 54708,
+      "end": 54714,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 54737,
+      "end": 54744,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 55037,
+      "end": 55045,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 55249,
+      "end": 55255,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 55281,
+      "end": 55289,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 55322,
+      "end": 55329,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 55428,
+      "end": 55436,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 55442,
+      "end": 55450,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 55464,
+      "end": 55470,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 55572,
+      "end": 55576,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 55634,
+      "end": 55642,
+      "label": "MISC"
+    },
+    {
+      "text": "Ridal",
+      "start": 55749,
+      "end": 55754,
+      "label": "MISC"
+    },
+    {
+      "text": "Cérizet",
+      "start": 55884,
+      "end": 55891,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 55951,
+      "end": 55963,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 56033,
+      "end": 56039,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 56045,
+      "end": 56057,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 56138,
+      "end": 56144,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 56177,
+      "end": 56185,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 56213,
+      "end": 56221,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 56230,
+      "end": 56238,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 56377,
+      "end": 56389,
+      "label": "LOC"
+    },
+    {
+      "text": "Rothschild",
+      "start": 56428,
+      "end": 56438,
+      "label": "ORG"
+    },
+    {
+      "text": "Cherche",
+      "start": 56528,
+      "end": 56535,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 56665,
+      "end": 56671,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 56697,
+      "end": 56701,
+      "label": "PER"
+    },
+    {
+      "text": "Midi",
+      "start": 56767,
+      "end": 56771,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 56779,
+      "end": 56786,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 56924,
+      "end": 56930,
+      "label": "PER"
+    },
+    {
+      "text": "Midi",
+      "start": 57053,
+      "end": 57057,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 57101,
+      "end": 57109,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 57121,
+      "end": 57128,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 57144,
+      "end": 57151,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 57256,
+      "end": 57262,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 57305,
+      "end": 57310,
+      "label": "LOC"
+    },
+    {
+      "text": "Café de Paris",
+      "start": 57356,
+      "end": 57369,
+      "label": "LOC"
+    },
+    {
+      "text": "Roussillon",
+      "start": 57386,
+      "end": 57396,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 57466,
+      "end": 57471,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 57566,
+      "end": 57571,
+      "label": "LOC"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 57582,
+      "end": 57590,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 57599,
+      "end": 57607,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 57634,
+      "end": 57640,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 57838,
+      "end": 57846,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 57906,
+      "end": 57910,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 57926,
+      "end": 57932,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 57992,
+      "end": 58000,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 58062,
+      "end": 58070,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 58100,
+      "end": 58106,
+      "label": "PER"
+    },
+    {
+      "text": "grimace",
+      "start": 58108,
+      "end": 58115,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 58336,
+      "end": 58342,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 58474,
+      "end": 58480,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 58484,
+      "end": 58492,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 58515,
+      "end": 58521,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 58525,
+      "end": 58533,
+      "label": "LOC"
+    },
+    {
+      "text": "Carabine",
+      "start": 58548,
+      "end": 58556,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 58679,
+      "end": 58685,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 58704,
+      "end": 58712,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 58820,
+      "end": 58828,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 58905,
+      "end": 58907,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 59243,
+      "end": 59249,
+      "label": "PER"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 59298,
+      "end": 59310,
+      "label": "LOC"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 59316,
+      "end": 59328,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 59359,
+      "end": 59367,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 59457,
+      "end": 59461,
+      "label": "PER"
+    },
+    {
+      "text": "Vous croyez rire",
+      "start": 59613,
+      "end": 59629,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 59651,
+      "end": 59659,
+      "label": "PER"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 59724,
+      "end": 59735,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 59762,
+      "end": 59768,
+      "label": "MISC"
+    },
+    {
+      "text": "Gubetta",
+      "start": 59770,
+      "end": 59777,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 59803,
+      "end": 59811,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 59823,
+      "end": 59829,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 59932,
+      "end": 59939,
+      "label": "MISC"
+    },
+    {
+      "text": "Soyons amis",
+      "start": 59969,
+      "end": 59980,
+      "label": "ORG"
+    },
+    {
+      "text": "Cinna",
+      "start": 59982,
+      "end": 59987,
+      "label": "MISC"
+    },
+    {
+      "text": "Banque",
+      "start": 60164,
+      "end": 60170,
+      "label": "ORG"
+    },
+    {
+      "text": "Ravenouillet",
+      "start": 60186,
+      "end": 60198,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 60299,
+      "end": 60305,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 60330,
+      "end": 60338,
+      "label": "PER"
+    },
+    {
+      "text": "Émile Blondet",
+      "start": 60423,
+      "end": 60436,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 60473,
+      "end": 60479,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 60550,
+      "end": 60556,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 60620,
+      "end": 60625,
+      "label": "MISC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 60631,
+      "end": 60639,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 60877,
+      "end": 60884,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 60968,
+      "end": 60974,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 60980,
+      "end": 60984,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 61008,
+      "end": 61016,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 61080,
+      "end": 61086,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 61228,
+      "end": 61234,
+      "label": "LOC"
+    },
+    {
+      "text": "Carabine",
+      "start": 61298,
+      "end": 61306,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 61308,
+      "end": 61316,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 61377,
+      "end": 61383,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 61385,
+      "end": 61391,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 61449,
+      "end": 61456,
+      "label": "PER"
+    },
+    {
+      "text": "Vauvinet",
+      "start": 61544,
+      "end": 61552,
+      "label": "PER"
+    },
+    {
+      "text": "Cérizet",
+      "start": 61557,
+      "end": 61564,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 61709,
+      "end": 61715,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 61722,
+      "end": 61729,
+      "label": "PER"
+    },
+    {
+      "text": "Chemin",
+      "start": 61839,
+      "end": 61845,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 61878,
+      "end": 61885,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 62149,
+      "end": 62154,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 62176,
+      "end": 62180,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Georges",
+      "start": 62248,
+      "end": 62265,
+      "label": "LOC"
+    },
+    {
+      "text": "place de la Bourse",
+      "start": 62464,
+      "end": 62482,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 62489,
+      "end": 62495,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 62556,
+      "end": 62561,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 62583,
+      "end": 62589,
+      "label": "PER"
+    },
+    {
+      "text": "Toulousain",
+      "start": 62603,
+      "end": 62613,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabot",
+      "start": 62620,
+      "end": 62625,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62670,
+      "end": 62675,
+      "label": "LOC"
+    },
+    {
+      "text": "Libourne",
+      "start": 62795,
+      "end": 62803,
+      "label": "LOC"
+    },
+    {
+      "text": "Parny",
+      "start": 62906,
+      "end": 62911,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 62949,
+      "end": 62955,
+      "label": "PER"
+    },
+    {
+      "text": "Armand",
+      "start": 62992,
+      "end": 62998,
+      "label": "PER"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 63004,
+      "end": 63013,
+      "label": "PER"
+    },
+    {
+      "text": "Cabot",
+      "start": 63079,
+      "end": 63084,
+      "label": "PER"
+    },
+    {
+      "text": "Cabot",
+      "start": 63110,
+      "end": 63115,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 63132,
+      "end": 63138,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 63143,
+      "end": 63149,
+      "label": "PER"
+    },
+    {
+      "text": "Marius V",
+      "start": 63161,
+      "end": 63169,
+      "label": "PER"
+    },
+    {
+      "text": "Mougin",
+      "start": 63183,
+      "end": 63189,
+      "label": "LOC"
+    },
+    {
+      "text": "Botot",
+      "start": 63249,
+      "end": 63254,
+      "label": "PER"
+    },
+    {
+      "text": "Petite Vertu",
+      "start": 63275,
+      "end": 63287,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 63291,
+      "end": 63296,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 63398,
+      "end": 63404,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 63524,
+      "end": 63530,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 63536,
+      "end": 63543,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 63607,
+      "end": 63613,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 63692,
+      "end": 63698,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 63706,
+      "end": 63712,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 63909,
+      "end": 63915,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 64034,
+      "end": 64041,
+      "label": "PER"
+    },
+    {
+      "text": "Merlan",
+      "start": 64053,
+      "end": 64059,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 64069,
+      "end": 64075,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 64206,
+      "end": 64212,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 64309,
+      "end": 64313,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 64442,
+      "end": 64446,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 64486,
+      "end": 64492,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 64495,
+      "end": 64502,
+      "label": "LOC"
+    },
+    {
+      "text": "laquais",
+      "start": 64546,
+      "end": 64553,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 64757,
+      "end": 64764,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 64782,
+      "end": 64788,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 64846,
+      "end": 64850,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 65557,
+      "end": 65563,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 65633,
+      "end": 65639,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 65760,
+      "end": 65766,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 65849,
+      "end": 65855,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 65891,
+      "end": 65897,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 65944,
+      "end": 65951,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 65980,
+      "end": 65986,
+      "label": "PER"
+    },
+    {
+      "text": "Régulus !",
+      "start": 66021,
+      "end": 66030,
+      "label": "MISC"
+    },
+    {
+      "text": "Pardon",
+      "start": 66091,
+      "end": 66097,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 66103,
+      "end": 66110,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 66137,
+      "end": 66143,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 66180,
+      "end": 66186,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 66197,
+      "end": 66203,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 66393,
+      "end": 66399,
+      "label": "PER"
+    },
+    {
+      "text": "Rubini",
+      "start": 66453,
+      "end": 66459,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 66573,
+      "end": 66579,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 66669,
+      "end": 66673,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 66765,
+      "end": 66767,
+      "label": "MISC"
+    },
+    {
+      "text": "Bicêtre",
+      "start": 66812,
+      "end": 66819,
+      "label": "LOC"
+    },
+    {
+      "text": "Régulus",
+      "start": 66901,
+      "end": 66908,
+      "label": "LOC"
+    },
+    {
+      "text": "Soigne monsieur",
+      "start": 66913,
+      "end": 66928,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 66981,
+      "end": 66987,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 67001,
+      "end": 67007,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 67080,
+      "end": 67087,
+      "label": "LOC"
+    },
+    {
+      "text": "Régulus",
+      "start": 67099,
+      "end": 67106,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 67204,
+      "end": 67209,
+      "label": "LOC"
+    },
+    {
+      "text": "Ossian",
+      "start": 67281,
+      "end": 67287,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 67386,
+      "end": 67392,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 67531,
+      "end": 67537,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 67772,
+      "end": 67778,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 67857,
+      "end": 67858,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 67897,
+      "end": 67903,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 67909,
+      "end": 67916,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 67920,
+      "end": 67924,
+      "label": "MISC"
+    },
+    {
+      "text": "Marius",
+      "start": 67972,
+      "end": 67978,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 68068,
+      "end": 68075,
+      "label": "LOC"
+    },
+    {
+      "text": "Régulus",
+      "start": 68098,
+      "end": 68105,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 68269,
+      "end": 68275,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 68281,
+      "end": 68285,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 68357,
+      "end": 68362,
+      "label": "PER"
+    },
+    {
+      "text": "Régulus",
+      "start": 68374,
+      "end": 68381,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 68620,
+      "end": 68626,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 68693,
+      "end": 68700,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 68702,
+      "end": 68708,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 68725,
+      "end": 68732,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 68808,
+      "end": 68816,
+      "label": "PER"
+    },
+    {
+      "text": "Midi",
+      "start": 68903,
+      "end": 68907,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 68992,
+      "end": 68999,
+      "label": "PER"
+    },
+    {
+      "text": "Paganini",
+      "start": 69420,
+      "end": 69428,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 69879,
+      "end": 69884,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 70070,
+      "end": 70074,
+      "label": "MISC"
+    },
+    {
+      "text": "Carême",
+      "start": 70547,
+      "end": 70553,
+      "label": "LOC"
+    },
+    {
+      "text": "Vestris",
+      "start": 70557,
+      "end": 70564,
+      "label": "LOC"
+    },
+    {
+      "text": "Toulouse",
+      "start": 71017,
+      "end": 71025,
+      "label": "LOC"
+    },
+    {
+      "text": "Marius",
+      "start": 71071,
+      "end": 71077,
+      "label": "PER"
+    },
+    {
+      "text": "Marius",
+      "start": 71094,
+      "end": 71100,
+      "label": "PER"
+    },
+    {
+      "text": "Regardez",
+      "start": 71664,
+      "end": 71672,
+      "label": "LOC"
+    },
+    {
+      "text": "Humboldt",
+      "start": 71819,
+      "end": 71827,
+      "label": "PER"
+    },
+    {
+      "text": "l'Amérique",
+      "start": 71871,
+      "end": 71881,
+      "label": "LOC"
+    },
+    {
+      "text": "Science",
+      "start": 71900,
+      "end": 71907,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauvage",
+      "start": 71929,
+      "end": 71936,
+      "label": "MISC"
+    },
+    {
+      "text": "Juif",
+      "start": 72303,
+      "end": 72307,
+      "label": "MISC"
+    },
+    {
+      "text": "Conservatoire",
+      "start": 72480,
+      "end": 72493,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 72525,
+      "end": 72539,
+      "label": "LOC"
+    },
+    {
+      "text": "Ossian",
+      "start": 72610,
+      "end": 72616,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 72784,
+      "end": 72791,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 72797,
+      "end": 72801,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 72895,
+      "end": 72901,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 73104,
+      "end": 73111,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 73117,
+      "end": 73123,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 73166,
+      "end": 73170,
+      "label": "MISC"
+    },
+    {
+      "text": "Marius",
+      "start": 73192,
+      "end": 73198,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 73245,
+      "end": 73251,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 73548,
+      "end": 73554,
+      "label": "LOC"
+    },
+    {
+      "text": "Modes",
+      "start": 73601,
+      "end": 73606,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 73809,
+      "end": 73816,
+      "label": "PER"
+    },
+    {
+      "text": "Retenez",
+      "start": 73820,
+      "end": 73827,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 73848,
+      "end": 73854,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 73858,
+      "end": 73863,
+      "label": "LOC"
+    },
+    {
+      "text": "Neuve Vivienne",
+      "start": 74498,
+      "end": 74512,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 74531,
+      "end": 74535,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher cousin",
+      "start": 74620,
+      "end": 74635,
+      "label": "MISC"
+    },
+    {
+      "text": "Dubourdieu",
+      "start": 74694,
+      "end": 74704,
+      "label": "PER"
+    },
+    {
+      "text": "Palafox",
+      "start": 74804,
+      "end": 74811,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 74896,
+      "end": 74903,
+      "label": "PER"
+    },
+    {
+      "text": "Stidman",
+      "start": 74966,
+      "end": 74973,
+      "label": "PER"
+    },
+    {
+      "text": "Académie",
+      "start": 75078,
+      "end": 75086,
+      "label": "ORG"
+    },
+    {
+      "text": "Aller",
+      "start": 75107,
+      "end": 75112,
+      "label": "PER"
+    },
+    {
+      "text": "Temple !",
+      "start": 75576,
+      "end": 75584,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 75585,
+      "end": 75589,
+      "label": "MISC"
+    },
+    {
+      "text": "Champfort",
+      "start": 75603,
+      "end": 75612,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 75694,
+      "end": 75699,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 75877,
+      "end": 75883,
+      "label": "PER"
+    },
+    {
+      "text": "Harmonie",
+      "start": 76364,
+      "end": 76372,
+      "label": "LOC"
+    },
+    {
+      "text": "La reine",
+      "start": 76548,
+      "end": 76556,
+      "label": "PER"
+    },
+    {
+      "text": "Égyptiens",
+      "start": 76752,
+      "end": 76761,
+      "label": "LOC"
+    },
+    {
+      "text": "Fourier",
+      "start": 76780,
+      "end": 76787,
+      "label": "PER"
+    },
+    {
+      "text": "Fourier",
+      "start": 77204,
+      "end": 77211,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 77492,
+      "end": 77499,
+      "label": "PER"
+    },
+    {
+      "text": "SYSTÈME",
+      "start": 77643,
+      "end": 77650,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 77758,
+      "end": 77765,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 77836,
+      "end": 77843,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 78027,
+      "end": 78031,
+      "label": "PER"
+    },
+    {
+      "text": "Entièrement fini",
+      "start": 78048,
+      "end": 78064,
+      "label": "MISC"
+    },
+    {
+      "text": "Dubourdieu",
+      "start": 78073,
+      "end": 78083,
+      "label": "LOC"
+    },
+    {
+      "text": "Hiclar",
+      "start": 78104,
+      "end": 78110,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethoven",
+      "start": 78218,
+      "end": 78227,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 78385,
+      "end": 78391,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 78488,
+      "end": 78492,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah !",
+      "start": 78573,
+      "end": 78578,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 78583,
+      "end": 78589,
+      "label": "PER"
+    },
+    {
+      "text": "Dubourdieu",
+      "start": 78631,
+      "end": 78641,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 78650,
+      "end": 78656,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 78718,
+      "end": 78725,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 78799,
+      "end": 78803,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 78929,
+      "end": 78934,
+      "label": "LOC"
+    },
+    {
+      "text": "Républicain",
+      "start": 79261,
+      "end": 79272,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Simonien",
+      "start": 79290,
+      "end": 79304,
+      "label": "PER"
+    },
+    {
+      "text": "Aristocrate",
+      "start": 79314,
+      "end": 79325,
+      "label": "LOC"
+    },
+    {
+      "text": "Catholique",
+      "start": 79331,
+      "end": 79341,
+      "label": "MISC"
+    },
+    {
+      "text": "Juste Milieu",
+      "start": 79347,
+      "end": 79359,
+      "label": "PER"
+    },
+    {
+      "text": "Moyen",
+      "start": 79365,
+      "end": 79370,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 79378,
+      "end": 79386,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 79677,
+      "end": 79683,
+      "label": "PER"
+    },
+    {
+      "text": "Léon moralise",
+      "start": 79685,
+      "end": 79698,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 79744,
+      "end": 79751,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 79800,
+      "end": 79806,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 79884,
+      "end": 79891,
+      "label": "PER"
+    },
+    {
+      "text": "Fourier",
+      "start": 79936,
+      "end": 79943,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 79965,
+      "end": 79971,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79995,
+      "end": 80000,
+      "label": "LOC"
+    },
+    {
+      "text": "Demandez",
+      "start": 80002,
+      "end": 80010,
+      "label": "MISC"
+    },
+    {
+      "text": "Salomon de Caux",
+      "start": 80165,
+      "end": 80180,
+      "label": "PER"
+    },
+    {
+      "text": "Bicêtre",
+      "start": 80184,
+      "end": 80191,
+      "label": "LOC"
+    },
+    {
+      "text": "Conçois tu",
+      "start": 80540,
+      "end": 80550,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80582,
+      "end": 80587,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 80641,
+      "end": 80645,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal chez la mère Fontaine",
+      "start": 80678,
+      "end": 80707,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 80713,
+      "end": 80719,
+      "label": "PER"
+    },
+    {
+      "text": "Cocher",
+      "start": 80812,
+      "end": 80818,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieille rue",
+      "start": 80820,
+      "end": 80831,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 80835,
+      "end": 80841,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 80892,
+      "end": 80898,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 80940,
+      "end": 80947,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 80979,
+      "end": 80985,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 80996,
+      "end": 81000,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 81118,
+      "end": 81124,
+      "label": "PER"
+    },
+    {
+      "text": "Méridional",
+      "start": 81194,
+      "end": 81204,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Fontaine",
+      "start": 81206,
+      "end": 81221,
+      "label": "PER"
+    },
+    {
+      "text": "Lenormand",
+      "start": 81331,
+      "end": 81340,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 81380,
+      "end": 81387,
+      "label": "PER"
+    },
+    {
+      "text": "Loterie",
+      "start": 81438,
+      "end": 81445,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 81465,
+      "end": 81471,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 81481,
+      "end": 81486,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 81787,
+      "end": 81794,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 81798,
+      "end": 81802,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 82441,
+      "end": 82446,
+      "label": "LOC"
+    },
+    {
+      "text": "fuligineuse",
+      "start": 82755,
+      "end": 82766,
+      "label": "LOC"
+    },
+    {
+      "text": "MADAME",
+      "start": 83078,
+      "end": 83084,
+      "label": "LOC"
+    },
+    {
+      "text": "manche",
+      "start": 83639,
+      "end": 83645,
+      "label": "LOC"
+    },
+    {
+      "text": "balai",
+      "start": 83648,
+      "end": 83653,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Fontaine",
+      "start": 83801,
+      "end": 83816,
+      "label": "PER"
+    },
+    {
+      "text": "Astaroth",
+      "start": 83904,
+      "end": 83912,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 83929,
+      "end": 83936,
+      "label": "PER"
+    },
+    {
+      "text": "Lassailly",
+      "start": 84204,
+      "end": 84213,
+      "label": "LOC"
+    },
+    {
+      "text": "Lassailly",
+      "start": 84426,
+      "end": 84435,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 84825,
+      "end": 84832,
+      "label": "LOC"
+    },
+    {
+      "text": "Coupez !",
+      "start": 84837,
+      "end": 84845,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 85486,
+      "end": 85493,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 85601,
+      "end": 85616,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 85618,
+      "end": 85625,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 85933,
+      "end": 85940,
+      "label": "PER"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 86605,
+      "end": 86620,
+      "label": "PER"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 86801,
+      "end": 86816,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 86819,
+      "end": 86826,
+      "label": "LOC"
+    },
+    {
+      "text": "Méridional",
+      "start": 86959,
+      "end": 86969,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 87105,
+      "end": 87112,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 87695,
+      "end": 87704,
+      "label": "PER"
+    },
+    {
+      "text": "Septembre",
+      "start": 88071,
+      "end": 88080,
+      "label": "PER"
+    },
+    {
+      "text": "Avancez",
+      "start": 88084,
+      "end": 88091,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Fontaine",
+      "start": 88105,
+      "end": 88120,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal de couper",
+      "start": 88416,
+      "end": 88433,
+      "label": "MISC"
+    },
+    {
+      "text": "Roulette",
+      "start": 88598,
+      "end": 88606,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 88634,
+      "end": 88641,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 89299,
+      "end": 89306,
+      "label": "PER"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 89767,
+      "end": 89782,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 89871,
+      "end": 89878,
+      "label": "PER"
+    },
+    {
+      "text": "Bilouche",
+      "start": 90069,
+      "end": 90077,
+      "label": "PER"
+    },
+    {
+      "text": "Astaroth",
+      "start": 90100,
+      "end": 90108,
+      "label": "PER"
+    },
+    {
+      "text": "Astaroth",
+      "start": 90358,
+      "end": 90366,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 90430,
+      "end": 90445,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 90526,
+      "end": 90532,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 90571,
+      "end": 90575,
+      "label": "LOC"
+    },
+    {
+      "text": "Astaroth",
+      "start": 90662,
+      "end": 90670,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 90676,
+      "end": 90680,
+      "label": "PER"
+    },
+    {
+      "text": "Bilouche",
+      "start": 90755,
+      "end": 90763,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 90781,
+      "end": 90787,
+      "label": "PER"
+    },
+    {
+      "text": "Méridional",
+      "start": 90818,
+      "end": 90828,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 90930,
+      "end": 90932,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 90967,
+      "end": 90973,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 91020,
+      "end": 91024,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 91058,
+      "end": 91073,
+      "label": "PER"
+    },
+    {
+      "text": "Égérie",
+      "start": 91121,
+      "end": 91127,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 91164,
+      "end": 91168,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 91291,
+      "end": 91298,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 91364,
+      "end": 91368,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 91452,
+      "end": 91456,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Fontaine",
+      "start": 91897,
+      "end": 91912,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Fontaine",
+      "start": 92066,
+      "end": 92081,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 92221,
+      "end": 92227,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 92302,
+      "end": 92309,
+      "label": "PER"
+    },
+    {
+      "text": "Ami Gazonal",
+      "start": 92353,
+      "end": 92364,
+      "label": "ORG"
+    },
+    {
+      "text": "Bixiou",
+      "start": 92385,
+      "end": 92391,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 92467,
+      "end": 92472,
+      "label": "LOC"
+    },
+    {
+      "text": "Passons",
+      "start": 92634,
+      "end": 92641,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 92668,
+      "end": 92672,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 92686,
+      "end": 92693,
+      "label": "ORG"
+    },
+    {
+      "text": "Bixiou",
+      "start": 92748,
+      "end": 92754,
+      "label": "PER"
+    },
+    {
+      "text": "Odry",
+      "start": 92766,
+      "end": 92770,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaillard",
+      "start": 92774,
+      "end": 92782,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 93046,
+      "end": 93050,
+      "label": "PER"
+    },
+    {
+      "text": "Publicola Masson",
+      "start": 93193,
+      "end": 93209,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 93215,
+      "end": 93219,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 93222,
+      "end": 93228,
+      "label": "PER"
+    },
+    {
+      "text": "Chambre",
+      "start": 93295,
+      "end": 93302,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 93383,
+      "end": 93390,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 93403,
+      "end": 93407,
+      "label": "PER"
+    },
+    {
+      "text": "Publicola Masson",
+      "start": 93418,
+      "end": 93434,
+      "label": "PER"
+    },
+    {
+      "text": "Traité de corporistique",
+      "start": 93463,
+      "end": 93486,
+      "label": "MISC"
+    },
+    {
+      "text": "Républicains",
+      "start": 93542,
+      "end": 93554,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 93641,
+      "end": 93648,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 93662,
+      "end": 93669,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 93752,
+      "end": 93757,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 93766,
+      "end": 93773,
+      "label": "ORG"
+    },
+    {
+      "text": "Léon",
+      "start": 93780,
+      "end": 93784,
+      "label": "PER"
+    },
+    {
+      "text": "Députés",
+      "start": 93825,
+      "end": 93832,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 93843,
+      "end": 93847,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 93884,
+      "end": 93890,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 93894,
+      "end": 93899,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 93929,
+      "end": 93936,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Pierre",
+      "start": 94085,
+      "end": 94097,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 94244,
+      "end": 94249,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 94279,
+      "end": 94286,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 94398,
+      "end": 94407,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 94428,
+      "end": 94433,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre des Députés",
+      "start": 94595,
+      "end": 94614,
+      "label": "LOC"
+    },
+    {
+      "text": "pont de la Concorde",
+      "start": 94630,
+      "end": 94649,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre inabordable",
+      "start": 94690,
+      "end": 94709,
+      "label": "LOC"
+    },
+    {
+      "text": "Méridional",
+      "start": 94720,
+      "end": 94730,
+      "label": "LOC"
+    },
+    {
+      "text": "Pas Perdus",
+      "start": 94786,
+      "end": 94796,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 94822,
+      "end": 94828,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 95145,
+      "end": 95161,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 95295,
+      "end": 95300,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre !",
+      "start": 95309,
+      "end": 95318,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 95331,
+      "end": 95338,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 95453,
+      "end": 95459,
+      "label": "PER"
+    },
+    {
+      "text": "Gavarni",
+      "start": 95562,
+      "end": 95569,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 95571,
+      "end": 95575,
+      "label": "PER"
+    },
+    {
+      "text": "Moniteur",
+      "start": 95758,
+      "end": 95766,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 95804,
+      "end": 95811,
+      "label": "ORG"
+    },
+    {
+      "text": "Léon",
+      "start": 95856,
+      "end": 95860,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 95874,
+      "end": 95881,
+      "label": "PER"
+    },
+    {
+      "text": "Giraud",
+      "start": 95945,
+      "end": 95951,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 96119,
+      "end": 96122,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 96124,
+      "end": 96131,
+      "label": "PER"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 96244,
+      "end": 96256,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 96260,
+      "end": 96264,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 96324,
+      "end": 96328,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 96334,
+      "end": 96340,
+      "label": "PER"
+    },
+    {
+      "text": "Parbleu",
+      "start": 96407,
+      "end": 96414,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 96453,
+      "end": 96459,
+      "label": "PER"
+    },
+    {
+      "text": "Passons",
+      "start": 96495,
+      "end": 96502,
+      "label": "LOC"
+    },
+    {
+      "text": "Méridional",
+      "start": 96568,
+      "end": 96578,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 96674,
+      "end": 96681,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 96828,
+      "end": 96836,
+      "label": "MISC"
+    },
+    {
+      "text": "Pas Perdus",
+      "start": 96966,
+      "end": 96976,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'as tu donc...",
+      "start": 96980,
+      "end": 96996,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon de Lora",
+      "start": 97005,
+      "end": 97017,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition",
+      "start": 97400,
+      "end": 97410,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazonal",
+      "start": 97828,
+      "end": 97835,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 97869,
+      "end": 97874,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 97952,
+      "end": 97956,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 98022,
+      "end": 98029,
+      "label": "PER"
+    },
+    {
+      "text": "Léon",
+      "start": 98063,
+      "end": 98067,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 98311,
+      "end": 98325,
+      "label": "ORG"
+    },
+    {
+      "text": "Massol",
+      "start": 98388,
+      "end": 98394,
+      "label": "LOC"
+    },
+    {
+      "text": "Giraud",
+      "start": 98418,
+      "end": 98424,
+      "label": "PER"
+    },
+    {
+      "text": "Claude Vignon",
+      "start": 98428,
+      "end": 98441,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 98468,
+      "end": 98474,
+      "label": "PER"
+    },
+    {
+      "text": "Carabine",
+      "start": 98527,
+      "end": 98535,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 98542,
+      "end": 98548,
+      "label": "LOC"
+    },
+    {
+      "text": "Léon",
+      "start": 98655,
+      "end": 98659,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah",
+      "start": 98663,
+      "end": 98665,
+      "label": "MISC"
+    },
+    {
+      "text": "Pyrénées",
+      "start": 98692,
+      "end": 98700,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 98756,
+      "end": 98763,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 98836,
+      "end": 98840,
+      "label": "LOC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 98854,
+      "end": 98861,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 99025,
+      "end": 99029,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 99101,
+      "end": 99105,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 99132,
+      "end": 99138,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 99172,
+      "end": 99176,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 99294,
+      "end": 99298,
+      "label": "MISC"
+    },
+    {
+      "text": "Gazonal",
+      "start": 99324,
+      "end": 99331,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 99335,
+      "end": 99339,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Rastignac",
+      "start": 99349,
+      "end": 99367,
+      "label": "PER"
+    },
+    {
+      "text": "Un ministre !",
+      "start": 99435,
+      "end": 99448,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 99564,
+      "end": 99573,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 99617,
+      "end": 99625,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 99666,
+      "end": 99670,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 99781,
+      "end": 99785,
+      "label": "MISC"
+    },
+    {
+      "text": "Opposition",
+      "start": 99841,
+      "end": 99851,
+      "label": "ORG"
+    },
+    {
+      "text": "Léon",
+      "start": 99872,
+      "end": 99876,
+      "label": "PER"
+    },
+    {
+      "text": "Gazonal",
+      "start": 99888,
+      "end": 99895,
+      "label": "LOC"
+    }
+  ]
+}

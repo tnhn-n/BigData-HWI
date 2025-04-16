@@ -1,0 +1,2422 @@
+{
+  "entities": [
+    {
+      "text": "FEMME ABANDONNÉE",
+      "start": 3,
+      "end": 19,
+      "label": "ORG"
+    },
+    {
+      "text": "HONORÉ",
+      "start": 87,
+      "end": 93,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 97,
+      "end": 103,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 105,
+      "end": 110,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 184,
+      "end": 189,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 204,
+      "end": 219,
+      "label": "LOC"
+    },
+    {
+      "text": "Bessin",
+      "start": 485,
+      "end": 491,
+      "label": "LOC"
+    },
+    {
+      "text": "Bayeux",
+      "start": 582,
+      "end": 588,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de",
+      "start": 945,
+      "end": 954,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Sevère",
+      "start": 955,
+      "end": 968,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 1031,
+      "end": 1039,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 1065,
+      "end": 1080,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 1177,
+      "end": 1192,
+      "label": "PER"
+    },
+    {
+      "text": "États",
+      "start": 1303,
+      "end": 1308,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 1323,
+      "end": 1332,
+      "label": "LOC"
+    },
+    {
+      "text": "Créqui",
+      "start": 1615,
+      "end": 1621,
+      "label": "LOC"
+    },
+    {
+      "text": "Montmorenci",
+      "start": 1627,
+      "end": 1638,
+      "label": "ORG"
+    },
+    {
+      "text": "Lusignan",
+      "start": 1651,
+      "end": 1659,
+      "label": "LOC"
+    },
+    {
+      "text": "Soubise",
+      "start": 1679,
+      "end": 1686,
+      "label": "MISC"
+    },
+    {
+      "text": "Hanovre",
+      "start": 2954,
+      "end": 2961,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 2970,
+      "end": 2991,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 3074,
+      "end": 3082,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3226,
+      "end": 3231,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 3293,
+      "end": 3299,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 3693,
+      "end": 3704,
+      "label": "PER"
+    },
+    {
+      "text": "Cayla",
+      "start": 3722,
+      "end": 3727,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3949,
+      "end": 3954,
+      "label": "LOC"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 3968,
+      "end": 3996,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 4066,
+      "end": 4073,
+      "label": "ORG"
+    },
+    {
+      "text": "Gazette",
+      "start": 4173,
+      "end": 4180,
+      "label": "LOC"
+    },
+    {
+      "text": "Débats",
+      "start": 4188,
+      "end": 4194,
+      "label": "LOC"
+    },
+    {
+      "text": "Quotidienne",
+      "start": 4226,
+      "end": 4237,
+      "label": "LOC"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 4239,
+      "end": 4250,
+      "label": "PER"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 4422,
+      "end": 4433,
+      "label": "PER"
+    },
+    {
+      "text": "wisth",
+      "start": 5101,
+      "end": 5106,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5529,
+      "end": 5534,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 6219,
+      "end": 6232,
+      "label": "PER"
+    },
+    {
+      "text": "Semblables",
+      "start": 6972,
+      "end": 6982,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 8050,
+      "end": 8058,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 8103,
+      "end": 8112,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 8120,
+      "end": 8135,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 8370,
+      "end": 8376,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Sevère",
+      "start": 8519,
+      "end": 8532,
+      "label": "PER"
+    },
+    {
+      "text": "vallée d'Auge",
+      "start": 8958,
+      "end": 8971,
+      "label": "LOC"
+    },
+    {
+      "text": "château de Manerville",
+      "start": 9019,
+      "end": 9040,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Sevère",
+      "start": 9667,
+      "end": 9680,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 9716,
+      "end": 9722,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 9727,
+      "end": 9733,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 9848,
+      "end": 9863,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 10904,
+      "end": 10910,
+      "label": "PER"
+    },
+    {
+      "text": "Ulysse",
+      "start": 11309,
+      "end": 11315,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 11357,
+      "end": 11372,
+      "label": "PER"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 12255,
+      "end": 12269,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12663,
+      "end": 12668,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12721,
+      "end": 12726,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 12976,
+      "end": 12995,
+      "label": "PER"
+    },
+    {
+      "text": "J'",
+      "start": 13062,
+      "end": 13064,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Champignelles",
+      "start": 13213,
+      "end": 13236,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 13351,
+      "end": 13370,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 13402,
+      "end": 13411,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Champignelles",
+      "start": 13606,
+      "end": 13630,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 13812,
+      "end": 13831,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 14167,
+      "end": 14176,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 14177,
+      "end": 14186,
+      "label": "PER"
+    },
+    {
+      "text": "Ajuda Pinto",
+      "start": 14245,
+      "end": 14256,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 14288,
+      "end": 14294,
+      "label": "PER"
+    },
+    {
+      "text": "Courcelles",
+      "start": 14400,
+      "end": 14410,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis d'Ajuda",
+      "start": 14431,
+      "end": 14446,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 14611,
+      "end": 14619,
+      "label": "PER"
+    },
+    {
+      "text": "Champignelles",
+      "start": 14623,
+      "end": 14636,
+      "label": "LOC"
+    },
+    {
+      "text": "Champignelles",
+      "start": 14720,
+      "end": 14733,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 14794,
+      "end": 14803,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Beauséant le père",
+      "start": 14808,
+      "end": 14836,
+      "label": "PER"
+    },
+    {
+      "text": "Champignelles",
+      "start": 14850,
+      "end": 14863,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 14910,
+      "end": 14919,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 14957,
+      "end": 14966,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 15196,
+      "end": 15205,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 15330,
+      "end": 15335,
+      "label": "PER"
+    },
+    {
+      "text": "Existe t",
+      "start": 15445,
+      "end": 15453,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 16004,
+      "end": 16009,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 16023,
+      "end": 16042,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 16062,
+      "end": 16071,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 17051,
+      "end": 17066,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 17090,
+      "end": 17099,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 17100,
+      "end": 17109,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 17359,
+      "end": 17368,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 17608,
+      "end": 17614,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 17930,
+      "end": 17949,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 18063,
+      "end": 18078,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 18169,
+      "end": 18188,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 18903,
+      "end": 18908,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 18950,
+      "end": 18960,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 19643,
+      "end": 19649,
+      "label": "PER"
+    },
+    {
+      "text": "Courcelles",
+      "start": 19723,
+      "end": 19733,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 19819,
+      "end": 19838,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 19928,
+      "end": 19934,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 21164,
+      "end": 21170,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 21174,
+      "end": 21193,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 21302,
+      "end": 21307,
+      "label": "LOC"
+    },
+    {
+      "text": "Champignelles",
+      "start": 21728,
+      "end": 21741,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 21903,
+      "end": 21922,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 22269,
+      "end": 22288,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 22709,
+      "end": 22715,
+      "label": "PER"
+    },
+    {
+      "text": "Champignelles",
+      "start": 22838,
+      "end": 22851,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 22944,
+      "end": 22954,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 23101,
+      "end": 23110,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 23277,
+      "end": 23282,
+      "label": "LOC"
+    },
+    {
+      "text": "Champignelles",
+      "start": 23513,
+      "end": 23526,
+      "label": "LOC"
+    },
+    {
+      "text": "Champignelles",
+      "start": 23737,
+      "end": 23750,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 23970,
+      "end": 23989,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 24016,
+      "end": 24022,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 24166,
+      "end": 24171,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 24320,
+      "end": 24329,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 24370,
+      "end": 24376,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 24581,
+      "end": 24586,
+      "label": "MISC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 24692,
+      "end": 24702,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 24785,
+      "end": 24791,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 25233,
+      "end": 25252,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 25959,
+      "end": 25965,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 26043,
+      "end": 26062,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 26229,
+      "end": 26234,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 26688,
+      "end": 26698,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 27069,
+      "end": 27077,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 27090,
+      "end": 27095,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 27097,
+      "end": 27103,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 27923,
+      "end": 27928,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 28607,
+      "end": 28613,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 29049,
+      "end": 29055,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 29170,
+      "end": 29189,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 29298,
+      "end": 29307,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 29534,
+      "end": 29547,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 29667,
+      "end": 29672,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 29702,
+      "end": 29707,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 29761,
+      "end": 29771,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 29869,
+      "end": 29875,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 29893,
+      "end": 29902,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 30341,
+      "end": 30350,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 32144,
+      "end": 32152,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 32156,
+      "end": 32161,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 32492,
+      "end": 32511,
+      "label": "PER"
+    },
+    {
+      "text": "Champignelles",
+      "start": 32744,
+      "end": 32757,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 32911,
+      "end": 32917,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 33263,
+      "end": 33282,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 33365,
+      "end": 33371,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 33603,
+      "end": 33609,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 33702,
+      "end": 33707,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 33898,
+      "end": 33905,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 33952,
+      "end": 33958,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 34146,
+      "end": 34151,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 34190,
+      "end": 34209,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 34264,
+      "end": 34268,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston",
+      "start": 34351,
+      "end": 34357,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 34527,
+      "end": 34546,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 35314,
+      "end": 35320,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 35644,
+      "end": 35650,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 35816,
+      "end": 35821,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 35825,
+      "end": 35832,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 36027,
+      "end": 36046,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 36063,
+      "end": 36067,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston",
+      "start": 36098,
+      "end": 36104,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 36423,
+      "end": 36442,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 36754,
+      "end": 36760,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 36780,
+      "end": 36786,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 36887,
+      "end": 36891,
+      "label": "MISC"
+    },
+    {
+      "text": "Nueil",
+      "start": 37559,
+      "end": 37564,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimeriez",
+      "start": 38063,
+      "end": 38071,
+      "label": "ORG"
+    },
+    {
+      "text": "Hé !",
+      "start": 38323,
+      "end": 38327,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston",
+      "start": 38387,
+      "end": 38393,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 38735,
+      "end": 38739,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 39532,
+      "end": 39538,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 40250,
+      "end": 40259,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 40260,
+      "end": 40269,
+      "label": "PER"
+    },
+    {
+      "text": "Courcelles",
+      "start": 40460,
+      "end": 40470,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 40857,
+      "end": 40876,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 41092,
+      "end": 41097,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 41299,
+      "end": 41305,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 41571,
+      "end": 41576,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 42144,
+      "end": 42150,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 43063,
+      "end": 43069,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 43092,
+      "end": 43111,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 43271,
+      "end": 43276,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 43435,
+      "end": 43441,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 43501,
+      "end": 43505,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 43506,
+      "end": 43512,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 43831,
+      "end": 43836,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 44414,
+      "end": 44419,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 44516,
+      "end": 44520,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 44521,
+      "end": 44527,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 44537,
+      "end": 44543,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 45438,
+      "end": 45445,
+      "label": "ORG"
+    },
+    {
+      "text": "Si",
+      "start": 45912,
+      "end": 45914,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 48146,
+      "end": 48165,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 48485,
+      "end": 48491,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 48696,
+      "end": 48701,
+      "label": "LOC"
+    },
+    {
+      "text": "Permettez",
+      "start": 49378,
+      "end": 49387,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 49393,
+      "end": 49399,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 49791,
+      "end": 49810,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 50042,
+      "end": 50048,
+      "label": "MISC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 50718,
+      "end": 50728,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 50753,
+      "end": 50759,
+      "label": "PER"
+    },
+    {
+      "text": "Chemin",
+      "start": 51041,
+      "end": 51047,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 53182,
+      "end": 53187,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 53203,
+      "end": 53213,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 53269,
+      "end": 53288,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 53852,
+      "end": 53857,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 53999,
+      "end": 54009,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 54458,
+      "end": 54464,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 54475,
+      "end": 54494,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 54765,
+      "end": 54771,
+      "label": "LOC"
+    },
+    {
+      "text": "Soyez",
+      "start": 54935,
+      "end": 54940,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 56011,
+      "end": 56020,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 56119,
+      "end": 56124,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 56129,
+      "end": 56136,
+      "label": "LOC"
+    },
+    {
+      "text": "Permettez",
+      "start": 56337,
+      "end": 56346,
+      "label": "PER"
+    },
+    {
+      "text": "Chimères",
+      "start": 57778,
+      "end": 57786,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 57911,
+      "end": 57926,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 57998,
+      "end": 58017,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58763,
+      "end": 58768,
+      "label": "LOC"
+    },
+    {
+      "text": "POÈTE",
+      "start": 58803,
+      "end": 58808,
+      "label": "ORG"
+    },
+    {
+      "text": "NON DOLET !",
+      "start": 58810,
+      "end": 58821,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 58859,
+      "end": 58871,
+      "label": "MISC"
+    },
+    {
+      "text": "Eaux",
+      "start": 59024,
+      "end": 59028,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 59393,
+      "end": 59398,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 59418,
+      "end": 59425,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 59483,
+      "end": 59492,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes",
+      "start": 60305,
+      "end": 60308,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 61782,
+      "end": 61786,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 62867,
+      "end": 62872,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston de Nueil",
+      "start": 63049,
+      "end": 63064,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 63086,
+      "end": 63092,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 63461,
+      "end": 63466,
+      "label": "LOC"
+    },
+    {
+      "text": "Courcelles",
+      "start": 63477,
+      "end": 63487,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 63545,
+      "end": 63546,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 63643,
+      "end": 63651,
+      "label": "PER"
+    },
+    {
+      "text": "madame la vicomtesse",
+      "start": 63687,
+      "end": 63707,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 63751,
+      "end": 63755,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston",
+      "start": 63840,
+      "end": 63846,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 63889,
+      "end": 63898,
+      "label": "PER"
+    },
+    {
+      "text": "Genève",
+      "start": 63930,
+      "end": 63936,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 64332,
+      "end": 64338,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 64370,
+      "end": 64379,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 64577,
+      "end": 64583,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 64672,
+      "end": 64678,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 64734,
+      "end": 64741,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 64830,
+      "end": 64835,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 64933,
+      "end": 64952,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 65022,
+      "end": 65028,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 65269,
+      "end": 65278,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 65350,
+      "end": 65361,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 65385,
+      "end": 65390,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 65664,
+      "end": 65673,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 65818,
+      "end": 65837,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 65869,
+      "end": 65875,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 66087,
+      "end": 66092,
+      "label": "LOC"
+    },
+    {
+      "text": "conférence de Londres",
+      "start": 66454,
+      "end": 66475,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 66562,
+      "end": 66581,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 66597,
+      "end": 66602,
+      "label": "LOC"
+    },
+    {
+      "text": "lac de Genève",
+      "start": 66664,
+      "end": 66677,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 67439,
+      "end": 67444,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 67448,
+      "end": 67454,
+      "label": "LOC"
+    },
+    {
+      "text": "Genève",
+      "start": 67513,
+      "end": 67519,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 67687,
+      "end": 67706,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 67726,
+      "end": 67731,
+      "label": "LOC"
+    },
+    {
+      "text": "Manerville",
+      "start": 67774,
+      "end": 67784,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 67840,
+      "end": 67846,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 67892,
+      "end": 67897,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 67964,
+      "end": 67974,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 68048,
+      "end": 68067,
+      "label": "PER"
+    },
+    {
+      "text": "vallée d'Auge",
+      "start": 68147,
+      "end": 68160,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 68336,
+      "end": 68342,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Beauséant",
+      "start": 68604,
+      "end": 68624,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 68680,
+      "end": 68699,
+      "label": "PER"
+    },
+    {
+      "text": "Beauséant",
+      "start": 68839,
+      "end": 68848,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 69177,
+      "end": 69183,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Beauséant",
+      "start": 69236,
+      "end": 69256,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 69360,
+      "end": 69365,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 69470,
+      "end": 69475,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 69479,
+      "end": 69498,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 69797,
+      "end": 69803,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 69834,
+      "end": 69840,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 69868,
+      "end": 69887,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 69991,
+      "end": 69996,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 70006,
+      "end": 70025,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 70114,
+      "end": 70120,
+      "label": "PER"
+    },
+    {
+      "text": "Genève",
+      "start": 70221,
+      "end": 70227,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 70269,
+      "end": 70274,
+      "label": "LOC"
+    },
+    {
+      "text": "Valleroy",
+      "start": 70373,
+      "end": 70381,
+      "label": "LOC"
+    },
+    {
+      "text": "La Rodière",
+      "start": 70627,
+      "end": 70637,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaston",
+      "start": 70708,
+      "end": 70714,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 70745,
+      "end": 70755,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 70936,
+      "end": 70942,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 71006,
+      "end": 71025,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 71994,
+      "end": 71998,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 72934,
+      "end": 72938,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 73553,
+      "end": 73560,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 74258,
+      "end": 74262,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes",
+      "start": 74264,
+      "end": 74267,
+      "label": "PER"
+    },
+    {
+      "text": "Claire",
+      "start": 75403,
+      "end": 75409,
+      "label": "PER"
+    },
+    {
+      "text": "La Rodière",
+      "start": 76208,
+      "end": 76218,
+      "label": "MISC"
+    },
+    {
+      "text": ".",
+      "start": 76604,
+      "end": 76605,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76606,
+      "end": 76607,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76608,
+      "end": 76609,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76610,
+      "end": 76611,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76612,
+      "end": 76613,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76614,
+      "end": 76615,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76616,
+      "end": 76617,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76618,
+      "end": 76619,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76620,
+      "end": 76621,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76622,
+      "end": 76623,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76624,
+      "end": 76625,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76626,
+      "end": 76627,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76628,
+      "end": 76629,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76630,
+      "end": 76631,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76632,
+      "end": 76633,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76634,
+      "end": 76635,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76636,
+      "end": 76637,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76638,
+      "end": 76639,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76640,
+      "end": 76641,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76642,
+      "end": 76643,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76644,
+      "end": 76645,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76646,
+      "end": 76647,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 76648,
+      "end": 76649,
+      "label": "LOC"
+    },
+    {
+      "text": "Veux",
+      "start": 76899,
+      "end": 76903,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 77106,
+      "end": 77112,
+      "label": "PER"
+    },
+    {
+      "text": "Tes",
+      "start": 77970,
+      "end": 77973,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher trésor",
+      "start": 78540,
+      "end": 78555,
+      "label": "MISC"
+    },
+    {
+      "text": "ÈVE",
+      "start": 78716,
+      "end": 78719,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah",
+      "start": 78799,
+      "end": 78801,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 79485,
+      "end": 79489,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 79554,
+      "end": 79573,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 79619,
+      "end": 79624,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 80005,
+      "end": 80010,
+      "label": "LOC"
+    },
+    {
+      "text": "La Rodière",
+      "start": 80222,
+      "end": 80232,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Nueil",
+      "start": 80488,
+      "end": 80503,
+      "label": "PER"
+    },
+    {
+      "text": "Vertu",
+      "start": 80584,
+      "end": 80589,
+      "label": "LOC"
+    },
+    {
+      "text": "La Rodière",
+      "start": 80690,
+      "end": 80700,
+      "label": "MISC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 80959,
+      "end": 80968,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 81222,
+      "end": 81241,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 81278,
+      "end": 81284,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 81849,
+      "end": 81868,
+      "label": "PER"
+    },
+    {
+      "text": "La Rodière",
+      "start": 82047,
+      "end": 82057,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacques",
+      "start": 82519,
+      "end": 82526,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 82554,
+      "end": 82573,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 83037,
+      "end": 83043,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 83086,
+      "end": 83093,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 83161,
+      "end": 83168,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 83854,
+      "end": 83858,
+      "label": "MISC"
+    },
+    {
+      "text": "Nueil",
+      "start": 83973,
+      "end": 83978,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 84042,
+      "end": 84049,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 84079,
+      "end": 84086,
+      "label": "PER"
+    },
+    {
+      "text": "Madame la marquise",
+      "start": 84126,
+      "end": 84144,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 84180,
+      "end": 84185,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 84222,
+      "end": 84228,
+      "label": "PER"
+    },
+    {
+      "text": "Genève",
+      "start": 84642,
+      "end": 84648,
+      "label": "LOC"
+    },
+    {
+      "text": "Claire de Bourgogne",
+      "start": 84662,
+      "end": 84681,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 84697,
+      "end": 84705,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 84736,
+      "end": 84741,
+      "label": "PER"
+    },
+    {
+      "text": "Manerville",
+      "start": 84767,
+      "end": 84777,
+      "label": "LOC"
+    },
+    {
+      "text": "Stéphanie de La Rodière",
+      "start": 84821,
+      "end": 84844,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 85319,
+      "end": 85325,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Beauséant",
+      "start": 85329,
+      "end": 85350,
+      "label": "PER"
+    },
+    {
+      "text": "château de",
+      "start": 85376,
+      "end": 85386,
+      "label": "LOC"
+    },
+    {
+      "text": "Valleroy",
+      "start": 85387,
+      "end": 85395,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 85435,
+      "end": 85440,
+      "label": "LOC"
+    },
+    {
+      "text": "Claire",
+      "start": 85596,
+      "end": 85602,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 85657,
+      "end": 85662,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 85742,
+      "end": 85749,
+      "label": "PER"
+    },
+    {
+      "text": "Valleroy",
+      "start": 85888,
+      "end": 85896,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 86012,
+      "end": 86017,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Gaston de Nueil",
+      "start": 86201,
+      "end": 86223,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 86410,
+      "end": 86415,
+      "label": "LOC"
+    },
+    {
+      "text": "Nueil",
+      "start": 86917,
+      "end": 86922,
+      "label": "LOC"
+    },
+    {
+      "text": "Manerville",
+      "start": 86954,
+      "end": 86964,
+      "label": "LOC"
+    },
+    {
+      "text": "Valleroy",
+      "start": 86971,
+      "end": 86979,
+      "label": "PER"
+    },
+    {
+      "text": "parc de madame de Beauséant",
+      "start": 86998,
+      "end": 87025,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 87040,
+      "end": 87047,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 87154,
+      "end": 87163,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 87198,
+      "end": 87205,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 87207,
+      "end": 87213,
+      "label": "PER"
+    },
+    {
+      "text": "Jacques",
+      "start": 87415,
+      "end": 87422,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 87498,
+      "end": 87503,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacques",
+      "start": 87624,
+      "end": 87631,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 87706,
+      "end": 87711,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaston",
+      "start": 87850,
+      "end": 87856,
+      "label": "PER"
+    },
+    {
+      "text": "Soudain",
+      "start": 88076,
+      "end": 88083,
+      "label": "PER"
+    },
+    {
+      "text": "Hérold",
+      "start": 88154,
+      "end": 88160,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 88612,
+      "end": 88631,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 88698,
+      "end": 88703,
+      "label": "LOC"
+    },
+    {
+      "text": "Claire de Bourgogne",
+      "start": 89096,
+      "end": 89115,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 89191,
+      "end": 89196,
+      "label": "LOC"
+    },
+    {
+      "text": "intus susception",
+      "start": 89418,
+      "end": 89434,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Beauséant",
+      "start": 89520,
+      "end": 89539,
+      "label": "PER"
+    },
+    {
+      "text": "Gaston",
+      "start": 89873,
+      "end": 89879,
+      "label": "LOC"
+    },
+    {
+      "text": "Sortez",
+      "start": 89883,
+      "end": 89889,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 89901,
+      "end": 89907,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 89965,
+      "end": 89970,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 90135,
+      "end": 90154,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 90282,
+      "end": 90287,
+      "label": "LOC"
+    },
+    {
+      "text": "Valleroy",
+      "start": 90567,
+      "end": 90575,
+      "label": "PER"
+    },
+    {
+      "text": "Nueil",
+      "start": 90650,
+      "end": 90655,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 90838,
+      "end": 90844,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beauséant",
+      "start": 92743,
+      "end": 92762,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 93216,
+      "end": 93225,
+      "label": "LOC"
+    }
+  ]
+}

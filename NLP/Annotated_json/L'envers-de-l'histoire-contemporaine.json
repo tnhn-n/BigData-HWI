@@ -1,0 +1,4402 @@
+{
+  "entities": [
+    {
+      "text": "ENVERS",
+      "start": 2,
+      "end": 8,
+      "label": "ORG"
+    },
+    {
+      "text": "HISTOIRE",
+      "start": 14,
+      "end": 22,
+      "label": "ORG"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 44,
+      "end": 52,
+      "label": "MISC"
+    },
+    {
+      "text": "la Seine",
+      "start": 217,
+      "end": 225,
+      "label": "LOC"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 245,
+      "end": 263,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 272,
+      "end": 282,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 339,
+      "end": 345,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 496,
+      "end": 501,
+      "label": "LOC"
+    },
+    {
+      "text": "Romains",
+      "start": 513,
+      "end": 520,
+      "label": "LOC"
+    },
+    {
+      "text": "Francs",
+      "start": 531,
+      "end": 537,
+      "label": "MISC"
+    },
+    {
+      "text": "Normands",
+      "start": 550,
+      "end": 558,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourguignons",
+      "start": 569,
+      "end": 581,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 586,
+      "end": 595,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 601,
+      "end": 607,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 609,
+      "end": 617,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 621,
+      "end": 630,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 632,
+      "end": 640,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 644,
+      "end": 658,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Geneviève",
+      "start": 765,
+      "end": 781,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel de Ville vous parle de toutes les révolutions",
+      "start": 886,
+      "end": 937,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 944,
+      "end": 954,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 980,
+      "end": 985,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 1029,
+      "end": 1035,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournelle",
+      "start": 1145,
+      "end": 1154,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 1160,
+      "end": 1170,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 1317,
+      "end": 1325,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrain",
+      "start": 1365,
+      "end": 1372,
+      "label": "LOC"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 1575,
+      "end": 1589,
+      "label": "LOC"
+    },
+    {
+      "text": "Religion",
+      "start": 1594,
+      "end": 1602,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 1714,
+      "end": 1727,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 1740,
+      "end": 1753,
+      "label": "PER"
+    },
+    {
+      "text": "Terrain",
+      "start": 1938,
+      "end": 1945,
+      "label": "LOC"
+    },
+    {
+      "text": "Arcole",
+      "start": 1956,
+      "end": 1962,
+      "label": "LOC"
+    },
+    {
+      "text": "Cité",
+      "start": 1995,
+      "end": 1999,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2031,
+      "end": 2036,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 2108,
+      "end": 2116,
+      "label": "LOC"
+    },
+    {
+      "text": "Séduit",
+      "start": 2295,
+      "end": 2301,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2492,
+      "end": 2497,
+      "label": "LOC"
+    },
+    {
+      "text": "île de la Cité",
+      "start": 2825,
+      "end": 2839,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournelle",
+      "start": 2854,
+      "end": 2863,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 3468,
+      "end": 3473,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 3561,
+      "end": 3565,
+      "label": "MISC"
+    },
+    {
+      "text": "Panurge",
+      "start": 3951,
+      "end": 3958,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 4004,
+      "end": 4013,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 4285,
+      "end": 4293,
+      "label": "LOC"
+    },
+    {
+      "text": "auguste",
+      "start": 4374,
+      "end": 4381,
+      "label": "PER"
+    },
+    {
+      "text": "Vienne",
+      "start": 4466,
+      "end": 4472,
+      "label": "LOC"
+    },
+    {
+      "text": "Werner",
+      "start": 4561,
+      "end": 4567,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 4625,
+      "end": 4633,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangile",
+      "start": 4860,
+      "end": 4868,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauveur",
+      "start": 4938,
+      "end": 4945,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 5220,
+      "end": 5229,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 5372,
+      "end": 5381,
+      "label": "PER"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 5420,
+      "end": 5436,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 5484,
+      "end": 5494,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5653,
+      "end": 5658,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Liautard",
+      "start": 5734,
+      "end": 5747,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 5825,
+      "end": 5835,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 6084,
+      "end": 6093,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 6266,
+      "end": 6271,
+      "label": "ORG"
+    },
+    {
+      "text": "Hollandais",
+      "start": 6650,
+      "end": 6660,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 6883,
+      "end": 6892,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 7246,
+      "end": 7255,
+      "label": "MISC"
+    },
+    {
+      "text": "Talent du même œil que la Noblesse",
+      "start": 7671,
+      "end": 7705,
+      "label": "MISC"
+    },
+    {
+      "text": "Notariat",
+      "start": 7710,
+      "end": 7718,
+      "label": "LOC"
+    },
+    {
+      "text": "Barreau",
+      "start": 7723,
+      "end": 7730,
+      "label": "LOC"
+    },
+    {
+      "text": "Littérature",
+      "start": 7735,
+      "end": 7746,
+      "label": "PER"
+    },
+    {
+      "text": "Possesseur",
+      "start": 7955,
+      "end": 7965,
+      "label": "PER"
+    },
+    {
+      "text": "Ie",
+      "start": 8600,
+      "end": 8602,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 8620,
+      "end": 8625,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 8779,
+      "end": 8788,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 9815,
+      "end": 9824,
+      "label": "MISC"
+    },
+    {
+      "text": "Obéir",
+      "start": 10173,
+      "end": 10178,
+      "label": "ORG"
+    },
+    {
+      "text": "Godefroid",
+      "start": 10299,
+      "end": 10308,
+      "label": "LOC"
+    },
+    {
+      "text": "Mouvement",
+      "start": 10328,
+      "end": 10337,
+      "label": "ORG"
+    },
+    {
+      "text": "Résistance",
+      "start": 10365,
+      "end": 10375,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 10392,
+      "end": 10397,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 10445,
+      "end": 10455,
+      "label": "ORG"
+    },
+    {
+      "text": "Presse",
+      "start": 10485,
+      "end": 10491,
+      "label": "LOC"
+    },
+    {
+      "text": "Auteuil",
+      "start": 11164,
+      "end": 11171,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 11373,
+      "end": 11382,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 11671,
+      "end": 11680,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 11965,
+      "end": 11974,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 12400,
+      "end": 12409,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 12615,
+      "end": 12624,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 13377,
+      "end": 13386,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13417,
+      "end": 13422,
+      "label": "LOC"
+    },
+    {
+      "text": "Bois",
+      "start": 13806,
+      "end": 13810,
+      "label": "LOC"
+    },
+    {
+      "text": "Inhabile",
+      "start": 14162,
+      "end": 14170,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 14609,
+      "end": 14618,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 14888,
+      "end": 14893,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 15398,
+      "end": 15407,
+      "label": "PER"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 15522,
+      "end": 15533,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 15705,
+      "end": 15713,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 16061,
+      "end": 16070,
+      "label": "PER"
+    },
+    {
+      "text": "Petites Affiches",
+      "start": 16390,
+      "end": 16406,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 17095,
+      "end": 17106,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 17113,
+      "end": 17123,
+      "label": "PER"
+    },
+    {
+      "text": "Millet",
+      "start": 17136,
+      "end": 17142,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 17311,
+      "end": 17320,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 17389,
+      "end": 17411,
+      "label": "PER"
+    },
+    {
+      "text": "Millet",
+      "start": 17587,
+      "end": 17593,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 17604,
+      "end": 17613,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 17705,
+      "end": 17713,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 17732,
+      "end": 17738,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 17827,
+      "end": 17835,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 17901,
+      "end": 17923,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 17966,
+      "end": 17975,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 18058,
+      "end": 18067,
+      "label": "MISC"
+    },
+    {
+      "text": "Tournelle",
+      "start": 18147,
+      "end": 18156,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 18179,
+      "end": 18189,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 18407,
+      "end": 18416,
+      "label": "MISC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 18871,
+      "end": 18882,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 18931,
+      "end": 18940,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Massillon",
+      "start": 18996,
+      "end": 19009,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 19097,
+      "end": 19108,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Colombe",
+      "start": 19134,
+      "end": 19151,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Marmousets",
+      "start": 19180,
+      "end": 19198,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 19206,
+      "end": 19215,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 19283,
+      "end": 19295,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 19324,
+      "end": 19333,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 19442,
+      "end": 19447,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 19467,
+      "end": 19489,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 19533,
+      "end": 19542,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 19967,
+      "end": 19973,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 20450,
+      "end": 20459,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 20464,
+      "end": 20472,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 20547,
+      "end": 20556,
+      "label": "MISC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 20745,
+      "end": 20754,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XII",
+      "start": 21301,
+      "end": 21310,
+      "label": "PER"
+    },
+    {
+      "text": "château de Blois",
+      "start": 21314,
+      "end": 21330,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 21402,
+      "end": 21411,
+      "label": "PER"
+    },
+    {
+      "text": "Normands",
+      "start": 21533,
+      "end": 21541,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 21596,
+      "end": 21601,
+      "label": "LOC"
+    },
+    {
+      "text": "Fulbert",
+      "start": 21694,
+      "end": 21701,
+      "label": "PER"
+    },
+    {
+      "text": "Héloïse",
+      "start": 21713,
+      "end": 21720,
+      "label": "LOC"
+    },
+    {
+      "text": "Sœurs Grises",
+      "start": 22310,
+      "end": 22322,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 22326,
+      "end": 22332,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 22392,
+      "end": 22401,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 22481,
+      "end": 22503,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 22613,
+      "end": 22622,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 22690,
+      "end": 22712,
+      "label": "PER"
+    },
+    {
+      "text": "Seyez",
+      "start": 22745,
+      "end": 22750,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisien",
+      "start": 22774,
+      "end": 22782,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22816,
+      "end": 22821,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Bretagne",
+      "start": 22826,
+      "end": 22840,
+      "label": "LOC"
+    },
+    {
+      "text": "Canada",
+      "start": 22856,
+      "end": 22862,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 22909,
+      "end": 22918,
+      "label": "MISC"
+    },
+    {
+      "text": "Massillon",
+      "start": 22955,
+      "end": 22964,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 22968,
+      "end": 22979,
+      "label": "LOC"
+    },
+    {
+      "text": "Cloître",
+      "start": 23243,
+      "end": 23250,
+      "label": "ORG"
+    },
+    {
+      "text": "Cité",
+      "start": 23485,
+      "end": 23489,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 23516,
+      "end": 23526,
+      "label": "PER"
+    },
+    {
+      "text": "la Seine",
+      "start": 23671,
+      "end": 23679,
+      "label": "LOC"
+    },
+    {
+      "text": "éprouva Godefroid",
+      "start": 23816,
+      "end": 23833,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 24035,
+      "end": 24057,
+      "label": "PER"
+    },
+    {
+      "text": "jupe",
+      "start": 24651,
+      "end": 24655,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 24893,
+      "end": 24915,
+      "label": "PER"
+    },
+    {
+      "text": "Millet",
+      "start": 25042,
+      "end": 25048,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 25062,
+      "end": 25071,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 25135,
+      "end": 25148,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 25222,
+      "end": 25228,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 25391,
+      "end": 25400,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 25581,
+      "end": 25603,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 25692,
+      "end": 25697,
+      "label": "MISC"
+    },
+    {
+      "text": "Voulez",
+      "start": 25745,
+      "end": 25751,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 25895,
+      "end": 25904,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 25969,
+      "end": 25978,
+      "label": "LOC"
+    },
+    {
+      "text": "Manon",
+      "start": 26054,
+      "end": 26059,
+      "label": "MISC"
+    },
+    {
+      "text": "Manon",
+      "start": 26156,
+      "end": 26161,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 26211,
+      "end": 26220,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 26428,
+      "end": 26436,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 26586,
+      "end": 26591,
+      "label": "LOC"
+    },
+    {
+      "text": "Manon",
+      "start": 26773,
+      "end": 26778,
+      "label": "MISC"
+    },
+    {
+      "text": "Manon",
+      "start": 27001,
+      "end": 27006,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 27143,
+      "end": 27148,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 27890,
+      "end": 27899,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 27957,
+      "end": 27966,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseiller",
+      "start": 27990,
+      "end": 28000,
+      "label": "ORG"
+    },
+    {
+      "text": "Parlement",
+      "start": 28004,
+      "end": 28013,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 28030,
+      "end": 28036,
+      "label": "PER"
+    },
+    {
+      "text": "Boisfrelon",
+      "start": 28053,
+      "end": 28063,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 28083,
+      "end": 28096,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 28158,
+      "end": 28164,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 28267,
+      "end": 28271,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 28272,
+      "end": 28278,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 28363,
+      "end": 28368,
+      "label": "MISC"
+    },
+    {
+      "text": "Manon",
+      "start": 28719,
+      "end": 28724,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 28752,
+      "end": 28757,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 28897,
+      "end": 28906,
+      "label": "MISC"
+    },
+    {
+      "text": "Manon",
+      "start": 28930,
+      "end": 28935,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 28950,
+      "end": 28959,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 29086,
+      "end": 29095,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 29127,
+      "end": 29149,
+      "label": "PER"
+    },
+    {
+      "text": "lambrequins",
+      "start": 29264,
+      "end": 29275,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 29748,
+      "end": 29770,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 30032,
+      "end": 30054,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 30224,
+      "end": 30246,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 30290,
+      "end": 30299,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 30572,
+      "end": 30577,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Chanoinesse",
+      "start": 30590,
+      "end": 30605,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 30850,
+      "end": 30872,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Alain",
+      "start": 31005,
+      "end": 31019,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 31198,
+      "end": 31206,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 31260,
+      "end": 31264,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 31293,
+      "end": 31298,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 31366,
+      "end": 31372,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 31381,
+      "end": 31390,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 31507,
+      "end": 31529,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 31680,
+      "end": 31689,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 31894,
+      "end": 31903,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 31967,
+      "end": 31972,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 32113,
+      "end": 32121,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 32329,
+      "end": 32338,
+      "label": "MISC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 32391,
+      "end": 32401,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 32623,
+      "end": 32645,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 32790,
+      "end": 32799,
+      "label": "PER"
+    },
+    {
+      "text": "rue Chanoinesse",
+      "start": 33059,
+      "end": 33074,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 33207,
+      "end": 33229,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 33766,
+      "end": 33774,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33799,
+      "end": 33804,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33990,
+      "end": 33995,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 34049,
+      "end": 34057,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 34064,
+      "end": 34070,
+      "label": "LOC"
+    },
+    {
+      "text": "Keller",
+      "start": 34072,
+      "end": 34078,
+      "label": "PER"
+    },
+    {
+      "text": "Palma",
+      "start": 34087,
+      "end": 34092,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 34462,
+      "end": 34466,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Mongenod",
+      "start": 34542,
+      "end": 34557,
+      "label": "PER"
+    },
+    {
+      "text": "maison Mongenod",
+      "start": 34616,
+      "end": 34631,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric Mongenod",
+      "start": 34865,
+      "end": 34882,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Fontaine",
+      "start": 34905,
+      "end": 34924,
+      "label": "PER"
+    },
+    {
+      "text": "baron de Fontaine",
+      "start": 34974,
+      "end": 34991,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 35003,
+      "end": 35013,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 35046,
+      "end": 35056,
+      "label": "MISC"
+    },
+    {
+      "text": "Limoges",
+      "start": 35073,
+      "end": 35080,
+      "label": "LOC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 35086,
+      "end": 35096,
+      "label": "LOC"
+    },
+    {
+      "text": "Planat de Baudry",
+      "start": 35100,
+      "end": 35116,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 35180,
+      "end": 35188,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 35253,
+      "end": 35265,
+      "label": "MISC"
+    },
+    {
+      "text": "Keller",
+      "start": 35454,
+      "end": 35460,
+      "label": "LOC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 35466,
+      "end": 35474,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 35485,
+      "end": 35491,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 35497,
+      "end": 35505,
+      "label": "ORG"
+    },
+    {
+      "text": "rue de la Victoire",
+      "start": 35674,
+      "end": 35692,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod la mère",
+      "start": 35714,
+      "end": 35730,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 35770,
+      "end": 35776,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 35794,
+      "end": 35802,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod père",
+      "start": 35843,
+      "end": 35856,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric Mongenod",
+      "start": 35867,
+      "end": 35884,
+      "label": "PER"
+    },
+    {
+      "text": "Génevois",
+      "start": 35978,
+      "end": 35986,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 36005,
+      "end": 36012,
+      "label": "MISC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 36442,
+      "end": 36450,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric",
+      "start": 36560,
+      "end": 36568,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 36796,
+      "end": 36805,
+      "label": "MISC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 36906,
+      "end": 36914,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 37017,
+      "end": 37026,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 37070,
+      "end": 37076,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 37158,
+      "end": 37166,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 37406,
+      "end": 37411,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric Mongenod",
+      "start": 37551,
+      "end": 37568,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 37665,
+      "end": 37674,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 37770,
+      "end": 37771,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 37804,
+      "end": 37813,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 37858,
+      "end": 37867,
+      "label": "MISC"
+    },
+    {
+      "text": "Frédéric",
+      "start": 37882,
+      "end": 37890,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Mongenod",
+      "start": 37954,
+      "end": 37968,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 38004,
+      "end": 38026,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric",
+      "start": 38054,
+      "end": 38062,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mongenod la mère",
+      "start": 38152,
+      "end": 38175,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 38392,
+      "end": 38401,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 38578,
+      "end": 38582,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 38613,
+      "end": 38635,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 38653,
+      "end": 38662,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 38729,
+      "end": 38737,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 38791,
+      "end": 38813,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 39481,
+      "end": 39490,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 39628,
+      "end": 39636,
+      "label": "PER"
+    },
+    {
+      "text": "Hé !",
+      "start": 39705,
+      "end": 39709,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 39722,
+      "end": 39730,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 39736,
+      "end": 39745,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 39773,
+      "end": 39795,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 39964,
+      "end": 39973,
+      "label": "PER"
+    },
+    {
+      "text": "Autrefois",
+      "start": 40068,
+      "end": 40077,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 40184,
+      "end": 40189,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 40195,
+      "end": 40201,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 40206,
+      "end": 40212,
+      "label": "PER"
+    },
+    {
+      "text": "Frédéric Mongenod",
+      "start": 40260,
+      "end": 40277,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 40313,
+      "end": 40335,
+      "label": "PER"
+    },
+    {
+      "text": "Donnez",
+      "start": 40383,
+      "end": 40389,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Mongenod",
+      "start": 40770,
+      "end": 40784,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 40852,
+      "end": 40874,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 40876,
+      "end": 40885,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 41068,
+      "end": 41077,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 41213,
+      "end": 41235,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 41284,
+      "end": 41293,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Mongenod",
+      "start": 41400,
+      "end": 41414,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 41483,
+      "end": 41493,
+      "label": "PER"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 41667,
+      "end": 41678,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 41804,
+      "end": 41813,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 42038,
+      "end": 42047,
+      "label": "PER"
+    },
+    {
+      "text": "rue Chanoinesse",
+      "start": 42177,
+      "end": 42192,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 42293,
+      "end": 42315,
+      "label": "PER"
+    },
+    {
+      "text": "Spa",
+      "start": 42463,
+      "end": 42466,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 42500,
+      "end": 42509,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 42674,
+      "end": 42696,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 42732,
+      "end": 42737,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 42943,
+      "end": 42952,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Mongenod",
+      "start": 43107,
+      "end": 43124,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 43159,
+      "end": 43181,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 43457,
+      "end": 43466,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 43608,
+      "end": 43616,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 43618,
+      "end": 43627,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 43650,
+      "end": 43662,
+      "label": "MISC"
+    },
+    {
+      "text": "Hollandaises",
+      "start": 43772,
+      "end": 43784,
+      "label": "MISC"
+    },
+    {
+      "text": "Blanche",
+      "start": 43910,
+      "end": 43917,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 43999,
+      "end": 44008,
+      "label": "MISC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 44146,
+      "end": 44157,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Mongenod",
+      "start": 44284,
+      "end": 44301,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 44796,
+      "end": 44813,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 44845,
+      "end": 44854,
+      "label": "MISC"
+    },
+    {
+      "text": "Frédéric Mongenod",
+      "start": 45083,
+      "end": 45100,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 45104,
+      "end": 45110,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 45125,
+      "end": 45137,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 45191,
+      "end": 45196,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 45240,
+      "end": 45244,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 45304,
+      "end": 45313,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 45509,
+      "end": 45518,
+      "label": "MISC"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 45657,
+      "end": 45669,
+      "label": "MISC"
+    },
+    {
+      "text": "café Anglais",
+      "start": 45772,
+      "end": 45784,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 45822,
+      "end": 45830,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanoinesse",
+      "start": 45867,
+      "end": 45878,
+      "label": "LOC"
+    },
+    {
+      "text": "Manon",
+      "start": 45920,
+      "end": 45925,
+      "label": "MISC"
+    },
+    {
+      "text": "Christianisme",
+      "start": 46359,
+      "end": 46372,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 46511,
+      "end": 46520,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 46714,
+      "end": 46736,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46805,
+      "end": 46810,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 46997,
+      "end": 47019,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 47237,
+      "end": 47242,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 47701,
+      "end": 47705,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 47739,
+      "end": 47761,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 47814,
+      "end": 47823,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 47970,
+      "end": 47975,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 47979,
+      "end": 47984,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 48024,
+      "end": 48033,
+      "label": "PER"
+    },
+    {
+      "text": "Ie vouloir",
+      "start": 48065,
+      "end": 48075,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 48217,
+      "end": 48239,
+      "label": "PER"
+    },
+    {
+      "text": "Vèze",
+      "start": 48572,
+      "end": 48576,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 48666,
+      "end": 48676,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 48767,
+      "end": 48789,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 48985,
+      "end": 48994,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 49053,
+      "end": 49058,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 49105,
+      "end": 49127,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 49357,
+      "end": 49379,
+      "label": "PER"
+    },
+    {
+      "text": "Manon",
+      "start": 49433,
+      "end": 49438,
+      "label": "MISC"
+    },
+    {
+      "text": "Suisse",
+      "start": 49773,
+      "end": 49779,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 49965,
+      "end": 49974,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 50086,
+      "end": 50091,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 50237,
+      "end": 50243,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 50288,
+      "end": 50310,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 50343,
+      "end": 50352,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 50403,
+      "end": 50412,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 50442,
+      "end": 50464,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 50499,
+      "end": 50504,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 50779,
+      "end": 50788,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 50972,
+      "end": 50978,
+      "label": "LOC"
+    },
+    {
+      "text": "Villeneuve Saint Georges",
+      "start": 50986,
+      "end": 51010,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 51112,
+      "end": 51117,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 51170,
+      "end": 51182,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 51206,
+      "end": 51215,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 51303,
+      "end": 51312,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 51503,
+      "end": 51512,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 52123,
+      "end": 52128,
+      "label": "LOC"
+    },
+    {
+      "text": "Manon",
+      "start": 52272,
+      "end": 52277,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 52736,
+      "end": 52745,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 52899,
+      "end": 52907,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 52928,
+      "end": 52940,
+      "label": "MISC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 52991,
+      "end": 52998,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 53080,
+      "end": 53088,
+      "label": "PER"
+    },
+    {
+      "text": "cour royale de Paris",
+      "start": 53168,
+      "end": 53188,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 53261,
+      "end": 53267,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 53349,
+      "end": 53356,
+      "label": "MISC"
+    },
+    {
+      "text": "marquis de Montauran",
+      "start": 53375,
+      "end": 53395,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 53409,
+      "end": 53415,
+      "label": "PER"
+    },
+    {
+      "text": "Lecamus",
+      "start": 53425,
+      "end": 53432,
+      "label": "PER"
+    },
+    {
+      "text": "Tresnes",
+      "start": 53443,
+      "end": 53450,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 53646,
+      "end": 53653,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 53657,
+      "end": 53663,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 53691,
+      "end": 53700,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 53837,
+      "end": 53844,
+      "label": "MISC"
+    },
+    {
+      "text": "Consulat",
+      "start": 53857,
+      "end": 53865,
+      "label": "MISC"
+    },
+    {
+      "text": "Parlement",
+      "start": 53910,
+      "end": 53919,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 53923,
+      "end": 53928,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 53930,
+      "end": 53939,
+      "label": "LOC"
+    },
+    {
+      "text": "Noblesse",
+      "start": 54067,
+      "end": 54075,
+      "label": "LOC"
+    },
+    {
+      "text": "Robe",
+      "start": 54082,
+      "end": 54086,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 54336,
+      "end": 54345,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 54481,
+      "end": 54487,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 54504,
+      "end": 54513,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 54562,
+      "end": 54567,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 54636,
+      "end": 54641,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 54921,
+      "end": 54930,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 55031,
+      "end": 55053,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 55181,
+      "end": 55190,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 55279,
+      "end": 55301,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 55511,
+      "end": 55520,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 55629,
+      "end": 55651,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 55927,
+      "end": 55932,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 55945,
+      "end": 55951,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 55996,
+      "end": 56001,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 56019,
+      "end": 56041,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 56053,
+      "end": 56060,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 56103,
+      "end": 56112,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Marceau",
+      "start": 56147,
+      "end": 56160,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 56200,
+      "end": 56206,
+      "label": "PER"
+    },
+    {
+      "text": "Battez",
+      "start": 56208,
+      "end": 56214,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 56227,
+      "end": 56240,
+      "label": "PER"
+    },
+    {
+      "text": "Alain !",
+      "start": 56370,
+      "end": 56377,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 56498,
+      "end": 56507,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 56657,
+      "end": 56666,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 57118,
+      "end": 57127,
+      "label": "MISC"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 57380,
+      "end": 57389,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 57395,
+      "end": 57401,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 57411,
+      "end": 57420,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 57422,
+      "end": 57444,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 57704,
+      "end": 57713,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 58073,
+      "end": 58079,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 58384,
+      "end": 58392,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 58668,
+      "end": 58674,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 58889,
+      "end": 58904,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 58982,
+      "end": 58986,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 59090,
+      "end": 59094,
+      "label": "LOC"
+    },
+    {
+      "text": "Seigneur",
+      "start": 59169,
+      "end": 59177,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 59267,
+      "end": 59277,
+      "label": "LOC"
+    },
+    {
+      "text": "Vèze",
+      "start": 59499,
+      "end": 59503,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 59550,
+      "end": 59556,
+      "label": "MISC"
+    },
+    {
+      "text": "Ordres",
+      "start": 59684,
+      "end": 59690,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 59752,
+      "end": 59756,
+      "label": "MISC"
+    },
+    {
+      "text": "Instruisez moi",
+      "start": 59849,
+      "end": 59863,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 59865,
+      "end": 59871,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 59877,
+      "end": 59886,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 60137,
+      "end": 60141,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 60211,
+      "end": 60233,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 60334,
+      "end": 60343,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 60800,
+      "end": 60809,
+      "label": "PER"
+    },
+    {
+      "text": "Religion",
+      "start": 60959,
+      "end": 60967,
+      "label": "LOC"
+    },
+    {
+      "text": "aiguë",
+      "start": 61115,
+      "end": 61120,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 61124,
+      "end": 61146,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 61319,
+      "end": 61327,
+      "label": "ORG"
+    },
+    {
+      "text": "Pauvre enfant !",
+      "start": 61395,
+      "end": 61410,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 61465,
+      "end": 61487,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 61636,
+      "end": 61645,
+      "label": "PER"
+    },
+    {
+      "text": "Aurez",
+      "start": 61797,
+      "end": 61802,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 61905,
+      "end": 61909,
+      "label": "MISC"
+    },
+    {
+      "text": "répliqua t",
+      "start": 61933,
+      "end": 61943,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 61950,
+      "end": 61959,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 62119,
+      "end": 62141,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 62294,
+      "end": 62303,
+      "label": "PER"
+    },
+    {
+      "text": "Restez",
+      "start": 62424,
+      "end": 62430,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de la Chanterie",
+      "start": 62440,
+      "end": 62462,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 62502,
+      "end": 62511,
+      "label": "PER"
+    },
+    {
+      "text": "Lisez",
+      "start": 62982,
+      "end": 62987,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 63285,
+      "end": 63292,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 63294,
+      "end": 63299,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 63303,
+      "end": 63309,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 63424,
+      "end": 63428,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 63514,
+      "end": 63523,
+      "label": "PER"
+    },
+    {
+      "text": "IMITATION",
+      "start": 63575,
+      "end": 63584,
+      "label": "MISC"
+    },
+    {
+      "text": "JÉSUS CHRIST",
+      "start": 63588,
+      "end": 63600,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 63712,
+      "end": 63734,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 63974,
+      "end": 63979,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 64092,
+      "end": 64101,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 64108,
+      "end": 64130,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 64314,
+      "end": 64323,
+      "label": "PER"
+    },
+    {
+      "text": "CHAPITRE XII",
+      "start": 64743,
+      "end": 64755,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 65035,
+      "end": 65040,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte croix",
+      "start": 65181,
+      "end": 65193,
+      "label": "MISC"
+    },
+    {
+      "text": "Disposez",
+      "start": 65197,
+      "end": 65205,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 65518,
+      "end": 65524,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65548,
+      "end": 65552,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65763,
+      "end": 65767,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65819,
+      "end": 65823,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 66188,
+      "end": 66200,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 66208,
+      "end": 66214,
+      "label": "MISC"
+    },
+    {
+      "text": "NE CHERCHEZ",
+      "start": 66478,
+      "end": 66489,
+      "label": "ORG"
+    },
+    {
+      "text": "CE QUI",
+      "start": 66494,
+      "end": 66500,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉTERNEL",
+      "start": 66505,
+      "end": 66512,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Imitation",
+      "start": 66614,
+      "end": 66625,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 66629,
+      "end": 66641,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 66658,
+      "end": 66680,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel de la Chanterie",
+      "start": 67029,
+      "end": 67050,
+      "label": "LOC"
+    },
+    {
+      "text": "Manon",
+      "start": 67173,
+      "end": 67178,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 67198,
+      "end": 67207,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 67324,
+      "end": 67333,
+      "label": "PER"
+    },
+    {
+      "text": "rue Massillon",
+      "start": 67552,
+      "end": 67565,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 67579,
+      "end": 67589,
+      "label": "PER"
+    },
+    {
+      "text": "Parvis",
+      "start": 67606,
+      "end": 67612,
+      "label": "LOC"
+    },
+    {
+      "text": "Faut",
+      "start": 67699,
+      "end": 67703,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 67757,
+      "end": 67758,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 67767,
+      "end": 67768,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 68070,
+      "end": 68074,
+      "label": "MISC"
+    },
+    {
+      "text": "La vie m'ennuie",
+      "start": 68190,
+      "end": 68205,
+      "label": "MISC"
+    },
+    {
+      "text": "Marin",
+      "start": 68329,
+      "end": 68334,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 68360,
+      "end": 68364,
+      "label": "MISC"
+    },
+    {
+      "text": "Marin",
+      "start": 68379,
+      "end": 68384,
+      "label": "PER"
+    },
+    {
+      "text": "place Maubert",
+      "start": 68623,
+      "end": 68636,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 68654,
+      "end": 68664,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 68667,
+      "end": 68676,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 68824,
+      "end": 68833,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 69009,
+      "end": 69031,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Jacques",
+      "start": 69128,
+      "end": 69141,
+      "label": "PER"
+    },
+    {
+      "text": "France de l'Imitation",
+      "start": 69226,
+      "end": 69247,
+      "label": "ORG"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 69251,
+      "end": 69263,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 69568,
+      "end": 69590,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 70177,
+      "end": 70185,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 70200,
+      "end": 70209,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 70456,
+      "end": 70478,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70548,
+      "end": 70552,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 70848,
+      "end": 70857,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 70919,
+      "end": 70925,
+      "label": "PER"
+    },
+    {
+      "text": "rue Mouffetard",
+      "start": 71148,
+      "end": 71162,
+      "label": "LOC"
+    },
+    {
+      "text": "La Chanterie à monsieur Nicolas",
+      "start": 71178,
+      "end": 71209,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 71315,
+      "end": 71320,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 71351,
+      "end": 71373,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 71475,
+      "end": 71484,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 71536,
+      "end": 71541,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 71711,
+      "end": 71733,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 71773,
+      "end": 71782,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 71997,
+      "end": 72006,
+      "label": "PER"
+    },
+    {
+      "text": "l'Imitation",
+      "start": 72172,
+      "end": 72183,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 72187,
+      "end": 72199,
+      "label": "PER"
+    },
+    {
+      "text": "Imitation",
+      "start": 72578,
+      "end": 72587,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangile traduit",
+      "start": 73006,
+      "end": 73022,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 73115,
+      "end": 73121,
+      "label": "MISC"
+    },
+    {
+      "text": "Gerson",
+      "start": 73141,
+      "end": 73147,
+      "label": "PER"
+    },
+    {
+      "text": "Esprit",
+      "start": 73155,
+      "end": 73161,
+      "label": "ORG"
+    },
+    {
+      "text": "Godefroid",
+      "start": 73202,
+      "end": 73211,
+      "label": "PER"
+    },
+    {
+      "text": "Charité",
+      "start": 74176,
+      "end": 74183,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 74196,
+      "end": 74205,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 74457,
+      "end": 74463,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 74472,
+      "end": 74477,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 74525,
+      "end": 74534,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 74996,
+      "end": 75004,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Mongenod",
+      "start": 75161,
+      "end": 75178,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 75205,
+      "end": 75214,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 75248,
+      "end": 75253,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 75379,
+      "end": 75401,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 75436,
+      "end": 75445,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 75635,
+      "end": 75644,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 75648,
+      "end": 75652,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé de Vèze",
+      "start": 75727,
+      "end": 75739,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 75983,
+      "end": 75989,
+      "label": "PER"
+    },
+    {
+      "text": "Apprenez",
+      "start": 75993,
+      "end": 76001,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 76048,
+      "end": 76056,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 76125,
+      "end": 76129,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 76160,
+      "end": 76169,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 76203,
+      "end": 76225,
+      "label": "PER"
+    },
+    {
+      "text": "Maintes",
+      "start": 76371,
+      "end": 76378,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 76594,
+      "end": 76603,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 76636,
+      "end": 76643,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 76645,
+      "end": 76651,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 76655,
+      "end": 76660,
+      "label": "PER"
+    },
+    {
+      "text": "Bossuet",
+      "start": 77014,
+      "end": 77021,
+      "label": "PER"
+    },
+    {
+      "text": "Pascal",
+      "start": 77027,
+      "end": 77033,
+      "label": "MISC"
+    },
+    {
+      "text": "Racine",
+      "start": 77039,
+      "end": 77045,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 77057,
+      "end": 77062,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 77068,
+      "end": 77077,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 77083,
+      "end": 77090,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 77096,
+      "end": 77107,
+      "label": "PER"
+    },
+    {
+      "text": "Ximenès",
+      "start": 77113,
+      "end": 77120,
+      "label": "PER"
+    },
+    {
+      "text": "Bayard",
+      "start": 77126,
+      "end": 77132,
+      "label": "PER"
+    },
+    {
+      "text": "du Guesclin",
+      "start": 77138,
+      "end": 77149,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 77229,
+      "end": 77233,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 77673,
+      "end": 77695,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 77698,
+      "end": 77707,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 77724,
+      "end": 77734,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 77798,
+      "end": 77807,
+      "label": "PER"
+    },
+    {
+      "text": "Faites moi le plaisir",
+      "start": 77838,
+      "end": 77859,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 77869,
+      "end": 77891,
+      "label": "PER"
+    },
+    {
+      "text": "ajouta t elle",
+      "start": 77979,
+      "end": 77992,
+      "label": "PER"
+    },
+    {
+      "text": "l'Imitation",
+      "start": 78024,
+      "end": 78035,
+      "label": "MISC"
+    },
+    {
+      "text": "De la conversation intérieure",
+      "start": 78076,
+      "end": 78105,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 78107,
+      "end": 78116,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 78284,
+      "end": 78287,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 78355,
+      "end": 78361,
+      "label": "PER"
+    },
+    {
+      "text": "Perdre",
+      "start": 78813,
+      "end": 78819,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 78980,
+      "end": 79002,
+      "label": "PER"
+    },
+    {
+      "text": "Victor de Vernisset",
+      "start": 79368,
+      "end": 79387,
+      "label": "PER"
+    },
+    {
+      "text": "madame de la Chanterie",
+      "start": 79414,
+      "end": 79436,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 79579,
+      "end": 79588,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 79816,
+      "end": 79821,
+      "label": "PER"
+    },
+    {
+      "text": "Vernisset",
+      "start": 79873,
+      "end": 79882,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 79922,
+      "end": 79927,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de La Chanterie",
+      "start": 79941,
+      "end": 79963,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 79981,
+      "end": 79990,
+      "label": "LOC"
+    },
+    {
+      "text": "pétrifia",
+      "start": 80008,
+      "end": 80016,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80100,
+      "end": 80108,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 80150,
+      "end": 80159,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous êtes bien heureux",
+      "start": 80184,
+      "end": 80206,
+      "label": "MISC"
+    },
+    {
+      "text": "Vernisset",
+      "start": 80222,
+      "end": 80231,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 80257,
+      "end": 80263,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 80295,
+      "end": 80317,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80330,
+      "end": 80335,
+      "label": "LOC"
+    },
+    {
+      "text": "Commandez",
+      "start": 80475,
+      "end": 80484,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 80597,
+      "end": 80603,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 80616,
+      "end": 80621,
+      "label": "PER"
+    },
+    {
+      "text": "Religion",
+      "start": 80704,
+      "end": 80712,
+      "label": "ORG"
+    },
+    {
+      "text": "Victor de Vernisset",
+      "start": 80855,
+      "end": 80874,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 80945,
+      "end": 80967,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 81035,
+      "end": 81040,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 81044,
+      "end": 81053,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 81080,
+      "end": 81086,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 81164,
+      "end": 81173,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher Alain",
+      "start": 81348,
+      "end": 81362,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 81368,
+      "end": 81390,
+      "label": "PER"
+    },
+    {
+      "text": "Pardonnez moi madame",
+      "start": 81654,
+      "end": 81674,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 81685,
+      "end": 81694,
+      "label": "MISC"
+    },
+    {
+      "text": "Vèze",
+      "start": 81876,
+      "end": 81880,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie si",
+      "start": 81984,
+      "end": 81999,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 82082,
+      "end": 82091,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 82191,
+      "end": 82200,
+      "label": "LOC"
+    },
+    {
+      "text": "diocèse de Paris",
+      "start": 82233,
+      "end": 82249,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82290,
+      "end": 82295,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 82428,
+      "end": 82437,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse de Cinq Cygne",
+      "start": 82454,
+      "end": 82476,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 82640,
+      "end": 82662,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 82772,
+      "end": 82781,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 82905,
+      "end": 82927,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Cinq Cygne",
+      "start": 82929,
+      "end": 82949,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 83045,
+      "end": 83052,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 83102,
+      "end": 83111,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 83205,
+      "end": 83227,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre",
+      "start": 83308,
+      "end": 83313,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 83457,
+      "end": 83479,
+      "label": "PER"
+    },
+    {
+      "text": "Vèze",
+      "start": 83620,
+      "end": 83624,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 83893,
+      "end": 83902,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 84182,
+      "end": 84191,
+      "label": "PER"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 84402,
+      "end": 84414,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 84627,
+      "end": 84649,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 84998,
+      "end": 85020,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 85152,
+      "end": 85161,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 85680,
+      "end": 85685,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 85735,
+      "end": 85742,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 85790,
+      "end": 85812,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 85986,
+      "end": 85995,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 86013,
+      "end": 86022,
+      "label": "MISC"
+    },
+    {
+      "text": "Providence",
+      "start": 86279,
+      "end": 86289,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 86494,
+      "end": 86503,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 86813,
+      "end": 86817,
+      "label": "MISC"
+    },
+    {
+      "text": "La Chanterie",
+      "start": 86895,
+      "end": 86907,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 87075,
+      "end": 87084,
+      "label": "MISC"
+    },
+    {
+      "text": "Imitation",
+      "start": 87094,
+      "end": 87103,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 87107,
+      "end": 87119,
+      "label": "PER"
+    },
+    {
+      "text": "Épître de saint Paul",
+      "start": 87147,
+      "end": 87167,
+      "label": "MISC"
+    },
+    {
+      "text": "Charité",
+      "start": 87175,
+      "end": 87182,
+      "label": "LOC"
+    },
+    {
+      "text": "Mille",
+      "start": 87479,
+      "end": 87484,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuits",
+      "start": 87492,
+      "end": 87497,
+      "label": "MISC"
+    },
+    {
+      "text": "Aladin",
+      "start": 87517,
+      "end": 87523,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 87730,
+      "end": 87739,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 87819,
+      "end": 87841,
+      "label": "PER"
+    },
+    {
+      "text": "madame Mongenod la mère",
+      "start": 87848,
+      "end": 87871,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 87954,
+      "end": 87958,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 87995,
+      "end": 88004,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 88178,
+      "end": 88200,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 88217,
+      "end": 88226,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 88389,
+      "end": 88394,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 88417,
+      "end": 88427,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 88576,
+      "end": 88581,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 88826,
+      "end": 88835,
+      "label": "PER"
+    },
+    {
+      "text": "Entrez",
+      "start": 89103,
+      "end": 89109,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 89167,
+      "end": 89176,
+      "label": "LOC"
+    },
+    {
+      "text": "serrure",
+      "start": 89221,
+      "end": 89228,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 89249,
+      "end": 89254,
+      "label": "PER"
+    },
+    {
+      "text": "l'Imitation",
+      "start": 89325,
+      "end": 89336,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 89340,
+      "end": 89352,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 89651,
+      "end": 89673,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Alain",
+      "start": 89919,
+      "end": 89933,
+      "label": "PER"
+    },
+    {
+      "text": "Souffrez",
+      "start": 90138,
+      "end": 90146,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 90198,
+      "end": 90207,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 90213,
+      "end": 90222,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 90226,
+      "end": 90230,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 90240,
+      "end": 90245,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 90268,
+      "end": 90277,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 90452,
+      "end": 90456,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 90772,
+      "end": 90776,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 91051,
+      "end": 91056,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Vincent de Paul",
+      "start": 91081,
+      "end": 91102,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 91350,
+      "end": 91359,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 91605,
+      "end": 91614,
+      "label": "PER"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 91649,
+      "end": 91671,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 91759,
+      "end": 91764,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 91939,
+      "end": 91944,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 91996,
+      "end": 92005,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfants Trouvés",
+      "start": 92270,
+      "end": 92285,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 92484,
+      "end": 92493,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 92569,
+      "end": 92573,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 92578,
+      "end": 92582,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de La Chanterie",
+      "start": 93134,
+      "end": 93156,
+      "label": "PER"
+    },
+    {
+      "text": "pascal",
+      "start": 93177,
+      "end": 93183,
+      "label": "MISC"
+    },
+    {
+      "text": "Crimes",
+      "start": 93239,
+      "end": 93245,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain !",
+      "start": 93467,
+      "end": 93474,
+      "label": "MISC"
+    },
+    {
+      "text": "Tobie de Sterne",
+      "start": 93504,
+      "end": 93519,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 93727,
+      "end": 93734,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 93799,
+      "end": 93808,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 94185,
+      "end": 94198,
+      "label": "MISC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 94271,
+      "end": 94279,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 94397,
+      "end": 94406,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 94533,
+      "end": 94542,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 94602,
+      "end": 94610,
+      "label": "PER"
+    },
+    {
+      "text": "Alain",
+      "start": 94640,
+      "end": 94645,
+      "label": "PER"
+    },
+    {
+      "text": "blanchis",
+      "start": 94743,
+      "end": 94751,
+      "label": "PER"
+    },
+    {
+      "text": "Crispin",
+      "start": 95363,
+      "end": 95370,
+      "label": "LOC"
+    },
+    {
+      "text": "Ie malheur",
+      "start": 95425,
+      "end": 95435,
+      "label": "MISC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 96244,
+      "end": 96252,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 96713,
+      "end": 96721,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 96787,
+      "end": 96792,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 96910,
+      "end": 96918,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 96978,
+      "end": 96986,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordin",
+      "start": 97072,
+      "end": 97078,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 97559,
+      "end": 97567,
+      "label": "PER"
+    },
+    {
+      "text": "Mariage de Figaro",
+      "start": 97808,
+      "end": 97825,
+      "label": "ORG"
+    },
+    {
+      "text": "Mongenod",
+      "start": 97827,
+      "end": 97835,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 98105,
+      "end": 98113,
+      "label": "MISC"
+    },
+    {
+      "text": "Alain",
+      "start": 98191,
+      "end": 98196,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 98209,
+      "end": 98218,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 98284,
+      "end": 98293,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 98420,
+      "end": 98429,
+      "label": "LOC"
+    },
+    {
+      "text": "Alain",
+      "start": 98560,
+      "end": 98565,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 98586,
+      "end": 98594,
+      "label": "LOC"
+    },
+    {
+      "text": "Mongenod",
+      "start": 98829,
+      "end": 98837,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod",
+      "start": 98907,
+      "end": 98915,
+      "label": "PER"
+    },
+    {
+      "text": "Mongenod !",
+      "start": 99261,
+      "end": 99271,
+      "label": "PER"
+    },
+    {
+      "text": "La somme",
+      "start": 99537,
+      "end": 99545,
+      "label": "LOC"
+    },
+    {
+      "text": "louis",
+      "start": 99751,
+      "end": 99756,
+      "label": "PER"
+    }
+  ]
+}

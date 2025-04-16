@@ -1,0 +1,1684 @@
+{
+  "entities": [
+    {
+      "text": "ÉLIXIR DE LONGUE VIE",
+      "start": 2,
+      "end": 22,
+      "label": "ORG"
+    },
+    {
+      "text": "LECTEUR",
+      "start": 33,
+      "end": 40,
+      "label": "ORG"
+    },
+    {
+      "text": "Étude",
+      "start": 144,
+      "end": 149,
+      "label": "PER"
+    },
+    {
+      "text": "Hoffmann de Berlin",
+      "start": 287,
+      "end": 305,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 339,
+      "end": 348,
+      "label": "LOC"
+    },
+    {
+      "text": "Comédie Humaine",
+      "start": 398,
+      "end": 413,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 503,
+      "end": 514,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 789,
+      "end": 797,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 1242,
+      "end": 1250,
+      "label": "PER"
+    },
+    {
+      "text": "Ajoutez",
+      "start": 1798,
+      "end": 1805,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 2786,
+      "end": 2794,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonſoir",
+      "start": 2967,
+      "end": 2974,
+      "label": "LOC"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 3107,
+      "end": 3116,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉTUDE",
+      "start": 3128,
+      "end": 3133,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 3135,
+      "end": 3139,
+      "label": "MISC"
+    },
+    {
+      "text": "Figurez",
+      "start": 3209,
+      "end": 3216,
+      "label": "LOC"
+    },
+    {
+      "text": "L'HÉRÉDITÉ comme sur un pivot",
+      "start": 3620,
+      "end": 3649,
+      "label": "MISC"
+    },
+    {
+      "text": "LECTEUR",
+      "start": 3850,
+      "end": 3857,
+      "label": "ORG"
+    },
+    {
+      "text": "Études",
+      "start": 3983,
+      "end": 3989,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 4326,
+      "end": 4331,
+      "label": "MISC"
+    },
+    {
+      "text": "IGNOTIS",
+      "start": 4613,
+      "end": 4620,
+      "label": "MISC"
+    },
+    {
+      "text": "Ferrare",
+      "start": 4656,
+      "end": 4663,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 4693,
+      "end": 4707,
+      "label": "PER"
+    },
+    {
+      "text": "Este",
+      "start": 4742,
+      "end": 4746,
+      "label": "PER"
+    },
+    {
+      "text": "Turquie",
+      "start": 5141,
+      "end": 5148,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma beauté sait réchauffer le cœur glacé des vieillards",
+      "start": 5554,
+      "end": 5608,
+      "label": "MISC"
+    },
+    {
+      "text": "J'",
+      "start": 5622,
+      "end": 5624,
+      "label": "LOC"
+    },
+    {
+      "text": "Chio",
+      "start": 5984,
+      "end": 5988,
+      "label": "LOC"
+    },
+    {
+      "text": "Oublieuse",
+      "start": 6072,
+      "end": 6081,
+      "label": "LOC"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 6225,
+      "end": 6234,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 6707,
+      "end": 6715,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 6840,
+      "end": 6844,
+      "label": "MISC"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 6894,
+      "end": 6908,
+      "label": "PER"
+    },
+    {
+      "text": "Ferrare",
+      "start": 7011,
+      "end": 7018,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 7032,
+      "end": 7040,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 7119,
+      "end": 7127,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 7760,
+      "end": 7768,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 7859,
+      "end": 7868,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 7870,
+      "end": 7874,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 8331,
+      "end": 8339,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 8362,
+      "end": 8370,
+      "label": "PER"
+    },
+    {
+      "text": "Excusez",
+      "start": 8440,
+      "end": 8447,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 8772,
+      "end": 8780,
+      "label": "PER"
+    },
+    {
+      "text": "MORT",
+      "start": 9158,
+      "end": 9162,
+      "label": "ORG"
+    },
+    {
+      "text": "Bartholoméo Belvidéro",
+      "start": 9401,
+      "end": 9422,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 9432,
+      "end": 9440,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 9607,
+      "end": 9613,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 9897,
+      "end": 9905,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 10004,
+      "end": 10019,
+      "label": "MISC"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 10244,
+      "end": 10253,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 10300,
+      "end": 10308,
+      "label": "PER"
+    },
+    {
+      "text": "Juana",
+      "start": 10435,
+      "end": 10440,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 10624,
+      "end": 10635,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 10671,
+      "end": 10679,
+      "label": "PER"
+    },
+    {
+      "text": "Ferrare",
+      "start": 10855,
+      "end": 10862,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 11234,
+      "end": 11245,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 11574,
+      "end": 11578,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 11585,
+      "end": 11593,
+      "label": "PER"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 11703,
+      "end": 11712,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 11814,
+      "end": 11825,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 12048,
+      "end": 12056,
+      "label": "PER"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 12262,
+      "end": 12271,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 13225,
+      "end": 13233,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 14036,
+      "end": 14047,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Juan",
+      "start": 14520,
+      "end": 14528,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 15008,
+      "end": 15016,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 15089,
+      "end": 15100,
+      "label": "LOC"
+    },
+    {
+      "text": "douceur",
+      "start": 15158,
+      "end": 15165,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 15176,
+      "end": 15184,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre Juanino",
+      "start": 15304,
+      "end": 15318,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 15431,
+      "end": 15435,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 15444,
+      "end": 15452,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 15750,
+      "end": 15758,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 16007,
+      "end": 16015,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 16672,
+      "end": 16683,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 16779,
+      "end": 16783,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 16787,
+      "end": 16791,
+      "label": "MISC"
+    },
+    {
+      "text": "Gardez",
+      "start": 16946,
+      "end": 16952,
+      "label": "LOC"
+    },
+    {
+      "text": "Veux",
+      "start": 17069,
+      "end": 17073,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Juan",
+      "start": 17131,
+      "end": 17139,
+      "label": "PER"
+    },
+    {
+      "text": "moribond sourit",
+      "start": 17321,
+      "end": 17336,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 17582,
+      "end": 17590,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 17634,
+      "end": 17639,
+      "label": "LOC"
+    },
+    {
+      "text": "Cherche",
+      "start": 17642,
+      "end": 17649,
+      "label": "PER"
+    },
+    {
+      "text": "frotteras",
+      "start": 18006,
+      "end": 18015,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 18106,
+      "end": 18117,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 18228,
+      "end": 18236,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 18828,
+      "end": 18832,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 18837,
+      "end": 18842,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 18875,
+      "end": 18883,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 19142,
+      "end": 19150,
+      "label": "PER"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 19278,
+      "end": 19287,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 19638,
+      "end": 19646,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 20041,
+      "end": 20049,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 20199,
+      "end": 20210,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 20426,
+      "end": 20434,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 20763,
+      "end": 20771,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 21049,
+      "end": 21053,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 21069,
+      "end": 21077,
+      "label": "PER"
+    },
+    {
+      "text": "Brambilla",
+      "start": 21153,
+      "end": 21162,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 21259,
+      "end": 21267,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 21769,
+      "end": 21775,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 21944,
+      "end": 21952,
+      "label": "PER"
+    },
+    {
+      "text": "Rivabarella",
+      "start": 22204,
+      "end": 22215,
+      "label": "LOC"
+    },
+    {
+      "text": "Hein !",
+      "start": 22220,
+      "end": 22226,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 22242,
+      "end": 22250,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 22296,
+      "end": 22300,
+      "label": "LOC"
+    },
+    {
+      "text": "Brambilla",
+      "start": 22342,
+      "end": 22351,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca Cavatolino",
+      "start": 22408,
+      "end": 22425,
+      "label": "PER"
+    },
+    {
+      "text": "Varonèse",
+      "start": 22462,
+      "end": 22470,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 22601,
+      "end": 22609,
+      "label": "PER"
+    },
+    {
+      "text": "Ferrare",
+      "start": 23050,
+      "end": 23057,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Juan",
+      "start": 23080,
+      "end": 23088,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 23159,
+      "end": 23166,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 23369,
+      "end": 23377,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 23468,
+      "end": 23479,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 24044,
+      "end": 24052,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Urbin",
+      "start": 24327,
+      "end": 24338,
+      "label": "PER"
+    },
+    {
+      "text": "Imbibe",
+      "start": 24508,
+      "end": 24514,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24689,
+      "end": 24693,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 24703,
+      "end": 24711,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 25180,
+      "end": 25188,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 25610,
+      "end": 25618,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 26194,
+      "end": 26202,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 26248,
+      "end": 26255,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 26495,
+      "end": 26503,
+      "label": "PER"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 26664,
+      "end": 26673,
+      "label": "PER"
+    },
+    {
+      "text": "Jacob",
+      "start": 26794,
+      "end": 26799,
+      "label": "PER"
+    },
+    {
+      "text": "Pourvu",
+      "start": 26851,
+      "end": 26857,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 27156,
+      "end": 27164,
+      "label": "PER"
+    },
+    {
+      "text": "Religion",
+      "start": 27471,
+      "end": 27479,
+      "label": "ORG"
+    },
+    {
+      "text": "Passé",
+      "start": 28017,
+      "end": 28022,
+      "label": "MISC"
+    },
+    {
+      "text": "Histoire",
+      "start": 28041,
+      "end": 28049,
+      "label": "MISC"
+    },
+    {
+      "text": "Présent",
+      "start": 28060,
+      "end": 28067,
+      "label": "LOC"
+    },
+    {
+      "text": "Loi",
+      "start": 28086,
+      "end": 28089,
+      "label": "MISC"
+    },
+    {
+      "text": "Avenir",
+      "start": 28099,
+      "end": 28105,
+      "label": "ORG"
+    },
+    {
+      "text": "Religions",
+      "start": 28123,
+      "end": 28132,
+      "label": "LOC"
+    },
+    {
+      "text": "DON",
+      "start": 28228,
+      "end": 28231,
+      "label": "MISC"
+    },
+    {
+      "text": "Mort",
+      "start": 29285,
+      "end": 29289,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 29639,
+      "end": 29647,
+      "label": "PER"
+    },
+    {
+      "text": "JE",
+      "start": 29748,
+      "end": 29750,
+      "label": "PER"
+    },
+    {
+      "text": "NOUS",
+      "start": 29795,
+      "end": 29799,
+      "label": "MISC"
+    },
+    {
+      "text": "Donne",
+      "start": 30270,
+      "end": 30275,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 30580,
+      "end": 30588,
+      "label": "PER"
+    },
+    {
+      "text": "Modèle",
+      "start": 30612,
+      "end": 30618,
+      "label": "MISC"
+    },
+    {
+      "text": "Dimanche",
+      "start": 31721,
+      "end": 31729,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan de Molière",
+      "start": 31758,
+      "end": 31777,
+      "label": "PER"
+    },
+    {
+      "text": "Faust",
+      "start": 31782,
+      "end": 31787,
+      "label": "LOC"
+    },
+    {
+      "text": "Goethe",
+      "start": 31791,
+      "end": 31797,
+      "label": "PER"
+    },
+    {
+      "text": "Manfred de Byron",
+      "start": 31802,
+      "end": 31818,
+      "label": "PER"
+    },
+    {
+      "text": "Melmoth",
+      "start": 31825,
+      "end": 31832,
+      "label": "MISC"
+    },
+    {
+      "text": "Maturin",
+      "start": 31836,
+      "end": 31843,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 31898,
+      "end": 31906,
+      "label": "LOC"
+    },
+    {
+      "text": "Mozart",
+      "start": 31937,
+      "end": 31943,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 31982,
+      "end": 31989,
+      "label": "PER"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 32209,
+      "end": 32217,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 32268,
+      "end": 32277,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 32336,
+      "end": 32344,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 32426,
+      "end": 32447,
+      "label": "PER"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 32598,
+      "end": 32612,
+      "label": "PER"
+    },
+    {
+      "text": "Jules II",
+      "start": 32825,
+      "end": 32833,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 32944,
+      "end": 32948,
+      "label": "MISC"
+    },
+    {
+      "text": "Génie du Mal",
+      "start": 33040,
+      "end": 33052,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 33066,
+      "end": 33070,
+      "label": "MISC"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 33172,
+      "end": 33181,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 33282,
+      "end": 33286,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Pierre",
+      "start": 33512,
+      "end": 33524,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Pierre",
+      "start": 33528,
+      "end": 33540,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 33619,
+      "end": 33627,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 33752,
+      "end": 33760,
+      "label": "PER"
+    },
+    {
+      "text": "Jules II",
+      "start": 33863,
+      "end": 33871,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 33877,
+      "end": 33884,
+      "label": "PER"
+    },
+    {
+      "text": "Villa Madama",
+      "start": 33907,
+      "end": 33919,
+      "label": "MISC"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 33927,
+      "end": 33936,
+      "label": "PER"
+    },
+    {
+      "text": "La Rovère",
+      "start": 34032,
+      "end": 34041,
+      "label": "PER"
+    },
+    {
+      "text": "Apocalypse",
+      "start": 34079,
+      "end": 34089,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 34217,
+      "end": 34225,
+      "label": "PER"
+    },
+    {
+      "text": "Belvidéro",
+      "start": 34277,
+      "end": 34286,
+      "label": "PER"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 34398,
+      "end": 34412,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 34466,
+      "end": 34473,
+      "label": "LOC"
+    },
+    {
+      "text": "Andalouse",
+      "start": 34534,
+      "end": 34543,
+      "label": "MISC"
+    },
+    {
+      "text": "Dona Elvire",
+      "start": 34716,
+      "end": 34727,
+      "label": "PER"
+    },
+    {
+      "text": "l'Andalousie",
+      "start": 34779,
+      "end": 34791,
+      "label": "LOC"
+    },
+    {
+      "text": "San Lucar",
+      "start": 34831,
+      "end": 34840,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Juan",
+      "start": 34879,
+      "end": 34887,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 35205,
+      "end": 35216,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 35218,
+      "end": 35226,
+      "label": "PER"
+    },
+    {
+      "text": "Ferrare",
+      "start": 35446,
+      "end": 35453,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe Belvidéro",
+      "start": 35744,
+      "end": 35762,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 35784,
+      "end": 35792,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé de San Lucar",
+      "start": 35920,
+      "end": 35937,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 35953,
+      "end": 35961,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Belvidéro",
+      "start": 35997,
+      "end": 36018,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 36025,
+      "end": 36033,
+      "label": "PER"
+    },
+    {
+      "text": "Tibère",
+      "start": 36167,
+      "end": 36173,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 36429,
+      "end": 36437,
+      "label": "PER"
+    },
+    {
+      "text": "Elvire",
+      "start": 36477,
+      "end": 36483,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 36521,
+      "end": 36530,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 36556,
+      "end": 36564,
+      "label": "PER"
+    },
+    {
+      "text": "cour de",
+      "start": 36860,
+      "end": 36867,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 36868,
+      "end": 36872,
+      "label": "LOC"
+    },
+    {
+      "text": "San Lucar",
+      "start": 36943,
+      "end": 36952,
+      "label": "LOC"
+    },
+    {
+      "text": "Elvire",
+      "start": 36959,
+      "end": 36965,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 36969,
+      "end": 36977,
+      "label": "MISC"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 37078,
+      "end": 37092,
+      "label": "PER"
+    },
+    {
+      "text": "Elvire",
+      "start": 38375,
+      "end": 38381,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 38385,
+      "end": 38393,
+      "label": "PER"
+    },
+    {
+      "text": "Mes",
+      "start": 38549,
+      "end": 38552,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 38649,
+      "end": 38653,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 39773,
+      "end": 39781,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 39826,
+      "end": 39835,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 40153,
+      "end": 40161,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe !   Écoute moi",
+      "start": 40317,
+      "end": 40340,
+      "label": "PER"
+    },
+    {
+      "text": "Jules II",
+      "start": 40483,
+      "end": 40491,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 40852,
+      "end": 40858,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 41108,
+      "end": 41116,
+      "label": "PER"
+    },
+    {
+      "text": "Jurez",
+      "start": 41118,
+      "end": 41123,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 41193,
+      "end": 41201,
+      "label": "PER"
+    },
+    {
+      "text": "Don Juan",
+      "start": 41220,
+      "end": 41228,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 41437,
+      "end": 41445,
+      "label": "PER"
+    },
+    {
+      "text": "San Lucar",
+      "start": 41514,
+      "end": 41523,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 41644,
+      "end": 41648,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 41654,
+      "end": 41658,
+      "label": "MISC"
+    },
+    {
+      "text": "Satan",
+      "start": 41699,
+      "end": 41704,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 41905,
+      "end": 41909,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 41994,
+      "end": 42002,
+      "label": "PER"
+    },
+    {
+      "text": "Pater",
+      "start": 42276,
+      "end": 42281,
+      "label": "MISC"
+    },
+    {
+      "text": "Ave",
+      "start": 42289,
+      "end": 42292,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42314,
+      "end": 42318,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42497,
+      "end": 42501,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 42558,
+      "end": 42566,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 42625,
+      "end": 42630,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe Belvidéro",
+      "start": 42798,
+      "end": 42816,
+      "label": "PER"
+    },
+    {
+      "text": "lune",
+      "start": 42987,
+      "end": 42991,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 43061,
+      "end": 43069,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe évanoui",
+      "start": 43896,
+      "end": 43912,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 44038,
+      "end": 44046,
+      "label": "PER"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 44088,
+      "end": 44096,
+      "label": "PER"
+    },
+    {
+      "text": "Miracle !",
+      "start": 44287,
+      "end": 44296,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 44309,
+      "end": 44318,
+      "label": "LOC"
+    },
+    {
+      "text": "Miracle !",
+      "start": 44334,
+      "end": 44343,
+      "label": "MISC"
+    },
+    {
+      "text": "Elvire",
+      "start": 44401,
+      "end": 44407,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé de San Lucar",
+      "start": 44426,
+      "end": 44443,
+      "label": "LOC"
+    },
+    {
+      "text": "don Juan",
+      "start": 44642,
+      "end": 44650,
+      "label": "PER"
+    },
+    {
+      "text": "San Juan de Lucar",
+      "start": 44778,
+      "end": 44795,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 44863,
+      "end": 44872,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye de San Lucar",
+      "start": 45001,
+      "end": 45020,
+      "label": "LOC"
+    },
+    {
+      "text": "Juan Belvidéro",
+      "start": 45063,
+      "end": 45077,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lucar",
+      "start": 45292,
+      "end": 45303,
+      "label": "PER"
+    },
+    {
+      "text": "Te Deum",
+      "start": 45420,
+      "end": 45427,
+      "label": "ORG"
+    },
+    {
+      "text": "couvent de San Lucar",
+      "start": 45471,
+      "end": 45491,
+      "label": "LOC"
+    },
+    {
+      "text": "Maures",
+      "start": 45526,
+      "end": 45532,
+      "label": "MISC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 45596,
+      "end": 45608,
+      "label": "PER"
+    },
+    {
+      "text": "Allah",
+      "start": 45629,
+      "end": 45634,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 47561,
+      "end": 47569,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 47754,
+      "end": 47760,
+      "label": "PER"
+    },
+    {
+      "text": "Éternel",
+      "start": 48253,
+      "end": 48260,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 48611,
+      "end": 48615,
+      "label": "MISC"
+    },
+    {
+      "text": "Te Deum",
+      "start": 48666,
+      "end": 48673,
+      "label": "ORG"
+    },
+    {
+      "text": "Te Deum",
+      "start": 49176,
+      "end": 49183,
+      "label": "ORG"
+    },
+    {
+      "text": "don Juan",
+      "start": 49675,
+      "end": 49683,
+      "label": "PER"
+    },
+    {
+      "text": "Boniface",
+      "start": 49944,
+      "end": 49952,
+      "label": "PER"
+    },
+    {
+      "text": "Pantaléon",
+      "start": 49957,
+      "end": 49966,
+      "label": "PER"
+    },
+    {
+      "text": "Te Deum",
+      "start": 50157,
+      "end": 50164,
+      "label": "ORG"
+    },
+    {
+      "text": "Allez",
+      "start": 50198,
+      "end": 50203,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 50253,
+      "end": 50257,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 50259,
+      "end": 50263,
+      "label": "MISC"
+    },
+    {
+      "text": "Carajos",
+      "start": 50266,
+      "end": 50273,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 50323,
+      "end": 50327,
+      "label": "MISC"
+    },
+    {
+      "text": "Vésuve",
+      "start": 50449,
+      "end": 50455,
+      "label": "LOC"
+    },
+    {
+      "text": "Deus sabaoth",
+      "start": 50459,
+      "end": 50471,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous insultez",
+      "start": 50509,
+      "end": 50522,
+      "label": "MISC"
+    },
+    {
+      "text": "don Juan",
+      "start": 50556,
+      "end": 50564,
+      "label": "PER"
+    },
+    {
+      "text": "Sancte Johannes",
+      "start": 51069,
+      "end": 51084,
+      "label": "PER"
+    },
+    {
+      "text": "ora pro",
+      "start": 51086,
+      "end": 51093,
+      "label": "MISC"
+    },
+    {
+      "text": "coglione",
+      "start": 51140,
+      "end": 51148,
+      "label": "LOC"
+    },
+    {
+      "text": "Souviens",
+      "start": 51401,
+      "end": 51409,
+      "label": "LOC"
+    },
+    {
+      "text": "Imbécile",
+      "start": 51591,
+      "end": 51599,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 51623,
+      "end": 51627,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 51704,
+      "end": 51709,
+      "label": "LOC"
+    }
+  ]
+}

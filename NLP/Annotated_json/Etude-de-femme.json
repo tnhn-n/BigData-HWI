@@ -1,0 +1,868 @@
+{
+  "entities": [
+    {
+      "text": "ÉTUDE",
+      "start": 0,
+      "end": 5,
+      "label": "MISC"
+    },
+    {
+      "text": "FEMME",
+      "start": 9,
+      "end": 14,
+      "label": "MISC"
+    },
+    {
+      "text": "JEAN CHARLES DI NÈGRO",
+      "start": 39,
+      "end": 60,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 71,
+      "end": 92,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 150,
+      "end": 162,
+      "label": "MISC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 248,
+      "end": 256,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 262,
+      "end": 267,
+      "label": "LOC"
+    },
+    {
+      "text": "Légalité",
+      "start": 449,
+      "end": 457,
+      "label": "MISC"
+    },
+    {
+      "text": "Maintenon",
+      "start": 579,
+      "end": 588,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 629,
+      "end": 638,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Listomère",
+      "start": 845,
+      "end": 865,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 1051,
+      "end": 1060,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 1071,
+      "end": 1080,
+      "label": "LOC"
+    },
+    {
+      "text": "Député",
+      "start": 1453,
+      "end": 1459,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 1543,
+      "end": 1550,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 1596,
+      "end": 1605,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 1884,
+      "end": 1890,
+      "label": "LOC"
+    },
+    {
+      "text": "Charte",
+      "start": 1901,
+      "end": 1907,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 2959,
+      "end": 2980,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 3180,
+      "end": 3199,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3997,
+      "end": 4002,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 4007,
+      "end": 4028,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène de Rastignac",
+      "start": 4339,
+      "end": 4358,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 4686,
+      "end": 4707,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume Tell",
+      "start": 4825,
+      "end": 4839,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 5202,
+      "end": 5211,
+      "label": "LOC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 5521,
+      "end": 5530,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 5860,
+      "end": 5866,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 6352,
+      "end": 6358,
+      "label": "PER"
+    },
+    {
+      "text": "Bourguignon",
+      "start": 7626,
+      "end": 7637,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles VI",
+      "start": 7699,
+      "end": 7709,
+      "label": "PER"
+    },
+    {
+      "text": "Inde",
+      "start": 7929,
+      "end": 7933,
+      "label": "LOC"
+    },
+    {
+      "text": "inde",
+      "start": 7940,
+      "end": 7944,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 8215,
+      "end": 8221,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 8258,
+      "end": 8262,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 8282,
+      "end": 8288,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 8328,
+      "end": 8332,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 8429,
+      "end": 8435,
+      "label": "PER"
+    },
+    {
+      "text": "expédition de Morée",
+      "start": 8523,
+      "end": 8542,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 8606,
+      "end": 8612,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 8664,
+      "end": 8669,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 8796,
+      "end": 8797,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 8798,
+      "end": 8799,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 8800,
+      "end": 8801,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 8802,
+      "end": 8803,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 8804,
+      "end": 8805,
+      "label": "LOC"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 8828,
+      "end": 8849,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 8912,
+      "end": 8920,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 8967,
+      "end": 8975,
+      "label": "PER"
+    },
+    {
+      "text": "Imprudence",
+      "start": 8990,
+      "end": 9000,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 9432,
+      "end": 9440,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 9492,
+      "end": 9498,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 9598,
+      "end": 9604,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 9636,
+      "end": 9644,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa la marquise",
+      "start": 9693,
+      "end": 9710,
+      "label": "PER"
+    },
+    {
+      "text": ".",
+      "start": 9716,
+      "end": 9717,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 9718,
+      "end": 9719,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 9720,
+      "end": 9721,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 9722,
+      "end": 9723,
+      "label": "LOC"
+    },
+    {
+      "text": ".",
+      "start": 9724,
+      "end": 9725,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Listomère",
+      "start": 9797,
+      "end": 9816,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 9882,
+      "end": 9888,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 10164,
+      "end": 10170,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 10244,
+      "end": 10252,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 10308,
+      "end": 10314,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Beauséant",
+      "start": 10384,
+      "end": 10404,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 10409,
+      "end": 10418,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Beauséant",
+      "start": 10473,
+      "end": 10493,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 10528,
+      "end": 10537,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 10625,
+      "end": 10644,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 10683,
+      "end": 10689,
+      "label": "PER"
+    },
+    {
+      "text": "Stendalh",
+      "start": 10752,
+      "end": 10760,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 10911,
+      "end": 10917,
+      "label": "PER"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 10951,
+      "end": 10958,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 10959,
+      "end": 10965,
+      "label": "PER"
+    },
+    {
+      "text": "Plaît",
+      "start": 11017,
+      "end": 11022,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 11132,
+      "end": 11138,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 11326,
+      "end": 11334,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 11353,
+      "end": 11359,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Listomère",
+      "start": 11363,
+      "end": 11384,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Dominique",
+      "start": 11386,
+      "end": 11405,
+      "label": "LOC"
+    },
+    {
+      "text": "Es",
+      "start": 11448,
+      "end": 11450,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 11484,
+      "end": 11490,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 11607,
+      "end": 11613,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 11632,
+      "end": 11638,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 11724,
+      "end": 11730,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 11795,
+      "end": 11803,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Lazare",
+      "start": 11906,
+      "end": 11918,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Dominique",
+      "start": 11924,
+      "end": 11943,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 11945,
+      "end": 11951,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 12011,
+      "end": 12017,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 12163,
+      "end": 12169,
+      "label": "PER"
+    },
+    {
+      "text": "madame de",
+      "start": 12200,
+      "end": 12209,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 12210,
+      "end": 12219,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 12343,
+      "end": 12362,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 12643,
+      "end": 12649,
+      "label": "PER"
+    },
+    {
+      "text": "madame la marquise",
+      "start": 12749,
+      "end": 12767,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 12831,
+      "end": 12836,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 12843,
+      "end": 12849,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 12996,
+      "end": 13005,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 13122,
+      "end": 13141,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 13168,
+      "end": 13174,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 13429,
+      "end": 13435,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 13650,
+      "end": 13658,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 13662,
+      "end": 13671,
+      "label": "PER"
+    },
+    {
+      "text": "Gazette de France",
+      "start": 13688,
+      "end": 13705,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 14100,
+      "end": 14103,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 14118,
+      "end": 14124,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 14199,
+      "end": 14218,
+      "label": "PER"
+    },
+    {
+      "text": "Seriez",
+      "start": 14372,
+      "end": 14378,
+      "label": "PER"
+    },
+    {
+      "text": "Personne",
+      "start": 14542,
+      "end": 14550,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 14722,
+      "end": 14730,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 14734,
+      "end": 14743,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 14979,
+      "end": 14988,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 15046,
+      "end": 15052,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 15388,
+      "end": 15396,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 15540,
+      "end": 15546,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 15561,
+      "end": 15567,
+      "label": "PER"
+    },
+    {
+      "text": "ajouta t",
+      "start": 15635,
+      "end": 15643,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 16074,
+      "end": 16078,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 16304,
+      "end": 16310,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 16376,
+      "end": 16382,
+      "label": "MISC"
+    },
+    {
+      "text": "Listomère",
+      "start": 16441,
+      "end": 16450,
+      "label": "PER"
+    },
+    {
+      "text": "Listomère",
+      "start": 16613,
+      "end": 16622,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 16682,
+      "end": 16686,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Mortsauf",
+      "start": 16687,
+      "end": 16705,
+      "label": "PER"
+    },
+    {
+      "text": "Clochegourde",
+      "start": 16754,
+      "end": 16766,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 16831,
+      "end": 16837,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 17154,
+      "end": 17160,
+      "label": "MISC"
+    },
+    {
+      "text": "Puissiez",
+      "start": 17164,
+      "end": 17172,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 17385,
+      "end": 17387,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 17429,
+      "end": 17437,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 17448,
+      "end": 17467,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 17552,
+      "end": 17558,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Listomère",
+      "start": 17916,
+      "end": 17935,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène",
+      "start": 17943,
+      "end": 17949,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Listomère",
+      "start": 18084,
+      "end": 18103,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 18154,
+      "end": 18163,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugène",
+      "start": 18237,
+      "end": 18243,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 18529,
+      "end": 18535,
+      "label": "PER"
+    },
+    {
+      "text": "fat",
+      "start": 18588,
+      "end": 18591,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugène",
+      "start": 18759,
+      "end": 18765,
+      "label": "PER"
+    },
+    {
+      "text": "Moi qui la soigne",
+      "start": 18915,
+      "end": 18932,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 19062,
+      "end": 19067,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,3316 @@
+{
+  "entities": [
+    {
+      "text": "MAITRE",
+      "start": 0,
+      "end": 6,
+      "label": "MISC"
+    },
+    {
+      "text": "CORNÉLIUS",
+      "start": 7,
+      "end": 16,
+      "label": "MISC"
+    },
+    {
+      "text": "COMTE",
+      "start": 38,
+      "end": 43,
+      "label": "MISC"
+    },
+    {
+      "text": "MNISZECH",
+      "start": 52,
+      "end": 60,
+      "label": "ORG"
+    },
+    {
+      "text": "JALOUX",
+      "start": 70,
+      "end": 76,
+      "label": "MISC"
+    },
+    {
+      "text": "Talent",
+      "start": 398,
+      "end": 404,
+      "label": "LOC"
+    },
+    {
+      "text": "Souvenir",
+      "start": 409,
+      "end": 417,
+      "label": "LOC"
+    },
+    {
+      "text": "Amitié",
+      "start": 425,
+      "end": 431,
+      "label": "LOC"
+    },
+    {
+      "text": "Toussaint",
+      "start": 462,
+      "end": 471,
+      "label": "MISC"
+    },
+    {
+      "text": "Tours",
+      "start": 553,
+      "end": 558,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélie de Bourdeilles",
+      "start": 573,
+      "end": 593,
+      "label": "PER"
+    },
+    {
+      "text": "Puissance",
+      "start": 2860,
+      "end": 2869,
+      "label": "PER"
+    },
+    {
+      "text": "Moyen",
+      "start": 3307,
+      "end": 3312,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 4272,
+      "end": 4277,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 4735,
+      "end": 4740,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 5536,
+      "end": 5546,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 6653,
+      "end": 6661,
+      "label": "LOC"
+    },
+    {
+      "text": "livre d'Heures",
+      "start": 7223,
+      "end": 7237,
+      "label": "MISC"
+    },
+    {
+      "text": "Amen",
+      "start": 7342,
+      "end": 7346,
+      "label": "MISC"
+    },
+    {
+      "text": "la Vierge",
+      "start": 8334,
+      "end": 8343,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Michel",
+      "start": 8705,
+      "end": 8717,
+      "label": "PER"
+    },
+    {
+      "text": "Libera",
+      "start": 10132,
+      "end": 10138,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardée",
+      "start": 10795,
+      "end": 10801,
+      "label": "PER"
+    },
+    {
+      "text": "Amour",
+      "start": 11540,
+      "end": 11545,
+      "label": "PER"
+    },
+    {
+      "text": "Périssons",
+      "start": 11734,
+      "end": 11743,
+      "label": "MISC"
+    },
+    {
+      "text": "secula seculorum",
+      "start": 13674,
+      "end": 13690,
+      "label": "MISC"
+    },
+    {
+      "text": "La manche",
+      "start": 15186,
+      "end": 15195,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 15363,
+      "end": 15371,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de",
+      "start": 15398,
+      "end": 15406,
+      "label": "PER"
+    },
+    {
+      "text": "Aymar de Poitiers",
+      "start": 15454,
+      "end": 15471,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 15481,
+      "end": 15494,
+      "label": "LOC"
+    },
+    {
+      "text": "Voulez",
+      "start": 16296,
+      "end": 16302,
+      "label": "LOC"
+    },
+    {
+      "text": "États voisins ?",
+      "start": 16331,
+      "end": 16346,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 16410,
+      "end": 16420,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 16475,
+      "end": 16479,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis Onze",
+      "start": 16574,
+      "end": 16584,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 16724,
+      "end": 16733,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 17118,
+      "end": 17125,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie",
+      "start": 17427,
+      "end": 17432,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 17711,
+      "end": 17724,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 17845,
+      "end": 17849,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 18401,
+      "end": 18414,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 18615,
+      "end": 18622,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 18753,
+      "end": 18757,
+      "label": "MISC"
+    },
+    {
+      "text": "Plessis",
+      "start": 19318,
+      "end": 19325,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 19364,
+      "end": 19372,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 19394,
+      "end": 19399,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 19540,
+      "end": 19546,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte mère de Dieu",
+      "start": 19604,
+      "end": 19623,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 19715,
+      "end": 19724,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 19923,
+      "end": 19932,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 20180,
+      "end": 20184,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 20256,
+      "end": 20265,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 20270,
+      "end": 20274,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 20680,
+      "end": 20689,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 20786,
+      "end": 20792,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 20829,
+      "end": 20833,
+      "label": "MISC"
+    },
+    {
+      "text": "Pardon",
+      "start": 21408,
+      "end": 21414,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 22064,
+      "end": 22068,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 22117,
+      "end": 22123,
+      "label": "PER"
+    },
+    {
+      "text": "répliqua t",
+      "start": 22191,
+      "end": 22201,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 23479,
+      "end": 23490,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 23492,
+      "end": 23498,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 24086,
+      "end": 24094,
+      "label": "PER"
+    },
+    {
+      "text": "Merci Dieu",
+      "start": 24333,
+      "end": 24343,
+      "label": "MISC"
+    },
+    {
+      "text": "Cathédrale du portail de la",
+      "start": 24770,
+      "end": 24797,
+      "label": "LOC"
+    },
+    {
+      "text": "Chancellerie",
+      "start": 24798,
+      "end": 24810,
+      "label": "LOC"
+    },
+    {
+      "text": "Juvénal des Ursins",
+      "start": 24878,
+      "end": 24896,
+      "label": "PER"
+    },
+    {
+      "text": "Charles VII",
+      "start": 24949,
+      "end": 24960,
+      "label": "PER"
+    },
+    {
+      "text": "Scéellerie",
+      "start": 25082,
+      "end": 25092,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 25163,
+      "end": 25168,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteauneuf",
+      "start": 25181,
+      "end": 25192,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye de Saint Martin",
+      "start": 25220,
+      "end": 25242,
+      "label": "LOC"
+    },
+    {
+      "text": "Scéellerie",
+      "start": 25417,
+      "end": 25427,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 25469,
+      "end": 25474,
+      "label": "LOC"
+    },
+    {
+      "text": "Xancoings",
+      "start": 25571,
+      "end": 25580,
+      "label": "MISC"
+    },
+    {
+      "text": "rue du Commerce",
+      "start": 25617,
+      "end": 25632,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteauneuf",
+      "start": 25668,
+      "end": 25679,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 25799,
+      "end": 25804,
+      "label": "LOC"
+    },
+    {
+      "text": "Mûrier",
+      "start": 26063,
+      "end": 26069,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 26297,
+      "end": 26304,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius Hoogworst",
+      "start": 26477,
+      "end": 26496,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 26538,
+      "end": 26546,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 26758,
+      "end": 26771,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 26837,
+      "end": 26846,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 26984,
+      "end": 26992,
+      "label": "LOC"
+    },
+    {
+      "text": "Châteauneuf",
+      "start": 27092,
+      "end": 27103,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 27167,
+      "end": 27175,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 27182,
+      "end": 27187,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 27194,
+      "end": 27201,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 27369,
+      "end": 27378,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 27639,
+      "end": 27647,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 27983,
+      "end": 27992,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 28012,
+      "end": 28020,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye Saint Martin",
+      "start": 28777,
+      "end": 28796,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 28848,
+      "end": 28856,
+      "label": "LOC"
+    },
+    {
+      "text": "abbaye Saint Martin",
+      "start": 29728,
+      "end": 29747,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 29947,
+      "end": 29951,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombard",
+      "start": 30184,
+      "end": 30191,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 30257,
+      "end": 30266,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 30587,
+      "end": 30595,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sassenage",
+      "start": 30610,
+      "end": 30629,
+      "label": "PER"
+    },
+    {
+      "text": "Dauphiné",
+      "start": 30634,
+      "end": 30642,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 30772,
+      "end": 30781,
+      "label": "PER"
+    },
+    {
+      "text": "Lombard",
+      "start": 30835,
+      "end": 30842,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 30869,
+      "end": 30882,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 31284,
+      "end": 31293,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius Hoogworst",
+      "start": 31295,
+      "end": 31314,
+      "label": "PER"
+    },
+    {
+      "text": "Gand",
+      "start": 31352,
+      "end": 31356,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 31387,
+      "end": 31394,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bourgogne",
+      "start": 31396,
+      "end": 31412,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 31460,
+      "end": 31468,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 31470,
+      "end": 31476,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 31565,
+      "end": 31572,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 31577,
+      "end": 31583,
+      "label": "LOC"
+    },
+    {
+      "text": "Levant",
+      "start": 31590,
+      "end": 31596,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 31636,
+      "end": 31645,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 31674,
+      "end": 31682,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 31719,
+      "end": 31726,
+      "label": "MISC"
+    },
+    {
+      "text": "Flamand",
+      "start": 31741,
+      "end": 31748,
+      "label": "MISC"
+    },
+    {
+      "text": "Rusés",
+      "start": 31771,
+      "end": 31776,
+      "label": "PER"
+    },
+    {
+      "text": "Olivier le Daim",
+      "start": 32137,
+      "end": 32152,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 32159,
+      "end": 32166,
+      "label": "PER"
+    },
+    {
+      "text": "Lombard",
+      "start": 32212,
+      "end": 32219,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 32243,
+      "end": 32251,
+      "label": "PER"
+    },
+    {
+      "text": "Brabançon",
+      "start": 32379,
+      "end": 32388,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 32481,
+      "end": 32490,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 32512,
+      "end": 32517,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 33080,
+      "end": 33088,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 33241,
+      "end": 33247,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamand",
+      "start": 33308,
+      "end": 33315,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 33407,
+      "end": 33416,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 33669,
+      "end": 33674,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 34322,
+      "end": 34327,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamands",
+      "start": 34405,
+      "end": 34413,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 34751,
+      "end": 34760,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 34875,
+      "end": 34879,
+      "label": "LOC"
+    },
+    {
+      "text": "canal des juifs",
+      "start": 35071,
+      "end": 35086,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 35325,
+      "end": 35333,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 35364,
+      "end": 35373,
+      "label": "PER"
+    },
+    {
+      "text": "saint Louis",
+      "start": 35412,
+      "end": 35423,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 35565,
+      "end": 35571,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombard",
+      "start": 35708,
+      "end": 35715,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 35827,
+      "end": 35836,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 35850,
+      "end": 35860,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 35962,
+      "end": 35970,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 36228,
+      "end": 36237,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeaux pleins d'honneur",
+      "start": 36279,
+      "end": 36307,
+      "label": "ORG"
+    },
+    {
+      "text": "Brabançon",
+      "start": 36750,
+      "end": 36759,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 36809,
+      "end": 36817,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeaux",
+      "start": 36953,
+      "end": 36964,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristan",
+      "start": 37008,
+      "end": 37015,
+      "label": "PER"
+    },
+    {
+      "text": "Coupables",
+      "start": 37017,
+      "end": 37026,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 37088,
+      "end": 37097,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 37676,
+      "end": 37685,
+      "label": "PER"
+    },
+    {
+      "text": "les Tourangeaux",
+      "start": 37688,
+      "end": 37703,
+      "label": "MISC"
+    },
+    {
+      "text": "Malemaison",
+      "start": 37794,
+      "end": 37804,
+      "label": "PER"
+    },
+    {
+      "text": "Lombard",
+      "start": 37820,
+      "end": 37827,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 38004,
+      "end": 38013,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 38395,
+      "end": 38404,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bourgogne",
+      "start": 38485,
+      "end": 38501,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 38713,
+      "end": 38721,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 39144,
+      "end": 39156,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 39364,
+      "end": 39369,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombard",
+      "start": 39420,
+      "end": 39427,
+      "label": "MISC"
+    },
+    {
+      "text": "Lombard",
+      "start": 39483,
+      "end": 39490,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 39619,
+      "end": 39628,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 39764,
+      "end": 39772,
+      "label": "PER"
+    },
+    {
+      "text": "Malemaison",
+      "start": 39873,
+      "end": 39883,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Mûrier",
+      "start": 39890,
+      "end": 39903,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 39930,
+      "end": 39939,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 39975,
+      "end": 39980,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeaux",
+      "start": 40015,
+      "end": 40026,
+      "label": "MISC"
+    },
+    {
+      "text": "Comptez",
+      "start": 40068,
+      "end": 40075,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 40149,
+      "end": 40158,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 40164,
+      "end": 40173,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 40212,
+      "end": 40217,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Mûrier",
+      "start": 40348,
+      "end": 40361,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 40363,
+      "end": 40372,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 40585,
+      "end": 40593,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 40722,
+      "end": 40730,
+      "label": "PER"
+    },
+    {
+      "text": "Toussaint",
+      "start": 40780,
+      "end": 40789,
+      "label": "MISC"
+    },
+    {
+      "text": "hein",
+      "start": 41474,
+      "end": 41478,
+      "label": "PER"
+    },
+    {
+      "text": "Ventre Mahom",
+      "start": 41536,
+      "end": 41548,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 41818,
+      "end": 41827,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 42190,
+      "end": 42199,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 43079,
+      "end": 43088,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 43179,
+      "end": 43188,
+      "label": "PER"
+    },
+    {
+      "text": "campagnards",
+      "start": 43212,
+      "end": 43223,
+      "label": "LOC"
+    },
+    {
+      "text": "Assis",
+      "start": 43366,
+      "end": 43371,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 43428,
+      "end": 43437,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 43487,
+      "end": 43495,
+      "label": "LOC"
+    },
+    {
+      "text": "Malemaison",
+      "start": 43502,
+      "end": 43512,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 43920,
+      "end": 43929,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 44612,
+      "end": 44621,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 47374,
+      "end": 47379,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles IX",
+      "start": 47490,
+      "end": 47500,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 47607,
+      "end": 47616,
+      "label": "PER"
+    },
+    {
+      "text": "porte de la Malemaison",
+      "start": 47675,
+      "end": 47697,
+      "label": "LOC"
+    },
+    {
+      "text": "lune",
+      "start": 48287,
+      "end": 48291,
+      "label": "LOC"
+    },
+    {
+      "text": "la feuillée",
+      "start": 48580,
+      "end": 48591,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 48975,
+      "end": 48984,
+      "label": "PER"
+    },
+    {
+      "text": "Oosterlinck de Bruges",
+      "start": 49474,
+      "end": 49495,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 49521,
+      "end": 49522,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre",
+      "start": 49533,
+      "end": 49538,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 49547,
+      "end": 49566,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 49570,
+      "end": 49574,
+      "label": "LOC"
+    },
+    {
+      "text": "Passez",
+      "start": 49621,
+      "end": 49627,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 49672,
+      "end": 49691,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 49800,
+      "end": 49807,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 49904,
+      "end": 49911,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 50001,
+      "end": 50010,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 50133,
+      "end": 50141,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 50363,
+      "end": 50371,
+      "label": "PER"
+    },
+    {
+      "text": "Malemaison",
+      "start": 50411,
+      "end": 50421,
+      "label": "LOC"
+    },
+    {
+      "text": "rebec",
+      "start": 50462,
+      "end": 50467,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 50779,
+      "end": 50788,
+      "label": "PER"
+    },
+    {
+      "text": "Asseyez",
+      "start": 50827,
+      "end": 50834,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 50855,
+      "end": 50863,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 51336,
+      "end": 51345,
+      "label": "PER"
+    },
+    {
+      "text": "judas",
+      "start": 51405,
+      "end": 51410,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 51507,
+      "end": 51526,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 51890,
+      "end": 51899,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 52007,
+      "end": 52015,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 52255,
+      "end": 52264,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 52489,
+      "end": 52497,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 52672,
+      "end": 52679,
+      "label": "MISC"
+    },
+    {
+      "text": "front haut",
+      "start": 53117,
+      "end": 53127,
+      "label": "ORG"
+    },
+    {
+      "text": "bombé",
+      "start": 53129,
+      "end": 53134,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 53514,
+      "end": 53515,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 53549,
+      "end": 53555,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 53558,
+      "end": 53567,
+      "label": "PER"
+    },
+    {
+      "text": "Bruges",
+      "start": 53623,
+      "end": 53629,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 53637,
+      "end": 53641,
+      "label": "LOC"
+    },
+    {
+      "text": "Escaut",
+      "start": 53668,
+      "end": 53674,
+      "label": "LOC"
+    },
+    {
+      "text": "Trois",
+      "start": 53679,
+      "end": 53684,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 53728,
+      "end": 53732,
+      "label": "LOC"
+    },
+    {
+      "text": "Liéven",
+      "start": 53749,
+      "end": 53755,
+      "label": "PER"
+    },
+    {
+      "text": "Herde",
+      "start": 53758,
+      "end": 53763,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 53777,
+      "end": 53781,
+      "label": "MISC"
+    },
+    {
+      "text": "tribunal des Parchons",
+      "start": 54092,
+      "end": 54113,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Bourgogne",
+      "start": 54160,
+      "end": 54176,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 54212,
+      "end": 54220,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 54542,
+      "end": 54551,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 54753,
+      "end": 54760,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 54885,
+      "end": 54894,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 54898,
+      "end": 54902,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 55325,
+      "end": 55329,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 55486,
+      "end": 55490,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Bavon",
+      "start": 55495,
+      "end": 55506,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 55526,
+      "end": 55533,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 55777,
+      "end": 55784,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 55788,
+      "end": 55794,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Bavon",
+      "start": 55808,
+      "end": 55819,
+      "label": "PER"
+    },
+    {
+      "text": "Taie toi",
+      "start": 55873,
+      "end": 55881,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 55892,
+      "end": 55901,
+      "label": "PER"
+    },
+    {
+      "text": "Oosterlinck",
+      "start": 55918,
+      "end": 55929,
+      "label": "PER"
+    },
+    {
+      "text": "Oosterlinck",
+      "start": 56051,
+      "end": 56062,
+      "label": "ORG"
+    },
+    {
+      "text": "Bavière",
+      "start": 56122,
+      "end": 56129,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamand",
+      "start": 56177,
+      "end": 56184,
+      "label": "MISC"
+    },
+    {
+      "text": "Chut",
+      "start": 56188,
+      "end": 56192,
+      "label": "MISC"
+    },
+    {
+      "text": "Plessis",
+      "start": 56440,
+      "end": 56447,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 56464,
+      "end": 56470,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 56526,
+      "end": 56535,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 56638,
+      "end": 56647,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 56916,
+      "end": 56935,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 57283,
+      "end": 57292,
+      "label": "PER"
+    },
+    {
+      "text": "Goulenoire",
+      "start": 57393,
+      "end": 57403,
+      "label": "MISC"
+    },
+    {
+      "text": "Un sou",
+      "start": 57546,
+      "end": 57552,
+      "label": "MISC"
+    },
+    {
+      "text": "Viens",
+      "start": 57639,
+      "end": 57644,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 57650,
+      "end": 57659,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 57662,
+      "end": 57670,
+      "label": "PER"
+    },
+    {
+      "text": "Nenni",
+      "start": 57852,
+      "end": 57857,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 57863,
+      "end": 57872,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 58375,
+      "end": 58384,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 58838,
+      "end": 58843,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 59055,
+      "end": 59064,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 59586,
+      "end": 59591,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Cyr",
+      "start": 59614,
+      "end": 59623,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 59654,
+      "end": 59661,
+      "label": "MISC"
+    },
+    {
+      "text": "Touraine",
+      "start": 59794,
+      "end": 59802,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 60530,
+      "end": 60538,
+      "label": "LOC"
+    },
+    {
+      "text": "Goulenoire",
+      "start": 60966,
+      "end": 60976,
+      "label": "MISC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 61271,
+      "end": 61279,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 61298,
+      "end": 61307,
+      "label": "PER"
+    },
+    {
+      "text": "Flamands",
+      "start": 61468,
+      "end": 61476,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Saint Vallier",
+      "start": 62096,
+      "end": 62119,
+      "label": "PER"
+    },
+    {
+      "text": "fenêtre de la vis",
+      "start": 62325,
+      "end": 62342,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 62452,
+      "end": 62461,
+      "label": "PER"
+    },
+    {
+      "text": "serrure",
+      "start": 63009,
+      "end": 63016,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 63546,
+      "end": 63554,
+      "label": "LOC"
+    },
+    {
+      "text": "Malmaison",
+      "start": 63564,
+      "end": 63573,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 63677,
+      "end": 63690,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 63703,
+      "end": 63708,
+      "label": "LOC"
+    },
+    {
+      "text": "Escrignoles",
+      "start": 63761,
+      "end": 63772,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 63839,
+      "end": 63847,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 63996,
+      "end": 64005,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 64243,
+      "end": 64252,
+      "label": "PER"
+    },
+    {
+      "text": "Goulenoire",
+      "start": 64356,
+      "end": 64366,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 64683,
+      "end": 64692,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 65666,
+      "end": 65679,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 66035,
+      "end": 66048,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 66086,
+      "end": 66092,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 66224,
+      "end": 66232,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 66303,
+      "end": 66312,
+      "label": "PER"
+    },
+    {
+      "text": "Bonne",
+      "start": 66332,
+      "end": 66337,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 66407,
+      "end": 66411,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyons",
+      "start": 66581,
+      "end": 66587,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 66598,
+      "end": 66606,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 66634,
+      "end": 66641,
+      "label": "MISC"
+    },
+    {
+      "text": "Coyctier",
+      "start": 66670,
+      "end": 66678,
+      "label": "PER"
+    },
+    {
+      "text": "Olivier le Daim",
+      "start": 66695,
+      "end": 66710,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 66820,
+      "end": 66827,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 66993,
+      "end": 66999,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 67075,
+      "end": 67079,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamand",
+      "start": 67093,
+      "end": 67100,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 67129,
+      "end": 67138,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 67179,
+      "end": 67187,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 67210,
+      "end": 67214,
+      "label": "MISC"
+    },
+    {
+      "text": "Oosterlinck",
+      "start": 67370,
+      "end": 67381,
+      "label": "PER"
+    },
+    {
+      "text": "Bavière",
+      "start": 67649,
+      "end": 67656,
+      "label": "LOC"
+    },
+    {
+      "text": "Figurez",
+      "start": 68128,
+      "end": 68135,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 68678,
+      "end": 68682,
+      "label": "MISC"
+    },
+    {
+      "text": "Le roi",
+      "start": 69113,
+      "end": 69119,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 69344,
+      "end": 69351,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 69474,
+      "end": 69483,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 69587,
+      "end": 69591,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI sourit",
+      "start": 69684,
+      "end": 69699,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 69843,
+      "end": 69848,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 69855,
+      "end": 69862,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 70953,
+      "end": 70962,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis lès Tours",
+      "start": 71197,
+      "end": 71214,
+      "label": "MISC"
+    },
+    {
+      "text": "Goulenoire",
+      "start": 71282,
+      "end": 71292,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 71353,
+      "end": 71362,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 72035,
+      "end": 72043,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 72629,
+      "end": 72634,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 72689,
+      "end": 72694,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Saint Vallier",
+      "start": 73069,
+      "end": 73091,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 73614,
+      "end": 73618,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie",
+      "start": 73728,
+      "end": 73733,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 74043,
+      "end": 74049,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie",
+      "start": 74354,
+      "end": 74359,
+      "label": "MISC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 74541,
+      "end": 74549,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie",
+      "start": 74699,
+      "end": 74704,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 74851,
+      "end": 74857,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 74897,
+      "end": 74901,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 74930,
+      "end": 74938,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 74960,
+      "end": 74967,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 75049,
+      "end": 75058,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 75249,
+      "end": 75268,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 75327,
+      "end": 75331,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 75444,
+      "end": 75448,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristan",
+      "start": 75462,
+      "end": 75469,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 75512,
+      "end": 75534,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 75624,
+      "end": 75631,
+      "label": "PER"
+    },
+    {
+      "text": "Estouteville",
+      "start": 75644,
+      "end": 75656,
+      "label": "LOC"
+    },
+    {
+      "text": "Ventre Mahom",
+      "start": 75787,
+      "end": 75799,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 76061,
+      "end": 76083,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 76378,
+      "end": 76385,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 76470,
+      "end": 76479,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 76602,
+      "end": 76606,
+      "label": "PER"
+    },
+    {
+      "text": "Mon bon Tristan",
+      "start": 76659,
+      "end": 76674,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 77031,
+      "end": 77035,
+      "label": "MISC"
+    },
+    {
+      "text": "Égypte",
+      "start": 77104,
+      "end": 77110,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh",
+      "start": 77215,
+      "end": 77217,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 77272,
+      "end": 77279,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 77295,
+      "end": 77299,
+      "label": "MISC"
+    },
+    {
+      "text": "larron",
+      "start": 77309,
+      "end": 77315,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 77412,
+      "end": 77434,
+      "label": "PER"
+    },
+    {
+      "text": "serrure",
+      "start": 77441,
+      "end": 77448,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 77500,
+      "end": 77507,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 77528,
+      "end": 77532,
+      "label": "MISC"
+    },
+    {
+      "text": "saint chevalet",
+      "start": 77589,
+      "end": 77603,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 77612,
+      "end": 77619,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 77623,
+      "end": 77628,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 77652,
+      "end": 77661,
+      "label": "PER"
+    },
+    {
+      "text": "Emmenez",
+      "start": 77665,
+      "end": 77672,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 77692,
+      "end": 77714,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Mûrier",
+      "start": 77967,
+      "end": 77980,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 78265,
+      "end": 78274,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 78428,
+      "end": 78435,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe Goulenoire",
+      "start": 78697,
+      "end": 78716,
+      "label": "PER"
+    },
+    {
+      "text": "Malemaison",
+      "start": 78837,
+      "end": 78847,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 78863,
+      "end": 78872,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 78977,
+      "end": 78984,
+      "label": "PER"
+    },
+    {
+      "text": "Poussez",
+      "start": 79140,
+      "end": 79147,
+      "label": "PER"
+    },
+    {
+      "text": "Place",
+      "start": 79472,
+      "end": 79477,
+      "label": "LOC"
+    },
+    {
+      "text": "Tristan",
+      "start": 79506,
+      "end": 79513,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 79905,
+      "end": 79927,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 79995,
+      "end": 80003,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie de Saint Vallier",
+      "start": 80014,
+      "end": 80036,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 80529,
+      "end": 80551,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Saint Vallier",
+      "start": 80895,
+      "end": 80917,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 80991,
+      "end": 80998,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 81257,
+      "end": 81262,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 81352,
+      "end": 81359,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristan",
+      "start": 81926,
+      "end": 81933,
+      "label": "PER"
+    },
+    {
+      "text": "Mûrier",
+      "start": 81959,
+      "end": 81965,
+      "label": "LOC"
+    },
+    {
+      "text": "bride",
+      "start": 82053,
+      "end": 82058,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 82165,
+      "end": 82171,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 82305,
+      "end": 82312,
+      "label": "MISC"
+    },
+    {
+      "text": "Plessis lès Tours",
+      "start": 82491,
+      "end": 82508,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 82541,
+      "end": 82548,
+      "label": "MISC"
+    },
+    {
+      "text": "Tristan",
+      "start": 82627,
+      "end": 82634,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 82951,
+      "end": 82958,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 82988,
+      "end": 82994,
+      "label": "PER"
+    },
+    {
+      "text": "Ayez bon courage !",
+      "start": 83059,
+      "end": 83077,
+      "label": "MISC"
+    },
+    {
+      "text": "Quentin Durward",
+      "start": 83348,
+      "end": 83363,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis lès Tours",
+      "start": 83400,
+      "end": 83417,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 83538,
+      "end": 83542,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 83549,
+      "end": 83554,
+      "label": "LOC"
+    },
+    {
+      "text": "canal Sainte Anne",
+      "start": 83570,
+      "end": 83587,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 83614,
+      "end": 83622,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Beaujeu",
+      "start": 83656,
+      "end": 83673,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 83725,
+      "end": 83730,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 83737,
+      "end": 83744,
+      "label": "MISC"
+    },
+    {
+      "text": "Bréhémont",
+      "start": 83871,
+      "end": 83880,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 84105,
+      "end": 84112,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 84140,
+      "end": 84148,
+      "label": "PER"
+    },
+    {
+      "text": "Plexitium",
+      "start": 84392,
+      "end": 84401,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 84657,
+      "end": 84665,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 84761,
+      "end": 84766,
+      "label": "LOC"
+    },
+    {
+      "text": "Choisille",
+      "start": 84824,
+      "end": 84833,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Cyr",
+      "start": 84863,
+      "end": 84872,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 85039,
+      "end": 85044,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 85137,
+      "end": 85145,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 85241,
+      "end": 85253,
+      "label": "PER"
+    },
+    {
+      "text": "Chambord",
+      "start": 85256,
+      "end": 85264,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 85286,
+      "end": 85295,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 85331,
+      "end": 85339,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 85498,
+      "end": 85506,
+      "label": "PER"
+    },
+    {
+      "text": "Délivré",
+      "start": 85675,
+      "end": 85682,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 85724,
+      "end": 85733,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 85772,
+      "end": 85781,
+      "label": "LOC"
+    },
+    {
+      "text": "Marguerite",
+      "start": 85828,
+      "end": 85838,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 85853,
+      "end": 85862,
+      "label": "LOC"
+    },
+    {
+      "text": "Desquerdes",
+      "start": 85888,
+      "end": 85898,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 85932,
+      "end": 85939,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 86471,
+      "end": 86479,
+      "label": "PER"
+    },
+    {
+      "text": "Toussaint",
+      "start": 86635,
+      "end": 86644,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 86700,
+      "end": 86706,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 86855,
+      "end": 86863,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 87390,
+      "end": 87396,
+      "label": "MISC"
+    },
+    {
+      "text": "Coyctier",
+      "start": 87466,
+      "end": 87474,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 87903,
+      "end": 87911,
+      "label": "PER"
+    },
+    {
+      "text": "Olivier le Daim",
+      "start": 88032,
+      "end": 88047,
+      "label": "PER"
+    },
+    {
+      "text": "Coyctier",
+      "start": 88062,
+      "end": 88070,
+      "label": "PER"
+    },
+    {
+      "text": "sire de Montrésor",
+      "start": 88334,
+      "end": 88351,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Dufou",
+      "start": 88356,
+      "end": 88366,
+      "label": "PER"
+    },
+    {
+      "text": "Montbazon",
+      "start": 88376,
+      "end": 88385,
+      "label": "LOC"
+    },
+    {
+      "text": "capitaine des Écossais",
+      "start": 88433,
+      "end": 88455,
+      "label": "PER"
+    },
+    {
+      "text": "Le roi",
+      "start": 88518,
+      "end": 88524,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 88825,
+      "end": 88832,
+      "label": "PER"
+    },
+    {
+      "text": "pont Sainte Anne",
+      "start": 88865,
+      "end": 88881,
+      "label": "LOC"
+    },
+    {
+      "text": "Plessis",
+      "start": 88931,
+      "end": 88938,
+      "label": "MISC"
+    },
+    {
+      "text": "Coyctier",
+      "start": 89070,
+      "end": 89078,
+      "label": "PER"
+    },
+    {
+      "text": "Pasques Dieu",
+      "start": 89082,
+      "end": 89094,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 89104,
+      "end": 89112,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 89117,
+      "end": 89123,
+      "label": "MISC"
+    },
+    {
+      "text": "Daim",
+      "start": 89346,
+      "end": 89350,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 89352,
+      "end": 89360,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 89487,
+      "end": 89491,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie de Saint Vallier",
+      "start": 89556,
+      "end": 89578,
+      "label": "PER"
+    },
+    {
+      "text": "Montbazon",
+      "start": 89683,
+      "end": 89692,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgueil",
+      "start": 89731,
+      "end": 89740,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 89831,
+      "end": 89849,
+      "label": "PER"
+    },
+    {
+      "text": "Coyctier d'un air inquiet",
+      "start": 89940,
+      "end": 89965,
+      "label": "MISC"
+    },
+    {
+      "text": "camelot brun",
+      "start": 90147,
+      "end": 90159,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 90210,
+      "end": 90218,
+      "label": "PER"
+    },
+    {
+      "text": "ordre de Saint Michel",
+      "start": 90279,
+      "end": 90300,
+      "label": "ORG"
+    },
+    {
+      "text": "Flandre",
+      "start": 91368,
+      "end": 91375,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 91807,
+      "end": 91817,
+      "label": "LOC"
+    },
+    {
+      "text": "Morts",
+      "start": 92028,
+      "end": 92033,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 92086,
+      "end": 92090,
+      "label": "MISC"
+    },
+    {
+      "text": "Coyctier",
+      "start": 92119,
+      "end": 92127,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 92203,
+      "end": 92207,
+      "label": "MISC"
+    },
+    {
+      "text": "Imbert de Bastarnay",
+      "start": 92281,
+      "end": 92300,
+      "label": "PER"
+    },
+    {
+      "text": "sire de Montrésor",
+      "start": 92302,
+      "end": 92319,
+      "label": "MISC"
+    },
+    {
+      "text": "Bridoré",
+      "start": 92326,
+      "end": 92333,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 92459,
+      "end": 92467,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 92482,
+      "end": 92487,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 92558,
+      "end": 92565,
+      "label": "MISC"
+    },
+    {
+      "text": "Sire",
+      "start": 92594,
+      "end": 92598,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 92682,
+      "end": 92690,
+      "label": "PER"
+    },
+    {
+      "text": "Holà",
+      "start": 92782,
+      "end": 92786,
+      "label": "LOC"
+    },
+    {
+      "text": "Dufou",
+      "start": 92788,
+      "end": 92793,
+      "label": "LOC"
+    },
+    {
+      "text": "Dufou",
+      "start": 92796,
+      "end": 92801,
+      "label": "PER"
+    },
+    {
+      "text": "Montbazon",
+      "start": 92815,
+      "end": 92824,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 92853,
+      "end": 92862,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Beaujeu",
+      "start": 92967,
+      "end": 92984,
+      "label": "PER"
+    },
+    {
+      "text": "Savez",
+      "start": 93032,
+      "end": 93037,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 93044,
+      "end": 93050,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 93175,
+      "end": 93181,
+      "label": "MISC"
+    },
+    {
+      "text": "mignonne",
+      "start": 93193,
+      "end": 93201,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 93334,
+      "end": 93342,
+      "label": "PER"
+    },
+    {
+      "text": "Poitiers",
+      "start": 93355,
+      "end": 93363,
+      "label": "LOC"
+    },
+    {
+      "text": "Le bonheur",
+      "start": 93446,
+      "end": 93456,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 93479,
+      "end": 93483,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie pleine de grâce",
+      "start": 93611,
+      "end": 93632,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 93782,
+      "end": 93787,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 93913,
+      "end": 93926,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridoré",
+      "start": 93962,
+      "end": 93969,
+      "label": "PER"
+    },
+    {
+      "text": "Dis",
+      "start": 94180,
+      "end": 94183,
+      "label": "MISC"
+    },
+    {
+      "text": "Hein",
+      "start": 94225,
+      "end": 94229,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 94232,
+      "end": 94236,
+      "label": "PER"
+    },
+    {
+      "text": "En dà, sire",
+      "start": 94256,
+      "end": 94267,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah bien !",
+      "start": 94618,
+      "end": 94627,
+      "label": "MISC"
+    },
+    {
+      "text": "Cornélius",
+      "start": 94707,
+      "end": 94716,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bavière",
+      "start": 94810,
+      "end": 94824,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 94866,
+      "end": 94871,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 94960,
+      "end": 94968,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 95266,
+      "end": 95270,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 95327,
+      "end": 95331,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 95428,
+      "end": 95432,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 95678,
+      "end": 95684,
+      "label": "MISC"
+    },
+    {
+      "text": "Sire",
+      "start": 95805,
+      "end": 95809,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 95882,
+      "end": 95890,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 95951,
+      "end": 95958,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Sassenage",
+      "start": 95974,
+      "end": 95992,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 96042,
+      "end": 96046,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 96214,
+      "end": 96218,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 96251,
+      "end": 96259,
+      "label": "PER"
+    },
+    {
+      "text": "Parle",
+      "start": 96291,
+      "end": 96296,
+      "label": "PER"
+    },
+    {
+      "text": "Cornélius",
+      "start": 96503,
+      "end": 96512,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 96541,
+      "end": 96545,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 96695,
+      "end": 96701,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 96767,
+      "end": 96775,
+      "label": "PER"
+    },
+    {
+      "text": "Pasques Dieu",
+      "start": 97201,
+      "end": 97213,
+      "label": "MISC"
+    },
+    {
+      "text": "Sire",
+      "start": 97273,
+      "end": 97277,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 97298,
+      "end": 97311,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 97434,
+      "end": 97442,
+      "label": "PER"
+    },
+    {
+      "text": "Retirez",
+      "start": 97504,
+      "end": 97511,
+      "label": "PER"
+    },
+    {
+      "text": "Conyngham",
+      "start": 97539,
+      "end": 97548,
+      "label": "PER"
+    },
+    {
+      "text": "Bridoré",
+      "start": 97646,
+      "end": 97653,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 97729,
+      "end": 97734,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 97790,
+      "end": 97795,
+      "label": "PER"
+    },
+    {
+      "text": "Georges d'Estouteville",
+      "start": 98118,
+      "end": 98140,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 98185,
+      "end": 98189,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Carpion !",
+      "start": 98194,
+      "end": 98209,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 98289,
+      "end": 98293,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Louis",
+      "start": 98527,
+      "end": 98538,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 98694,
+      "end": 98698,
+      "label": "MISC"
+    },
+    {
+      "text": "Marie",
+      "start": 98774,
+      "end": 98779,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 98841,
+      "end": 98849,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 99056,
+      "end": 99060,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 99078,
+      "end": 99091,
+      "label": "PER"
+    },
+    {
+      "text": "Plessis",
+      "start": 99208,
+      "end": 99215,
+      "label": "MISC"
+    },
+    {
+      "text": "Appuyé",
+      "start": 99241,
+      "end": 99247,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 99273,
+      "end": 99281,
+      "label": "PER"
+    },
+    {
+      "text": "Tristan",
+      "start": 99566,
+      "end": 99573,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 99667,
+      "end": 99671,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Vallier",
+      "start": 99953,
+      "end": 99966,
+      "label": "PER"
+    }
+  ]
+}

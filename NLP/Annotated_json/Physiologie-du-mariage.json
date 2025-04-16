@@ -1,0 +1,2296 @@
+{
+  "entities": [
+    {
+      "text": "PHYSIOLOGIE DU MARIAGE",
+      "start": 0,
+      "end": 22,
+      "label": "MISC"
+    },
+    {
+      "text": "MÈDITATIONS",
+      "start": 27,
+      "end": 38,
+      "label": "MISC"
+    },
+    {
+      "text": "PHILOSOPHE",
+      "start": 42,
+      "end": 52,
+      "label": "ORG"
+    },
+    {
+      "text": "BONHEUR",
+      "start": 71,
+      "end": 78,
+      "label": "MISC"
+    },
+    {
+      "text": "MALHEUR",
+      "start": 85,
+      "end": 92,
+      "label": "ORG"
+    },
+    {
+      "text": "AUTEUR",
+      "start": 255,
+      "end": 261,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 1313,
+      "end": 1327,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 1332,
+      "end": 1340,
+      "label": "PER"
+    },
+    {
+      "text": "Code civil",
+      "start": 1366,
+      "end": 1376,
+      "label": "MISC"
+    },
+    {
+      "text": "le Droit français",
+      "start": 1581,
+      "end": 1598,
+      "label": "ORG"
+    },
+    {
+      "text": "ADULTÈRE",
+      "start": 1607,
+      "end": 1615,
+      "label": "MISC"
+    },
+    {
+      "text": "Immense",
+      "start": 1654,
+      "end": 1661,
+      "label": "LOC"
+    },
+    {
+      "text": "Les Larmes",
+      "start": 1767,
+      "end": 1777,
+      "label": "LOC"
+    },
+    {
+      "text": "Honte",
+      "start": 1782,
+      "end": 1787,
+      "label": "LOC"
+    },
+    {
+      "text": "Haine",
+      "start": 1792,
+      "end": 1797,
+      "label": "LOC"
+    },
+    {
+      "text": "Terreur",
+      "start": 1802,
+      "end": 1809,
+      "label": "MISC"
+    },
+    {
+      "text": "Crimes secrets",
+      "start": 1815,
+      "end": 1829,
+      "label": "ORG"
+    },
+    {
+      "text": "Guerres",
+      "start": 1845,
+      "end": 1852,
+      "label": "MISC"
+    },
+    {
+      "text": "Familles",
+      "start": 1858,
+      "end": 1866,
+      "label": "LOC"
+    },
+    {
+      "text": "Malheur",
+      "start": 1881,
+      "end": 1888,
+      "label": "LOC"
+    },
+    {
+      "text": "ADULTÈRE",
+      "start": 1981,
+      "end": 1989,
+      "label": "MISC"
+    },
+    {
+      "text": "Adultère",
+      "start": 2158,
+      "end": 2166,
+      "label": "PER"
+    },
+    {
+      "text": "Mariage",
+      "start": 2349,
+      "end": 2356,
+      "label": "LOC"
+    },
+    {
+      "text": "Périgord",
+      "start": 2873,
+      "end": 2881,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte",
+      "start": 2902,
+      "end": 2908,
+      "label": "PER"
+    },
+    {
+      "text": "Adultère",
+      "start": 2933,
+      "end": 2941,
+      "label": "LOC"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 4654,
+      "end": 4668,
+      "label": "PER"
+    },
+    {
+      "text": "Faust",
+      "start": 4687,
+      "end": 4692,
+      "label": "LOC"
+    },
+    {
+      "text": "Broken",
+      "start": 4726,
+      "end": 4732,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 4874,
+      "end": 4878,
+      "label": "LOC"
+    },
+    {
+      "text": "Hardy",
+      "start": 5005,
+      "end": 5010,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 5139,
+      "end": 5145,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 5175,
+      "end": 5183,
+      "label": "PER"
+    },
+    {
+      "text": "Trinque",
+      "start": 5298,
+      "end": 5305,
+      "label": "LOC"
+    },
+    {
+      "text": "Trilby littéraire",
+      "start": 5360,
+      "end": 5377,
+      "label": "MISC"
+    },
+    {
+      "text": "la Seine",
+      "start": 6411,
+      "end": 6419,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut sur un vêtement propre",
+      "start": 6469,
+      "end": 6500,
+      "label": "ORG"
+    },
+    {
+      "text": "CONSERVER",
+      "start": 6679,
+      "end": 6688,
+      "label": "ORG"
+    },
+    {
+      "text": "SUBSTANCES",
+      "start": 6693,
+      "end": 6703,
+      "label": "MISC"
+    },
+    {
+      "text": "ALIMENTAIRES",
+      "start": 6704,
+      "end": 6716,
+      "label": "MISC"
+    },
+    {
+      "text": "L'ART D'EMPÉCHER",
+      "start": 6718,
+      "end": 6734,
+      "label": "MISC"
+    },
+    {
+      "text": "CHEMINÉES",
+      "start": 6739,
+      "end": 6748,
+      "label": "MISC"
+    },
+    {
+      "text": "FUMER",
+      "start": 6752,
+      "end": 6757,
+      "label": "MISC"
+    },
+    {
+      "text": "L'ART DE FAIRE",
+      "start": 6759,
+      "end": 6773,
+      "label": "MISC"
+    },
+    {
+      "text": "BONS MORTIERS",
+      "start": 6777,
+      "end": 6790,
+      "label": "MISC"
+    },
+    {
+      "text": "L'ART DE METTRE SA CRAVATE",
+      "start": 6792,
+      "end": 6818,
+      "label": "MISC"
+    },
+    {
+      "text": "L'ART DE DÉCOUPER",
+      "start": 6820,
+      "end": 6837,
+      "label": "MISC"
+    },
+    {
+      "text": "VIANDES",
+      "start": 6842,
+      "end": 6849,
+      "label": "MISC"
+    },
+    {
+      "text": "Démon",
+      "start": 8021,
+      "end": 8026,
+      "label": "PER"
+    },
+    {
+      "text": "PHYSIOLOGIE DU MARIAGE",
+      "start": 8204,
+      "end": 8226,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 8563,
+      "end": 8568,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 8759,
+      "end": 8763,
+      "label": "LOC"
+    },
+    {
+      "text": "Béguinage",
+      "start": 9013,
+      "end": 9022,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 9157,
+      "end": 9162,
+      "label": "MISC"
+    },
+    {
+      "text": "christ",
+      "start": 9938,
+      "end": 9944,
+      "label": "PER"
+    },
+    {
+      "text": "Van Ostroëm",
+      "start": 10932,
+      "end": 10943,
+      "label": "PER"
+    },
+    {
+      "text": "Belges",
+      "start": 11120,
+      "end": 11126,
+      "label": "LOC"
+    },
+    {
+      "text": "Belges",
+      "start": 11411,
+      "end": 11417,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 11846,
+      "end": 11851,
+      "label": "LOC"
+    },
+    {
+      "text": "Java",
+      "start": 12047,
+      "end": 12051,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 13201,
+      "end": 13209,
+      "label": "PER"
+    },
+    {
+      "text": "La seconde",
+      "start": 13330,
+      "end": 13340,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 13381,
+      "end": 13386,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 13786,
+      "end": 13790,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 14669,
+      "end": 14674,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut",
+      "start": 14738,
+      "end": 14746,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 15154,
+      "end": 15160,
+      "label": "LOC"
+    },
+    {
+      "text": "Laïs",
+      "start": 15407,
+      "end": 15411,
+      "label": "LOC"
+    },
+    {
+      "text": "Belges",
+      "start": 16821,
+      "end": 16827,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 17240,
+      "end": 17247,
+      "label": "ORG"
+    },
+    {
+      "text": "trouverez",
+      "start": 17601,
+      "end": 17610,
+      "label": "LOC"
+    },
+    {
+      "text": "Raison",
+      "start": 18014,
+      "end": 18020,
+      "label": "PER"
+    },
+    {
+      "text": "Folie",
+      "start": 18068,
+      "end": 18073,
+      "label": "LOC"
+    },
+    {
+      "text": "Panurge",
+      "start": 18096,
+      "end": 18103,
+      "label": "LOC"
+    },
+    {
+      "text": "Hercule",
+      "start": 18226,
+      "end": 18233,
+      "label": "PER"
+    },
+    {
+      "text": "Meudon",
+      "start": 18258,
+      "end": 18264,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélas !",
+      "start": 18509,
+      "end": 18516,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 18517,
+      "end": 18523,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 19149,
+      "end": 19154,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 19276,
+      "end": 19281,
+      "label": "PER"
+    },
+    {
+      "text": "ÉTUDE",
+      "start": 20297,
+      "end": 20302,
+      "label": "MISC"
+    },
+    {
+      "text": "GOÛT",
+      "start": 20408,
+      "end": 20412,
+      "label": "ORG"
+    },
+    {
+      "text": "MARIAGE",
+      "start": 20474,
+      "end": 20481,
+      "label": "ORG"
+    },
+    {
+      "text": "NOUS",
+      "start": 20864,
+      "end": 20868,
+      "label": "MISC"
+    },
+    {
+      "text": "Brillat Savarin",
+      "start": 20908,
+      "end": 20923,
+      "label": "PER"
+    },
+    {
+      "text": "PHYSIOLOGIE DU GOUT",
+      "start": 20939,
+      "end": 20958,
+      "label": "MISC"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 20978,
+      "end": 20986,
+      "label": "MISC"
+    },
+    {
+      "text": "CONSIDÉRATIONS GÉNÉRALES",
+      "start": 20994,
+      "end": 21018,
+      "label": "MISC"
+    },
+    {
+      "text": "DIDEROT",
+      "start": 21144,
+      "end": 21151,
+      "label": "MISC"
+    },
+    {
+      "text": "Supplément au Voyage de Bougainville",
+      "start": 21153,
+      "end": 21189,
+      "label": "MISC"
+    },
+    {
+      "text": "SUJET",
+      "start": 21209,
+      "end": 21214,
+      "label": "ORG"
+    },
+    {
+      "text": "Viens",
+      "start": 23283,
+      "end": 23288,
+      "label": "PER"
+    },
+    {
+      "text": "Lycurgue",
+      "start": 23343,
+      "end": 23351,
+      "label": "PER"
+    },
+    {
+      "text": "Tartares",
+      "start": 23388,
+      "end": 23396,
+      "label": "MISC"
+    },
+    {
+      "text": "Ottomans",
+      "start": 23476,
+      "end": 23484,
+      "label": "LOC"
+    },
+    {
+      "text": "Agar",
+      "start": 23794,
+      "end": 23798,
+      "label": "MISC"
+    },
+    {
+      "text": "Code",
+      "start": 23871,
+      "end": 23875,
+      "label": "MISC"
+    },
+    {
+      "text": "Sanchez",
+      "start": 24107,
+      "end": 24114,
+      "label": "LOC"
+    },
+    {
+      "text": "Matrimonio",
+      "start": 24414,
+      "end": 24424,
+      "label": "MISC"
+    },
+    {
+      "text": "Physiologie du Mariage",
+      "start": 24751,
+      "end": 24773,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Esprit",
+      "start": 25306,
+      "end": 25318,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 25374,
+      "end": 25377,
+      "label": "LOC"
+    },
+    {
+      "text": "guerre de Troie",
+      "start": 25389,
+      "end": 25404,
+      "label": "MISC"
+    },
+    {
+      "text": "Hélène",
+      "start": 25413,
+      "end": 25419,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Maintenon",
+      "start": 25428,
+      "end": 25447,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 25468,
+      "end": 25477,
+      "label": "PER"
+    },
+    {
+      "text": "Contemporaine",
+      "start": 25489,
+      "end": 25502,
+      "label": "LOC"
+    },
+    {
+      "text": "Voudrais",
+      "start": 25539,
+      "end": 25547,
+      "label": "LOC"
+    },
+    {
+      "text": "Ambition",
+      "start": 25666,
+      "end": 25674,
+      "label": "PER"
+    },
+    {
+      "text": "Par Bonté",
+      "start": 25700,
+      "end": 25709,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Colère",
+      "start": 25762,
+      "end": 25772,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Dédain",
+      "start": 25808,
+      "end": 25818,
+      "label": "MISC"
+    },
+    {
+      "text": "Ennui",
+      "start": 25850,
+      "end": 25855,
+      "label": "PER"
+    },
+    {
+      "text": "Folie",
+      "start": 25893,
+      "end": 25898,
+      "label": "LOC"
+    },
+    {
+      "text": "Par Gageure",
+      "start": 25924,
+      "end": 25935,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 25953,
+      "end": 25963,
+      "label": "PER"
+    },
+    {
+      "text": "Par Honneur",
+      "start": 25966,
+      "end": 25977,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges Dandin",
+      "start": 25985,
+      "end": 25999,
+      "label": "PER"
+    },
+    {
+      "text": "Intérêt",
+      "start": 26006,
+      "end": 26013,
+      "label": "LOC"
+    },
+    {
+      "text": "Par Jeunesse",
+      "start": 26051,
+      "end": 26063,
+      "label": "PER"
+    },
+    {
+      "text": "Par Laideur",
+      "start": 26100,
+      "end": 26111,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Machiavélisme",
+      "start": 26156,
+      "end": 26173,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Nécessité",
+      "start": 26216,
+      "end": 26229,
+      "label": "PER"
+    },
+    {
+      "text": "Par Obligation",
+      "start": 26266,
+      "end": 26280,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Passion",
+      "start": 26315,
+      "end": 26326,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Querelle",
+      "start": 26361,
+      "end": 26373,
+      "label": "PER"
+    },
+    {
+      "text": "Par Reconnaissance",
+      "start": 26398,
+      "end": 26416,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Sagesse",
+      "start": 26453,
+      "end": 26464,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Testament",
+      "start": 26504,
+      "end": 26517,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Vieillesse",
+      "start": 26587,
+      "end": 26601,
+      "label": "MISC"
+    },
+    {
+      "text": "Par Usage",
+      "start": 26624,
+      "end": 26633,
+      "label": "MISC"
+    },
+    {
+      "text": "Le X",
+      "start": 26664,
+      "end": 26668,
+      "label": "MISC"
+    },
+    {
+      "text": "Yatidi",
+      "start": 26788,
+      "end": 26794,
+      "label": "PER"
+    },
+    {
+      "text": "Turcs",
+      "start": 26867,
+      "end": 26872,
+      "label": "LOC"
+    },
+    {
+      "text": "Par Zèle",
+      "start": 26875,
+      "end": 26883,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Saint Aignan",
+      "start": 26894,
+      "end": 26913,
+      "label": "PER"
+    },
+    {
+      "text": "Barrabas de la Passion",
+      "start": 27219,
+      "end": 27241,
+      "label": "MISC"
+    },
+    {
+      "text": "Permettez",
+      "start": 27480,
+      "end": 27489,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 27513,
+      "end": 27521,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 27563,
+      "end": 27567,
+      "label": "MISC"
+    },
+    {
+      "text": "Attendez",
+      "start": 27632,
+      "end": 27640,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 27865,
+      "end": 27869,
+      "label": "MISC"
+    },
+    {
+      "text": "Physiologie du Mariage",
+      "start": 28210,
+      "end": 28232,
+      "label": "MISC"
+    },
+    {
+      "text": "Pois",
+      "start": 29008,
+      "end": 29012,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 29039,
+      "end": 29047,
+      "label": "PER"
+    },
+    {
+      "text": "Braguettes",
+      "start": 29078,
+      "end": 29088,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Michel",
+      "start": 29442,
+      "end": 29454,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 29592,
+      "end": 29598,
+      "label": "LOC"
+    },
+    {
+      "text": "Disciples de Panurge",
+      "start": 29624,
+      "end": 29644,
+      "label": "PER"
+    },
+    {
+      "text": "Mairie",
+      "start": 31344,
+      "end": 31350,
+      "label": "LOC"
+    },
+    {
+      "text": "Ciel",
+      "start": 31360,
+      "end": 31364,
+      "label": "LOC"
+    },
+    {
+      "text": "Domaine",
+      "start": 31389,
+      "end": 31396,
+      "label": "LOC"
+    },
+    {
+      "text": "Mort à mon chevet pour défendre l'accès du lit nuptial",
+      "start": 32636,
+      "end": 32690,
+      "label": "MISC"
+    },
+    {
+      "text": "Repos",
+      "start": 32788,
+      "end": 32793,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 32970,
+      "end": 32974,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation",
+      "start": 34265,
+      "end": 34275,
+      "label": "MISC"
+    },
+    {
+      "text": "Cosaques",
+      "start": 34590,
+      "end": 34598,
+      "label": "MISC"
+    },
+    {
+      "text": "Levez",
+      "start": 34687,
+      "end": 34692,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 34914,
+      "end": 34922,
+      "label": "PER"
+    },
+    {
+      "text": "Héraclite",
+      "start": 34996,
+      "end": 35005,
+      "label": "PER"
+    },
+    {
+      "text": "Démocrite",
+      "start": 35009,
+      "end": 35018,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 35760,
+      "end": 35767,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 35960,
+      "end": 35962,
+      "label": "MISC"
+    },
+    {
+      "text": "MÉDITATION II",
+      "start": 36753,
+      "end": 36766,
+      "label": "MISC"
+    },
+    {
+      "text": "STATISTIQUE",
+      "start": 36768,
+      "end": 36779,
+      "label": "MISC"
+    },
+    {
+      "text": "CONJUGALE",
+      "start": 36780,
+      "end": 36789,
+      "label": "MISC"
+    },
+    {
+      "text": "Administration",
+      "start": 36793,
+      "end": 36807,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 36876,
+      "end": 36885,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 37187,
+      "end": 37192,
+      "label": "LOC"
+    },
+    {
+      "text": "Administration",
+      "start": 37711,
+      "end": 37725,
+      "label": "ORG"
+    },
+    {
+      "text": "Assuérus",
+      "start": 38030,
+      "end": 38038,
+      "label": "MISC"
+    },
+    {
+      "text": "Perse",
+      "start": 38082,
+      "end": 38087,
+      "label": "LOC"
+    },
+    {
+      "text": "Esther",
+      "start": 38097,
+      "end": 38103,
+      "label": "MISC"
+    },
+    {
+      "text": "Bible",
+      "start": 38254,
+      "end": 38259,
+      "label": "MISC"
+    },
+    {
+      "text": "Administration",
+      "start": 38404,
+      "end": 38418,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 38465,
+      "end": 38471,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 38821,
+      "end": 38827,
+      "label": "LOC"
+    },
+    {
+      "text": "Duméril",
+      "start": 39403,
+      "end": 39410,
+      "label": "LOC"
+    },
+    {
+      "text": "Zoologie analytique",
+      "start": 39420,
+      "end": 39439,
+      "label": "MISC"
+    },
+    {
+      "text": "Bory Saint Vincent",
+      "start": 39460,
+      "end": 39478,
+      "label": "PER"
+    },
+    {
+      "text": "Orang",
+      "start": 39509,
+      "end": 39514,
+      "label": "ORG"
+    },
+    {
+      "text": "Si",
+      "start": 39547,
+      "end": 39549,
+      "label": "MISC"
+    },
+    {
+      "text": "Jardin des Plantes",
+      "start": 40386,
+      "end": 40404,
+      "label": "LOC"
+    },
+    {
+      "text": "Bimane",
+      "start": 40434,
+      "end": 40440,
+      "label": "MISC"
+    },
+    {
+      "text": "Physiologie",
+      "start": 40502,
+      "end": 40513,
+      "label": "MISC"
+    },
+    {
+      "text": "mange t",
+      "start": 41908,
+      "end": 41915,
+      "label": "PER"
+    },
+    {
+      "text": "Curieuse",
+      "start": 42009,
+      "end": 42017,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimer",
+      "start": 42172,
+      "end": 42177,
+      "label": "PER"
+    },
+    {
+      "text": "Indienne",
+      "start": 42477,
+      "end": 42485,
+      "label": "LOC"
+    },
+    {
+      "text": "Thibet",
+      "start": 42523,
+      "end": 42529,
+      "label": "LOC"
+    },
+    {
+      "text": "Tarare",
+      "start": 42535,
+      "end": 42541,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruxelles",
+      "start": 42570,
+      "end": 42579,
+      "label": "LOC"
+    },
+    {
+      "text": "Visapour",
+      "start": 42655,
+      "end": 42663,
+      "label": "PER"
+    },
+    {
+      "text": "Sèvres",
+      "start": 42732,
+      "end": 42738,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 43159,
+      "end": 43168,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 43174,
+      "end": 43180,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 43223,
+      "end": 43229,
+      "label": "LOC"
+    },
+    {
+      "text": "Orang",
+      "start": 45060,
+      "end": 45065,
+      "label": "ORG"
+    },
+    {
+      "text": "Disons",
+      "start": 45334,
+      "end": 45340,
+      "label": "ORG"
+    },
+    {
+      "text": "Femme",
+      "start": 45891,
+      "end": 45896,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 46463,
+      "end": 46468,
+      "label": "LOC"
+    },
+    {
+      "text": "Pompadours de village",
+      "start": 46770,
+      "end": 46791,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 46867,
+      "end": 46873,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 46987,
+      "end": 46993,
+      "label": "LOC"
+    },
+    {
+      "text": "Soumettons",
+      "start": 47094,
+      "end": 47104,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 47842,
+      "end": 47846,
+      "label": "MISC"
+    },
+    {
+      "text": "Bureau des Longitudes",
+      "start": 47869,
+      "end": 47890,
+      "label": "ORG"
+    },
+    {
+      "text": "A",
+      "start": 48034,
+      "end": 48035,
+      "label": "LOC"
+    },
+    {
+      "text": "B",
+      "start": 48037,
+      "end": 48038,
+      "label": "LOC"
+    },
+    {
+      "text": "C de la vie",
+      "start": 48040,
+      "end": 48051,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Camille",
+      "start": 48599,
+      "end": 48613,
+      "label": "PER"
+    },
+    {
+      "text": "Baal",
+      "start": 49090,
+      "end": 49094,
+      "label": "PER"
+    },
+    {
+      "text": "dira t on",
+      "start": 49967,
+      "end": 49976,
+      "label": "PER"
+    },
+    {
+      "text": "Bimanes femelles",
+      "start": 50646,
+      "end": 50662,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation de Statistique conjugale",
+      "start": 50798,
+      "end": 50833,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 51493,
+      "end": 51499,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 51972,
+      "end": 51976,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 52372,
+      "end": 52378,
+      "label": "LOC"
+    },
+    {
+      "text": "brebis blanches",
+      "start": 52413,
+      "end": 52428,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 53500,
+      "end": 53506,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 54633,
+      "end": 54642,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditations entières",
+      "start": 54827,
+      "end": 54847,
+      "label": "MISC"
+    },
+    {
+      "text": "MÉDITATION III",
+      "start": 54887,
+      "end": 54901,
+      "label": "PER"
+    },
+    {
+      "text": "FEMME HONNÊTE",
+      "start": 54909,
+      "end": 54922,
+      "label": "ORG"
+    },
+    {
+      "text": "Méditation précédente",
+      "start": 54927,
+      "end": 54948,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 54982,
+      "end": 54988,
+      "label": "LOC"
+    },
+    {
+      "text": "Panoramas",
+      "start": 55545,
+      "end": 55554,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 55558,
+      "end": 55563,
+      "label": "LOC"
+    },
+    {
+      "text": "Variétés",
+      "start": 56122,
+      "end": 56130,
+      "label": "LOC"
+    },
+    {
+      "text": "Frascati",
+      "start": 56169,
+      "end": 56177,
+      "label": "ORG"
+    },
+    {
+      "text": "Règle générale",
+      "start": 56297,
+      "end": 56311,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 56374,
+      "end": 56379,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 56595,
+      "end": 56603,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 56648,
+      "end": 56653,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56890,
+      "end": 56895,
+      "label": "LOC"
+    },
+    {
+      "text": "Flaner",
+      "start": 56933,
+      "end": 56939,
+      "label": "ORG"
+    },
+    {
+      "text": "Limousin",
+      "start": 57208,
+      "end": 57216,
+      "label": "LOC"
+    },
+    {
+      "text": "Flaner",
+      "start": 57287,
+      "end": 57293,
+      "label": "PER"
+    },
+    {
+      "text": "Chérubin",
+      "start": 57922,
+      "end": 57930,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 58101,
+      "end": 58109,
+      "label": "MISC"
+    },
+    {
+      "text": "Moi !",
+      "start": 58132,
+      "end": 58137,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 58415,
+      "end": 58419,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 58518,
+      "end": 58522,
+      "label": "MISC"
+    },
+    {
+      "text": "Buffon",
+      "start": 58526,
+      "end": 58532,
+      "label": "PER"
+    },
+    {
+      "text": "bipède",
+      "start": 58578,
+      "end": 58584,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 58655,
+      "end": 58659,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 58799,
+      "end": 58803,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 58942,
+      "end": 58944,
+      "label": "MISC"
+    },
+    {
+      "text": "II",
+      "start": 60380,
+      "end": 60382,
+      "label": "MISC"
+    },
+    {
+      "text": "IV",
+      "start": 60509,
+      "end": 60511,
+      "label": "MISC"
+    },
+    {
+      "text": "VI",
+      "start": 60656,
+      "end": 60658,
+      "label": "MISC"
+    },
+    {
+      "text": "VII",
+      "start": 60806,
+      "end": 60809,
+      "label": "MISC"
+    },
+    {
+      "text": "pierre de lierre",
+      "start": 60898,
+      "end": 60914,
+      "label": "PER"
+    },
+    {
+      "text": "VIII",
+      "start": 61060,
+      "end": 61064,
+      "label": "MISC"
+    },
+    {
+      "text": "IX",
+      "start": 61209,
+      "end": 61211,
+      "label": "MISC"
+    },
+    {
+      "text": "Rivoli",
+      "start": 61261,
+      "end": 61267,
+      "label": "PER"
+    },
+    {
+      "text": "Castiglione",
+      "start": 61271,
+      "end": 61282,
+      "label": "PER"
+    },
+    {
+      "text": "XI",
+      "start": 61537,
+      "end": 61539,
+      "label": "MISC"
+    },
+    {
+      "text": "XII",
+      "start": 61717,
+      "end": 61720,
+      "label": "MISC"
+    },
+    {
+      "text": "XIII",
+      "start": 61783,
+      "end": 61787,
+      "label": "MISC"
+    },
+    {
+      "text": "département de l'Ardèche",
+      "start": 61884,
+      "end": 61908,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 62309,
+      "end": 62314,
+      "label": "LOC"
+    },
+    {
+      "text": "Trésor",
+      "start": 62612,
+      "end": 62618,
+      "label": "LOC"
+    },
+    {
+      "text": "Trois cent mille propriétaires jouissant de trois mille cinq cents francs",
+      "start": 62656,
+      "end": 62729,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 62900,
+      "end": 62904,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 63285,
+      "end": 63294,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 63297,
+      "end": 63302,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand",
+      "start": 63477,
+      "end": 63482,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 63503,
+      "end": 63510,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 63651,
+      "end": 63658,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 63772,
+      "end": 63779,
+      "label": "LOC"
+    },
+    {
+      "text": "Pactole",
+      "start": 63942,
+      "end": 63949,
+      "label": "LOC"
+    },
+    {
+      "text": "Industrie",
+      "start": 64064,
+      "end": 64073,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation",
+      "start": 64380,
+      "end": 64390,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 64572,
+      "end": 64578,
+      "label": "LOC"
+    },
+    {
+      "text": "Biren",
+      "start": 66312,
+      "end": 66317,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Courlande",
+      "start": 66364,
+      "end": 66385,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 67634,
+      "end": 67640,
+      "label": "LOC"
+    },
+    {
+      "text": "MÉDITATION IV",
+      "start": 68184,
+      "end": 68197,
+      "label": "PER"
+    },
+    {
+      "text": "FEMME VERTUEUSE",
+      "start": 68205,
+      "end": 68220,
+      "label": "ORG"
+    },
+    {
+      "text": "Bimanes",
+      "start": 68531,
+      "end": 68538,
+      "label": "LOC"
+    },
+    {
+      "text": "Marceau",
+      "start": 68641,
+      "end": 68648,
+      "label": "MISC"
+    },
+    {
+      "text": "Masséna",
+      "start": 68654,
+      "end": 68661,
+      "label": "PER"
+    },
+    {
+      "text": "Rousseau",
+      "start": 68667,
+      "end": 68675,
+      "label": "PER"
+    },
+    {
+      "text": "Diderot",
+      "start": 68681,
+      "end": 68688,
+      "label": "PER"
+    },
+    {
+      "text": "Rollin",
+      "start": 68696,
+      "end": 68702,
+      "label": "PER"
+    },
+    {
+      "text": "XIV",
+      "start": 69972,
+      "end": 69975,
+      "label": "PER"
+    },
+    {
+      "text": "Grande",
+      "start": 70523,
+      "end": 70529,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 70785,
+      "end": 70791,
+      "label": "LOC"
+    },
+    {
+      "text": "Mais un habit",
+      "start": 71756,
+      "end": 71769,
+      "label": "MISC"
+    },
+    {
+      "text": "Buisson",
+      "start": 71775,
+      "end": 71782,
+      "label": "LOC"
+    },
+    {
+      "text": "Boivin",
+      "start": 71814,
+      "end": 71820,
+      "label": "PER"
+    },
+    {
+      "text": "Éginhard",
+      "start": 72180,
+      "end": 72188,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 72298,
+      "end": 72307,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascogne",
+      "start": 72440,
+      "end": 72448,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 72514,
+      "end": 72519,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 72522,
+      "end": 72527,
+      "label": "LOC"
+    },
+    {
+      "text": "Instruction",
+      "start": 73091,
+      "end": 73102,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditation",
+      "start": 74228,
+      "end": 74238,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'ils n'ont pas tous",
+      "start": 75340,
+      "end": 75361,
+      "label": "MISC"
+    },
+    {
+      "text": "Gèvres",
+      "start": 75444,
+      "end": 75450,
+      "label": "LOC"
+    },
+    {
+      "text": "parc de Versailles",
+      "start": 75496,
+      "end": 75514,
+      "label": "LOC"
+    },
+    {
+      "text": "Regardez",
+      "start": 75574,
+      "end": 75582,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'il y a des hommes plus bêtes",
+      "start": 75768,
+      "end": 75799,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 75832,
+      "end": 75836,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'il y en a",
+      "start": 75859,
+      "end": 75871,
+      "label": "MISC"
+    },
+    {
+      "text": "Que le clergé",
+      "start": 75927,
+      "end": 75940,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'il y a des hommes placés de manière",
+      "start": 75967,
+      "end": 76005,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 77334,
+      "end": 77338,
+      "label": "MISC"
+    },
+    {
+      "text": "XVII",
+      "start": 77697,
+      "end": 77701,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 78208,
+      "end": 78214,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangile",
+      "start": 78852,
+      "end": 78860,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 80055,
+      "end": 80065,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 80069,
+      "end": 80078,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 80083,
+      "end": 80089,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 80173,
+      "end": 80182,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux Corneille",
+      "start": 80827,
+      "end": 80842,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 81039,
+      "end": 81048,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 81208,
+      "end": 81214,
+      "label": "LOC"
+    },
+    {
+      "text": "Boileau",
+      "start": 81521,
+      "end": 81528,
+      "label": "PER"
+    },
+    {
+      "text": "Méditations",
+      "start": 81665,
+      "end": 81676,
+      "label": "LOC"
+    },
+    {
+      "text": "Kaïfakatadary des Mille et une",
+      "start": 81940,
+      "end": 81970,
+      "label": "MISC"
+    },
+    {
+      "text": "Nuits",
+      "start": 81971,
+      "end": 81976,
+      "label": "LOC"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 81994,
+      "end": 82002,
+      "label": "PER"
+    },
+    {
+      "text": "Diable",
+      "start": 82457,
+      "end": 82463,
+      "label": "MISC"
+    },
+    {
+      "text": "Borgia",
+      "start": 83220,
+      "end": 83226,
+      "label": "MISC"
+    },
+    {
+      "text": "XX",
+      "start": 83872,
+      "end": 83874,
+      "label": "MISC"
+    },
+    {
+      "text": "XXI",
+      "start": 83959,
+      "end": 83962,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'un homme d'esprit",
+      "start": 83966,
+      "end": 83986,
+      "label": "MISC"
+    },
+    {
+      "text": "XXII",
+      "start": 84091,
+      "end": 84095,
+      "label": "MISC"
+    },
+    {
+      "text": "Augmentez",
+      "start": 85399,
+      "end": 85408,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 85902,
+      "end": 85908,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation",
+      "start": 86190,
+      "end": 86200,
+      "label": "MISC"
+    },
+    {
+      "text": "Suisse",
+      "start": 86286,
+      "end": 86292,
+      "label": "LOC"
+    },
+    {
+      "text": "Société",
+      "start": 87216,
+      "end": 87223,
+      "label": "ORG"
+    },
+    {
+      "text": "marie t",
+      "start": 87238,
+      "end": 87245,
+      "label": "PER"
+    },
+    {
+      "text": "Rousseau",
+      "start": 87567,
+      "end": 87575,
+      "label": "PER"
+    },
+    {
+      "text": "coqs de bruyère",
+      "start": 89188,
+      "end": 89203,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 89641,
+      "end": 89648,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 89693,
+      "end": 89699,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 89795,
+      "end": 89808,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 89856,
+      "end": 89866,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 89985,
+      "end": 89993,
+      "label": "MISC"
+    },
+    {
+      "text": "Figaro",
+      "start": 90517,
+      "end": 90523,
+      "label": "PER"
+    },
+    {
+      "text": "Société",
+      "start": 91161,
+      "end": 91168,
+      "label": "ORG"
+    },
+    {
+      "text": "Décius",
+      "start": 91339,
+      "end": 91345,
+      "label": "PER"
+    },
+    {
+      "text": "XXIII",
+      "start": 91540,
+      "end": 91545,
+      "label": "MISC"
+    },
+    {
+      "text": "Mettons",
+      "start": 92261,
+      "end": 92268,
+      "label": "MISC"
+    },
+    {
+      "text": "XXIV",
+      "start": 92371,
+      "end": 92375,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 92439,
+      "end": 92445,
+      "label": "MISC"
+    },
+    {
+      "text": "XXV",
+      "start": 92520,
+      "end": 92523,
+      "label": "ORG"
+    },
+    {
+      "text": "Champfort",
+      "start": 92583,
+      "end": 92592,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 92666,
+      "end": 92672,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditation",
+      "start": 92938,
+      "end": 92948,
+      "label": "MISC"
+    },
+    {
+      "text": "Manfred",
+      "start": 93909,
+      "end": 93916,
+      "label": "MISC"
+    },
+    {
+      "text": "MÉDITATION",
+      "start": 94326,
+      "end": 94336,
+      "label": "MISC"
+    },
+    {
+      "text": "Prédestiné",
+      "start": 94357,
+      "end": 94367,
+      "label": "LOC"
+    },
+    {
+      "text": "Théologie",
+      "start": 94425,
+      "end": 94434,
+      "label": "MISC"
+    },
+    {
+      "text": "Évangile",
+      "start": 94622,
+      "end": 94630,
+      "label": "MISC"
+    },
+    {
+      "text": "Gascons",
+      "start": 94809,
+      "end": 94816,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 94836,
+      "end": 94845,
+      "label": "LOC"
+    },
+    {
+      "text": "Lhomond",
+      "start": 95536,
+      "end": 95543,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 96344,
+      "end": 96350,
+      "label": "LOC"
+    },
+    {
+      "text": "Lafleur",
+      "start": 96867,
+      "end": 96874,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 97862,
+      "end": 97867,
+      "label": "LOC"
+    },
+    {
+      "text": "Code civil",
+      "start": 98000,
+      "end": 98010,
+      "label": "MISC"
+    },
+    {
+      "text": "ronger",
+      "start": 98289,
+      "end": 98295,
+      "label": "LOC"
+    },
+    {
+      "text": "Grecs",
+      "start": 98393,
+      "end": 98398,
+      "label": "MISC"
+    },
+    {
+      "text": "Latins",
+      "start": 98406,
+      "end": 98412,
+      "label": "LOC"
+    },
+    {
+      "text": "Tacite",
+      "start": 98440,
+      "end": 98446,
+      "label": "PER"
+    },
+    {
+      "text": "Thucydide",
+      "start": 98472,
+      "end": 98481,
+      "label": "PER"
+    },
+    {
+      "text": "Heureux",
+      "start": 98778,
+      "end": 98785,
+      "label": "ORG"
+    },
+    {
+      "text": "Beauzée",
+      "start": 98821,
+      "end": 98828,
+      "label": "PER"
+    },
+    {
+      "text": "Académie",
+      "start": 98874,
+      "end": 98882,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemand",
+      "start": 98910,
+      "end": 98918,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 98949,
+      "end": 98955,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 99014,
+      "end": 99018,
+      "label": "MISC"
+    },
+    {
+      "text": "Pégase",
+      "start": 99254,
+      "end": 99260,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre",
+      "start": 99286,
+      "end": 99292,
+      "label": "MISC"
+    },
+    {
+      "text": "Chloris",
+      "start": 99385,
+      "end": 99392,
+      "label": "LOC"
+    },
+    {
+      "text": "Mais les maris",
+      "start": 99540,
+      "end": 99554,
+      "label": "MISC"
+    },
+    {
+      "text": "Mais les maris",
+      "start": 99842,
+      "end": 99856,
+      "label": "MISC"
+    }
+  ]
+}

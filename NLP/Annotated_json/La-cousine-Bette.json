@@ -1,0 +1,4582 @@
+{
+  "entities": [
+    {
+      "text": "COUSINE BETTE",
+      "start": 3,
+      "end": 16,
+      "label": "ORG"
+    },
+    {
+      "text": "PARENTS",
+      "start": 23,
+      "end": 30,
+      "label": "ORG"
+    },
+    {
+      "text": "PAUVRES",
+      "start": 31,
+      "end": 38,
+      "label": "MISC"
+    },
+    {
+      "text": "CAJETANI",
+      "start": 70,
+      "end": 78,
+      "label": "MISC"
+    },
+    {
+      "text": "PRINCE",
+      "start": 80,
+      "end": 86,
+      "label": "MISC"
+    },
+    {
+      "text": "TÉANO",
+      "start": 90,
+      "end": 95,
+      "label": "ORG"
+    },
+    {
+      "text": "Cajetani",
+      "start": 167,
+      "end": 175,
+      "label": "MISC"
+    },
+    {
+      "text": "Chrétienté",
+      "start": 204,
+      "end": 214,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 248,
+      "end": 253,
+      "label": "PER"
+    },
+    {
+      "text": "Homère",
+      "start": 486,
+      "end": 492,
+      "label": "PER"
+    },
+    {
+      "text": "DIVINE",
+      "start": 535,
+      "end": 541,
+      "label": "MISC"
+    },
+    {
+      "text": "Dante",
+      "start": 700,
+      "end": 705,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 1004,
+      "end": 1008,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 1085,
+      "end": 1094,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 1102,
+      "end": 1112,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 1120,
+      "end": 1126,
+      "label": "MISC"
+    },
+    {
+      "text": "Nord",
+      "start": 1137,
+      "end": 1141,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 1281,
+      "end": 1289,
+      "label": "LOC"
+    },
+    {
+      "text": "Schlegel",
+      "start": 1472,
+      "end": 1480,
+      "label": "PER"
+    },
+    {
+      "text": "Porcia",
+      "start": 1695,
+      "end": 1701,
+      "label": "MISC"
+    },
+    {
+      "text": "San Severino",
+      "start": 1707,
+      "end": 1719,
+      "label": "LOC"
+    },
+    {
+      "text": "Pareto",
+      "start": 1725,
+      "end": 1731,
+      "label": "LOC"
+    },
+    {
+      "text": "Negro",
+      "start": 1740,
+      "end": 1745,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgiojoso",
+      "start": 1751,
+      "end": 1761,
+      "label": "MISC"
+    },
+    {
+      "text": "HUMAINE",
+      "start": 1798,
+      "end": 1805,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 1858,
+      "end": 1867,
+      "label": "LOC"
+    },
+    {
+      "text": "Bandello",
+      "start": 1880,
+      "end": 1888,
+      "label": "LOC"
+    },
+    {
+      "text": "Shakespeare",
+      "start": 2065,
+      "end": 2076,
+      "label": "PER"
+    },
+    {
+      "text": "grand Buffon",
+      "start": 2248,
+      "end": 2260,
+      "label": "LOC"
+    },
+    {
+      "text": "Res",
+      "start": 2288,
+      "end": 2291,
+      "label": "PER"
+    },
+    {
+      "text": "Molière",
+      "start": 2339,
+      "end": 2346,
+      "label": "PER"
+    },
+    {
+      "text": "Diderot",
+      "start": 2428,
+      "end": 2435,
+      "label": "PER"
+    },
+    {
+      "text": "CECI N'",
+      "start": 2454,
+      "end": 2461,
+      "label": "ORG"
+    },
+    {
+      "text": "PAS UN",
+      "start": 2465,
+      "end": 2471,
+      "label": "ORG"
+    },
+    {
+      "text": "CONTE",
+      "start": 2472,
+      "end": 2477,
+      "label": "MISC"
+    },
+    {
+      "text": "Diderot",
+      "start": 2498,
+      "end": 2505,
+      "label": "PER"
+    },
+    {
+      "text": "Lachaux",
+      "start": 2566,
+      "end": 2573,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardanne",
+      "start": 2586,
+      "end": 2594,
+      "label": "LOC"
+    },
+    {
+      "text": "Livre Saint",
+      "start": 3193,
+      "end": 3204,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 3244,
+      "end": 3248,
+      "label": "MISC"
+    },
+    {
+      "text": "Écriture",
+      "start": 3314,
+      "end": 3322,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Siége",
+      "start": 3342,
+      "end": 3353,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambres",
+      "start": 3393,
+      "end": 3401,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 3470,
+      "end": 3481,
+      "label": "PER"
+    },
+    {
+      "text": "PARENTS PAUVRES",
+      "start": 3563,
+      "end": 3578,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 3615,
+      "end": 3621,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 3623,
+      "end": 3628,
+      "label": "LOC"
+    },
+    {
+      "text": "ÉPISODE",
+      "start": 3665,
+      "end": 3672,
+      "label": "ORG"
+    },
+    {
+      "text": "COUSINE BETTE",
+      "start": 3677,
+      "end": 3690,
+      "label": "LOC"
+    },
+    {
+      "text": "PÈRE PRODIGUE",
+      "start": 3717,
+      "end": 3730,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 3854,
+      "end": 3859,
+      "label": "LOC"
+    },
+    {
+      "text": "Université",
+      "start": 3904,
+      "end": 3914,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisiens",
+      "start": 4027,
+      "end": 4036,
+      "label": "LOC"
+    },
+    {
+      "text": "rougeaud",
+      "start": 4471,
+      "end": 4479,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 4640,
+      "end": 4645,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 4701,
+      "end": 4707,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 4727,
+      "end": 4743,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 4926,
+      "end": 4931,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Bellechasse",
+      "start": 5066,
+      "end": 5084,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 5098,
+      "end": 5107,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5742,
+      "end": 5747,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 5949,
+      "end": 5961,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 5995,
+      "end": 6005,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère de la Guerre",
+      "start": 6106,
+      "end": 6128,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 6130,
+      "end": 6147,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 6170,
+      "end": 6186,
+      "label": "ORG"
+    },
+    {
+      "text": "Ce baron Hulot",
+      "start": 6199,
+      "end": 6213,
+      "label": "MISC"
+    },
+    {
+      "text": "Ervy",
+      "start": 6239,
+      "end": 6243,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 6319,
+      "end": 6324,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 6376,
+      "end": 6386,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Forzheim",
+      "start": 6398,
+      "end": 6415,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 6659,
+      "end": 6667,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 6688,
+      "end": 6693,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 6732,
+      "end": 6739,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 7301,
+      "end": 7309,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 7355,
+      "end": 7360,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 7494,
+      "end": 7499,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 7687,
+      "end": 7700,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 7734,
+      "end": 7742,
+      "label": "PER"
+    },
+    {
+      "text": "Corinthe",
+      "start": 7988,
+      "end": 7996,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 8042,
+      "end": 8054,
+      "label": "MISC"
+    },
+    {
+      "text": "Bette",
+      "start": 8369,
+      "end": 8374,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 8558,
+      "end": 8564,
+      "label": "PER"
+    },
+    {
+      "text": "Fischer",
+      "start": 8676,
+      "end": 8683,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 8734,
+      "end": 8747,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes enfants et vous",
+      "start": 8751,
+      "end": 8770,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 8864,
+      "end": 8870,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 8960,
+      "end": 8965,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 8989,
+      "end": 8994,
+      "label": "PER"
+    },
+    {
+      "text": "Tartuffe",
+      "start": 9011,
+      "end": 9019,
+      "label": "MISC"
+    },
+    {
+      "text": "Elmire",
+      "start": 9031,
+      "end": 9037,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 9124,
+      "end": 9132,
+      "label": "LOC"
+    },
+    {
+      "text": "Coutances",
+      "start": 9138,
+      "end": 9147,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 9275,
+      "end": 9280,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 9493,
+      "end": 9498,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 9515,
+      "end": 9521,
+      "label": "PER"
+    },
+    {
+      "text": "pendule Empire",
+      "start": 10903,
+      "end": 10917,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 11155,
+      "end": 11161,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 11380,
+      "end": 11386,
+      "label": "PER"
+    },
+    {
+      "text": "Un amant",
+      "start": 11431,
+      "end": 11439,
+      "label": "MISC"
+    },
+    {
+      "text": "répliqua t",
+      "start": 11441,
+      "end": 11451,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 11713,
+      "end": 11720,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 11731,
+      "end": 11737,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 11851,
+      "end": 11856,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 12575,
+      "end": 12580,
+      "label": "PER"
+    },
+    {
+      "text": "Je l'ai cru",
+      "start": 12821,
+      "end": 12832,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 13251,
+      "end": 13257,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 13409,
+      "end": 13414,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 13428,
+      "end": 13434,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 13436,
+      "end": 13442,
+      "label": "PER"
+    },
+    {
+      "text": "Notre fils",
+      "start": 13550,
+      "end": 13560,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 13620,
+      "end": 13626,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13802,
+      "end": 13807,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorin",
+      "start": 13956,
+      "end": 13964,
+      "label": "PER"
+    },
+    {
+      "text": "Cour de Cassation",
+      "start": 14085,
+      "end": 14102,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 14229,
+      "end": 14235,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 14346,
+      "end": 14350,
+      "label": "MISC"
+    },
+    {
+      "text": "Palais",
+      "start": 14835,
+      "end": 14841,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais pour la Chambre",
+      "start": 14869,
+      "end": 14891,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 14912,
+      "end": 14918,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 15072,
+      "end": 15088,
+      "label": "ORG"
+    },
+    {
+      "text": "Préfecture",
+      "start": 15107,
+      "end": 15117,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15120,
+      "end": 15125,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 15193,
+      "end": 15197,
+      "label": "MISC"
+    },
+    {
+      "text": "Portugal",
+      "start": 15301,
+      "end": 15309,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 15421,
+      "end": 15433,
+      "label": "MISC"
+    },
+    {
+      "text": "Régence",
+      "start": 15464,
+      "end": 15471,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 15479,
+      "end": 15487,
+      "label": "PER"
+    },
+    {
+      "text": "Œil de Bœuf",
+      "start": 15489,
+      "end": 15500,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 15529,
+      "end": 15538,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15677,
+      "end": 15682,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 15907,
+      "end": 15915,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère du Commerce",
+      "start": 15949,
+      "end": 15970,
+      "label": "ORG"
+    },
+    {
+      "text": "Popinot",
+      "start": 15981,
+      "end": 15988,
+      "label": "PER"
+    },
+    {
+      "text": "rue des",
+      "start": 16016,
+      "end": 16023,
+      "label": "LOC"
+    },
+    {
+      "text": "madame !",
+      "start": 16045,
+      "end": 16053,
+      "label": "PER"
+    },
+    {
+      "text": "Célestin Crevel",
+      "start": 16092,
+      "end": 16107,
+      "label": "PER"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 16139,
+      "end": 16154,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 16183,
+      "end": 16192,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 16207,
+      "end": 16214,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 16223,
+      "end": 16230,
+      "label": "PER"
+    },
+    {
+      "text": "Régence",
+      "start": 16499,
+      "end": 16506,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 16737,
+      "end": 16743,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 16800,
+      "end": 16809,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 16843,
+      "end": 16850,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 17029,
+      "end": 17037,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 17492,
+      "end": 17500,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebas",
+      "start": 17529,
+      "end": 17534,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 17596,
+      "end": 17602,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 17746,
+      "end": 17754,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 17864,
+      "end": 17869,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 17948,
+      "end": 17960,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 18006,
+      "end": 18011,
+      "label": "LOC"
+    },
+    {
+      "text": "Auriez",
+      "start": 18027,
+      "end": 18033,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 18081,
+      "end": 18086,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 18109,
+      "end": 18115,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 18212,
+      "end": 18219,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 18378,
+      "end": 18384,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 18427,
+      "end": 18439,
+      "label": "PER"
+    },
+    {
+      "text": "Acheter",
+      "start": 18537,
+      "end": 18544,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 18899,
+      "end": 18905,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 18945,
+      "end": 18953,
+      "label": "MISC"
+    },
+    {
+      "text": "Conserver",
+      "start": 19098,
+      "end": 19107,
+      "label": "ORG"
+    },
+    {
+      "text": "A",
+      "start": 19178,
+      "end": 19179,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 19231,
+      "end": 19236,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 19253,
+      "end": 19259,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 19336,
+      "end": 19341,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 19577,
+      "end": 19583,
+      "label": "MISC"
+    },
+    {
+      "text": "Parlez",
+      "start": 19696,
+      "end": 19702,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyons",
+      "start": 19816,
+      "end": 19822,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 20230,
+      "end": 20242,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 20252,
+      "end": 20256,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 20278,
+      "end": 20283,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 20307,
+      "end": 20313,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 20342,
+      "end": 20348,
+      "label": "PER"
+    },
+    {
+      "text": "Moi, monsieur ?   ",
+      "start": 20618,
+      "end": 20636,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 20675,
+      "end": 20681,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 20714,
+      "end": 20722,
+      "label": "PER"
+    },
+    {
+      "text": "Savez",
+      "start": 20780,
+      "end": 20785,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 20792,
+      "end": 20798,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 20817,
+      "end": 20822,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 20881,
+      "end": 20887,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 20891,
+      "end": 20895,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 20931,
+      "end": 20937,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 20946,
+      "end": 20952,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 21130,
+      "end": 21136,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 21245,
+      "end": 21251,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 21660,
+      "end": 21666,
+      "label": "PER"
+    },
+    {
+      "text": "Duprez",
+      "start": 22378,
+      "end": 22384,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 22571,
+      "end": 22579,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 22621,
+      "end": 22630,
+      "label": "LOC"
+    },
+    {
+      "text": "Josépha",
+      "start": 22645,
+      "end": 22652,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 22720,
+      "end": 22726,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 22755,
+      "end": 22762,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 22995,
+      "end": 23007,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 23180,
+      "end": 23185,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 23278,
+      "end": 23282,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 23297,
+      "end": 23303,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 23386,
+      "end": 23398,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 23478,
+      "end": 23490,
+      "label": "MISC"
+    },
+    {
+      "text": "Josépha",
+      "start": 23545,
+      "end": 23552,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 23611,
+      "end": 23619,
+      "label": "PER"
+    },
+    {
+      "text": "Romans",
+      "start": 23649,
+      "end": 23655,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 23711,
+      "end": 23719,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 23765,
+      "end": 23770,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 23801,
+      "end": 23807,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 23922,
+      "end": 23928,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 24036,
+      "end": 24042,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 24414,
+      "end": 24422,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 24677,
+      "end": 24689,
+      "label": "PER"
+    },
+    {
+      "text": "Régence",
+      "start": 25099,
+      "end": 25106,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 25527,
+      "end": 25536,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 25538,
+      "end": 25543,
+      "label": "PER"
+    },
+    {
+      "text": "madame !",
+      "start": 25638,
+      "end": 25646,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 25692,
+      "end": 25699,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 25746,
+      "end": 25763,
+      "label": "ORG"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 25817,
+      "end": 25829,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 25984,
+      "end": 25992,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 26154,
+      "end": 26166,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 26274,
+      "end": 26281,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 26283,
+      "end": 26290,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 26292,
+      "end": 26298,
+      "label": "PER"
+    },
+    {
+      "text": "Mirah",
+      "start": 26325,
+      "end": 26330,
+      "label": "LOC"
+    },
+    {
+      "text": "Hiram",
+      "start": 26353,
+      "end": 26358,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 26446,
+      "end": 26455,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 26599,
+      "end": 26611,
+      "label": "PER"
+    },
+    {
+      "text": "madame Schontz",
+      "start": 26613,
+      "end": 26627,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 26629,
+      "end": 26635,
+      "label": "LOC"
+    },
+    {
+      "text": "Carabine",
+      "start": 26637,
+      "end": 26645,
+      "label": "LOC"
+    },
+    {
+      "text": "Hébreux pour l'or",
+      "start": 26816,
+      "end": 26833,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 27038,
+      "end": 27043,
+      "label": "PER"
+    },
+    {
+      "text": "Keller",
+      "start": 27149,
+      "end": 27155,
+      "label": "PER"
+    },
+    {
+      "text": "marquis d'Esgrignon",
+      "start": 27162,
+      "end": 27181,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 27201,
+      "end": 27208,
+      "label": "PER"
+    },
+    {
+      "text": "Hérouville",
+      "start": 27378,
+      "end": 27388,
+      "label": "LOC"
+    },
+    {
+      "text": "Josépha",
+      "start": 27443,
+      "end": 27450,
+      "label": "PER"
+    },
+    {
+      "text": "Comprenez",
+      "start": 27642,
+      "end": 27651,
+      "label": "LOC"
+    },
+    {
+      "text": "Josépha",
+      "start": 27876,
+      "end": 27883,
+      "label": "PER"
+    },
+    {
+      "text": "Andalouse",
+      "start": 28073,
+      "end": 28082,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 28352,
+      "end": 28357,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 28709,
+      "end": 28721,
+      "label": "PER"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 28771,
+      "end": 28780,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 28781,
+      "end": 28787,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 28962,
+      "end": 28971,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 29097,
+      "end": 29102,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 29117,
+      "end": 29129,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 29197,
+      "end": 29203,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 29377,
+      "end": 29382,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 29432,
+      "end": 29436,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 30084,
+      "end": 30089,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 30096,
+      "end": 30102,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 30661,
+      "end": 30673,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 30958,
+      "end": 30962,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 31029,
+      "end": 31033,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 31067,
+      "end": 31073,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 31086,
+      "end": 31093,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 31413,
+      "end": 31421,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélas !",
+      "start": 31448,
+      "end": 31455,
+      "label": "MISC"
+    },
+    {
+      "text": "essayez",
+      "start": 31513,
+      "end": 31520,
+      "label": "ORG"
+    },
+    {
+      "text": "Crevel",
+      "start": 31567,
+      "end": 31573,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 31726,
+      "end": 31733,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 31891,
+      "end": 31894,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 32054,
+      "end": 32059,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 32451,
+      "end": 32456,
+      "label": "LOC"
+    },
+    {
+      "text": "Voulez",
+      "start": 32631,
+      "end": 32637,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 32709,
+      "end": 32717,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 32730,
+      "end": 32735,
+      "label": "PER"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 32792,
+      "end": 32801,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 32985,
+      "end": 32989,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 33105,
+      "end": 33111,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 33113,
+      "end": 33125,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 33134,
+      "end": 33140,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 33249,
+      "end": 33255,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 33343,
+      "end": 33349,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 33405,
+      "end": 33413,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 33426,
+      "end": 33431,
+      "label": "PER"
+    },
+    {
+      "text": "Sortez",
+      "start": 33704,
+      "end": 33710,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 33733,
+      "end": 33738,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 33906,
+      "end": 33914,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 33958,
+      "end": 33964,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 34284,
+      "end": 34290,
+      "label": "PER"
+    },
+    {
+      "text": "César de Birotteau",
+      "start": 34328,
+      "end": 34346,
+      "label": "PER"
+    },
+    {
+      "text": "Reine des Roses",
+      "start": 34353,
+      "end": 34368,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 34374,
+      "end": 34386,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 34406,
+      "end": 34412,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 34488,
+      "end": 34504,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 34545,
+      "end": 34553,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 34583,
+      "end": 34588,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 34815,
+      "end": 34822,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 34828,
+      "end": 34832,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 34841,
+      "end": 34847,
+      "label": "PER"
+    },
+    {
+      "text": "Trêve",
+      "start": 34979,
+      "end": 34984,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 35007,
+      "end": 35013,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 35211,
+      "end": 35215,
+      "label": "MISC"
+    },
+    {
+      "text": "Amen",
+      "start": 35236,
+      "end": 35240,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 35247,
+      "end": 35253,
+      "label": "PER"
+    },
+    {
+      "text": "Vos",
+      "start": 35670,
+      "end": 35673,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 35772,
+      "end": 35778,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 35836,
+      "end": 35843,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 36003,
+      "end": 36008,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 36656,
+      "end": 36662,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 36675,
+      "end": 36683,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 37087,
+      "end": 37093,
+      "label": "PER"
+    },
+    {
+      "text": "Faut",
+      "start": 37097,
+      "end": 37101,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 37513,
+      "end": 37525,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 37534,
+      "end": 37540,
+      "label": "PER"
+    },
+    {
+      "text": "Vertu",
+      "start": 37675,
+      "end": 37680,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 37909,
+      "end": 37917,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 37926,
+      "end": 37932,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 38677,
+      "end": 38684,
+      "label": "ORG"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 38690,
+      "end": 38702,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 38807,
+      "end": 38816,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 38858,
+      "end": 38866,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 38923,
+      "end": 38935,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 38996,
+      "end": 39001,
+      "label": "LOC"
+    },
+    {
+      "text": "Tillet",
+      "start": 39342,
+      "end": 39348,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 39360,
+      "end": 39367,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 39447,
+      "end": 39456,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Tillet",
+      "start": 39660,
+      "end": 39669,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 39731,
+      "end": 39738,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des",
+      "start": 39770,
+      "end": 39777,
+      "label": "LOC"
+    },
+    {
+      "text": "Lombards",
+      "start": 39778,
+      "end": 39786,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 39946,
+      "end": 39951,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 40049,
+      "end": 40056,
+      "label": "PER"
+    },
+    {
+      "text": "Birotteau",
+      "start": 40079,
+      "end": 40088,
+      "label": "PER"
+    },
+    {
+      "text": "Cherchez",
+      "start": 40224,
+      "end": 40232,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 40434,
+      "end": 40438,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 40448,
+      "end": 40454,
+      "label": "PER"
+    },
+    {
+      "text": "Ridicules",
+      "start": 40521,
+      "end": 40530,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 40533,
+      "end": 40539,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 40649,
+      "end": 40654,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 40672,
+      "end": 40679,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 40912,
+      "end": 40924,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 41159,
+      "end": 41164,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 41658,
+      "end": 41664,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 41819,
+      "end": 41825,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 42077,
+      "end": 42085,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 42164,
+      "end": 42172,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 42198,
+      "end": 42205,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 42346,
+      "end": 42351,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 42357,
+      "end": 42361,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 42374,
+      "end": 42380,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 42536,
+      "end": 42541,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 42862,
+      "end": 42867,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 43386,
+      "end": 43393,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 43430,
+      "end": 43439,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 43968,
+      "end": 43974,
+      "label": "PER"
+    },
+    {
+      "text": "Colysée",
+      "start": 44047,
+      "end": 44054,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 44283,
+      "end": 44296,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 44397,
+      "end": 44406,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 44424,
+      "end": 44432,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 44495,
+      "end": 44497,
+      "label": "MISC"
+    },
+    {
+      "text": "Crevel",
+      "start": 44528,
+      "end": 44534,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 44621,
+      "end": 44626,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 45103,
+      "end": 45108,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 45200,
+      "end": 45208,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 45453,
+      "end": 45459,
+      "label": "PER"
+    },
+    {
+      "text": "Lorraine",
+      "start": 45798,
+      "end": 45806,
+      "label": "LOC"
+    },
+    {
+      "text": "Vosges",
+      "start": 45820,
+      "end": 45826,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 45852,
+      "end": 45859,
+      "label": "PER"
+    },
+    {
+      "text": "Rhin",
+      "start": 45952,
+      "end": 45956,
+      "label": "LOC"
+    },
+    {
+      "text": "André",
+      "start": 45989,
+      "end": 45994,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 46012,
+      "end": 46024,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Fischer",
+      "start": 46071,
+      "end": 46085,
+      "label": "PER"
+    },
+    {
+      "text": "Transports Militaires",
+      "start": 46198,
+      "end": 46219,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 46272,
+      "end": 46284,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 46315,
+      "end": 46320,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 46333,
+      "end": 46343,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 46360,
+      "end": 46367,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 46379,
+      "end": 46386,
+      "label": "LOC"
+    },
+    {
+      "text": "Alsace",
+      "start": 46454,
+      "end": 46460,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 46462,
+      "end": 46469,
+      "label": "LOC"
+    },
+    {
+      "text": "Barry",
+      "start": 46541,
+      "end": 46546,
+      "label": "PER"
+    },
+    {
+      "text": "Lorraine",
+      "start": 46572,
+      "end": 46580,
+      "label": "LOC"
+    },
+    {
+      "text": "Tallien",
+      "start": 46672,
+      "end": 46679,
+      "label": "PER"
+    },
+    {
+      "text": "Nature fabrique",
+      "start": 46688,
+      "end": 46703,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianca Capella",
+      "start": 46976,
+      "end": 46990,
+      "label": "PER"
+    },
+    {
+      "text": "Bronzino",
+      "start": 47036,
+      "end": 47044,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 47049,
+      "end": 47054,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Goujon",
+      "start": 47058,
+      "end": 47069,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 47101,
+      "end": 47118,
+      "label": "PER"
+    },
+    {
+      "text": "signora Olympia",
+      "start": 47123,
+      "end": 47138,
+      "label": "MISC"
+    },
+    {
+      "text": "Doria",
+      "start": 47173,
+      "end": 47178,
+      "label": "PER"
+    },
+    {
+      "text": "Ninon",
+      "start": 47186,
+      "end": 47191,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Barry",
+      "start": 47193,
+      "end": 47208,
+      "label": "PER"
+    },
+    {
+      "text": "Tallien",
+      "start": 47217,
+      "end": 47224,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Georges",
+      "start": 47226,
+      "end": 47246,
+      "label": "PER"
+    },
+    {
+      "text": "madame Récamier",
+      "start": 47248,
+      "end": 47263,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 47580,
+      "end": 47585,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline Fischer",
+      "start": 47618,
+      "end": 47633,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 47817,
+      "end": 47820,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 47843,
+      "end": 47847,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 48047,
+      "end": 48054,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline Fischer",
+      "start": 48113,
+      "end": 48128,
+      "label": "PER"
+    },
+    {
+      "text": "Fischer",
+      "start": 48184,
+      "end": 48191,
+      "label": "PER"
+    },
+    {
+      "text": "Wissembourg",
+      "start": 48313,
+      "end": 48324,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 48345,
+      "end": 48353,
+      "label": "PER"
+    },
+    {
+      "text": "André",
+      "start": 48395,
+      "end": 48400,
+      "label": "MISC"
+    },
+    {
+      "text": "Johann",
+      "start": 48404,
+      "end": 48410,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 48451,
+      "end": 48456,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 48472,
+      "end": 48482,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 48530,
+      "end": 48542,
+      "label": "PER"
+    },
+    {
+      "text": "Régie",
+      "start": 48666,
+      "end": 48671,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 48694,
+      "end": 48701,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 48758,
+      "end": 48763,
+      "label": "PER"
+    },
+    {
+      "text": "Alsace",
+      "start": 48828,
+      "end": 48834,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 48880,
+      "end": 48890,
+      "label": "LOC"
+    },
+    {
+      "text": "Assomption",
+      "start": 48978,
+      "end": 48988,
+      "label": "MISC"
+    },
+    {
+      "text": "Adeline",
+      "start": 48999,
+      "end": 49006,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 49236,
+      "end": 49246,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 49466,
+      "end": 49473,
+      "label": "LOC"
+    },
+    {
+      "text": "Orsay",
+      "start": 49671,
+      "end": 49676,
+      "label": "LOC"
+    },
+    {
+      "text": "Forbin",
+      "start": 49682,
+      "end": 49688,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouvrard",
+      "start": 49694,
+      "end": 49701,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 49740,
+      "end": 49748,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 49789,
+      "end": 49799,
+      "label": "MISC"
+    },
+    {
+      "text": "Adeline",
+      "start": 49921,
+      "end": 49928,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 49978,
+      "end": 49982,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 50218,
+      "end": 50223,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50227,
+      "end": 50232,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 50288,
+      "end": 50298,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 50434,
+      "end": 50439,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hulot",
+      "start": 50685,
+      "end": 50697,
+      "label": "PER"
+    },
+    {
+      "text": "Remarquez",
+      "start": 50892,
+      "end": 50901,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 51229,
+      "end": 51234,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Vissembourg",
+      "start": 51266,
+      "end": 51287,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 51418,
+      "end": 51426,
+      "label": "MISC"
+    },
+    {
+      "text": "Feltre",
+      "start": 51487,
+      "end": 51493,
+      "label": "ORG"
+    },
+    {
+      "text": "guerre d'Espagne",
+      "start": 51590,
+      "end": 51606,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 51722,
+      "end": 51736,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 52059,
+      "end": 52068,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 52104,
+      "end": 52109,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Hulot",
+      "start": 52158,
+      "end": 52170,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 52221,
+      "end": 52227,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 52247,
+      "end": 52255,
+      "label": "LOC"
+    },
+    {
+      "text": "Hector",
+      "start": 52758,
+      "end": 52764,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 52860,
+      "end": 52868,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 52891,
+      "end": 52899,
+      "label": "LOC"
+    },
+    {
+      "text": "chaussée",
+      "start": 52939,
+      "end": 52947,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 52965,
+      "end": 52977,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 52996,
+      "end": 53001,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 53108,
+      "end": 53120,
+      "label": "MISC"
+    },
+    {
+      "text": "Hector",
+      "start": 53239,
+      "end": 53245,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 53373,
+      "end": 53379,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 54237,
+      "end": 54242,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 54570,
+      "end": 54575,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 54858,
+      "end": 54865,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 55021,
+      "end": 55029,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 55050,
+      "end": 55055,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 55125,
+      "end": 55132,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 55334,
+      "end": 55342,
+      "label": "MISC"
+    },
+    {
+      "text": "Adeline",
+      "start": 55355,
+      "end": 55362,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot d'Ervy",
+      "start": 55499,
+      "end": 55511,
+      "label": "MISC"
+    },
+    {
+      "text": "Adeline",
+      "start": 55763,
+      "end": 55770,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 56070,
+      "end": 56077,
+      "label": "LOC"
+    },
+    {
+      "text": "Pactole",
+      "start": 56095,
+      "end": 56102,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 56293,
+      "end": 56298,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 56468,
+      "end": 56475,
+      "label": "LOC"
+    },
+    {
+      "text": "Sois",
+      "start": 56479,
+      "end": 56483,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 56508,
+      "end": 56525,
+      "label": "ORG"
+    },
+    {
+      "text": "Hortense",
+      "start": 56607,
+      "end": 56615,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 56903,
+      "end": 56909,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 57123,
+      "end": 57129,
+      "label": "PER"
+    },
+    {
+      "text": "Josépha",
+      "start": 57143,
+      "end": 57150,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 57232,
+      "end": 57238,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 57287,
+      "end": 57293,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense !",
+      "start": 57639,
+      "end": 57649,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 57840,
+      "end": 57848,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 57872,
+      "end": 57877,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 58071,
+      "end": 58079,
+      "label": "PER"
+    },
+    {
+      "text": "nacre",
+      "start": 58213,
+      "end": 58218,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande",
+      "start": 58847,
+      "end": 58853,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 59039,
+      "end": 59047,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 59105,
+      "end": 59113,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 59555,
+      "end": 59560,
+      "label": "LOC"
+    },
+    {
+      "text": "Ninon",
+      "start": 59588,
+      "end": 59593,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 59934,
+      "end": 59940,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 60055,
+      "end": 60068,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 60087,
+      "end": 60095,
+      "label": "PER"
+    },
+    {
+      "text": "Lisbeth Fischer",
+      "start": 60317,
+      "end": 60332,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 60368,
+      "end": 60373,
+      "label": "PER"
+    },
+    {
+      "text": "Fischer",
+      "start": 60408,
+      "end": 60415,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 60507,
+      "end": 60514,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 60602,
+      "end": 60609,
+      "label": "LOC"
+    },
+    {
+      "text": "Paysanne des Vosges",
+      "start": 60672,
+      "end": 60691,
+      "label": "LOC"
+    },
+    {
+      "text": "concis",
+      "start": 60928,
+      "end": 60934,
+      "label": "PER"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 61071,
+      "end": 61078,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 61178,
+      "end": 61185,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 61448,
+      "end": 61455,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 61523,
+      "end": 61531,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 61598,
+      "end": 61605,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 61650,
+      "end": 61655,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 61801,
+      "end": 61808,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 61960,
+      "end": 61967,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons frères",
+      "start": 62036,
+      "end": 62047,
+      "label": "MISC"
+    },
+    {
+      "text": "Bette",
+      "start": 62068,
+      "end": 62073,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 62789,
+      "end": 62799,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 62804,
+      "end": 62811,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 63137,
+      "end": 63150,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Pons",
+      "start": 63182,
+      "end": 63193,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 63263,
+      "end": 63271,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 63328,
+      "end": 63336,
+      "label": "MISC"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 63345,
+      "end": 63352,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Rivet",
+      "start": 63702,
+      "end": 63716,
+      "label": "MISC"
+    },
+    {
+      "text": "maison Pons",
+      "start": 63734,
+      "end": 63745,
+      "label": "MISC"
+    },
+    {
+      "text": "Fischer",
+      "start": 63827,
+      "end": 63834,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 63897,
+      "end": 63902,
+      "label": "PER"
+    },
+    {
+      "text": "catastrophe de Fontainebleau",
+      "start": 63932,
+      "end": 63960,
+      "label": "MISC"
+    },
+    {
+      "text": "Fischer",
+      "start": 63979,
+      "end": 63986,
+      "label": "PER"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 64058,
+      "end": 64065,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 64086,
+      "end": 64093,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 64149,
+      "end": 64158,
+      "label": "LOC"
+    },
+    {
+      "text": "Trèves",
+      "start": 64172,
+      "end": 64178,
+      "label": "LOC"
+    },
+    {
+      "text": "Johann",
+      "start": 64198,
+      "end": 64204,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 64212,
+      "end": 64217,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 64420,
+      "end": 64430,
+      "label": "PER"
+    },
+    {
+      "text": "Johann Fischer",
+      "start": 64432,
+      "end": 64446,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 64496,
+      "end": 64501,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 64584,
+      "end": 64594,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 64754,
+      "end": 64759,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 64870,
+      "end": 64875,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 64914,
+      "end": 64919,
+      "label": "LOC"
+    },
+    {
+      "text": "ballot de laine",
+      "start": 65183,
+      "end": 65198,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 65263,
+      "end": 65270,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 65437,
+      "end": 65444,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 65577,
+      "end": 65582,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 65765,
+      "end": 65770,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 65911,
+      "end": 65916,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 66407,
+      "end": 66412,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvages",
+      "start": 66533,
+      "end": 66541,
+      "label": "LOC"
+    },
+    {
+      "text": "Corses",
+      "start": 66816,
+      "end": 66822,
+      "label": "LOC"
+    },
+    {
+      "text": "Douée",
+      "start": 67076,
+      "end": 67081,
+      "label": "LOC"
+    },
+    {
+      "text": "Méchante",
+      "start": 67269,
+      "end": 67277,
+      "label": "PER"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 67579,
+      "end": 67586,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 68254,
+      "end": 68259,
+      "label": "PER"
+    },
+    {
+      "text": "Fischer",
+      "start": 68277,
+      "end": 68284,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 68289,
+      "end": 68302,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 68545,
+      "end": 68550,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 68557,
+      "end": 68563,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 68579,
+      "end": 68584,
+      "label": "PER"
+    },
+    {
+      "text": "Rivet",
+      "start": 68591,
+      "end": 68596,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 68613,
+      "end": 68617,
+      "label": "PER"
+    },
+    {
+      "text": "Ninon",
+      "start": 69768,
+      "end": 69773,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 70042,
+      "end": 70051,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70527,
+      "end": 70531,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 70681,
+      "end": 70694,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 71224,
+      "end": 71237,
+      "label": "LOC"
+    },
+    {
+      "text": "Bengale",
+      "start": 71254,
+      "end": 71261,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 71344,
+      "end": 71349,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 71674,
+      "end": 71679,
+      "label": "PER"
+    },
+    {
+      "text": "La Bette",
+      "start": 71911,
+      "end": 71919,
+      "label": "LOC"
+    },
+    {
+      "text": "Chèvre",
+      "start": 72579,
+      "end": 72585,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauvages",
+      "start": 73157,
+      "end": 73165,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Sauvage",
+      "start": 73295,
+      "end": 73305,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauvages",
+      "start": 73394,
+      "end": 73402,
+      "label": "LOC"
+    },
+    {
+      "text": "le Sauvage",
+      "start": 73676,
+      "end": 73686,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 73867,
+      "end": 73873,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 73904,
+      "end": 73917,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 73930,
+      "end": 73938,
+      "label": "LOC"
+    },
+    {
+      "text": "Scène",
+      "start": 74133,
+      "end": 74138,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 74163,
+      "end": 74168,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 74240,
+      "end": 74251,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 74418,
+      "end": 74423,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 74561,
+      "end": 74574,
+      "label": "LOC"
+    },
+    {
+      "text": "Giotto",
+      "start": 74589,
+      "end": 74595,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 74619,
+      "end": 74629,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoyards",
+      "start": 74795,
+      "end": 74804,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 75159,
+      "end": 75167,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 75245,
+      "end": 75258,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 75479,
+      "end": 75487,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 75807,
+      "end": 75812,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 75882,
+      "end": 75890,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 75979,
+      "end": 75984,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 76116,
+      "end": 76121,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 76251,
+      "end": 76264,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 76295,
+      "end": 76303,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 76424,
+      "end": 76428,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 76638,
+      "end": 76646,
+      "label": "LOC"
+    },
+    {
+      "text": "Prince",
+      "start": 76669,
+      "end": 76675,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 76832,
+      "end": 76836,
+      "label": "LOC"
+    },
+    {
+      "text": "Prince Charmant",
+      "start": 76873,
+      "end": 76888,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 76915,
+      "end": 76919,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 76963,
+      "end": 76971,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 77077,
+      "end": 77090,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 77163,
+      "end": 77171,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 77291,
+      "end": 77299,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 77431,
+      "end": 77436,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 77819,
+      "end": 77824,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 78134,
+      "end": 78142,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 78248,
+      "end": 78252,
+      "label": "MISC"
+    },
+    {
+      "text": "Hector",
+      "start": 78844,
+      "end": 78850,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 78922,
+      "end": 78924,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 78954,
+      "end": 78967,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 79008,
+      "end": 79016,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 79068,
+      "end": 79076,
+      "label": "LOC"
+    },
+    {
+      "text": "la Pologne",
+      "start": 79154,
+      "end": 79164,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 79287,
+      "end": 79297,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79400,
+      "end": 79405,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 79455,
+      "end": 79464,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre jeune homme !",
+      "start": 79477,
+      "end": 79497,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 79701,
+      "end": 79709,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 79732,
+      "end": 79736,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 79782,
+      "end": 79795,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisbeth",
+      "start": 79998,
+      "end": 80005,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 80045,
+      "end": 80053,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 80083,
+      "end": 80088,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 80185,
+      "end": 80193,
+      "label": "PER"
+    },
+    {
+      "text": "Wenceslas !",
+      "start": 80209,
+      "end": 80220,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathilde",
+      "start": 80255,
+      "end": 80263,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 80367,
+      "end": 80380,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 80394,
+      "end": 80402,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 80482,
+      "end": 80487,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 80503,
+      "end": 80511,
+      "label": "PER"
+    },
+    {
+      "text": "Wenceslas",
+      "start": 80565,
+      "end": 80574,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 80676,
+      "end": 80684,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 80719,
+      "end": 80727,
+      "label": "LOC"
+    },
+    {
+      "text": "Li",
+      "start": 80739,
+      "end": 80741,
+      "label": "PER"
+    },
+    {
+      "text": "Lithuanie",
+      "start": 80761,
+      "end": 80770,
+      "label": "LOC"
+    },
+    {
+      "text": "Livonie",
+      "start": 80787,
+      "end": 80794,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyons",
+      "start": 80848,
+      "end": 80854,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 80913,
+      "end": 80917,
+      "label": "MISC"
+    },
+    {
+      "text": "Oui",
+      "start": 81084,
+      "end": 81087,
+      "label": "LOC"
+    },
+    {
+      "text": "Wenceslas Steinbock",
+      "start": 81122,
+      "end": 81141,
+      "label": "PER"
+    },
+    {
+      "text": "Charles XII",
+      "start": 81176,
+      "end": 81187,
+      "label": "PER"
+    },
+    {
+      "text": "Livonie",
+      "start": 81270,
+      "end": 81277,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 81460,
+      "end": 81470,
+      "label": "PER"
+    },
+    {
+      "text": "Steinbock",
+      "start": 81490,
+      "end": 81499,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 81595,
+      "end": 81603,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 81671,
+      "end": 81675,
+      "label": "MISC"
+    },
+    {
+      "text": "miens",
+      "start": 81758,
+      "end": 81763,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 81877,
+      "end": 81885,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 81890,
+      "end": 81903,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 81935,
+      "end": 81940,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 82179,
+      "end": 82184,
+      "label": "LOC"
+    },
+    {
+      "text": "Foi",
+      "start": 82715,
+      "end": 82718,
+      "label": "MISC"
+    },
+    {
+      "text": "Espérance",
+      "start": 82722,
+      "end": 82731,
+      "label": "LOC"
+    },
+    {
+      "text": "Charité",
+      "start": 82738,
+      "end": 82745,
+      "label": "LOC"
+    },
+    {
+      "text": "Fauveau",
+      "start": 82911,
+      "end": 82918,
+      "label": "LOC"
+    },
+    {
+      "text": "Wagner",
+      "start": 82924,
+      "end": 82930,
+      "label": "PER"
+    },
+    {
+      "text": "Jeanest",
+      "start": 82936,
+      "end": 82943,
+      "label": "LOC"
+    },
+    {
+      "text": "Froment Meurice",
+      "start": 82949,
+      "end": 82964,
+      "label": "MISC"
+    },
+    {
+      "text": "Liénard",
+      "start": 82998,
+      "end": 83005,
+      "label": "PER"
+    },
+    {
+      "text": "Benvenuto Cellini",
+      "start": 83033,
+      "end": 83050,
+      "label": "PER"
+    },
+    {
+      "text": "Bette",
+      "start": 83210,
+      "end": 83215,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 83257,
+      "end": 83262,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 83392,
+      "end": 83399,
+      "label": "PER"
+    },
+    {
+      "text": "Donatello",
+      "start": 83486,
+      "end": 83495,
+      "label": "LOC"
+    },
+    {
+      "text": "Brunnelleschi",
+      "start": 83497,
+      "end": 83510,
+      "label": "LOC"
+    },
+    {
+      "text": "Ghiberti",
+      "start": 83512,
+      "end": 83520,
+      "label": "LOC"
+    },
+    {
+      "text": "Benvenuto Cellini",
+      "start": 83522,
+      "end": 83539,
+      "label": "PER"
+    },
+    {
+      "text": "Jean de Bologne",
+      "start": 83541,
+      "end": 83556,
+      "label": "PER"
+    },
+    {
+      "text": "La Renaissance",
+      "start": 83563,
+      "end": 83577,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 83582,
+      "end": 83588,
+      "label": "LOC"
+    },
+    {
+      "text": "Vertus",
+      "start": 83758,
+      "end": 83764,
+      "label": "PER"
+    },
+    {
+      "text": "W",
+      "start": 83973,
+      "end": 83974,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 84040,
+      "end": 84048,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 84096,
+      "end": 84101,
+      "label": "PER"
+    },
+    {
+      "text": "Steinbock",
+      "start": 84201,
+      "end": 84210,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 84304,
+      "end": 84308,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 84487,
+      "end": 84495,
+      "label": "PER"
+    },
+    {
+      "text": "Lisbeth Fischer",
+      "start": 84543,
+      "end": 84558,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, dit elle",
+      "start": 84796,
+      "end": 84812,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 85020,
+      "end": 85025,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 85252,
+      "end": 85260,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 85361,
+      "end": 85366,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 85468,
+      "end": 85476,
+      "label": "LOC"
+    },
+    {
+      "text": "Nord",
+      "start": 85637,
+      "end": 85641,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorraine",
+      "start": 85898,
+      "end": 85906,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 85996,
+      "end": 86004,
+      "label": "MISC"
+    },
+    {
+      "text": "le soleil",
+      "start": 86019,
+      "end": 86028,
+      "label": "LOC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 86071,
+      "end": 86084,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 86527,
+      "end": 86535,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 86583,
+      "end": 86587,
+      "label": "MISC"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 86642,
+      "end": 86655,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 86750,
+      "end": 86754,
+      "label": "MISC"
+    },
+    {
+      "text": "Bette",
+      "start": 86832,
+      "end": 86837,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 87114,
+      "end": 87122,
+      "label": "MISC"
+    },
+    {
+      "text": "Longues",
+      "start": 87152,
+      "end": 87159,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 87179,
+      "end": 87184,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 87536,
+      "end": 87544,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 87639,
+      "end": 87641,
+      "label": "MISC"
+    },
+    {
+      "text": "Samson",
+      "start": 87653,
+      "end": 87659,
+      "label": "PER"
+    },
+    {
+      "text": "Samson",
+      "start": 87770,
+      "end": 87776,
+      "label": "PER"
+    },
+    {
+      "text": "bric",
+      "start": 87830,
+      "end": 87834,
+      "label": "PER"
+    },
+    {
+      "text": "Carrousel",
+      "start": 87882,
+      "end": 87891,
+      "label": "LOC"
+    },
+    {
+      "text": "Si",
+      "start": 87912,
+      "end": 87914,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 87945,
+      "end": 87952,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Rastignac",
+      "start": 88005,
+      "end": 88023,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 88712,
+      "end": 88723,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 88783,
+      "end": 88791,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 88938,
+      "end": 88946,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 88967,
+      "end": 88970,
+      "label": "PER"
+    },
+    {
+      "text": "Steinbock",
+      "start": 89126,
+      "end": 89135,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 89282,
+      "end": 89288,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibliothèque",
+      "start": 89295,
+      "end": 89307,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 89417,
+      "end": 89425,
+      "label": "PER"
+    },
+    {
+      "text": "Wenceslas Steinbock",
+      "start": 90009,
+      "end": 90028,
+      "label": "PER"
+    },
+    {
+      "text": "Annonciation",
+      "start": 90169,
+      "end": 90181,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 90254,
+      "end": 90262,
+      "label": "PER"
+    },
+    {
+      "text": "cousine Bette",
+      "start": 90491,
+      "end": 90504,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 90535,
+      "end": 90541,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 90557,
+      "end": 90562,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 90658,
+      "end": 90663,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour royale",
+      "start": 90742,
+      "end": 90753,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimerais",
+      "start": 90755,
+      "end": 90763,
+      "label": "LOC"
+    },
+    {
+      "text": "Crevel",
+      "start": 90826,
+      "end": 90832,
+      "label": "PER"
+    },
+    {
+      "text": "Cousine",
+      "start": 90913,
+      "end": 90920,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 90952,
+      "end": 90960,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 91255,
+      "end": 91259,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 91536,
+      "end": 91544,
+      "label": "PER"
+    },
+    {
+      "text": "La Bette",
+      "start": 91566,
+      "end": 91574,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 91900,
+      "end": 91907,
+      "label": "LOC"
+    },
+    {
+      "text": "Hector Hulot",
+      "start": 92133,
+      "end": 92145,
+      "label": "PER"
+    },
+    {
+      "text": "Impériaux",
+      "start": 92235,
+      "end": 92244,
+      "label": "MISC"
+    },
+    {
+      "text": "Brillat Savarin",
+      "start": 92899,
+      "end": 92914,
+      "label": "PER"
+    },
+    {
+      "text": "Crevel",
+      "start": 93027,
+      "end": 93033,
+      "label": "PER"
+    },
+    {
+      "text": "As",
+      "start": 93247,
+      "end": 93249,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 93274,
+      "end": 93281,
+      "label": "LOC"
+    },
+    {
+      "text": "Hector",
+      "start": 93331,
+      "end": 93337,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour la Chèvre",
+      "start": 93768,
+      "end": 93785,
+      "label": "MISC"
+    },
+    {
+      "text": "Chevrette !",
+      "start": 93795,
+      "end": 93806,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 94015,
+      "end": 94020,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 94089,
+      "end": 94098,
+      "label": "PER"
+    },
+    {
+      "text": "Chèvre",
+      "start": 94204,
+      "end": 94210,
+      "label": "LOC"
+    },
+    {
+      "text": "Robert le Diable",
+      "start": 94357,
+      "end": 94373,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 94393,
+      "end": 94398,
+      "label": "LOC"
+    },
+    {
+      "text": "Josépha",
+      "start": 94400,
+      "end": 94407,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra italien",
+      "start": 94415,
+      "end": 94428,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra français",
+      "start": 94461,
+      "end": 94475,
+      "label": "LOC"
+    },
+    {
+      "text": "Alice",
+      "start": 94496,
+      "end": 94501,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 94575,
+      "end": 94582,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyons",
+      "start": 94643,
+      "end": 94649,
+      "label": "LOC"
+    },
+    {
+      "text": "Adeline",
+      "start": 94664,
+      "end": 94671,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 94795,
+      "end": 94807,
+      "label": "LOC"
+    },
+    {
+      "text": "Josépha",
+      "start": 94815,
+      "end": 94822,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 95057,
+      "end": 95065,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 95131,
+      "end": 95137,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Cadine",
+      "start": 95199,
+      "end": 95211,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 95256,
+      "end": 95264,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 95286,
+      "end": 95291,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 95532,
+      "end": 95539,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 95762,
+      "end": 95770,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 95905,
+      "end": 95912,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 96421,
+      "end": 96431,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 96456,
+      "end": 96462,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 96579,
+      "end": 96584,
+      "label": "LOC"
+    },
+    {
+      "text": "Tes",
+      "start": 96637,
+      "end": 96640,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischer",
+      "start": 96728,
+      "end": 96735,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 96759,
+      "end": 96767,
+      "label": "PER"
+    },
+    {
+      "text": "Hector",
+      "start": 96861,
+      "end": 96867,
+      "label": "PER"
+    },
+    {
+      "text": "Adeline",
+      "start": 96916,
+      "end": 96923,
+      "label": "LOC"
+    },
+    {
+      "text": "Hortense",
+      "start": 96968,
+      "end": 96976,
+      "label": "LOC"
+    },
+    {
+      "text": "Bette",
+      "start": 98138,
+      "end": 98143,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine Crevel",
+      "start": 98173,
+      "end": 98189,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 98215,
+      "end": 98220,
+      "label": "PER"
+    },
+    {
+      "text": "Célestine",
+      "start": 98323,
+      "end": 98332,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 98656,
+      "end": 98661,
+      "label": "PER"
+    },
+    {
+      "text": "grosse Normande",
+      "start": 98687,
+      "end": 98702,
+      "label": "LOC"
+    },
+    {
+      "text": "Célestine",
+      "start": 98730,
+      "end": 98739,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 99094,
+      "end": 99101,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 99372,
+      "end": 99377,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 99804,
+      "end": 99812,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 99830,
+      "end": 99838,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,2248 @@
+{
+  "entities": [
+    {
+      "text": "PAIX DU",
+      "start": 3,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "MÉNAGE",
+      "start": 11,
+      "end": 17,
+      "label": "ORG"
+    },
+    {
+      "text": "VALENTINE",
+      "start": 49,
+      "end": 58,
+      "label": "ORG"
+    },
+    {
+      "text": "Scène",
+      "start": 105,
+      "end": 110,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 189,
+      "end": 197,
+      "label": "PER"
+    },
+    {
+      "text": "Wagram",
+      "start": 267,
+      "end": 273,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 362,
+      "end": 368,
+      "label": "LOC"
+    },
+    {
+      "text": "Coalition",
+      "start": 375,
+      "end": 384,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 480,
+      "end": 488,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 525,
+      "end": 533,
+      "label": "LOC"
+    },
+    {
+      "text": "Dresde",
+      "start": 605,
+      "end": 611,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 648,
+      "end": 653,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 774,
+      "end": 782,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 902,
+      "end": 907,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1211,
+      "end": 1216,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 1622,
+      "end": 1630,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 1809,
+      "end": 1822,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 2246,
+      "end": 2252,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 2256,
+      "end": 2264,
+      "label": "PER"
+    },
+    {
+      "text": "Histoire",
+      "start": 2749,
+      "end": 2757,
+      "label": "ORG"
+    },
+    {
+      "text": "Murat",
+      "start": 4160,
+      "end": 4165,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Gondreville",
+      "start": 4255,
+      "end": 4275,
+      "label": "PER"
+    },
+    {
+      "text": "Lucullus",
+      "start": 4286,
+      "end": 4294,
+      "label": "MISC"
+    },
+    {
+      "text": "Sénat Conservateur",
+      "start": 4301,
+      "end": 4319,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 4421,
+      "end": 4429,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 4556,
+      "end": 4565,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 4633,
+      "end": 4641,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 4828,
+      "end": 4836,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 4900,
+      "end": 4909,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 5159,
+      "end": 5167,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Gondreville",
+      "start": 5196,
+      "end": 5216,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 5244,
+      "end": 5249,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 5696,
+      "end": 5704,
+      "label": "PER"
+    },
+    {
+      "text": "Scène",
+      "start": 6228,
+      "end": 6233,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 6325,
+      "end": 6330,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournez",
+      "start": 6334,
+      "end": 6341,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 6671,
+      "end": 6679,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 6876,
+      "end": 6896,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 7001,
+      "end": 7005,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 7572,
+      "end": 7576,
+      "label": "MISC"
+    },
+    {
+      "text": "Aristocrate",
+      "start": 7595,
+      "end": 7606,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 7627,
+      "end": 7637,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 7715,
+      "end": 7725,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 7828,
+      "end": 7837,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 7887,
+      "end": 7907,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 8124,
+      "end": 8130,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemandes",
+      "start": 8353,
+      "end": 8363,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 8405,
+      "end": 8415,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 8604,
+      "end": 8608,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 8618,
+      "end": 8625,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 8764,
+      "end": 8769,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 9274,
+      "end": 9281,
+      "label": "PER"
+    },
+    {
+      "text": "Lippe",
+      "start": 9340,
+      "end": 9345,
+      "label": "LOC"
+    },
+    {
+      "text": "Dyle",
+      "start": 9355,
+      "end": 9359,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 9413,
+      "end": 9417,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 9596,
+      "end": 9603,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 9794,
+      "end": 9804,
+      "label": "MISC"
+    },
+    {
+      "text": "Connaissez",
+      "start": 10739,
+      "end": 10749,
+      "label": "ORG"
+    },
+    {
+      "text": "Martial",
+      "start": 10799,
+      "end": 10806,
+      "label": "PER"
+    },
+    {
+      "text": "Dyle",
+      "start": 11032,
+      "end": 11036,
+      "label": "LOC"
+    },
+    {
+      "text": "Lippe",
+      "start": 11044,
+      "end": 11049,
+      "label": "LOC"
+    },
+    {
+      "text": "Charente",
+      "start": 11059,
+      "end": 11067,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous croyez",
+      "start": 11300,
+      "end": 11311,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 11313,
+      "end": 11323,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 11633,
+      "end": 11640,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 11657,
+      "end": 11667,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 12220,
+      "end": 12227,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 12419,
+      "end": 12424,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 12475,
+      "end": 12484,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 12513,
+      "end": 12523,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 12527,
+      "end": 12531,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 12581,
+      "end": 12588,
+      "label": "PER"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 12814,
+      "end": 12821,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 13210,
+      "end": 13214,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 13262,
+      "end": 13272,
+      "label": "MISC"
+    },
+    {
+      "text": "Malines",
+      "start": 13361,
+      "end": 13368,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 13560,
+      "end": 13570,
+      "label": "MISC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 13807,
+      "end": 13818,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 13842,
+      "end": 13852,
+      "label": "MISC"
+    },
+    {
+      "text": "Ravrio",
+      "start": 13961,
+      "end": 13967,
+      "label": "PER"
+    },
+    {
+      "text": "Isabey",
+      "start": 13979,
+      "end": 13985,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 14010,
+      "end": 14014,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 14090,
+      "end": 14094,
+      "label": "MISC"
+    },
+    {
+      "text": "comtesse de Gondreville",
+      "start": 14220,
+      "end": 14243,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher Martial",
+      "start": 14701,
+      "end": 14717,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Vaudremont",
+      "start": 14740,
+      "end": 14760,
+      "label": "PER"
+    },
+    {
+      "text": "Vieille",
+      "start": 15088,
+      "end": 15095,
+      "label": "LOC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 15121,
+      "end": 15131,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 15232,
+      "end": 15239,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 15333,
+      "end": 15353,
+      "label": "PER"
+    },
+    {
+      "text": "Lovelace",
+      "start": 15644,
+      "end": 15652,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 15854,
+      "end": 15861,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 15912,
+      "end": 15932,
+      "label": "PER"
+    },
+    {
+      "text": "Écoute",
+      "start": 16063,
+      "end": 16069,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 16071,
+      "end": 16078,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 16174,
+      "end": 16194,
+      "label": "PER"
+    },
+    {
+      "text": "Songe",
+      "start": 16414,
+      "end": 16419,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantale",
+      "start": 16531,
+      "end": 16538,
+      "label": "PER"
+    },
+    {
+      "text": "Prrrr",
+      "start": 16574,
+      "end": 16579,
+      "label": "LOC"
+    },
+    {
+      "text": "casimir blanc",
+      "start": 16791,
+      "end": 16804,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 16887,
+      "end": 16897,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 17324,
+      "end": 17334,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial de la Roche Hugon",
+      "start": 17729,
+      "end": 17754,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 17770,
+      "end": 17779,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 17784,
+      "end": 17792,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 18606,
+      "end": 18613,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Gondreville",
+      "start": 19380,
+      "end": 19397,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Gondreville",
+      "start": 20337,
+      "end": 20354,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20398,
+      "end": 20403,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Vaudremont",
+      "start": 20825,
+      "end": 20845,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 21466,
+      "end": 21486,
+      "label": "PER"
+    },
+    {
+      "text": "Garde",
+      "start": 21921,
+      "end": 21926,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 21956,
+      "end": 21974,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 22109,
+      "end": 22118,
+      "label": "MISC"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 22125,
+      "end": 22147,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 22576,
+      "end": 22594,
+      "label": "PER"
+    },
+    {
+      "text": "la Droite",
+      "start": 22950,
+      "end": 22959,
+      "label": "ORG"
+    },
+    {
+      "text": "Restauration",
+      "start": 22999,
+      "end": 23011,
+      "label": "MISC"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 23016,
+      "end": 23038,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 23595,
+      "end": 23602,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 23745,
+      "end": 23765,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 24016,
+      "end": 24025,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Gondreville",
+      "start": 24093,
+      "end": 24114,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 24259,
+      "end": 24279,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 24281,
+      "end": 24290,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 24427,
+      "end": 24436,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 24709,
+      "end": 24718,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 24894,
+      "end": 24903,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 25334,
+      "end": 25341,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 25356,
+      "end": 25376,
+      "label": "PER"
+    },
+    {
+      "text": "Provençal",
+      "start": 25402,
+      "end": 25411,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 25421,
+      "end": 25430,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 26092,
+      "end": 26099,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 26127,
+      "end": 26136,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 26357,
+      "end": 26377,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 26492,
+      "end": 26499,
+      "label": "PER"
+    },
+    {
+      "text": "Wagram",
+      "start": 26727,
+      "end": 26733,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 26899,
+      "end": 26906,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 27064,
+      "end": 27073,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 27075,
+      "end": 27082,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 27089,
+      "end": 27111,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 27242,
+      "end": 27262,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 27576,
+      "end": 27583,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 28138,
+      "end": 28145,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Gondreville",
+      "start": 28382,
+      "end": 28405,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 29198,
+      "end": 29205,
+      "label": "PER"
+    },
+    {
+      "text": "Trop",
+      "start": 29207,
+      "end": 29211,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 29392,
+      "end": 29397,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 29399,
+      "end": 29405,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 29971,
+      "end": 29991,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 30027,
+      "end": 30033,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 30082,
+      "end": 30092,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 30157,
+      "end": 30165,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 30235,
+      "end": 30241,
+      "label": "PER"
+    },
+    {
+      "text": "Accordez",
+      "start": 30328,
+      "end": 30336,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 30352,
+      "end": 30358,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 30697,
+      "end": 30705,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 30848,
+      "end": 30855,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 31051,
+      "end": 31073,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 31341,
+      "end": 31361,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 31380,
+      "end": 31385,
+      "label": "LOC"
+    },
+    {
+      "text": "Magnifique",
+      "start": 31470,
+      "end": 31480,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial de la Roche Hugon",
+      "start": 31523,
+      "end": 31548,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 31736,
+      "end": 31758,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 31860,
+      "end": 31866,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 31911,
+      "end": 31918,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 31933,
+      "end": 31953,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 31997,
+      "end": 32006,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 32216,
+      "end": 32225,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 32347,
+      "end": 32355,
+      "label": "PER"
+    },
+    {
+      "text": "Ah diantre !",
+      "start": 32808,
+      "end": 32820,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 32936,
+      "end": 32943,
+      "label": "PER"
+    },
+    {
+      "text": "Colonel",
+      "start": 33008,
+      "end": 33015,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 33199,
+      "end": 33208,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon brave",
+      "start": 33279,
+      "end": 33288,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 33311,
+      "end": 33318,
+      "label": "PER"
+    },
+    {
+      "text": "Mes yeux",
+      "start": 33329,
+      "end": 33337,
+      "label": "MISC"
+    },
+    {
+      "text": "Cher",
+      "start": 33392,
+      "end": 33396,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 33542,
+      "end": 33549,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 33681,
+      "end": 33691,
+      "label": "MISC"
+    },
+    {
+      "text": "Passe",
+      "start": 34299,
+      "end": 34304,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 34324,
+      "end": 34329,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 34482,
+      "end": 34491,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 34634,
+      "end": 34643,
+      "label": "PER"
+    },
+    {
+      "text": "Courage",
+      "start": 34846,
+      "end": 34853,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 34884,
+      "end": 34893,
+      "label": "MISC"
+    },
+    {
+      "text": "Venez",
+      "start": 34963,
+      "end": 34968,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 35068,
+      "end": 35077,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 35134,
+      "end": 35152,
+      "label": "PER"
+    },
+    {
+      "text": "Charlemagne",
+      "start": 35366,
+      "end": 35377,
+      "label": "PER"
+    },
+    {
+      "text": "chagrine",
+      "start": 35445,
+      "end": 35453,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 35926,
+      "end": 35936,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 35939,
+      "end": 35948,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 36194,
+      "end": 36204,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 36244,
+      "end": 36249,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 36336,
+      "end": 36354,
+      "label": "PER"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 36400,
+      "end": 36407,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 37064,
+      "end": 37074,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 37115,
+      "end": 37124,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 37194,
+      "end": 37201,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 37217,
+      "end": 37237,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 37306,
+      "end": 37315,
+      "label": "MISC"
+    },
+    {
+      "text": "fat",
+      "start": 37400,
+      "end": 37403,
+      "label": "ORG"
+    },
+    {
+      "text": "Soulanges",
+      "start": 37576,
+      "end": 37585,
+      "label": "MISC"
+    },
+    {
+      "text": "Montcornet",
+      "start": 37731,
+      "end": 37741,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 37779,
+      "end": 37799,
+      "label": "PER"
+    },
+    {
+      "text": "Bagatelle",
+      "start": 38069,
+      "end": 38078,
+      "label": "PER"
+    },
+    {
+      "text": "Wagram",
+      "start": 38232,
+      "end": 38238,
+      "label": "LOC"
+    },
+    {
+      "text": "Roche Hugon",
+      "start": 38255,
+      "end": 38266,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 38481,
+      "end": 38490,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 38733,
+      "end": 38740,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 39063,
+      "end": 39082,
+      "label": "PER"
+    },
+    {
+      "text": "Roche Hugon",
+      "start": 39214,
+      "end": 39225,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Grandlieu",
+      "start": 39450,
+      "end": 39469,
+      "label": "PER"
+    },
+    {
+      "text": "continua t",
+      "start": 39471,
+      "end": 39481,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 39628,
+      "end": 39635,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 39899,
+      "end": 39905,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 39938,
+      "end": 39945,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 40113,
+      "end": 40118,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 40138,
+      "end": 40158,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 40448,
+      "end": 40468,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 40611,
+      "end": 40630,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 40769,
+      "end": 40788,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Vaudremont",
+      "start": 41994,
+      "end": 42014,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 42113,
+      "end": 42120,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 42597,
+      "end": 42604,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 42844,
+      "end": 42864,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 42870,
+      "end": 42877,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 42968,
+      "end": 42977,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 43223,
+      "end": 43242,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 43253,
+      "end": 43273,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Grandlieu",
+      "start": 43607,
+      "end": 43626,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 44141,
+      "end": 44149,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 44583,
+      "end": 44602,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Vaudremont",
+      "start": 44658,
+      "end": 44680,
+      "label": "LOC"
+    },
+    {
+      "text": "duchesse de Grandlieu",
+      "start": 45026,
+      "end": 45047,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 45428,
+      "end": 45448,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 45482,
+      "end": 45492,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa le baron",
+      "start": 45544,
+      "end": 45558,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 45612,
+      "end": 45618,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 45856,
+      "end": 45863,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 46242,
+      "end": 46248,
+      "label": "PER"
+    },
+    {
+      "text": "Marigny",
+      "start": 46416,
+      "end": 46423,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 46502,
+      "end": 46510,
+      "label": "PER"
+    },
+    {
+      "text": "amenez moi la comtesse de Vaudremont",
+      "start": 46565,
+      "end": 46601,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 46686,
+      "end": 46691,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 47286,
+      "end": 47306,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 47373,
+      "end": 47380,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 47429,
+      "end": 47435,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Grandlieu",
+      "start": 47554,
+      "end": 47573,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Vaudremont",
+      "start": 47758,
+      "end": 47778,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 47791,
+      "end": 47798,
+      "label": "PER"
+    },
+    {
+      "text": "Auriez",
+      "start": 48184,
+      "end": 48190,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 48237,
+      "end": 48257,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 48351,
+      "end": 48358,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 50010,
+      "end": 50017,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 50140,
+      "end": 50158,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 50362,
+      "end": 50372,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon bon petit ange",
+      "start": 50922,
+      "end": 50940,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 50949,
+      "end": 50968,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 51497,
+      "end": 51501,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 51502,
+      "end": 51508,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 51706,
+      "end": 51713,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 53086,
+      "end": 53096,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 53540,
+      "end": 53544,
+      "label": "MISC"
+    },
+    {
+      "text": "duc d'Albe",
+      "start": 53788,
+      "end": 53798,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 54241,
+      "end": 54248,
+      "label": "LOC"
+    },
+    {
+      "text": "Profitez",
+      "start": 54504,
+      "end": 54512,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 54568,
+      "end": 54577,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 54677,
+      "end": 54681,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 54931,
+      "end": 54940,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 55135,
+      "end": 55155,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 55181,
+      "end": 55186,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 55196,
+      "end": 55215,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Soulanges",
+      "start": 55322,
+      "end": 55343,
+      "label": "LOC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 55943,
+      "end": 55952,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 56123,
+      "end": 56132,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 56887,
+      "end": 56902,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 57133,
+      "end": 57152,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 57176,
+      "end": 57186,
+      "label": "MISC"
+    },
+    {
+      "text": "Soulanges",
+      "start": 57274,
+      "end": 57283,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 57504,
+      "end": 57508,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 57546,
+      "end": 57565,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 57743,
+      "end": 57749,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 58305,
+      "end": 58325,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 58574,
+      "end": 58581,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 58874,
+      "end": 58894,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 59055,
+      "end": 59061,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 59129,
+      "end": 59136,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 59172,
+      "end": 59191,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 59259,
+      "end": 59263,
+      "label": "MISC"
+    },
+    {
+      "text": "fat",
+      "start": 59281,
+      "end": 59284,
+      "label": "ORG"
+    },
+    {
+      "text": "Obstacle",
+      "start": 59713,
+      "end": 59721,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 59815,
+      "end": 59819,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 59957,
+      "end": 59964,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 60006,
+      "end": 60011,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 60032,
+      "end": 60051,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 60352,
+      "end": 60356,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 60543,
+      "end": 60549,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 60723,
+      "end": 60733,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 60840,
+      "end": 60860,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Vaudremont",
+      "start": 61634,
+      "end": 61654,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 62001,
+      "end": 62021,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Soulanges",
+      "start": 62972,
+      "end": 62993,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 63495,
+      "end": 63502,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 63606,
+      "end": 63612,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 63773,
+      "end": 63792,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 63887,
+      "end": 63894,
+      "label": "PER"
+    },
+    {
+      "text": "Aimez",
+      "start": 64131,
+      "end": 64136,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 64163,
+      "end": 64172,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 64217,
+      "end": 64221,
+      "label": "MISC"
+    },
+    {
+      "text": "Précisément",
+      "start": 64771,
+      "end": 64782,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 64786,
+      "end": 64790,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 65211,
+      "end": 65230,
+      "label": "PER"
+    },
+    {
+      "text": "Debout",
+      "start": 65286,
+      "end": 65292,
+      "label": "LOC"
+    },
+    {
+      "text": "Provençal",
+      "start": 65524,
+      "end": 65533,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 66075,
+      "end": 66094,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 66117,
+      "end": 66137,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 66281,
+      "end": 66300,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 66630,
+      "end": 66632,
+      "label": "MISC"
+    },
+    {
+      "text": "Martial",
+      "start": 67126,
+      "end": 67133,
+      "label": "PER"
+    },
+    {
+      "text": "Trénis",
+      "start": 67376,
+      "end": 67382,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 67426,
+      "end": 67433,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 67600,
+      "end": 67620,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 67665,
+      "end": 67672,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 67674,
+      "end": 67693,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 67907,
+      "end": 67914,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Soulanges",
+      "start": 67924,
+      "end": 67945,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 68360,
+      "end": 68367,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 68673,
+      "end": 68679,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Soulanges",
+      "start": 69054,
+      "end": 69073,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Soulanges",
+      "start": 69286,
+      "end": 69307,
+      "label": "LOC"
+    },
+    {
+      "text": "Rassurez",
+      "start": 69596,
+      "end": 69604,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 69856,
+      "end": 69863,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 71065,
+      "end": 71072,
+      "label": "PER"
+    },
+    {
+      "text": "Portez",
+      "start": 71237,
+      "end": 71243,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 71659,
+      "end": 71668,
+      "label": "PER"
+    },
+    {
+      "text": "Jamais",
+      "start": 71677,
+      "end": 71683,
+      "label": "LOC"
+    },
+    {
+      "text": "Martial",
+      "start": 71716,
+      "end": 71723,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71896,
+      "end": 71904,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 72025,
+      "end": 72033,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 72037,
+      "end": 72046,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 72136,
+      "end": 72142,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 72148,
+      "end": 72155,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 72187,
+      "end": 72207,
+      "label": "PER"
+    },
+    {
+      "text": "Précisément",
+      "start": 72211,
+      "end": 72222,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 72462,
+      "end": 72470,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 72737,
+      "end": 72746,
+      "label": "PER"
+    },
+    {
+      "text": "Martial",
+      "start": 72886,
+      "end": 72893,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Soulanges",
+      "start": 72961,
+      "end": 72980,
+      "label": "PER"
+    },
+    {
+      "text": "fat aperçut",
+      "start": 73030,
+      "end": 73041,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 73076,
+      "end": 73096,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 73280,
+      "end": 73300,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 73304,
+      "end": 73314,
+      "label": "MISC"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 73518,
+      "end": 73534,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 73547,
+      "end": 73560,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 73657,
+      "end": 73668,
+      "label": "LOC"
+    },
+    {
+      "text": "Témoin discret des souffrances éprouvées",
+      "start": 73831,
+      "end": 73871,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 73903,
+      "end": 73923,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 74128,
+      "end": 74147,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Soulanges",
+      "start": 74300,
+      "end": 74318,
+      "label": "PER"
+    },
+    {
+      "text": "Pont Royal",
+      "start": 74441,
+      "end": 74451,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 75451,
+      "end": 75460,
+      "label": "PER"
+    },
+    {
+      "text": "O",
+      "start": 75627,
+      "end": 75628,
+      "label": "MISC"
+    },
+    {
+      "text": "Léon",
+      "start": 75639,
+      "end": 75643,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 76284,
+      "end": 76292,
+      "label": "PER"
+    },
+    {
+      "text": "Soulanges",
+      "start": 76535,
+      "end": 76544,
+      "label": "MISC"
+    },
+    {
+      "text": "Hortense",
+      "start": 76758,
+      "end": 76766,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 76829,
+      "end": 76838,
+      "label": "PER"
+    },
+    {
+      "text": "Montcornet",
+      "start": 76927,
+      "end": 76937,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Vaudremont",
+      "start": 76953,
+      "end": 76973,
+      "label": "PER"
+    },
+    {
+      "text": "d'Autriche",
+      "start": 77180,
+      "end": 77190,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 77230,
+      "end": 77238,
+      "label": "PER"
+    },
+    {
+      "text": "François II",
+      "start": 77267,
+      "end": 77278,
+      "label": "PER"
+    }
+  ]
+}

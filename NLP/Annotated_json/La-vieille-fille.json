@@ -1,0 +1,3748 @@
+{
+  "entities": [
+    {
+      "text": "VIEILLE",
+      "start": 3,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "GRENERAYE SURVILLE",
+      "start": 75,
+      "end": 93,
+      "label": "ORG"
+    },
+    {
+      "text": "Corps royal des Ponts",
+      "start": 108,
+      "end": 129,
+      "label": "ORG"
+    },
+    {
+      "text": "Chaussées",
+      "start": 133,
+      "end": 142,
+      "label": "LOC"
+    },
+    {
+      "text": "Comme un témoignage de l'affection de son beau frère",
+      "start": 144,
+      "end": 196,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 201,
+      "end": 207,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 280,
+      "end": 289,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 321,
+      "end": 327,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 351,
+      "end": 360,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourges",
+      "start": 390,
+      "end": 397,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 447,
+      "end": 454,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 469,
+      "end": 473,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 634,
+      "end": 640,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 647,
+      "end": 656,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbon",
+      "start": 663,
+      "end": 670,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 794,
+      "end": 802,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 841,
+      "end": 850,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 885,
+      "end": 893,
+      "label": "PER"
+    },
+    {
+      "text": "Orléans",
+      "start": 957,
+      "end": 964,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 974,
+      "end": 980,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 998,
+      "end": 1004,
+      "label": "PER"
+    },
+    {
+      "text": "Charles de Valois",
+      "start": 1025,
+      "end": 1042,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 1044,
+      "end": 1059,
+      "label": "PER"
+    },
+    {
+      "text": "Charles IX",
+      "start": 1069,
+      "end": 1079,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Touchet",
+      "start": 1086,
+      "end": 1099,
+      "label": "PER"
+    },
+    {
+      "text": "Lamothe Valois",
+      "start": 1284,
+      "end": 1298,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 1417,
+      "end": 1424,
+      "label": "LOC"
+    },
+    {
+      "text": "de Bourges",
+      "start": 1481,
+      "end": 1491,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 1515,
+      "end": 1523,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 1547,
+      "end": 1554,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 1578,
+      "end": 1584,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1674,
+      "end": 1679,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 1684,
+      "end": 1697,
+      "label": "MISC"
+    },
+    {
+      "text": "Valois",
+      "start": 1812,
+      "end": 1818,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois d'Alençon",
+      "start": 1823,
+      "end": 1852,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 2184,
+      "end": 2192,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 2221,
+      "end": 2234,
+      "label": "MISC"
+    },
+    {
+      "text": "Goritza",
+      "start": 2820,
+      "end": 2827,
+      "label": "MISC"
+    },
+    {
+      "text": "Hongroise",
+      "start": 2839,
+      "end": 2848,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 2896,
+      "end": 2904,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 4379,
+      "end": 4389,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 4666,
+      "end": 4672,
+      "label": "PER"
+    },
+    {
+      "text": "Cythère",
+      "start": 5118,
+      "end": 5125,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 6518,
+      "end": 6537,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Galles",
+      "start": 7317,
+      "end": 7333,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 7353,
+      "end": 7359,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 7496,
+      "end": 7503,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangile",
+      "start": 7654,
+      "end": 7662,
+      "label": "MISC"
+    },
+    {
+      "text": "Adonis",
+      "start": 7845,
+      "end": 7851,
+      "label": "PER"
+    },
+    {
+      "text": "Incroyables",
+      "start": 9309,
+      "end": 9320,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 9352,
+      "end": 9362,
+      "label": "MISC"
+    },
+    {
+      "text": "Fleury",
+      "start": 9553,
+      "end": 9559,
+      "label": "LOC"
+    },
+    {
+      "text": "Molé",
+      "start": 9581,
+      "end": 9585,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Cours",
+      "start": 9738,
+      "end": 9750,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 9797,
+      "end": 9810,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 9961,
+      "end": 9968,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 10111,
+      "end": 10119,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 10238,
+      "end": 10247,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Lardot",
+      "start": 10535,
+      "end": 10548,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 10570,
+      "end": 10589,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 11143,
+      "end": 11150,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordin",
+      "start": 11540,
+      "end": 11546,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11550,
+      "end": 11555,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 11691,
+      "end": 11697,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 11799,
+      "end": 11806,
+      "label": "LOC"
+    },
+    {
+      "text": "grimace",
+      "start": 12083,
+      "end": 12090,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur de Valois",
+      "start": 12285,
+      "end": 12303,
+      "label": "PER"
+    },
+    {
+      "text": "Molé",
+      "start": 13158,
+      "end": 13162,
+      "label": "PER"
+    },
+    {
+      "text": "Goritza",
+      "start": 13187,
+      "end": 13194,
+      "label": "MISC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 13754,
+      "end": 13773,
+      "label": "PER"
+    },
+    {
+      "text": "Goritza",
+      "start": 14027,
+      "end": 14034,
+      "label": "MISC"
+    },
+    {
+      "text": "bah",
+      "start": 14417,
+      "end": 14420,
+      "label": "LOC"
+    },
+    {
+      "text": "Goritza",
+      "start": 14606,
+      "end": 14613,
+      "label": "MISC"
+    },
+    {
+      "text": "Musée égyptien de Turin",
+      "start": 15128,
+      "end": 15151,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 15428,
+      "end": 15434,
+      "label": "PER"
+    },
+    {
+      "text": "Vérité",
+      "start": 15742,
+      "end": 15748,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 15880,
+      "end": 15887,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 15936,
+      "end": 15942,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 16295,
+      "end": 16314,
+      "label": "PER"
+    },
+    {
+      "text": "Te Deum",
+      "start": 16757,
+      "end": 16764,
+      "label": "ORG"
+    },
+    {
+      "text": "chevalier de Gramont",
+      "start": 16875,
+      "end": 16895,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Moncade",
+      "start": 16952,
+      "end": 16970,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 17099,
+      "end": 17106,
+      "label": "LOC"
+    },
+    {
+      "text": "Laïus",
+      "start": 17400,
+      "end": 17405,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 17550,
+      "end": 17558,
+      "label": "ORG"
+    },
+    {
+      "text": "marquis de Pombreton",
+      "start": 17594,
+      "end": 17614,
+      "label": "PER"
+    },
+    {
+      "text": "Constitutionnel",
+      "start": 17839,
+      "end": 17854,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Pombreton",
+      "start": 17966,
+      "end": 17986,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 18092,
+      "end": 18098,
+      "label": "PER"
+    },
+    {
+      "text": "la Restauration",
+      "start": 18230,
+      "end": 18245,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 18274,
+      "end": 18285,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 18342,
+      "end": 18351,
+      "label": "PER"
+    },
+    {
+      "text": "Lenoncourt",
+      "start": 18355,
+      "end": 18365,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarreins",
+      "start": 18372,
+      "end": 18382,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 18480,
+      "end": 18483,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 18515,
+      "end": 18526,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Louis",
+      "start": 18703,
+      "end": 18714,
+      "label": "PER"
+    },
+    {
+      "text": "Ouest",
+      "start": 18829,
+      "end": 18834,
+      "label": "LOC"
+    },
+    {
+      "text": "Castéran",
+      "start": 19272,
+      "end": 19280,
+      "label": "MISC"
+    },
+    {
+      "text": "Esgrignon",
+      "start": 19288,
+      "end": 19297,
+      "label": "LOC"
+    },
+    {
+      "text": "Troisville",
+      "start": 19303,
+      "end": 19313,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 19349,
+      "end": 19358,
+      "label": "LOC"
+    },
+    {
+      "text": "VALEO",
+      "start": 19562,
+      "end": 19567,
+      "label": "ORG"
+    },
+    {
+      "text": "boston",
+      "start": 19748,
+      "end": 19754,
+      "label": "LOC"
+    },
+    {
+      "text": "wisk",
+      "start": 19784,
+      "end": 19788,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 19917,
+      "end": 19924,
+      "label": "LOC"
+    },
+    {
+      "text": "Veneris",
+      "start": 20312,
+      "end": 20319,
+      "label": "LOC"
+    },
+    {
+      "text": "Sixte Quint",
+      "start": 20456,
+      "end": 20467,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 20679,
+      "end": 20686,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 21117,
+      "end": 21121,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 21133,
+      "end": 21140,
+      "label": "MISC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 21150,
+      "end": 21169,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 21432,
+      "end": 21440,
+      "label": "LOC"
+    },
+    {
+      "text": "Césarine",
+      "start": 21475,
+      "end": 21483,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 21558,
+      "end": 21565,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 21715,
+      "end": 21728,
+      "label": "PER"
+    },
+    {
+      "text": "jabot",
+      "start": 21959,
+      "end": 21964,
+      "label": "MISC"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 22141,
+      "end": 22157,
+      "label": "MISC"
+    },
+    {
+      "text": "Valois",
+      "start": 22579,
+      "end": 22585,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 23025,
+      "end": 23038,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 23422,
+      "end": 23435,
+      "label": "PER"
+    },
+    {
+      "text": "Grévin",
+      "start": 23462,
+      "end": 23468,
+      "label": "LOC"
+    },
+    {
+      "text": "Simeuse",
+      "start": 23500,
+      "end": 23507,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 23517,
+      "end": 23522,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 23552,
+      "end": 23565,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 23758,
+      "end": 23764,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 24039,
+      "end": 24045,
+      "label": "PER"
+    },
+    {
+      "text": "Longchamps",
+      "start": 25484,
+      "end": 25494,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 26038,
+      "end": 26045,
+      "label": "LOC"
+    },
+    {
+      "text": "Duthé",
+      "start": 26106,
+      "end": 26111,
+      "label": "PER"
+    },
+    {
+      "text": "comte d'Artois",
+      "start": 26174,
+      "end": 26188,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 26248,
+      "end": 26267,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 26398,
+      "end": 26417,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 26788,
+      "end": 26795,
+      "label": "LOC"
+    },
+    {
+      "text": "Sartines",
+      "start": 26885,
+      "end": 26893,
+      "label": "PER"
+    },
+    {
+      "text": "Notez",
+      "start": 27034,
+      "end": 27039,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 27112,
+      "end": 27119,
+      "label": "PER"
+    },
+    {
+      "text": "Sophie Arnould",
+      "start": 27197,
+      "end": 27211,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 27283,
+      "end": 27289,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 27365,
+      "end": 27370,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubens",
+      "start": 27548,
+      "end": 27554,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénus de Médicis",
+      "start": 27626,
+      "end": 27642,
+      "label": "LOC"
+    },
+    {
+      "text": "Apollon",
+      "start": 27668,
+      "end": 27675,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 27679,
+      "end": 27681,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 27756,
+      "end": 27761,
+      "label": "LOC"
+    },
+    {
+      "text": "Pékin",
+      "start": 27764,
+      "end": 27769,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 27938,
+      "end": 27943,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésuites",
+      "start": 28152,
+      "end": 28160,
+      "label": "ORG"
+    },
+    {
+      "text": "Flibustiers",
+      "start": 28168,
+      "end": 28179,
+      "label": "MISC"
+    },
+    {
+      "text": "Abbés",
+      "start": 28191,
+      "end": 28196,
+      "label": "LOC"
+    },
+    {
+      "text": "Traitants",
+      "start": 28204,
+      "end": 28213,
+      "label": "LOC"
+    },
+    {
+      "text": "Jupiter",
+      "start": 28330,
+      "end": 28337,
+      "label": "LOC"
+    },
+    {
+      "text": "Alcmène",
+      "start": 28343,
+      "end": 28350,
+      "label": "PER"
+    },
+    {
+      "text": "Olympe",
+      "start": 28467,
+      "end": 28473,
+      "label": "LOC"
+    },
+    {
+      "text": "Junon",
+      "start": 28537,
+      "end": 28542,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 28802,
+      "end": 28811,
+      "label": "PER"
+    },
+    {
+      "text": "Terreur",
+      "start": 28989,
+      "end": 28996,
+      "label": "MISC"
+    },
+    {
+      "text": "Berthier",
+      "start": 29321,
+      "end": 29329,
+      "label": "PER"
+    },
+    {
+      "text": "Moscou",
+      "start": 29366,
+      "end": 29372,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29435,
+      "end": 29443,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 29472,
+      "end": 29479,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 29554,
+      "end": 29561,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 29658,
+      "end": 29664,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 29984,
+      "end": 29997,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 30047,
+      "end": 30052,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 30974,
+      "end": 30983,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 30990,
+      "end": 30998,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 31177,
+      "end": 31184,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 31329,
+      "end": 31333,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 31338,
+      "end": 31345,
+      "label": "LOC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 31349,
+      "end": 31356,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 31471,
+      "end": 31484,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 31542,
+      "end": 31549,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 31736,
+      "end": 31743,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 31799,
+      "end": 31806,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 32414,
+      "end": 32419,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 32623,
+      "end": 32629,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 32671,
+      "end": 32676,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 32682,
+      "end": 32688,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 32694,
+      "end": 32701,
+      "label": "LOC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 32707,
+      "end": 32718,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 32861,
+      "end": 32870,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33538,
+      "end": 33543,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 33668,
+      "end": 33675,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 34136,
+      "end": 34142,
+      "label": "MISC"
+    },
+    {
+      "text": "Césarine",
+      "start": 34195,
+      "end": 34203,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 34927,
+      "end": 34936,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 34981,
+      "end": 34990,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 35292,
+      "end": 35297,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 35842,
+      "end": 35849,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 35932,
+      "end": 35941,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36013,
+      "end": 36018,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 36120,
+      "end": 36127,
+      "label": "PER"
+    },
+    {
+      "text": "Césarine",
+      "start": 36151,
+      "end": 36159,
+      "label": "PER"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 36202,
+      "end": 36215,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 36233,
+      "end": 36240,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 36338,
+      "end": 36345,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 36350,
+      "end": 36359,
+      "label": "LOC"
+    },
+    {
+      "text": "Lieutenant Criminel",
+      "start": 36463,
+      "end": 36482,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 36542,
+      "end": 36551,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36625,
+      "end": 36630,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 36651,
+      "end": 36664,
+      "label": "MISC"
+    },
+    {
+      "text": "Syndic",
+      "start": 36934,
+      "end": 36940,
+      "label": "ORG"
+    },
+    {
+      "text": "la Commune",
+      "start": 36944,
+      "end": 36954,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 37098,
+      "end": 37107,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouvrard",
+      "start": 37273,
+      "end": 37280,
+      "label": "MISC"
+    },
+    {
+      "text": "Cincinnatus",
+      "start": 37351,
+      "end": 37362,
+      "label": "PER"
+    },
+    {
+      "text": "Directeurs de la République",
+      "start": 37495,
+      "end": 37522,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 37538,
+      "end": 37547,
+      "label": "LOC"
+    },
+    {
+      "text": "Barras",
+      "start": 37574,
+      "end": 37580,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 37603,
+      "end": 37609,
+      "label": "PER"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 37626,
+      "end": 37636,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 37732,
+      "end": 37741,
+      "label": "PER"
+    },
+    {
+      "text": "Marengo",
+      "start": 37750,
+      "end": 37757,
+      "label": "MISC"
+    },
+    {
+      "text": "Kellermann",
+      "start": 37790,
+      "end": 37800,
+      "label": "PER"
+    },
+    {
+      "text": "Desaix",
+      "start": 37818,
+      "end": 37824,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 37832,
+      "end": 37841,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 37866,
+      "end": 37870,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 37951,
+      "end": 37959,
+      "label": "PER"
+    },
+    {
+      "text": "Une ténébreuse Affaire",
+      "start": 38006,
+      "end": 38028,
+      "label": "MISC"
+    },
+    {
+      "text": "Marengo",
+      "start": 38068,
+      "end": 38075,
+      "label": "MISC"
+    },
+    {
+      "text": "Montagne",
+      "start": 38177,
+      "end": 38185,
+      "label": "LOC"
+    },
+    {
+      "text": "premier Consul",
+      "start": 38200,
+      "end": 38214,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 38300,
+      "end": 38309,
+      "label": "LOC"
+    },
+    {
+      "text": "Mélas",
+      "start": 38445,
+      "end": 38450,
+      "label": "MISC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 38558,
+      "end": 38569,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier maudit Kellermann",
+      "start": 38574,
+      "end": 38601,
+      "label": "LOC"
+    },
+    {
+      "text": "Desaix",
+      "start": 38605,
+      "end": 38611,
+      "label": "MISC"
+    },
+    {
+      "text": "premier Consul",
+      "start": 38637,
+      "end": 38651,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 38951,
+      "end": 38955,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 39067,
+      "end": 39075,
+      "label": "PER"
+    },
+    {
+      "text": "Fermon",
+      "start": 39139,
+      "end": 39145,
+      "label": "PER"
+    },
+    {
+      "text": "Fermons",
+      "start": 39168,
+      "end": 39175,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 39197,
+      "end": 39206,
+      "label": "LOC"
+    },
+    {
+      "text": "Barras",
+      "start": 39269,
+      "end": 39275,
+      "label": "PER"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 39279,
+      "end": 39289,
+      "label": "PER"
+    },
+    {
+      "text": "premier Consul",
+      "start": 39303,
+      "end": 39317,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 39345,
+      "end": 39351,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveurs Généraux",
+      "start": 39381,
+      "end": 39399,
+      "label": "ORG"
+    },
+    {
+      "text": "Alençon",
+      "start": 39456,
+      "end": 39463,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 39485,
+      "end": 39494,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 39552,
+      "end": 39563,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauséant",
+      "start": 39827,
+      "end": 39836,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 39854,
+      "end": 39863,
+      "label": "LOC"
+    },
+    {
+      "text": "premier Consul",
+      "start": 39967,
+      "end": 39981,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 40158,
+      "end": 40165,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 40204,
+      "end": 40216,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 40232,
+      "end": 40241,
+      "label": "PER"
+    },
+    {
+      "text": "premier Consul",
+      "start": 40268,
+      "end": 40282,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 40304,
+      "end": 40313,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 40453,
+      "end": 40462,
+      "label": "LOC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 40788,
+      "end": 40798,
+      "label": "PER"
+    },
+    {
+      "text": "Tortoni",
+      "start": 41194,
+      "end": 41201,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 41385,
+      "end": 41394,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 41458,
+      "end": 41477,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier des symptômes",
+      "start": 41505,
+      "end": 41528,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 41965,
+      "end": 41977,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 42151,
+      "end": 42163,
+      "label": "LOC"
+    },
+    {
+      "text": "premier Consul",
+      "start": 42215,
+      "end": 42229,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 42301,
+      "end": 42310,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain d'Alençon",
+      "start": 42388,
+      "end": 42411,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 42429,
+      "end": 42448,
+      "label": "PER"
+    },
+    {
+      "text": "Armande de Gordes",
+      "start": 42501,
+      "end": 42518,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 42561,
+      "end": 42570,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 42816,
+      "end": 42823,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 43230,
+      "end": 43239,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 43463,
+      "end": 43470,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 43586,
+      "end": 43596,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 43656,
+      "end": 43666,
+      "label": "MISC"
+    },
+    {
+      "text": "Alençon",
+      "start": 43702,
+      "end": 43709,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 44042,
+      "end": 44050,
+      "label": "MISC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 44083,
+      "end": 44093,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 44146,
+      "end": 44154,
+      "label": "LOC"
+    },
+    {
+      "text": "parti libéral d'",
+      "start": 44262,
+      "end": 44278,
+      "label": "ORG"
+    },
+    {
+      "text": "Alençon",
+      "start": 44278,
+      "end": 44285,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 44355,
+      "end": 44367,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 44442,
+      "end": 44454,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 44886,
+      "end": 44905,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 44915,
+      "end": 44922,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 44931,
+      "end": 44940,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 45200,
+      "end": 45206,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 45226,
+      "end": 45232,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 45252,
+      "end": 45259,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 46071,
+      "end": 46081,
+      "label": "MISC"
+    },
+    {
+      "text": "La guerre",
+      "start": 46340,
+      "end": 46349,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 46404,
+      "end": 46413,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 46764,
+      "end": 46772,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 46776,
+      "end": 46795,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 46867,
+      "end": 46886,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 46902,
+      "end": 46911,
+      "label": "LOC"
+    },
+    {
+      "text": "Gordes",
+      "start": 46977,
+      "end": 46983,
+      "label": "LOC"
+    },
+    {
+      "text": "coup de Jarnac",
+      "start": 47088,
+      "end": 47102,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 47175,
+      "end": 47182,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 47237,
+      "end": 47246,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 47327,
+      "end": 47334,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Cours",
+      "start": 47348,
+      "end": 47360,
+      "label": "LOC"
+    },
+    {
+      "text": "Porte de Séez",
+      "start": 47378,
+      "end": 47391,
+      "label": "LOC"
+    },
+    {
+      "text": "Bercail",
+      "start": 47405,
+      "end": 47412,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Cygne",
+      "start": 47425,
+      "end": 47437,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 47461,
+      "end": 47470,
+      "label": "LOC"
+    },
+    {
+      "text": "Sardanapale",
+      "start": 47836,
+      "end": 47847,
+      "label": "MISC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 48130,
+      "end": 48141,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 48616,
+      "end": 48625,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 48700,
+      "end": 48712,
+      "label": "PER"
+    },
+    {
+      "text": "Jocrisse",
+      "start": 48909,
+      "end": 48917,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 48986,
+      "end": 48995,
+      "label": "LOC"
+    },
+    {
+      "text": "orang outang",
+      "start": 49029,
+      "end": 49041,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 49378,
+      "end": 49387,
+      "label": "LOC"
+    },
+    {
+      "text": "René",
+      "start": 49642,
+      "end": 49646,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 49712,
+      "end": 49721,
+      "label": "LOC"
+    },
+    {
+      "text": "René",
+      "start": 49854,
+      "end": 49858,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 49861,
+      "end": 49868,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 49951,
+      "end": 49964,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 49985,
+      "end": 49992,
+      "label": "PER"
+    },
+    {
+      "text": "René",
+      "start": 50034,
+      "end": 50038,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 50103,
+      "end": 50115,
+      "label": "PER"
+    },
+    {
+      "text": "Me voilà",
+      "start": 50492,
+      "end": 50500,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 50506,
+      "end": 50513,
+      "label": "PER"
+    },
+    {
+      "text": "Quesaco",
+      "start": 50633,
+      "end": 50640,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50708,
+      "end": 50716,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 50732,
+      "end": 50739,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 50923,
+      "end": 50932,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 50996,
+      "end": 51003,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51501,
+      "end": 51506,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 51915,
+      "end": 51924,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux",
+      "start": 51928,
+      "end": 51933,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 51975,
+      "end": 51982,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 52048,
+      "end": 52054,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 52072,
+      "end": 52079,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 52091,
+      "end": 52100,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 52181,
+      "end": 52188,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 52203,
+      "end": 52215,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 52396,
+      "end": 52403,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 52438,
+      "end": 52446,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 52500,
+      "end": 52507,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 52691,
+      "end": 52695,
+      "label": "MISC"
+    },
+    {
+      "text": "Gordes",
+      "start": 52763,
+      "end": 52769,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 52778,
+      "end": 52797,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 52844,
+      "end": 52851,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 52865,
+      "end": 52874,
+      "label": "LOC"
+    },
+    {
+      "text": "la Mairie",
+      "start": 52936,
+      "end": 52945,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 53253,
+      "end": 53260,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 53280,
+      "end": 53284,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 53527,
+      "end": 53539,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 53677,
+      "end": 53683,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 53962,
+      "end": 53969,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 54059,
+      "end": 54066,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 54150,
+      "end": 54157,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 54377,
+      "end": 54389,
+      "label": "PER"
+    },
+    {
+      "text": "Côté Gauche",
+      "start": 54408,
+      "end": 54419,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 54662,
+      "end": 54669,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère enfant",
+      "start": 54855,
+      "end": 54870,
+      "label": "MISC"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 55012,
+      "end": 55024,
+      "label": "PER"
+    },
+    {
+      "text": "reine de France",
+      "start": 55329,
+      "end": 55344,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 55975,
+      "end": 55984,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 56018,
+      "end": 56037,
+      "label": "PER"
+    },
+    {
+      "text": "Grégoire",
+      "start": 56122,
+      "end": 56130,
+      "label": "PER"
+    },
+    {
+      "text": "Souvenez",
+      "start": 56194,
+      "end": 56202,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 56221,
+      "end": 56230,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 56257,
+      "end": 56264,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 56681,
+      "end": 56688,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Lardot",
+      "start": 56710,
+      "end": 56723,
+      "label": "PER"
+    },
+    {
+      "text": "Brillante",
+      "start": 56916,
+      "end": 56925,
+      "label": "MISC"
+    },
+    {
+      "text": "la Sarthe",
+      "start": 56934,
+      "end": 56943,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56989,
+      "end": 56994,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 57261,
+      "end": 57270,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 57312,
+      "end": 57331,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 57501,
+      "end": 57508,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 57782,
+      "end": 57789,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58065,
+      "end": 58070,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 58108,
+      "end": 58115,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 58181,
+      "end": 58190,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 58230,
+      "end": 58239,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 58389,
+      "end": 58396,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bousquier",
+      "start": 58443,
+      "end": 58455,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 58474,
+      "end": 58481,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 58574,
+      "end": 58578,
+      "label": "MISC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 58604,
+      "end": 58613,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 58900,
+      "end": 58907,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 58934,
+      "end": 58948,
+      "label": "PER"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 58970,
+      "end": 58988,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Granson",
+      "start": 59079,
+      "end": 59093,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 59107,
+      "end": 59114,
+      "label": "PER"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 59171,
+      "end": 59189,
+      "label": "ORG"
+    },
+    {
+      "text": "Institution",
+      "start": 59249,
+      "end": 59260,
+      "label": "ORG"
+    },
+    {
+      "text": "Mortagne",
+      "start": 59358,
+      "end": 59366,
+      "label": "LOC"
+    },
+    {
+      "text": "Faustine d'Argentan",
+      "start": 59402,
+      "end": 59421,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 59425,
+      "end": 59430,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 59432,
+      "end": 59439,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 59448,
+      "end": 59457,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieux",
+      "start": 59699,
+      "end": 59704,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 59720,
+      "end": 59727,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 59747,
+      "end": 59756,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 59783,
+      "end": 59789,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 59927,
+      "end": 59934,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 60267,
+      "end": 60274,
+      "label": "PER"
+    },
+    {
+      "text": "Cour d'Assises",
+      "start": 60463,
+      "end": 60477,
+      "label": "ORG"
+    },
+    {
+      "text": "Suzanne",
+      "start": 60533,
+      "end": 60540,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 60645,
+      "end": 60654,
+      "label": "LOC"
+    },
+    {
+      "text": "Bercail",
+      "start": 60847,
+      "end": 60854,
+      "label": "LOC"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 60875,
+      "end": 60893,
+      "label": "ORG"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 60907,
+      "end": 60926,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 61035,
+      "end": 61042,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 61086,
+      "end": 61095,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 61171,
+      "end": 61185,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 61192,
+      "end": 61199,
+      "label": "PER"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 61242,
+      "end": 61260,
+      "label": "ORG"
+    },
+    {
+      "text": "Alençon",
+      "start": 61282,
+      "end": 61289,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 61449,
+      "end": 61456,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 61473,
+      "end": 61487,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Granson",
+      "start": 61522,
+      "end": 61536,
+      "label": "PER"
+    },
+    {
+      "text": "Iéna",
+      "start": 61588,
+      "end": 61592,
+      "label": "LOC"
+    },
+    {
+      "text": "Bercail",
+      "start": 61792,
+      "end": 61799,
+      "label": "LOC"
+    },
+    {
+      "text": "Athanase Granson",
+      "start": 62258,
+      "end": 62274,
+      "label": "PER"
+    },
+    {
+      "text": "Mairie",
+      "start": 62533,
+      "end": 62539,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 62642,
+      "end": 62656,
+      "label": "PER"
+    },
+    {
+      "text": "Utrecht jaune",
+      "start": 62718,
+      "end": 62731,
+      "label": "MISC"
+    },
+    {
+      "text": "Bercail",
+      "start": 63079,
+      "end": 63086,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 63600,
+      "end": 63607,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 63624,
+      "end": 63638,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase Granson",
+      "start": 63702,
+      "end": 63718,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 64221,
+      "end": 64228,
+      "label": "LOC"
+    },
+    {
+      "text": "Athanase",
+      "start": 64904,
+      "end": 64912,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 65181,
+      "end": 65189,
+      "label": "PER"
+    },
+    {
+      "text": "Molière",
+      "start": 65193,
+      "end": 65200,
+      "label": "PER"
+    },
+    {
+      "text": "vienne",
+      "start": 65247,
+      "end": 65253,
+      "label": "LOC"
+    },
+    {
+      "text": "Granson",
+      "start": 65306,
+      "end": 65313,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 65586,
+      "end": 65594,
+      "label": "LOC"
+    },
+    {
+      "text": "Athanase",
+      "start": 65855,
+      "end": 65863,
+      "label": "MISC"
+    },
+    {
+      "text": "Athanase",
+      "start": 66020,
+      "end": 66028,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 66100,
+      "end": 66109,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 66269,
+      "end": 66274,
+      "label": "LOC"
+    },
+    {
+      "text": "Bibliothèque de la Ville",
+      "start": 66319,
+      "end": 66343,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 66642,
+      "end": 66648,
+      "label": "MISC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 66667,
+      "end": 66686,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 66693,
+      "end": 66702,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Cormon",
+      "start": 66763,
+      "end": 66782,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 67646,
+      "end": 67654,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 67682,
+      "end": 67689,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 68800,
+      "end": 68808,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 68827,
+      "end": 68833,
+      "label": "MISC"
+    },
+    {
+      "text": "Athanase",
+      "start": 69616,
+      "end": 69624,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 70078,
+      "end": 70086,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase Granson",
+      "start": 70715,
+      "end": 70731,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 70767,
+      "end": 70786,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 70963,
+      "end": 70969,
+      "label": "PER"
+    },
+    {
+      "text": "Chérubin",
+      "start": 71401,
+      "end": 71409,
+      "label": "LOC"
+    },
+    {
+      "text": "Marceline",
+      "start": 71428,
+      "end": 71437,
+      "label": "PER"
+    },
+    {
+      "text": "Beaumarchais",
+      "start": 71465,
+      "end": 71477,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 71560,
+      "end": 71568,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 72000,
+      "end": 72008,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 72116,
+      "end": 72122,
+      "label": "LOC"
+    },
+    {
+      "text": "Athanase",
+      "start": 72172,
+      "end": 72180,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 72320,
+      "end": 72339,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 72526,
+      "end": 72534,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 72564,
+      "end": 72570,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 72688,
+      "end": 72697,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 72708,
+      "end": 72727,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Granson",
+      "start": 72887,
+      "end": 72901,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 72925,
+      "end": 72944,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 72978,
+      "end": 72987,
+      "label": "LOC"
+    },
+    {
+      "text": "Habile",
+      "start": 73033,
+      "end": 73039,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 73081,
+      "end": 73095,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 73303,
+      "end": 73310,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 73329,
+      "end": 73343,
+      "label": "PER"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 73414,
+      "end": 73432,
+      "label": "ORG"
+    },
+    {
+      "text": "Suzanne",
+      "start": 73516,
+      "end": 73523,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 73540,
+      "end": 73548,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 74205,
+      "end": 74212,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 75092,
+      "end": 75099,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 75516,
+      "end": 75524,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 75574,
+      "end": 75579,
+      "label": "LOC"
+    },
+    {
+      "text": "Je t'aimais !",
+      "start": 75616,
+      "end": 75629,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 75759,
+      "end": 75773,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 75823,
+      "end": 75830,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 75873,
+      "end": 75881,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 75950,
+      "end": 75964,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 76036,
+      "end": 76045,
+      "label": "LOC"
+    },
+    {
+      "text": "Société Maternelle",
+      "start": 76220,
+      "end": 76238,
+      "label": "ORG"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 76415,
+      "end": 76434,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 76558,
+      "end": 76573,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 76579,
+      "end": 76593,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 76641,
+      "end": 76660,
+      "label": "PER"
+    },
+    {
+      "text": "Mets",
+      "start": 76765,
+      "end": 76769,
+      "label": "LOC"
+    },
+    {
+      "text": "jabot",
+      "start": 76789,
+      "end": 76794,
+      "label": "LOC"
+    },
+    {
+      "text": "Elbeuf",
+      "start": 76821,
+      "end": 76827,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 76887,
+      "end": 76906,
+      "label": "PER"
+    },
+    {
+      "text": "Prébaudet",
+      "start": 76926,
+      "end": 76935,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 77108,
+      "end": 77112,
+      "label": "MISC"
+    },
+    {
+      "text": "Examine",
+      "start": 77524,
+      "end": 77531,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 77544,
+      "end": 77563,
+      "label": "PER"
+    },
+    {
+      "text": "Parle",
+      "start": 77675,
+      "end": 77680,
+      "label": "MISC"
+    },
+    {
+      "text": "Athanase",
+      "start": 77760,
+      "end": 77768,
+      "label": "PER"
+    },
+    {
+      "text": "la Mairie",
+      "start": 77864,
+      "end": 77873,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Val Noble",
+      "start": 77947,
+      "end": 77963,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 77991,
+      "end": 77997,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 78339,
+      "end": 78347,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 78558,
+      "end": 78565,
+      "label": "PER"
+    },
+    {
+      "text": "Athanase",
+      "start": 78609,
+      "end": 78617,
+      "label": "PER"
+    },
+    {
+      "text": "Suzanne",
+      "start": 79041,
+      "end": 79048,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 79127,
+      "end": 79136,
+      "label": "PER"
+    },
+    {
+      "text": "Valois",
+      "start": 79536,
+      "end": 79542,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79622,
+      "end": 79627,
+      "label": "LOC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 79718,
+      "end": 79725,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 79833,
+      "end": 79838,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 79857,
+      "end": 79864,
+      "label": "LOC"
+    },
+    {
+      "text": "Sociétés de Charité",
+      "start": 79921,
+      "end": 79940,
+      "label": "ORG"
+    },
+    {
+      "text": "Maternité",
+      "start": 79947,
+      "end": 79956,
+      "label": "MISC"
+    },
+    {
+      "text": "Suzanne",
+      "start": 79994,
+      "end": 80001,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 80151,
+      "end": 80156,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 80287,
+      "end": 80293,
+      "label": "PER"
+    },
+    {
+      "text": "la Femme",
+      "start": 80295,
+      "end": 80303,
+      "label": "MISC"
+    },
+    {
+      "text": "Valnoble",
+      "start": 80350,
+      "end": 80358,
+      "label": "MISC"
+    },
+    {
+      "text": "Rodhope",
+      "start": 80398,
+      "end": 80405,
+      "label": "ORG"
+    },
+    {
+      "text": "Impéria",
+      "start": 80411,
+      "end": 80418,
+      "label": "LOC"
+    },
+    {
+      "text": "Ninon",
+      "start": 80426,
+      "end": 80431,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 80476,
+      "end": 80488,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 80659,
+      "end": 80665,
+      "label": "LOC"
+    },
+    {
+      "text": "Inébranlable",
+      "start": 81845,
+      "end": 81857,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 81984,
+      "end": 81989,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 82074,
+      "end": 82085,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 82991,
+      "end": 82998,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 83223,
+      "end": 83230,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Granson",
+      "start": 83338,
+      "end": 83352,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Vicaire",
+      "start": 83527,
+      "end": 83540,
+      "label": "MISC"
+    },
+    {
+      "text": "Évêché de Séez",
+      "start": 83546,
+      "end": 83560,
+      "label": "LOC"
+    },
+    {
+      "text": "Rose Marie Victoire",
+      "start": 83650,
+      "end": 83669,
+      "label": "PER"
+    },
+    {
+      "text": "Robe",
+      "start": 83913,
+      "end": 83917,
+      "label": "LOC"
+    },
+    {
+      "text": "Clergé",
+      "start": 83942,
+      "end": 83948,
+      "label": "LOC"
+    },
+    {
+      "text": "Sponde",
+      "start": 83962,
+      "end": 83968,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 83996,
+      "end": 84015,
+      "label": "PER"
+    },
+    {
+      "text": "Noblesse",
+      "start": 84032,
+      "end": 84040,
+      "label": "LOC"
+    },
+    {
+      "text": "États Généraux",
+      "start": 84045,
+      "end": 84059,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 84073,
+      "end": 84079,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiers État",
+      "start": 84098,
+      "end": 84108,
+      "label": "ORG"
+    },
+    {
+      "text": "Duché",
+      "start": 84291,
+      "end": 84296,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 84419,
+      "end": 84427,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Cormon",
+      "start": 84432,
+      "end": 84445,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Alençon",
+      "start": 84468,
+      "end": 84481,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 84519,
+      "end": 84525,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 84912,
+      "end": 84919,
+      "label": "LOC"
+    },
+    {
+      "text": "rue du Val Noble",
+      "start": 84999,
+      "end": 85015,
+      "label": "LOC"
+    },
+    {
+      "text": "Val Noble",
+      "start": 85043,
+      "end": 85052,
+      "label": "LOC"
+    },
+    {
+      "text": "Brillante",
+      "start": 85108,
+      "end": 85117,
+      "label": "MISC"
+    },
+    {
+      "text": "Alençon",
+      "start": 85150,
+      "end": 85157,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie de Médicis",
+      "start": 85228,
+      "end": 85244,
+      "label": "PER"
+    },
+    {
+      "text": "sonnette",
+      "start": 86219,
+      "end": 86227,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 86483,
+      "end": 86492,
+      "label": "LOC"
+    },
+    {
+      "text": "Perche",
+      "start": 87248,
+      "end": 87254,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 87259,
+      "end": 87267,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 87274,
+      "end": 87283,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 87374,
+      "end": 87393,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 87401,
+      "end": 87410,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 87550,
+      "end": 87559,
+      "label": "LOC"
+    },
+    {
+      "text": "Sponde",
+      "start": 89016,
+      "end": 89022,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 89203,
+      "end": 89209,
+      "label": "LOC"
+    },
+    {
+      "text": "chevalier de Valois",
+      "start": 89213,
+      "end": 89232,
+      "label": "PER"
+    },
+    {
+      "text": "Brillante",
+      "start": 89349,
+      "end": 89358,
+      "label": "MISC"
+    },
+    {
+      "text": "Val Noble",
+      "start": 89463,
+      "end": 89472,
+      "label": "LOC"
+    },
+    {
+      "text": "Brillante",
+      "start": 90059,
+      "end": 90068,
+      "label": "MISC"
+    },
+    {
+      "text": "voyez",
+      "start": 90235,
+      "end": 90240,
+      "label": "MISC"
+    },
+    {
+      "text": "Brillante",
+      "start": 90474,
+      "end": 90483,
+      "label": "MISC"
+    },
+    {
+      "text": "Cormon",
+      "start": 90574,
+      "end": 90580,
+      "label": "MISC"
+    },
+    {
+      "text": "le Jour",
+      "start": 90991,
+      "end": 90998,
+      "label": "MISC"
+    },
+    {
+      "text": "Heures",
+      "start": 91015,
+      "end": 91021,
+      "label": "LOC"
+    },
+    {
+      "text": "Saisons",
+      "start": 91138,
+      "end": 91145,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 91198,
+      "end": 91207,
+      "label": "LOC"
+    },
+    {
+      "text": "Amours",
+      "start": 91250,
+      "end": 91256,
+      "label": "ORG"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 91636,
+      "end": 91647,
+      "label": "PER"
+    },
+    {
+      "text": "Sèvres",
+      "start": 91923,
+      "end": 91929,
+      "label": "LOC"
+    },
+    {
+      "text": "Déserteur",
+      "start": 92036,
+      "end": 92045,
+      "label": "LOC"
+    },
+    {
+      "text": "Sédaine",
+      "start": 92091,
+      "end": 92098,
+      "label": "PER"
+    },
+    {
+      "text": "Rigaud",
+      "start": 92521,
+      "end": 92527,
+      "label": "PER"
+    },
+    {
+      "text": "Latour",
+      "start": 92548,
+      "end": 92554,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 92853,
+      "end": 92859,
+      "label": "MISC"
+    },
+    {
+      "text": "Pompadour",
+      "start": 93173,
+      "end": 93182,
+      "label": "PER"
+    },
+    {
+      "text": "Bretagne",
+      "start": 93830,
+      "end": 93838,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 93848,
+      "end": 93857,
+      "label": "LOC"
+    },
+    {
+      "text": "Maine",
+      "start": 93862,
+      "end": 93867,
+      "label": "LOC"
+    },
+    {
+      "text": "Anjou",
+      "start": 93876,
+      "end": 93881,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 93998,
+      "end": 94004,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 94095,
+      "end": 94104,
+      "label": "LOC"
+    },
+    {
+      "text": "Brillante",
+      "start": 94384,
+      "end": 94393,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 94696,
+      "end": 94705,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 94713,
+      "end": 94721,
+      "label": "LOC"
+    },
+    {
+      "text": "Gascogne",
+      "start": 94729,
+      "end": 94737,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 94744,
+      "end": 94748,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Cormon",
+      "start": 94863,
+      "end": 94882,
+      "label": "PER"
+    },
+    {
+      "text": "Département",
+      "start": 95024,
+      "end": 95035,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouannerie",
+      "start": 95383,
+      "end": 95394,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur de Valois",
+      "start": 95538,
+      "end": 95556,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montauran",
+      "start": 95616,
+      "end": 95636,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 95685,
+      "end": 95699,
+      "label": "MISC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 95769,
+      "end": 95776,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 95868,
+      "end": 95873,
+      "label": "PER"
+    },
+    {
+      "text": "Alençon",
+      "start": 95923,
+      "end": 95930,
+      "label": "LOC"
+    },
+    {
+      "text": "Les Chouans",
+      "start": 96001,
+      "end": 96012,
+      "label": "MISC"
+    },
+    {
+      "text": "Cormon",
+      "start": 96095,
+      "end": 96101,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 96475,
+      "end": 96482,
+      "label": "LOC"
+    },
+    {
+      "text": "Sponde",
+      "start": 97109,
+      "end": 97115,
+      "label": "LOC"
+    },
+    {
+      "text": "Cormon",
+      "start": 97155,
+      "end": 97161,
+      "label": "LOC"
+    },
+    {
+      "text": "Pérotte",
+      "start": 97182,
+      "end": 97189,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquelin le domestique",
+      "start": 97214,
+      "end": 97237,
+      "label": "PER"
+    },
+    {
+      "text": "Sponde",
+      "start": 97446,
+      "end": 97452,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 97456,
+      "end": 97468,
+      "label": "LOC"
+    },
+    {
+      "text": "coup de sonnette",
+      "start": 97492,
+      "end": 97508,
+      "label": "MISC"
+    },
+    {
+      "text": "Pérotte",
+      "start": 97510,
+      "end": 97517,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquelin",
+      "start": 97521,
+      "end": 97530,
+      "label": "PER"
+    },
+    {
+      "text": "boston",
+      "start": 97701,
+      "end": 97707,
+      "label": "LOC"
+    },
+    {
+      "text": "wisth",
+      "start": 97720,
+      "end": 97725,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacquelin",
+      "start": 97885,
+      "end": 97894,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 98455,
+      "end": 98460,
+      "label": "LOC"
+    },
+    {
+      "text": "Bousquier",
+      "start": 99127,
+      "end": 99136,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 99150,
+      "end": 99156,
+      "label": "PER"
+    },
+    {
+      "text": "Cormon",
+      "start": 99171,
+      "end": 99177,
+      "label": "MISC"
+    },
+    {
+      "text": "Président du Tribunal",
+      "start": 99182,
+      "end": 99203,
+      "label": "PER"
+    },
+    {
+      "text": "Procureur",
+      "start": 99208,
+      "end": 99217,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 99221,
+      "end": 99224,
+      "label": "PER"
+    },
+    {
+      "text": "Sponde",
+      "start": 99236,
+      "end": 99242,
+      "label": "PER"
+    },
+    {
+      "text": "madame Granson",
+      "start": 99244,
+      "end": 99258,
+      "label": "PER"
+    },
+    {
+      "text": "Bousquier",
+      "start": 99629,
+      "end": 99638,
+      "label": "LOC"
+    },
+    {
+      "text": "Collége électoral",
+      "start": 99727,
+      "end": 99744,
+      "label": "ORG"
+    },
+    {
+      "text": "Alençon",
+      "start": 99844,
+      "end": 99851,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveur Général",
+      "start": 99978,
+      "end": 99994,
+      "label": "MISC"
+    }
+  ]
+}

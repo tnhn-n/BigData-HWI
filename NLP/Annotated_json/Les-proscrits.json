@@ -1,0 +1,2080 @@
+{
+  "entities": [
+    {
+      "text": "SORORI",
+      "start": 26,
+      "end": 32,
+      "label": "ORG"
+    },
+    {
+      "text": "Terrain",
+      "start": 83,
+      "end": 90,
+      "label": "LOC"
+    },
+    {
+      "text": "Cité",
+      "start": 160,
+      "end": 164,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 184,
+      "end": 194,
+      "label": "PER"
+    },
+    {
+      "text": "ville de Paris",
+      "start": 307,
+      "end": 321,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 386,
+      "end": 396,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph Tirechair",
+      "start": 594,
+      "end": 610,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 644,
+      "end": 649,
+      "label": "LOC"
+    },
+    {
+      "text": "Cité",
+      "start": 777,
+      "end": 781,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 812,
+      "end": 817,
+      "label": "LOC"
+    },
+    {
+      "text": "Port Saint Landry",
+      "start": 858,
+      "end": 875,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1054,
+      "end": 1059,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrain",
+      "start": 1124,
+      "end": 1131,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 1292,
+      "end": 1301,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 1535,
+      "end": 1540,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapitre",
+      "start": 1642,
+      "end": 1650,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 1689,
+      "end": 1699,
+      "label": "PER"
+    },
+    {
+      "text": "Tirechair",
+      "start": 1929,
+      "end": 1938,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 1991,
+      "end": 1998,
+      "label": "LOC"
+    },
+    {
+      "text": "serge verte",
+      "start": 2059,
+      "end": 2070,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 2690,
+      "end": 2695,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 2810,
+      "end": 2815,
+      "label": "LOC"
+    },
+    {
+      "text": "île Saint Louis",
+      "start": 2906,
+      "end": 2921,
+      "label": "LOC"
+    },
+    {
+      "text": "île Louviers",
+      "start": 2956,
+      "end": 2968,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Landry",
+      "start": 3033,
+      "end": 3045,
+      "label": "LOC"
+    },
+    {
+      "text": "Grève",
+      "start": 3065,
+      "end": 3070,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 3080,
+      "end": 3090,
+      "label": "LOC"
+    },
+    {
+      "text": "Louvre",
+      "start": 3129,
+      "end": 3135,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe Auguste",
+      "start": 3157,
+      "end": 3173,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3196,
+      "end": 3201,
+      "label": "LOC"
+    },
+    {
+      "text": "Tirechair",
+      "start": 3321,
+      "end": 3330,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 3655,
+      "end": 3663,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrain",
+      "start": 4102,
+      "end": 4109,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 4349,
+      "end": 4354,
+      "label": "LOC"
+    },
+    {
+      "text": "Port",
+      "start": 4359,
+      "end": 4363,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 4429,
+      "end": 4439,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 4531,
+      "end": 4536,
+      "label": "LOC"
+    },
+    {
+      "text": "Tirechair",
+      "start": 4932,
+      "end": 4941,
+      "label": "ORG"
+    },
+    {
+      "text": "grommela",
+      "start": 5164,
+      "end": 5172,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 5773,
+      "end": 5783,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 6123,
+      "end": 6127,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahom",
+      "start": 6247,
+      "end": 6252,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 6333,
+      "end": 6343,
+      "label": "PER"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 6499,
+      "end": 6506,
+      "label": "MISC"
+    },
+    {
+      "text": "Trouvez",
+      "start": 6827,
+      "end": 6834,
+      "label": "MISC"
+    },
+    {
+      "text": "Seine",
+      "start": 7007,
+      "end": 7012,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Antoine",
+      "start": 7176,
+      "end": 7189,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 7194,
+      "end": 7198,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 7228,
+      "end": 7238,
+      "label": "PER"
+    },
+    {
+      "text": "logis",
+      "start": 7268,
+      "end": 7273,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 7339,
+      "end": 7349,
+      "label": "PER"
+    },
+    {
+      "text": "Explique",
+      "start": 7386,
+      "end": 7394,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 7840,
+      "end": 7850,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 7967,
+      "end": 7972,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 8098,
+      "end": 8108,
+      "label": "PER"
+    },
+    {
+      "text": "Apprends",
+      "start": 8147,
+      "end": 8155,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 8259,
+      "end": 8263,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 8352,
+      "end": 8356,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 8496,
+      "end": 8506,
+      "label": "PER"
+    },
+    {
+      "text": "de la Seine",
+      "start": 8577,
+      "end": 8588,
+      "label": "LOC"
+    },
+    {
+      "text": "Malédiction !",
+      "start": 8592,
+      "end": 8605,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 8673,
+      "end": 8683,
+      "label": "PER"
+    },
+    {
+      "text": "vilenie",
+      "start": 9067,
+      "end": 9074,
+      "label": "LOC"
+    },
+    {
+      "text": "Femme",
+      "start": 9454,
+      "end": 9459,
+      "label": "LOC"
+    },
+    {
+      "text": "place de Grève",
+      "start": 9510,
+      "end": 9524,
+      "label": "LOC"
+    },
+    {
+      "text": "Danoise",
+      "start": 9606,
+      "end": 9613,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 9618,
+      "end": 9622,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 9633,
+      "end": 9643,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 9656,
+      "end": 9660,
+      "label": "MISC"
+    },
+    {
+      "text": "Tirechair",
+      "start": 9674,
+      "end": 9683,
+      "label": "PER"
+    },
+    {
+      "text": "Pâques",
+      "start": 9806,
+      "end": 9812,
+      "label": "MISC"
+    },
+    {
+      "text": "Apprendras",
+      "start": 9887,
+      "end": 9897,
+      "label": "ORG"
+    },
+    {
+      "text": "Porrette",
+      "start": 9991,
+      "end": 9999,
+      "label": "LOC"
+    },
+    {
+      "text": "Danemarck",
+      "start": 10020,
+      "end": 10029,
+      "label": "PER"
+    },
+    {
+      "text": "Norwége de qui tu as entendu d'ici le dernier",
+      "start": 10036,
+      "end": 10081,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 10331,
+      "end": 10335,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 10907,
+      "end": 10911,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 10969,
+      "end": 10979,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 11757,
+      "end": 11767,
+      "label": "PER"
+    },
+    {
+      "text": "fenêtre de la chambre",
+      "start": 11913,
+      "end": 11934,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroy",
+      "start": 13267,
+      "end": 13275,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 13301,
+      "end": 13308,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13311,
+      "end": 13316,
+      "label": "LOC"
+    },
+    {
+      "text": "Université",
+      "start": 13334,
+      "end": 13344,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 13904,
+      "end": 13908,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 13944,
+      "end": 13954,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 13956,
+      "end": 13961,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame !",
+      "start": 14011,
+      "end": 14023,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 14174,
+      "end": 14184,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis du Pas",
+      "start": 14536,
+      "end": 14554,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 14592,
+      "end": 14602,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Landry",
+      "start": 14614,
+      "end": 14626,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14659,
+      "end": 14664,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Denis",
+      "start": 14682,
+      "end": 14693,
+      "label": "PER"
+    },
+    {
+      "text": "Cité",
+      "start": 14795,
+      "end": 14799,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 14866,
+      "end": 14871,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 14882,
+      "end": 14892,
+      "label": "PER"
+    },
+    {
+      "text": "Université",
+      "start": 14939,
+      "end": 14949,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 14981,
+      "end": 14991,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 15290,
+      "end": 15300,
+      "label": "PER"
+    },
+    {
+      "text": "mobile",
+      "start": 16667,
+      "end": 16673,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblables",
+      "start": 17333,
+      "end": 17343,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18425,
+      "end": 18429,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 19690,
+      "end": 19699,
+      "label": "PER"
+    },
+    {
+      "text": "Basques",
+      "start": 20082,
+      "end": 20089,
+      "label": "LOC"
+    },
+    {
+      "text": "Moïse",
+      "start": 20430,
+      "end": 20435,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 21790,
+      "end": 21794,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 21959,
+      "end": 21963,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 22150,
+      "end": 22160,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 22331,
+      "end": 22334,
+      "label": "LOC"
+    },
+    {
+      "text": "Tirechair",
+      "start": 22371,
+      "end": 22380,
+      "label": "PER"
+    },
+    {
+      "text": "Informer",
+      "start": 22643,
+      "end": 22651,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse Mahaut",
+      "start": 22767,
+      "end": 22782,
+      "label": "PER"
+    },
+    {
+      "text": "Gardez",
+      "start": 22859,
+      "end": 22865,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorez",
+      "start": 22914,
+      "end": 22921,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 23235,
+      "end": 23245,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 23288,
+      "end": 23297,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 23568,
+      "end": 23578,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 23612,
+      "end": 23617,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 23619,
+      "end": 23625,
+      "label": "PER"
+    },
+    {
+      "text": "Disant",
+      "start": 23703,
+      "end": 23709,
+      "label": "PER"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 23716,
+      "end": 23726,
+      "label": "PER"
+    },
+    {
+      "text": "O Dieu",
+      "start": 23793,
+      "end": 23799,
+      "label": "MISC"
+    },
+    {
+      "text": "GOTHOFREDUS COMES GANTIACUS",
+      "start": 23906,
+      "end": 23933,
+      "label": "ORG"
+    },
+    {
+      "text": "Godefroid",
+      "start": 23936,
+      "end": 23945,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Gand",
+      "start": 23947,
+      "end": 23960,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 24096,
+      "end": 24106,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 24588,
+      "end": 24590,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 24605,
+      "end": 24615,
+      "label": "PER"
+    },
+    {
+      "text": "Tirechair",
+      "start": 24854,
+      "end": 24863,
+      "label": "LOC"
+    },
+    {
+      "text": "Champfleuri",
+      "start": 24942,
+      "end": 24953,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 24964,
+      "end": 24968,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 25107,
+      "end": 25117,
+      "label": "PER"
+    },
+    {
+      "text": "monta",
+      "start": 25142,
+      "end": 25147,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 25278,
+      "end": 25287,
+      "label": "PER"
+    },
+    {
+      "text": "la Seine",
+      "start": 25903,
+      "end": 25911,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouarre",
+      "start": 26023,
+      "end": 26030,
+      "label": "LOC"
+    },
+    {
+      "text": "Quatre Nations",
+      "start": 26210,
+      "end": 26224,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 26384,
+      "end": 26388,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 26438,
+      "end": 26448,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 26725,
+      "end": 26729,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouarre",
+      "start": 27086,
+      "end": 27093,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 27108,
+      "end": 27114,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 27127,
+      "end": 27133,
+      "label": "LOC"
+    },
+    {
+      "text": "Théologie",
+      "start": 27161,
+      "end": 27170,
+      "label": "MISC"
+    },
+    {
+      "text": "Université de Paris",
+      "start": 27185,
+      "end": 27204,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacqueline",
+      "start": 27262,
+      "end": 27272,
+      "label": "PER"
+    },
+    {
+      "text": "Quatre Nations",
+      "start": 27307,
+      "end": 27321,
+      "label": "ORG"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 28032,
+      "end": 28041,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 28563,
+      "end": 28571,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 28924,
+      "end": 28928,
+      "label": "MISC"
+    },
+    {
+      "text": "Théologie",
+      "start": 29033,
+      "end": 29042,
+      "label": "MISC"
+    },
+    {
+      "text": "Grammaire chez les Grecs",
+      "start": 29137,
+      "end": 29161,
+      "label": "MISC"
+    },
+    {
+      "text": "Jacob",
+      "start": 29248,
+      "end": 29253,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 29298,
+      "end": 29302,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 29573,
+      "end": 29581,
+      "label": "PER"
+    },
+    {
+      "text": "Cervantes",
+      "start": 29637,
+      "end": 29646,
+      "label": "PER"
+    },
+    {
+      "text": "Université de Paris",
+      "start": 29907,
+      "end": 29926,
+      "label": "ORG"
+    },
+    {
+      "text": "Théologie",
+      "start": 29986,
+      "end": 29995,
+      "label": "LOC"
+    },
+    {
+      "text": "Facultés",
+      "start": 30016,
+      "end": 30024,
+      "label": "LOC"
+    },
+    {
+      "text": "THÉOLOGIE",
+      "start": 30035,
+      "end": 30044,
+      "label": "MISC"
+    },
+    {
+      "text": "DÉCRET",
+      "start": 30074,
+      "end": 30080,
+      "label": "MISC"
+    },
+    {
+      "text": "Faculté de Théologie",
+      "start": 30085,
+      "end": 30105,
+      "label": "ORG"
+    },
+    {
+      "text": "Scolastique",
+      "start": 30132,
+      "end": 30143,
+      "label": "LOC"
+    },
+    {
+      "text": "Canonique",
+      "start": 30148,
+      "end": 30157,
+      "label": "LOC"
+    },
+    {
+      "text": "Mystique",
+      "start": 30164,
+      "end": 30172,
+      "label": "LOC"
+    },
+    {
+      "text": "Mystique",
+      "start": 30284,
+      "end": 30292,
+      "label": "LOC"
+    },
+    {
+      "text": "THÉOLOGIE MYSTIQUE",
+      "start": 30326,
+      "end": 30344,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacob Boehm",
+      "start": 30506,
+      "end": 30517,
+      "label": "PER"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 30519,
+      "end": 30529,
+      "label": "PER"
+    },
+    {
+      "text": "Martinez Pasqualis",
+      "start": 30531,
+      "end": 30549,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 30551,
+      "end": 30563,
+      "label": "PER"
+    },
+    {
+      "text": "Molinos",
+      "start": 30565,
+      "end": 30572,
+      "label": "PER"
+    },
+    {
+      "text": "Guyon",
+      "start": 30583,
+      "end": 30588,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourignon",
+      "start": 30590,
+      "end": 30599,
+      "label": "PER"
+    },
+    {
+      "text": "Krudener",
+      "start": 30603,
+      "end": 30611,
+      "label": "ORG"
+    },
+    {
+      "text": "Extatiques",
+      "start": 30633,
+      "end": 30643,
+      "label": "LOC"
+    },
+    {
+      "text": "Illuminés",
+      "start": 30655,
+      "end": 30664,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 30840,
+      "end": 30846,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 30924,
+      "end": 30928,
+      "label": "MISC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 31079,
+      "end": 31089,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 31152,
+      "end": 31157,
+      "label": "PER"
+    },
+    {
+      "text": "Sigier",
+      "start": 31271,
+      "end": 31277,
+      "label": "PER"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 31432,
+      "end": 31440,
+      "label": "PER"
+    },
+    {
+      "text": "Sosie",
+      "start": 31621,
+      "end": 31626,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 32611,
+      "end": 32617,
+      "label": "PER"
+    },
+    {
+      "text": "la Sorbonne",
+      "start": 33043,
+      "end": 33054,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 33559,
+      "end": 33565,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 34505,
+      "end": 34509,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 34782,
+      "end": 34786,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 35519,
+      "end": 35523,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole",
+      "start": 35723,
+      "end": 35729,
+      "label": "LOC"
+    },
+    {
+      "text": "Parole spirituelle",
+      "start": 35752,
+      "end": 35770,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole spirituelle",
+      "start": 35775,
+      "end": 35793,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole",
+      "start": 35809,
+      "end": 35815,
+      "label": "LOC"
+    },
+    {
+      "text": "Parole",
+      "start": 35827,
+      "end": 35833,
+      "label": "LOC"
+    },
+    {
+      "text": "Parole animale",
+      "start": 35856,
+      "end": 35870,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole animale",
+      "start": 35875,
+      "end": 35889,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole végétale",
+      "start": 35905,
+      "end": 35920,
+      "label": "MISC"
+    },
+    {
+      "text": "Parole",
+      "start": 35928,
+      "end": 35934,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 36033,
+      "end": 36037,
+      "label": "MISC"
+    },
+    {
+      "text": "Très Haut à la Nature",
+      "start": 36324,
+      "end": 36345,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 36574,
+      "end": 36578,
+      "label": "MISC"
+    },
+    {
+      "text": "La Bible",
+      "start": 37254,
+      "end": 37262,
+      "label": "MISC"
+    },
+    {
+      "text": "Matière",
+      "start": 37302,
+      "end": 37309,
+      "label": "MISC"
+    },
+    {
+      "text": "Esprit",
+      "start": 37327,
+      "end": 37333,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 37373,
+      "end": 37377,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38027,
+      "end": 38031,
+      "label": "MISC"
+    },
+    {
+      "text": "Sigier",
+      "start": 38218,
+      "end": 38224,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 38315,
+      "end": 38319,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Paul",
+      "start": 38467,
+      "end": 38477,
+      "label": "PER"
+    },
+    {
+      "text": "Jacob",
+      "start": 38642,
+      "end": 38647,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 39058,
+      "end": 39062,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 40718,
+      "end": 40722,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 41581,
+      "end": 41585,
+      "label": "MISC"
+    },
+    {
+      "text": "Tyr",
+      "start": 41713,
+      "end": 41716,
+      "label": "LOC"
+    },
+    {
+      "text": "Carthage",
+      "start": 41721,
+      "end": 41729,
+      "label": "LOC"
+    },
+    {
+      "text": "Babylone",
+      "start": 41734,
+      "end": 41742,
+      "label": "LOC"
+    },
+    {
+      "text": "Babel",
+      "start": 41760,
+      "end": 41765,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 41769,
+      "end": 41778,
+      "label": "LOC"
+    },
+    {
+      "text": "Océan",
+      "start": 41988,
+      "end": 41993,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 42070,
+      "end": 42076,
+      "label": "PER"
+    },
+    {
+      "text": "Écritures",
+      "start": 42174,
+      "end": 42183,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42501,
+      "end": 42505,
+      "label": "MISC"
+    },
+    {
+      "text": "Où croyez",
+      "start": 42824,
+      "end": 42833,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42911,
+      "end": 42915,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Paul",
+      "start": 43095,
+      "end": 43105,
+      "label": "PER"
+    },
+    {
+      "text": "In Deo vivimus",
+      "start": 43118,
+      "end": 43132,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 43197,
+      "end": 43201,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 43548,
+      "end": 43552,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 43610,
+      "end": 43614,
+      "label": "MISC"
+    },
+    {
+      "text": "volez",
+      "start": 44284,
+      "end": 44289,
+      "label": "LOC"
+    },
+    {
+      "text": "Traversez",
+      "start": 44370,
+      "end": 44379,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 44413,
+      "end": 44417,
+      "label": "MISC"
+    },
+    {
+      "text": "Moïse",
+      "start": 44534,
+      "end": 44539,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 44701,
+      "end": 44705,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 44709,
+      "end": 44713,
+      "label": "MISC"
+    },
+    {
+      "text": "Sigier",
+      "start": 44758,
+      "end": 44764,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 45202,
+      "end": 45211,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 45280,
+      "end": 45286,
+      "label": "PER"
+    },
+    {
+      "text": "Gloire",
+      "start": 45320,
+      "end": 45326,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 45400,
+      "end": 45406,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 45476,
+      "end": 45480,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé !",
+      "start": 45569,
+      "end": 45573,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 45810,
+      "end": 45819,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 45837,
+      "end": 45843,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 46167,
+      "end": 46173,
+      "label": "LOC"
+    },
+    {
+      "text": "de la Seine",
+      "start": 46599,
+      "end": 46610,
+      "label": "LOC"
+    },
+    {
+      "text": "chaume",
+      "start": 46865,
+      "end": 46871,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe Auguste",
+      "start": 46899,
+      "end": 46915,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 47307,
+      "end": 47316,
+      "label": "PER"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 47952,
+      "end": 47961,
+      "label": "LOC"
+    },
+    {
+      "text": "lune",
+      "start": 48469,
+      "end": 48473,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 49847,
+      "end": 49856,
+      "label": "LOC"
+    },
+    {
+      "text": "Hélas !",
+      "start": 50044,
+      "end": 50051,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 50056,
+      "end": 50065,
+      "label": "LOC"
+    },
+    {
+      "text": "Proscrit",
+      "start": 50268,
+      "end": 50276,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrain",
+      "start": 50677,
+      "end": 50684,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51066,
+      "end": 51070,
+      "label": "MISC"
+    },
+    {
+      "text": "Intimidé",
+      "start": 51498,
+      "end": 51506,
+      "label": "LOC"
+    },
+    {
+      "text": "Sigier",
+      "start": 51861,
+      "end": 51867,
+      "label": "PER"
+    },
+    {
+      "text": "Science",
+      "start": 52109,
+      "end": 52116,
+      "label": "ORG"
+    },
+    {
+      "text": "Poésie",
+      "start": 52121,
+      "end": 52127,
+      "label": "LOC"
+    },
+    {
+      "text": "Sentiment",
+      "start": 52134,
+      "end": 52143,
+      "label": "LOC"
+    },
+    {
+      "text": "alluma",
+      "start": 52205,
+      "end": 52211,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 52333,
+      "end": 52342,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 52844,
+      "end": 52849,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 52875,
+      "end": 52883,
+      "label": "LOC"
+    },
+    {
+      "text": "Minuit",
+      "start": 53043,
+      "end": 53049,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 53161,
+      "end": 53171,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 53590,
+      "end": 53599,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 53773,
+      "end": 53782,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 53885,
+      "end": 53894,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 54077,
+      "end": 54086,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 54201,
+      "end": 54209,
+      "label": "LOC"
+    },
+    {
+      "text": "Terrain",
+      "start": 54251,
+      "end": 54258,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 54539,
+      "end": 54548,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 54569,
+      "end": 54578,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 54989,
+      "end": 54993,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 55003,
+      "end": 55012,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 55342,
+      "end": 55346,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh",
+      "start": 55380,
+      "end": 55382,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 55442,
+      "end": 55451,
+      "label": "PER"
+    },
+    {
+      "text": "Tes",
+      "start": 55615,
+      "end": 55618,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 56003,
+      "end": 56007,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 56174,
+      "end": 56183,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 56305,
+      "end": 56309,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 56315,
+      "end": 56319,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 56339,
+      "end": 56348,
+      "label": "MISC"
+    },
+    {
+      "text": "Sigier",
+      "start": 56491,
+      "end": 56497,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 56613,
+      "end": 56617,
+      "label": "MISC"
+    },
+    {
+      "text": "Me voilà !",
+      "start": 56785,
+      "end": 56795,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 56958,
+      "end": 56962,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 57171,
+      "end": 57172,
+      "label": "LOC"
+    },
+    {
+      "text": "Arrêtez",
+      "start": 57909,
+      "end": 57916,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 57927,
+      "end": 57936,
+      "label": "MISC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 58269,
+      "end": 58278,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroid",
+      "start": 59128,
+      "end": 59137,
+      "label": "LOC"
+    },
+    {
+      "text": "Veux",
+      "start": 59376,
+      "end": 59380,
+      "label": "PER"
+    },
+    {
+      "text": "Immortel",
+      "start": 59756,
+      "end": 59764,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfer",
+      "start": 60379,
+      "end": 60384,
+      "label": "ORG"
+    },
+    {
+      "text": "Paradis",
+      "start": 60432,
+      "end": 60439,
+      "label": "LOC"
+    },
+    {
+      "text": "Debout",
+      "start": 61278,
+      "end": 61284,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 61404,
+      "end": 61408,
+      "label": "MISC"
+    },
+    {
+      "text": "porte de l'Enfer",
+      "start": 61951,
+      "end": 61967,
+      "label": "LOC"
+    },
+    {
+      "text": "milan",
+      "start": 62296,
+      "end": 62301,
+      "label": "LOC"
+    },
+    {
+      "text": "SPLENDEUR",
+      "start": 62672,
+      "end": 62681,
+      "label": "LOC"
+    },
+    {
+      "text": "Puissances",
+      "start": 63016,
+      "end": 63026,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 63271,
+      "end": 63275,
+      "label": "MISC"
+    },
+    {
+      "text": "Ange",
+      "start": 63710,
+      "end": 63714,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfer",
+      "start": 64649,
+      "end": 64654,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfer",
+      "start": 64940,
+      "end": 64945,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 65115,
+      "end": 65119,
+      "label": "MISC"
+    },
+    {
+      "text": "Térésa",
+      "start": 65862,
+      "end": 65868,
+      "label": "LOC"
+    },
+    {
+      "text": "Térésa Donati",
+      "start": 65998,
+      "end": 66011,
+      "label": "PER"
+    },
+    {
+      "text": "Crémone",
+      "start": 66303,
+      "end": 66310,
+      "label": "LOC"
+    },
+    {
+      "text": "Térésa",
+      "start": 66645,
+      "end": 66651,
+      "label": "LOC"
+    },
+    {
+      "text": "Honorino",
+      "start": 66995,
+      "end": 67003,
+      "label": "PER"
+    },
+    {
+      "text": "Térésa",
+      "start": 67252,
+      "end": 67258,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 67308,
+      "end": 67312,
+      "label": "MISC"
+    },
+    {
+      "text": "Térésa",
+      "start": 67444,
+      "end": 67450,
+      "label": "LOC"
+    },
+    {
+      "text": "Maître",
+      "start": 67583,
+      "end": 67589,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 67689,
+      "end": 67693,
+      "label": "MISC"
+    },
+    {
+      "text": "Florence",
+      "start": 69030,
+      "end": 69038,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 69242,
+      "end": 69247,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 69366,
+      "end": 69374,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 69379,
+      "end": 69387,
+      "label": "LOC"
+    },
+    {
+      "text": "O",
+      "start": 69390,
+      "end": 69391,
+      "label": "MISC"
+    },
+    {
+      "text": "Florence",
+      "start": 69395,
+      "end": 69403,
+      "label": "LOC"
+    },
+    {
+      "text": "DANTE",
+      "start": 69420,
+      "end": 69425,
+      "label": "MISC"
+    },
+    {
+      "text": "Italie",
+      "start": 69500,
+      "end": 69506,
+      "label": "LOC"
+    },
+    {
+      "text": "Godefroy",
+      "start": 69576,
+      "end": 69584,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 69680,
+      "end": 69685,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 69688,
+      "end": 69696,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 69707,
+      "end": 69712,
+      "label": "PER"
+    },
+    {
+      "text": "Fiesolè",
+      "start": 69798,
+      "end": 69805,
+      "label": "PER"
+    },
+    {
+      "text": "Dante",
+      "start": 69941,
+      "end": 69946,
+      "label": "PER"
+    },
+    {
+      "text": "Paradis",
+      "start": 70071,
+      "end": 70078,
+      "label": "MISC"
+    },
+    {
+      "text": "Béatrix",
+      "start": 70126,
+      "end": 70133,
+      "label": "PER"
+    },
+    {
+      "text": "Mahaut",
+      "start": 70296,
+      "end": 70302,
+      "label": "PER"
+    },
+    {
+      "text": "Godefroid",
+      "start": 70319,
+      "end": 70328,
+      "label": "LOC"
+    },
+    {
+      "text": "Viens",
+      "start": 70332,
+      "end": 70337,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 70468,
+      "end": 70481,
+      "label": "PER"
+    },
+    {
+      "text": "Dante",
+      "start": 70603,
+      "end": 70608,
+      "label": "PER"
+    },
+    {
+      "text": "Guelfes",
+      "start": 70809,
+      "end": 70816,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 70819,
+      "end": 70824,
+      "label": "LOC"
+    }
+  ]
+}

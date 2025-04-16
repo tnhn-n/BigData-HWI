@@ -1,0 +1,6010 @@
+{
+  "entities": [
+    {
+      "text": "MÉNAGE",
+      "start": 3,
+      "end": 9,
+      "label": "MISC"
+    },
+    {
+      "text": "GARÇON",
+      "start": 13,
+      "end": 19,
+      "label": "MISC"
+    },
+    {
+      "text": "MONSIEUR",
+      "start": 29,
+      "end": 37,
+      "label": "ORG"
+    },
+    {
+      "text": "NODIER",
+      "start": 46,
+      "end": 52,
+      "label": "ORG"
+    },
+    {
+      "text": "Membre",
+      "start": 54,
+      "end": 60,
+      "label": "ORG"
+    },
+    {
+      "text": "Académie française",
+      "start": 66,
+      "end": 84,
+      "label": "ORG"
+    },
+    {
+      "text": "Arsenal",
+      "start": 105,
+      "end": 112,
+      "label": "LOC"
+    },
+    {
+      "text": "Nodier",
+      "start": 130,
+      "end": 136,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 249,
+      "end": 253,
+      "label": "MISC"
+    },
+    {
+      "text": "Famille",
+      "start": 479,
+      "end": 486,
+      "label": "LOC"
+    },
+    {
+      "text": "Maternité",
+      "start": 498,
+      "end": 507,
+      "label": "MISC"
+    },
+    {
+      "text": "Mère",
+      "start": 882,
+      "end": 886,
+      "label": "PER"
+    },
+    {
+      "text": "Femme",
+      "start": 947,
+      "end": 952,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 968,
+      "end": 971,
+      "label": "PER"
+    },
+    {
+      "text": "Puisse",
+      "start": 1318,
+      "end": 1324,
+      "label": "PER"
+    },
+    {
+      "text": "Puisse t",
+      "start": 1518,
+      "end": 1526,
+      "label": "PER"
+    },
+    {
+      "text": "Université laïque",
+      "start": 1664,
+      "end": 1681,
+      "label": "ORG"
+    },
+    {
+      "text": "Scènes",
+      "start": 1768,
+      "end": 1774,
+      "label": "MISC"
+    },
+    {
+      "text": "Scène",
+      "start": 2603,
+      "end": 2608,
+      "label": "PER"
+    },
+    {
+      "text": "Un de vos sincères admirateurs DE BALZAC",
+      "start": 2684,
+      "end": 2724,
+      "label": "MISC"
+    },
+    {
+      "text": "d'Issoudun",
+      "start": 2756,
+      "end": 2766,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouget",
+      "start": 2796,
+      "end": 2802,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 3163,
+      "end": 3169,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 3359,
+      "end": 3368,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 3678,
+      "end": 3684,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 3879,
+      "end": 3885,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 4156,
+      "end": 4165,
+      "label": "MISC"
+    },
+    {
+      "text": "Berry",
+      "start": 4340,
+      "end": 4345,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings le fils",
+      "start": 4482,
+      "end": 4499,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Rouget",
+      "start": 4513,
+      "end": 4526,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 4545,
+      "end": 4553,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 4582,
+      "end": 4587,
+      "label": "LOC"
+    },
+    {
+      "text": "rue St Honoré",
+      "start": 4620,
+      "end": 4633,
+      "label": "LOC"
+    },
+    {
+      "text": "Égyptiens",
+      "start": 5068,
+      "end": 5077,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 5115,
+      "end": 5124,
+      "label": "ORG"
+    },
+    {
+      "text": "Bixiou",
+      "start": 5408,
+      "end": 5414,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 5443,
+      "end": 5452,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 5506,
+      "end": 5515,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 5729,
+      "end": 5734,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 5825,
+      "end": 5834,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 5858,
+      "end": 5874,
+      "label": "PER"
+    },
+    {
+      "text": "vendange",
+      "start": 5984,
+      "end": 5992,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 6005,
+      "end": 6011,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur",
+      "start": 6054,
+      "end": 6062,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 6066,
+      "end": 6082,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 6224,
+      "end": 6230,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 6246,
+      "end": 6252,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 6385,
+      "end": 6393,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouget",
+      "start": 6513,
+      "end": 6519,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 6548,
+      "end": 6556,
+      "label": "PER"
+    },
+    {
+      "text": "Subdélégué",
+      "start": 6567,
+      "end": 6577,
+      "label": "LOC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 6600,
+      "end": 6608,
+      "label": "LOC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 6689,
+      "end": 6697,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 6804,
+      "end": 6810,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 6848,
+      "end": 6856,
+      "label": "PER"
+    },
+    {
+      "text": "Assemblée Nationale",
+      "start": 6955,
+      "end": 6974,
+      "label": "ORG"
+    },
+    {
+      "text": "Subdélégués",
+      "start": 6992,
+      "end": 7003,
+      "label": "MISC"
+    },
+    {
+      "text": "Lousteau partit",
+      "start": 7005,
+      "end": 7020,
+      "label": "ORG"
+    },
+    {
+      "text": "Issoudun",
+      "start": 7043,
+      "end": 7051,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Rouget",
+      "start": 7088,
+      "end": 7101,
+      "label": "PER"
+    },
+    {
+      "text": "Subdélégué",
+      "start": 7151,
+      "end": 7161,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Hochon",
+      "start": 7163,
+      "end": 7176,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 7282,
+      "end": 7290,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 7314,
+      "end": 7320,
+      "label": "PER"
+    },
+    {
+      "text": "madame Rouget",
+      "start": 7409,
+      "end": 7422,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 7459,
+      "end": 7465,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7468,
+      "end": 7473,
+      "label": "LOC"
+    },
+    {
+      "text": "Hochon",
+      "start": 7583,
+      "end": 7589,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 7710,
+      "end": 7716,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques Rouget",
+      "start": 7997,
+      "end": 8016,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 8149,
+      "end": 8155,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 8198,
+      "end": 8207,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 8255,
+      "end": 8265,
+      "label": "MISC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 8315,
+      "end": 8327,
+      "label": "PER"
+    },
+    {
+      "text": "Fouquier Tinville",
+      "start": 8330,
+      "end": 8347,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 8349,
+      "end": 8358,
+      "label": "PER"
+    },
+    {
+      "text": "Duplay",
+      "start": 8571,
+      "end": 8577,
+      "label": "ORG"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 8617,
+      "end": 8629,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 8703,
+      "end": 8712,
+      "label": "MISC"
+    },
+    {
+      "text": "Berrichon",
+      "start": 8731,
+      "end": 8740,
+      "label": "PER"
+    },
+    {
+      "text": "Maximilien Ier",
+      "start": 8828,
+      "end": 8842,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 8887,
+      "end": 8896,
+      "label": "MISC"
+    },
+    {
+      "text": "club des Jacobins",
+      "start": 8927,
+      "end": 8944,
+      "label": "ORG"
+    },
+    {
+      "text": "Descoings",
+      "start": 8981,
+      "end": 8990,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 9052,
+      "end": 9061,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 9169,
+      "end": 9178,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 9422,
+      "end": 9438,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 9451,
+      "end": 9457,
+      "label": "PER"
+    },
+    {
+      "text": "Roland",
+      "start": 9483,
+      "end": 9489,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre de l'Intérieur",
+      "start": 9491,
+      "end": 9514,
+      "label": "ORG"
+    },
+    {
+      "text": "Ministère",
+      "start": 9567,
+      "end": 9576,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 9599,
+      "end": 9605,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Bureau",
+      "start": 9651,
+      "end": 9665,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 9801,
+      "end": 9810,
+      "label": "MISC"
+    },
+    {
+      "text": "Éclairer",
+      "start": 9841,
+      "end": 9849,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 9920,
+      "end": 9928,
+      "label": "LOC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 9976,
+      "end": 9988,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 9996,
+      "end": 10002,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 10129,
+      "end": 10135,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 10263,
+      "end": 10275,
+      "label": "MISC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 10427,
+      "end": 10439,
+      "label": "LOC"
+    },
+    {
+      "text": "Duplay",
+      "start": 10637,
+      "end": 10643,
+      "label": "ORG"
+    },
+    {
+      "text": "Descoings",
+      "start": 10660,
+      "end": 10669,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings périt",
+      "start": 10836,
+      "end": 10851,
+      "label": "MISC"
+    },
+    {
+      "text": "André de Chénier",
+      "start": 10915,
+      "end": 10931,
+      "label": "PER"
+    },
+    {
+      "text": "Épicerie",
+      "start": 10951,
+      "end": 10959,
+      "label": "LOC"
+    },
+    {
+      "text": "Poésie",
+      "start": 10966,
+      "end": 10972,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 11101,
+      "end": 11110,
+      "label": "MISC"
+    },
+    {
+      "text": "André de Chénier",
+      "start": 11160,
+      "end": 11176,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 11221,
+      "end": 11230,
+      "label": "LOC"
+    },
+    {
+      "text": "Chénier",
+      "start": 11261,
+      "end": 11268,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 11283,
+      "end": 11292,
+      "label": "MISC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 11307,
+      "end": 11319,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 11427,
+      "end": 11436,
+      "label": "MISC"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 11469,
+      "end": 11481,
+      "label": "LOC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 11539,
+      "end": 11554,
+      "label": "PER"
+    },
+    {
+      "text": "Eau",
+      "start": 11727,
+      "end": 11730,
+      "label": "LOC"
+    },
+    {
+      "text": "Sciences Occultes",
+      "start": 11793,
+      "end": 11810,
+      "label": "ORG"
+    },
+    {
+      "text": "Descoings",
+      "start": 11893,
+      "end": 11902,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe Rouget",
+      "start": 11957,
+      "end": 11970,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 12320,
+      "end": 12329,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 12342,
+      "end": 12347,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 12382,
+      "end": 12388,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 12486,
+      "end": 12492,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Rouget",
+      "start": 12639,
+      "end": 12652,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 12740,
+      "end": 12748,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings père et mère",
+      "start": 12762,
+      "end": 12784,
+      "label": "MISC"
+    },
+    {
+      "text": "Rouget",
+      "start": 12833,
+      "end": 12839,
+      "label": "MISC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 13289,
+      "end": 13297,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 13350,
+      "end": 13356,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 13593,
+      "end": 13601,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Jacques Rouget",
+      "start": 13699,
+      "end": 13718,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 14134,
+      "end": 14140,
+      "label": "MISC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 14191,
+      "end": 14199,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 14306,
+      "end": 14312,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 14346,
+      "end": 14352,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 14590,
+      "end": 14596,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouget",
+      "start": 14654,
+      "end": 14660,
+      "label": "PER"
+    },
+    {
+      "text": "Corps Savants",
+      "start": 14858,
+      "end": 14871,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe Rouget",
+      "start": 14921,
+      "end": 14934,
+      "label": "PER"
+    },
+    {
+      "text": "Marie",
+      "start": 15024,
+      "end": 15029,
+      "label": "PER"
+    },
+    {
+      "text": "notre Seigneur",
+      "start": 15039,
+      "end": 15053,
+      "label": "MISC"
+    },
+    {
+      "text": "Bridau",
+      "start": 15155,
+      "end": 15161,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 15572,
+      "end": 15579,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Bureau",
+      "start": 15623,
+      "end": 15637,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 15669,
+      "end": 15675,
+      "label": "PER"
+    },
+    {
+      "text": "Pieuse",
+      "start": 15760,
+      "end": 15766,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 15852,
+      "end": 15858,
+      "label": "MISC"
+    },
+    {
+      "text": "Romaine",
+      "start": 16011,
+      "end": 16018,
+      "label": "MISC"
+    },
+    {
+      "text": "Consulat",
+      "start": 16147,
+      "end": 16155,
+      "label": "MISC"
+    },
+    {
+      "text": "Bridau",
+      "start": 16157,
+      "end": 16163,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 16190,
+      "end": 16198,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 16213,
+      "end": 16229,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 16262,
+      "end": 16268,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 16352,
+      "end": 16358,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 16432,
+      "end": 16440,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 16458,
+      "end": 16464,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 16509,
+      "end": 16515,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques",
+      "start": 16593,
+      "end": 16605,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 16720,
+      "end": 16726,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 16835,
+      "end": 16845,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 16847,
+      "end": 16853,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 16971,
+      "end": 16977,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 17014,
+      "end": 17030,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 17158,
+      "end": 17168,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 17318,
+      "end": 17334,
+      "label": "MISC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 17389,
+      "end": 17397,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 17417,
+      "end": 17426,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 17434,
+      "end": 17443,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 17552,
+      "end": 17565,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 17567,
+      "end": 17573,
+      "label": "PER"
+    },
+    {
+      "text": "Halle",
+      "start": 17615,
+      "end": 17620,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 17727,
+      "end": 17733,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 17758,
+      "end": 17767,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 17902,
+      "end": 17908,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 17987,
+      "end": 17993,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 18038,
+      "end": 18047,
+      "label": "MISC"
+    },
+    {
+      "text": "Bac",
+      "start": 18108,
+      "end": 18111,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 18299,
+      "end": 18305,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 18316,
+      "end": 18332,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère",
+      "start": 18606,
+      "end": 18615,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 18734,
+      "end": 18747,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 18806,
+      "end": 18811,
+      "label": "LOC"
+    },
+    {
+      "text": "Forcée",
+      "start": 18813,
+      "end": 18819,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 18883,
+      "end": 18899,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 18926,
+      "end": 18950,
+      "label": "ORG"
+    },
+    {
+      "text": "Bridau",
+      "start": 18959,
+      "end": 18965,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 18989,
+      "end": 18995,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 19194,
+      "end": 19200,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 19437,
+      "end": 19443,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 19499,
+      "end": 19509,
+      "label": "PER"
+    },
+    {
+      "text": "Directeur Général",
+      "start": 19527,
+      "end": 19544,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 19555,
+      "end": 19572,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 19586,
+      "end": 19594,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 19657,
+      "end": 19663,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 19733,
+      "end": 19741,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 19749,
+      "end": 19755,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 20019,
+      "end": 20025,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 20115,
+      "end": 20125,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 20131,
+      "end": 20140,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 20148,
+      "end": 20164,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 20219,
+      "end": 20229,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 20269,
+      "end": 20274,
+      "label": "LOC"
+    },
+    {
+      "text": "Frappé",
+      "start": 20374,
+      "end": 20380,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 20472,
+      "end": 20482,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre",
+      "start": 20503,
+      "end": 20508,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 20565,
+      "end": 20581,
+      "label": "ORG"
+    },
+    {
+      "text": "Bridau",
+      "start": 20646,
+      "end": 20652,
+      "label": "PER"
+    },
+    {
+      "text": "Ordre de la Réunion",
+      "start": 20672,
+      "end": 20691,
+      "label": "ORG"
+    },
+    {
+      "text": "L'empereur",
+      "start": 20928,
+      "end": 20938,
+      "label": "PER"
+    },
+    {
+      "text": "la Réunion",
+      "start": 20956,
+      "end": 20966,
+      "label": "LOC"
+    },
+    {
+      "text": "ordre de la Toison d'Or",
+      "start": 20997,
+      "end": 21020,
+      "label": "ORG"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 21032,
+      "end": 21041,
+      "label": "LOC"
+    },
+    {
+      "text": "ordre de la Toison d'Or",
+      "start": 21049,
+      "end": 21072,
+      "label": "ORG"
+    },
+    {
+      "text": "d'Autriche",
+      "start": 21084,
+      "end": 21094,
+      "label": "LOC"
+    },
+    {
+      "text": "Providence",
+      "start": 21099,
+      "end": 21109,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 21173,
+      "end": 21183,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 21224,
+      "end": 21237,
+      "label": "PER"
+    },
+    {
+      "text": "Impérial",
+      "start": 21298,
+      "end": 21306,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 21311,
+      "end": 21321,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 21405,
+      "end": 21418,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 21574,
+      "end": 21587,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 21623,
+      "end": 21631,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 21805,
+      "end": 21815,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 21860,
+      "end": 21866,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques Rouget",
+      "start": 21907,
+      "end": 21926,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 21989,
+      "end": 21997,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 22060,
+      "end": 22066,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hochon",
+      "start": 22190,
+      "end": 22203,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 22373,
+      "end": 22379,
+      "label": "PER"
+    },
+    {
+      "text": "madame Hochon",
+      "start": 22381,
+      "end": 22394,
+      "label": "PER"
+    },
+    {
+      "text": "Hochon",
+      "start": 22496,
+      "end": 22502,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 22504,
+      "end": 22510,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 22565,
+      "end": 22571,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 22616,
+      "end": 22621,
+      "label": "LOC"
+    },
+    {
+      "text": "Coutume du Berry",
+      "start": 22630,
+      "end": 22646,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 22787,
+      "end": 22793,
+      "label": "PER"
+    },
+    {
+      "text": "Issoudun",
+      "start": 22998,
+      "end": 23006,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 23040,
+      "end": 23046,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 23071,
+      "end": 23087,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 23173,
+      "end": 23179,
+      "label": "PER"
+    },
+    {
+      "text": "Rouget",
+      "start": 23416,
+      "end": 23422,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 23498,
+      "end": 23509,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 23547,
+      "end": 23553,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 23604,
+      "end": 23608,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 23617,
+      "end": 23630,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 23762,
+      "end": 23768,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 23881,
+      "end": 23897,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 23965,
+      "end": 23971,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 24002,
+      "end": 24008,
+      "label": "PER"
+    },
+    {
+      "text": "Antiquité",
+      "start": 24542,
+      "end": 24551,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 24765,
+      "end": 24781,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 25246,
+      "end": 25255,
+      "label": "MISC"
+    },
+    {
+      "text": "Danaïdes",
+      "start": 25624,
+      "end": 25632,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 25638,
+      "end": 25647,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 26399,
+      "end": 26415,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 26430,
+      "end": 26443,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 26588,
+      "end": 26594,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 26678,
+      "end": 26687,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 26729,
+      "end": 26738,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 26811,
+      "end": 26817,
+      "label": "PER"
+    },
+    {
+      "text": "Dresde",
+      "start": 26873,
+      "end": 26879,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 26911,
+      "end": 26920,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 26974,
+      "end": 26980,
+      "label": "PER"
+    },
+    {
+      "text": "Impérial",
+      "start": 27122,
+      "end": 27130,
+      "label": "MISC"
+    },
+    {
+      "text": "Bridau",
+      "start": 27150,
+      "end": 27156,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 27310,
+      "end": 27316,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 27752,
+      "end": 27758,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 27918,
+      "end": 27924,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 27943,
+      "end": 27959,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 28006,
+      "end": 28015,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 28251,
+      "end": 28257,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 28268,
+      "end": 28274,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 28289,
+      "end": 28295,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 28560,
+      "end": 28569,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 28680,
+      "end": 28686,
+      "label": "PER"
+    },
+    {
+      "text": "Feu Rouget",
+      "start": 28754,
+      "end": 28764,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 28794,
+      "end": 28803,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 28851,
+      "end": 28867,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques Rouget",
+      "start": 28909,
+      "end": 28928,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 29136,
+      "end": 29145,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 29233,
+      "end": 29246,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 29405,
+      "end": 29416,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 29495,
+      "end": 29500,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Mazarine",
+      "start": 29535,
+      "end": 29547,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Guénégaud",
+      "start": 29564,
+      "end": 29577,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de",
+      "start": 29619,
+      "end": 29625,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 29626,
+      "end": 29631,
+      "label": "LOC"
+    },
+    {
+      "text": "palais de l'Institut",
+      "start": 29645,
+      "end": 29665,
+      "label": "LOC"
+    },
+    {
+      "text": "cardinal Mazarin",
+      "start": 29735,
+      "end": 29751,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 29773,
+      "end": 29778,
+      "label": "LOC"
+    },
+    {
+      "text": "Académie française",
+      "start": 29812,
+      "end": 29830,
+      "label": "ORG"
+    },
+    {
+      "text": "Institut",
+      "start": 30107,
+      "end": 30115,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 30327,
+      "end": 30331,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaux Arts",
+      "start": 30660,
+      "end": 30670,
+      "label": "ORG"
+    },
+    {
+      "text": "Beaux Arts",
+      "start": 30873,
+      "end": 30883,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 30923,
+      "end": 30936,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 31055,
+      "end": 31063,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Mazarine",
+      "start": 31175,
+      "end": 31187,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Seine",
+      "start": 31454,
+      "end": 31466,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Bridau",
+      "start": 31797,
+      "end": 31810,
+      "label": "PER"
+    },
+    {
+      "text": "Impérial",
+      "start": 31997,
+      "end": 32005,
+      "label": "MISC"
+    },
+    {
+      "text": "Aubusson",
+      "start": 32395,
+      "end": 32403,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 32412,
+      "end": 32418,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère",
+      "start": 32457,
+      "end": 32466,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacob Desmalter",
+      "start": 32546,
+      "end": 32561,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 32686,
+      "end": 32692,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 33051,
+      "end": 33061,
+      "label": "PER"
+    },
+    {
+      "text": "Justum",
+      "start": 33071,
+      "end": 33077,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 33334,
+      "end": 33344,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 33411,
+      "end": 33421,
+      "label": "PER"
+    },
+    {
+      "text": "Vernet",
+      "start": 33440,
+      "end": 33446,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33454,
+      "end": 33462,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 33512,
+      "end": 33518,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 33604,
+      "end": 33609,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 34343,
+      "end": 34349,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 34920,
+      "end": 34926,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 35482,
+      "end": 35488,
+      "label": "PER"
+    },
+    {
+      "text": "Mazarine",
+      "start": 35662,
+      "end": 35670,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 35781,
+      "end": 35791,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 35798,
+      "end": 35808,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 35979,
+      "end": 35988,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 36075,
+      "end": 36088,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 36161,
+      "end": 36167,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 36196,
+      "end": 36202,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 36308,
+      "end": 36314,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 36419,
+      "end": 36428,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 36592,
+      "end": 36601,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère autrefois",
+      "start": 36684,
+      "end": 36703,
+      "label": "ORG"
+    },
+    {
+      "text": "Bridau",
+      "start": 36715,
+      "end": 36721,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 36773,
+      "end": 36782,
+      "label": "MISC"
+    },
+    {
+      "text": "Bridau",
+      "start": 36973,
+      "end": 36979,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 37004,
+      "end": 37010,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 37199,
+      "end": 37205,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 37210,
+      "end": 37216,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 37220,
+      "end": 37228,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 37251,
+      "end": 37260,
+      "label": "MISC"
+    },
+    {
+      "text": "Semblable",
+      "start": 37262,
+      "end": 37271,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 37380,
+      "end": 37389,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 37457,
+      "end": 37463,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 37467,
+      "end": 37475,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 37838,
+      "end": 37851,
+      "label": "PER"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 38233,
+      "end": 38243,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 38484,
+      "end": 38490,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 38593,
+      "end": 38609,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 38699,
+      "end": 38703,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Bridau",
+      "start": 40184,
+      "end": 40197,
+      "label": "PER"
+    },
+    {
+      "text": "École française",
+      "start": 40229,
+      "end": 40244,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 40255,
+      "end": 40263,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 40292,
+      "end": 40298,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 40492,
+      "end": 40500,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 40511,
+      "end": 40520,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 40539,
+      "end": 40545,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 40663,
+      "end": 40671,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 40713,
+      "end": 40718,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 41245,
+      "end": 41251,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 41304,
+      "end": 41312,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 41448,
+      "end": 41456,
+      "label": "PER"
+    },
+    {
+      "text": "rue Mazarine",
+      "start": 41543,
+      "end": 41555,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 41642,
+      "end": 41648,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 41956,
+      "end": 41962,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 42178,
+      "end": 42184,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 42225,
+      "end": 42231,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 42348,
+      "end": 42354,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 42591,
+      "end": 42596,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 42610,
+      "end": 42618,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 42623,
+      "end": 42632,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Loraux",
+      "start": 42652,
+      "end": 42663,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 42681,
+      "end": 42687,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 42713,
+      "end": 42719,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 43433,
+      "end": 43441,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 43492,
+      "end": 43498,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 43552,
+      "end": 43560,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 43688,
+      "end": 43694,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 43760,
+      "end": 43768,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 43797,
+      "end": 43803,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 43826,
+      "end": 43832,
+      "label": "PER"
+    },
+    {
+      "text": "Pâques",
+      "start": 43916,
+      "end": 43922,
+      "label": "MISC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 43955,
+      "end": 43964,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 43983,
+      "end": 43999,
+      "label": "PER"
+    },
+    {
+      "text": "rue Mazarine",
+      "start": 44247,
+      "end": 44259,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut",
+      "start": 44320,
+      "end": 44328,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 44805,
+      "end": 44806,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 44824,
+      "end": 44828,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 44881,
+      "end": 44887,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 44939,
+      "end": 44946,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 45088,
+      "end": 45094,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 45260,
+      "end": 45273,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 45277,
+      "end": 45281,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 45307,
+      "end": 45320,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 45415,
+      "end": 45428,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 45540,
+      "end": 45544,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 45627,
+      "end": 45633,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 46060,
+      "end": 46066,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 46313,
+      "end": 46319,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 46406,
+      "end": 46412,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 46553,
+      "end": 46557,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 46585,
+      "end": 46589,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 46630,
+      "end": 46640,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 46746,
+      "end": 46753,
+      "label": "PER"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 46755,
+      "end": 46765,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 46951,
+      "end": 46957,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 47071,
+      "end": 47075,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 47225,
+      "end": 47231,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 47298,
+      "end": 47305,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 47339,
+      "end": 47345,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 47371,
+      "end": 47380,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 47386,
+      "end": 47392,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 47578,
+      "end": 47582,
+      "label": "MISC"
+    },
+    {
+      "text": "Silence",
+      "start": 47614,
+      "end": 47621,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaudet",
+      "start": 47646,
+      "end": 47653,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 47683,
+      "end": 47696,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 47738,
+      "end": 47748,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 47756,
+      "end": 47766,
+      "label": "PER"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 47865,
+      "end": 47881,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 47885,
+      "end": 47909,
+      "label": "ORG"
+    },
+    {
+      "text": "Chaudet",
+      "start": 47919,
+      "end": 47926,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 47982,
+      "end": 47985,
+      "label": "LOC"
+    },
+    {
+      "text": "Viens",
+      "start": 47999,
+      "end": 48004,
+      "label": "PER"
+    },
+    {
+      "text": "Donnez",
+      "start": 48052,
+      "end": 48058,
+      "label": "PER"
+    },
+    {
+      "text": "Apprenez",
+      "start": 48119,
+      "end": 48127,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 48180,
+      "end": 48185,
+      "label": "MISC"
+    },
+    {
+      "text": "Corde à Puits",
+      "start": 48187,
+      "end": 48200,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 48319,
+      "end": 48325,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 48416,
+      "end": 48423,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 48450,
+      "end": 48456,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 48687,
+      "end": 48693,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 48919,
+      "end": 48926,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 48995,
+      "end": 49005,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 49038,
+      "end": 49044,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 49196,
+      "end": 49203,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 49208,
+      "end": 49217,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 49286,
+      "end": 49292,
+      "label": "PER"
+    },
+    {
+      "text": "Lycée impérial",
+      "start": 49363,
+      "end": 49377,
+      "label": "LOC"
+    },
+    {
+      "text": "Lemire",
+      "start": 49531,
+      "end": 49537,
+      "label": "PER"
+    },
+    {
+      "text": "Impérial",
+      "start": 49559,
+      "end": 49567,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 49628,
+      "end": 49634,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 49649,
+      "end": 49662,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 49691,
+      "end": 49697,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 49855,
+      "end": 49859,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 49878,
+      "end": 49887,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 49911,
+      "end": 49917,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 49989,
+      "end": 50013,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 50234,
+      "end": 50250,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 50317,
+      "end": 50323,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 50393,
+      "end": 50398,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 50581,
+      "end": 50587,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 50753,
+      "end": 50759,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 50801,
+      "end": 50807,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 50846,
+      "end": 50855,
+      "label": "MISC"
+    },
+    {
+      "text": "Chaudet",
+      "start": 50862,
+      "end": 50869,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 50933,
+      "end": 50940,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 51400,
+      "end": 51406,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaudet",
+      "start": 51460,
+      "end": 51467,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 51809,
+      "end": 51815,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 51881,
+      "end": 51887,
+      "label": "PER"
+    },
+    {
+      "text": "Giotto",
+      "start": 52230,
+      "end": 52236,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 52242,
+      "end": 52249,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 52255,
+      "end": 52261,
+      "label": "MISC"
+    },
+    {
+      "text": "Rubens",
+      "start": 52267,
+      "end": 52273,
+      "label": "LOC"
+    },
+    {
+      "text": "Murillo",
+      "start": 52279,
+      "end": 52286,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 52356,
+      "end": 52360,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 52421,
+      "end": 52431,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 52523,
+      "end": 52528,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 52887,
+      "end": 52891,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 53073,
+      "end": 53079,
+      "label": "PER"
+    },
+    {
+      "text": "Bridau",
+      "start": 53292,
+      "end": 53298,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 53317,
+      "end": 53324,
+      "label": "PER"
+    },
+    {
+      "text": "Hue",
+      "start": 53372,
+      "end": 53375,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 53404,
+      "end": 53410,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 53432,
+      "end": 53438,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 53578,
+      "end": 53591,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 53671,
+      "end": 53677,
+      "label": "PER"
+    },
+    {
+      "text": "Institut",
+      "start": 53752,
+      "end": 53760,
+      "label": "LOC"
+    },
+    {
+      "text": "Regnauld",
+      "start": 53808,
+      "end": 53816,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 53921,
+      "end": 53928,
+      "label": "LOC"
+    },
+    {
+      "text": "Regnauld",
+      "start": 53953,
+      "end": 53961,
+      "label": "PER"
+    },
+    {
+      "text": "Chaudet",
+      "start": 53974,
+      "end": 53981,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 54144,
+      "end": 54157,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 54222,
+      "end": 54228,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 54377,
+      "end": 54390,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 54410,
+      "end": 54418,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 54510,
+      "end": 54519,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 54604,
+      "end": 54610,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 54690,
+      "end": 54696,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 54725,
+      "end": 54734,
+      "label": "PER"
+    },
+    {
+      "text": "Moi je n'ai",
+      "start": 54795,
+      "end": 54806,
+      "label": "MISC"
+    },
+    {
+      "text": "Collège",
+      "start": 55249,
+      "end": 55256,
+      "label": "ORG"
+    },
+    {
+      "text": "Avoué",
+      "start": 55282,
+      "end": 55287,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 55582,
+      "end": 55587,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef de Division",
+      "start": 55595,
+      "end": 55611,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous, monsieur",
+      "start": 55876,
+      "end": 55890,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 55959,
+      "end": 55965,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 55984,
+      "end": 55992,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 56456,
+      "end": 56460,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 56649,
+      "end": 56655,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 56714,
+      "end": 56727,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 56901,
+      "end": 56910,
+      "label": "MISC"
+    },
+    {
+      "text": "Perdu !",
+      "start": 57036,
+      "end": 57043,
+      "label": "MISC"
+    },
+    {
+      "text": "Claparon",
+      "start": 57048,
+      "end": 57056,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 57103,
+      "end": 57107,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 57158,
+      "end": 57167,
+      "label": "LOC"
+    },
+    {
+      "text": "Consolez",
+      "start": 57195,
+      "end": 57203,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 57210,
+      "end": 57216,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 57225,
+      "end": 57234,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 57236,
+      "end": 57242,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 57468,
+      "end": 57474,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 57543,
+      "end": 57548,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 57564,
+      "end": 57570,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 57657,
+      "end": 57666,
+      "label": "MISC"
+    },
+    {
+      "text": "Grèce",
+      "start": 57736,
+      "end": 57741,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 57776,
+      "end": 57781,
+      "label": "LOC"
+    },
+    {
+      "text": "Claparon",
+      "start": 57861,
+      "end": 57869,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 57876,
+      "end": 57880,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 57895,
+      "end": 57905,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 57911,
+      "end": 57920,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 57922,
+      "end": 57928,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 58056,
+      "end": 58065,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 58183,
+      "end": 58187,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 58207,
+      "end": 58215,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 58378,
+      "end": 58387,
+      "label": "MISC"
+    },
+    {
+      "text": "Moscou",
+      "start": 58441,
+      "end": 58447,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 58460,
+      "end": 58468,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 58548,
+      "end": 58557,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 58620,
+      "end": 58628,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 58708,
+      "end": 58717,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 58740,
+      "end": 58748,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 58763,
+      "end": 58771,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 58955,
+      "end": 58963,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 59080,
+      "end": 59090,
+      "label": "PER"
+    },
+    {
+      "text": "Sire",
+      "start": 59121,
+      "end": 59125,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 59149,
+      "end": 59155,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 59340,
+      "end": 59350,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe du lycée Impérial",
+      "start": 59358,
+      "end": 59384,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Cyr",
+      "start": 59387,
+      "end": 59396,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 59530,
+      "end": 59538,
+      "label": "PER"
+    },
+    {
+      "text": "campagne de France",
+      "start": 59659,
+      "end": 59677,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Empereur",
+      "start": 59766,
+      "end": 59776,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 59783,
+      "end": 59791,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de La Fère Champenoise",
+      "start": 59807,
+      "end": 59838,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 59915,
+      "end": 59923,
+      "label": "PER"
+    },
+    {
+      "text": "Montereau",
+      "start": 59941,
+      "end": 59950,
+      "label": "LOC"
+    },
+    {
+      "text": "Témoin",
+      "start": 59952,
+      "end": 59958,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 59973,
+      "end": 59981,
+      "label": "PER"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 59984,
+      "end": 59997,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 60042,
+      "end": 60050,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 60072,
+      "end": 60080,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 60175,
+      "end": 60181,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 60199,
+      "end": 60212,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 60262,
+      "end": 60272,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 60320,
+      "end": 60344,
+      "label": "ORG"
+    },
+    {
+      "text": "Joseph",
+      "start": 60346,
+      "end": 60352,
+      "label": "PER"
+    },
+    {
+      "text": "M. Regnauld",
+      "start": 60452,
+      "end": 60463,
+      "label": "PER"
+    },
+    {
+      "text": "Seconde",
+      "start": 60538,
+      "end": 60545,
+      "label": "PER"
+    },
+    {
+      "text": "Rhétorique",
+      "start": 60567,
+      "end": 60577,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 60615,
+      "end": 60623,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 60660,
+      "end": 60670,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 60908,
+      "end": 60914,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 61137,
+      "end": 61143,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 61177,
+      "end": 61186,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 61194,
+      "end": 61200,
+      "label": "PER"
+    },
+    {
+      "text": "Gros",
+      "start": 61211,
+      "end": 61215,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 61339,
+      "end": 61347,
+      "label": "PER"
+    },
+    {
+      "text": "capitaine Bridau",
+      "start": 61371,
+      "end": 61387,
+      "label": "PER"
+    },
+    {
+      "text": "Lyon",
+      "start": 61416,
+      "end": 61420,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 61441,
+      "end": 61450,
+      "label": "LOC"
+    },
+    {
+      "text": "Dragons",
+      "start": 61482,
+      "end": 61489,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde",
+      "start": 61496,
+      "end": 61501,
+      "label": "LOC"
+    },
+    {
+      "text": "bataille de Waterloo",
+      "start": 61512,
+      "end": 61532,
+      "label": "MISC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 61618,
+      "end": 61634,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 61676,
+      "end": 61687,
+      "label": "PER"
+    },
+    {
+      "text": "la Loire",
+      "start": 61725,
+      "end": 61733,
+      "label": "LOC"
+    },
+    {
+      "text": "maréchal Davoust",
+      "start": 61764,
+      "end": 61780,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 61872,
+      "end": 61878,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 62059,
+      "end": 62065,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 62068,
+      "end": 62084,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 62165,
+      "end": 62171,
+      "label": "LOC"
+    },
+    {
+      "text": "Dragons",
+      "start": 62329,
+      "end": 62336,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde Impériale",
+      "start": 62343,
+      "end": 62358,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 62501,
+      "end": 62509,
+      "label": "PER"
+    },
+    {
+      "text": "café Lemblin",
+      "start": 62555,
+      "end": 62567,
+      "label": "PER"
+    },
+    {
+      "text": "Béotie",
+      "start": 62579,
+      "end": 62585,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 62804,
+      "end": 62812,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 62971,
+      "end": 62979,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 63086,
+      "end": 63094,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 63139,
+      "end": 63145,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 63226,
+      "end": 63232,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 63238,
+      "end": 63246,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 63353,
+      "end": 63363,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 63540,
+      "end": 63546,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 63596,
+      "end": 63602,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 63897,
+      "end": 63905,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 63945,
+      "end": 63953,
+      "label": "MISC"
+    },
+    {
+      "text": "Dragons de la Garde",
+      "start": 64063,
+      "end": 64082,
+      "label": "MISC"
+    },
+    {
+      "text": "Champ de Mai",
+      "start": 64111,
+      "end": 64123,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 64148,
+      "end": 64154,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 64206,
+      "end": 64212,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 64277,
+      "end": 64283,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 64312,
+      "end": 64320,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 64464,
+      "end": 64470,
+      "label": "PER"
+    },
+    {
+      "text": "Moutard",
+      "start": 64657,
+      "end": 64664,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 64837,
+      "end": 64843,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre",
+      "start": 65025,
+      "end": 65031,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 65048,
+      "end": 65056,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 65198,
+      "end": 65206,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 65273,
+      "end": 65279,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 65376,
+      "end": 65385,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 65598,
+      "end": 65604,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 65683,
+      "end": 65699,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 65789,
+      "end": 65795,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 65864,
+      "end": 65870,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 65923,
+      "end": 65929,
+      "label": "PER"
+    },
+    {
+      "text": "Gros",
+      "start": 65992,
+      "end": 65996,
+      "label": "PER"
+    },
+    {
+      "text": "Schinner",
+      "start": 66009,
+      "end": 66017,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 66255,
+      "end": 66263,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre de la Guerre",
+      "start": 66333,
+      "end": 66354,
+      "label": "ORG"
+    },
+    {
+      "text": "La France",
+      "start": 66448,
+      "end": 66457,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 66480,
+      "end": 66488,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 66626,
+      "end": 66634,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 66767,
+      "end": 66773,
+      "label": "PER"
+    },
+    {
+      "text": "Grèce",
+      "start": 66863,
+      "end": 66868,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère de l'Intérieur",
+      "start": 67143,
+      "end": 67167,
+      "label": "ORG"
+    },
+    {
+      "text": "Claparon",
+      "start": 67214,
+      "end": 67222,
+      "label": "PER"
+    },
+    {
+      "text": "Moniteur",
+      "start": 67284,
+      "end": 67292,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 67332,
+      "end": 67341,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 67393,
+      "end": 67398,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 67468,
+      "end": 67474,
+      "label": "LOC"
+    },
+    {
+      "text": "Empereur",
+      "start": 67706,
+      "end": 67714,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 67748,
+      "end": 67753,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 67860,
+      "end": 67866,
+      "label": "MISC"
+    },
+    {
+      "text": "Indes",
+      "start": 67872,
+      "end": 67877,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 67901,
+      "end": 67907,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 67961,
+      "end": 67970,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnie d'Assurances",
+      "start": 68067,
+      "end": 68089,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 68137,
+      "end": 68145,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 68205,
+      "end": 68211,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 68378,
+      "end": 68383,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Navarreins",
+      "start": 68420,
+      "end": 68437,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 68443,
+      "end": 68451,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 68658,
+      "end": 68667,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 68669,
+      "end": 68675,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 68693,
+      "end": 68701,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 68847,
+      "end": 68857,
+      "label": "PER"
+    },
+    {
+      "text": "Servir",
+      "start": 68861,
+      "end": 68867,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 68895,
+      "end": 68903,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 68918,
+      "end": 68924,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 69011,
+      "end": 69017,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 69022,
+      "end": 69030,
+      "label": "LOC"
+    },
+    {
+      "text": "Colonne",
+      "start": 69051,
+      "end": 69058,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 69093,
+      "end": 69101,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 69177,
+      "end": 69185,
+      "label": "PER"
+    },
+    {
+      "text": "général Lallemant",
+      "start": 69231,
+      "end": 69248,
+      "label": "PER"
+    },
+    {
+      "text": "États Unis",
+      "start": 69253,
+      "end": 69263,
+      "label": "LOC"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 69298,
+      "end": 69311,
+      "label": "LOC"
+    },
+    {
+      "text": "Souscriptions Nationales",
+      "start": 69374,
+      "end": 69398,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 69400,
+      "end": 69406,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 69520,
+      "end": 69528,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 69548,
+      "end": 69554,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 69635,
+      "end": 69646,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 69818,
+      "end": 69824,
+      "label": "PER"
+    },
+    {
+      "text": "Brie",
+      "start": 70039,
+      "end": 70043,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 70109,
+      "end": 70118,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 70125,
+      "end": 70131,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 70271,
+      "end": 70280,
+      "label": "LOC"
+    },
+    {
+      "text": "Bridau",
+      "start": 70346,
+      "end": 70352,
+      "label": "PER"
+    },
+    {
+      "text": "Gros",
+      "start": 70457,
+      "end": 70461,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 70784,
+      "end": 70790,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 70849,
+      "end": 70854,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 70903,
+      "end": 70909,
+      "label": "PER"
+    },
+    {
+      "text": "madame Descoings",
+      "start": 70925,
+      "end": 70941,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 70948,
+      "end": 70961,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 71136,
+      "end": 71144,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 71203,
+      "end": 71211,
+      "label": "PER"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 71290,
+      "end": 71303,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 71344,
+      "end": 71350,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 71355,
+      "end": 71364,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 71368,
+      "end": 71374,
+      "label": "PER"
+    },
+    {
+      "text": "New York",
+      "start": 71408,
+      "end": 71416,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 71585,
+      "end": 71593,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 71638,
+      "end": 71647,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 71715,
+      "end": 71731,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 71783,
+      "end": 71796,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 72327,
+      "end": 72333,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 72377,
+      "end": 72383,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de la Maison du Roi",
+      "start": 72444,
+      "end": 72473,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 72501,
+      "end": 72512,
+      "label": "PER"
+    },
+    {
+      "text": "Gros",
+      "start": 72573,
+      "end": 72577,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 72693,
+      "end": 72699,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 72770,
+      "end": 72776,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 73086,
+      "end": 73094,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 73163,
+      "end": 73171,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 73184,
+      "end": 73190,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 73259,
+      "end": 73263,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph !",
+      "start": 73264,
+      "end": 73272,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 73296,
+      "end": 73302,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 73320,
+      "end": 73324,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 73574,
+      "end": 73580,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Bridau",
+      "start": 73655,
+      "end": 73668,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 73719,
+      "end": 73727,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 73738,
+      "end": 73746,
+      "label": "LOC"
+    },
+    {
+      "text": "François Ier",
+      "start": 73808,
+      "end": 73820,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 74254,
+      "end": 74262,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 74323,
+      "end": 74329,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 74334,
+      "end": 74338,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 74462,
+      "end": 74470,
+      "label": "PER"
+    },
+    {
+      "text": "Texas",
+      "start": 74488,
+      "end": 74493,
+      "label": "LOC"
+    },
+    {
+      "text": "New York",
+      "start": 74508,
+      "end": 74516,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 74876,
+      "end": 74884,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 75190,
+      "end": 75198,
+      "label": "PER"
+    },
+    {
+      "text": "spectacle de New York",
+      "start": 75303,
+      "end": 75324,
+      "label": "LOC"
+    },
+    {
+      "text": "Gonin",
+      "start": 76148,
+      "end": 76153,
+      "label": "LOC"
+    },
+    {
+      "text": "Texas",
+      "start": 76855,
+      "end": 76860,
+      "label": "LOC"
+    },
+    {
+      "text": "New York",
+      "start": 76982,
+      "end": 76990,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 77076,
+      "end": 77084,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 77260,
+      "end": 77273,
+      "label": "PER"
+    },
+    {
+      "text": "au Havre",
+      "start": 77282,
+      "end": 77290,
+      "label": "LOC"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 77485,
+      "end": 77498,
+      "label": "LOC"
+    },
+    {
+      "text": "Texas",
+      "start": 77564,
+      "end": 77569,
+      "label": "LOC"
+    },
+    {
+      "text": "Texas",
+      "start": 77688,
+      "end": 77693,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 77770,
+      "end": 77782,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 78162,
+      "end": 78168,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 78676,
+      "end": 78687,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 78701,
+      "end": 78710,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 78870,
+      "end": 78876,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 79070,
+      "end": 79078,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 79216,
+      "end": 79226,
+      "label": "PER"
+    },
+    {
+      "text": "Libéraux",
+      "start": 79248,
+      "end": 79256,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 79282,
+      "end": 79290,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonapartistes",
+      "start": 79302,
+      "end": 79315,
+      "label": "LOC"
+    },
+    {
+      "text": "au Havre",
+      "start": 79361,
+      "end": 79369,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministre de la Guerre ",
+      "start": 79483,
+      "end": 79505,
+      "label": "ORG"
+    },
+    {
+      "text": "du Havre",
+      "start": 79542,
+      "end": 79550,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 79605,
+      "end": 79610,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 79660,
+      "end": 79669,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 79673,
+      "end": 79679,
+      "label": "PER"
+    },
+    {
+      "text": "Messageries royales",
+      "start": 79742,
+      "end": 79761,
+      "label": "ORG"
+    },
+    {
+      "text": "Agathe",
+      "start": 79806,
+      "end": 79812,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 79860,
+      "end": 79869,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 79872,
+      "end": 79878,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 79953,
+      "end": 79960,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 79967,
+      "end": 79976,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 80042,
+      "end": 80048,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 80080,
+      "end": 80089,
+      "label": "MISC"
+    },
+    {
+      "text": "fiacre",
+      "start": 80127,
+      "end": 80133,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 80139,
+      "end": 80145,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 80272,
+      "end": 80280,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 80478,
+      "end": 80484,
+      "label": "PER"
+    },
+    {
+      "text": "Cénacle",
+      "start": 80577,
+      "end": 80584,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 80788,
+      "end": 80796,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 80839,
+      "end": 80845,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 80897,
+      "end": 80906,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 80915,
+      "end": 80921,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 81022,
+      "end": 81030,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 81052,
+      "end": 81061,
+      "label": "MISC"
+    },
+    {
+      "text": "Claparon",
+      "start": 81234,
+      "end": 81242,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 81246,
+      "end": 81255,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 81328,
+      "end": 81334,
+      "label": "PER"
+    },
+    {
+      "text": "Léon Giraud",
+      "start": 81348,
+      "end": 81359,
+      "label": "PER"
+    },
+    {
+      "text": "Arthez",
+      "start": 81363,
+      "end": 81369,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Chrestien",
+      "start": 81371,
+      "end": 81387,
+      "label": "PER"
+    },
+    {
+      "text": "Fulgence Ridal",
+      "start": 81389,
+      "end": 81403,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 81407,
+      "end": 81415,
+      "label": "MISC"
+    },
+    {
+      "text": "Cénacle",
+      "start": 81429,
+      "end": 81436,
+      "label": "ORG"
+    },
+    {
+      "text": "Descoings dit",
+      "start": 81441,
+      "end": 81454,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 81457,
+      "end": 81463,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 81531,
+      "end": 81540,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 81602,
+      "end": 81607,
+      "label": "ORG"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 81633,
+      "end": 81641,
+      "label": "PER"
+    },
+    {
+      "text": "Claparon",
+      "start": 81643,
+      "end": 81651,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 81653,
+      "end": 81662,
+      "label": "LOC"
+    },
+    {
+      "text": "Loraux",
+      "start": 81673,
+      "end": 81679,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 81867,
+      "end": 81873,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 81937,
+      "end": 81943,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 81988,
+      "end": 81996,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 82073,
+      "end": 82081,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 82135,
+      "end": 82141,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 82244,
+      "end": 82249,
+      "label": "LOC"
+    },
+    {
+      "text": "Agathe",
+      "start": 82416,
+      "end": 82422,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 82468,
+      "end": 82476,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 82599,
+      "end": 82608,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 82617,
+      "end": 82623,
+      "label": "PER"
+    },
+    {
+      "text": "Maman Descoings",
+      "start": 82677,
+      "end": 82692,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 82743,
+      "end": 82749,
+      "label": "PER"
+    },
+    {
+      "text": "Loterie Royale",
+      "start": 82815,
+      "end": 82829,
+      "label": "ORG"
+    },
+    {
+      "text": "boston",
+      "start": 82983,
+      "end": 82989,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 83013,
+      "end": 83021,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches fils",
+      "start": 83149,
+      "end": 83163,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 83169,
+      "end": 83175,
+      "label": "PER"
+    },
+    {
+      "text": "boston",
+      "start": 83290,
+      "end": 83296,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 83314,
+      "end": 83322,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches",
+      "start": 83426,
+      "end": 83435,
+      "label": "PER"
+    },
+    {
+      "text": "Desroches père",
+      "start": 83495,
+      "end": 83509,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 83581,
+      "end": 83597,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 83685,
+      "end": 83693,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 83887,
+      "end": 83893,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 83909,
+      "end": 83917,
+      "label": "PER"
+    },
+    {
+      "text": "viens",
+      "start": 83919,
+      "end": 83924,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 83976,
+      "end": 83982,
+      "label": "PER"
+    },
+    {
+      "text": "madame Bridau",
+      "start": 84015,
+      "end": 84028,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 84044,
+      "end": 84050,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 84160,
+      "end": 84166,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 84173,
+      "end": 84182,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 84314,
+      "end": 84322,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 84378,
+      "end": 84387,
+      "label": "MISC"
+    },
+    {
+      "text": "Agathe",
+      "start": 84613,
+      "end": 84619,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 84818,
+      "end": 84826,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 84857,
+      "end": 84863,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Descoings",
+      "start": 85054,
+      "end": 85070,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 85074,
+      "end": 85080,
+      "label": "PER"
+    },
+    {
+      "text": "Descoings",
+      "start": 85192,
+      "end": 85201,
+      "label": "MISC"
+    },
+    {
+      "text": "Descoings",
+      "start": 85223,
+      "end": 85232,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 85271,
+      "end": 85277,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 85354,
+      "end": 85360,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 85413,
+      "end": 85419,
+      "label": "LOC"
+    },
+    {
+      "text": "Soyez tranquilles",
+      "start": 85497,
+      "end": 85514,
+      "label": "ORG"
+    },
+    {
+      "text": "Agathe",
+      "start": 85658,
+      "end": 85664,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings glissa cent francs dans la main",
+      "start": 85690,
+      "end": 85731,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 85735,
+      "end": 85743,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 85888,
+      "end": 85894,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 85945,
+      "end": 85950,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 85975,
+      "end": 85983,
+      "label": "PER"
+    },
+    {
+      "text": "Pont Neuf",
+      "start": 86240,
+      "end": 86249,
+      "label": "LOC"
+    },
+    {
+      "text": "pont des Arts",
+      "start": 86304,
+      "end": 86317,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 86333,
+      "end": 86345,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Vivienne",
+      "start": 86497,
+      "end": 86509,
+      "label": "LOC"
+    },
+    {
+      "text": "Minerve",
+      "start": 86532,
+      "end": 86539,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 86664,
+      "end": 86672,
+      "label": "PER"
+    },
+    {
+      "text": "Estaminet Hollandais",
+      "start": 86865,
+      "end": 86885,
+      "label": "ORG"
+    },
+    {
+      "text": "punch",
+      "start": 87252,
+      "end": 87257,
+      "label": "MISC"
+    },
+    {
+      "text": "Ultras",
+      "start": 87322,
+      "end": 87328,
+      "label": "PER"
+    },
+    {
+      "text": "Gardes du corps",
+      "start": 87334,
+      "end": 87349,
+      "label": "MISC"
+    },
+    {
+      "text": "Veillons au salut de l'Empire",
+      "start": 87384,
+      "end": 87413,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 87479,
+      "end": 87487,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 87722,
+      "end": 87730,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 87955,
+      "end": 87965,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 88006,
+      "end": 88014,
+      "label": "PER"
+    },
+    {
+      "text": "Dragons",
+      "start": 88067,
+      "end": 88074,
+      "label": "MISC"
+    },
+    {
+      "text": "Garde",
+      "start": 88081,
+      "end": 88086,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 88094,
+      "end": 88103,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 88179,
+      "end": 88187,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 88204,
+      "end": 88212,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 88353,
+      "end": 88362,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 88370,
+      "end": 88378,
+      "label": "PER"
+    },
+    {
+      "text": "Gaîté",
+      "start": 88398,
+      "end": 88403,
+      "label": "LOC"
+    },
+    {
+      "text": "Finot",
+      "start": 88480,
+      "end": 88485,
+      "label": "PER"
+    },
+    {
+      "text": "Vêtus",
+      "start": 88574,
+      "end": 88579,
+      "label": "PER"
+    },
+    {
+      "text": "menton",
+      "start": 88726,
+      "end": 88732,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 89121,
+      "end": 89130,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 89153,
+      "end": 89161,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 89207,
+      "end": 89217,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 89336,
+      "end": 89344,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 89428,
+      "end": 89432,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 89449,
+      "end": 89458,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 89605,
+      "end": 89613,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 89671,
+      "end": 89680,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 89832,
+      "end": 89842,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 89895,
+      "end": 89904,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 89908,
+      "end": 89912,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 89919,
+      "end": 89927,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 89947,
+      "end": 89956,
+      "label": "PER"
+    },
+    {
+      "text": "vigneron",
+      "start": 90050,
+      "end": 90058,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 90170,
+      "end": 90175,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 90219,
+      "end": 90228,
+      "label": "LOC"
+    },
+    {
+      "text": "Florentine",
+      "start": 90270,
+      "end": 90280,
+      "label": "PER"
+    },
+    {
+      "text": "Dulcinée",
+      "start": 90293,
+      "end": 90301,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 90395,
+      "end": 90401,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 90484,
+      "end": 90488,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 90513,
+      "end": 90521,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 90525,
+      "end": 90530,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 90535,
+      "end": 90544,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 90598,
+      "end": 90607,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 90613,
+      "end": 90621,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Florentine",
+      "start": 90627,
+      "end": 90650,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre",
+      "start": 90680,
+      "end": 90687,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Crussol",
+      "start": 90689,
+      "end": 90703,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenons",
+      "start": 90707,
+      "end": 90713,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 90733,
+      "end": 90742,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 90744,
+      "end": 90754,
+      "label": "PER"
+    },
+    {
+      "text": "Cabirolle",
+      "start": 90947,
+      "end": 90956,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 90991,
+      "end": 91001,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Godeschal",
+      "start": 91052,
+      "end": 91067,
+      "label": "PER"
+    },
+    {
+      "text": "Vestris",
+      "start": 91140,
+      "end": 91147,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Godeschal",
+      "start": 91209,
+      "end": 91231,
+      "label": "PER"
+    },
+    {
+      "text": "Panorama Dramatique",
+      "start": 91262,
+      "end": 91281,
+      "label": "MISC"
+    },
+    {
+      "text": "Mariette",
+      "start": 91297,
+      "end": 91305,
+      "label": "PER"
+    },
+    {
+      "text": "Premier Gentilhomme de la Chambre",
+      "start": 91339,
+      "end": 91372,
+      "label": "MISC"
+    },
+    {
+      "text": "Vestris",
+      "start": 91380,
+      "end": 91387,
+      "label": "PER"
+    },
+    {
+      "text": "Vestris",
+      "start": 91427,
+      "end": 91434,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Godeschal",
+      "start": 91532,
+      "end": 91547,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 91580,
+      "end": 91588,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 91670,
+      "end": 91678,
+      "label": "PER"
+    },
+    {
+      "text": "Orphelins",
+      "start": 91680,
+      "end": 91689,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 91785,
+      "end": 91790,
+      "label": "LOC"
+    },
+    {
+      "text": "Étude",
+      "start": 92000,
+      "end": 92005,
+      "label": "LOC"
+    },
+    {
+      "text": "Romains",
+      "start": 92158,
+      "end": 92165,
+      "label": "LOC"
+    },
+    {
+      "text": "Hébreux",
+      "start": 92178,
+      "end": 92185,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariette",
+      "start": 92279,
+      "end": 92287,
+      "label": "PER"
+    },
+    {
+      "text": "Vieille rue",
+      "start": 92403,
+      "end": 92414,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 92418,
+      "end": 92424,
+      "label": "LOC"
+    },
+    {
+      "text": "Mariette",
+      "start": 92426,
+      "end": 92434,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 92714,
+      "end": 92723,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe",
+      "start": 92798,
+      "end": 92806,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 92826,
+      "end": 92834,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 92836,
+      "end": 92844,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 92852,
+      "end": 92860,
+      "label": "MISC"
+    },
+    {
+      "text": "Dragons de la Garde",
+      "start": 92879,
+      "end": 92898,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 92927,
+      "end": 92937,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 93013,
+      "end": 93023,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe sur Giroudeau",
+      "start": 93054,
+      "end": 93076,
+      "label": "PER"
+    },
+    {
+      "text": "Florentine",
+      "start": 93078,
+      "end": 93088,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 93092,
+      "end": 93101,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 93198,
+      "end": 93206,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 93210,
+      "end": 93218,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 93367,
+      "end": 93375,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 93408,
+      "end": 93417,
+      "label": "PER"
+    },
+    {
+      "text": "Finot",
+      "start": 93493,
+      "end": 93498,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 93508,
+      "end": 93517,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 93528,
+      "end": 93536,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 93795,
+      "end": 93800,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 93945,
+      "end": 93953,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 94132,
+      "end": 94140,
+      "label": "PER"
+    },
+    {
+      "text": "Fais",
+      "start": 94201,
+      "end": 94205,
+      "label": "MISC"
+    },
+    {
+      "text": "Florentine",
+      "start": 94295,
+      "end": 94305,
+      "label": "PER"
+    },
+    {
+      "text": "Finot",
+      "start": 94340,
+      "end": 94345,
+      "label": "PER"
+    },
+    {
+      "text": "Finot",
+      "start": 94531,
+      "end": 94536,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 94608,
+      "end": 94616,
+      "label": "PER"
+    },
+    {
+      "text": "rue du Sentier",
+      "start": 94627,
+      "end": 94641,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 94680,
+      "end": 94689,
+      "label": "PER"
+    },
+    {
+      "text": "Bureau d'",
+      "start": 94906,
+      "end": 94915,
+      "label": "ORG"
+    },
+    {
+      "text": "Caisse",
+      "start": 94982,
+      "end": 94988,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau Coloquinte",
+      "start": 95187,
+      "end": 95207,
+      "label": "PER"
+    },
+    {
+      "text": "Joli !",
+      "start": 95269,
+      "end": 95275,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 95280,
+      "end": 95288,
+      "label": "PER"
+    },
+    {
+      "text": "Chabert",
+      "start": 95377,
+      "end": 95384,
+      "label": "PER"
+    },
+    {
+      "text": "Eylau",
+      "start": 95387,
+      "end": 95392,
+      "label": "MISC"
+    },
+    {
+      "text": "Mille",
+      "start": 95408,
+      "end": 95413,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 95459,
+      "end": 95463,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 95558,
+      "end": 95567,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 95726,
+      "end": 95732,
+      "label": "LOC"
+    },
+    {
+      "text": "Timbre",
+      "start": 95756,
+      "end": 95762,
+      "label": "ORG"
+    },
+    {
+      "text": "Silence",
+      "start": 95782,
+      "end": 95789,
+      "label": "LOC"
+    },
+    {
+      "text": "Coloquinte",
+      "start": 95791,
+      "end": 95801,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 95807,
+      "end": 95816,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 95866,
+      "end": 95876,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Montmirail",
+      "start": 95882,
+      "end": 95904,
+      "label": "MISC"
+    },
+    {
+      "text": "Coloquinte",
+      "start": 95922,
+      "end": 95932,
+      "label": "LOC"
+    },
+    {
+      "text": "Coloquinte",
+      "start": 95972,
+      "end": 95982,
+      "label": "LOC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 96347,
+      "end": 96356,
+      "label": "PER"
+    },
+    {
+      "text": "Garde impériale de qui je t'ai parlé",
+      "start": 96395,
+      "end": 96431,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 96435,
+      "end": 96439,
+      "label": "MISC"
+    },
+    {
+      "text": "Finot",
+      "start": 96451,
+      "end": 96456,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 96468,
+      "end": 96476,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 96512,
+      "end": 96521,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher enfant",
+      "start": 96558,
+      "end": 96573,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 96579,
+      "end": 96588,
+      "label": "PER"
+    },
+    {
+      "text": "Texas",
+      "start": 96645,
+      "end": 96650,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 96654,
+      "end": 96658,
+      "label": "MISC"
+    },
+    {
+      "text": "Texas",
+      "start": 96683,
+      "end": 96688,
+      "label": "LOC"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 96698,
+      "end": 96711,
+      "label": "LOC"
+    },
+    {
+      "text": "Soldat Laboureur",
+      "start": 96768,
+      "end": 96784,
+      "label": "ORG"
+    },
+    {
+      "text": "Soldat Laboureur",
+      "start": 96978,
+      "end": 96994,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 97020,
+      "end": 97028,
+      "label": "PER"
+    },
+    {
+      "text": "Soldats Laboureurs",
+      "start": 97160,
+      "end": 97178,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 97274,
+      "end": 97283,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 97285,
+      "end": 97293,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 97420,
+      "end": 97428,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 97490,
+      "end": 97500,
+      "label": "PER"
+    },
+    {
+      "text": "Finot",
+      "start": 97507,
+      "end": 97512,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 97527,
+      "end": 97531,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe Bridau",
+      "start": 97540,
+      "end": 97555,
+      "label": "PER"
+    },
+    {
+      "text": "Opposition Constitutionnelle",
+      "start": 97604,
+      "end": 97632,
+      "label": "ORG"
+    },
+    {
+      "text": "Foy !",
+      "start": 97639,
+      "end": 97644,
+      "label": "MISC"
+    },
+    {
+      "text": "Manuel !",
+      "start": 97650,
+      "end": 97658,
+      "label": "PER"
+    },
+    {
+      "text": "Lafitte",
+      "start": 97664,
+      "end": 97671,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 97772,
+      "end": 97776,
+      "label": "LOC"
+    },
+    {
+      "text": "Finot",
+      "start": 97801,
+      "end": 97806,
+      "label": "PER"
+    },
+    {
+      "text": "Libéraux",
+      "start": 97876,
+      "end": 97884,
+      "label": "LOC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 97961,
+      "end": 97969,
+      "label": "MISC"
+    },
+    {
+      "text": "Texas",
+      "start": 97998,
+      "end": 98003,
+      "label": "LOC"
+    },
+    {
+      "text": "Opposition",
+      "start": 98224,
+      "end": 98234,
+      "label": "ORG"
+    },
+    {
+      "text": "Députés de la Gauche",
+      "start": 98258,
+      "end": 98278,
+      "label": "MISC"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 98581,
+      "end": 98590,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 98627,
+      "end": 98635,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 98695,
+      "end": 98699,
+      "label": "MISC"
+    },
+    {
+      "text": "Finot",
+      "start": 98818,
+      "end": 98823,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 98874,
+      "end": 98882,
+      "label": "PER"
+    },
+    {
+      "text": "Giroudeau",
+      "start": 98885,
+      "end": 98894,
+      "label": "PER"
+    },
+    {
+      "text": "café Lemblin",
+      "start": 99015,
+      "end": 99027,
+      "label": "PER"
+    },
+    {
+      "text": "Minerve",
+      "start": 99037,
+      "end": 99044,
+      "label": "PER"
+    },
+    {
+      "text": "Philippe",
+      "start": 99057,
+      "end": 99065,
+      "label": "PER"
+    },
+    {
+      "text": "Texas",
+      "start": 99152,
+      "end": 99157,
+      "label": "LOC"
+    },
+    {
+      "text": "Soldats Laboureurs",
+      "start": 99189,
+      "end": 99207,
+      "label": "MISC"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 99402,
+      "end": 99415,
+      "label": "LOC"
+    },
+    {
+      "text": "Minerve",
+      "start": 99452,
+      "end": 99459,
+      "label": "PER"
+    },
+    {
+      "text": "Gauche",
+      "start": 99498,
+      "end": 99504,
+      "label": "ORG"
+    },
+    {
+      "text": "Philippe",
+      "start": 99506,
+      "end": 99514,
+      "label": "PER"
+    },
+    {
+      "text": "Mariette",
+      "start": 99556,
+      "end": 99564,
+      "label": "PER"
+    },
+    {
+      "text": "Agathe",
+      "start": 99732,
+      "end": 99738,
+      "label": "LOC"
+    },
+    {
+      "text": "Descoings",
+      "start": 99745,
+      "end": 99754,
+      "label": "MISC"
+    },
+    {
+      "text": "Philippe",
+      "start": 99767,
+      "end": 99775,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Berry",
+      "start": 99806,
+      "end": 99818,
+      "label": "PER"
+    }
+  ]
+}

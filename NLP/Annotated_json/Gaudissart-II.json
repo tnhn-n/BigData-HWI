@@ -1,0 +1,1006 @@
+{
+  "entities": [
+    {
+      "text": "GAUDISSART II",
+      "start": 0,
+      "end": 13,
+      "label": "MISC"
+    },
+    {
+      "text": "BELGIOJOSO",
+      "start": 46,
+      "end": 56,
+      "label": "ORG"
+    },
+    {
+      "text": "NÉE TRIVULCE",
+      "start": 58,
+      "end": 70,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 162,
+      "end": 167,
+      "label": "LOC"
+    },
+    {
+      "text": "néo Versailles",
+      "start": 369,
+      "end": 383,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 1086,
+      "end": 1095,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevards",
+      "start": 1444,
+      "end": 1454,
+      "label": "MISC"
+    },
+    {
+      "text": "Molière",
+      "start": 1989,
+      "end": 1996,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 2198,
+      "end": 2203,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 2208,
+      "end": 2218,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 2598,
+      "end": 2604,
+      "label": "LOC"
+    },
+    {
+      "text": "Mabille [Mabile",
+      "start": 2700,
+      "end": 2715,
+      "label": "MISC"
+    },
+    {
+      "text": "châle",
+      "start": 2987,
+      "end": 2992,
+      "label": "LOC"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 3024,
+      "end": 3034,
+      "label": "PER"
+    },
+    {
+      "text": "Désaugiers",
+      "start": 3060,
+      "end": 3070,
+      "label": "MISC"
+    },
+    {
+      "text": "Cléopâtre",
+      "start": 3097,
+      "end": 3106,
+      "label": "MISC"
+    },
+    {
+      "text": "Monrose",
+      "start": 3116,
+      "end": 3123,
+      "label": "ORG"
+    },
+    {
+      "text": "Molière",
+      "start": 3134,
+      "end": 3141,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 3153,
+      "end": 3163,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 3173,
+      "end": 3183,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 3210,
+      "end": 3220,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 3233,
+      "end": 3243,
+      "label": "PER"
+    },
+    {
+      "text": "Expliquons",
+      "start": 3245,
+      "end": 3255,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 3429,
+      "end": 3434,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 3467,
+      "end": 3477,
+      "label": "PER"
+    },
+    {
+      "text": "Hésitez",
+      "start": 3615,
+      "end": 3622,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Vivienne",
+      "start": 4503,
+      "end": 4515,
+      "label": "LOC"
+    },
+    {
+      "text": "Vente !",
+      "start": 5079,
+      "end": 5086,
+      "label": "MISC"
+    },
+    {
+      "text": "châle",
+      "start": 5155,
+      "end": 5160,
+      "label": "LOC"
+    },
+    {
+      "text": "Étrangers des deux Mondes",
+      "start": 5286,
+      "end": 5311,
+      "label": "ORG"
+    },
+    {
+      "text": "Voilà !",
+      "start": 5880,
+      "end": 5887,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre",
+      "start": 5996,
+      "end": 6002,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 6525,
+      "end": 6541,
+      "label": "ORG"
+    },
+    {
+      "text": "Métier français",
+      "start": 6580,
+      "end": 6595,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque",
+      "start": 6706,
+      "end": 6712,
+      "label": "ORG"
+    },
+    {
+      "text": "deus ex machinâ",
+      "start": 6763,
+      "end": 6778,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 6958,
+      "end": 6968,
+      "label": "ORG"
+    },
+    {
+      "text": "Ménars",
+      "start": 7429,
+      "end": 7435,
+      "label": "LOC"
+    },
+    {
+      "text": "net",
+      "start": 7482,
+      "end": 7485,
+      "label": "MISC"
+    },
+    {
+      "text": "Persan",
+      "start": 7544,
+      "end": 7550,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 7561,
+      "end": 7565,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 7605,
+      "end": 7611,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 7625,
+      "end": 7634,
+      "label": "PER"
+    },
+    {
+      "text": "Lahore",
+      "start": 7708,
+      "end": 7714,
+      "label": "LOC"
+    },
+    {
+      "text": "M. Quatremère",
+      "start": 7907,
+      "end": 7920,
+      "label": "PER"
+    },
+    {
+      "text": "Jupiter Olympien",
+      "start": 7928,
+      "end": 7944,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 7974,
+      "end": 7982,
+      "label": "PER"
+    },
+    {
+      "text": "Sophi",
+      "start": 7996,
+      "end": 8001,
+      "label": "MISC"
+    },
+    {
+      "text": "d'Orient",
+      "start": 8023,
+      "end": 8031,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 8058,
+      "end": 8066,
+      "label": "LOC"
+    },
+    {
+      "text": "HUMAINE",
+      "start": 8207,
+      "end": 8214,
+      "label": "ORG"
+    },
+    {
+      "text": "Persan",
+      "start": 8263,
+      "end": 8269,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 8625,
+      "end": 8630,
+      "label": "LOC"
+    },
+    {
+      "text": "Revenons",
+      "start": 8636,
+      "end": 8644,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissarts émérites",
+      "start": 8795,
+      "end": 8815,
+      "label": "ORG"
+    },
+    {
+      "text": "A",
+      "start": 9504,
+      "end": 9505,
+      "label": "LOC"
+    },
+    {
+      "text": "la bottine",
+      "start": 9858,
+      "end": 9868,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine IV",
+      "start": 10029,
+      "end": 10041,
+      "label": "PER"
+    },
+    {
+      "text": "Froment Meurice",
+      "start": 10055,
+      "end": 10070,
+      "label": "PER"
+    },
+    {
+      "text": "Frémissez",
+      "start": 10178,
+      "end": 10187,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissarts",
+      "start": 10213,
+      "end": 10224,
+      "label": "PER"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 10512,
+      "end": 10526,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 10656,
+      "end": 10664,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Byron",
+      "start": 10752,
+      "end": 10762,
+      "label": "PER"
+    },
+    {
+      "text": "milan",
+      "start": 10952,
+      "end": 10957,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 11232,
+      "end": 11238,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 11611,
+      "end": 11621,
+      "label": "PER"
+    },
+    {
+      "text": "Duronceret et Bixiou",
+      "start": 11672,
+      "end": 11692,
+      "label": "MISC"
+    },
+    {
+      "text": "Tenez",
+      "start": 11741,
+      "end": 11746,
+      "label": "PER"
+    },
+    {
+      "text": "Fritot",
+      "start": 11927,
+      "end": 11933,
+      "label": "LOC"
+    },
+    {
+      "text": "Selim",
+      "start": 11994,
+      "end": 11999,
+      "label": "MISC"
+    },
+    {
+      "text": "Selim",
+      "start": 12206,
+      "end": 12211,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 12225,
+      "end": 12233,
+      "label": "PER"
+    },
+    {
+      "text": "Garde Impériale",
+      "start": 12257,
+      "end": 12272,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 12363,
+      "end": 12371,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 12466,
+      "end": 12476,
+      "label": "LOC"
+    },
+    {
+      "text": "Commandeur marchant",
+      "start": 12551,
+      "end": 12570,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 12623,
+      "end": 12630,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Anglaise",
+      "start": 12681,
+      "end": 12691,
+      "label": "ORG"
+    },
+    {
+      "text": "Bixiou",
+      "start": 12715,
+      "end": 12721,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Waterloo",
+      "start": 12735,
+      "end": 12755,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 13081,
+      "end": 13089,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 13134,
+      "end": 13143,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 13285,
+      "end": 13291,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 13322,
+      "end": 13327,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 13334,
+      "end": 13340,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 13406,
+      "end": 13412,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 13702,
+      "end": 13707,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 13820,
+      "end": 13828,
+      "label": "ORG"
+    },
+    {
+      "text": "Avez",
+      "start": 13982,
+      "end": 13986,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t elle",
+      "start": 14003,
+      "end": 14017,
+      "label": "PER"
+    },
+    {
+      "text": "havai vo d'hôte",
+      "start": 14019,
+      "end": 14034,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 14058,
+      "end": 14064,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 14121,
+      "end": 14125,
+      "label": "MISC"
+    },
+    {
+      "text": "Hâu",
+      "start": 14127,
+      "end": 14130,
+      "label": "LOC"
+    },
+    {
+      "text": "Lahore",
+      "start": 14479,
+      "end": 14485,
+      "label": "LOC"
+    },
+    {
+      "text": "miéuie",
+      "start": 14553,
+      "end": 14559,
+      "label": "LOC"
+    },
+    {
+      "text": "Duronceret",
+      "start": 14632,
+      "end": 14642,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 14646,
+      "end": 14652,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 14656,
+      "end": 14664,
+      "label": "LOC"
+    },
+    {
+      "text": "Sept mille francs",
+      "start": 14835,
+      "end": 14852,
+      "label": "MISC"
+    },
+    {
+      "text": "No, jé n'ame pouint",
+      "start": 14962,
+      "end": 14981,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 15068,
+      "end": 15074,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 15117,
+      "end": 15123,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise",
+      "start": 15312,
+      "end": 15320,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 15449,
+      "end": 15458,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 15701,
+      "end": 15710,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons",
+      "start": 15714,
+      "end": 15720,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 15734,
+      "end": 15739,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 15868,
+      "end": 15876,
+      "label": "ORG"
+    },
+    {
+      "text": "Turquie",
+      "start": 16199,
+      "end": 16206,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 16208,
+      "end": 16214,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 16218,
+      "end": 16222,
+      "label": "MISC"
+    },
+    {
+      "text": "Hâu",
+      "start": 16224,
+      "end": 16227,
+      "label": "LOC"
+    },
+    {
+      "text": "Sélim",
+      "start": 16269,
+      "end": 16274,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 16311,
+      "end": 16319,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 16335,
+      "end": 16344,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 16544,
+      "end": 16550,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 16610,
+      "end": 16620,
+      "label": "LOC"
+    },
+    {
+      "text": "Composé",
+      "start": 16735,
+      "end": 16742,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 16760,
+      "end": 16768,
+      "label": "ORG"
+    },
+    {
+      "text": "Komppôsé",
+      "start": 16771,
+      "end": 16779,
+      "label": "LOC"
+    },
+    {
+      "text": "Grune",
+      "start": 16875,
+      "end": 16880,
+      "label": "LOC"
+    },
+    {
+      "text": "Dresde",
+      "start": 16892,
+      "end": 16898,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 17047,
+      "end": 17055,
+      "label": "ORG"
+    },
+    {
+      "text": "Splendid",
+      "start": 17260,
+      "end": 17268,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 17338,
+      "end": 17343,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 17498,
+      "end": 17506,
+      "label": "PER"
+    },
+    {
+      "text": "Bocop",
+      "start": 17549,
+      "end": 17554,
+      "label": "MISC"
+    },
+    {
+      "text": "châle",
+      "start": 17641,
+      "end": 17646,
+      "label": "LOC"
+    },
+    {
+      "text": "Liszt",
+      "start": 17720,
+      "end": 17725,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaise de l'air",
+      "start": 17785,
+      "end": 17802,
+      "label": "ORG"
+    },
+    {
+      "text": "Bixiou",
+      "start": 17835,
+      "end": 17841,
+      "label": "PER"
+    },
+    {
+      "text": "châle",
+      "start": 17913,
+      "end": 17918,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 17934,
+      "end": 17938,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise absorbée",
+      "start": 17987,
+      "end": 18004,
+      "label": "ORG"
+    },
+    {
+      "text": "Décidément",
+      "start": 18066,
+      "end": 18076,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 18257,
+      "end": 18263,
+      "label": "PER"
+    },
+    {
+      "text": "Narzicoff",
+      "start": 18353,
+      "end": 18362,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 18415,
+      "end": 18421,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 18544,
+      "end": 18549,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 18658,
+      "end": 18664,
+      "label": "PER"
+    },
+    {
+      "text": "châle",
+      "start": 18683,
+      "end": 18688,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 18891,
+      "end": 18899,
+      "label": "ORG"
+    },
+    {
+      "text": "Duronceret",
+      "start": 18962,
+      "end": 18972,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 18976,
+      "end": 18982,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 19090,
+      "end": 19100,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 19107,
+      "end": 19113,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 19156,
+      "end": 19161,
+      "label": "LOC"
+    },
+    {
+      "text": "Lawson",
+      "start": 19168,
+      "end": 19174,
+      "label": "ORG"
+    },
+    {
+      "text": "Mistriss Noswell",
+      "start": 19193,
+      "end": 19209,
+      "label": "PER"
+    },
+    {
+      "text": "Portez",
+      "start": 19211,
+      "end": 19217,
+      "label": "LOC"
+    },
+    {
+      "text": "Duronceret",
+      "start": 19324,
+      "end": 19334,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 19370,
+      "end": 19374,
+      "label": "MISC"
+    },
+    {
+      "text": "Bigorneau",
+      "start": 19618,
+      "end": 19627,
+      "label": "PER"
+    },
+    {
+      "text": "Anglaises",
+      "start": 19837,
+      "end": 19846,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 20365,
+      "end": 20371,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20386,
+      "end": 20391,
+      "label": "LOC"
+    },
+    {
+      "text": "Cunin Cridaine",
+      "start": 20545,
+      "end": 20559,
+      "label": "PER"
+    },
+    {
+      "text": "conseil général de la Seine",
+      "start": 20608,
+      "end": 20635,
+      "label": "LOC"
+    },
+    {
+      "text": "tribunal de Commerce",
+      "start": 20648,
+      "end": 20668,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 20672,
+      "end": 20680,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 20681,
+      "end": 20688,
+      "label": "PER"
+    },
+    {
+      "text": "Duronceret et Bixiou",
+      "start": 20832,
+      "end": 20852,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Schontz",
+      "start": 20886,
+      "end": 20900,
+      "label": "PER"
+    },
+    {
+      "text": "Sélim",
+      "start": 20980,
+      "end": 20985,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 20987,
+      "end": 20992,
+      "label": "LOC"
+    }
+  ]
+}

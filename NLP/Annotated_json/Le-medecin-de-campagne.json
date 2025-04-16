@@ -1,0 +1,1900 @@
+{
+  "entities": [
+    {
+      "text": "MÉDECIN",
+      "start": 3,
+      "end": 10,
+      "label": "MISC"
+    },
+    {
+      "text": "CAMPAGNE",
+      "start": 14,
+      "end": 22,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAPITRE",
+      "start": 89,
+      "end": 97,
+      "label": "ORG"
+    },
+    {
+      "text": "PAYS",
+      "start": 103,
+      "end": 107,
+      "label": "ORG"
+    },
+    {
+      "text": "L'HOMME",
+      "start": 111,
+      "end": 118,
+      "label": "MISC"
+    },
+    {
+      "text": "Grande Chartreuse",
+      "start": 281,
+      "end": 298,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoie",
+      "start": 565,
+      "end": 571,
+      "label": "LOC"
+    },
+    {
+      "text": "Dauphiné",
+      "start": 583,
+      "end": 591,
+      "label": "LOC"
+    },
+    {
+      "text": "chaîne des deux Mauriennes",
+      "start": 631,
+      "end": 657,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 1788,
+      "end": 1794,
+      "label": "LOC"
+    },
+    {
+      "text": "Séparées",
+      "start": 2002,
+      "end": 2010,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 2411,
+      "end": 2415,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 3274,
+      "end": 3283,
+      "label": "LOC"
+    },
+    {
+      "text": "daim",
+      "start": 3559,
+      "end": 3563,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 4151,
+      "end": 4160,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 4399,
+      "end": 4407,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 4802,
+      "end": 4810,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'honneur",
+      "start": 5144,
+      "end": 5160,
+      "label": "ORG"
+    },
+    {
+      "text": "bataille de la Moskowa",
+      "start": 5180,
+      "end": 5202,
+      "label": "MISC"
+    },
+    {
+      "text": "commandant Genestas",
+      "start": 6788,
+      "end": 6807,
+      "label": "PER"
+    },
+    {
+      "text": "Buvons",
+      "start": 7264,
+      "end": 7270,
+      "label": "LOC"
+    },
+    {
+      "text": "Espèce de Bayard",
+      "start": 7284,
+      "end": 7300,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Joseph Genestas",
+      "start": 7322,
+      "end": 7344,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 9169,
+      "end": 9177,
+      "label": "PER"
+    },
+    {
+      "text": "parole du Sauvage",
+      "start": 9502,
+      "end": 9519,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 9818,
+      "end": 9827,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas",
+      "start": 9888,
+      "end": 9896,
+      "label": "PER"
+    },
+    {
+      "text": "Ajoutez",
+      "start": 9981,
+      "end": 9988,
+      "label": "LOC"
+    },
+    {
+      "text": "fat",
+      "start": 10055,
+      "end": 10058,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 10662,
+      "end": 10670,
+      "label": "PER"
+    },
+    {
+      "text": "Défiant",
+      "start": 10684,
+      "end": 10691,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 11461,
+      "end": 11466,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 11507,
+      "end": 11516,
+      "label": "PER"
+    },
+    {
+      "text": "Grec",
+      "start": 11521,
+      "end": 11525,
+      "label": "MISC"
+    },
+    {
+      "text": "Macédonien",
+      "start": 11532,
+      "end": 11542,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 11820,
+      "end": 11828,
+      "label": "PER"
+    },
+    {
+      "text": "Schoenbrunn",
+      "start": 11839,
+      "end": 11850,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 11925,
+      "end": 11931,
+      "label": "LOC"
+    },
+    {
+      "text": "Médée",
+      "start": 11944,
+      "end": 11949,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 12028,
+      "end": 12036,
+      "label": "PER"
+    },
+    {
+      "text": "Médée",
+      "start": 12144,
+      "end": 12149,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 12182,
+      "end": 12190,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Armée",
+      "start": 12262,
+      "end": 12274,
+      "label": "MISC"
+    },
+    {
+      "text": "Médée",
+      "start": 12316,
+      "end": 12321,
+      "label": "PER"
+    },
+    {
+      "text": "Médée du bulletin",
+      "start": 12451,
+      "end": 12468,
+      "label": "MISC"
+    },
+    {
+      "text": "Raucourt",
+      "start": 12500,
+      "end": 12508,
+      "label": "PER"
+    },
+    {
+      "text": "Médée",
+      "start": 12523,
+      "end": 12528,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 12607,
+      "end": 12623,
+      "label": "LOC"
+    },
+    {
+      "text": "Pigault Lebrun",
+      "start": 13120,
+      "end": 13134,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 13298,
+      "end": 13306,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Chartreuse",
+      "start": 13331,
+      "end": 13348,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas",
+      "start": 14196,
+      "end": 14204,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 14989,
+      "end": 14997,
+      "label": "PER"
+    },
+    {
+      "text": "Benjamin",
+      "start": 15749,
+      "end": 15757,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas",
+      "start": 15759,
+      "end": 15767,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 15856,
+      "end": 15862,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus",
+      "start": 15912,
+      "end": 15917,
+      "label": "PER"
+    },
+    {
+      "text": "huche",
+      "start": 16538,
+      "end": 16543,
+      "label": "LOC"
+    },
+    {
+      "text": "Benjamin teigneux",
+      "start": 16901,
+      "end": 16918,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 17731,
+      "end": 17735,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 17984,
+      "end": 17986,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 18081,
+      "end": 18089,
+      "label": "PER"
+    },
+    {
+      "text": "huche",
+      "start": 18359,
+      "end": 18364,
+      "label": "LOC"
+    },
+    {
+      "text": "Faites excuse",
+      "start": 18566,
+      "end": 18579,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 18764,
+      "end": 18772,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 18810,
+      "end": 18818,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 19496,
+      "end": 19498,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 19514,
+      "end": 19522,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sylvestre",
+      "start": 19775,
+      "end": 19790,
+      "label": "PER"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 19832,
+      "end": 19840,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 20150,
+      "end": 20167,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Benassis",
+      "start": 20169,
+      "end": 20186,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemands",
+      "start": 20820,
+      "end": 20829,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 20894,
+      "end": 20898,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 21588,
+      "end": 21596,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Jean",
+      "start": 21680,
+      "end": 21690,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 21944,
+      "end": 21956,
+      "label": "PER"
+    },
+    {
+      "text": "Évangile",
+      "start": 22275,
+      "end": 22283,
+      "label": "MISC"
+    },
+    {
+      "text": "Livre",
+      "start": 22319,
+      "end": 22324,
+      "label": "LOC"
+    },
+    {
+      "text": "Livre",
+      "start": 22433,
+      "end": 22438,
+      "label": "LOC"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 22570,
+      "end": 22582,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 22915,
+      "end": 22923,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Benassis",
+      "start": 22962,
+      "end": 22979,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 23004,
+      "end": 23013,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 23323,
+      "end": 23328,
+      "label": "LOC"
+    },
+    {
+      "text": "Suis",
+      "start": 23465,
+      "end": 23469,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 23498,
+      "end": 23515,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 23518,
+      "end": 23527,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 23556,
+      "end": 23560,
+      "label": "MISC"
+    },
+    {
+      "text": "Savoie",
+      "start": 24031,
+      "end": 24037,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas",
+      "start": 24330,
+      "end": 24338,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 24440,
+      "end": 24457,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 24871,
+      "end": 24888,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 25494,
+      "end": 25502,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 26003,
+      "end": 26011,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 26809,
+      "end": 26817,
+      "label": "PER"
+    },
+    {
+      "text": "Brie",
+      "start": 26941,
+      "end": 26945,
+      "label": "LOC"
+    },
+    {
+      "text": "pensa Genestas",
+      "start": 27572,
+      "end": 27586,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 28873,
+      "end": 28890,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 29082,
+      "end": 29090,
+      "label": "PER"
+    },
+    {
+      "text": "Liberté",
+      "start": 29747,
+      "end": 29754,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 29838,
+      "end": 29846,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 29864,
+      "end": 29881,
+      "label": "MISC"
+    },
+    {
+      "text": "Benassis",
+      "start": 30171,
+      "end": 30179,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 30454,
+      "end": 30462,
+      "label": "PER"
+    },
+    {
+      "text": "Notre maître",
+      "start": 30478,
+      "end": 30490,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 30636,
+      "end": 30644,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 30710,
+      "end": 30718,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 31552,
+      "end": 31560,
+      "label": "PER"
+    },
+    {
+      "text": "Limousin",
+      "start": 31897,
+      "end": 31905,
+      "label": "LOC"
+    },
+    {
+      "text": "Benassis",
+      "start": 32535,
+      "end": 32543,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur Benassis",
+      "start": 32617,
+      "end": 32634,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 32816,
+      "end": 32824,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 32828,
+      "end": 32832,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 32908,
+      "end": 32925,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 33232,
+      "end": 33240,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 33689,
+      "end": 33695,
+      "label": "LOC"
+    },
+    {
+      "text": "Mougiks",
+      "start": 33715,
+      "end": 33722,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 34411,
+      "end": 34419,
+      "label": "LOC"
+    },
+    {
+      "text": "Benassis",
+      "start": 34557,
+      "end": 34565,
+      "label": "PER"
+    },
+    {
+      "text": "Étranger",
+      "start": 34567,
+      "end": 34575,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 34826,
+      "end": 34834,
+      "label": "PER"
+    },
+    {
+      "text": "soleil",
+      "start": 34964,
+      "end": 34970,
+      "label": "LOC"
+    },
+    {
+      "text": "sapin résineux",
+      "start": 35135,
+      "end": 35149,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Benassis",
+      "start": 35318,
+      "end": 35335,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 35401,
+      "end": 35409,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 35543,
+      "end": 35551,
+      "label": "PER"
+    },
+    {
+      "text": "blanchis",
+      "start": 36519,
+      "end": 36527,
+      "label": "PER"
+    },
+    {
+      "text": "Habitué",
+      "start": 36899,
+      "end": 36906,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 36981,
+      "end": 36989,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 37059,
+      "end": 37067,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 38330,
+      "end": 38338,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 38911,
+      "end": 38919,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 39430,
+      "end": 39438,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 39574,
+      "end": 39582,
+      "label": "PER"
+    },
+    {
+      "text": "soleil",
+      "start": 39843,
+      "end": 39849,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Isère",
+      "start": 40886,
+      "end": 40893,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 41446,
+      "end": 41452,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 41619,
+      "end": 41625,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 41908,
+      "end": 41914,
+      "label": "MISC"
+    },
+    {
+      "text": "Commune",
+      "start": 42483,
+      "end": 42490,
+      "label": "MISC"
+    },
+    {
+      "text": "Benassis",
+      "start": 42825,
+      "end": 42833,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 42929,
+      "end": 42933,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 42982,
+      "end": 42986,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 43128,
+      "end": 43136,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 43423,
+      "end": 43431,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 43595,
+      "end": 43603,
+      "label": "PER"
+    },
+    {
+      "text": "Aiguebelle",
+      "start": 44975,
+      "end": 44985,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoie",
+      "start": 44990,
+      "end": 44996,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 45437,
+      "end": 45445,
+      "label": "LOC"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 45485,
+      "end": 45496,
+      "label": "PER"
+    },
+    {
+      "text": "Commune de qui j'intéressai l'avarice",
+      "start": 45879,
+      "end": 45916,
+      "label": "MISC"
+    },
+    {
+      "text": "Commune",
+      "start": 48005,
+      "end": 48012,
+      "label": "MISC"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 48803,
+      "end": 48812,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 49294,
+      "end": 49298,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 49353,
+      "end": 49357,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 50131,
+      "end": 50145,
+      "label": "ORG"
+    },
+    {
+      "text": "Préfecture",
+      "start": 50391,
+      "end": 50401,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 50430,
+      "end": 50440,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 50444,
+      "end": 50458,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50653,
+      "end": 50661,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 50897,
+      "end": 50911,
+      "label": "ORG"
+    },
+    {
+      "text": "Suisse",
+      "start": 50986,
+      "end": 50992,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergne",
+      "start": 50999,
+      "end": 51007,
+      "label": "LOC"
+    },
+    {
+      "text": "Limousin",
+      "start": 51014,
+      "end": 51022,
+      "label": "LOC"
+    },
+    {
+      "text": "Commune",
+      "start": 52420,
+      "end": 52427,
+      "label": "LOC"
+    },
+    {
+      "text": "Benassis",
+      "start": 52817,
+      "end": 52825,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 53097,
+      "end": 53105,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 53278,
+      "end": 53282,
+      "label": "MISC"
+    },
+    {
+      "text": "Benassis",
+      "start": 53309,
+      "end": 53317,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 53486,
+      "end": 53494,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 53529,
+      "end": 53537,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier de Grenoble",
+      "start": 53629,
+      "end": 53648,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54046,
+      "end": 54050,
+      "label": "MISC"
+    },
+    {
+      "text": "Benassis",
+      "start": 54071,
+      "end": 54079,
+      "label": "ORG"
+    },
+    {
+      "text": "Gravier",
+      "start": 54122,
+      "end": 54129,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 54258,
+      "end": 54266,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 54314,
+      "end": 54323,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 54330,
+      "end": 54338,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 54601,
+      "end": 54609,
+      "label": "ORG"
+    },
+    {
+      "text": "Genestas",
+      "start": 54666,
+      "end": 54674,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 55251,
+      "end": 55259,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas",
+      "start": 55429,
+      "end": 55437,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 55474,
+      "end": 55482,
+      "label": "PER"
+    },
+    {
+      "text": "Arabe",
+      "start": 55809,
+      "end": 55814,
+      "label": "MISC"
+    },
+    {
+      "text": "Benassis",
+      "start": 55865,
+      "end": 55873,
+      "label": "ORG"
+    },
+    {
+      "text": "Benassis",
+      "start": 56189,
+      "end": 56197,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 56209,
+      "end": 56217,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 56415,
+      "end": 56424,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 56612,
+      "end": 56621,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 56758,
+      "end": 56766,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 56952,
+      "end": 56961,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 57146,
+      "end": 57155,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 57619,
+      "end": 57627,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 57783,
+      "end": 57792,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 58030,
+      "end": 58038,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 58258,
+      "end": 58267,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 58887,
+      "end": 58895,
+      "label": "ORG"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 59227,
+      "end": 59236,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 59413,
+      "end": 59421,
+      "label": "ORG"
+    },
+    {
+      "text": "menton",
+      "start": 59923,
+      "end": 59929,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 60022,
+      "end": 60031,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 60280,
+      "end": 60289,
+      "label": "PER"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 60631,
+      "end": 60640,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 60676,
+      "end": 60684,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 60933,
+      "end": 60942,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 60983,
+      "end": 60991,
+      "label": "ORG"
+    },
+    {
+      "text": "croyez",
+      "start": 61179,
+      "end": 61185,
+      "label": "MISC"
+    },
+    {
+      "text": "Nicolle",
+      "start": 61350,
+      "end": 61357,
+      "label": "PER"
+    },
+    {
+      "text": "montrez",
+      "start": 61509,
+      "end": 61516,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 61636,
+      "end": 61645,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 61654,
+      "end": 61662,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 61753,
+      "end": 61760,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 61859,
+      "end": 61868,
+      "label": "PER"
+    },
+    {
+      "text": "Gravier",
+      "start": 61987,
+      "end": 61994,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, je ne sais pas",
+      "start": 62166,
+      "end": 62188,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 62226,
+      "end": 62230,
+      "label": "MISC"
+    },
+    {
+      "text": "Genestas",
+      "start": 62622,
+      "end": 62630,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 63111,
+      "end": 63120,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 63248,
+      "end": 63258,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 63637,
+      "end": 63641,
+      "label": "LOC"
+    },
+    {
+      "text": "Jacquotte",
+      "start": 63875,
+      "end": 63884,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 64012,
+      "end": 64020,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Gravier",
+      "start": 64617,
+      "end": 64633,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 64871,
+      "end": 64879,
+      "label": "ORG"
+    },
+    {
+      "text": "la Commune",
+      "start": 65514,
+      "end": 65524,
+      "label": "MISC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 66085,
+      "end": 66093,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 66687,
+      "end": 66695,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 67126,
+      "end": 67134,
+      "label": "PER"
+    },
+    {
+      "text": "Communes",
+      "start": 67676,
+      "end": 67684,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Chartreuse",
+      "start": 67886,
+      "end": 67903,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 68235,
+      "end": 68243,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 68374,
+      "end": 68378,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Thomas",
+      "start": 69782,
+      "end": 69794,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 70052,
+      "end": 70060,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 70434,
+      "end": 70442,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 70779,
+      "end": 70787,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Laurent du Pont",
+      "start": 71140,
+      "end": 71161,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 73638,
+      "end": 73646,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 74310,
+      "end": 74318,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 74431,
+      "end": 74442,
+      "label": "LOC"
+    },
+    {
+      "text": "la Commune",
+      "start": 74477,
+      "end": 74487,
+      "label": "MISC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 75056,
+      "end": 75064,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 75200,
+      "end": 75206,
+      "label": "PER"
+    },
+    {
+      "text": "la Commune",
+      "start": 75706,
+      "end": 75716,
+      "label": "MISC"
+    },
+    {
+      "text": "Poursuivons",
+      "start": 76529,
+      "end": 76540,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 77061,
+      "end": 77069,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 77515,
+      "end": 77523,
+      "label": "PER"
+    },
+    {
+      "text": "Commune",
+      "start": 78112,
+      "end": 78119,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 79275,
+      "end": 79282,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 79286,
+      "end": 79294,
+      "label": "LOC"
+    },
+    {
+      "text": "Commune des terres",
+      "start": 79313,
+      "end": 79331,
+      "label": "MISC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 79467,
+      "end": 79477,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 80615,
+      "end": 80623,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 80895,
+      "end": 80902,
+      "label": "PER"
+    },
+    {
+      "text": "Grenoble",
+      "start": 82554,
+      "end": 82562,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 83009,
+      "end": 83017,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 83826,
+      "end": 83837,
+      "label": "LOC"
+    },
+    {
+      "text": "Canton",
+      "start": 84198,
+      "end": 84204,
+      "label": "LOC"
+    },
+    {
+      "text": "Canton",
+      "start": 84211,
+      "end": 84217,
+      "label": "LOC"
+    },
+    {
+      "text": "Département",
+      "start": 84225,
+      "end": 84236,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 86484,
+      "end": 86490,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergne",
+      "start": 86497,
+      "end": 86505,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 86651,
+      "end": 86658,
+      "label": "PER"
+    },
+    {
+      "text": "Communes",
+      "start": 87219,
+      "end": 87227,
+      "label": "LOC"
+    },
+    {
+      "text": "moulins",
+      "start": 87570,
+      "end": 87577,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Chartreuse",
+      "start": 87947,
+      "end": 87964,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 88212,
+      "end": 88220,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 88338,
+      "end": 88345,
+      "label": "PER"
+    },
+    {
+      "text": "Commune",
+      "start": 88998,
+      "end": 89005,
+      "label": "LOC"
+    },
+    {
+      "text": "Mairie",
+      "start": 89051,
+      "end": 89057,
+      "label": "ORG"
+    },
+    {
+      "text": "Département",
+      "start": 89238,
+      "end": 89249,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 89573,
+      "end": 89581,
+      "label": "PER"
+    },
+    {
+      "text": "Janvier",
+      "start": 89708,
+      "end": 89715,
+      "label": "PER"
+    },
+    {
+      "text": "Fénelon",
+      "start": 89739,
+      "end": 89746,
+      "label": "PER"
+    },
+    {
+      "text": "Cure",
+      "start": 89776,
+      "end": 89780,
+      "label": "LOC"
+    },
+    {
+      "text": "Dufau",
+      "start": 89959,
+      "end": 89964,
+      "label": "MISC"
+    },
+    {
+      "text": "Commune",
+      "start": 90148,
+      "end": 90155,
+      "label": "LOC"
+    },
+    {
+      "text": "Communes de France",
+      "start": 90764,
+      "end": 90782,
+      "label": "LOC"
+    },
+    {
+      "text": "Benassis",
+      "start": 90830,
+      "end": 90838,
+      "label": "PER"
+    },
+    {
+      "text": "Genestas",
+      "start": 90841,
+      "end": 90849,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 90969,
+      "end": 90973,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 91000,
+      "end": 91008,
+      "label": "PER"
+    },
+    {
+      "text": "la Commune",
+      "start": 91365,
+      "end": 91375,
+      "label": "MISC"
+    },
+    {
+      "text": "Chef",
+      "start": 91441,
+      "end": 91445,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 91917,
+      "end": 91925,
+      "label": "LOC"
+    },
+    {
+      "text": "États",
+      "start": 93204,
+      "end": 93209,
+      "label": "LOC"
+    },
+    {
+      "text": "Tyr",
+      "start": 93240,
+      "end": 93243,
+      "label": "LOC"
+    },
+    {
+      "text": "Carthage",
+      "start": 93245,
+      "end": 93253,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 93255,
+      "end": 93261,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 93266,
+      "end": 93274,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 93280,
+      "end": 93290,
+      "label": "LOC"
+    },
+    {
+      "text": "Chef",
+      "start": 93500,
+      "end": 93504,
+      "label": "LOC"
+    },
+    {
+      "text": "Tyrolien",
+      "start": 93825,
+      "end": 93833,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 93955,
+      "end": 93963,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 93988,
+      "end": 93993,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemands",
+      "start": 94051,
+      "end": 94060,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 94172,
+      "end": 94180,
+      "label": "LOC"
+    },
+    {
+      "text": "Surpris",
+      "start": 94390,
+      "end": 94397,
+      "label": "PER"
+    },
+    {
+      "text": "Département",
+      "start": 95417,
+      "end": 95428,
+      "label": "LOC"
+    },
+    {
+      "text": "Provence",
+      "start": 95474,
+      "end": 95482,
+      "label": "LOC"
+    },
+    {
+      "text": "Tyrolien",
+      "start": 95605,
+      "end": 95613,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 95985,
+      "end": 95991,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoie",
+      "start": 95998,
+      "end": 96004,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoie",
+      "start": 96401,
+      "end": 96407,
+      "label": "LOC"
+    },
+    {
+      "text": "Grenoble",
+      "start": 96527,
+      "end": 96535,
+      "label": "LOC"
+    },
+    {
+      "text": "Gravier",
+      "start": 96613,
+      "end": 96620,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 96656,
+      "end": 96661,
+      "label": "LOC"
+    },
+    {
+      "text": "Commune douze maisons riches",
+      "start": 97865,
+      "end": 97893,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonjour",
+      "start": 98646,
+      "end": 98653,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Benassis",
+      "start": 98655,
+      "end": 98672,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 98872,
+      "end": 98881,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 98921,
+      "end": 98929,
+      "label": "LOC"
+    },
+    {
+      "text": "Genestas exalté",
+      "start": 98939,
+      "end": 98954,
+      "label": "PER"
+    },
+    {
+      "text": "Benassis",
+      "start": 99011,
+      "end": 99019,
+      "label": "ORG"
+    },
+    {
+      "text": "Bengale",
+      "start": 99506,
+      "end": 99513,
+      "label": "LOC"
+    }
+  ]
+}

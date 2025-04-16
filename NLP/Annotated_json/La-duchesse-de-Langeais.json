@@ -1,0 +1,2512 @@
+{
+  "entities": [
+    {
+      "text": "DUCHESSE",
+      "start": 3,
+      "end": 11,
+      "label": "MISC"
+    },
+    {
+      "text": "LANGEAIS",
+      "start": 15,
+      "end": 23,
+      "label": "MISC"
+    },
+    {
+      "text": "LISTZ",
+      "start": 40,
+      "end": 45,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 113,
+      "end": 125,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmélites Déchaussées",
+      "start": 141,
+      "end": 163,
+      "label": "LOC"
+    },
+    {
+      "text": "Ordre institué",
+      "start": 181,
+      "end": 195,
+      "label": "MISC"
+    },
+    {
+      "text": "sainte Thérèse",
+      "start": 200,
+      "end": 214,
+      "label": "PER"
+    },
+    {
+      "text": "la Péninsule",
+      "start": 402,
+      "end": 414,
+      "label": "LOC"
+    },
+    {
+      "text": "Continent",
+      "start": 428,
+      "end": 437,
+      "label": "LOC"
+    },
+    {
+      "text": "révolution française",
+      "start": 510,
+      "end": 530,
+      "label": "MISC"
+    },
+    {
+      "text": "Andalousie",
+      "start": 893,
+      "end": 903,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 918,
+      "end": 928,
+      "label": "PER"
+    },
+    {
+      "text": "attira t",
+      "start": 1292,
+      "end": 1300,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 1470,
+      "end": 1474,
+      "label": "MISC"
+    },
+    {
+      "text": "Continent",
+      "start": 1625,
+      "end": 1634,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 2018,
+      "end": 2022,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 2866,
+      "end": 2878,
+      "label": "LOC"
+    },
+    {
+      "text": "Jetez",
+      "start": 3859,
+      "end": 3864,
+      "label": "MISC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 3892,
+      "end": 3904,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 4109,
+      "end": 4114,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 6387,
+      "end": 6394,
+      "label": "LOC"
+    },
+    {
+      "text": "Ferdinand VII",
+      "start": 6427,
+      "end": 6440,
+      "label": "PER"
+    },
+    {
+      "text": "Cadix",
+      "start": 6463,
+      "end": 6468,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Angoulême",
+      "start": 7205,
+      "end": 7220,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 7237,
+      "end": 7244,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmélites",
+      "start": 7591,
+      "end": 7601,
+      "label": "LOC"
+    },
+    {
+      "text": "Liturgie",
+      "start": 7943,
+      "end": 7951,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 8653,
+      "end": 8662,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadix",
+      "start": 8735,
+      "end": 8740,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 8828,
+      "end": 8835,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 8896,
+      "end": 8908,
+      "label": "MISC"
+    },
+    {
+      "text": "Carmélites Déchaussées",
+      "start": 9082,
+      "end": 9104,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 10479,
+      "end": 10483,
+      "label": "MISC"
+    },
+    {
+      "text": "Éternité",
+      "start": 10489,
+      "end": 10497,
+      "label": "ORG"
+    },
+    {
+      "text": "Rossini",
+      "start": 10669,
+      "end": 10676,
+      "label": "PER"
+    },
+    {
+      "text": "Mosè",
+      "start": 10967,
+      "end": 10971,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 11299,
+      "end": 11306,
+      "label": "LOC"
+    },
+    {
+      "text": "théâtre Favart",
+      "start": 11310,
+      "end": 11324,
+      "label": "LOC"
+    },
+    {
+      "text": "Te Deum",
+      "start": 11336,
+      "end": 11343,
+      "label": "LOC"
+    },
+    {
+      "text": "Roi",
+      "start": 11465,
+      "end": 11468,
+      "label": "PER"
+    },
+    {
+      "text": "Chrétien",
+      "start": 11474,
+      "end": 11482,
+      "label": "MISC"
+    },
+    {
+      "text": "Française",
+      "start": 11579,
+      "end": 11588,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 12034,
+      "end": 12043,
+      "label": "LOC"
+    },
+    {
+      "text": "Te Deum",
+      "start": 12103,
+      "end": 12110,
+      "label": "ORG"
+    },
+    {
+      "text": "Fleuve du Tage",
+      "start": 12631,
+      "end": 12645,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12731,
+      "end": 12736,
+      "label": "LOC"
+    },
+    {
+      "text": "Te Deum",
+      "start": 14026,
+      "end": 14033,
+      "label": "ORG"
+    },
+    {
+      "text": "Te Deum",
+      "start": 14473,
+      "end": 14480,
+      "label": "ORG"
+    },
+    {
+      "text": "Espagne",
+      "start": 15486,
+      "end": 15493,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 15771,
+      "end": 15779,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 16037,
+      "end": 16045,
+      "label": "MISC"
+    },
+    {
+      "text": "Magnificat",
+      "start": 16145,
+      "end": 16155,
+      "label": "MISC"
+    },
+    {
+      "text": "Chrétienté Romaine",
+      "start": 16479,
+      "end": 16497,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 16564,
+      "end": 16568,
+      "label": "MISC"
+    },
+    {
+      "text": "Christ",
+      "start": 16820,
+      "end": 16826,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 17389,
+      "end": 17393,
+      "label": "MISC"
+    },
+    {
+      "text": "Sanctuaire",
+      "start": 17431,
+      "end": 17441,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18072,
+      "end": 18076,
+      "label": "MISC"
+    },
+    {
+      "text": "Amour",
+      "start": 18243,
+      "end": 18248,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18281,
+      "end": 18285,
+      "label": "MISC"
+    },
+    {
+      "text": "Magnificat",
+      "start": 18433,
+      "end": 18443,
+      "label": "MISC"
+    },
+    {
+      "text": "Soudain",
+      "start": 19189,
+      "end": 19196,
+      "label": "PER"
+    },
+    {
+      "text": "Vint",
+      "start": 19789,
+      "end": 19793,
+      "label": "MISC"
+    },
+    {
+      "text": "Amen",
+      "start": 19796,
+      "end": 19800,
+      "label": "MISC"
+    },
+    {
+      "text": "Amen",
+      "start": 19877,
+      "end": 19881,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 19898,
+      "end": 19902,
+      "label": "MISC"
+    },
+    {
+      "text": "Religion",
+      "start": 21049,
+      "end": 21057,
+      "label": "LOC"
+    },
+    {
+      "text": "Amour",
+      "start": 21061,
+      "end": 21066,
+      "label": "LOC"
+    },
+    {
+      "text": "Musique",
+      "start": 21073,
+      "end": 21080,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21226,
+      "end": 21230,
+      "label": "MISC"
+    },
+    {
+      "text": "Trinité",
+      "start": 21294,
+      "end": 21301,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21353,
+      "end": 21357,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 21539,
+      "end": 21547,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21733,
+      "end": 21737,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 21788,
+      "end": 21792,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 22490,
+      "end": 22494,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 23581,
+      "end": 23589,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 24054,
+      "end": 24064,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmélites",
+      "start": 24195,
+      "end": 24205,
+      "label": "LOC"
+    },
+    {
+      "text": "Seigneur",
+      "start": 24282,
+      "end": 24290,
+      "label": "LOC"
+    },
+    {
+      "text": "Élévation",
+      "start": 25273,
+      "end": 25282,
+      "label": "MISC"
+    },
+    {
+      "text": "Surpris",
+      "start": 25341,
+      "end": 25348,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 25612,
+      "end": 25620,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 25661,
+      "end": 25670,
+      "label": "LOC"
+    },
+    {
+      "text": "Seigneur",
+      "start": 26059,
+      "end": 26067,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Saint Père",
+      "start": 26151,
+      "end": 26167,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Bruno",
+      "start": 26212,
+      "end": 26223,
+      "label": "PER"
+    },
+    {
+      "text": "Carmélites Déchaussées",
+      "start": 26300,
+      "end": 26322,
+      "label": "LOC"
+    },
+    {
+      "text": "Maison",
+      "start": 26398,
+      "end": 26404,
+      "label": "LOC"
+    },
+    {
+      "text": "GRANDE SAINTE",
+      "start": 26446,
+      "end": 26459,
+      "label": "LOC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 26469,
+      "end": 26476,
+      "label": "PER"
+    },
+    {
+      "text": "Visiteur",
+      "start": 26510,
+      "end": 26518,
+      "label": "LOC"
+    },
+    {
+      "text": "Mères Supérieures",
+      "start": 26526,
+      "end": 26543,
+      "label": "ORG"
+    },
+    {
+      "text": "Chef d'Ordre",
+      "start": 26692,
+      "end": 26704,
+      "label": "MISC"
+    },
+    {
+      "text": "Mère Supérieure",
+      "start": 26738,
+      "end": 26753,
+      "label": "PER"
+    },
+    {
+      "text": "Couvent",
+      "start": 26757,
+      "end": 26764,
+      "label": "ORG"
+    },
+    {
+      "text": "Française",
+      "start": 26807,
+      "end": 26816,
+      "label": "LOC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 26826,
+      "end": 26833,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 26881,
+      "end": 26885,
+      "label": "MISC"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 26985,
+      "end": 27002,
+      "label": "MISC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 27096,
+      "end": 27103,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 27131,
+      "end": 27137,
+      "label": "LOC"
+    },
+    {
+      "text": "Supérieure",
+      "start": 27399,
+      "end": 27409,
+      "label": "LOC"
+    },
+    {
+      "text": "Révérende Mère",
+      "start": 27468,
+      "end": 27482,
+      "label": "PER"
+    },
+    {
+      "text": "Mère",
+      "start": 27640,
+      "end": 27644,
+      "label": "PER"
+    },
+    {
+      "text": "Thérèse",
+      "start": 27754,
+      "end": 27761,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 28007,
+      "end": 28015,
+      "label": "LOC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 28028,
+      "end": 28035,
+      "label": "PER"
+    },
+    {
+      "text": "Mère",
+      "start": 28042,
+      "end": 28046,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 29174,
+      "end": 29180,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Thérèse",
+      "start": 29202,
+      "end": 29216,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 29237,
+      "end": 29243,
+      "label": "LOC"
+    },
+    {
+      "text": "le Seigneur",
+      "start": 29790,
+      "end": 29801,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 30647,
+      "end": 30651,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagne",
+      "start": 30949,
+      "end": 30956,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 30970,
+      "end": 30975,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 31083,
+      "end": 31090,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 31257,
+      "end": 31262,
+      "label": "LOC"
+    },
+    {
+      "text": "Triompherai je de Dieu",
+      "start": 31285,
+      "end": 31307,
+      "label": "MISC"
+    },
+    {
+      "text": "brun",
+      "start": 31375,
+      "end": 31379,
+      "label": "PER"
+    },
+    {
+      "text": "Supérieure",
+      "start": 31970,
+      "end": 31980,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame la duchesse",
+      "start": 32290,
+      "end": 32308,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 32310,
+      "end": 32319,
+      "label": "PER"
+    },
+    {
+      "text": "Thérèse",
+      "start": 32504,
+      "end": 32511,
+      "label": "PER"
+    },
+    {
+      "text": "Mère",
+      "start": 32565,
+      "end": 32569,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 32573,
+      "end": 32577,
+      "label": "MISC"
+    },
+    {
+      "text": "Supérieure",
+      "start": 32582,
+      "end": 32592,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 32764,
+      "end": 32769,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte mère",
+      "start": 32899,
+      "end": 32910,
+      "label": "PER"
+    },
+    {
+      "text": "Antoinette",
+      "start": 33005,
+      "end": 33015,
+      "label": "MISC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 33376,
+      "end": 33383,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère mère",
+      "start": 33575,
+      "end": 33588,
+      "label": "MISC"
+    },
+    {
+      "text": "Mère",
+      "start": 33971,
+      "end": 33975,
+      "label": "PER"
+    },
+    {
+      "text": "Rentre",
+      "start": 34029,
+      "end": 34035,
+      "label": "PER"
+    },
+    {
+      "text": "Supérieure",
+      "start": 34071,
+      "end": 34081,
+      "label": "LOC"
+    },
+    {
+      "text": "Supérieure",
+      "start": 34300,
+      "end": 34310,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 34508,
+      "end": 34519,
+      "label": "PER"
+    },
+    {
+      "text": "Ma Mère",
+      "start": 34570,
+      "end": 34577,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 34628,
+      "end": 34636,
+      "label": "MISC"
+    },
+    {
+      "text": "Reste",
+      "start": 34661,
+      "end": 34666,
+      "label": "PER"
+    },
+    {
+      "text": "Thérèse",
+      "start": 35123,
+      "end": 35130,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 35970,
+      "end": 35972,
+      "label": "MISC"
+    },
+    {
+      "text": "Antoinette",
+      "start": 35981,
+      "end": 35991,
+      "label": "MISC"
+    },
+    {
+      "text": "Antoinette",
+      "start": 36181,
+      "end": 36191,
+      "label": "MISC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 36274,
+      "end": 36281,
+      "label": "PER"
+    },
+    {
+      "text": "Notre Mère",
+      "start": 36394,
+      "end": 36404,
+      "label": "PER"
+    },
+    {
+      "text": "Bengale",
+      "start": 36879,
+      "end": 36886,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 37319,
+      "end": 37323,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 37446,
+      "end": 37450,
+      "label": "MISC"
+    },
+    {
+      "text": "Mes",
+      "start": 37765,
+      "end": 37768,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 37870,
+      "end": 37879,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 37883,
+      "end": 37889,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 37893,
+      "end": 37900,
+      "label": "LOC"
+    },
+    {
+      "text": "Sicile",
+      "start": 37905,
+      "end": 37911,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 37918,
+      "end": 37926,
+      "label": "LOC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 38449,
+      "end": 38456,
+      "label": "PER"
+    },
+    {
+      "text": "Antoinette",
+      "start": 38840,
+      "end": 38850,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Père",
+      "start": 38868,
+      "end": 38878,
+      "label": "MISC"
+    },
+    {
+      "text": "Rome",
+      "start": 38929,
+      "end": 38933,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 38990,
+      "end": 38994,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 39076,
+      "end": 39080,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 39083,
+      "end": 39087,
+      "label": "MISC"
+    },
+    {
+      "text": "Amour",
+      "start": 39368,
+      "end": 39373,
+      "label": "LOC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 39413,
+      "end": 39420,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 39532,
+      "end": 39536,
+      "label": "MISC"
+    },
+    {
+      "text": "Armand",
+      "start": 39631,
+      "end": 39637,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 39704,
+      "end": 39708,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 39831,
+      "end": 39835,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 40502,
+      "end": 40506,
+      "label": "MISC"
+    },
+    {
+      "text": "Antoinette",
+      "start": 40537,
+      "end": 40547,
+      "label": "MISC"
+    },
+    {
+      "text": "Silence",
+      "start": 40996,
+      "end": 41003,
+      "label": "LOC"
+    },
+    {
+      "text": "Armand",
+      "start": 41005,
+      "end": 41011,
+      "label": "PER"
+    },
+    {
+      "text": "Antoinette",
+      "start": 41102,
+      "end": 41112,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 41332,
+      "end": 41336,
+      "label": "MISC"
+    },
+    {
+      "text": "Phrases",
+      "start": 41379,
+      "end": 41386,
+      "label": "LOC"
+    },
+    {
+      "text": "Naguère",
+      "start": 41611,
+      "end": 41618,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 41690,
+      "end": 41694,
+      "label": "MISC"
+    },
+    {
+      "text": "Thérèse",
+      "start": 41726,
+      "end": 41733,
+      "label": "PER"
+    },
+    {
+      "text": "perdras",
+      "start": 42009,
+      "end": 42016,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 42056,
+      "end": 42063,
+      "label": "PER"
+    },
+    {
+      "text": "Thérèse",
+      "start": 42078,
+      "end": 42085,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 42266,
+      "end": 42270,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 42539,
+      "end": 42545,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 42700,
+      "end": 42706,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 42719,
+      "end": 42732,
+      "label": "PER"
+    },
+    {
+      "text": "place Royale",
+      "start": 42834,
+      "end": 42846,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 42860,
+      "end": 42872,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 42877,
+      "end": 42893,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 42957,
+      "end": 42970,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 43256,
+      "end": 43269,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43276,
+      "end": 43281,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 43322,
+      "end": 43326,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 43362,
+      "end": 43372,
+      "label": "PER"
+    },
+    {
+      "text": "le Louvre",
+      "start": 43401,
+      "end": 43410,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 43428,
+      "end": 43434,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Rambouillet",
+      "start": 43438,
+      "end": 43455,
+      "label": "LOC"
+    },
+    {
+      "text": "place Royale",
+      "start": 43460,
+      "end": 43472,
+      "label": "LOC"
+    },
+    {
+      "text": "Versailles",
+      "start": 43491,
+      "end": 43501,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43583,
+      "end": 43588,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43652,
+      "end": 43657,
+      "label": "LOC"
+    },
+    {
+      "text": "duc d'Uzès",
+      "start": 44290,
+      "end": 44300,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 44328,
+      "end": 44337,
+      "label": "PER"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 44395,
+      "end": 44409,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 44559,
+      "end": 44564,
+      "label": "LOC"
+    },
+    {
+      "text": "Uzès",
+      "start": 44718,
+      "end": 44722,
+      "label": "LOC"
+    },
+    {
+      "text": "place Royale",
+      "start": 44848,
+      "end": 44860,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 44969,
+      "end": 44982,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 45047,
+      "end": 45056,
+      "label": "PER"
+    },
+    {
+      "text": "duc du Maine",
+      "start": 45060,
+      "end": 45072,
+      "label": "PER"
+    },
+    {
+      "text": "Benjamin",
+      "start": 45077,
+      "end": 45085,
+      "label": "PER"
+    },
+    {
+      "text": "Grands",
+      "start": 45401,
+      "end": 45407,
+      "label": "LOC"
+    },
+    {
+      "text": "Travail",
+      "start": 45428,
+      "end": 45435,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de Montmorency",
+      "start": 46342,
+      "end": 46363,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin",
+      "start": 46380,
+      "end": 46392,
+      "label": "PER"
+    },
+    {
+      "text": "Fitz James",
+      "start": 46455,
+      "end": 46465,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Stuart",
+      "start": 46532,
+      "end": 46544,
+      "label": "PER"
+    },
+    {
+      "text": "Montorgueil",
+      "start": 46564,
+      "end": 46575,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands",
+      "start": 46666,
+      "end": 46672,
+      "label": "LOC"
+    },
+    {
+      "text": "Moscou",
+      "start": 47028,
+      "end": 47034,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 47043,
+      "end": 47050,
+      "label": "LOC"
+    },
+    {
+      "text": "Genève",
+      "start": 47061,
+      "end": 47067,
+      "label": "LOC"
+    },
+    {
+      "text": "Calcutta",
+      "start": 47076,
+      "end": 47084,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 47416,
+      "end": 47425,
+      "label": "LOC"
+    },
+    {
+      "text": "Architecture",
+      "start": 47758,
+      "end": 47770,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 47805,
+      "end": 47814,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 48194,
+      "end": 48203,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 48622,
+      "end": 48631,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 48839,
+      "end": 48852,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 49449,
+      "end": 49453,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 49455,
+      "end": 49461,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 49707,
+      "end": 49711,
+      "label": "LOC"
+    },
+    {
+      "text": "Gouvernement",
+      "start": 49746,
+      "end": 49758,
+      "label": "LOC"
+    },
+    {
+      "text": "Grands",
+      "start": 50404,
+      "end": 50410,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 50620,
+      "end": 50633,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 52195,
+      "end": 52208,
+      "label": "PER"
+    },
+    {
+      "text": "Banneret",
+      "start": 52954,
+      "end": 52962,
+      "label": "LOC"
+    },
+    {
+      "text": "Fugger modernes",
+      "start": 53386,
+      "end": 53401,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 54307,
+      "end": 54320,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 55063,
+      "end": 55069,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 55262,
+      "end": 55270,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 55646,
+      "end": 55654,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 55770,
+      "end": 55780,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 55893,
+      "end": 55906,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 56007,
+      "end": 56013,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 56078,
+      "end": 56091,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 56160,
+      "end": 56170,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 56184,
+      "end": 56197,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 56281,
+      "end": 56287,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 56311,
+      "end": 56324,
+      "label": "PER"
+    },
+    {
+      "text": "Devenus moindres",
+      "start": 57134,
+      "end": 57150,
+      "label": "MISC"
+    },
+    {
+      "text": "Bas Empire",
+      "start": 57209,
+      "end": 57219,
+      "label": "LOC"
+    },
+    {
+      "text": "Sommes",
+      "start": 58111,
+      "end": 58117,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand",
+      "start": 58264,
+      "end": 58269,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 58283,
+      "end": 58296,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 58896,
+      "end": 58905,
+      "label": "LOC"
+    },
+    {
+      "text": "Laval",
+      "start": 59002,
+      "end": 59007,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Hanovre",
+      "start": 59129,
+      "end": 59146,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 59330,
+      "end": 59343,
+      "label": "LOC"
+    },
+    {
+      "text": "Lamartine",
+      "start": 59694,
+      "end": 59703,
+      "label": "PER"
+    },
+    {
+      "text": "La Mennais",
+      "start": 59705,
+      "end": 59715,
+      "label": "PER"
+    },
+    {
+      "text": "Montalembert",
+      "start": 59717,
+      "end": 59729,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 60081,
+      "end": 60087,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 60294,
+      "end": 60302,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 60360,
+      "end": 60369,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 60870,
+      "end": 60878,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 61013,
+      "end": 61017,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 61142,
+      "end": 61155,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 61691,
+      "end": 61701,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 62235,
+      "end": 62241,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 62844,
+      "end": 62850,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62875,
+      "end": 62880,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 62945,
+      "end": 62953,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 62963,
+      "end": 62973,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 63275,
+      "end": 63288,
+      "label": "PER"
+    },
+    {
+      "text": "château des Tuileries",
+      "start": 63405,
+      "end": 63426,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre des Pairs",
+      "start": 63539,
+      "end": 63556,
+      "label": "LOC"
+    },
+    {
+      "text": "Royer Collard",
+      "start": 63872,
+      "end": 63885,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 64451,
+      "end": 64464,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 65223,
+      "end": 65236,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 66084,
+      "end": 66094,
+      "label": "PER"
+    },
+    {
+      "text": "conquête d'Alger",
+      "start": 66116,
+      "end": 66132,
+      "label": "MISC"
+    },
+    {
+      "text": "Restauration",
+      "start": 66613,
+      "end": 66625,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 66648,
+      "end": 66661,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse d'Orléans",
+      "start": 67123,
+      "end": 67141,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 67209,
+      "end": 67221,
+      "label": "LOC"
+    },
+    {
+      "text": "Régence",
+      "start": 67275,
+      "end": 67282,
+      "label": "LOC"
+    },
+    {
+      "text": "Françaises",
+      "start": 67685,
+      "end": 67695,
+      "label": "MISC"
+    },
+    {
+      "text": "Coligny",
+      "start": 68258,
+      "end": 68265,
+      "label": "PER"
+    },
+    {
+      "text": "Coadjuteur",
+      "start": 68289,
+      "end": 68299,
+      "label": "LOC"
+    },
+    {
+      "text": "Fronde",
+      "start": 68314,
+      "end": 68320,
+      "label": "MISC"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 68325,
+      "end": 68346,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 68352,
+      "end": 68360,
+      "label": "PER"
+    },
+    {
+      "text": "Danton",
+      "start": 68362,
+      "end": 68368,
+      "label": "PER"
+    },
+    {
+      "text": "Terreur",
+      "start": 68377,
+      "end": 68384,
+      "label": "MISC"
+    },
+    {
+      "text": "Mœurs",
+      "start": 69136,
+      "end": 69141,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 69199,
+      "end": 69212,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 69224,
+      "end": 69236,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 69937,
+      "end": 69947,
+      "label": "LOC"
+    },
+    {
+      "text": "Médée",
+      "start": 71518,
+      "end": 71523,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 71755,
+      "end": 71775,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 71848,
+      "end": 71860,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 71916,
+      "end": 71927,
+      "label": "PER"
+    },
+    {
+      "text": "révolution des Cent Jours",
+      "start": 71944,
+      "end": 71969,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XI",
+      "start": 72070,
+      "end": 72078,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 72135,
+      "end": 72155,
+      "label": "PER"
+    },
+    {
+      "text": "Navarreins",
+      "start": 72166,
+      "end": 72176,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 72206,
+      "end": 72215,
+      "label": "PER"
+    },
+    {
+      "text": "Antoinette",
+      "start": 72414,
+      "end": 72424,
+      "label": "MISC"
+    },
+    {
+      "text": "Navarreins",
+      "start": 72428,
+      "end": 72438,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Langeais",
+      "start": 72518,
+      "end": 72533,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 72607,
+      "end": 72616,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 72663,
+      "end": 72671,
+      "label": "ORG"
+    },
+    {
+      "text": "Navarreins",
+      "start": 72746,
+      "end": 72756,
+      "label": "LOC"
+    },
+    {
+      "text": "Langeais",
+      "start": 72763,
+      "end": 72771,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 72792,
+      "end": 72800,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 73018,
+      "end": 73030,
+      "label": "PER"
+    },
+    {
+      "text": "Navarreins",
+      "start": 73045,
+      "end": 73055,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Langeais",
+      "start": 73098,
+      "end": 73117,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 73185,
+      "end": 73193,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 73890,
+      "end": 73896,
+      "label": "LOC"
+    },
+    {
+      "text": "Langeais",
+      "start": 74110,
+      "end": 74118,
+      "label": "LOC"
+    },
+    {
+      "text": "Navarreins",
+      "start": 74125,
+      "end": 74135,
+      "label": "LOC"
+    },
+    {
+      "text": "Liste Civile",
+      "start": 74400,
+      "end": 74412,
+      "label": "ORG"
+    },
+    {
+      "text": "duc de Langeais",
+      "start": 74547,
+      "end": 74562,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 74682,
+      "end": 74687,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Langeais",
+      "start": 75280,
+      "end": 75295,
+      "label": "PER"
+    },
+    {
+      "text": "Folard",
+      "start": 75356,
+      "end": 75362,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 76407,
+      "end": 76427,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Berri",
+      "start": 76538,
+      "end": 76550,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 76589,
+      "end": 76602,
+      "label": "LOC"
+    },
+    {
+      "text": "la Restauration",
+      "start": 76724,
+      "end": 76739,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 76758,
+      "end": 76778,
+      "label": "PER"
+    },
+    {
+      "text": "Reine",
+      "start": 76954,
+      "end": 76959,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 77199,
+      "end": 77212,
+      "label": "LOC"
+    },
+    {
+      "text": "Dominations",
+      "start": 77275,
+      "end": 77286,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 77437,
+      "end": 77457,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 77801,
+      "end": 77806,
+      "label": "LOC"
+    },
+    {
+      "text": "Supposez",
+      "start": 78102,
+      "end": 78110,
+      "label": "PER"
+    },
+    {
+      "text": "Fronde",
+      "start": 78753,
+      "end": 78759,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 79280,
+      "end": 79300,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Langeais",
+      "start": 80756,
+      "end": 80774,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte",
+      "start": 80989,
+      "end": 80995,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 81064,
+      "end": 81075,
+      "label": "PER"
+    },
+    {
+      "text": "Fontaine",
+      "start": 81854,
+      "end": 81862,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère",
+      "start": 82414,
+      "end": 82422,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 82424,
+      "end": 82433,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Maufrigneuse",
+      "start": 82441,
+      "end": 82463,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montriveau",
+      "start": 82548,
+      "end": 82569,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 82573,
+      "end": 82577,
+      "label": "MISC"
+    },
+    {
+      "text": "Présentez",
+      "start": 82722,
+      "end": 82731,
+      "label": "LOC"
+    },
+    {
+      "text": "Armand de Montriveau",
+      "start": 82856,
+      "end": 82876,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83013,
+      "end": 83018,
+      "label": "LOC"
+    },
+    {
+      "text": "Armand de Montriveau",
+      "start": 83182,
+      "end": 83202,
+      "label": "PER"
+    },
+    {
+      "text": "général de Montriveau",
+      "start": 83227,
+      "end": 83248,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 83297,
+      "end": 83307,
+      "label": "MISC"
+    },
+    {
+      "text": "Joubert",
+      "start": 83335,
+      "end": 83342,
+      "label": "LOC"
+    },
+    {
+      "text": "Novi",
+      "start": 83346,
+      "end": 83350,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 83396,
+      "end": 83405,
+      "label": "PER"
+    },
+    {
+      "text": "Châlons",
+      "start": 83419,
+      "end": 83426,
+      "label": "LOC"
+    },
+    {
+      "text": "République française",
+      "start": 83537,
+      "end": 83557,
+      "label": "LOC"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 83710,
+      "end": 83723,
+      "label": "LOC"
+    },
+    {
+      "text": "Armand de Montriveau",
+      "start": 83755,
+      "end": 83775,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 84028,
+      "end": 84038,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 84431,
+      "end": 84439,
+      "label": "PER"
+    },
+    {
+      "text": "Armand de Montriveau",
+      "start": 84560,
+      "end": 84580,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 84760,
+      "end": 84768,
+      "label": "PER"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 86317,
+      "end": 86330,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 86332,
+      "end": 86342,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministère de la Guerre",
+      "start": 86421,
+      "end": 86443,
+      "label": "ORG"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 86525,
+      "end": 86535,
+      "label": "MISC"
+    },
+    {
+      "text": "bataille de Waterloo",
+      "start": 86594,
+      "end": 86614,
+      "label": "MISC"
+    },
+    {
+      "text": "Belgique",
+      "start": 86648,
+      "end": 86656,
+      "label": "LOC"
+    },
+    {
+      "text": "la Loire",
+      "start": 86691,
+      "end": 86699,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 86785,
+      "end": 86795,
+      "label": "MISC"
+    },
+    {
+      "text": "Armand de Montriveau",
+      "start": 86800,
+      "end": 86820,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 86828,
+      "end": 86837,
+      "label": "LOC"
+    },
+    {
+      "text": "général Montriveau",
+      "start": 87051,
+      "end": 87069,
+      "label": "PER"
+    },
+    {
+      "text": "Haute Égypte",
+      "start": 87111,
+      "end": 87123,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 87154,
+      "end": 87161,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Afrique",
+      "start": 87518,
+      "end": 87527,
+      "label": "LOC"
+    },
+    {
+      "text": "Sénégal",
+      "start": 88012,
+      "end": 88019,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Afrique",
+      "start": 88151,
+      "end": 88160,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 88469,
+      "end": 88479,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 88489,
+      "end": 88494,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89012,
+      "end": 89017,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 89306,
+      "end": 89311,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 89818,
+      "end": 89828,
+      "label": "PER"
+    },
+    {
+      "text": "Garde royale",
+      "start": 89918,
+      "end": 89930,
+      "label": "ORG"
+    },
+    {
+      "text": "marquis de Montriveau",
+      "start": 89973,
+      "end": 89994,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 90661,
+      "end": 90666,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 91146,
+      "end": 91156,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 91535,
+      "end": 91555,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 91750,
+      "end": 91760,
+      "label": "PER"
+    },
+    {
+      "text": "Nil",
+      "start": 91874,
+      "end": 91877,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 91891,
+      "end": 91901,
+      "label": "PER"
+    },
+    {
+      "text": "Armand",
+      "start": 93355,
+      "end": 93361,
+      "label": "PER"
+    },
+    {
+      "text": "Orientaux",
+      "start": 94039,
+      "end": 94048,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 94373,
+      "end": 94383,
+      "label": "PER"
+    },
+    {
+      "text": "Africain",
+      "start": 94433,
+      "end": 94441,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 94577,
+      "end": 94585,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 95128,
+      "end": 95138,
+      "label": "PER"
+    },
+    {
+      "text": "Surpris",
+      "start": 95613,
+      "end": 95620,
+      "label": "PER"
+    },
+    {
+      "text": "Montriveau",
+      "start": 95700,
+      "end": 95710,
+      "label": "PER"
+    },
+    {
+      "text": "Européen",
+      "start": 95792,
+      "end": 95800,
+      "label": "LOC"
+    },
+    {
+      "text": "Montriveau",
+      "start": 95913,
+      "end": 95923,
+      "label": "PER"
+    },
+    {
+      "text": "Nubien",
+      "start": 96005,
+      "end": 96011,
+      "label": "ORG"
+    },
+    {
+      "text": "Armand",
+      "start": 96337,
+      "end": 96343,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 96648,
+      "end": 96659,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Montriveau",
+      "start": 96776,
+      "end": 96797,
+      "label": "PER"
+    },
+    {
+      "text": "Armand",
+      "start": 97048,
+      "end": 97054,
+      "label": "PER"
+    },
+    {
+      "text": "grosse",
+      "start": 97149,
+      "end": 97155,
+      "label": "LOC"
+    },
+    {
+      "text": "général Kléber",
+      "start": 97318,
+      "end": 97332,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Langeais",
+      "start": 98308,
+      "end": 98328,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Maufrigneuse",
+      "start": 98436,
+      "end": 98460,
+      "label": "PER"
+    },
+    {
+      "text": "Lope de Véga",
+      "start": 98709,
+      "end": 98721,
+      "label": "PER"
+    },
+    {
+      "text": "Calderon",
+      "start": 98725,
+      "end": 98733,
+      "label": "LOC"
+    },
+    {
+      "text": "Chien du jardinier",
+      "start": 98744,
+      "end": 98762,
+      "label": "MISC"
+    },
+    {
+      "text": "La duchesse de Langeais",
+      "start": 98844,
+      "end": 98867,
+      "label": "PER"
+    }
+  ]
+}

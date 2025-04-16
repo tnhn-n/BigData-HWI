@@ -1,0 +1,1342 @@
+{
+  "entities": [
+    {
+      "text": "MESSE",
+      "start": 3,
+      "end": 8,
+      "label": "MISC"
+    },
+    {
+      "text": "L'ATHÉE",
+      "start": 12,
+      "end": 19,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 75,
+      "end": 81,
+      "label": "MISC"
+    },
+    {
+      "text": "École de Paris",
+      "start": 215,
+      "end": 229,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Europe",
+      "start": 273,
+      "end": 281,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 315,
+      "end": 323,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 490,
+      "end": 498,
+      "label": "MISC"
+    },
+    {
+      "text": "Desplein",
+      "start": 1053,
+      "end": 1061,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 1389,
+      "end": 1397,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 1499,
+      "end": 1507,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 1900,
+      "end": 1906,
+      "label": "MISC"
+    },
+    {
+      "text": "Cuvier",
+      "start": 2219,
+      "end": 2225,
+      "label": "PER"
+    },
+    {
+      "text": "Hippocrate",
+      "start": 2445,
+      "end": 2455,
+      "label": "PER"
+    },
+    {
+      "text": "Galien",
+      "start": 2457,
+      "end": 2463,
+      "label": "PER"
+    },
+    {
+      "text": "Aristote",
+      "start": 2465,
+      "end": 2473,
+      "label": "PER"
+    },
+    {
+      "text": "Magisme",
+      "start": 2640,
+      "end": 2647,
+      "label": "LOC"
+    },
+    {
+      "text": "Génie",
+      "start": 3006,
+      "end": 3011,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 3062,
+      "end": 3070,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 3419,
+      "end": 3427,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 4335,
+      "end": 4343,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 4453,
+      "end": 4457,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 4570,
+      "end": 4574,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 5273,
+      "end": 5281,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 5367,
+      "end": 5377,
+      "label": "LOC"
+    },
+    {
+      "text": "de Boulogne",
+      "start": 5436,
+      "end": 5447,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 5454,
+      "end": 5462,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 5636,
+      "end": 5643,
+      "label": "MISC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 5666,
+      "end": 5672,
+      "label": "PER"
+    },
+    {
+      "text": "Crébillon",
+      "start": 5709,
+      "end": 5718,
+      "label": "PER"
+    },
+    {
+      "text": "Tour",
+      "start": 5849,
+      "end": 5853,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 6227,
+      "end": 6233,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 6916,
+      "end": 6926,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 7180,
+      "end": 7188,
+      "label": "LOC"
+    },
+    {
+      "text": "vie de Desplein",
+      "start": 7371,
+      "end": 7386,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 7565,
+      "end": 7573,
+      "label": "PER"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 7593,
+      "end": 7608,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 7689,
+      "end": 7699,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 7701,
+      "end": 7716,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Vauquer",
+      "start": 7824,
+      "end": 7838,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 8295,
+      "end": 8301,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 8508,
+      "end": 8514,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 8845,
+      "end": 8851,
+      "label": "MISC"
+    },
+    {
+      "text": "Horace",
+      "start": 9340,
+      "end": 9346,
+      "label": "MISC"
+    },
+    {
+      "text": "Pylade de plus d'un Oreste",
+      "start": 9356,
+      "end": 9382,
+      "label": "MISC"
+    },
+    {
+      "text": "Furies antiques",
+      "start": 9457,
+      "end": 9472,
+      "label": "ORG"
+    },
+    {
+      "text": "Sobre",
+      "start": 9636,
+      "end": 9641,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 9752,
+      "end": 9760,
+      "label": "LOC"
+    },
+    {
+      "text": "Horace Bianchon",
+      "start": 9938,
+      "end": 9953,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 10073,
+      "end": 10081,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 10108,
+      "end": 10116,
+      "label": "PER"
+    },
+    {
+      "text": "Eaux",
+      "start": 10474,
+      "end": 10478,
+      "label": "MISC"
+    },
+    {
+      "text": "Séide",
+      "start": 10601,
+      "end": 10606,
+      "label": "PER"
+    },
+    {
+      "text": "Oméga",
+      "start": 10745,
+      "end": 10750,
+      "label": "MISC"
+    },
+    {
+      "text": "Desplein",
+      "start": 10997,
+      "end": 11005,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 11016,
+      "end": 11024,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon dit à Desplein",
+      "start": 11481,
+      "end": 11504,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Jacques",
+      "start": 11544,
+      "end": 11557,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 11634,
+      "end": 11643,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 11711,
+      "end": 11719,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 11795,
+      "end": 11803,
+      "label": "PER"
+    },
+    {
+      "text": "Dubois",
+      "start": 11904,
+      "end": 11910,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 11928,
+      "end": 11939,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 12175,
+      "end": 12183,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 12298,
+      "end": 12306,
+      "label": "PER"
+    },
+    {
+      "text": "Amène",
+      "start": 12356,
+      "end": 12361,
+      "label": "PER"
+    },
+    {
+      "text": "Cantal",
+      "start": 12407,
+      "end": 12413,
+      "label": "LOC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 12418,
+      "end": 12428,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 12467,
+      "end": 12475,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnats",
+      "start": 12551,
+      "end": 12561,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 12611,
+      "end": 12619,
+      "label": "MISC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 12671,
+      "end": 12681,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 12756,
+      "end": 12769,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 12771,
+      "end": 12779,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 12848,
+      "end": 12856,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Lion",
+      "start": 12967,
+      "end": 12977,
+      "label": "LOC"
+    },
+    {
+      "text": "Cabaniste",
+      "start": 13126,
+      "end": 13135,
+      "label": "PER"
+    },
+    {
+      "text": "Rabelais",
+      "start": 13180,
+      "end": 13188,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 13220,
+      "end": 13228,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 13244,
+      "end": 13257,
+      "label": "MISC"
+    },
+    {
+      "text": "humblement agenouillé",
+      "start": 13474,
+      "end": 13495,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 13528,
+      "end": 13534,
+      "label": "LOC"
+    },
+    {
+      "text": "la Vierge",
+      "start": 13767,
+      "end": 13776,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 13785,
+      "end": 13793,
+      "label": "PER"
+    },
+    {
+      "text": "Fête Dieu",
+      "start": 13859,
+      "end": 13868,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 14002,
+      "end": 14010,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 14076,
+      "end": 14086,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 14114,
+      "end": 14122,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 14235,
+      "end": 14243,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 14360,
+      "end": 14368,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 14439,
+      "end": 14447,
+      "label": "PER"
+    },
+    {
+      "text": "Broussais",
+      "start": 14478,
+      "end": 14487,
+      "label": "LOC"
+    },
+    {
+      "text": "VIe",
+      "start": 14560,
+      "end": 14563,
+      "label": "MISC"
+    },
+    {
+      "text": "Hoc",
+      "start": 14596,
+      "end": 14599,
+      "label": "PER"
+    },
+    {
+      "text": "Fête Dieu",
+      "start": 14682,
+      "end": 14691,
+      "label": "MISC"
+    },
+    {
+      "text": "Rome",
+      "start": 14733,
+      "end": 14737,
+      "label": "LOC"
+    },
+    {
+      "text": "Présence Réelle",
+      "start": 14789,
+      "end": 14804,
+      "label": "MISC"
+    },
+    {
+      "text": "Église !",
+      "start": 14852,
+      "end": 14860,
+      "label": "ORG"
+    },
+    {
+      "text": "comte de Toulouse",
+      "start": 14876,
+      "end": 14893,
+      "label": "PER"
+    },
+    {
+      "text": "Albigeois",
+      "start": 14901,
+      "end": 14910,
+      "label": "MISC"
+    },
+    {
+      "text": "Vaudois",
+      "start": 14947,
+      "end": 14954,
+      "label": "LOC"
+    },
+    {
+      "text": "Albigeois",
+      "start": 14962,
+      "end": 14971,
+      "label": "MISC"
+    },
+    {
+      "text": "Desplein",
+      "start": 15024,
+      "end": 15032,
+      "label": "LOC"
+    },
+    {
+      "text": "Citateur",
+      "start": 15190,
+      "end": 15198,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouais",
+      "start": 15202,
+      "end": 15207,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 15217,
+      "end": 15225,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 15322,
+      "end": 15335,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 15337,
+      "end": 15345,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 15382,
+      "end": 15390,
+      "label": "MISC"
+    },
+    {
+      "text": "Incrédulité",
+      "start": 15615,
+      "end": 15626,
+      "label": "ORG"
+    },
+    {
+      "text": "Bianchon",
+      "start": 15653,
+      "end": 15661,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 15787,
+      "end": 15797,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 15803,
+      "end": 15811,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 15831,
+      "end": 15839,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 15896,
+      "end": 15909,
+      "label": "PER"
+    },
+    {
+      "text": "madame la duchesse d'Angoulême",
+      "start": 15993,
+      "end": 16023,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 16066,
+      "end": 16074,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 16122,
+      "end": 16130,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 16134,
+      "end": 16138,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 16232,
+      "end": 16240,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 16262,
+      "end": 16270,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 16342,
+      "end": 16355,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 16714,
+      "end": 16722,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 16759,
+      "end": 16767,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournon",
+      "start": 16832,
+      "end": 16839,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Lion",
+      "start": 16855,
+      "end": 16865,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 16924,
+      "end": 16937,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge",
+      "start": 16986,
+      "end": 16992,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein !",
+      "start": 17007,
+      "end": 17017,
+      "label": "MISC"
+    },
+    {
+      "text": "Desplein",
+      "start": 17169,
+      "end": 17177,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 17189,
+      "end": 17197,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 17385,
+      "end": 17393,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 17493,
+      "end": 17501,
+      "label": "PER"
+    },
+    {
+      "text": "Immaculée Conception",
+      "start": 17544,
+      "end": 17564,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 17675,
+      "end": 17683,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 17700,
+      "end": 17708,
+      "label": "PER"
+    },
+    {
+      "text": "Archevêché",
+      "start": 18130,
+      "end": 18140,
+      "label": "LOC"
+    },
+    {
+      "text": "Incrédulité",
+      "start": 18320,
+      "end": 18331,
+      "label": "LOC"
+    },
+    {
+      "text": "Émeute",
+      "start": 18352,
+      "end": 18358,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon surprit Desplein",
+      "start": 18386,
+      "end": 18411,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 18432,
+      "end": 18445,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon à Desplein",
+      "start": 18642,
+      "end": 18661,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 18923,
+      "end": 18927,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon cher maître",
+      "start": 18956,
+      "end": 18971,
+      "label": "MISC"
+    },
+    {
+      "text": "Tartufe de Molière",
+      "start": 19290,
+      "end": 19308,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 19350,
+      "end": 19358,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, mon cher ami, dit Desplein",
+      "start": 19460,
+      "end": 19494,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 19596,
+      "end": 19604,
+      "label": "PER"
+    },
+    {
+      "text": "rue des Quatre Vents",
+      "start": 19645,
+      "end": 19665,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 19698,
+      "end": 19703,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 19705,
+      "end": 19713,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 20157,
+      "end": 20165,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 20172,
+      "end": 20180,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 20233,
+      "end": 20239,
+      "label": "LOC"
+    },
+    {
+      "text": "Arthez",
+      "start": 20528,
+      "end": 20534,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 20675,
+      "end": 20683,
+      "label": "PER"
+    },
+    {
+      "text": "Misère",
+      "start": 21878,
+      "end": 21884,
+      "label": "ORG"
+    },
+    {
+      "text": "Petit Lion",
+      "start": 22082,
+      "end": 22092,
+      "label": "MISC"
+    },
+    {
+      "text": "Cafés",
+      "start": 22795,
+      "end": 22800,
+      "label": "LOC"
+    },
+    {
+      "text": "Zoppi",
+      "start": 22802,
+      "end": 22807,
+      "label": "PER"
+    },
+    {
+      "text": "Lucullus",
+      "start": 22854,
+      "end": 22862,
+      "label": "LOC"
+    },
+    {
+      "text": "Pourrais",
+      "start": 22912,
+      "end": 22920,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 23720,
+      "end": 23725,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 24539,
+      "end": 24544,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 24693,
+      "end": 24701,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25010,
+      "end": 25015,
+      "label": "LOC"
+    },
+    {
+      "text": "louis",
+      "start": 25564,
+      "end": 25569,
+      "label": "PER"
+    },
+    {
+      "text": "Ayez",
+      "start": 25712,
+      "end": 25716,
+      "label": "ORG"
+    },
+    {
+      "text": "Bronchez",
+      "start": 26304,
+      "end": 26312,
+      "label": "LOC"
+    },
+    {
+      "text": "Inventez",
+      "start": 26333,
+      "end": 26341,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 26518,
+      "end": 26522,
+      "label": "MISC"
+    },
+    {
+      "text": "Desplein",
+      "start": 26590,
+      "end": 26598,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 26624,
+      "end": 26632,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 27048,
+      "end": 27053,
+      "label": "LOC"
+    },
+    {
+      "text": "École",
+      "start": 27196,
+      "end": 27201,
+      "label": "ORG"
+    },
+    {
+      "text": "Fossés",
+      "start": 27378,
+      "end": 27384,
+      "label": "LOC"
+    },
+    {
+      "text": "Germain des Prés",
+      "start": 27391,
+      "end": 27407,
+      "label": "PER"
+    },
+    {
+      "text": "École de Médecine",
+      "start": 27428,
+      "end": 27445,
+      "label": "ORG"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 28016,
+      "end": 28024,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Flour",
+      "start": 28038,
+      "end": 28049,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 28885,
+      "end": 28893,
+      "label": "MISC"
+    },
+    {
+      "text": "Monchieur l'étudiant",
+      "start": 28934,
+      "end": 28954,
+      "label": "MISC"
+    },
+    {
+      "text": "Chain Flour",
+      "start": 29013,
+      "end": 29024,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 29172,
+      "end": 29179,
+      "label": "LOC"
+    },
+    {
+      "text": "Che",
+      "start": 29385,
+      "end": 29388,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 29473,
+      "end": 29481,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 29732,
+      "end": 29740,
+      "label": "MISC"
+    },
+    {
+      "text": "Gardez",
+      "start": 29793,
+      "end": 29799,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 29816,
+      "end": 29824,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 30202,
+      "end": 30210,
+      "label": "MISC"
+    },
+    {
+      "text": "Rohan",
+      "start": 30349,
+      "end": 30354,
+      "label": "LOC"
+    },
+    {
+      "text": "Commerce",
+      "start": 30367,
+      "end": 30375,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 30574,
+      "end": 30582,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 30956,
+      "end": 30964,
+      "label": "PER"
+    },
+    {
+      "text": "Desplein",
+      "start": 31057,
+      "end": 31065,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 31094,
+      "end": 31102,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 31602,
+      "end": 31610,
+      "label": "MISC"
+    },
+    {
+      "text": "Moyen Âge",
+      "start": 31673,
+      "end": 31682,
+      "label": "MISC"
+    },
+    {
+      "text": "Lycurgue",
+      "start": 31766,
+      "end": 31774,
+      "label": "MISC"
+    },
+    {
+      "text": "Église",
+      "start": 31979,
+      "end": 31985,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 32858,
+      "end": 32866,
+      "label": "PER"
+    },
+    {
+      "text": "Philopœmen",
+      "start": 33079,
+      "end": 33089,
+      "label": "MISC"
+    },
+    {
+      "text": "Philopémen",
+      "start": 33091,
+      "end": 33101,
+      "label": "MISC"
+    },
+    {
+      "text": "Hôtel Dieu",
+      "start": 33317,
+      "end": 33327,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 33593,
+      "end": 33601,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 33838,
+      "end": 33847,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 34134,
+      "end": 34138,
+      "label": "MISC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 34204,
+      "end": 34213,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 34265,
+      "end": 34273,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 35074,
+      "end": 35082,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 35378,
+      "end": 35386,
+      "label": "LOC"
+    },
+    {
+      "text": "Desplein",
+      "start": 35411,
+      "end": 35419,
+      "label": "PER"
+    },
+    {
+      "text": "Rohan",
+      "start": 35639,
+      "end": 35644,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 35698,
+      "end": 35711,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 35897,
+      "end": 35903,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Sulpice",
+      "start": 36773,
+      "end": 36786,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 36891,
+      "end": 36899,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 37107,
+      "end": 37115,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 37206,
+      "end": 37214,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 37364,
+      "end": 37369,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeat",
+      "start": 37562,
+      "end": 37570,
+      "label": "MISC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 37602,
+      "end": 37610,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 37786,
+      "end": 37795,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 37962,
+      "end": 37967,
+      "label": "LOC"
+    }
+  ]
+}

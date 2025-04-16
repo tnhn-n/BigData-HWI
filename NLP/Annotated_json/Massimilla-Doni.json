@@ -1,0 +1,4414 @@
+{
+  "entities": [
+    {
+      "text": "MASSIMILLA DONI",
+      "start": 0,
+      "end": 15,
+      "label": "MISC"
+    },
+    {
+      "text": "JACQUES STRUNZ",
+      "start": 25,
+      "end": 39,
+      "label": "PER"
+    },
+    {
+      "text": "Trouvez",
+      "start": 216,
+      "end": 223,
+      "label": "MISC"
+    },
+    {
+      "text": "Aucuns",
+      "start": 663,
+      "end": 669,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 1122,
+      "end": 1130,
+      "label": "LOC"
+    },
+    {
+      "text": "Livre d'or",
+      "start": 1136,
+      "end": 1146,
+      "label": "MISC"
+    },
+    {
+      "text": "Croisades",
+      "start": 1161,
+      "end": 1170,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 1181,
+      "end": 1187,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome impériale",
+      "start": 1202,
+      "end": 1216,
+      "label": "LOC"
+    },
+    {
+      "text": "Barbares",
+      "start": 1278,
+      "end": 1286,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 1481,
+      "end": 1488,
+      "label": "LOC"
+    },
+    {
+      "text": "Histoire",
+      "start": 1497,
+      "end": 1505,
+      "label": "ORG"
+    },
+    {
+      "text": "Venise",
+      "start": 1682,
+      "end": 1688,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 2204,
+      "end": 2210,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 2492,
+      "end": 2498,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2510,
+      "end": 2515,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 2541,
+      "end": 2548,
+      "label": "LOC"
+    },
+    {
+      "text": "Quirini",
+      "start": 2590,
+      "end": 2597,
+      "label": "PER"
+    },
+    {
+      "text": "Doria",
+      "start": 2599,
+      "end": 2604,
+      "label": "PER"
+    },
+    {
+      "text": "Brignole",
+      "start": 2606,
+      "end": 2614,
+      "label": "PER"
+    },
+    {
+      "text": "Morosini",
+      "start": 2616,
+      "end": 2624,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauli",
+      "start": 2626,
+      "end": 2631,
+      "label": "PER"
+    },
+    {
+      "text": "Mocenigo",
+      "start": 2633,
+      "end": 2641,
+      "label": "PER"
+    },
+    {
+      "text": "Fieschi",
+      "start": 2643,
+      "end": 2650,
+      "label": "PER"
+    },
+    {
+      "text": "Fiesque",
+      "start": 2652,
+      "end": 2659,
+      "label": "LOC"
+    },
+    {
+      "text": "Cornaro",
+      "start": 2662,
+      "end": 2669,
+      "label": "LOC"
+    },
+    {
+      "text": "Spinola",
+      "start": 2671,
+      "end": 2678,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 2878,
+      "end": 2883,
+      "label": "LOC"
+    },
+    {
+      "text": "Doria",
+      "start": 2919,
+      "end": 2924,
+      "label": "PER"
+    },
+    {
+      "text": "Amalfi",
+      "start": 2939,
+      "end": 2945,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 2993,
+      "end": 2999,
+      "label": "LOC"
+    },
+    {
+      "text": "Facino Cane",
+      "start": 3042,
+      "end": 3053,
+      "label": "MISC"
+    },
+    {
+      "text": "Grimaldi",
+      "start": 3078,
+      "end": 3086,
+      "label": "MISC"
+    },
+    {
+      "text": "Monaco",
+      "start": 3130,
+      "end": 3136,
+      "label": "LOC"
+    },
+    {
+      "text": "Cane",
+      "start": 3172,
+      "end": 3176,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 3209,
+      "end": 3215,
+      "label": "LOC"
+    },
+    {
+      "text": "Cane Memmi",
+      "start": 3362,
+      "end": 3372,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 3545,
+      "end": 3551,
+      "label": "MISC"
+    },
+    {
+      "text": "Canale Grande",
+      "start": 3616,
+      "end": 3629,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 3654,
+      "end": 3660,
+      "label": "LOC"
+    },
+    {
+      "text": "Brenta",
+      "start": 3786,
+      "end": 3792,
+      "label": "LOC"
+    },
+    {
+      "text": "Terre Ferme",
+      "start": 3850,
+      "end": 3861,
+      "label": "LOC"
+    },
+    {
+      "text": "bel Émilio",
+      "start": 3932,
+      "end": 3942,
+      "label": "MISC"
+    },
+    {
+      "text": "Autriche",
+      "start": 4103,
+      "end": 4111,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes Tyroliennes",
+      "start": 4219,
+      "end": 4236,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 4286,
+      "end": 4293,
+      "label": "PER"
+    },
+    {
+      "text": "Palladio pour les Tiepolo",
+      "start": 4315,
+      "end": 4340,
+      "label": "ORG"
+    },
+    {
+      "text": "Venise",
+      "start": 4788,
+      "end": 4794,
+      "label": "LOC"
+    },
+    {
+      "text": "Piazetta",
+      "start": 4817,
+      "end": 4825,
+      "label": "LOC"
+    },
+    {
+      "text": "Capucino",
+      "start": 5274,
+      "end": 5282,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonard de Vinci",
+      "start": 5297,
+      "end": 5313,
+      "label": "PER"
+    },
+    {
+      "text": "Carlo Dolci",
+      "start": 5318,
+      "end": 5329,
+      "label": "PER"
+    },
+    {
+      "text": "Tintoretto",
+      "start": 5334,
+      "end": 5344,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 5351,
+      "end": 5357,
+      "label": "PER"
+    },
+    {
+      "text": "Alpes",
+      "start": 6275,
+      "end": 6280,
+      "label": "LOC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 6542,
+      "end": 6551,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio Memmi",
+      "start": 6883,
+      "end": 6895,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitien",
+      "start": 6926,
+      "end": 6934,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 6984,
+      "end": 6990,
+      "label": "PER"
+    },
+    {
+      "text": "Peschiere de Gênes",
+      "start": 7052,
+      "end": 7070,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 7075,
+      "end": 7082,
+      "label": "LOC"
+    },
+    {
+      "text": "Victorine",
+      "start": 7108,
+      "end": 7117,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7399,
+      "end": 7404,
+      "label": "LOC"
+    },
+    {
+      "text": "Toscane",
+      "start": 7571,
+      "end": 7578,
+      "label": "LOC"
+    },
+    {
+      "text": "Française",
+      "start": 7637,
+      "end": 7646,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 7698,
+      "end": 7707,
+      "label": "LOC"
+    },
+    {
+      "text": "passion sainte",
+      "start": 7816,
+      "end": 7830,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 8030,
+      "end": 8037,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 8154,
+      "end": 8160,
+      "label": "MISC"
+    },
+    {
+      "text": "Paul",
+      "start": 8363,
+      "end": 8367,
+      "label": "PER"
+    },
+    {
+      "text": "Françoise",
+      "start": 8371,
+      "end": 8380,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 8395,
+      "end": 8401,
+      "label": "MISC"
+    },
+    {
+      "text": "Héritière",
+      "start": 9565,
+      "end": 9574,
+      "label": "PER"
+    },
+    {
+      "text": "Doni",
+      "start": 9579,
+      "end": 9583,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 9587,
+      "end": 9595,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 9597,
+      "end": 9607,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 9637,
+      "end": 9644,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 9944,
+      "end": 9953,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla Doni",
+      "start": 9960,
+      "end": 9975,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Cataneo",
+      "start": 10088,
+      "end": 10102,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 10184,
+      "end": 10191,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 10266,
+      "end": 10276,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 10488,
+      "end": 10498,
+      "label": "LOC"
+    },
+    {
+      "text": "Pergola",
+      "start": 10577,
+      "end": 10584,
+      "label": "LOC"
+    },
+    {
+      "text": "Cascine",
+      "start": 10627,
+      "end": 10634,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 10805,
+      "end": 10811,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 10822,
+      "end": 10828,
+      "label": "MISC"
+    },
+    {
+      "text": "Vénitien",
+      "start": 10920,
+      "end": 10928,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 11245,
+      "end": 11255,
+      "label": "LOC"
+    },
+    {
+      "text": "Canareggio",
+      "start": 11329,
+      "end": 11339,
+      "label": "MISC"
+    },
+    {
+      "text": "Rivalta",
+      "start": 11411,
+      "end": 11418,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 11456,
+      "end": 11462,
+      "label": "MISC"
+    },
+    {
+      "text": "Vulpato",
+      "start": 11480,
+      "end": 11487,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 11493,
+      "end": 11500,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 11712,
+      "end": 11722,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénitien",
+      "start": 11846,
+      "end": 11854,
+      "label": "PER"
+    },
+    {
+      "text": "Rivalta",
+      "start": 12114,
+      "end": 12121,
+      "label": "MISC"
+    },
+    {
+      "text": "Heureux",
+      "start": 12123,
+      "end": 12130,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilio",
+      "start": 12173,
+      "end": 12179,
+      "label": "MISC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 12197,
+      "end": 12207,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 12279,
+      "end": 12289,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 12488,
+      "end": 12494,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 12629,
+      "end": 12633,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 12735,
+      "end": 12745,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 12785,
+      "end": 12791,
+      "label": "MISC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 12829,
+      "end": 12839,
+      "label": "LOC"
+    },
+    {
+      "text": "Junon",
+      "start": 12917,
+      "end": 12922,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 12991,
+      "end": 12996,
+      "label": "PER"
+    },
+    {
+      "text": "Diane",
+      "start": 13020,
+      "end": 13025,
+      "label": "PER"
+    },
+    {
+      "text": "Jupiter",
+      "start": 13036,
+      "end": 13043,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 13156,
+      "end": 13166,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 13168,
+      "end": 13174,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 13669,
+      "end": 13677,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 13692,
+      "end": 13702,
+      "label": "MISC"
+    },
+    {
+      "text": "Memmi",
+      "start": 14550,
+      "end": 14555,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 14663,
+      "end": 14673,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 14675,
+      "end": 14686,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 14808,
+      "end": 14814,
+      "label": "LOC"
+    },
+    {
+      "text": "pauvre Memmi",
+      "start": 14832,
+      "end": 14844,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitien",
+      "start": 14952,
+      "end": 14960,
+      "label": "PER"
+    },
+    {
+      "text": "Marco Vendramini",
+      "start": 15033,
+      "end": 15049,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 15144,
+      "end": 15153,
+      "label": "PER"
+    },
+    {
+      "text": "Marco Facino Cane",
+      "start": 15186,
+      "end": 15203,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Varèse",
+      "start": 15205,
+      "end": 15221,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 15253,
+      "end": 15258,
+      "label": "LOC"
+    },
+    {
+      "text": "Cane Memmi",
+      "start": 15304,
+      "end": 15314,
+      "label": "PER"
+    },
+    {
+      "text": "Varèse",
+      "start": 15337,
+      "end": 15343,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 15410,
+      "end": 15419,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 15432,
+      "end": 15438,
+      "label": "LOC"
+    },
+    {
+      "text": "la Fenice",
+      "start": 15499,
+      "end": 15508,
+      "label": "ORG"
+    },
+    {
+      "text": "Genovese",
+      "start": 15525,
+      "end": 15533,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 15560,
+      "end": 15565,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 15632,
+      "end": 15638,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 15669,
+      "end": 15676,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 15734,
+      "end": 15745,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 15798,
+      "end": 15803,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 16184,
+      "end": 16192,
+      "label": "PER"
+    },
+    {
+      "text": "Romans",
+      "start": 16226,
+      "end": 16232,
+      "label": "LOC"
+    },
+    {
+      "text": "Clara",
+      "start": 16277,
+      "end": 16282,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 16438,
+      "end": 16443,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 16478,
+      "end": 16486,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 16645,
+      "end": 16652,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 16677,
+      "end": 16683,
+      "label": "LOC"
+    },
+    {
+      "text": "Mestre",
+      "start": 16836,
+      "end": 16842,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 16845,
+      "end": 16851,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 16998,
+      "end": 17005,
+      "label": "LOC"
+    },
+    {
+      "text": "laquais",
+      "start": 17020,
+      "end": 17027,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 17113,
+      "end": 17119,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 17191,
+      "end": 17197,
+      "label": "LOC"
+    },
+    {
+      "text": "Vivre",
+      "start": 17572,
+      "end": 17577,
+      "label": "LOC"
+    },
+    {
+      "text": "Campêche",
+      "start": 17604,
+      "end": 17612,
+      "label": "LOC"
+    },
+    {
+      "text": "Morée",
+      "start": 17811,
+      "end": 17816,
+      "label": "LOC"
+    },
+    {
+      "text": "Romains",
+      "start": 17837,
+      "end": 17844,
+      "label": "LOC"
+    },
+    {
+      "text": "Memmius",
+      "start": 17849,
+      "end": 17856,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 17935,
+      "end": 17941,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 18052,
+      "end": 18058,
+      "label": "PER"
+    },
+    {
+      "text": "Tintoret",
+      "start": 18063,
+      "end": 18071,
+      "label": "PER"
+    },
+    {
+      "text": "Palma",
+      "start": 18082,
+      "end": 18087,
+      "label": "LOC"
+    },
+    {
+      "text": "Bellini",
+      "start": 18092,
+      "end": 18099,
+      "label": "PER"
+    },
+    {
+      "text": "Paul Véronèse",
+      "start": 18104,
+      "end": 18117,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre un Memmi",
+      "start": 18144,
+      "end": 18163,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de Varèse",
+      "start": 18197,
+      "end": 18213,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 18216,
+      "end": 18224,
+      "label": "PER"
+    },
+    {
+      "text": "Memmius",
+      "start": 18350,
+      "end": 18357,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 18400,
+      "end": 18405,
+      "label": "PER"
+    },
+    {
+      "text": "Sylla",
+      "start": 18413,
+      "end": 18418,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 18420,
+      "end": 18428,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Varèse",
+      "start": 18466,
+      "end": 18482,
+      "label": "PER"
+    },
+    {
+      "text": "prince de Varèse",
+      "start": 18578,
+      "end": 18594,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 18622,
+      "end": 18629,
+      "label": "LOC"
+    },
+    {
+      "text": "la Fenice",
+      "start": 18862,
+      "end": 18871,
+      "label": "ORG"
+    },
+    {
+      "text": "café Florian",
+      "start": 19112,
+      "end": 19124,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 19240,
+      "end": 19249,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio Memmi",
+      "start": 19329,
+      "end": 19341,
+      "label": "PER"
+    },
+    {
+      "text": "Marco Vendramini",
+      "start": 19377,
+      "end": 19393,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 19479,
+      "end": 19485,
+      "label": "MISC"
+    },
+    {
+      "text": "lord Wellington",
+      "start": 19547,
+      "end": 19562,
+      "label": "PER"
+    },
+    {
+      "text": "d'Autriche",
+      "start": 19625,
+      "end": 19635,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de France",
+      "start": 19665,
+      "end": 19678,
+      "label": "PER"
+    },
+    {
+      "text": "roi de France",
+      "start": 19700,
+      "end": 19713,
+      "label": "PER"
+    },
+    {
+      "text": "front d'Émilio",
+      "start": 19718,
+      "end": 19732,
+      "label": "MISC"
+    },
+    {
+      "text": "Titien",
+      "start": 19888,
+      "end": 19894,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 19967,
+      "end": 19974,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 20123,
+      "end": 20133,
+      "label": "LOC"
+    },
+    {
+      "text": "Florentine",
+      "start": 20156,
+      "end": 20166,
+      "label": "PER"
+    },
+    {
+      "text": "Rivalta",
+      "start": 20535,
+      "end": 20542,
+      "label": "MISC"
+    },
+    {
+      "text": "Monna Lisa",
+      "start": 20686,
+      "end": 20696,
+      "label": "PER"
+    },
+    {
+      "text": "Léonardo",
+      "start": 20700,
+      "end": 20708,
+      "label": "PER"
+    },
+    {
+      "text": "Cane",
+      "start": 20772,
+      "end": 20776,
+      "label": "PER"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 20808,
+      "end": 20818,
+      "label": "ORG"
+    },
+    {
+      "text": "Canareggio",
+      "start": 21266,
+      "end": 21276,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 21674,
+      "end": 21680,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 21722,
+      "end": 21732,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 21895,
+      "end": 21901,
+      "label": "MISC"
+    },
+    {
+      "text": "palais Memmi",
+      "start": 21946,
+      "end": 21958,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 22237,
+      "end": 22247,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 22493,
+      "end": 22499,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 22710,
+      "end": 22715,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquie",
+      "start": 22967,
+      "end": 22974,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 23105,
+      "end": 23111,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 23119,
+      "end": 23126,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 23130,
+      "end": 23135,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 23405,
+      "end": 23411,
+      "label": "LOC"
+    },
+    {
+      "text": "De Profundis",
+      "start": 23547,
+      "end": 23559,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre Venise",
+      "start": 23654,
+      "end": 23667,
+      "label": "ORG"
+    },
+    {
+      "text": "Jugez",
+      "start": 23670,
+      "end": 23675,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 23764,
+      "end": 23774,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérénissime",
+      "start": 23787,
+      "end": 23798,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 24245,
+      "end": 24251,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 24329,
+      "end": 24335,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 24552,
+      "end": 24558,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 24603,
+      "end": 24609,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 24786,
+      "end": 24792,
+      "label": "MISC"
+    },
+    {
+      "text": "Mille",
+      "start": 25055,
+      "end": 25060,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuits",
+      "start": 25068,
+      "end": 25073,
+      "label": "LOC"
+    },
+    {
+      "text": "prince Émilio",
+      "start": 25190,
+      "end": 25203,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 25292,
+      "end": 25297,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 25631,
+      "end": 25641,
+      "label": "MISC"
+    },
+    {
+      "text": "duc de Cataneo",
+      "start": 25717,
+      "end": 25731,
+      "label": "PER"
+    },
+    {
+      "text": "Porto",
+      "start": 25968,
+      "end": 25973,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 26165,
+      "end": 26168,
+      "label": "MISC"
+    },
+    {
+      "text": "Florentine",
+      "start": 26183,
+      "end": 26193,
+      "label": "PER"
+    },
+    {
+      "text": "Porto",
+      "start": 26546,
+      "end": 26551,
+      "label": "LOC"
+    },
+    {
+      "text": "Peut être",
+      "start": 26672,
+      "end": 26681,
+      "label": "MISC"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 26893,
+      "end": 26903,
+      "label": "ORG"
+    },
+    {
+      "text": "Barbier de Séville",
+      "start": 27034,
+      "end": 27052,
+      "label": "LOC"
+    },
+    {
+      "text": "Forget me not",
+      "start": 27351,
+      "end": 27364,
+      "label": "MISC"
+    },
+    {
+      "text": "Belle",
+      "start": 27370,
+      "end": 27375,
+      "label": "MISC"
+    },
+    {
+      "text": "Book of Beauty",
+      "start": 27398,
+      "end": 27412,
+      "label": "MISC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 27471,
+      "end": 27481,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 27583,
+      "end": 27592,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 27608,
+      "end": 27616,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 27632,
+      "end": 27643,
+      "label": "PER"
+    },
+    {
+      "text": "Baptistère",
+      "start": 27659,
+      "end": 27669,
+      "label": "LOC"
+    },
+    {
+      "text": "Ghiberti",
+      "start": 27672,
+      "end": 27680,
+      "label": "LOC"
+    },
+    {
+      "text": "Volupté",
+      "start": 27685,
+      "end": 27692,
+      "label": "ORG"
+    },
+    {
+      "text": "Cataneo",
+      "start": 27849,
+      "end": 27856,
+      "label": "LOC"
+    },
+    {
+      "text": "Infidélité",
+      "start": 27926,
+      "end": 27936,
+      "label": "LOC"
+    },
+    {
+      "text": "Infidélité",
+      "start": 27970,
+      "end": 27980,
+      "label": "LOC"
+    },
+    {
+      "text": "Napolitains",
+      "start": 28244,
+      "end": 28255,
+      "label": "LOC"
+    },
+    {
+      "text": "Napolitain",
+      "start": 28548,
+      "end": 28558,
+      "label": "LOC"
+    },
+    {
+      "text": "Gerolamo",
+      "start": 28563,
+      "end": 28571,
+      "label": "PER"
+    },
+    {
+      "text": "Hippocrate",
+      "start": 29160,
+      "end": 29170,
+      "label": "PER"
+    },
+    {
+      "text": "la Débauche",
+      "start": 29911,
+      "end": 29922,
+      "label": "LOC"
+    },
+    {
+      "text": "La Débauche",
+      "start": 29963,
+      "end": 29974,
+      "label": "LOC"
+    },
+    {
+      "text": "Jouerez",
+      "start": 30774,
+      "end": 30781,
+      "label": "PER"
+    },
+    {
+      "text": "Jouer du violon",
+      "start": 30919,
+      "end": 30934,
+      "label": "MISC"
+    },
+    {
+      "text": "prince Émilio",
+      "start": 30946,
+      "end": 30959,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 31013,
+      "end": 31017,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 31132,
+      "end": 31141,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 31207,
+      "end": 31213,
+      "label": "LOC"
+    },
+    {
+      "text": "Sonnez Julia",
+      "start": 31381,
+      "end": 31393,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 31591,
+      "end": 31598,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 31727,
+      "end": 31734,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Claire",
+      "start": 31864,
+      "end": 31877,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 31907,
+      "end": 31913,
+      "label": "PER"
+    },
+    {
+      "text": "madame la drôlesse",
+      "start": 31954,
+      "end": 31972,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 32191,
+      "end": 32198,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 32329,
+      "end": 32335,
+      "label": "MISC"
+    },
+    {
+      "text": "prince de Varèse",
+      "start": 32374,
+      "end": 32390,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 32438,
+      "end": 32444,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 32566,
+      "end": 32573,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 32862,
+      "end": 32868,
+      "label": "PER"
+    },
+    {
+      "text": "Sicilienne",
+      "start": 32952,
+      "end": 32962,
+      "label": "LOC"
+    },
+    {
+      "text": "palais Memmi",
+      "start": 32993,
+      "end": 33005,
+      "label": "LOC"
+    },
+    {
+      "text": "Altesse",
+      "start": 33013,
+      "end": 33020,
+      "label": "LOC"
+    },
+    {
+      "text": "Apprenez",
+      "start": 33156,
+      "end": 33164,
+      "label": "LOC"
+    },
+    {
+      "text": "Clarina",
+      "start": 33238,
+      "end": 33245,
+      "label": "LOC"
+    },
+    {
+      "text": "Clarina",
+      "start": 33447,
+      "end": 33454,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 33526,
+      "end": 33530,
+      "label": "MISC"
+    },
+    {
+      "text": "Clarina",
+      "start": 33611,
+      "end": 33618,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 33828,
+      "end": 33834,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 33847,
+      "end": 33851,
+      "label": "MISC"
+    },
+    {
+      "text": "Clarina Tinti",
+      "start": 33914,
+      "end": 33927,
+      "label": "PER"
+    },
+    {
+      "text": "Sémiramis",
+      "start": 34158,
+      "end": 34167,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 34191,
+      "end": 34196,
+      "label": "LOC"
+    },
+    {
+      "text": "Tranquille",
+      "start": 34417,
+      "end": 34427,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 34592,
+      "end": 34598,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 34827,
+      "end": 34832,
+      "label": "LOC"
+    },
+    {
+      "text": "Sicilienne",
+      "start": 34952,
+      "end": 34962,
+      "label": "LOC"
+    },
+    {
+      "text": "la Fenice",
+      "start": 35278,
+      "end": 35287,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilio",
+      "start": 35427,
+      "end": 35433,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 35657,
+      "end": 35662,
+      "label": "LOC"
+    },
+    {
+      "text": "Fazzoletto",
+      "start": 35749,
+      "end": 35759,
+      "label": "LOC"
+    },
+    {
+      "text": "Garcia",
+      "start": 35770,
+      "end": 35776,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 35785,
+      "end": 35793,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Louvois",
+      "start": 35826,
+      "end": 35837,
+      "label": "LOC"
+    },
+    {
+      "text": "la Fenice",
+      "start": 35958,
+      "end": 35967,
+      "label": "ORG"
+    },
+    {
+      "text": "Sicile",
+      "start": 36099,
+      "end": 36105,
+      "label": "LOC"
+    },
+    {
+      "text": "auguste",
+      "start": 36187,
+      "end": 36194,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 36248,
+      "end": 36253,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 36592,
+      "end": 36598,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 36656,
+      "end": 36662,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 36864,
+      "end": 36874,
+      "label": "MISC"
+    },
+    {
+      "text": "Doni",
+      "start": 36892,
+      "end": 36896,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 36924,
+      "end": 36932,
+      "label": "LOC"
+    },
+    {
+      "text": "portrait de Margherita",
+      "start": 36991,
+      "end": 37013,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 37062,
+      "end": 37069,
+      "label": "PER"
+    },
+    {
+      "text": "sainte maîtresse",
+      "start": 37099,
+      "end": 37115,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 37478,
+      "end": 37483,
+      "label": "LOC"
+    },
+    {
+      "text": "Magdeleine",
+      "start": 37708,
+      "end": 37718,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinti",
+      "start": 37883,
+      "end": 37888,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio Memmi",
+      "start": 38147,
+      "end": 38159,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 38191,
+      "end": 38196,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo !",
+      "start": 38270,
+      "end": 38279,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinti",
+      "start": 38287,
+      "end": 38292,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre Altesse",
+      "start": 38402,
+      "end": 38415,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 38483,
+      "end": 38490,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 38514,
+      "end": 38523,
+      "label": "PER"
+    },
+    {
+      "text": "la Fenice",
+      "start": 38609,
+      "end": 38618,
+      "label": "ORG"
+    },
+    {
+      "text": "Tinti",
+      "start": 39187,
+      "end": 39192,
+      "label": "LOC"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 39327,
+      "end": 39337,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilio",
+      "start": 39426,
+      "end": 39432,
+      "label": "MISC"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 39475,
+      "end": 39485,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 39516,
+      "end": 39522,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 39608,
+      "end": 39613,
+      "label": "LOC"
+    },
+    {
+      "text": "avenue de Neuilly",
+      "start": 39772,
+      "end": 39789,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 39792,
+      "end": 39797,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Gothard",
+      "start": 39902,
+      "end": 39915,
+      "label": "LOC"
+    },
+    {
+      "text": "Simplon",
+      "start": 39925,
+      "end": 39932,
+      "label": "LOC"
+    },
+    {
+      "text": "Suissesse",
+      "start": 40340,
+      "end": 40349,
+      "label": "LOC"
+    },
+    {
+      "text": "Alpes",
+      "start": 40762,
+      "end": 40767,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 41669,
+      "end": 41675,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 41795,
+      "end": 41800,
+      "label": "LOC"
+    },
+    {
+      "text": "Sisyphe",
+      "start": 41915,
+      "end": 41922,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 41972,
+      "end": 41979,
+      "label": "PER"
+    },
+    {
+      "text": "Clara Tinti",
+      "start": 42072,
+      "end": 42083,
+      "label": "PER"
+    },
+    {
+      "text": "Cher",
+      "start": 42087,
+      "end": 42091,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 42231,
+      "end": 42235,
+      "label": "LOC"
+    },
+    {
+      "text": "Église",
+      "start": 42280,
+      "end": 42286,
+      "label": "MISC"
+    },
+    {
+      "text": "Genovese",
+      "start": 43222,
+      "end": 43230,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 43240,
+      "end": 43248,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 43465,
+      "end": 43473,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 43475,
+      "end": 43483,
+      "label": "PER"
+    },
+    {
+      "text": "Madone",
+      "start": 44006,
+      "end": 44012,
+      "label": "LOC"
+    },
+    {
+      "text": "lu veux",
+      "start": 44073,
+      "end": 44080,
+      "label": "PER"
+    },
+    {
+      "text": "prince Émilio",
+      "start": 44135,
+      "end": 44148,
+      "label": "PER"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 44190,
+      "end": 44200,
+      "label": "ORG"
+    },
+    {
+      "text": "Altesse",
+      "start": 44234,
+      "end": 44241,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher Émile",
+      "start": 44525,
+      "end": 44535,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 44608,
+      "end": 44615,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 44633,
+      "end": 44638,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 44680,
+      "end": 44689,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 44783,
+      "end": 44789,
+      "label": "LOC"
+    },
+    {
+      "text": "Frioul",
+      "start": 44874,
+      "end": 44880,
+      "label": "LOC"
+    },
+    {
+      "text": "Répondez",
+      "start": 44883,
+      "end": 44891,
+      "label": "LOC"
+    },
+    {
+      "text": "MASSIMILLA DONI",
+      "start": 45003,
+      "end": 45018,
+      "label": "MISC"
+    },
+    {
+      "text": "Vénitien",
+      "start": 45106,
+      "end": 45114,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 45491,
+      "end": 45498,
+      "label": "PER"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 45679,
+      "end": 45689,
+      "label": "LOC"
+    },
+    {
+      "text": "Infâme",
+      "start": 45718,
+      "end": 45724,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 45750,
+      "end": 45756,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 45792,
+      "end": 45797,
+      "label": "LOC"
+    },
+    {
+      "text": "Samaritaine",
+      "start": 45891,
+      "end": 45902,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 45915,
+      "end": 45921,
+      "label": "MISC"
+    },
+    {
+      "text": "cria t",
+      "start": 46181,
+      "end": 46187,
+      "label": "PER"
+    },
+    {
+      "text": "Carmagnola",
+      "start": 46193,
+      "end": 46203,
+      "label": "LOC"
+    },
+    {
+      "text": "Canareggio",
+      "start": 46311,
+      "end": 46321,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 46399,
+      "end": 46405,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 46844,
+      "end": 46851,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 47036,
+      "end": 47042,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquie",
+      "start": 47077,
+      "end": 47084,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 47487,
+      "end": 47493,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 47502,
+      "end": 47512,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 47636,
+      "end": 47642,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 47802,
+      "end": 47807,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 47837,
+      "end": 47843,
+      "label": "LOC"
+    },
+    {
+      "text": "le Louvre",
+      "start": 48151,
+      "end": 48160,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 48203,
+      "end": 48212,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 48253,
+      "end": 48263,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 48357,
+      "end": 48363,
+      "label": "MISC"
+    },
+    {
+      "text": "palais de Venise",
+      "start": 48486,
+      "end": 48502,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 48779,
+      "end": 48789,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 48819,
+      "end": 48823,
+      "label": "MISC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 48856,
+      "end": 48867,
+      "label": "PER"
+    },
+    {
+      "text": "Gianbattista",
+      "start": 48938,
+      "end": 48950,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 49181,
+      "end": 49191,
+      "label": "PER"
+    },
+    {
+      "text": "Milla",
+      "start": 49238,
+      "end": 49243,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 49277,
+      "end": 49287,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 49370,
+      "end": 49376,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 49716,
+      "end": 49722,
+      "label": "MISC"
+    },
+    {
+      "text": "Florentine",
+      "start": 49923,
+      "end": 49933,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 50062,
+      "end": 50068,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 50177,
+      "end": 50182,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 50212,
+      "end": 50218,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 50425,
+      "end": 50431,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 50516,
+      "end": 50522,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'ai je fait pour l'amener à cette parole ?",
+      "start": 50550,
+      "end": 50594,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa t",
+      "start": 50595,
+      "end": 50602,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 50609,
+      "end": 50615,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 50675,
+      "end": 50685,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 50824,
+      "end": 50834,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 50858,
+      "end": 50864,
+      "label": "MISC"
+    },
+    {
+      "text": "Frioul",
+      "start": 50967,
+      "end": 50973,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 51028,
+      "end": 51035,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 51252,
+      "end": 51256,
+      "label": "MISC"
+    },
+    {
+      "text": "Baader",
+      "start": 51492,
+      "end": 51498,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénitien",
+      "start": 51801,
+      "end": 51809,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 52339,
+      "end": 52345,
+      "label": "MISC"
+    },
+    {
+      "text": "véhémente Tinti",
+      "start": 52683,
+      "end": 52698,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilio",
+      "start": 52783,
+      "end": 52789,
+      "label": "MISC"
+    },
+    {
+      "text": "Sicilienne",
+      "start": 52896,
+      "end": 52906,
+      "label": "LOC"
+    },
+    {
+      "text": "Pudeur",
+      "start": 53112,
+      "end": 53118,
+      "label": "LOC"
+    },
+    {
+      "text": "Amour",
+      "start": 53170,
+      "end": 53175,
+      "label": "LOC"
+    },
+    {
+      "text": "Coquetterie",
+      "start": 53188,
+      "end": 53199,
+      "label": "ORG"
+    },
+    {
+      "text": "Massimilla",
+      "start": 53324,
+      "end": 53334,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 53352,
+      "end": 53358,
+      "label": "MISC"
+    },
+    {
+      "text": "Foi",
+      "start": 54200,
+      "end": 54203,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 54261,
+      "end": 54268,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 54274,
+      "end": 54280,
+      "label": "PER"
+    },
+    {
+      "text": "Murillo",
+      "start": 54286,
+      "end": 54293,
+      "label": "PER"
+    },
+    {
+      "text": "Sicilienne",
+      "start": 54424,
+      "end": 54434,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 54675,
+      "end": 54685,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 54818,
+      "end": 54828,
+      "label": "MISC"
+    },
+    {
+      "text": "Combien",
+      "start": 55177,
+      "end": 55184,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 55689,
+      "end": 55695,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 55994,
+      "end": 56000,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 56282,
+      "end": 56289,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 56425,
+      "end": 56431,
+      "label": "MISC"
+    },
+    {
+      "text": "La Cataneo",
+      "start": 56630,
+      "end": 56640,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 56660,
+      "end": 56666,
+      "label": "LOC"
+    },
+    {
+      "text": "Forse",
+      "start": 56732,
+      "end": 56737,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 56798,
+      "end": 56806,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimez",
+      "start": 57037,
+      "end": 57042,
+      "label": "MISC"
+    },
+    {
+      "text": "Vulpato",
+      "start": 57081,
+      "end": 57088,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 57335,
+      "end": 57344,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramini",
+      "start": 57476,
+      "end": 57486,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 57516,
+      "end": 57522,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 57689,
+      "end": 57695,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 57738,
+      "end": 57746,
+      "label": "LOC"
+    },
+    {
+      "text": "Fenice",
+      "start": 57758,
+      "end": 57764,
+      "label": "ORG"
+    },
+    {
+      "text": "Italie",
+      "start": 57991,
+      "end": 57997,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiennes",
+      "start": 58119,
+      "end": 58129,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 58637,
+      "end": 58646,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 59227,
+      "end": 59232,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 60100,
+      "end": 60105,
+      "label": "LOC"
+    },
+    {
+      "text": "Litta",
+      "start": 60118,
+      "end": 60123,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 60383,
+      "end": 60389,
+      "label": "LOC"
+    },
+    {
+      "text": "Stendhal",
+      "start": 60391,
+      "end": 60399,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 62752,
+      "end": 62758,
+      "label": "LOC"
+    },
+    {
+      "text": "Florentine",
+      "start": 62929,
+      "end": 62939,
+      "label": "MISC"
+    },
+    {
+      "text": "Andrea del Sarto",
+      "start": 63171,
+      "end": 63187,
+      "label": "PER"
+    },
+    {
+      "text": "Mosé",
+      "start": 63401,
+      "end": 63405,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 63431,
+      "end": 63436,
+      "label": "LOC"
+    },
+    {
+      "text": "Genovese",
+      "start": 63453,
+      "end": 63461,
+      "label": "PER"
+    },
+    {
+      "text": "Barbiere",
+      "start": 63479,
+      "end": 63487,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 63625,
+      "end": 63630,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Cataneo",
+      "start": 63647,
+      "end": 63658,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 63781,
+      "end": 63789,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 63796,
+      "end": 63803,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 63859,
+      "end": 63864,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 63920,
+      "end": 63926,
+      "label": "MISC"
+    },
+    {
+      "text": "Genovese",
+      "start": 64161,
+      "end": 64169,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 64433,
+      "end": 64441,
+      "label": "PER"
+    },
+    {
+      "text": "Bergame",
+      "start": 64478,
+      "end": 64485,
+      "label": "LOC"
+    },
+    {
+      "text": "Veluti",
+      "start": 64496,
+      "end": 64502,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 64717,
+      "end": 64723,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinti",
+      "start": 64945,
+      "end": 64950,
+      "label": "LOC"
+    },
+    {
+      "text": "duc Cataneo",
+      "start": 64966,
+      "end": 64977,
+      "label": "PER"
+    },
+    {
+      "text": "Vulpato",
+      "start": 65010,
+      "end": 65017,
+      "label": "MISC"
+    },
+    {
+      "text": "Florian",
+      "start": 65161,
+      "end": 65168,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 65170,
+      "end": 65178,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 65211,
+      "end": 65216,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinti",
+      "start": 65222,
+      "end": 65227,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinti",
+      "start": 65403,
+      "end": 65408,
+      "label": "LOC"
+    },
+    {
+      "text": "Genovese",
+      "start": 65424,
+      "end": 65432,
+      "label": "PER"
+    },
+    {
+      "text": "La duchesse",
+      "start": 65475,
+      "end": 65486,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 65604,
+      "end": 65613,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 65936,
+      "end": 65944,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 66001,
+      "end": 66008,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 66067,
+      "end": 66075,
+      "label": "MISC"
+    },
+    {
+      "text": "Malfatti",
+      "start": 66083,
+      "end": 66091,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 66213,
+      "end": 66219,
+      "label": "MISC"
+    },
+    {
+      "text": "Caro",
+      "start": 66353,
+      "end": 66357,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 66375,
+      "end": 66384,
+      "label": "PER"
+    },
+    {
+      "text": "As",
+      "start": 66431,
+      "end": 66433,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 66455,
+      "end": 66464,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 66517,
+      "end": 66523,
+      "label": "MISC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 66578,
+      "end": 66588,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 66592,
+      "end": 66596,
+      "label": "MISC"
+    },
+    {
+      "text": "Marco",
+      "start": 66610,
+      "end": 66615,
+      "label": "MISC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 66661,
+      "end": 66672,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 66709,
+      "end": 66715,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 66945,
+      "end": 66952,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 66985,
+      "end": 66992,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 67072,
+      "end": 67078,
+      "label": "MISC"
+    },
+    {
+      "text": "Viens",
+      "start": 67140,
+      "end": 67145,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 67231,
+      "end": 67237,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 67407,
+      "end": 67417,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 67671,
+      "end": 67678,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 67713,
+      "end": 67721,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 67896,
+      "end": 67902,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 68192,
+      "end": 68200,
+      "label": "LOC"
+    },
+    {
+      "text": "Vulpato",
+      "start": 68388,
+      "end": 68395,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 68413,
+      "end": 68420,
+      "label": "LOC"
+    },
+    {
+      "text": "aimais",
+      "start": 68435,
+      "end": 68441,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 68474,
+      "end": 68480,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 68662,
+      "end": 68670,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 68763,
+      "end": 68772,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 68810,
+      "end": 68818,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 69009,
+      "end": 69018,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 69050,
+      "end": 69057,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 69353,
+      "end": 69362,
+      "label": "PER"
+    },
+    {
+      "text": "Génois",
+      "start": 69702,
+      "end": 69708,
+      "label": "LOC"
+    },
+    {
+      "text": "Milanais",
+      "start": 69736,
+      "end": 69744,
+      "label": "LOC"
+    },
+    {
+      "text": "Piémontais",
+      "start": 69771,
+      "end": 69781,
+      "label": "LOC"
+    },
+    {
+      "text": "Romagnol",
+      "start": 69827,
+      "end": 69835,
+      "label": "PER"
+    },
+    {
+      "text": "Inutiles",
+      "start": 70102,
+      "end": 70110,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 70135,
+      "end": 70137,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Italie",
+      "start": 70250,
+      "end": 70258,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 70356,
+      "end": 70364,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 70728,
+      "end": 70736,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 70760,
+      "end": 70768,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 70770,
+      "end": 70781,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 70974,
+      "end": 70978,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimeriez",
+      "start": 71092,
+      "end": 71100,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 71130,
+      "end": 71140,
+      "label": "ORG"
+    },
+    {
+      "text": "Français",
+      "start": 71291,
+      "end": 71299,
+      "label": "MISC"
+    },
+    {
+      "text": "Son Excellence",
+      "start": 71338,
+      "end": 71352,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 71462,
+      "end": 71470,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 71739,
+      "end": 71744,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 71748,
+      "end": 71755,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 71794,
+      "end": 71799,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 71813,
+      "end": 71820,
+      "label": "LOC"
+    },
+    {
+      "text": "Genovese",
+      "start": 71831,
+      "end": 71839,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 71844,
+      "end": 71849,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 71918,
+      "end": 71927,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 71954,
+      "end": 71962,
+      "label": "LOC"
+    },
+    {
+      "text": "Chose",
+      "start": 72041,
+      "end": 72046,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 72060,
+      "end": 72068,
+      "label": "MISC"
+    },
+    {
+      "text": "Croyez",
+      "start": 72179,
+      "end": 72185,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 72200,
+      "end": 72206,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 72457,
+      "end": 72466,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 72595,
+      "end": 72602,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 72806,
+      "end": 72812,
+      "label": "LOC"
+    },
+    {
+      "text": "punch",
+      "start": 73056,
+      "end": 73061,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 73144,
+      "end": 73153,
+      "label": "PER"
+    },
+    {
+      "text": "Constantinople",
+      "start": 73303,
+      "end": 73317,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 73421,
+      "end": 73427,
+      "label": "LOC"
+    },
+    {
+      "text": "Orient",
+      "start": 73553,
+      "end": 73559,
+      "label": "MISC"
+    },
+    {
+      "text": "Vénitiennes",
+      "start": 73608,
+      "end": 73619,
+      "label": "ORG"
+    },
+    {
+      "text": "Dix",
+      "start": 73732,
+      "end": 73735,
+      "label": "MISC"
+    },
+    {
+      "text": "Dalmates",
+      "start": 74419,
+      "end": 74427,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 74469,
+      "end": 74475,
+      "label": "LOC"
+    },
+    {
+      "text": "saint Marc",
+      "start": 74630,
+      "end": 74640,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 74913,
+      "end": 74920,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 74935,
+      "end": 74941,
+      "label": "LOC"
+    },
+    {
+      "text": "Sémiramis",
+      "start": 74989,
+      "end": 74998,
+      "label": "PER"
+    },
+    {
+      "text": "temple de Jérusalem",
+      "start": 75003,
+      "end": 75022,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 75042,
+      "end": 75046,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 75069,
+      "end": 75074,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 75174,
+      "end": 75180,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 75375,
+      "end": 75381,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 75418,
+      "end": 75424,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 75501,
+      "end": 75509,
+      "label": "LOC"
+    },
+    {
+      "text": "Méditerranée",
+      "start": 75531,
+      "end": 75543,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 75551,
+      "end": 75556,
+      "label": "LOC"
+    },
+    {
+      "text": "Gall",
+      "start": 75667,
+      "end": 75671,
+      "label": "MISC"
+    },
+    {
+      "text": "Chère",
+      "start": 75695,
+      "end": 75700,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 75715,
+      "end": 75724,
+      "label": "PER"
+    },
+    {
+      "text": "Mahomet",
+      "start": 75977,
+      "end": 75984,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 76055,
+      "end": 76061,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 76294,
+      "end": 76300,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 76444,
+      "end": 76452,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 77089,
+      "end": 77099,
+      "label": "MISC"
+    },
+    {
+      "text": "Français",
+      "start": 77174,
+      "end": 77182,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 77232,
+      "end": 77242,
+      "label": "MISC"
+    },
+    {
+      "text": "France",
+      "start": 77300,
+      "end": 77306,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 77374,
+      "end": 77382,
+      "label": "LOC"
+    },
+    {
+      "text": "ajouta t",
+      "start": 77462,
+      "end": 77470,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 77532,
+      "end": 77540,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 77576,
+      "end": 77584,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 77753,
+      "end": 77761,
+      "label": "LOC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 77833,
+      "end": 77844,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 78095,
+      "end": 78101,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 78152,
+      "end": 78161,
+      "label": "LOC"
+    },
+    {
+      "text": "Arts",
+      "start": 78441,
+      "end": 78445,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 79028,
+      "end": 79036,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 79040,
+      "end": 79045,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 79060,
+      "end": 79068,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisses",
+      "start": 79098,
+      "end": 79105,
+      "label": "LOC"
+    },
+    {
+      "text": "Guelfes",
+      "start": 79460,
+      "end": 79467,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 79634,
+      "end": 79642,
+      "label": "LOC"
+    },
+    {
+      "text": "Lagrange",
+      "start": 80468,
+      "end": 80476,
+      "label": "PER"
+    },
+    {
+      "text": "Volta",
+      "start": 80478,
+      "end": 80483,
+      "label": "LOC"
+    },
+    {
+      "text": "Rasori",
+      "start": 80485,
+      "end": 80491,
+      "label": "LOC"
+    },
+    {
+      "text": "Canova",
+      "start": 80493,
+      "end": 80499,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 80501,
+      "end": 80508,
+      "label": "PER"
+    },
+    {
+      "text": "Bartolini",
+      "start": 80510,
+      "end": 80519,
+      "label": "PER"
+    },
+    {
+      "text": "Galvani",
+      "start": 80521,
+      "end": 80528,
+      "label": "PER"
+    },
+    {
+      "text": "Vigano",
+      "start": 80530,
+      "end": 80536,
+      "label": "LOC"
+    },
+    {
+      "text": "Beccaria",
+      "start": 80538,
+      "end": 80546,
+      "label": "PER"
+    },
+    {
+      "text": "Cicognara",
+      "start": 80548,
+      "end": 80557,
+      "label": "LOC"
+    },
+    {
+      "text": "Corvetto",
+      "start": 80559,
+      "end": 80567,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 80573,
+      "end": 80581,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 80765,
+      "end": 80773,
+      "label": "LOC"
+    },
+    {
+      "text": "Taglioni",
+      "start": 80807,
+      "end": 80815,
+      "label": "PER"
+    },
+    {
+      "text": "Paganini",
+      "start": 80817,
+      "end": 80825,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 80833,
+      "end": 80841,
+      "label": "LOC"
+    },
+    {
+      "text": "Florian",
+      "start": 80916,
+      "end": 80923,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 80945,
+      "end": 80952,
+      "label": "PER"
+    },
+    {
+      "text": "duc Cataneo",
+      "start": 81028,
+      "end": 81039,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 81206,
+      "end": 81214,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 81269,
+      "end": 81277,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 81345,
+      "end": 81352,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Italie",
+      "start": 81435,
+      "end": 81443,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 81515,
+      "end": 81523,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 81623,
+      "end": 81633,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 81856,
+      "end": 81862,
+      "label": "MISC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 81885,
+      "end": 81892,
+      "label": "LOC"
+    },
+    {
+      "text": "Barbiere",
+      "start": 81972,
+      "end": 81980,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 82122,
+      "end": 82128,
+      "label": "LOC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 82130,
+      "end": 82140,
+      "label": "MISC"
+    },
+    {
+      "text": "Cécile de Raphaël",
+      "start": 82189,
+      "end": 82206,
+      "label": "PER"
+    },
+    {
+      "text": "Clarina",
+      "start": 82689,
+      "end": 82696,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 82871,
+      "end": 82879,
+      "label": "PER"
+    },
+    {
+      "text": "Carino",
+      "start": 82883,
+      "end": 82889,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 82914,
+      "end": 82920,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 83063,
+      "end": 83069,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 83079,
+      "end": 83088,
+      "label": "PER"
+    },
+    {
+      "text": "Florian",
+      "start": 83102,
+      "end": 83109,
+      "label": "LOC"
+    },
+    {
+      "text": "café Florian",
+      "start": 83114,
+      "end": 83126,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 83133,
+      "end": 83139,
+      "label": "LOC"
+    },
+    {
+      "text": "Florian",
+      "start": 83306,
+      "end": 83313,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 83337,
+      "end": 83343,
+      "label": "LOC"
+    },
+    {
+      "text": "Florian",
+      "start": 83668,
+      "end": 83675,
+      "label": "LOC"
+    },
+    {
+      "text": "Florian",
+      "start": 83841,
+      "end": 83848,
+      "label": "LOC"
+    },
+    {
+      "text": "Florian",
+      "start": 83857,
+      "end": 83864,
+      "label": "LOC"
+    },
+    {
+      "text": "Merceria",
+      "start": 84077,
+      "end": 84085,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Marc",
+      "start": 84181,
+      "end": 84191,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 84307,
+      "end": 84312,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 84375,
+      "end": 84381,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 84390,
+      "end": 84399,
+      "label": "PER"
+    },
+    {
+      "text": "Massimilla",
+      "start": 84511,
+      "end": 84521,
+      "label": "MISC"
+    },
+    {
+      "text": "Émilio",
+      "start": 84567,
+      "end": 84573,
+      "label": "MISC"
+    },
+    {
+      "text": "Florian",
+      "start": 84757,
+      "end": 84764,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 84935,
+      "end": 84945,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitiens",
+      "start": 84958,
+      "end": 84967,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo pour la Tinti",
+      "start": 85014,
+      "end": 85035,
+      "label": "MISC"
+    },
+    {
+      "text": "Genovese",
+      "start": 85152,
+      "end": 85160,
+      "label": "PER"
+    },
+    {
+      "text": "duc Cataneo",
+      "start": 85226,
+      "end": 85237,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 85423,
+      "end": 85429,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 85460,
+      "end": 85467,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 85533,
+      "end": 85542,
+      "label": "PER"
+    },
+    {
+      "text": "Albrizzi",
+      "start": 85687,
+      "end": 85695,
+      "label": "PER"
+    },
+    {
+      "text": "Florian",
+      "start": 85754,
+      "end": 85761,
+      "label": "PER"
+    },
+    {
+      "text": "Florian",
+      "start": 85875,
+      "end": 85882,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 85892,
+      "end": 85899,
+      "label": "PER"
+    },
+    {
+      "text": "Vénitien",
+      "start": 85977,
+      "end": 85985,
+      "label": "PER"
+    },
+    {
+      "text": "Théoricien",
+      "start": 86075,
+      "end": 86085,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 86198,
+      "end": 86205,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 86310,
+      "end": 86316,
+      "label": "LOC"
+    },
+    {
+      "text": "la Fenice",
+      "start": 86383,
+      "end": 86392,
+      "label": "ORG"
+    },
+    {
+      "text": "Florian",
+      "start": 86450,
+      "end": 86457,
+      "label": "LOC"
+    },
+    {
+      "text": "Douze",
+      "start": 86605,
+      "end": 86610,
+      "label": "LOC"
+    },
+    {
+      "text": "Merceria",
+      "start": 86714,
+      "end": 86722,
+      "label": "LOC"
+    },
+    {
+      "text": "costume des Vénitiennes",
+      "start": 87074,
+      "end": 87097,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénitienne",
+      "start": 87105,
+      "end": 87115,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 87147,
+      "end": 87154,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 87509,
+      "end": 87516,
+      "label": "PER"
+    },
+    {
+      "text": "Diogène",
+      "start": 87906,
+      "end": 87913,
+      "label": "PER"
+    },
+    {
+      "text": "Turc",
+      "start": 87966,
+      "end": 87970,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénitien",
+      "start": 87979,
+      "end": 87987,
+      "label": "PER"
+    },
+    {
+      "text": "San Benedetto",
+      "start": 88170,
+      "end": 88183,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 88249,
+      "end": 88257,
+      "label": "LOC"
+    },
+    {
+      "text": "Genovese",
+      "start": 88489,
+      "end": 88497,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 89207,
+      "end": 89213,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Cécile",
+      "start": 89233,
+      "end": 89246,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 89248,
+      "end": 89255,
+      "label": "PER"
+    },
+    {
+      "text": "Rêverie",
+      "start": 90218,
+      "end": 90225,
+      "label": "LOC"
+    },
+    {
+      "text": "Genovese",
+      "start": 90237,
+      "end": 90245,
+      "label": "PER"
+    },
+    {
+      "text": "caro Capraja",
+      "start": 90467,
+      "end": 90479,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 90578,
+      "end": 90585,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 90964,
+      "end": 90971,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 91237,
+      "end": 91244,
+      "label": "MISC"
+    },
+    {
+      "text": "Capraja",
+      "start": 91267,
+      "end": 91274,
+      "label": "PER"
+    },
+    {
+      "text": "Curiosité",
+      "start": 91546,
+      "end": 91555,
+      "label": "LOC"
+    },
+    {
+      "text": "Soudain",
+      "start": 91719,
+      "end": 91726,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 92398,
+      "end": 92405,
+      "label": "MISC"
+    },
+    {
+      "text": "Capraja",
+      "start": 92643,
+      "end": 92650,
+      "label": "PER"
+    },
+    {
+      "text": "Genovese",
+      "start": 92723,
+      "end": 92731,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 92757,
+      "end": 92764,
+      "label": "PER"
+    },
+    {
+      "text": "Tinti",
+      "start": 92783,
+      "end": 92788,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 92893,
+      "end": 92900,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 92923,
+      "end": 92930,
+      "label": "PER"
+    },
+    {
+      "text": "Volupté",
+      "start": 93680,
+      "end": 93687,
+      "label": "ORG"
+    },
+    {
+      "text": "Genovese",
+      "start": 93772,
+      "end": 93780,
+      "label": "PER"
+    },
+    {
+      "text": "Léda",
+      "start": 93803,
+      "end": 93807,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 93823,
+      "end": 93828,
+      "label": "LOC"
+    },
+    {
+      "text": "Mosè",
+      "start": 93853,
+      "end": 93857,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 93918,
+      "end": 93926,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 93959,
+      "end": 93966,
+      "label": "PER"
+    },
+    {
+      "text": "Vendramin",
+      "start": 94018,
+      "end": 94027,
+      "label": "PER"
+    },
+    {
+      "text": "École de Paris",
+      "start": 94324,
+      "end": 94338,
+      "label": "ORG"
+    },
+    {
+      "text": "Émilio",
+      "start": 94440,
+      "end": 94446,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 94449,
+      "end": 94458,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 94517,
+      "end": 94523,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 94538,
+      "end": 94547,
+      "label": "PER"
+    },
+    {
+      "text": "Art",
+      "start": 94860,
+      "end": 94863,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 95303,
+      "end": 95310,
+      "label": "PER"
+    },
+    {
+      "text": "Naples",
+      "start": 95339,
+      "end": 95345,
+      "label": "LOC"
+    },
+    {
+      "text": "Cataneo",
+      "start": 95357,
+      "end": 95364,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 95418,
+      "end": 95425,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 95449,
+      "end": 95456,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 95531,
+      "end": 95540,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 95542,
+      "end": 95549,
+      "label": "PER"
+    },
+    {
+      "text": "Crémone",
+      "start": 95580,
+      "end": 95587,
+      "label": "LOC"
+    },
+    {
+      "text": "palais Capello",
+      "start": 95597,
+      "end": 95611,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 95942,
+      "end": 95949,
+      "label": "PER"
+    },
+    {
+      "text": "Imagine",
+      "start": 96215,
+      "end": 96222,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 96574,
+      "end": 96581,
+      "label": "PER"
+    },
+    {
+      "text": "Capraja",
+      "start": 96585,
+      "end": 96592,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 97051,
+      "end": 97057,
+      "label": "MISC"
+    },
+    {
+      "text": "Cher",
+      "start": 97059,
+      "end": 97063,
+      "label": "LOC"
+    },
+    {
+      "text": "répondit Vendramin",
+      "start": 97833,
+      "end": 97851,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 97894,
+      "end": 97900,
+      "label": "MISC"
+    },
+    {
+      "text": "Venise",
+      "start": 97909,
+      "end": 97915,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 97921,
+      "end": 97930,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Marc",
+      "start": 97956,
+      "end": 97966,
+      "label": "PER"
+    },
+    {
+      "text": "palais Vendramini",
+      "start": 98251,
+      "end": 98268,
+      "label": "LOC"
+    },
+    {
+      "text": "Marco",
+      "start": 98283,
+      "end": 98288,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 98355,
+      "end": 98364,
+      "label": "PER"
+    },
+    {
+      "text": "Venise",
+      "start": 98482,
+      "end": 98488,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendramin",
+      "start": 98499,
+      "end": 98508,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 98687,
+      "end": 98693,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 98880,
+      "end": 98886,
+      "label": "MISC"
+    },
+    {
+      "text": "Tinti",
+      "start": 98907,
+      "end": 98912,
+      "label": "LOC"
+    },
+    {
+      "text": "Pardonne",
+      "start": 99011,
+      "end": 99019,
+      "label": "LOC"
+    },
+    {
+      "text": "Sicilienne",
+      "start": 99063,
+      "end": 99073,
+      "label": "LOC"
+    },
+    {
+      "text": "Capraja",
+      "start": 99331,
+      "end": 99338,
+      "label": "PER"
+    },
+    {
+      "text": "Cataneo",
+      "start": 99367,
+      "end": 99374,
+      "label": "LOC"
+    },
+    {
+      "text": "Émilio",
+      "start": 99489,
+      "end": 99495,
+      "label": "MISC"
+    },
+    {
+      "text": "Massimilla",
+      "start": 99532,
+      "end": 99542,
+      "label": "LOC"
+    },
+    {
+      "text": "La duchesse",
+      "start": 99928,
+      "end": 99939,
+      "label": "PER"
+    },
+    {
+      "text": "Émilio",
+      "start": 99977,
+      "end": 99983,
+      "label": "MISC"
+    }
+  ]
+}

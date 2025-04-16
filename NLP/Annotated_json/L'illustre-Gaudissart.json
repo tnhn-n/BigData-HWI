@@ -1,0 +1,4054 @@
+{
+  "entities": [
+    {
+      "text": "ILLUSTRE GAUDISSART",
+      "start": 2,
+      "end": 21,
+      "label": "MISC"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 72,
+      "end": 87,
+      "label": "MISC"
+    },
+    {
+      "text": "saturnales",
+      "start": 677,
+      "end": 687,
+      "label": "MISC"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 871,
+      "end": 886,
+      "label": "ORG"
+    },
+    {
+      "text": "Curieuse",
+      "start": 1298,
+      "end": 1306,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1397,
+      "end": 1402,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 1545,
+      "end": 1553,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2609,
+      "end": 2614,
+      "label": "LOC"
+    },
+    {
+      "text": "mauvais endroits de",
+      "start": 2692,
+      "end": 2711,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 2712,
+      "end": 2721,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 2772,
+      "end": 2776,
+      "label": "LOC"
+    },
+    {
+      "text": "Vertu",
+      "start": 2785,
+      "end": 2790,
+      "label": "LOC"
+    },
+    {
+      "text": "Conteur",
+      "start": 3063,
+      "end": 3070,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 3909,
+      "end": 3916,
+      "label": "LOC"
+    },
+    {
+      "text": "Trouverez",
+      "start": 3973,
+      "end": 3982,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 4236,
+      "end": 4242,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyageurs",
+      "start": 4311,
+      "end": 4320,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 4785,
+      "end": 4791,
+      "label": "PER"
+    },
+    {
+      "text": "Spéculation",
+      "start": 5147,
+      "end": 5158,
+      "label": "ORG"
+    },
+    {
+      "text": "Monsieur",
+      "start": 5162,
+      "end": 5170,
+      "label": "PER"
+    },
+    {
+      "text": "Compagnies d'Assurance",
+      "start": 5295,
+      "end": 5317,
+      "label": "MISC"
+    },
+    {
+      "text": "Incendie, monsieur",
+      "start": 5327,
+      "end": 5345,
+      "label": "MISC"
+    },
+    {
+      "text": "Assurés",
+      "start": 5598,
+      "end": 5605,
+      "label": "PER"
+    },
+    {
+      "text": "Ainsi l'éloquence",
+      "start": 5781,
+      "end": 5798,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambres",
+      "start": 5968,
+      "end": 5976,
+      "label": "MISC"
+    },
+    {
+      "text": "Ève",
+      "start": 6041,
+      "end": 6044,
+      "label": "LOC"
+    },
+    {
+      "text": "Tournez",
+      "start": 6262,
+      "end": 6269,
+      "label": "LOC"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 6280,
+      "end": 6295,
+      "label": "MISC"
+    },
+    {
+      "text": "col en maroquin",
+      "start": 6379,
+      "end": 6394,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 6566,
+      "end": 6571,
+      "label": "LOC"
+    },
+    {
+      "text": "Intrépide",
+      "start": 6645,
+      "end": 6654,
+      "label": "PER"
+    },
+    {
+      "text": "pays des Iroquois",
+      "start": 6774,
+      "end": 6791,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 6796,
+      "end": 6802,
+      "label": "LOC"
+    },
+    {
+      "text": "seine",
+      "start": 7057,
+      "end": 7062,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 7198,
+      "end": 7204,
+      "label": "LOC"
+    },
+    {
+      "text": "Genre",
+      "start": 7226,
+      "end": 7231,
+      "label": "LOC"
+    },
+    {
+      "text": "Individu",
+      "start": 7241,
+      "end": 7249,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7263,
+      "end": 7268,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 7285,
+      "end": 7293,
+      "label": "LOC"
+    },
+    {
+      "text": "glu",
+      "start": 7480,
+      "end": 7483,
+      "label": "LOC"
+    },
+    {
+      "text": "glu",
+      "start": 7492,
+      "end": 7495,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7804,
+      "end": 7809,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7967,
+      "end": 7972,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 8070,
+      "end": 8075,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 8346,
+      "end": 8356,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 8644,
+      "end": 8648,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 8666,
+      "end": 8676,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 8813,
+      "end": 8821,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 8828,
+      "end": 8836,
+      "label": "LOC"
+    },
+    {
+      "text": "Similia",
+      "start": 8854,
+      "end": 8861,
+      "label": "ORG"
+    },
+    {
+      "text": "de Champagne",
+      "start": 9677,
+      "end": 9689,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 10089,
+      "end": 10099,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 10390,
+      "end": 10400,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 10466,
+      "end": 10476,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 10508,
+      "end": 10513,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11414,
+      "end": 11419,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse pour les idées ",
+      "start": 12093,
+      "end": 12115,
+      "label": "MISC"
+    },
+    {
+      "text": "Spéculation",
+      "start": 12292,
+      "end": 12303,
+      "label": "ORG"
+    },
+    {
+      "text": "Librairie",
+      "start": 12572,
+      "end": 12581,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 12671,
+      "end": 12675,
+      "label": "LOC"
+    },
+    {
+      "text": "champ des Annonces",
+      "start": 12744,
+      "end": 12762,
+      "label": "LOC"
+    },
+    {
+      "text": "Prospectus",
+      "start": 12778,
+      "end": 12788,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Paix",
+      "start": 12810,
+      "end": 12824,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 13065,
+      "end": 13074,
+      "label": "LOC"
+    },
+    {
+      "text": "Commis Voyageurs",
+      "start": 13252,
+      "end": 13268,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 13320,
+      "end": 13325,
+      "label": "LOC"
+    },
+    {
+      "text": "Annonces",
+      "start": 13361,
+      "end": 13369,
+      "label": "MISC"
+    },
+    {
+      "text": "Prospectus",
+      "start": 13377,
+      "end": 13387,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 13974,
+      "end": 13980,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 14493,
+      "end": 14499,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 14618,
+      "end": 14634,
+      "label": "ORG"
+    },
+    {
+      "text": "Asie",
+      "start": 15169,
+      "end": 15173,
+      "label": "LOC"
+    },
+    {
+      "text": "Shahabaham",
+      "start": 15321,
+      "end": 15331,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 15498,
+      "end": 15508,
+      "label": "PER"
+    },
+    {
+      "text": "Compagnie",
+      "start": 15532,
+      "end": 15541,
+      "label": "ORG"
+    },
+    {
+      "text": "Vie et les Capitaux",
+      "start": 15562,
+      "end": 15581,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 15713,
+      "end": 15721,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 15815,
+      "end": 15825,
+      "label": "PER"
+    },
+    {
+      "text": "pièce",
+      "start": 15942,
+      "end": 15947,
+      "label": "PER"
+    },
+    {
+      "text": "Vie en France",
+      "start": 16188,
+      "end": 16201,
+      "label": "MISC"
+    },
+    {
+      "text": "Assurances sur la Vie et les Capitaux",
+      "start": 16307,
+      "end": 16344,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 16380,
+      "end": 16390,
+      "label": "PER"
+    },
+    {
+      "text": "Globe",
+      "start": 16717,
+      "end": 16722,
+      "label": "LOC"
+    },
+    {
+      "text": "doctrine saint simonienne",
+      "start": 16737,
+      "end": 16762,
+      "label": "MISC"
+    },
+    {
+      "text": "Mouvement, journal républicain",
+      "start": 16770,
+      "end": 16800,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 16824,
+      "end": 16834,
+      "label": "PER"
+    },
+    {
+      "text": "PARTIE Journal",
+      "start": 17010,
+      "end": 17024,
+      "label": "ORG"
+    },
+    {
+      "text": "PARTIE Assurances",
+      "start": 17055,
+      "end": 17072,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 17118,
+      "end": 17128,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Simon",
+      "start": 17255,
+      "end": 17266,
+      "label": "PER"
+    },
+    {
+      "text": "Républicains",
+      "start": 17492,
+      "end": 17504,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissarde",
+      "start": 17595,
+      "end": 17606,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 17655,
+      "end": 17665,
+      "label": "PER"
+    },
+    {
+      "text": "Carbonari français",
+      "start": 17712,
+      "end": 17730,
+      "label": "MISC"
+    },
+    {
+      "text": "Juillet",
+      "start": 17839,
+      "end": 17846,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 17982,
+      "end": 17992,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 18065,
+      "end": 18070,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 18443,
+      "end": 18453,
+      "label": "PER"
+    },
+    {
+      "text": "roi des Voyageurs",
+      "start": 18514,
+      "end": 18531,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 18654,
+      "end": 18659,
+      "label": "LOC"
+    },
+    {
+      "text": "fiacre",
+      "start": 18674,
+      "end": 18680,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 18787,
+      "end": 18797,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny son tyran",
+      "start": 18809,
+      "end": 18824,
+      "label": "MISC"
+    },
+    {
+      "text": "Gymnase",
+      "start": 18858,
+      "end": 18865,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 18975,
+      "end": 18980,
+      "label": "MISC"
+    },
+    {
+      "text": "Mathilde",
+      "start": 19046,
+      "end": 19054,
+      "label": "PER"
+    },
+    {
+      "text": "Inde",
+      "start": 19125,
+      "end": 19129,
+      "label": "LOC"
+    },
+    {
+      "text": "Prince Russe",
+      "start": 19195,
+      "end": 19207,
+      "label": "PER"
+    },
+    {
+      "text": "Enfants que je ferai en province",
+      "start": 19323,
+      "end": 19355,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 19536,
+      "end": 19540,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny",
+      "start": 19565,
+      "end": 19570,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfants",
+      "start": 19921,
+      "end": 19928,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyageurs",
+      "start": 19953,
+      "end": 19962,
+      "label": "PER"
+    },
+    {
+      "text": "Journal des Enfants",
+      "start": 20050,
+      "end": 20069,
+      "label": "ORG"
+    },
+    {
+      "text": "Mouvement, je dirai : J'ai",
+      "start": 20152,
+      "end": 20178,
+      "label": "ORG"
+    },
+    {
+      "text": "Comprends",
+      "start": 20210,
+      "end": 20219,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Pélagie",
+      "start": 20305,
+      "end": 20319,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 20517,
+      "end": 20523,
+      "label": "ORG"
+    },
+    {
+      "text": "rue d'Artois",
+      "start": 20671,
+      "end": 20683,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 20688,
+      "end": 20698,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 20702,
+      "end": 20707,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Courand",
+      "start": 20764,
+      "end": 20777,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 20834,
+      "end": 20844,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 20859,
+      "end": 20867,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny Courand",
+      "start": 20917,
+      "end": 20930,
+      "label": "PER"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 20943,
+      "end": 20962,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 21059,
+      "end": 21069,
+      "label": "PER"
+    },
+    {
+      "text": "Joli !",
+      "start": 21329,
+      "end": 21335,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny",
+      "start": 21488,
+      "end": 21493,
+      "label": "MISC"
+    },
+    {
+      "text": "Songe",
+      "start": 21528,
+      "end": 21533,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 21703,
+      "end": 21707,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 21734,
+      "end": 21744,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny",
+      "start": 21836,
+      "end": 21841,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 21874,
+      "end": 21879,
+      "label": "MISC"
+    },
+    {
+      "text": "Mouvement, les Assurances et mes articles Paris",
+      "start": 21884,
+      "end": 21931,
+      "label": "ORG"
+    },
+    {
+      "text": "Mayeux",
+      "start": 22028,
+      "end": 22034,
+      "label": "LOC"
+    },
+    {
+      "text": "Délace",
+      "start": 22118,
+      "end": 22124,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 22130,
+      "end": 22140,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 22187,
+      "end": 22195,
+      "label": "LOC"
+    },
+    {
+      "text": "Finot",
+      "start": 22286,
+      "end": 22291,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 22411,
+      "end": 22420,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 22451,
+      "end": 22458,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 22471,
+      "end": 22475,
+      "label": "MISC"
+    },
+    {
+      "text": "Popinot",
+      "start": 22512,
+      "end": 22519,
+      "label": "PER"
+    },
+    {
+      "text": "Commerce",
+      "start": 22549,
+      "end": 22557,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 22713,
+      "end": 22718,
+      "label": "LOC"
+    },
+    {
+      "text": "Messieurs",
+      "start": 22735,
+      "end": 22744,
+      "label": "PER"
+    },
+    {
+      "text": "Presse",
+      "start": 22791,
+      "end": 22797,
+      "label": "LOC"
+    },
+    {
+      "text": "Presse",
+      "start": 22871,
+      "end": 22877,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 23206,
+      "end": 23213,
+      "label": "ORG"
+    },
+    {
+      "text": "Hein",
+      "start": 23377,
+      "end": 23381,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 23404,
+      "end": 23409,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 23442,
+      "end": 23451,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 23508,
+      "end": 23512,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 23674,
+      "end": 23681,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 23807,
+      "end": 23817,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 23824,
+      "end": 23833,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 23879,
+      "end": 23886,
+      "label": "PER"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 23941,
+      "end": 23955,
+      "label": "PER"
+    },
+    {
+      "text": "Finot",
+      "start": 23958,
+      "end": 23963,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 23997,
+      "end": 24001,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24004,
+      "end": 24008,
+      "label": "MISC"
+    },
+    {
+      "text": "Londres",
+      "start": 24028,
+      "end": 24035,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 24091,
+      "end": 24098,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 24142,
+      "end": 24152,
+      "label": "LOC"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 24158,
+      "end": 24177,
+      "label": "LOC"
+    },
+    {
+      "text": "Capitaux",
+      "start": 24379,
+      "end": 24387,
+      "label": "LOC"
+    },
+    {
+      "text": "Globe",
+      "start": 24392,
+      "end": 24397,
+      "label": "LOC"
+    },
+    {
+      "text": "Mouvement",
+      "start": 24402,
+      "end": 24411,
+      "label": "ORG"
+    },
+    {
+      "text": "Enfants et à l'article",
+      "start": 24417,
+      "end": 24439,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 24440,
+      "end": 24445,
+      "label": "LOC"
+    },
+    {
+      "text": "Poitiers",
+      "start": 24541,
+      "end": 24549,
+      "label": "LOC"
+    },
+    {
+      "text": "Gageons",
+      "start": 24584,
+      "end": 24591,
+      "label": "LOC"
+    },
+    {
+      "text": "mignonne",
+      "start": 24593,
+      "end": 24601,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 24638,
+      "end": 24643,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 24670,
+      "end": 24675,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 24712,
+      "end": 24722,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 24755,
+      "end": 24763,
+      "label": "LOC"
+    },
+    {
+      "text": "Jenny",
+      "start": 24779,
+      "end": 24784,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 24948,
+      "end": 24958,
+      "label": "PER"
+    },
+    {
+      "text": "Abondance",
+      "start": 25234,
+      "end": 25243,
+      "label": "LOC"
+    },
+    {
+      "text": "Loi",
+      "start": 25251,
+      "end": 25254,
+      "label": "MISC"
+    },
+    {
+      "text": "Commerce",
+      "start": 25272,
+      "end": 25280,
+      "label": "MISC"
+    },
+    {
+      "text": "Jenny",
+      "start": 25411,
+      "end": 25416,
+      "label": "PER"
+    },
+    {
+      "text": "Taisez",
+      "start": 25466,
+      "end": 25472,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Simonisme",
+      "start": 25552,
+      "end": 25567,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouriérisme",
+      "start": 25587,
+      "end": 25598,
+      "label": "MISC"
+    },
+    {
+      "text": "Criticisme",
+      "start": 25603,
+      "end": 25613,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Gaudissart",
+      "start": 25706,
+      "end": 25723,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 25764,
+      "end": 25774,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 25883,
+      "end": 25893,
+      "label": "PER"
+    },
+    {
+      "text": "Jenny Courand",
+      "start": 25932,
+      "end": 25945,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 26214,
+      "end": 26219,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 26223,
+      "end": 26228,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 26382,
+      "end": 26387,
+      "label": "LOC"
+    },
+    {
+      "text": "LETTRE",
+      "start": 26632,
+      "end": 26638,
+      "label": "MISC"
+    },
+    {
+      "text": "GAUDISSART",
+      "start": 26642,
+      "end": 26652,
+      "label": "ORG"
+    },
+    {
+      "text": "JENNY",
+      "start": 26655,
+      "end": 26660,
+      "label": "ORG"
+    },
+    {
+      "text": "Ma chère Jenny",
+      "start": 26672,
+      "end": 26686,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 26738,
+      "end": 26746,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 26748,
+      "end": 26758,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 26791,
+      "end": 26799,
+      "label": "MISC"
+    },
+    {
+      "text": "Assurance",
+      "start": 26854,
+      "end": 26863,
+      "label": "LOC"
+    },
+    {
+      "text": "Capitaux",
+      "start": 26872,
+      "end": 26880,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 26904,
+      "end": 26909,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 26912,
+      "end": 26917,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 26994,
+      "end": 27003,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27116,
+      "end": 27121,
+      "label": "LOC"
+    },
+    {
+      "text": "Ternaux",
+      "start": 27304,
+      "end": 27311,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 27314,
+      "end": 27321,
+      "label": "LOC"
+    },
+    {
+      "text": "Article Journaux",
+      "start": 27452,
+      "end": 27468,
+      "label": "MISC"
+    },
+    {
+      "text": "Mouvements !",
+      "start": 27668,
+      "end": 27680,
+      "label": "MISC"
+    },
+    {
+      "text": "Ternaux",
+      "start": 27738,
+      "end": 27745,
+      "label": "MISC"
+    },
+    {
+      "text": "Mouvement",
+      "start": 28355,
+      "end": 28364,
+      "label": "ORG"
+    },
+    {
+      "text": "Ça",
+      "start": 28402,
+      "end": 28404,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 28458,
+      "end": 28463,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 29004,
+      "end": 29008,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 29210,
+      "end": 29215,
+      "label": "LOC"
+    },
+    {
+      "text": "Globes",
+      "start": 29399,
+      "end": 29405,
+      "label": "PER"
+    },
+    {
+      "text": "Globe",
+      "start": 29899,
+      "end": 29904,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 29906,
+      "end": 29911,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfants !",
+      "start": 30017,
+      "end": 30026,
+      "label": "MISC"
+    },
+    {
+      "text": "Enfants de Paris",
+      "start": 30048,
+      "end": 30064,
+      "label": "MISC"
+    },
+    {
+      "text": "Blois",
+      "start": 30067,
+      "end": 30072,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonne",
+      "start": 30074,
+      "end": 30079,
+      "label": "PER"
+    },
+    {
+      "text": "Débats",
+      "start": 30851,
+      "end": 30857,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 31135,
+      "end": 31139,
+      "label": "PER"
+    },
+    {
+      "text": "Mouvement",
+      "start": 31414,
+      "end": 31423,
+      "label": "ORG"
+    },
+    {
+      "text": "Bah",
+      "start": 31503,
+      "end": 31506,
+      "label": "PER"
+    },
+    {
+      "text": "Lyon",
+      "start": 31586,
+      "end": 31590,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi je ressaisis mon grand air",
+      "start": 31659,
+      "end": 31689,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 31718,
+      "end": 31722,
+      "label": "MISC"
+    },
+    {
+      "text": "Juillet",
+      "start": 31842,
+      "end": 31849,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 32033,
+      "end": 32034,
+      "label": "LOC"
+    },
+    {
+      "text": "Enfants",
+      "start": 32083,
+      "end": 32090,
+      "label": "ORG"
+    },
+    {
+      "text": "Indes",
+      "start": 32330,
+      "end": 32335,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 32478,
+      "end": 32488,
+      "label": "PER"
+    },
+    {
+      "text": "Lamard",
+      "start": 32545,
+      "end": 32551,
+      "label": "PER"
+    },
+    {
+      "text": "Bulot",
+      "start": 32575,
+      "end": 32580,
+      "label": "LOC"
+    },
+    {
+      "text": "Amboise",
+      "start": 32636,
+      "end": 32643,
+      "label": "LOC"
+    },
+    {
+      "text": "Amboise",
+      "start": 32654,
+      "end": 32661,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 32704,
+      "end": 32709,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart !",
+      "start": 32838,
+      "end": 32850,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 32897,
+      "end": 32902,
+      "label": "PER"
+    },
+    {
+      "text": "Ton FÉLIX",
+      "start": 33056,
+      "end": 33065,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 33102,
+      "end": 33112,
+      "label": "PER"
+    },
+    {
+      "text": "Faisan",
+      "start": 33143,
+      "end": 33149,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 33166,
+      "end": 33171,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 33188,
+      "end": 33195,
+      "label": "LOC"
+    },
+    {
+      "text": "Levée",
+      "start": 33330,
+      "end": 33335,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 33436,
+      "end": 33446,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 33553,
+      "end": 33560,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 33657,
+      "end": 33665,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 33786,
+      "end": 33794,
+      "label": "PER"
+    },
+    {
+      "text": "Rois de France",
+      "start": 33894,
+      "end": 33908,
+      "label": "LOC"
+    },
+    {
+      "text": "Transplantez",
+      "start": 34281,
+      "end": 34293,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 34297,
+      "end": 34307,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 34441,
+      "end": 34449,
+      "label": "PER"
+    },
+    {
+      "text": "Semblançay",
+      "start": 34453,
+      "end": 34463,
+      "label": "MISC"
+    },
+    {
+      "text": "Plantin",
+      "start": 34466,
+      "end": 34473,
+      "label": "PER"
+    },
+    {
+      "text": "Descartes",
+      "start": 34490,
+      "end": 34499,
+      "label": "PER"
+    },
+    {
+      "text": "Boucicault",
+      "start": 34501,
+      "end": 34511,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 34516,
+      "end": 34524,
+      "label": "MISC"
+    },
+    {
+      "text": "Pinaigrier",
+      "start": 34542,
+      "end": 34552,
+      "label": "LOC"
+    },
+    {
+      "text": "Verville",
+      "start": 34622,
+      "end": 34630,
+      "label": "LOC"
+    },
+    {
+      "text": "Courier",
+      "start": 34634,
+      "end": 34641,
+      "label": "LOC"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 34652,
+      "end": 34662,
+      "label": "LOC"
+    },
+    {
+      "text": "Indien",
+      "start": 34715,
+      "end": 34721,
+      "label": "LOC"
+    },
+    {
+      "text": "Turc",
+      "start": 34745,
+      "end": 34749,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 34865,
+      "end": 34873,
+      "label": "LOC"
+    },
+    {
+      "text": "Gargantua",
+      "start": 34937,
+      "end": 34946,
+      "label": "MISC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 35058,
+      "end": 35066,
+      "label": "PER"
+    },
+    {
+      "text": "Tourangeau",
+      "start": 35171,
+      "end": 35181,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 35207,
+      "end": 35210,
+      "label": "LOC"
+    },
+    {
+      "text": "Apporte ton écuelle",
+      "start": 35214,
+      "end": 35233,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 35346,
+      "end": 35355,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquie",
+      "start": 35546,
+      "end": 35553,
+      "label": "LOC"
+    },
+    {
+      "text": "Fussiez",
+      "start": 35611,
+      "end": 35618,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 35648,
+      "end": 35656,
+      "label": "PER"
+    },
+    {
+      "text": "Byron",
+      "start": 35681,
+      "end": 35686,
+      "label": "PER"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 35814,
+      "end": 35833,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 35861,
+      "end": 35868,
+      "label": "MISC"
+    },
+    {
+      "text": "Tourangeaux",
+      "start": 36059,
+      "end": 36070,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Simon",
+      "start": 36134,
+      "end": 36145,
+      "label": "PER"
+    },
+    {
+      "text": "Touraine",
+      "start": 36260,
+      "end": 36268,
+      "label": "LOC"
+    },
+    {
+      "text": "lord Byron",
+      "start": 36431,
+      "end": 36441,
+      "label": "PER"
+    },
+    {
+      "text": "Soleil d'Or",
+      "start": 36509,
+      "end": 36520,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 36540,
+      "end": 36549,
+      "label": "PER"
+    },
+    {
+      "text": "Garde impériale",
+      "start": 36577,
+      "end": 36592,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 36680,
+      "end": 36690,
+      "label": "PER"
+    },
+    {
+      "text": "Figaro",
+      "start": 36836,
+      "end": 36842,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 37355,
+      "end": 37360,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 37891,
+      "end": 37898,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 38011,
+      "end": 38021,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 38092,
+      "end": 38097,
+      "label": "LOC"
+    },
+    {
+      "text": "Cher",
+      "start": 38104,
+      "end": 38108,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 38174,
+      "end": 38181,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 38201,
+      "end": 38209,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 38491,
+      "end": 38501,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 38574,
+      "end": 38583,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 38636,
+      "end": 38644,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 38824,
+      "end": 38831,
+      "label": "PER"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 38864,
+      "end": 38879,
+      "label": "MISC"
+    },
+    {
+      "text": "Positivement",
+      "start": 38902,
+      "end": 38914,
+      "label": "LOC"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 38942,
+      "end": 38961,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyageurs",
+      "start": 39198,
+      "end": 39207,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 39282,
+      "end": 39290,
+      "label": "LOC"
+    },
+    {
+      "text": "Daignez",
+      "start": 39506,
+      "end": 39513,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 39694,
+      "end": 39699,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 40010,
+      "end": 40015,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 40085,
+      "end": 40095,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 40146,
+      "end": 40153,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 40224,
+      "end": 40234,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 40267,
+      "end": 40274,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 40325,
+      "end": 40333,
+      "label": "LOC"
+    },
+    {
+      "text": "Vallée Coquette",
+      "start": 40559,
+      "end": 40574,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 40855,
+      "end": 40865,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 40888,
+      "end": 40898,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Margaritis",
+      "start": 40999,
+      "end": 41016,
+      "label": "PER"
+    },
+    {
+      "text": "Charenton",
+      "start": 41554,
+      "end": 41563,
+      "label": "PER"
+    },
+    {
+      "text": "Maisons de Santé",
+      "start": 41576,
+      "end": 41592,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 41625,
+      "end": 41635,
+      "label": "PER"
+    },
+    {
+      "text": "Dubuisson",
+      "start": 41649,
+      "end": 41658,
+      "label": "LOC"
+    },
+    {
+      "text": "Esquirol",
+      "start": 41660,
+      "end": 41668,
+      "label": "LOC"
+    },
+    {
+      "text": "Blanche",
+      "start": 41670,
+      "end": 41677,
+      "label": "LOC"
+    },
+    {
+      "text": "Indre et Loire",
+      "start": 42176,
+      "end": 42190,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 42729,
+      "end": 42739,
+      "label": "LOC"
+    },
+    {
+      "text": "Grecs",
+      "start": 43159,
+      "end": 43164,
+      "label": "LOC"
+    },
+    {
+      "text": "Turcs",
+      "start": 43172,
+      "end": 43177,
+      "label": "LOC"
+    },
+    {
+      "text": "Temple",
+      "start": 43206,
+      "end": 43212,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43215,
+      "end": 43220,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 43241,
+      "end": 43246,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 43774,
+      "end": 43784,
+      "label": "LOC"
+    },
+    {
+      "text": "Je me suis",
+      "start": 43789,
+      "end": 43799,
+      "label": "MISC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 43903,
+      "end": 43912,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérusalem",
+      "start": 43915,
+      "end": 43924,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 45010,
+      "end": 45020,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 45257,
+      "end": 45267,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 45275,
+      "end": 45282,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 45292,
+      "end": 45302,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 45485,
+      "end": 45492,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 45494,
+      "end": 45501,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Champlain",
+      "start": 45689,
+      "end": 45705,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Vernier",
+      "start": 45925,
+      "end": 45939,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 46002,
+      "end": 46012,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 46042,
+      "end": 46052,
+      "label": "PER"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 46072,
+      "end": 46087,
+      "label": "MISC"
+    },
+    {
+      "text": "Vernier",
+      "start": 46089,
+      "end": 46096,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 46149,
+      "end": 46159,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 46163,
+      "end": 46171,
+      "label": "PER"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 46210,
+      "end": 46229,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 46745,
+      "end": 46749,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 47045,
+      "end": 47047,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 47150,
+      "end": 47160,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 47200,
+      "end": 47207,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 47331,
+      "end": 47338,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 47375,
+      "end": 47380,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 47458,
+      "end": 47468,
+      "label": "PER"
+    },
+    {
+      "text": "Attendez",
+      "start": 47526,
+      "end": 47534,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontanieu",
+      "start": 47600,
+      "end": 47609,
+      "label": "PER"
+    },
+    {
+      "text": "Indiquer",
+      "start": 47657,
+      "end": 47665,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 47776,
+      "end": 47783,
+      "label": "PER"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 47866,
+      "end": 47881,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 47937,
+      "end": 47945,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 47956,
+      "end": 47963,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 47995,
+      "end": 48005,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 48106,
+      "end": 48113,
+      "label": "PER"
+    },
+    {
+      "text": "Vallée Coquette",
+      "start": 48338,
+      "end": 48353,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fuye",
+      "start": 48372,
+      "end": 48379,
+      "label": "MISC"
+    },
+    {
+      "text": "Touraine",
+      "start": 48760,
+      "end": 48768,
+      "label": "LOC"
+    },
+    {
+      "text": "Utrecht jaune",
+      "start": 49170,
+      "end": 49183,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 49185,
+      "end": 49195,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 49248,
+      "end": 49258,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Margaritis",
+      "start": 49792,
+      "end": 49811,
+      "label": "MISC"
+    },
+    {
+      "text": "Vernier",
+      "start": 49828,
+      "end": 49835,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 50050,
+      "end": 50060,
+      "label": "PER"
+    },
+    {
+      "text": "Causons, monsieur",
+      "start": 50105,
+      "end": 50122,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 50176,
+      "end": 50186,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 50321,
+      "end": 50328,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50408,
+      "end": 50416,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 50422,
+      "end": 50432,
+      "label": "PER"
+    },
+    {
+      "text": "Publiques",
+      "start": 50463,
+      "end": 50472,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 50483,
+      "end": 50493,
+      "label": "LOC"
+    },
+    {
+      "text": "Calabre",
+      "start": 50529,
+      "end": 50536,
+      "label": "LOC"
+    },
+    {
+      "text": "Murat",
+      "start": 50558,
+      "end": 50563,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 50567,
+      "end": 50572,
+      "label": "LOC"
+    },
+    {
+      "text": "Calabre",
+      "start": 50589,
+      "end": 50596,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 50636,
+      "end": 50643,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 50666,
+      "end": 50676,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 50740,
+      "end": 50750,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50831,
+      "end": 50839,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 50845,
+      "end": 50855,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 51293,
+      "end": 51300,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 51808,
+      "end": 51818,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 51822,
+      "end": 51826,
+      "label": "MISC"
+    },
+    {
+      "text": "Départements",
+      "start": 51867,
+      "end": 51879,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 53230,
+      "end": 53234,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 53414,
+      "end": 53424,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 53562,
+      "end": 53572,
+      "label": "PER"
+    },
+    {
+      "text": "Assurance",
+      "start": 54454,
+      "end": 54463,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 54599,
+      "end": 54609,
+      "label": "PER"
+    },
+    {
+      "text": "Votre",
+      "start": 54873,
+      "end": 54878,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque Territoriale",
+      "start": 55029,
+      "end": 55048,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 55084,
+      "end": 55089,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 55114,
+      "end": 55124,
+      "label": "PER"
+    },
+    {
+      "text": "Assurés",
+      "start": 55241,
+      "end": 55248,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 55478,
+      "end": 55482,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 55774,
+      "end": 55782,
+      "label": "PER"
+    },
+    {
+      "text": "Quésaco",
+      "start": 56148,
+      "end": 56155,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 56162,
+      "end": 56172,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 56331,
+      "end": 56335,
+      "label": "MISC"
+    },
+    {
+      "text": "Assurance",
+      "start": 56741,
+      "end": 56750,
+      "label": "LOC"
+    },
+    {
+      "text": "Excellente",
+      "start": 56815,
+      "end": 56825,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 56867,
+      "end": 56877,
+      "label": "PER"
+    },
+    {
+      "text": "Caisse de bienfaisance",
+      "start": 56894,
+      "end": 56916,
+      "label": "MISC"
+    },
+    {
+      "text": "Assurance",
+      "start": 56925,
+      "end": 56934,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 57075,
+      "end": 57081,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 57171,
+      "end": 57175,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 57201,
+      "end": 57211,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 57215,
+      "end": 57219,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 57279,
+      "end": 57289,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 57410,
+      "end": 57420,
+      "label": "PER"
+    },
+    {
+      "text": "Accepteriez",
+      "start": 57454,
+      "end": 57465,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 57497,
+      "end": 57507,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 57511,
+      "end": 57521,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 57532,
+      "end": 57542,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 57657,
+      "end": 57664,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 57707,
+      "end": 57717,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis !",
+      "start": 57727,
+      "end": 57739,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 57824,
+      "end": 57834,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 57905,
+      "end": 57915,
+      "label": "LOC"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 57969,
+      "end": 57984,
+      "label": "MISC"
+    },
+    {
+      "text": "Madère",
+      "start": 58005,
+      "end": 58011,
+      "label": "LOC"
+    },
+    {
+      "text": "Madère",
+      "start": 58025,
+      "end": 58031,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 58090,
+      "end": 58097,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58246,
+      "end": 58251,
+      "label": "LOC"
+    },
+    {
+      "text": "Madère",
+      "start": 58267,
+      "end": 58273,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58359,
+      "end": 58364,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 58416,
+      "end": 58424,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 58431,
+      "end": 58439,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58512,
+      "end": 58517,
+      "label": "LOC"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 58548,
+      "end": 58556,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 58660,
+      "end": 58667,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 58867,
+      "end": 58872,
+      "label": "LOC"
+    },
+    {
+      "text": "Revenons",
+      "start": 58998,
+      "end": 59006,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 59028,
+      "end": 59038,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 59209,
+      "end": 59216,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 59258,
+      "end": 59268,
+      "label": "PER"
+    },
+    {
+      "text": "Voudriez",
+      "start": 59347,
+      "end": 59355,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 59464,
+      "end": 59474,
+      "label": "PER"
+    },
+    {
+      "text": "Assurance",
+      "start": 59481,
+      "end": 59490,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 59622,
+      "end": 59632,
+      "label": "PER"
+    },
+    {
+      "text": "Matière",
+      "start": 59791,
+      "end": 59798,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 59908,
+      "end": 59914,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 59961,
+      "end": 59971,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 60182,
+      "end": 60192,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque Territoriale",
+      "start": 60202,
+      "end": 60221,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 60276,
+      "end": 60286,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 60544,
+      "end": 60554,
+      "label": "PER"
+    },
+    {
+      "text": "Messieurs",
+      "start": 61285,
+      "end": 61294,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 61403,
+      "end": 61407,
+      "label": "LOC"
+    },
+    {
+      "text": "Police d'Assurance",
+      "start": 61628,
+      "end": 61646,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourse",
+      "start": 61881,
+      "end": 61887,
+      "label": "LOC"
+    },
+    {
+      "text": "Société sur la vie",
+      "start": 62157,
+      "end": 62175,
+      "label": "ORG"
+    },
+    {
+      "text": "Notre Société",
+      "start": 62455,
+      "end": 62468,
+      "label": "MISC"
+    },
+    {
+      "text": "Sucée",
+      "start": 62797,
+      "end": 62802,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 62998,
+      "end": 63006,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 63018,
+      "end": 63025,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 63097,
+      "end": 63107,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 63346,
+      "end": 63356,
+      "label": "PER"
+    },
+    {
+      "text": "Caisse Hypothécaire",
+      "start": 63440,
+      "end": 63459,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 63959,
+      "end": 63969,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis, le Temps",
+      "start": 63997,
+      "end": 64017,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 64101,
+      "end": 64111,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 64209,
+      "end": 64215,
+      "label": "PER"
+    },
+    {
+      "text": "Délicieux",
+      "start": 64432,
+      "end": 64441,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 64447,
+      "end": 64457,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 64461,
+      "end": 64467,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 64574,
+      "end": 64584,
+      "label": "LOC"
+    },
+    {
+      "text": "Précisément",
+      "start": 64705,
+      "end": 64716,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 64722,
+      "end": 64732,
+      "label": "PER"
+    },
+    {
+      "text": "Pères de la Foi Saint Simonienne",
+      "start": 64738,
+      "end": 64770,
+      "label": "MISC"
+    },
+    {
+      "text": "donnerez",
+      "start": 64924,
+      "end": 64932,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 64986,
+      "end": 64996,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 65002,
+      "end": 65012,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 65136,
+      "end": 65148,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisien",
+      "start": 65173,
+      "end": 65181,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 65208,
+      "end": 65213,
+      "label": "LOC"
+    },
+    {
+      "text": "Globe",
+      "start": 65243,
+      "end": 65248,
+      "label": "LOC"
+    },
+    {
+      "text": "Je l'ai",
+      "start": 65284,
+      "end": 65291,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 65314,
+      "end": 65324,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 65348,
+      "end": 65358,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 65360,
+      "end": 65368,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Simon",
+      "start": 65696,
+      "end": 65707,
+      "label": "PER"
+    },
+    {
+      "text": "M. Vico",
+      "start": 65721,
+      "end": 65728,
+      "label": "PER"
+    },
+    {
+      "text": "Vico !",
+      "start": 65780,
+      "end": 65786,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 65865,
+      "end": 65875,
+      "label": "ORG"
+    },
+    {
+      "text": "Attention",
+      "start": 65903,
+      "end": 65912,
+      "label": "LOC"
+    },
+    {
+      "text": "Christ",
+      "start": 66005,
+      "end": 66011,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 66027,
+      "end": 66039,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 66048,
+      "end": 66054,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 66103,
+      "end": 66107,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Simon",
+      "start": 66195,
+      "end": 66206,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 66228,
+      "end": 66234,
+      "label": "PER"
+    },
+    {
+      "text": "Christ",
+      "start": 66236,
+      "end": 66242,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 66288,
+      "end": 66298,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 66749,
+      "end": 66759,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 66848,
+      "end": 66850,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 66886,
+      "end": 66890,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 67022,
+      "end": 67032,
+      "label": "ORG"
+    },
+    {
+      "text": "Ballanche !",
+      "start": 67061,
+      "end": 67072,
+      "label": "MISC"
+    },
+    {
+      "text": "Ballanche",
+      "start": 67098,
+      "end": 67107,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 67193,
+      "end": 67203,
+      "label": "PER"
+    },
+    {
+      "text": "Globe",
+      "start": 67282,
+      "end": 67287,
+      "label": "MISC"
+    },
+    {
+      "text": "le Globe",
+      "start": 67385,
+      "end": 67393,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 67443,
+      "end": 67448,
+      "label": "LOC"
+    },
+    {
+      "text": "Quésaco",
+      "start": 67620,
+      "end": 67627,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 67717,
+      "end": 67727,
+      "label": "PER"
+    },
+    {
+      "text": "Séraphin",
+      "start": 67773,
+      "end": 67781,
+      "label": "LOC"
+    },
+    {
+      "text": "Boivent",
+      "start": 67864,
+      "end": 67871,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 68045,
+      "end": 68049,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 68153,
+      "end": 68154,
+      "label": "LOC"
+    },
+    {
+      "text": "Globe",
+      "start": 68274,
+      "end": 68279,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 68320,
+      "end": 68327,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 68456,
+      "end": 68466,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons",
+      "start": 68480,
+      "end": 68486,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 68659,
+      "end": 68669,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 68738,
+      "end": 68742,
+      "label": "MISC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 68943,
+      "end": 68950,
+      "label": "MISC"
+    },
+    {
+      "text": "Parfaitement",
+      "start": 69040,
+      "end": 69052,
+      "label": "LOC"
+    },
+    {
+      "text": "Globe",
+      "start": 69092,
+      "end": 69097,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 69123,
+      "end": 69133,
+      "label": "PER"
+    },
+    {
+      "text": "Globe",
+      "start": 69590,
+      "end": 69595,
+      "label": "LOC"
+    },
+    {
+      "text": "Canton",
+      "start": 69640,
+      "end": 69646,
+      "label": "LOC"
+    },
+    {
+      "text": "Prenez",
+      "start": 69815,
+      "end": 69821,
+      "label": "PER"
+    },
+    {
+      "text": "Globe",
+      "start": 69830,
+      "end": 69835,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 69855,
+      "end": 69860,
+      "label": "LOC"
+    },
+    {
+      "text": "Globe",
+      "start": 69996,
+      "end": 70001,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Globe",
+      "start": 70005,
+      "end": 70013,
+      "label": "MISC"
+    },
+    {
+      "text": "journal viager",
+      "start": 70040,
+      "end": 70054,
+      "label": "PER"
+    },
+    {
+      "text": "Viager",
+      "start": 70058,
+      "end": 70064,
+      "label": "PER"
+    },
+    {
+      "text": "Le Globe",
+      "start": 70507,
+      "end": 70515,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 70600,
+      "end": 70608,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 70614,
+      "end": 70624,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 70693,
+      "end": 70703,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 70753,
+      "end": 70755,
+      "label": "MISC"
+    },
+    {
+      "text": "journal des Enfants",
+      "start": 70767,
+      "end": 70786,
+      "label": "ORG"
+    },
+    {
+      "text": "Prenez",
+      "start": 70810,
+      "end": 70816,
+      "label": "PER"
+    },
+    {
+      "text": "Enfants, ça me va",
+      "start": 70872,
+      "end": 70889,
+      "label": "MISC"
+    },
+    {
+      "text": "hein",
+      "start": 70980,
+      "end": 70984,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 71016,
+      "end": 71026,
+      "label": "PER"
+    },
+    {
+      "text": "Vous consentez",
+      "start": 71042,
+      "end": 71056,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 71154,
+      "end": 71156,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71250,
+      "end": 71258,
+      "label": "PER"
+    },
+    {
+      "text": "Doctrine",
+      "start": 71322,
+      "end": 71330,
+      "label": "MISC"
+    },
+    {
+      "text": "Portez",
+      "start": 71420,
+      "end": 71426,
+      "label": "LOC"
+    },
+    {
+      "text": "Joli",
+      "start": 71458,
+      "end": 71462,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolet",
+      "start": 71603,
+      "end": 71610,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 71670,
+      "end": 71680,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 71686,
+      "end": 71696,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 71751,
+      "end": 71761,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Margaritis",
+      "start": 71774,
+      "end": 71793,
+      "label": "MISC"
+    },
+    {
+      "text": "Vernier",
+      "start": 71890,
+      "end": 71897,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 71951,
+      "end": 71959,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 72102,
+      "end": 72109,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 72117,
+      "end": 72127,
+      "label": "LOC"
+    },
+    {
+      "text": "Commis Voyageur",
+      "start": 72143,
+      "end": 72158,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisien",
+      "start": 72291,
+      "end": 72299,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 72318,
+      "end": 72325,
+      "label": "PER"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 72342,
+      "end": 72361,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 72519,
+      "end": 72527,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 72538,
+      "end": 72548,
+      "label": "LOC"
+    },
+    {
+      "text": "journal des Enfants",
+      "start": 72593,
+      "end": 72612,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 72656,
+      "end": 72666,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 72796,
+      "end": 72801,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 72864,
+      "end": 72874,
+      "label": "LOC"
+    },
+    {
+      "text": "Normand",
+      "start": 72881,
+      "end": 72888,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 72999,
+      "end": 73009,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis",
+      "start": 73141,
+      "end": 73151,
+      "label": "ORG"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 73158,
+      "end": 73177,
+      "label": "MISC"
+    },
+    {
+      "text": "le Roi des mers",
+      "start": 73214,
+      "end": 73229,
+      "label": "MISC"
+    },
+    {
+      "text": "Soleil",
+      "start": 73264,
+      "end": 73270,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 73338,
+      "end": 73347,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 73569,
+      "end": 73579,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 73660,
+      "end": 73669,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 73707,
+      "end": 73716,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 74001,
+      "end": 74011,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 74013,
+      "end": 74022,
+      "label": "PER"
+    },
+    {
+      "text": "Fou",
+      "start": 74402,
+      "end": 74405,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 74450,
+      "end": 74459,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 74586,
+      "end": 74595,
+      "label": "PER"
+    },
+    {
+      "text": "Drôle !",
+      "start": 74612,
+      "end": 74619,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart !",
+      "start": 74628,
+      "end": 74640,
+      "label": "MISC"
+    },
+    {
+      "text": "Vernier",
+      "start": 74668,
+      "end": 74675,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 74733,
+      "end": 74742,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 74804,
+      "end": 74811,
+      "label": "PER"
+    },
+    {
+      "text": "Margaritis ?",
+      "start": 74871,
+      "end": 74883,
+      "label": "MISC"
+    },
+    {
+      "text": "mignon monsieur",
+      "start": 74946,
+      "end": 74961,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 75068,
+      "end": 75071,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 75150,
+      "end": 75158,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 75201,
+      "end": 75208,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 75213,
+      "end": 75223,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 75372,
+      "end": 75380,
+      "label": "PER"
+    },
+    {
+      "text": "prince des Voyageurs",
+      "start": 75389,
+      "end": 75409,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 75722,
+      "end": 75729,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 75774,
+      "end": 75784,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 75869,
+      "end": 75876,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 75915,
+      "end": 75921,
+      "label": "MISC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 76022,
+      "end": 76029,
+      "label": "MISC"
+    },
+    {
+      "text": "Globe",
+      "start": 76348,
+      "end": 76353,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 76419,
+      "end": 76423,
+      "label": "MISC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 76534,
+      "end": 76544,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 76926,
+      "end": 76928,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 77157,
+      "end": 77167,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvrillons",
+      "start": 77235,
+      "end": 77246,
+      "label": "LOC"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 77285,
+      "end": 77304,
+      "label": "MISC"
+    },
+    {
+      "text": "Claire Vernier",
+      "start": 77398,
+      "end": 77412,
+      "label": "PER"
+    },
+    {
+      "text": "Soleil",
+      "start": 77505,
+      "end": 77511,
+      "label": "LOC"
+    },
+    {
+      "text": "Juillet",
+      "start": 77627,
+      "end": 77634,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 77648,
+      "end": 77650,
+      "label": "MISC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 77679,
+      "end": 77686,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 77767,
+      "end": 77777,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 77894,
+      "end": 77902,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 77940,
+      "end": 77947,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 77982,
+      "end": 77992,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 78008,
+      "end": 78015,
+      "label": "PER"
+    },
+    {
+      "text": "Vernier",
+      "start": 78137,
+      "end": 78144,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 78212,
+      "end": 78222,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 78237,
+      "end": 78247,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 78280,
+      "end": 78290,
+      "label": "PER"
+    },
+    {
+      "text": "Fontanieu",
+      "start": 78325,
+      "end": 78334,
+      "label": "PER"
+    },
+    {
+      "text": "Vouvray",
+      "start": 78351,
+      "end": 78358,
+      "label": "LOC"
+    },
+    {
+      "text": "Soleil d'Or",
+      "start": 78370,
+      "end": 78381,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 78398,
+      "end": 78407,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 78566,
+      "end": 78573,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 78707,
+      "end": 78716,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 78812,
+      "end": 78822,
+      "label": "PER"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 78860,
+      "end": 78869,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 79155,
+      "end": 79164,
+      "label": "PER"
+    },
+    {
+      "text": "Voyons !",
+      "start": 79209,
+      "end": 79217,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyageur",
+      "start": 79231,
+      "end": 79239,
+      "label": "LOC"
+    },
+    {
+      "text": "Mitouflet",
+      "start": 79271,
+      "end": 79280,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 79358,
+      "end": 79368,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 79447,
+      "end": 79457,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Vernier",
+      "start": 79471,
+      "end": 79487,
+      "label": "MISC"
+    },
+    {
+      "text": "arçon",
+      "start": 79651,
+      "end": 79656,
+      "label": "LOC"
+    },
+    {
+      "text": "Hein",
+      "start": 79811,
+      "end": 79815,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 80002,
+      "end": 80012,
+      "label": "PER"
+    },
+    {
+      "text": "Dormez",
+      "start": 80016,
+      "end": 80022,
+      "label": "LOC"
+    },
+    {
+      "text": "pont de la Cise",
+      "start": 80114,
+      "end": 80129,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 80140,
+      "end": 80147,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 80229,
+      "end": 80233,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 80267,
+      "end": 80277,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80326,
+      "end": 80334,
+      "label": "PER"
+    },
+    {
+      "text": "Voyageur",
+      "start": 80343,
+      "end": 80351,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80514,
+      "end": 80522,
+      "label": "PER"
+    },
+    {
+      "text": "Journal des Enfants",
+      "start": 80562,
+      "end": 80581,
+      "label": "ORG"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 80637,
+      "end": 80647,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Mitouflet",
+      "start": 80764,
+      "end": 80782,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 80788,
+      "end": 80798,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 80875,
+      "end": 80879,
+      "label": "LOC"
+    },
+    {
+      "text": "Margaritis",
+      "start": 80938,
+      "end": 80948,
+      "label": "LOC"
+    },
+    {
+      "text": "Vernier",
+      "start": 81031,
+      "end": 81038,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 81047,
+      "end": 81051,
+      "label": "MISC"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 81195,
+      "end": 81214,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Margaritis",
+      "start": 81216,
+      "end": 81233,
+      "label": "PER"
+    },
+    {
+      "text": "clément Voyageur",
+      "start": 81332,
+      "end": 81348,
+      "label": "PER"
+    },
+    {
+      "text": "Illustre Gaudissart",
+      "start": 81555,
+      "end": 81574,
+      "label": "MISC"
+    },
+    {
+      "text": "Laffitte Caillard",
+      "start": 81632,
+      "end": 81649,
+      "label": "PER"
+    },
+    {
+      "text": "Angoulême",
+      "start": 81717,
+      "end": 81726,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouvray",
+      "start": 81817,
+      "end": 81824,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissart",
+      "start": 81895,
+      "end": 81905,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 82000,
+      "end": 82005,
+      "label": "PER"
+    },
+    {
+      "text": "pont de la Cise",
+      "start": 82069,
+      "end": 82084,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 82154,
+      "end": 82159,
+      "label": "LOC"
+    }
+  ]
+}

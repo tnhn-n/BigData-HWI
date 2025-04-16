@@ -1,0 +1,2746 @@
+{
+  "entities": [
+    {
+      "text": "PEAU",
+      "start": 3,
+      "end": 7,
+      "label": "ORG"
+    },
+    {
+      "text": "CHAGRIN",
+      "start": 11,
+      "end": 18,
+      "label": "MISC"
+    },
+    {
+      "text": "MEMBRE",
+      "start": 45,
+      "end": 51,
+      "label": "ORG"
+    },
+    {
+      "text": "ACADÉMIE DES SCIENCES STERNE",
+      "start": 57,
+      "end": 85,
+      "label": "ORG"
+    },
+    {
+      "text": "Tristan Shandy",
+      "start": 87,
+      "end": 101,
+      "label": "PER"
+    },
+    {
+      "text": "CCCXXII",
+      "start": 107,
+      "end": 114,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 203,
+      "end": 215,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 419,
+      "end": 427,
+      "label": "PER"
+    },
+    {
+      "text": "Guazacoalco",
+      "start": 2403,
+      "end": 2414,
+      "label": "LOC"
+    },
+    {
+      "text": "Arcet",
+      "start": 2513,
+      "end": 2518,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeu incarné",
+      "start": 2982,
+      "end": 2993,
+      "label": "MISC"
+    },
+    {
+      "text": "Cerbère",
+      "start": 3039,
+      "end": 3046,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 3198,
+      "end": 3208,
+      "label": "LOC"
+    },
+    {
+      "text": "J. J. Rousseau",
+      "start": 3501,
+      "end": 3515,
+      "label": "PER"
+    },
+    {
+      "text": "Jeu",
+      "start": 3598,
+      "end": 3601,
+      "label": "LOC"
+    },
+    {
+      "text": "la Seine",
+      "start": 3994,
+      "end": 4002,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 5370,
+      "end": 5379,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 5410,
+      "end": 5414,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5437,
+      "end": 5442,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 5465,
+      "end": 5477,
+      "label": "LOC"
+    },
+    {
+      "text": "Essayez",
+      "start": 5612,
+      "end": 5619,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Orient",
+      "start": 6303,
+      "end": 6311,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 7367,
+      "end": 7374,
+      "label": "LOC"
+    },
+    {
+      "text": "Grève",
+      "start": 7907,
+      "end": 7912,
+      "label": "LOC"
+    },
+    {
+      "text": "la Rouge",
+      "start": 8068,
+      "end": 8076,
+      "label": "MISC"
+    },
+    {
+      "text": "la Noire",
+      "start": 8083,
+      "end": 8091,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantales modernes",
+      "start": 8111,
+      "end": 8128,
+      "label": "MISC"
+    },
+    {
+      "text": "Eucharistie",
+      "start": 8413,
+      "end": 8424,
+      "label": "ORG"
+    },
+    {
+      "text": "Italien",
+      "start": 9334,
+      "end": 9341,
+      "label": "MISC"
+    },
+    {
+      "text": "Sortez",
+      "start": 12593,
+      "end": 12599,
+      "label": "MISC"
+    },
+    {
+      "text": "Noir",
+      "start": 12738,
+      "end": 12742,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 12969,
+      "end": 12976,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouge",
+      "start": 13816,
+      "end": 13821,
+      "label": "LOC"
+    },
+    {
+      "text": "Italien",
+      "start": 13920,
+      "end": 13927,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 14407,
+      "end": 14414,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 14696,
+      "end": 14701,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah",
+      "start": 15027,
+      "end": 15030,
+      "label": "MISC"
+    },
+    {
+      "text": "Italien",
+      "start": 15181,
+      "end": 15188,
+      "label": "LOC"
+    },
+    {
+      "text": "Jeu",
+      "start": 15358,
+      "end": 15361,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 15945,
+      "end": 15957,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 15979,
+      "end": 15991,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 16012,
+      "end": 16021,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 16368,
+      "end": 16374,
+      "label": "LOC"
+    },
+    {
+      "text": "Grève",
+      "start": 16380,
+      "end": 16385,
+      "label": "LOC"
+    },
+    {
+      "text": "Implacables",
+      "start": 16775,
+      "end": 16786,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 17243,
+      "end": 17248,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 17250,
+      "end": 17254,
+      "label": "MISC"
+    },
+    {
+      "text": "Pont des Arts",
+      "start": 17654,
+      "end": 17667,
+      "label": "LOC"
+    },
+    {
+      "text": "Kaërnavan",
+      "start": 17799,
+      "end": 17808,
+      "label": "LOC"
+    },
+    {
+      "text": "Sterne",
+      "start": 17918,
+      "end": 17924,
+      "label": "LOC"
+    },
+    {
+      "text": "pont Royal",
+      "start": 18611,
+      "end": 18621,
+      "label": "LOC"
+    },
+    {
+      "text": "Castelreagh",
+      "start": 18718,
+      "end": 18729,
+      "label": "PER"
+    },
+    {
+      "text": "Auger",
+      "start": 18826,
+      "end": 18831,
+      "label": "LOC"
+    },
+    {
+      "text": "Mauvais",
+      "start": 19240,
+      "end": 19247,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 19351,
+      "end": 19356,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 19508,
+      "end": 19517,
+      "label": "LOC"
+    },
+    {
+      "text": "ASPHYXIÉS",
+      "start": 19624,
+      "end": 19633,
+      "label": "ORG"
+    },
+    {
+      "text": "Dacheux",
+      "start": 19638,
+      "end": 19645,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 20088,
+      "end": 20093,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 20539,
+      "end": 20547,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 21515,
+      "end": 21519,
+      "label": "MISC"
+    },
+    {
+      "text": "brun de suie",
+      "start": 21670,
+      "end": 21682,
+      "label": "PER"
+    },
+    {
+      "text": "Savoyard",
+      "start": 21795,
+      "end": 21803,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 21931,
+      "end": 21939,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 21983,
+      "end": 21987,
+      "label": "MISC"
+    },
+    {
+      "text": "Seine",
+      "start": 22384,
+      "end": 22389,
+      "label": "LOC"
+    },
+    {
+      "text": "Nous prierons Dieu",
+      "start": 22393,
+      "end": 22411,
+      "label": "MISC"
+    },
+    {
+      "text": "le Louvre",
+      "start": 24197,
+      "end": 24206,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut",
+      "start": 24210,
+      "end": 24218,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 24233,
+      "end": 24243,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 24255,
+      "end": 24261,
+      "label": "LOC"
+    },
+    {
+      "text": "Pont des Arts",
+      "start": 24266,
+      "end": 24279,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 24431,
+      "end": 24436,
+      "label": "LOC"
+    },
+    {
+      "text": "Caliban",
+      "start": 26295,
+      "end": 26302,
+      "label": "PER"
+    },
+    {
+      "text": "Bernard de Palissy",
+      "start": 26384,
+      "end": 26402,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 26454,
+      "end": 26459,
+      "label": "LOC"
+    },
+    {
+      "text": "du Caire",
+      "start": 26644,
+      "end": 26652,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 27705,
+      "end": 27711,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Jacotot",
+      "start": 27716,
+      "end": 27730,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 27743,
+      "end": 27751,
+      "label": "PER"
+    },
+    {
+      "text": "Sésostris",
+      "start": 27792,
+      "end": 27801,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Dubarry",
+      "start": 27994,
+      "end": 28008,
+      "label": "PER"
+    },
+    {
+      "text": "Latour",
+      "start": 28030,
+      "end": 28036,
+      "label": "LOC"
+    },
+    {
+      "text": "de Saxe",
+      "start": 28383,
+      "end": 28390,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 28420,
+      "end": 28425,
+      "label": "LOC"
+    },
+    {
+      "text": "Auguste",
+      "start": 28590,
+      "end": 28597,
+      "label": "PER"
+    },
+    {
+      "text": "Maure",
+      "start": 29086,
+      "end": 29091,
+      "label": "LOC"
+    },
+    {
+      "text": "idole des Tartares",
+      "start": 29098,
+      "end": 29116,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Jean",
+      "start": 30611,
+      "end": 30621,
+      "label": "PER"
+    },
+    {
+      "text": "Pathmos",
+      "start": 30627,
+      "end": 30634,
+      "label": "ORG"
+    },
+    {
+      "text": "Égypte",
+      "start": 30799,
+      "end": 30805,
+      "label": "LOC"
+    },
+    {
+      "text": "Pharaons",
+      "start": 30924,
+      "end": 30932,
+      "label": "MISC"
+    },
+    {
+      "text": "Moïse",
+      "start": 30990,
+      "end": 30995,
+      "label": "PER"
+    },
+    {
+      "text": "Hébreux",
+      "start": 31001,
+      "end": 31008,
+      "label": "LOC"
+    },
+    {
+      "text": "Fraîche",
+      "start": 31069,
+      "end": 31076,
+      "label": "PER"
+    },
+    {
+      "text": "Grèce",
+      "start": 31201,
+      "end": 31206,
+      "label": "LOC"
+    },
+    {
+      "text": "Ionie",
+      "start": 31215,
+      "end": 31220,
+      "label": "LOC"
+    },
+    {
+      "text": "brune",
+      "start": 31299,
+      "end": 31304,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu Priape",
+      "start": 31362,
+      "end": 31373,
+      "label": "MISC"
+    },
+    {
+      "text": "Rome impériale",
+      "start": 31489,
+      "end": 31503,
+      "label": "LOC"
+    },
+    {
+      "text": "Julie",
+      "start": 31584,
+      "end": 31589,
+      "label": "MISC"
+    },
+    {
+      "text": "Tibulle",
+      "start": 31625,
+      "end": 31632,
+      "label": "LOC"
+    },
+    {
+      "text": "Cicéron",
+      "start": 31684,
+      "end": 31691,
+      "label": "PER"
+    },
+    {
+      "text": "Rome libre",
+      "start": 31721,
+      "end": 31731,
+      "label": "LOC"
+    },
+    {
+      "text": "Tite Live",
+      "start": 31762,
+      "end": 31771,
+      "label": "MISC"
+    },
+    {
+      "text": "Senatus Populusque",
+      "start": 31799,
+      "end": 31817,
+      "label": "PER"
+    },
+    {
+      "text": "Forum",
+      "start": 31897,
+      "end": 31902,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 32005,
+      "end": 32009,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge Marie",
+      "start": 32090,
+      "end": 32102,
+      "label": "PER"
+    },
+    {
+      "text": "soleil",
+      "start": 32173,
+      "end": 32179,
+      "label": "LOC"
+    },
+    {
+      "text": "Ève",
+      "start": 32233,
+      "end": 32236,
+      "label": "LOC"
+    },
+    {
+      "text": "Vésuve",
+      "start": 32332,
+      "end": 32338,
+      "label": "LOC"
+    },
+    {
+      "text": "Etna",
+      "start": 32347,
+      "end": 32351,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 32396,
+      "end": 32402,
+      "label": "LOC"
+    },
+    {
+      "text": "Borgia",
+      "start": 32433,
+      "end": 32439,
+      "label": "MISC"
+    },
+    {
+      "text": "Abruzzes",
+      "start": 32458,
+      "end": 32466,
+      "label": "LOC"
+    },
+    {
+      "text": "Inde",
+      "start": 32793,
+      "end": 32797,
+      "label": "LOC"
+    },
+    {
+      "text": "magot",
+      "start": 32949,
+      "end": 32954,
+      "label": "LOC"
+    },
+    {
+      "text": "Japon",
+      "start": 33065,
+      "end": 33070,
+      "label": "LOC"
+    },
+    {
+      "text": "Benvenuto Cellini",
+      "start": 33331,
+      "end": 33348,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 33619,
+      "end": 33628,
+      "label": "PER"
+    },
+    {
+      "text": "Pizarre",
+      "start": 33660,
+      "end": 33667,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 33845,
+      "end": 33850,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruysch",
+      "start": 34637,
+      "end": 34643,
+      "label": "PER"
+    },
+    {
+      "text": "Otaïti",
+      "start": 34781,
+      "end": 34787,
+      "label": "PER"
+    },
+    {
+      "text": "Lara",
+      "start": 35170,
+      "end": 35174,
+      "label": "LOC"
+    },
+    {
+      "text": "Teniers",
+      "start": 35827,
+      "end": 35834,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamands",
+      "start": 35947,
+      "end": 35955,
+      "label": "LOC"
+    },
+    {
+      "text": "Mieris",
+      "start": 36114,
+      "end": 36120,
+      "label": "LOC"
+    },
+    {
+      "text": "Salvator Rosa",
+      "start": 36162,
+      "end": 36175,
+      "label": "LOC"
+    },
+    {
+      "text": "Illinois",
+      "start": 36203,
+      "end": 36211,
+      "label": "LOC"
+    },
+    {
+      "text": "Chérokée",
+      "start": 36240,
+      "end": 36248,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 36860,
+      "end": 36865,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Dame",
+      "start": 36890,
+      "end": 36900,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Goujon",
+      "start": 38102,
+      "end": 38113,
+      "label": "PER"
+    },
+    {
+      "text": "Poussin",
+      "start": 38766,
+      "end": 38773,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 38797,
+      "end": 38808,
+      "label": "PER"
+    },
+    {
+      "text": "Claude Lorrain",
+      "start": 38842,
+      "end": 38856,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 38861,
+      "end": 38871,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 38902,
+      "end": 38908,
+      "label": "LOC"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 38914,
+      "end": 38923,
+      "label": "PER"
+    },
+    {
+      "text": "Murillo",
+      "start": 38929,
+      "end": 38936,
+      "label": "PER"
+    },
+    {
+      "text": "Velasquez",
+      "start": 38942,
+      "end": 38951,
+      "label": "ORG"
+    },
+    {
+      "text": "lord Byron",
+      "start": 38989,
+      "end": 38999,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge de",
+      "start": 39234,
+      "end": 39243,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 39244,
+      "end": 39251,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 39274,
+      "end": 39281,
+      "label": "PER"
+    },
+    {
+      "text": "Corrège",
+      "start": 39297,
+      "end": 39304,
+      "label": "PER"
+    },
+    {
+      "text": "Corinne",
+      "start": 39528,
+      "end": 39535,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 40224,
+      "end": 40233,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 40476,
+      "end": 40480,
+      "label": "MISC"
+    },
+    {
+      "text": "Cuvier",
+      "start": 41015,
+      "end": 41021,
+      "label": "PER"
+    },
+    {
+      "text": "Montmartre",
+      "start": 41221,
+      "end": 41231,
+      "label": "LOC"
+    },
+    {
+      "text": "Oural",
+      "start": 41258,
+      "end": 41263,
+      "label": "LOC"
+    },
+    {
+      "text": "Cuvier",
+      "start": 41648,
+      "end": 41654,
+      "label": "PER"
+    },
+    {
+      "text": "Lord Byron",
+      "start": 41706,
+      "end": 41716,
+      "label": "PER"
+    },
+    {
+      "text": "Cadmus",
+      "start": 41870,
+      "end": 41876,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 42395,
+      "end": 42400,
+      "label": "LOC"
+    },
+    {
+      "text": "Soudain",
+      "start": 42403,
+      "end": 42410,
+      "label": "PER"
+    },
+    {
+      "text": "Créateur",
+      "start": 42686,
+      "end": 42694,
+      "label": "LOC"
+    },
+    {
+      "text": "Apocalypse",
+      "start": 42877,
+      "end": 42887,
+      "label": "MISC"
+    },
+    {
+      "text": "TEMPS",
+      "start": 43102,
+      "end": 43107,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame la comtesse",
+      "start": 43468,
+      "end": 43486,
+      "label": "PER"
+    },
+    {
+      "text": "vierge",
+      "start": 43929,
+      "end": 43935,
+      "label": "PER"
+    },
+    {
+      "text": "sautilla",
+      "start": 44309,
+      "end": 44317,
+      "label": "LOC"
+    },
+    {
+      "text": "Faust",
+      "start": 44515,
+      "end": 44520,
+      "label": "PER"
+    },
+    {
+      "text": "Brocken",
+      "start": 44528,
+      "end": 44535,
+      "label": "LOC"
+    },
+    {
+      "text": "Descartes",
+      "start": 47431,
+      "end": 47440,
+      "label": "PER"
+    },
+    {
+      "text": "Figurez",
+      "start": 47631,
+      "end": 47638,
+      "label": "LOC"
+    },
+    {
+      "text": "Moïse",
+      "start": 48537,
+      "end": 48542,
+      "label": "PER"
+    },
+    {
+      "text": "Peseur d'or",
+      "start": 48881,
+      "end": 48892,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 49464,
+      "end": 49468,
+      "label": "MISC"
+    },
+    {
+      "text": "Père Éternel",
+      "start": 49657,
+      "end": 49669,
+      "label": "MISC"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 49695,
+      "end": 49709,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 50988,
+      "end": 50993,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 51007,
+      "end": 51015,
+      "label": "PER"
+    },
+    {
+      "text": "Gay Lussac",
+      "start": 51176,
+      "end": 51186,
+      "label": "PER"
+    },
+    {
+      "text": "Arago",
+      "start": 51192,
+      "end": 51197,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 51480,
+      "end": 51484,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 51687,
+      "end": 51695,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 51776,
+      "end": 51784,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 51812,
+      "end": 51824,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 51835,
+      "end": 51842,
+      "label": "PER"
+    },
+    {
+      "text": "brune",
+      "start": 52041,
+      "end": 52046,
+      "label": "PER"
+    },
+    {
+      "text": "Jésus Christ",
+      "start": 52092,
+      "end": 52104,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 52111,
+      "end": 52118,
+      "label": "PER"
+    },
+    {
+      "text": "Soudain",
+      "start": 52230,
+      "end": 52237,
+      "label": "PER"
+    },
+    {
+      "text": "Sauveur",
+      "start": 52790,
+      "end": 52797,
+      "label": "PER"
+    },
+    {
+      "text": "Évangile",
+      "start": 53367,
+      "end": 53375,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimez",
+      "start": 53604,
+      "end": 53609,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 53826,
+      "end": 53833,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54167,
+      "end": 54171,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 54426,
+      "end": 54430,
+      "label": "MISC"
+    },
+    {
+      "text": "L'inconnu sourit",
+      "start": 54616,
+      "end": 54632,
+      "label": "MISC"
+    },
+    {
+      "text": "Rassuré",
+      "start": 55153,
+      "end": 55160,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 55832,
+      "end": 55836,
+      "label": "LOC"
+    },
+    {
+      "text": "Funambules",
+      "start": 55857,
+      "end": 55867,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 56554,
+      "end": 56558,
+      "label": "MISC"
+    },
+    {
+      "text": "de France",
+      "start": 56787,
+      "end": 56796,
+      "label": "LOC"
+    },
+    {
+      "text": "Levant",
+      "start": 56810,
+      "end": 56816,
+      "label": "LOC"
+    },
+    {
+      "text": "Sicile",
+      "start": 56831,
+      "end": 56837,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 56851,
+      "end": 56860,
+      "label": "LOC"
+    },
+    {
+      "text": "Retournez",
+      "start": 57217,
+      "end": 57226,
+      "label": "LOC"
+    },
+    {
+      "text": "PEAU",
+      "start": 57370,
+      "end": 57374,
+      "label": "MISC"
+    },
+    {
+      "text": "CHAGRIN",
+      "start": 57378,
+      "end": 57385,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 58817,
+      "end": 58821,
+      "label": "MISC"
+    },
+    {
+      "text": "Orientaux",
+      "start": 58876,
+      "end": 58885,
+      "label": "LOC"
+    },
+    {
+      "text": "Salomon",
+      "start": 58907,
+      "end": 58914,
+      "label": "PER"
+    },
+    {
+      "text": "Existe t",
+      "start": 59116,
+      "end": 59124,
+      "label": "PER"
+    },
+    {
+      "text": "Orient",
+      "start": 59331,
+      "end": 59337,
+      "label": "MISC"
+    },
+    {
+      "text": "Sphinx",
+      "start": 59551,
+      "end": 59557,
+      "label": "LOC"
+    },
+    {
+      "text": "Griffons",
+      "start": 59565,
+      "end": 59573,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 60969,
+      "end": 60973,
+      "label": "MISC"
+    },
+    {
+      "text": "TU ME POSSÈDES",
+      "start": 61081,
+      "end": 61095,
+      "label": "MISC"
+    },
+    {
+      "text": "TU POSSÉDERAS",
+      "start": 61097,
+      "end": 61110,
+      "label": "ORG"
+    },
+    {
+      "text": "TOUT",
+      "start": 61111,
+      "end": 61115,
+      "label": "MISC"
+    },
+    {
+      "text": "TA VIE M'APPARTIENDRA",
+      "start": 61122,
+      "end": 61143,
+      "label": "MISC"
+    },
+    {
+      "text": "DIEU",
+      "start": 61145,
+      "end": 61149,
+      "label": "MISC"
+    },
+    {
+      "text": "A VOULU",
+      "start": 61152,
+      "end": 61159,
+      "label": "ORG"
+    },
+    {
+      "text": "AINSI",
+      "start": 61160,
+      "end": 61165,
+      "label": "ORG"
+    },
+    {
+      "text": "DÉSIRE",
+      "start": 61167,
+      "end": 61173,
+      "label": "ORG"
+    },
+    {
+      "text": "TES",
+      "start": 61178,
+      "end": 61181,
+      "label": "MISC"
+    },
+    {
+      "text": "DÉSIRS",
+      "start": 61182,
+      "end": 61188,
+      "label": "MISC"
+    },
+    {
+      "text": "ACCOMPLIS",
+      "start": 61196,
+      "end": 61205,
+      "label": "MISC"
+    },
+    {
+      "text": "RÈGLE TES",
+      "start": 61212,
+      "end": 61221,
+      "label": "PER"
+    },
+    {
+      "text": "JE",
+      "start": 61273,
+      "end": 61275,
+      "label": "MISC"
+    },
+    {
+      "text": "TES JOURS",
+      "start": 61293,
+      "end": 61302,
+      "label": "MISC"
+    },
+    {
+      "text": "ME",
+      "start": 61304,
+      "end": 61306,
+      "label": "MISC"
+    },
+    {
+      "text": "VEUX TU",
+      "start": 61307,
+      "end": 61314,
+      "label": "LOC"
+    },
+    {
+      "text": "DIEU",
+      "start": 61325,
+      "end": 61329,
+      "label": "ORG"
+    },
+    {
+      "text": "EXAUCERA",
+      "start": 61332,
+      "end": 61340,
+      "label": "ORG"
+    },
+    {
+      "text": "SOIT",
+      "start": 61342,
+      "end": 61346,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 61351,
+      "end": 61355,
+      "label": "MISC"
+    },
+    {
+      "text": "Perse",
+      "start": 61439,
+      "end": 61444,
+      "label": "LOC"
+    },
+    {
+      "text": "Bengale",
+      "start": 61456,
+      "end": 61463,
+      "label": "LOC"
+    },
+    {
+      "text": "Essayer",
+      "start": 62428,
+      "end": 62435,
+      "label": "ORG"
+    },
+    {
+      "text": "place Vendôme",
+      "start": 62491,
+      "end": 62504,
+      "label": "LOC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 62875,
+      "end": 62882,
+      "label": "LOC"
+    },
+    {
+      "text": "VOULOIR",
+      "start": 63381,
+      "end": 63388,
+      "label": "MISC"
+    },
+    {
+      "text": "POUVOIR",
+      "start": 63392,
+      "end": 63399,
+      "label": "ORG"
+    },
+    {
+      "text": "Pouvoir nous détruit",
+      "start": 63560,
+      "end": 63580,
+      "label": "MISC"
+    },
+    {
+      "text": "SAVOIR",
+      "start": 63588,
+      "end": 63594,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 64101,
+      "end": 64105,
+      "label": "LOC"
+    },
+    {
+      "text": "Amérique",
+      "start": 64114,
+      "end": 64122,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 64227,
+      "end": 64234,
+      "label": "LOC"
+    },
+    {
+      "text": "Arabe",
+      "start": 64308,
+      "end": 64313,
+      "label": "MISC"
+    },
+    {
+      "text": "Jugez",
+      "start": 64782,
+      "end": 64787,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes",
+      "start": 65214,
+      "end": 65217,
+      "label": "MISC"
+    },
+    {
+      "text": "Océan",
+      "start": 66220,
+      "end": 66225,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 66906,
+      "end": 66910,
+      "label": "MISC"
+    },
+    {
+      "text": "Peau de chagrin",
+      "start": 66962,
+      "end": 66977,
+      "label": "MISC"
+    },
+    {
+      "text": "Sagesse",
+      "start": 67453,
+      "end": 67460,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 67563,
+      "end": 67567,
+      "label": "LOC"
+    },
+    {
+      "text": "Peau de chagrin",
+      "start": 67636,
+      "end": 67651,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeune homme",
+      "start": 67655,
+      "end": 67666,
+      "label": "MISC"
+    },
+    {
+      "text": "Swedenborg",
+      "start": 67899,
+      "end": 67909,
+      "label": "PER"
+    },
+    {
+      "text": "la Débauche",
+      "start": 68537,
+      "end": 68548,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 69179,
+      "end": 69184,
+      "label": "LOC"
+    },
+    {
+      "text": "Croyez",
+      "start": 69493,
+      "end": 69499,
+      "label": "MISC"
+    },
+    {
+      "text": "joufflu",
+      "start": 71095,
+      "end": 71102,
+      "label": "MISC"
+    },
+    {
+      "text": "Aveuglé",
+      "start": 71202,
+      "end": 71209,
+      "label": "PER"
+    },
+    {
+      "text": "Peau de chagrin",
+      "start": 71292,
+      "end": 71307,
+      "label": "MISC"
+    },
+    {
+      "text": "Animal",
+      "start": 71584,
+      "end": 71590,
+      "label": "MISC"
+    },
+    {
+      "text": "Imbécile",
+      "start": 71595,
+      "end": 71603,
+      "label": "LOC"
+    },
+    {
+      "text": "Telles",
+      "start": 71606,
+      "end": 71612,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 71673,
+      "end": 71677,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 71684,
+      "end": 71691,
+      "label": "PER"
+    },
+    {
+      "text": "Ah bien !",
+      "start": 71695,
+      "end": 71704,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 71917,
+      "end": 71924,
+      "label": "PER"
+    },
+    {
+      "text": "Avance",
+      "start": 72023,
+      "end": 72029,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 72108,
+      "end": 72115,
+      "label": "PER"
+    },
+    {
+      "text": "Pont des Arts",
+      "start": 72224,
+      "end": 72237,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 72241,
+      "end": 72249,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Quentin",
+      "start": 72359,
+      "end": 72372,
+      "label": "PER"
+    },
+    {
+      "text": "J. J. Rousseau",
+      "start": 72494,
+      "end": 72508,
+      "label": "PER"
+    },
+    {
+      "text": "Léonarde",
+      "start": 72513,
+      "end": 72521,
+      "label": "PER"
+    },
+    {
+      "text": "N'importe !",
+      "start": 72693,
+      "end": 72704,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 72705,
+      "end": 72714,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 72744,
+      "end": 72752,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 72855,
+      "end": 72869,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Pélagie",
+      "start": 73131,
+      "end": 73145,
+      "label": "PER"
+    },
+    {
+      "text": "la Force",
+      "start": 73162,
+      "end": 73170,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 73191,
+      "end": 73196,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 73352,
+      "end": 73357,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 73660,
+      "end": 73667,
+      "label": "PER"
+    },
+    {
+      "text": "Pont des Arts",
+      "start": 73697,
+      "end": 73710,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 73752,
+      "end": 73757,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 73811,
+      "end": 73816,
+      "label": "LOC"
+    },
+    {
+      "text": "Monarchie",
+      "start": 74361,
+      "end": 74370,
+      "label": "MISC"
+    },
+    {
+      "text": "Patrie",
+      "start": 74491,
+      "end": 74497,
+      "label": "LOC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 74664,
+      "end": 74673,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 74764,
+      "end": 74777,
+      "label": "LOC"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 74783,
+      "end": 74799,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 75051,
+      "end": 75060,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 76107,
+      "end": 76112,
+      "label": "LOC"
+    },
+    {
+      "text": "Méphistophélès",
+      "start": 76409,
+      "end": 76423,
+      "label": "PER"
+    },
+    {
+      "text": "more orientali",
+      "start": 76860,
+      "end": 76874,
+      "label": "PER"
+    },
+    {
+      "text": "Autriche",
+      "start": 77302,
+      "end": 77310,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 77317,
+      "end": 77327,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 77337,
+      "end": 77343,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 77358,
+      "end": 77364,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 77368,
+      "end": 77378,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 77384,
+      "end": 77392,
+      "label": "LOC"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 77517,
+      "end": 77525,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 77531,
+      "end": 77541,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 77547,
+      "end": 77551,
+      "label": "PER"
+    },
+    {
+      "text": "Metternich",
+      "start": 77557,
+      "end": 77567,
+      "label": "PER"
+    },
+    {
+      "text": "Crispins",
+      "start": 77591,
+      "end": 77599,
+      "label": "PER"
+    },
+    {
+      "text": "kirchen",
+      "start": 77686,
+      "end": 77693,
+      "label": "PER"
+    },
+    {
+      "text": "Débauche",
+      "start": 77806,
+      "end": 77814,
+      "label": "ORG"
+    },
+    {
+      "text": "Lucullus",
+      "start": 78087,
+      "end": 78095,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 78228,
+      "end": 78235,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 78667,
+      "end": 78671,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 78679,
+      "end": 78686,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 78762,
+      "end": 78768,
+      "label": "LOC"
+    },
+    {
+      "text": "notre Seigneur Jésus Christ",
+      "start": 79374,
+      "end": 79401,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 79610,
+      "end": 79614,
+      "label": "MISC"
+    },
+    {
+      "text": "Le crime...   ",
+      "start": 79702,
+      "end": 79716,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 79716,
+      "end": 79721,
+      "label": "LOC"
+    },
+    {
+      "text": "Seine",
+      "start": 79795,
+      "end": 79800,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 79811,
+      "end": 79818,
+      "label": "PER"
+    },
+    {
+      "text": "Moscou",
+      "start": 80186,
+      "end": 80192,
+      "label": "LOC"
+    },
+    {
+      "text": "Corsaire rouge",
+      "start": 80215,
+      "end": 80229,
+      "label": "MISC"
+    },
+    {
+      "text": "Chartreux",
+      "start": 80294,
+      "end": 80303,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 80307,
+      "end": 80313,
+      "label": "LOC"
+    },
+    {
+      "text": "Botany Bay",
+      "start": 80339,
+      "end": 80349,
+      "label": "LOC"
+    },
+    {
+      "text": "Byrons",
+      "start": 80401,
+      "end": 80407,
+      "label": "LOC"
+    },
+    {
+      "text": "Émile",
+      "start": 80606,
+      "end": 80611,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 80639,
+      "end": 80646,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 80849,
+      "end": 80852,
+      "label": "LOC"
+    },
+    {
+      "text": "De Viris",
+      "start": 81221,
+      "end": 81229,
+      "label": "PER"
+    },
+    {
+      "text": "rue Joubert",
+      "start": 81297,
+      "end": 81308,
+      "label": "LOC"
+    },
+    {
+      "text": "Émile",
+      "start": 81310,
+      "end": 81315,
+      "label": "PER"
+    },
+    {
+      "text": "Franc",
+      "start": 81544,
+      "end": 81549,
+      "label": "MISC"
+    },
+    {
+      "text": "Alcofribas",
+      "start": 82277,
+      "end": 82287,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 82331,
+      "end": 82338,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 82495,
+      "end": 82502,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 82541,
+      "end": 82547,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 82642,
+      "end": 82649,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 82962,
+      "end": 82967,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouffons",
+      "start": 85111,
+      "end": 85119,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 85450,
+      "end": 85461,
+      "label": "PER"
+    },
+    {
+      "text": "Union",
+      "start": 85464,
+      "end": 85469,
+      "label": "ORG"
+    },
+    {
+      "text": "Raphaël",
+      "start": 86043,
+      "end": 86050,
+      "label": "PER"
+    },
+    {
+      "text": "Cent mille livres de rente",
+      "start": 86673,
+      "end": 86699,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 87127,
+      "end": 87131,
+      "label": "MISC"
+    },
+    {
+      "text": "Émile",
+      "start": 87140,
+      "end": 87145,
+      "label": "PER"
+    },
+    {
+      "text": "ordre des Polypiers",
+      "start": 87864,
+      "end": 87883,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemand",
+      "start": 88230,
+      "end": 88238,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 88409,
+      "end": 88418,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 88453,
+      "end": 88457,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 88565,
+      "end": 88571,
+      "label": "ORG"
+    },
+    {
+      "text": "Mahomet",
+      "start": 88605,
+      "end": 88612,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 88953,
+      "end": 88960,
+      "label": "PER"
+    },
+    {
+      "text": "Madère circula",
+      "start": 89614,
+      "end": 89628,
+      "label": "LOC"
+    },
+    {
+      "text": "Cambacérès",
+      "start": 89714,
+      "end": 89724,
+      "label": "PER"
+    },
+    {
+      "text": "Brillat Savarin",
+      "start": 89729,
+      "end": 89744,
+      "label": "PER"
+    },
+    {
+      "text": "Bordeaux",
+      "start": 89772,
+      "end": 89780,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 89787,
+      "end": 89796,
+      "label": "LOC"
+    },
+    {
+      "text": "Taillefer",
+      "start": 90932,
+      "end": 90941,
+      "label": "PER"
+    },
+    {
+      "text": "Rhône",
+      "start": 91011,
+      "end": 91016,
+      "label": "LOC"
+    },
+    {
+      "text": "Tokay",
+      "start": 91027,
+      "end": 91032,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Roussillon",
+      "start": 91037,
+      "end": 91053,
+      "label": "LOC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 91185,
+      "end": 91197,
+      "label": "MISC"
+    },
+    {
+      "text": "Rossini",
+      "start": 91590,
+      "end": 91597,
+      "label": "PER"
+    },
+    {
+      "text": "mitraille",
+      "start": 92197,
+      "end": 92206,
+      "label": "LOC"
+    },
+    {
+      "text": "Temps",
+      "start": 92597,
+      "end": 92602,
+      "label": "MISC"
+    },
+    {
+      "text": "Sagesse ivre",
+      "start": 92681,
+      "end": 92693,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Ivresse",
+      "start": 92702,
+      "end": 92711,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 92972,
+      "end": 92976,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 93228,
+      "end": 93241,
+      "label": "MISC"
+    },
+    {
+      "text": "Gargantua",
+      "start": 93331,
+      "end": 93340,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 93582,
+      "end": 93589,
+      "label": "PER"
+    },
+    {
+      "text": "Valentin",
+      "start": 93618,
+      "end": 93626,
+      "label": "PER"
+    },
+    {
+      "text": "Valentin",
+      "start": 93658,
+      "end": 93666,
+      "label": "MISC"
+    },
+    {
+      "text": "Émile",
+      "start": 93688,
+      "end": 93693,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël de Valentin",
+      "start": 93704,
+      "end": 93723,
+      "label": "PER"
+    },
+    {
+      "text": "CECIDIT ANIMUS",
+      "start": 93862,
+      "end": 93876,
+      "label": "ORG"
+    },
+    {
+      "text": "Valens",
+      "start": 93949,
+      "end": 93955,
+      "label": "PER"
+    },
+    {
+      "text": "Valentinois",
+      "start": 93968,
+      "end": 93979,
+      "label": "LOC"
+    },
+    {
+      "text": "Valence",
+      "start": 94005,
+      "end": 94012,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 94016,
+      "end": 94023,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 94030,
+      "end": 94036,
+      "label": "LOC"
+    },
+    {
+      "text": "empire d'Orient",
+      "start": 94061,
+      "end": 94076,
+      "label": "MISC"
+    },
+    {
+      "text": "Mahmoud",
+      "start": 94102,
+      "end": 94109,
+      "label": "MISC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 94112,
+      "end": 94126,
+      "label": "LOC"
+    },
+    {
+      "text": "Emile",
+      "start": 94191,
+      "end": 94196,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 94273,
+      "end": 94280,
+      "label": "PER"
+    },
+    {
+      "text": "Valence",
+      "start": 94495,
+      "end": 94502,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantinople",
+      "start": 94507,
+      "end": 94521,
+      "label": "LOC"
+    },
+    {
+      "text": "Mahmoud",
+      "start": 94523,
+      "end": 94530,
+      "label": "LOC"
+    },
+    {
+      "text": "Valens",
+      "start": 94543,
+      "end": 94549,
+      "label": "PER"
+    },
+    {
+      "text": "Valentinois",
+      "start": 94568,
+      "end": 94579,
+      "label": "LOC"
+    },
+    {
+      "text": "Babylone",
+      "start": 94626,
+      "end": 94634,
+      "label": "LOC"
+    },
+    {
+      "text": "Tyr",
+      "start": 94636,
+      "end": 94639,
+      "label": "LOC"
+    },
+    {
+      "text": "Carthage",
+      "start": 94641,
+      "end": 94649,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 94654,
+      "end": 94660,
+      "label": "LOC"
+    },
+    {
+      "text": "Claude Vignon",
+      "start": 94818,
+      "end": 94831,
+      "label": "PER"
+    },
+    {
+      "text": "Bossuet",
+      "start": 94871,
+      "end": 94878,
+      "label": "PER"
+    },
+    {
+      "text": "Moïse",
+      "start": 94902,
+      "end": 94907,
+      "label": "PER"
+    },
+    {
+      "text": "Sylla",
+      "start": 94909,
+      "end": 94914,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XI",
+      "start": 94916,
+      "end": 94924,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 94926,
+      "end": 94935,
+      "label": "PER"
+    },
+    {
+      "text": "Robespierre",
+      "start": 94937,
+      "end": 94948,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 94952,
+      "end": 94960,
+      "label": "PER"
+    },
+    {
+      "text": "Providence",
+      "start": 95110,
+      "end": 95120,
+      "label": "LOC"
+    },
+    {
+      "text": "Canalis",
+      "start": 95127,
+      "end": 95134,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 95164,
+      "end": 95170,
+      "label": "MISC"
+    },
+    {
+      "text": "Providence",
+      "start": 95181,
+      "end": 95191,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 95295,
+      "end": 95304,
+      "label": "PER"
+    },
+    {
+      "text": "Maintenon",
+      "start": 95361,
+      "end": 95370,
+      "label": "PER"
+    },
+    {
+      "text": "Convention",
+      "start": 95378,
+      "end": 95388,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 95470,
+      "end": 95479,
+      "label": "LOC"
+    },
+    {
+      "text": "Massol",
+      "start": 95530,
+      "end": 95536,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 95610,
+      "end": 95618,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau de l'Oise",
+      "start": 95633,
+      "end": 95649,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 95772,
+      "end": 95773,
+      "label": "LOC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 95874,
+      "end": 95880,
+      "label": "PER"
+    },
+    {
+      "text": "Chose",
+      "start": 95888,
+      "end": 95893,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 96267,
+      "end": 96269,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierre le Grand",
+      "start": 96377,
+      "end": 96392,
+      "label": "PER"
+    },
+    {
+      "text": "duc d'Albe",
+      "start": 96397,
+      "end": 96407,
+      "label": "PER"
+    },
+    {
+      "text": "Monbard",
+      "start": 96446,
+      "end": 96453,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 96562,
+      "end": 96566,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 96603,
+      "end": 96607,
+      "label": "MISC"
+    },
+    {
+      "text": "Tes",
+      "start": 96740,
+      "end": 96743,
+      "label": "LOC"
+    },
+    {
+      "text": "Brutus",
+      "start": 96781,
+      "end": 96787,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 97166,
+      "end": 97168,
+      "label": "MISC"
+    },
+    {
+      "text": "Desroches",
+      "start": 97188,
+      "end": 97197,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 97245,
+      "end": 97251,
+      "label": "PER"
+    },
+    {
+      "text": "Fermez",
+      "start": 97264,
+      "end": 97270,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 97445,
+      "end": 97449,
+      "label": "MISC"
+    },
+    {
+      "text": "Perrault",
+      "start": 97663,
+      "end": 97671,
+      "label": "PER"
+    },
+    {
+      "text": "Charlet",
+      "start": 97691,
+      "end": 97698,
+      "label": "LOC"
+    },
+    {
+      "text": "Passez",
+      "start": 97726,
+      "end": 97732,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 98111,
+      "end": 98115,
+      "label": "MISC"
+    },
+    {
+      "text": "Cursy",
+      "start": 98129,
+      "end": 98134,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 98191,
+      "end": 98200,
+      "label": "PER"
+    },
+    {
+      "text": "Émile",
+      "start": 98244,
+      "end": 98249,
+      "label": "PER"
+    },
+    {
+      "text": "Buvons",
+      "start": 98344,
+      "end": 98350,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé !",
+      "start": 98450,
+      "end": 98454,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 98474,
+      "end": 98482,
+      "label": "PER"
+    },
+    {
+      "text": "Brest",
+      "start": 98574,
+      "end": 98579,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 98583,
+      "end": 98587,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 98742,
+      "end": 98750,
+      "label": "PER"
+    },
+    {
+      "text": "Joli !",
+      "start": 99002,
+      "end": 99008,
+      "label": "MISC"
+    },
+    {
+      "text": "Cardot",
+      "start": 99017,
+      "end": 99023,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 99102,
+      "end": 99107,
+      "label": "LOC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 99346,
+      "end": 99353,
+      "label": "LOC"
+    },
+    {
+      "text": "MANIÈRE",
+      "start": 99371,
+      "end": 99378,
+      "label": "ORG"
+    },
+    {
+      "text": "ONCLE",
+      "start": 99391,
+      "end": 99396,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 99406,
+      "end": 99413,
+      "label": "LOC"
+    },
+    {
+      "text": "Ayez",
+      "start": 99427,
+      "end": 99431,
+      "label": "ORG"
+    },
+    {
+      "text": "Sensation",
+      "start": 99518,
+      "end": 99527,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 99604,
+      "end": 99606,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 99661,
+      "end": 99665,
+      "label": "MISC"
+    },
+    {
+      "text": "Lâchez",
+      "start": 99848,
+      "end": 99854,
+      "label": "LOC"
+    }
+  ]
+}

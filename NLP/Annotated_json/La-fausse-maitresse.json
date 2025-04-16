@@ -1,0 +1,5578 @@
+{
+  "entities": [
+    {
+      "text": "FAUSSE",
+      "start": 3,
+      "end": 9,
+      "label": "MISC"
+    },
+    {
+      "text": "MAITRESSE",
+      "start": 10,
+      "end": 19,
+      "label": "MISC"
+    },
+    {
+      "text": "COMTESSE CLARA",
+      "start": 38,
+      "end": 52,
+      "label": "ORG"
+    },
+    {
+      "text": "MAFFEÏ",
+      "start": 53,
+      "end": 59,
+      "label": "ORG"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 137,
+      "end": 150,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouvre",
+      "start": 168,
+      "end": 174,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 192,
+      "end": 209,
+      "label": "PER"
+    },
+    {
+      "text": "Adam Mitgislas Laginski",
+      "start": 227,
+      "end": 250,
+      "label": "PER"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 522,
+      "end": 539,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 688,
+      "end": 700,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine du Rouvre",
+      "start": 727,
+      "end": 747,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 768,
+      "end": 791,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 807,
+      "end": 823,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 916,
+      "end": 922,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux",
+      "start": 944,
+      "end": 949,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 1022,
+      "end": 1045,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 1131,
+      "end": 1147,
+      "label": "PER"
+    },
+    {
+      "text": "Afrique",
+      "start": 1202,
+      "end": 1209,
+      "label": "LOC"
+    },
+    {
+      "text": "Macta",
+      "start": 1228,
+      "end": 1233,
+      "label": "PER"
+    },
+    {
+      "text": "Code civil",
+      "start": 1409,
+      "end": 1419,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 1427,
+      "end": 1435,
+      "label": "PER"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 1512,
+      "end": 1529,
+      "label": "PER"
+    },
+    {
+      "text": "Florine",
+      "start": 1535,
+      "end": 1542,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 1580,
+      "end": 1585,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 1587,
+      "end": 1597,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 1628,
+      "end": 1651,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 1719,
+      "end": 1735,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 1756,
+      "end": 1762,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 2002,
+      "end": 2010,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Adam",
+      "start": 2085,
+      "end": 2095,
+      "label": "PER"
+    },
+    {
+      "text": "Pologne",
+      "start": 2170,
+      "end": 2177,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 2227,
+      "end": 2236,
+      "label": "LOC"
+    },
+    {
+      "text": "Sapiéha",
+      "start": 2242,
+      "end": 2249,
+      "label": "MISC"
+    },
+    {
+      "text": "Radzivill",
+      "start": 2255,
+      "end": 2264,
+      "label": "MISC"
+    },
+    {
+      "text": "Rzewuski",
+      "start": 2270,
+      "end": 2278,
+      "label": "PER"
+    },
+    {
+      "text": "Cartoriski",
+      "start": 2284,
+      "end": 2294,
+      "label": "MISC"
+    },
+    {
+      "text": "Leczinski",
+      "start": 2300,
+      "end": 2309,
+      "label": "PER"
+    },
+    {
+      "text": "Iablonoski",
+      "start": 2315,
+      "end": 2325,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 2396,
+      "end": 2405,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis Philippe",
+      "start": 2411,
+      "end": 2425,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 2552,
+      "end": 2556,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 2588,
+      "end": 2596,
+      "label": "LOC"
+    },
+    {
+      "text": "Frascati",
+      "start": 2600,
+      "end": 2608,
+      "label": "ORG"
+    },
+    {
+      "text": "Jockey Club",
+      "start": 2613,
+      "end": 2624,
+      "label": "ORG"
+    },
+    {
+      "text": "Mouvement contre la Résistance",
+      "start": 2952,
+      "end": 2982,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 3122,
+      "end": 3131,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 3310,
+      "end": 3316,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 3449,
+      "end": 3456,
+      "label": "MISC"
+    },
+    {
+      "text": "Pologne",
+      "start": 3467,
+      "end": 3474,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 3484,
+      "end": 3491,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 3510,
+      "end": 3517,
+      "label": "MISC"
+    },
+    {
+      "text": "Russie",
+      "start": 3658,
+      "end": 3664,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 3671,
+      "end": 3678,
+      "label": "LOC"
+    },
+    {
+      "text": "la Pologne",
+      "start": 3803,
+      "end": 3813,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 3835,
+      "end": 3841,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 3926,
+      "end": 3933,
+      "label": "LOC"
+    },
+    {
+      "text": "Tartares",
+      "start": 3966,
+      "end": 3974,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 4000,
+      "end": 4007,
+      "label": "LOC"
+    },
+    {
+      "text": "La Pologne",
+      "start": 4028,
+      "end": 4038,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 4059,
+      "end": 4065,
+      "label": "LOC"
+    },
+    {
+      "text": "Poniatowski",
+      "start": 4068,
+      "end": 4079,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 4369,
+      "end": 4374,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 4399,
+      "end": 4406,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 4436,
+      "end": 4444,
+      "label": "MISC"
+    },
+    {
+      "text": "la Pologne",
+      "start": 4500,
+      "end": 4510,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 4607,
+      "end": 4615,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 4709,
+      "end": 4718,
+      "label": "LOC"
+    },
+    {
+      "text": "Midi",
+      "start": 4730,
+      "end": 4734,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 4850,
+      "end": 4858,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 5109,
+      "end": 5117,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 5131,
+      "end": 5139,
+      "label": "LOC"
+    },
+    {
+      "text": "Lelewel",
+      "start": 5161,
+      "end": 5168,
+      "label": "PER"
+    },
+    {
+      "text": "Cartoriski",
+      "start": 5235,
+      "end": 5245,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 5266,
+      "end": 5274,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruxelles",
+      "start": 5531,
+      "end": 5540,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 5746,
+      "end": 5751,
+      "label": "PER"
+    },
+    {
+      "text": "Blancs",
+      "start": 5809,
+      "end": 5815,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam Cartoriski",
+      "start": 5883,
+      "end": 5898,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 6007,
+      "end": 6012,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 6032,
+      "end": 6041,
+      "label": "PER"
+    },
+    {
+      "text": "Adam Mitgislas",
+      "start": 6066,
+      "end": 6080,
+      "label": "PER"
+    },
+    {
+      "text": "Rastignac",
+      "start": 6181,
+      "end": 6190,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 6203,
+      "end": 6211,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 6251,
+      "end": 6269,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 6521,
+      "end": 6530,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 6579,
+      "end": 6587,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 6829,
+      "end": 6842,
+      "label": "PER"
+    },
+    {
+      "text": "la Pologne",
+      "start": 6866,
+      "end": 6876,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 6887,
+      "end": 6891,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas",
+      "start": 7090,
+      "end": 7097,
+      "label": "MISC"
+    },
+    {
+      "text": "Tuileries",
+      "start": 7158,
+      "end": 7167,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 7456,
+      "end": 7463,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 7532,
+      "end": 7540,
+      "label": "LOC"
+    },
+    {
+      "text": "Super flumina Babylonis",
+      "start": 7594,
+      "end": 7617,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 7733,
+      "end": 7738,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 7925,
+      "end": 7929,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 7994,
+      "end": 8002,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaises",
+      "start": 8021,
+      "end": 8030,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglaise",
+      "start": 8042,
+      "end": 8050,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Adam",
+      "start": 8108,
+      "end": 8118,
+      "label": "PER"
+    },
+    {
+      "text": "Virgile",
+      "start": 8467,
+      "end": 8474,
+      "label": "PER"
+    },
+    {
+      "text": "Radzivill",
+      "start": 8672,
+      "end": 8681,
+      "label": "MISC"
+    },
+    {
+      "text": "Pétersbourg",
+      "start": 9153,
+      "end": 9164,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 9170,
+      "end": 9176,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9182,
+      "end": 9187,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9309,
+      "end": 9314,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 9742,
+      "end": 9746,
+      "label": "PER"
+    },
+    {
+      "text": "rue la Pépinière",
+      "start": 9755,
+      "end": 9771,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9865,
+      "end": 9870,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginski",
+      "start": 9885,
+      "end": 9893,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 9943,
+      "end": 9953,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 9958,
+      "end": 9966,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 10040,
+      "end": 10055,
+      "label": "PER"
+    },
+    {
+      "text": "Laginski",
+      "start": 10156,
+      "end": 10164,
+      "label": "PER"
+    },
+    {
+      "text": "Nord",
+      "start": 10211,
+      "end": 10215,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam Laginski",
+      "start": 10433,
+      "end": 10446,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 10570,
+      "end": 10586,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 10607,
+      "end": 10619,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 10639,
+      "end": 10645,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 10772,
+      "end": 10776,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine Laginska",
+      "start": 10795,
+      "end": 10814,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 10840,
+      "end": 10845,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Laginska",
+      "start": 10847,
+      "end": 10865,
+      "label": "PER"
+    },
+    {
+      "text": "Portenduère",
+      "start": 10968,
+      "end": 10979,
+      "label": "PER"
+    },
+    {
+      "text": "Marie de Vandenesse",
+      "start": 10981,
+      "end": 11000,
+      "label": "PER"
+    },
+    {
+      "text": "Guénic",
+      "start": 11005,
+      "end": 11011,
+      "label": "LOC"
+    },
+    {
+      "text": "Maufrigneuse",
+      "start": 11018,
+      "end": 11030,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11046,
+      "end": 11051,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 11600,
+      "end": 11605,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 11607,
+      "end": 11614,
+      "label": "LOC"
+    },
+    {
+      "text": "Pétersbourg",
+      "start": 11618,
+      "end": 11629,
+      "label": "LOC"
+    },
+    {
+      "text": "maison d'Orléans",
+      "start": 11802,
+      "end": 11818,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 11860,
+      "end": 11866,
+      "label": "LOC"
+    },
+    {
+      "text": "de France de Juillet",
+      "start": 11985,
+      "end": 12005,
+      "label": "LOC"
+    },
+    {
+      "text": "Proposez",
+      "start": 12409,
+      "end": 12417,
+      "label": "MISC"
+    },
+    {
+      "text": "Louvre",
+      "start": 12502,
+      "end": 12508,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginska",
+      "start": 12877,
+      "end": 12885,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Pépinière",
+      "start": 12887,
+      "end": 12906,
+      "label": "LOC"
+    },
+    {
+      "text": "chaussée",
+      "start": 13241,
+      "end": 13249,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 13332,
+      "end": 13342,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges IV",
+      "start": 13560,
+      "end": 13570,
+      "label": "PER"
+    },
+    {
+      "text": "Brigthon",
+      "start": 13573,
+      "end": 13581,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 13630,
+      "end": 13635,
+      "label": "LOC"
+    },
+    {
+      "text": "Elschoët",
+      "start": 13816,
+      "end": 13824,
+      "label": "LOC"
+    },
+    {
+      "text": "Klagmann",
+      "start": 13828,
+      "end": 13836,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulanger",
+      "start": 13890,
+      "end": 13899,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Rothschild",
+      "start": 14026,
+      "end": 14042,
+      "label": "ORG"
+    },
+    {
+      "text": "Anglais",
+      "start": 14143,
+      "end": 14150,
+      "label": "MISC"
+    },
+    {
+      "text": "Crésus",
+      "start": 14314,
+      "end": 14320,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruxelles",
+      "start": 14346,
+      "end": 14355,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourse",
+      "start": 14399,
+      "end": 14405,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 14409,
+      "end": 14416,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14426,
+      "end": 14431,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14435,
+      "end": 14440,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 14465,
+      "end": 14470,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Adam",
+      "start": 14793,
+      "end": 14803,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 15674,
+      "end": 15679,
+      "label": "LOC"
+    },
+    {
+      "text": "les oiseaux",
+      "start": 15681,
+      "end": 15692,
+      "label": "MISC"
+    },
+    {
+      "text": "Torride",
+      "start": 15998,
+      "end": 16005,
+      "label": "LOC"
+    },
+    {
+      "text": "Chine",
+      "start": 16010,
+      "end": 16015,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 16021,
+      "end": 16027,
+      "label": "LOC"
+    },
+    {
+      "text": "Vaste",
+      "start": 16238,
+      "end": 16243,
+      "label": "MISC"
+    },
+    {
+      "text": "Architecture",
+      "start": 16332,
+      "end": 16344,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 16452,
+      "end": 16456,
+      "label": "PER"
+    },
+    {
+      "text": "Chine",
+      "start": 16618,
+      "end": 16623,
+      "label": "LOC"
+    },
+    {
+      "text": "Meissonnier",
+      "start": 16894,
+      "end": 16905,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard Séguin",
+      "start": 16943,
+      "end": 16956,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 17407,
+      "end": 17426,
+      "label": "PER"
+    },
+    {
+      "text": "Perse",
+      "start": 17441,
+      "end": 17446,
+      "label": "LOC"
+    },
+    {
+      "text": "Fauveau",
+      "start": 17701,
+      "end": 17708,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 18106,
+      "end": 18116,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 18461,
+      "end": 18465,
+      "label": "PER"
+    },
+    {
+      "text": "Forbin Janson",
+      "start": 18717,
+      "end": 18730,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 18807,
+      "end": 18812,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Custine",
+      "start": 18826,
+      "end": 18844,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 19255,
+      "end": 19265,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 19385,
+      "end": 19393,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 19538,
+      "end": 19545,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonaises",
+      "start": 19563,
+      "end": 19573,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 19605,
+      "end": 19613,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 19665,
+      "end": 19675,
+      "label": "LOC"
+    },
+    {
+      "text": "comte Adam",
+      "start": 19686,
+      "end": 19696,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 20136,
+      "end": 20139,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 20178,
+      "end": 20181,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cheval",
+      "start": 20325,
+      "end": 20335,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 20381,
+      "end": 20384,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 20445,
+      "end": 20448,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 20485,
+      "end": 20488,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 20513,
+      "end": 20516,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 20542,
+      "end": 20545,
+      "label": "PER"
+    },
+    {
+      "text": "notre Paz",
+      "start": 20564,
+      "end": 20573,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 20973,
+      "end": 20976,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 21013,
+      "end": 21019,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 21080,
+      "end": 21084,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 21128,
+      "end": 21132,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 21136,
+      "end": 21146,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21224,
+      "end": 21229,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 21234,
+      "end": 21240,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 21245,
+      "end": 21251,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 21258,
+      "end": 21267,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 21534,
+      "end": 21537,
+      "label": "PER"
+    },
+    {
+      "text": "Paç",
+      "start": 21540,
+      "end": 21543,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 21591,
+      "end": 21599,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 21613,
+      "end": 21616,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 21771,
+      "end": 21774,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 21889,
+      "end": 21895,
+      "label": "PER"
+    },
+    {
+      "text": "Constantin",
+      "start": 21901,
+      "end": 21911,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 22185,
+      "end": 22189,
+      "label": "MISC"
+    },
+    {
+      "text": "Cora",
+      "start": 22202,
+      "end": 22206,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame la comtesse",
+      "start": 22210,
+      "end": 22228,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 22325,
+      "end": 22333,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 22344,
+      "end": 22354,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginska",
+      "start": 22423,
+      "end": 22431,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 22458,
+      "end": 22462,
+      "label": "PER"
+    },
+    {
+      "text": "Blonde",
+      "start": 22646,
+      "end": 22652,
+      "label": "LOC"
+    },
+    {
+      "text": "Perse",
+      "start": 22806,
+      "end": 22811,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 23359,
+      "end": 23369,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 23648,
+      "end": 23652,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 23886,
+      "end": 23890,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 24001,
+      "end": 24011,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 24019,
+      "end": 24027,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 24061,
+      "end": 24064,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 24275,
+      "end": 24278,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 24484,
+      "end": 24494,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 24559,
+      "end": 24562,
+      "label": "PER"
+    },
+    {
+      "text": "Hercule à l'Enfant",
+      "start": 24641,
+      "end": 24659,
+      "label": "MISC"
+    },
+    {
+      "text": "Trasteverins",
+      "start": 24776,
+      "end": 24788,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 24791,
+      "end": 24801,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 25051,
+      "end": 25054,
+      "label": "PER"
+    },
+    {
+      "text": "la Pologne",
+      "start": 25073,
+      "end": 25083,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonjour",
+      "start": 25325,
+      "end": 25332,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 25334,
+      "end": 25338,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 25418,
+      "end": 25428,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginski",
+      "start": 25485,
+      "end": 25493,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 25548,
+      "end": 25551,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 25754,
+      "end": 25760,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 25767,
+      "end": 25773,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 26024,
+      "end": 26027,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 26389,
+      "end": 26393,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 26506,
+      "end": 26510,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 26512,
+      "end": 26515,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 26741,
+      "end": 26745,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 26764,
+      "end": 26773,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 26952,
+      "end": 26956,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 26957,
+      "end": 26963,
+      "label": "PER"
+    },
+    {
+      "text": "Comptez",
+      "start": 27064,
+      "end": 27071,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 27085,
+      "end": 27094,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 27101,
+      "end": 27107,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 27153,
+      "end": 27163,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 27177,
+      "end": 27180,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 27254,
+      "end": 27258,
+      "label": "PER"
+    },
+    {
+      "text": "Racontez",
+      "start": 27262,
+      "end": 27270,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 27318,
+      "end": 27328,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 27332,
+      "end": 27335,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginski",
+      "start": 27355,
+      "end": 27363,
+      "label": "PER"
+    },
+    {
+      "text": "Pazzi",
+      "start": 27462,
+      "end": 27467,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 27480,
+      "end": 27488,
+      "label": "LOC"
+    },
+    {
+      "text": "Pologne",
+      "start": 27492,
+      "end": 27499,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 27561,
+      "end": 27564,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 27743,
+      "end": 27749,
+      "label": "LOC"
+    },
+    {
+      "text": "maison comtale des Paz",
+      "start": 27813,
+      "end": 27835,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 27930,
+      "end": 27933,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 27948,
+      "end": 27951,
+      "label": "LOC"
+    },
+    {
+      "text": "Notre Paz",
+      "start": 27961,
+      "end": 27970,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 28092,
+      "end": 28102,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 28186,
+      "end": 28194,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 28427,
+      "end": 28433,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 28533,
+      "end": 28536,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 28608,
+      "end": 28611,
+      "label": "PER"
+    },
+    {
+      "text": "Varsovie",
+      "start": 28613,
+      "end": 28621,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 28672,
+      "end": 28678,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 28705,
+      "end": 28708,
+      "label": "PER"
+    },
+    {
+      "text": "Fistule",
+      "start": 28807,
+      "end": 28814,
+      "label": "LOC"
+    },
+    {
+      "text": "Prussiens",
+      "start": 28859,
+      "end": 28868,
+      "label": "MISC"
+    },
+    {
+      "text": "Russes",
+      "start": 28918,
+      "end": 28924,
+      "label": "LOC"
+    },
+    {
+      "text": "Styx",
+      "start": 28962,
+      "end": 28966,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 29001,
+      "end": 29004,
+      "label": "PER"
+    },
+    {
+      "text": "Prussiens",
+      "start": 29275,
+      "end": 29284,
+      "label": "MISC"
+    },
+    {
+      "text": "Dantzick",
+      "start": 29438,
+      "end": 29446,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 29509,
+      "end": 29516,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 29553,
+      "end": 29560,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 29584,
+      "end": 29594,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 29615,
+      "end": 29618,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 29736,
+      "end": 29743,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 29758,
+      "end": 29761,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 29765,
+      "end": 29771,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 29857,
+      "end": 29862,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 30071,
+      "end": 30074,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 30123,
+      "end": 30128,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 30579,
+      "end": 30589,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 30591,
+      "end": 30594,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 30777,
+      "end": 30780,
+      "label": "PER"
+    },
+    {
+      "text": "Dunquè",
+      "start": 30944,
+      "end": 30950,
+      "label": "MISC"
+    },
+    {
+      "text": "rougi",
+      "start": 31048,
+      "end": 31053,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 31207,
+      "end": 31217,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 31267,
+      "end": 31271,
+      "label": "PER"
+    },
+    {
+      "text": "Cher trésor",
+      "start": 31343,
+      "end": 31354,
+      "label": "ORG"
+    },
+    {
+      "text": "Paz",
+      "start": 31399,
+      "end": 31402,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 31407,
+      "end": 31414,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 31460,
+      "end": 31464,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 31477,
+      "end": 31484,
+      "label": "LOC"
+    },
+    {
+      "text": "Oui",
+      "start": 31489,
+      "end": 31492,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 31494,
+      "end": 31501,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 31562,
+      "end": 31566,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 31683,
+      "end": 31687,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 31716,
+      "end": 31723,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginski",
+      "start": 31844,
+      "end": 31852,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 32007,
+      "end": 32010,
+      "label": "PER"
+    },
+    {
+      "text": "Arabe",
+      "start": 32132,
+      "end": 32137,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 32276,
+      "end": 32284,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 32750,
+      "end": 32755,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 32874,
+      "end": 32877,
+      "label": "PER"
+    },
+    {
+      "text": "Mon Thaddée",
+      "start": 33026,
+      "end": 33037,
+      "label": "MISC"
+    },
+    {
+      "text": "Génois",
+      "start": 33058,
+      "end": 33064,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'aime t",
+      "start": 33420,
+      "end": 33429,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 33448,
+      "end": 33458,
+      "label": "LOC"
+    },
+    {
+      "text": "la Pologne",
+      "start": 33470,
+      "end": 33480,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 33615,
+      "end": 33620,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 33789,
+      "end": 33793,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 33857,
+      "end": 33860,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 34308,
+      "end": 34311,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 34344,
+      "end": 34347,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 34577,
+      "end": 34581,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 34652,
+      "end": 34655,
+      "label": "LOC"
+    },
+    {
+      "text": "Pazzi",
+      "start": 34714,
+      "end": 34719,
+      "label": "LOC"
+    },
+    {
+      "text": "Laginski",
+      "start": 34731,
+      "end": 34739,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 34800,
+      "end": 34803,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 34940,
+      "end": 34943,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 35005,
+      "end": 35012,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 35256,
+      "end": 35261,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 35282,
+      "end": 35286,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 35293,
+      "end": 35296,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 36136,
+      "end": 36146,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 36162,
+      "end": 36166,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 36438,
+      "end": 36448,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 36725,
+      "end": 36729,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 36730,
+      "end": 36733,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 36779,
+      "end": 36783,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 37126,
+      "end": 37129,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 37155,
+      "end": 37160,
+      "label": "LOC"
+    },
+    {
+      "text": "Florentin",
+      "start": 37191,
+      "end": 37200,
+      "label": "MISC"
+    },
+    {
+      "text": "Dante",
+      "start": 37281,
+      "end": 37286,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 37293,
+      "end": 37304,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 37317,
+      "end": 37322,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 37371,
+      "end": 37375,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 37407,
+      "end": 37415,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Dorval",
+      "start": 37462,
+      "end": 37474,
+      "label": "PER"
+    },
+    {
+      "text": "Chère",
+      "start": 37478,
+      "end": 37483,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 37497,
+      "end": 37501,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 37514,
+      "end": 37524,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 37831,
+      "end": 37841,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 37874,
+      "end": 37877,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 37920,
+      "end": 37925,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine Laginska",
+      "start": 37962,
+      "end": 37981,
+      "label": "PER"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 38009,
+      "end": 38025,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 38047,
+      "end": 38054,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 38068,
+      "end": 38078,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 38118,
+      "end": 38125,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 38245,
+      "end": 38255,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 38339,
+      "end": 38343,
+      "label": "PER"
+    },
+    {
+      "text": "Comte Paz",
+      "start": 38412,
+      "end": 38421,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 38457,
+      "end": 38462,
+      "label": "LOC"
+    },
+    {
+      "text": "Volontiers",
+      "start": 38562,
+      "end": 38572,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 38574,
+      "end": 38580,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 38997,
+      "end": 39000,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 39015,
+      "end": 39025,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 39322,
+      "end": 39326,
+      "label": "PER"
+    },
+    {
+      "text": "Egaie",
+      "start": 39342,
+      "end": 39347,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 39358,
+      "end": 39365,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 39456,
+      "end": 39466,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 39469,
+      "end": 39476,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 39801,
+      "end": 39806,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 39878,
+      "end": 39888,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 39923,
+      "end": 39926,
+      "label": "LOC"
+    },
+    {
+      "text": "Duprez",
+      "start": 39930,
+      "end": 39936,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume Tell",
+      "start": 39944,
+      "end": 39958,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 39967,
+      "end": 39971,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 40016,
+      "end": 40024,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 40087,
+      "end": 40097,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 40240,
+      "end": 40248,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 40273,
+      "end": 40283,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 40299,
+      "end": 40303,
+      "label": "MISC"
+    },
+    {
+      "text": "Florentins",
+      "start": 40325,
+      "end": 40335,
+      "label": "LOC"
+    },
+    {
+      "text": "Nord",
+      "start": 40357,
+      "end": 40361,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 40372,
+      "end": 40379,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 40623,
+      "end": 40626,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 40645,
+      "end": 40655,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 40897,
+      "end": 40901,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 40939,
+      "end": 40949,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 40965,
+      "end": 40972,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 41124,
+      "end": 41130,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume Tell",
+      "start": 41199,
+      "end": 41213,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi, mon cher capitaine",
+      "start": 41308,
+      "end": 41334,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 41392,
+      "end": 41400,
+      "label": "MISC"
+    },
+    {
+      "text": "Tartuffe",
+      "start": 41520,
+      "end": 41528,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 41560,
+      "end": 41564,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 41673,
+      "end": 41683,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 41721,
+      "end": 41726,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 41857,
+      "end": 41867,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 41999,
+      "end": 42003,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 42068,
+      "end": 42075,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 42191,
+      "end": 42195,
+      "label": "MISC"
+    },
+    {
+      "text": "Boleslas",
+      "start": 42341,
+      "end": 42349,
+      "label": "ORG"
+    },
+    {
+      "text": "Clémentine",
+      "start": 42478,
+      "end": 42488,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 42538,
+      "end": 42543,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 42559,
+      "end": 42563,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 42805,
+      "end": 42809,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 42984,
+      "end": 42991,
+      "label": "ORG"
+    },
+    {
+      "text": "Tuileries",
+      "start": 43064,
+      "end": 43073,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 43201,
+      "end": 43211,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 43291,
+      "end": 43298,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 43362,
+      "end": 43366,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 43371,
+      "end": 43379,
+      "label": "LOC"
+    },
+    {
+      "text": "Rouvre",
+      "start": 43423,
+      "end": 43429,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Thomas d'Aquin",
+      "start": 43473,
+      "end": 43493,
+      "label": "PER"
+    },
+    {
+      "text": "don Juan",
+      "start": 43572,
+      "end": 43580,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 43636,
+      "end": 43639,
+      "label": "PER"
+    },
+    {
+      "text": "Quasi",
+      "start": 43703,
+      "end": 43708,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 43764,
+      "end": 43774,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 43949,
+      "end": 43953,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 43970,
+      "end": 43974,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 44224,
+      "end": 44231,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 44376,
+      "end": 44386,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 44392,
+      "end": 44396,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 44654,
+      "end": 44664,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 44851,
+      "end": 44855,
+      "label": "PER"
+    },
+    {
+      "text": "Pologne",
+      "start": 45023,
+      "end": 45030,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 45185,
+      "end": 45188,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 45219,
+      "end": 45225,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 45295,
+      "end": 45305,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 45307,
+      "end": 45310,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 45572,
+      "end": 45576,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 45583,
+      "end": 45593,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 45720,
+      "end": 45731,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 45951,
+      "end": 45955,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 46042,
+      "end": 46052,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 46251,
+      "end": 46258,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 46773,
+      "end": 46777,
+      "label": "MISC"
+    },
+    {
+      "text": "Effet",
+      "start": 47018,
+      "end": 47023,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 47041,
+      "end": 47047,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 47056,
+      "end": 47062,
+      "label": "MISC"
+    },
+    {
+      "text": "Cause",
+      "start": 47151,
+      "end": 47156,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 47268,
+      "end": 47274,
+      "label": "MISC"
+    },
+    {
+      "text": "Cause",
+      "start": 47280,
+      "end": 47285,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 47293,
+      "end": 47297,
+      "label": "MISC"
+    },
+    {
+      "text": "Newton",
+      "start": 47339,
+      "end": 47345,
+      "label": "PER"
+    },
+    {
+      "text": "Laplace",
+      "start": 47351,
+      "end": 47358,
+      "label": "PER"
+    },
+    {
+      "text": "Kepler",
+      "start": 47364,
+      "end": 47370,
+      "label": "PER"
+    },
+    {
+      "text": "Descartes",
+      "start": 47376,
+      "end": 47385,
+      "label": "PER"
+    },
+    {
+      "text": "Malebranche",
+      "start": 47391,
+      "end": 47402,
+      "label": "PER"
+    },
+    {
+      "text": "Spinosa",
+      "start": 47408,
+      "end": 47415,
+      "label": "LOC"
+    },
+    {
+      "text": "Buffon",
+      "start": 47421,
+      "end": 47427,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Thérèse",
+      "start": 47492,
+      "end": 47506,
+      "label": "PER"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 47510,
+      "end": 47519,
+      "label": "LOC"
+    },
+    {
+      "text": "Effet",
+      "start": 47640,
+      "end": 47645,
+      "label": "LOC"
+    },
+    {
+      "text": "Cause",
+      "start": 47654,
+      "end": 47659,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 47664,
+      "end": 47671,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 47772,
+      "end": 47779,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 47991,
+      "end": 47995,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 48342,
+      "end": 48352,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 48376,
+      "end": 48383,
+      "label": "MISC"
+    },
+    {
+      "text": "Bon !",
+      "start": 48639,
+      "end": 48644,
+      "label": "MISC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 48779,
+      "end": 48789,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 48937,
+      "end": 48947,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 48967,
+      "end": 48970,
+      "label": "PER"
+    },
+    {
+      "text": "Pense t on",
+      "start": 48972,
+      "end": 48982,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 49052,
+      "end": 49057,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 50716,
+      "end": 50726,
+      "label": "LOC"
+    },
+    {
+      "text": "terre de Ronquerolles",
+      "start": 51006,
+      "end": 51027,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 51032,
+      "end": 51041,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Elysées",
+      "start": 51101,
+      "end": 51115,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 51117,
+      "end": 51124,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 51355,
+      "end": 51359,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 51570,
+      "end": 51571,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 51598,
+      "end": 51608,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 51724,
+      "end": 51736,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 51747,
+      "end": 51751,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 51790,
+      "end": 51793,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 51948,
+      "end": 51952,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 52019,
+      "end": 52023,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 52062,
+      "end": 52069,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 52211,
+      "end": 52214,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 52228,
+      "end": 52238,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 52678,
+      "end": 52682,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 52770,
+      "end": 52777,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 52799,
+      "end": 52803,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 52983,
+      "end": 52990,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 53026,
+      "end": 53030,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 53392,
+      "end": 53399,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 53420,
+      "end": 53424,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles et ma tante de Sérizy",
+      "start": 53685,
+      "end": 53719,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 54077,
+      "end": 54087,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 54110,
+      "end": 54113,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 54210,
+      "end": 54220,
+      "label": "PER"
+    },
+    {
+      "text": "Marsay",
+      "start": 54246,
+      "end": 54252,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 54336,
+      "end": 54339,
+      "label": "PER"
+    },
+    {
+      "text": "Mitgislas",
+      "start": 54394,
+      "end": 54403,
+      "label": "ORG"
+    },
+    {
+      "text": "Paz",
+      "start": 54463,
+      "end": 54466,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 54476,
+      "end": 54499,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 54503,
+      "end": 54507,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 54547,
+      "end": 54557,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 54581,
+      "end": 54584,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 54707,
+      "end": 54710,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 54740,
+      "end": 54744,
+      "label": "PER"
+    },
+    {
+      "text": "Varsovie",
+      "start": 54867,
+      "end": 54875,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 55039,
+      "end": 55042,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 55320,
+      "end": 55330,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 55335,
+      "end": 55358,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 55438,
+      "end": 55442,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 55446,
+      "end": 55449,
+      "label": "PER"
+    },
+    {
+      "text": "Italie",
+      "start": 55505,
+      "end": 55511,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 55517,
+      "end": 55522,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 55817,
+      "end": 55821,
+      "label": "PER"
+    },
+    {
+      "text": "marquis du Rouvre",
+      "start": 55826,
+      "end": 55843,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 55960,
+      "end": 55963,
+      "label": "PER"
+    },
+    {
+      "text": "Adam !",
+      "start": 56294,
+      "end": 56300,
+      "label": "PER"
+    },
+    {
+      "text": "L'Amour idéal",
+      "start": 56304,
+      "end": 56317,
+      "label": "MISC"
+    },
+    {
+      "text": "Reconnaissance",
+      "start": 56364,
+      "end": 56378,
+      "label": "LOC"
+    },
+    {
+      "text": "Amitié",
+      "start": 56384,
+      "end": 56390,
+      "label": "LOC"
+    },
+    {
+      "text": "Amour",
+      "start": 56417,
+      "end": 56422,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 56501,
+      "end": 56504,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 56640,
+      "end": 56643,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 56667,
+      "end": 56677,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 56743,
+      "end": 56747,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sérizy",
+      "start": 56869,
+      "end": 56885,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 56964,
+      "end": 56968,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 56996,
+      "end": 57002,
+      "label": "LOC"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 57009,
+      "end": 57021,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 57062,
+      "end": 57065,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 57069,
+      "end": 57079,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 57121,
+      "end": 57127,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 57133,
+      "end": 57140,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 57170,
+      "end": 57175,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolte au Sérail",
+      "start": 57273,
+      "end": 57290,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 57333,
+      "end": 57337,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 57395,
+      "end": 57398,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 57438,
+      "end": 57445,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 57558,
+      "end": 57569,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 57594,
+      "end": 57601,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 57799,
+      "end": 57806,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 57849,
+      "end": 57853,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 58100,
+      "end": 58107,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 58458,
+      "end": 58461,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 58486,
+      "end": 58489,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 58628,
+      "end": 58631,
+      "label": "PER"
+    },
+    {
+      "text": "Adam !",
+      "start": 58793,
+      "end": 58799,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 58811,
+      "end": 58821,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 59005,
+      "end": 59008,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 59174,
+      "end": 59180,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 59218,
+      "end": 59228,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 59286,
+      "end": 59289,
+      "label": "LOC"
+    },
+    {
+      "text": "du Nord",
+      "start": 59310,
+      "end": 59317,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 59472,
+      "end": 59475,
+      "label": "LOC"
+    },
+    {
+      "text": "Pardonnez",
+      "start": 59557,
+      "end": 59566,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 59631,
+      "end": 59637,
+      "label": "ORG"
+    },
+    {
+      "text": "Champs Elysées",
+      "start": 59652,
+      "end": 59666,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 59723,
+      "end": 59733,
+      "label": "LOC"
+    },
+    {
+      "text": "Faut",
+      "start": 59783,
+      "end": 59787,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 59878,
+      "end": 59882,
+      "label": "PER"
+    },
+    {
+      "text": "la Pologne",
+      "start": 59912,
+      "end": 59922,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 59926,
+      "end": 59930,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 60078,
+      "end": 60081,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 60128,
+      "end": 60137,
+      "label": "LOC"
+    },
+    {
+      "text": "famille Bouthor",
+      "start": 60146,
+      "end": 60161,
+      "label": "PER"
+    },
+    {
+      "text": "Franconi",
+      "start": 60213,
+      "end": 60221,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque Olympique",
+      "start": 60303,
+      "end": 60319,
+      "label": "ORG"
+    },
+    {
+      "text": "Malaga",
+      "start": 60397,
+      "end": 60403,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 61156,
+      "end": 61166,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 61213,
+      "end": 61216,
+      "label": "PER"
+    },
+    {
+      "text": "Rachel",
+      "start": 61373,
+      "end": 61379,
+      "label": "PER"
+    },
+    {
+      "text": "Dorval",
+      "start": 61386,
+      "end": 61392,
+      "label": "LOC"
+    },
+    {
+      "text": "Cinti",
+      "start": 61397,
+      "end": 61402,
+      "label": "LOC"
+    },
+    {
+      "text": "Malibran",
+      "start": 61409,
+      "end": 61417,
+      "label": "LOC"
+    },
+    {
+      "text": "Grisi",
+      "start": 61422,
+      "end": 61427,
+      "label": "LOC"
+    },
+    {
+      "text": "Taglioni",
+      "start": 61434,
+      "end": 61442,
+      "label": "LOC"
+    },
+    {
+      "text": "Pasta",
+      "start": 61447,
+      "end": 61452,
+      "label": "LOC"
+    },
+    {
+      "text": "Elssler",
+      "start": 61458,
+      "end": 61465,
+      "label": "MISC"
+    },
+    {
+      "text": "cothurnes de Malaga",
+      "start": 61548,
+      "end": 61567,
+      "label": "MISC"
+    },
+    {
+      "text": "Colombine",
+      "start": 62115,
+      "end": 62124,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 62205,
+      "end": 62211,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 62213,
+      "end": 62219,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 62452,
+      "end": 62456,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 62464,
+      "end": 62467,
+      "label": "PER"
+    },
+    {
+      "text": "Péveril du Pic",
+      "start": 62497,
+      "end": 62511,
+      "label": "PER"
+    },
+    {
+      "text": "Insouciante",
+      "start": 62514,
+      "end": 62525,
+      "label": "PER"
+    },
+    {
+      "text": "Bohême",
+      "start": 62535,
+      "end": 62541,
+      "label": "LOC"
+    },
+    {
+      "text": "Shakspeare",
+      "start": 63091,
+      "end": 63101,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 63233,
+      "end": 63240,
+      "label": "MISC"
+    },
+    {
+      "text": "Auguste",
+      "start": 63246,
+      "end": 63253,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre",
+      "start": 63259,
+      "end": 63268,
+      "label": "PER"
+    },
+    {
+      "text": "Cassandre",
+      "start": 63331,
+      "end": 63340,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes ivre de Malaga",
+      "start": 63451,
+      "end": 63475,
+      "label": "MISC"
+    },
+    {
+      "text": "Malaga",
+      "start": 63514,
+      "end": 63520,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 63544,
+      "end": 63547,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lazare",
+      "start": 63581,
+      "end": 63593,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 63848,
+      "end": 63856,
+      "label": "MISC"
+    },
+    {
+      "text": "Polonais",
+      "start": 63882,
+      "end": 63890,
+      "label": "LOC"
+    },
+    {
+      "text": "Poniatowski",
+      "start": 63913,
+      "end": 63924,
+      "label": "LOC"
+    },
+    {
+      "text": "Elster",
+      "start": 63940,
+      "end": 63946,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 63963,
+      "end": 63972,
+      "label": "LOC"
+    },
+    {
+      "text": "Poniatowski",
+      "start": 64056,
+      "end": 64067,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 64175,
+      "end": 64182,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 64188,
+      "end": 64198,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 64273,
+      "end": 64280,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 64303,
+      "end": 64307,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 64387,
+      "end": 64393,
+      "label": "LOC"
+    },
+    {
+      "text": "A Saint Cloud",
+      "start": 64423,
+      "end": 64436,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 64903,
+      "end": 64910,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 65018,
+      "end": 65023,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 65034,
+      "end": 65040,
+      "label": "ORG"
+    },
+    {
+      "text": "Thaddée",
+      "start": 65043,
+      "end": 65050,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 65297,
+      "end": 65303,
+      "label": "LOC"
+    },
+    {
+      "text": "famille Bouthor",
+      "start": 65321,
+      "end": 65336,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Cloud",
+      "start": 65340,
+      "end": 65351,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque",
+      "start": 65422,
+      "end": 65428,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 65496,
+      "end": 65499,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 65554,
+      "end": 65561,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 65575,
+      "end": 65581,
+      "label": "ORG"
+    },
+    {
+      "text": "Malaga",
+      "start": 65706,
+      "end": 65712,
+      "label": "LOC"
+    },
+    {
+      "text": "Marguerite Turquet",
+      "start": 65724,
+      "end": 65742,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 65838,
+      "end": 65841,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 65867,
+      "end": 65873,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquet",
+      "start": 65898,
+      "end": 65905,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 65964,
+      "end": 65970,
+      "label": "ORG"
+    },
+    {
+      "text": "Malaga",
+      "start": 66014,
+      "end": 66020,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 66143,
+      "end": 66151,
+      "label": "MISC"
+    },
+    {
+      "text": "Merci",
+      "start": 66212,
+      "end": 66217,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah bah !",
+      "start": 66291,
+      "end": 66299,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 66354,
+      "end": 66361,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnol",
+      "start": 66425,
+      "end": 66433,
+      "label": "MISC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 66459,
+      "end": 66468,
+      "label": "LOC"
+    },
+    {
+      "text": "mame Chapuzot",
+      "start": 66509,
+      "end": 66522,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 66603,
+      "end": 66610,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Turquet",
+      "start": 66646,
+      "end": 66666,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 66848,
+      "end": 66854,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 66882,
+      "end": 66885,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque",
+      "start": 66907,
+      "end": 66913,
+      "label": "ORG"
+    },
+    {
+      "text": "Héloïse",
+      "start": 67005,
+      "end": 67012,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 67283,
+      "end": 67286,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 67402,
+      "end": 67408,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 67496,
+      "end": 67499,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 67663,
+      "end": 67669,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 67686,
+      "end": 67694,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 67725,
+      "end": 67728,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 67751,
+      "end": 67757,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 67829,
+      "end": 67837,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 67868,
+      "end": 67871,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite Turquet",
+      "start": 67933,
+      "end": 67951,
+      "label": "PER"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 67972,
+      "end": 67980,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah",
+      "start": 68066,
+      "end": 68069,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 68223,
+      "end": 68226,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Laginski",
+      "start": 68263,
+      "end": 68277,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 68279,
+      "end": 68285,
+      "label": "LOC"
+    },
+    {
+      "text": "Mille et une Nuits",
+      "start": 68327,
+      "end": 68345,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 68374,
+      "end": 68382,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 68433,
+      "end": 68441,
+      "label": "MISC"
+    },
+    {
+      "text": "Marguerite Turquet",
+      "start": 68445,
+      "end": 68463,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 68531,
+      "end": 68537,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 68544,
+      "end": 68552,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 68611,
+      "end": 68614,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 68753,
+      "end": 68759,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 68857,
+      "end": 68865,
+      "label": "MISC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 69063,
+      "end": 69071,
+      "label": "MISC"
+    },
+    {
+      "text": "Malaga",
+      "start": 69090,
+      "end": 69096,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 69184,
+      "end": 69192,
+      "label": "LOC"
+    },
+    {
+      "text": "Elbeuf",
+      "start": 69240,
+      "end": 69246,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 69333,
+      "end": 69336,
+      "label": "PER"
+    },
+    {
+      "text": "Marguerite Turquet",
+      "start": 69351,
+      "end": 69369,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque",
+      "start": 69468,
+      "end": 69474,
+      "label": "ORG"
+    },
+    {
+      "text": "Cirque",
+      "start": 69578,
+      "end": 69584,
+      "label": "ORG"
+    },
+    {
+      "text": "Malaga",
+      "start": 69622,
+      "end": 69628,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 69799,
+      "end": 69805,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 69856,
+      "end": 69862,
+      "label": "ORG"
+    },
+    {
+      "text": "Polonais",
+      "start": 69941,
+      "end": 69949,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 70057,
+      "end": 70063,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 70148,
+      "end": 70154,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 70240,
+      "end": 70246,
+      "label": "LOC"
+    },
+    {
+      "text": "bois de Boulogne",
+      "start": 70343,
+      "end": 70359,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 70445,
+      "end": 70451,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 70581,
+      "end": 70589,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 70719,
+      "end": 70725,
+      "label": "LOC"
+    },
+    {
+      "text": "Psyché",
+      "start": 70744,
+      "end": 70750,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 70790,
+      "end": 70793,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 71015,
+      "end": 71018,
+      "label": "PER"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 71051,
+      "end": 71059,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 71099,
+      "end": 71106,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Laginski",
+      "start": 71125,
+      "end": 71139,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 71163,
+      "end": 71166,
+      "label": "PER"
+    },
+    {
+      "text": "Pologne",
+      "start": 71224,
+      "end": 71231,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 71238,
+      "end": 71244,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 71246,
+      "end": 71252,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 71326,
+      "end": 71334,
+      "label": "MISC"
+    },
+    {
+      "text": "Malaga",
+      "start": 71517,
+      "end": 71523,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 71546,
+      "end": 71554,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 71681,
+      "end": 71685,
+      "label": "MISC"
+    },
+    {
+      "text": "Malaga",
+      "start": 72059,
+      "end": 72065,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 72073,
+      "end": 72076,
+      "label": "PER"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 72241,
+      "end": 72249,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 72269,
+      "end": 72279,
+      "label": "LOC"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 72338,
+      "end": 72361,
+      "label": "PER"
+    },
+    {
+      "text": "Bourgogne",
+      "start": 72366,
+      "end": 72375,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 72396,
+      "end": 72402,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 72415,
+      "end": 72422,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 72497,
+      "end": 72503,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 72581,
+      "end": 72589,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 72926,
+      "end": 72929,
+      "label": "PER"
+    },
+    {
+      "text": "Chapuzot",
+      "start": 73553,
+      "end": 73561,
+      "label": "MISC"
+    },
+    {
+      "text": "le cirque Bouthor",
+      "start": 74663,
+      "end": 74680,
+      "label": "MISC"
+    },
+    {
+      "text": "MARGUERITE TURQUET",
+      "start": 74971,
+      "end": 74989,
+      "label": "ORG"
+    },
+    {
+      "text": "Thaddée",
+      "start": 75019,
+      "end": 75026,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 75076,
+      "end": 75086,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 75126,
+      "end": 75129,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 75262,
+      "end": 75269,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 75403,
+      "end": 75407,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 75409,
+      "end": 75416,
+      "label": "LOC"
+    },
+    {
+      "text": "lettre de Malaga",
+      "start": 75457,
+      "end": 75473,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre Thaddée",
+      "start": 75477,
+      "end": 75491,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 75498,
+      "end": 75502,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 75529,
+      "end": 75532,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 75719,
+      "end": 75724,
+      "label": "PER"
+    },
+    {
+      "text": "lettre de Malaga",
+      "start": 75781,
+      "end": 75797,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 75799,
+      "end": 75809,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 75991,
+      "end": 75995,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 75997,
+      "end": 76003,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 76055,
+      "end": 76065,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 76193,
+      "end": 76197,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 76201,
+      "end": 76208,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 76267,
+      "end": 76271,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 76445,
+      "end": 76449,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 76608,
+      "end": 76614,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 76665,
+      "end": 76669,
+      "label": "PER"
+    },
+    {
+      "text": "Polonais",
+      "start": 76853,
+      "end": 76861,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 76905,
+      "end": 76915,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 76940,
+      "end": 76950,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 76995,
+      "end": 76999,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 77024,
+      "end": 77028,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 77051,
+      "end": 77057,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 77181,
+      "end": 77191,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 77238,
+      "end": 77241,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 77644,
+      "end": 77648,
+      "label": "PER"
+    },
+    {
+      "text": "Pétrarque",
+      "start": 78695,
+      "end": 78704,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 78710,
+      "end": 78715,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 78906,
+      "end": 78909,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 79061,
+      "end": 79064,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 79349,
+      "end": 79356,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 79940,
+      "end": 79947,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 80097,
+      "end": 80104,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 80229,
+      "end": 80233,
+      "label": "PER"
+    },
+    {
+      "text": "Jockey Club",
+      "start": 80270,
+      "end": 80281,
+      "label": "ORG"
+    },
+    {
+      "text": "Thaddée",
+      "start": 80329,
+      "end": 80336,
+      "label": "MISC"
+    },
+    {
+      "text": "Malaga",
+      "start": 80398,
+      "end": 80404,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 80494,
+      "end": 80496,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 80682,
+      "end": 80689,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 80732,
+      "end": 80736,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 80823,
+      "end": 80827,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 80885,
+      "end": 80891,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 81001,
+      "end": 81005,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 81013,
+      "end": 81016,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 81116,
+      "end": 81124,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 81179,
+      "end": 81187,
+      "label": "MISC"
+    },
+    {
+      "text": "Paz",
+      "start": 81315,
+      "end": 81318,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 81334,
+      "end": 81337,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 81346,
+      "end": 81349,
+      "label": "PER"
+    },
+    {
+      "text": "Cirque Olympique",
+      "start": 81555,
+      "end": 81571,
+      "label": "ORG"
+    },
+    {
+      "text": "cher",
+      "start": 81677,
+      "end": 81681,
+      "label": "LOC"
+    },
+    {
+      "text": "Rothschild",
+      "start": 81727,
+      "end": 81737,
+      "label": "ORG"
+    },
+    {
+      "text": "Clémentine",
+      "start": 81780,
+      "end": 81790,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 81843,
+      "end": 81850,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 81884,
+      "end": 81887,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher Paz",
+      "start": 82067,
+      "end": 82079,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 82181,
+      "end": 82185,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 82335,
+      "end": 82341,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 82347,
+      "end": 82354,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 82968,
+      "end": 82971,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 83033,
+      "end": 83039,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 83138,
+      "end": 83144,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyons",
+      "start": 83224,
+      "end": 83230,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 83303,
+      "end": 83309,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 83420,
+      "end": 83426,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 83519,
+      "end": 83529,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 83617,
+      "end": 83620,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 83978,
+      "end": 83984,
+      "label": "MISC"
+    },
+    {
+      "text": "hôtel Laginski",
+      "start": 84010,
+      "end": 84024,
+      "label": "LOC"
+    },
+    {
+      "text": "Afrique",
+      "start": 84086,
+      "end": 84093,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 84312,
+      "end": 84318,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 84450,
+      "end": 84455,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 84578,
+      "end": 84584,
+      "label": "LOC"
+    },
+    {
+      "text": "parisiens",
+      "start": 84639,
+      "end": 84648,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Honoré",
+      "start": 85046,
+      "end": 85058,
+      "label": "PER"
+    },
+    {
+      "text": "Pandémonium",
+      "start": 85064,
+      "end": 85075,
+      "label": "LOC"
+    },
+    {
+      "text": "Musard",
+      "start": 85085,
+      "end": 85091,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 85096,
+      "end": 85104,
+      "label": "PER"
+    },
+    {
+      "text": "Auber",
+      "start": 85270,
+      "end": 85275,
+      "label": "LOC"
+    },
+    {
+      "text": "Gustave",
+      "start": 85348,
+      "end": 85355,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 85506,
+      "end": 85513,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 85585,
+      "end": 85591,
+      "label": "LOC"
+    },
+    {
+      "text": "bal Musard",
+      "start": 85648,
+      "end": 85658,
+      "label": "PER"
+    },
+    {
+      "text": "Valentino",
+      "start": 86031,
+      "end": 86040,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 86087,
+      "end": 86094,
+      "label": "ORG"
+    },
+    {
+      "text": "Robert Macaire",
+      "start": 86098,
+      "end": 86112,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 86274,
+      "end": 86278,
+      "label": "MISC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 86283,
+      "end": 86293,
+      "label": "LOC"
+    },
+    {
+      "text": "Polonais",
+      "start": 86318,
+      "end": 86326,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 86396,
+      "end": 86403,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 86522,
+      "end": 86525,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 86551,
+      "end": 86555,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 86577,
+      "end": 86587,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 86595,
+      "end": 86602,
+      "label": "ORG"
+    },
+    {
+      "text": "Thaddée",
+      "start": 86700,
+      "end": 86707,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 86821,
+      "end": 86827,
+      "label": "LOC"
+    },
+    {
+      "text": "Musard",
+      "start": 86977,
+      "end": 86983,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 87123,
+      "end": 87127,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 87240,
+      "end": 87246,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 87552,
+      "end": 87563,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 87753,
+      "end": 87758,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 87771,
+      "end": 87778,
+      "label": "LOC"
+    },
+    {
+      "text": "Varsovie",
+      "start": 87782,
+      "end": 87790,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 87801,
+      "end": 87808,
+      "label": "LOC"
+    },
+    {
+      "text": "Cirque",
+      "start": 87812,
+      "end": 87818,
+      "label": "ORG"
+    },
+    {
+      "text": "Guéri",
+      "start": 87867,
+      "end": 87872,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 87890,
+      "end": 87893,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 87943,
+      "end": 87953,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 88348,
+      "end": 88351,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 88356,
+      "end": 88366,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 88586,
+      "end": 88596,
+      "label": "PER"
+    },
+    {
+      "text": "Constantin",
+      "start": 88648,
+      "end": 88658,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 88748,
+      "end": 88758,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 88903,
+      "end": 88910,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 89114,
+      "end": 89118,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 89623,
+      "end": 89626,
+      "label": "PER"
+    },
+    {
+      "text": "Mitgislas",
+      "start": 89642,
+      "end": 89651,
+      "label": "ORG"
+    },
+    {
+      "text": "Malaga",
+      "start": 89678,
+      "end": 89684,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 89750,
+      "end": 89754,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 89784,
+      "end": 89794,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 90078,
+      "end": 90085,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 90115,
+      "end": 90125,
+      "label": "LOC"
+    },
+    {
+      "text": "de Clémentine",
+      "start": 90395,
+      "end": 90408,
+      "label": "PER"
+    },
+    {
+      "text": "Alighieri",
+      "start": 90457,
+      "end": 90466,
+      "label": "ORG"
+    },
+    {
+      "text": "Clémentine",
+      "start": 90537,
+      "end": 90547,
+      "label": "LOC"
+    },
+    {
+      "text": "Méduse",
+      "start": 90675,
+      "end": 90681,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 90733,
+      "end": 90743,
+      "label": "LOC"
+    },
+    {
+      "text": "Bianchon",
+      "start": 90845,
+      "end": 90853,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 91036,
+      "end": 91043,
+      "label": "LOC"
+    },
+    {
+      "text": "Je l'aimais sans aveuglement",
+      "start": 91200,
+      "end": 91228,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 91321,
+      "end": 91328,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 91367,
+      "end": 91377,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 91791,
+      "end": 91795,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 91936,
+      "end": 91943,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 92030,
+      "end": 92034,
+      "label": "PER"
+    },
+    {
+      "text": "Vivra t",
+      "start": 92107,
+      "end": 92114,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 92285,
+      "end": 92289,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 92320,
+      "end": 92325,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 92608,
+      "end": 92615,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 92649,
+      "end": 92659,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 92845,
+      "end": 92849,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 93083,
+      "end": 93089,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 93468,
+      "end": 93478,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 93496,
+      "end": 93503,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre Malaga",
+      "start": 93659,
+      "end": 93672,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée évanoui",
+      "start": 93799,
+      "end": 93814,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 93921,
+      "end": 93925,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 93944,
+      "end": 93947,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 94322,
+      "end": 94332,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam !",
+      "start": 94446,
+      "end": 94452,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 94563,
+      "end": 94573,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 94656,
+      "end": 94659,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 94714,
+      "end": 94722,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 94779,
+      "end": 94789,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 94793,
+      "end": 94797,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 94798,
+      "end": 94804,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 94960,
+      "end": 94983,
+      "label": "PER"
+    },
+    {
+      "text": "Russie",
+      "start": 95035,
+      "end": 95041,
+      "label": "LOC"
+    },
+    {
+      "text": "Paz",
+      "start": 95075,
+      "end": 95078,
+      "label": "PER"
+    },
+    {
+      "text": "comte Adam",
+      "start": 95157,
+      "end": 95167,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 95336,
+      "end": 95339,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 95555,
+      "end": 95565,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 95569,
+      "end": 95573,
+      "label": "PER"
+    },
+    {
+      "text": "porte Maillot",
+      "start": 95707,
+      "end": 95720,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 95722,
+      "end": 95726,
+      "label": "PER"
+    },
+    {
+      "text": "Thaddée",
+      "start": 95816,
+      "end": 95823,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 95996,
+      "end": 96006,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 96015,
+      "end": 96022,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 96134,
+      "end": 96138,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 96143,
+      "end": 96147,
+      "label": "MISC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 96158,
+      "end": 96165,
+      "label": "LOC"
+    },
+    {
+      "text": "Nicolas",
+      "start": 96271,
+      "end": 96278,
+      "label": "MISC"
+    },
+    {
+      "text": "Khiva",
+      "start": 96362,
+      "end": 96367,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 96393,
+      "end": 96397,
+      "label": "PER"
+    },
+    {
+      "text": "Malaga",
+      "start": 96473,
+      "end": 96479,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Pétersbourg",
+      "start": 96608,
+      "end": 96625,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 96701,
+      "end": 96707,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 96832,
+      "end": 96838,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 96841,
+      "end": 96847,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 96865,
+      "end": 96871,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 97011,
+      "end": 97021,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 97053,
+      "end": 97059,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 97147,
+      "end": 97157,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulogne",
+      "start": 97224,
+      "end": 97232,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 97253,
+      "end": 97264,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 97396,
+      "end": 97408,
+      "label": "LOC"
+    },
+    {
+      "text": "Dames",
+      "start": 97434,
+      "end": 97439,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Asie",
+      "start": 97506,
+      "end": 97512,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Elysées",
+      "start": 97710,
+      "end": 97724,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 97826,
+      "end": 97832,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 97837,
+      "end": 97843,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 97915,
+      "end": 97925,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 97950,
+      "end": 97956,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 97959,
+      "end": 97968,
+      "label": "PER"
+    },
+    {
+      "text": "Lequel",
+      "start": 98043,
+      "end": 98049,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 98150,
+      "end": 98157,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Elysées",
+      "start": 98232,
+      "end": 98246,
+      "label": "LOC"
+    },
+    {
+      "text": "le Cirque !",
+      "start": 98304,
+      "end": 98315,
+      "label": "MISC"
+    },
+    {
+      "text": "de Russie",
+      "start": 98370,
+      "end": 98379,
+      "label": "LOC"
+    },
+    {
+      "text": "le Havre",
+      "start": 98430,
+      "end": 98438,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 98483,
+      "end": 98487,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 98512,
+      "end": 98516,
+      "label": "PER"
+    },
+    {
+      "text": "Paz",
+      "start": 98569,
+      "end": 98572,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 98774,
+      "end": 98784,
+      "label": "LOC"
+    },
+    {
+      "text": "Malaga",
+      "start": 98828,
+      "end": 98834,
+      "label": "LOC"
+    },
+    {
+      "text": "Clémentine",
+      "start": 98928,
+      "end": 98938,
+      "label": "LOC"
+    },
+    {
+      "text": "Turquet",
+      "start": 99003,
+      "end": 99010,
+      "label": "LOC"
+    },
+    {
+      "text": "réserve absolue de Thad",
+      "start": 99065,
+      "end": 99088,
+      "label": "LOC"
+    },
+    {
+      "text": "Constantin",
+      "start": 99277,
+      "end": 99287,
+      "label": "PER"
+    },
+    {
+      "text": "Clémentine",
+      "start": 99296,
+      "end": 99306,
+      "label": "LOC"
+    },
+    {
+      "text": "Thaddée",
+      "start": 99330,
+      "end": 99337,
+      "label": "LOC"
+    },
+    {
+      "text": "Comtesse",
+      "start": 99374,
+      "end": 99382,
+      "label": "PER"
+    },
+    {
+      "text": "Caucase",
+      "start": 99407,
+      "end": 99414,
+      "label": "LOC"
+    },
+    {
+      "text": "Adam",
+      "start": 99629,
+      "end": 99633,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 99999,
+      "end": 100000,
+      "label": "LOC"
+    }
+  ]
+}

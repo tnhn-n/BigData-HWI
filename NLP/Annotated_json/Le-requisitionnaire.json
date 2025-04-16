@@ -1,0 +1,892 @@
+{
+  "entities": [
+    {
+      "text": "RÉQUISITIONNAIRE",
+      "start": 3,
+      "end": 19,
+      "label": "ORG"
+    },
+    {
+      "text": "Tantôt",
+      "start": 23,
+      "end": 29,
+      "label": "LOC"
+    },
+    {
+      "text": "Temps",
+      "start": 132,
+      "end": 137,
+      "label": "LOC"
+    },
+    {
+      "text": "Distance",
+      "start": 144,
+      "end": 152,
+      "label": "MISC"
+    },
+    {
+      "text": "Hist",
+      "start": 204,
+      "end": 208,
+      "label": "LOC"
+    },
+    {
+      "text": "intell",
+      "start": 210,
+      "end": 216,
+      "label": "LOC"
+    },
+    {
+      "text": "MON CHER ALBERT MARCHAND",
+      "start": 244,
+      "end": 268,
+      "label": "MISC"
+    },
+    {
+      "text": "RIBELLERIE",
+      "start": 275,
+      "end": 285,
+      "label": "ORG"
+    },
+    {
+      "text": "Tours",
+      "start": 287,
+      "end": 292,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 374,
+      "end": 382,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 414,
+      "end": 427,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 691,
+      "end": 704,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 886,
+      "end": 894,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 923,
+      "end": 928,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 1050,
+      "end": 1063,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 1422,
+      "end": 1435,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 1492,
+      "end": 1500,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 1619,
+      "end": 1632,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Dey",
+      "start": 1702,
+      "end": 1715,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 1874,
+      "end": 1882,
+      "label": "LOC"
+    },
+    {
+      "text": "La Révolution",
+      "start": 2041,
+      "end": 2054,
+      "label": "MISC"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 2080,
+      "end": 2095,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 2105,
+      "end": 2118,
+      "label": "PER"
+    },
+    {
+      "text": "Gracieuse",
+      "start": 2414,
+      "end": 2423,
+      "label": "ORG"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 2959,
+      "end": 2974,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 4525,
+      "end": 4538,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 5162,
+      "end": 5175,
+      "label": "PER"
+    },
+    {
+      "text": "Faculté",
+      "start": 5956,
+      "end": 5963,
+      "label": "ORG"
+    },
+    {
+      "text": "Versailles",
+      "start": 6126,
+      "end": 6136,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 6637,
+      "end": 6650,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 6933,
+      "end": 6943,
+      "label": "MISC"
+    },
+    {
+      "text": "Carentan",
+      "start": 6992,
+      "end": 7000,
+      "label": "LOC"
+    },
+    {
+      "text": "Convention",
+      "start": 7176,
+      "end": 7186,
+      "label": "MISC"
+    },
+    {
+      "text": "Carentan",
+      "start": 7664,
+      "end": 7672,
+      "label": "LOC"
+    },
+    {
+      "text": "Caen",
+      "start": 8343,
+      "end": 8347,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 8868,
+      "end": 8881,
+      "label": "PER"
+    },
+    {
+      "text": "Normands",
+      "start": 8982,
+      "end": 8990,
+      "label": "MISC"
+    },
+    {
+      "text": "Révolution",
+      "start": 9287,
+      "end": 9297,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 9903,
+      "end": 9916,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 9970,
+      "end": 9978,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 10293,
+      "end": 10306,
+      "label": "PER"
+    },
+    {
+      "text": "Femmes",
+      "start": 10760,
+      "end": 10766,
+      "label": "LOC"
+    },
+    {
+      "text": "Brigitte",
+      "start": 11070,
+      "end": 11078,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 11200,
+      "end": 11208,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 11342,
+      "end": 11355,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 11894,
+      "end": 11907,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 11960,
+      "end": 11968,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 12423,
+      "end": 12436,
+      "label": "PER"
+    },
+    {
+      "text": "Vendée",
+      "start": 12500,
+      "end": 12506,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 12665,
+      "end": 12672,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéens",
+      "start": 12679,
+      "end": 12687,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12759,
+      "end": 12764,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 13571,
+      "end": 13584,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 14549,
+      "end": 14562,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 14661,
+      "end": 14666,
+      "label": "LOC"
+    },
+    {
+      "text": "Lisez",
+      "start": 14844,
+      "end": 14849,
+      "label": "PER"
+    },
+    {
+      "text": "expédition de Granville",
+      "start": 15500,
+      "end": 15523,
+      "label": "MISC"
+    },
+    {
+      "text": "Carentan",
+      "start": 15816,
+      "end": 15824,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 16090,
+      "end": 16103,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 16764,
+      "end": 16772,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 16792,
+      "end": 16805,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 17220,
+      "end": 17233,
+      "label": "PER"
+    },
+    {
+      "text": "fameux Tronchin",
+      "start": 17294,
+      "end": 17309,
+      "label": "MISC"
+    },
+    {
+      "text": "Tronchin",
+      "start": 17606,
+      "end": 17614,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 17750,
+      "end": 17758,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 18060,
+      "end": 18073,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 18364,
+      "end": 18372,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 19398,
+      "end": 19406,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 20525,
+      "end": 20538,
+      "label": "PER"
+    },
+    {
+      "text": "boston",
+      "start": 20600,
+      "end": 20606,
+      "label": "LOC"
+    },
+    {
+      "text": "whist",
+      "start": 20626,
+      "end": 20631,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 20870,
+      "end": 20878,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 21238,
+      "end": 21246,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 21653,
+      "end": 21661,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 22280,
+      "end": 22288,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 22471,
+      "end": 22475,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 22476,
+      "end": 22482,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 22582,
+      "end": 22590,
+      "label": "PER"
+    },
+    {
+      "text": "Bible",
+      "start": 22618,
+      "end": 22623,
+      "label": "MISC"
+    },
+    {
+      "text": "Cottin",
+      "start": 22669,
+      "end": 22675,
+      "label": "PER"
+    },
+    {
+      "text": "Évangile de saint Jean",
+      "start": 22685,
+      "end": 22707,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 22791,
+      "end": 22795,
+      "label": "MISC"
+    },
+    {
+      "text": "Pauvre monsieur Auguste",
+      "start": 22964,
+      "end": 22987,
+      "label": "MISC"
+    },
+    {
+      "text": "Brigitte",
+      "start": 22997,
+      "end": 23005,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 23513,
+      "end": 23521,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 23973,
+      "end": 23986,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 24018,
+      "end": 24023,
+      "label": "LOC"
+    },
+    {
+      "text": "Cherbourg",
+      "start": 24026,
+      "end": 24035,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 24134,
+      "end": 24142,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 24264,
+      "end": 24274,
+      "label": "LOC"
+    },
+    {
+      "text": "Cherbourg",
+      "start": 24721,
+      "end": 24730,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 24751,
+      "end": 24759,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 25065,
+      "end": 25073,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 25360,
+      "end": 25364,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 25464,
+      "end": 25479,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 25514,
+      "end": 25522,
+      "label": "LOC"
+    },
+    {
+      "text": "Julien Jussieu",
+      "start": 26394,
+      "end": 26408,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 26525,
+      "end": 26530,
+      "label": "LOC"
+    },
+    {
+      "text": "Tes",
+      "start": 26534,
+      "end": 26537,
+      "label": "LOC"
+    },
+    {
+      "text": "Normand",
+      "start": 26577,
+      "end": 26584,
+      "label": "LOC"
+    },
+    {
+      "text": "Quelque",
+      "start": 26653,
+      "end": 26660,
+      "label": "LOC"
+    },
+    {
+      "text": "Carentan",
+      "start": 26693,
+      "end": 26701,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 26878,
+      "end": 26883,
+      "label": "LOC"
+    },
+    {
+      "text": "Jussieu",
+      "start": 26950,
+      "end": 26957,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 27111,
+      "end": 27124,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 27407,
+      "end": 27411,
+      "label": "MISC"
+    },
+    {
+      "text": "Carentan",
+      "start": 27563,
+      "end": 27571,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 27655,
+      "end": 27668,
+      "label": "PER"
+    },
+    {
+      "text": "Citoyenne",
+      "start": 28273,
+      "end": 28282,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 28401,
+      "end": 28411,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Dey",
+      "start": 28415,
+      "end": 28428,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 28475,
+      "end": 28484,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 28522,
+      "end": 28526,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 28527,
+      "end": 28533,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 29168,
+      "end": 29172,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame de Dey",
+      "start": 29738,
+      "end": 29751,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 29891,
+      "end": 29895,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 30168,
+      "end": 30172,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 30173,
+      "end": 30179,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 30276,
+      "end": 30282,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 30303,
+      "end": 30311,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 30475,
+      "end": 30483,
+      "label": "PER"
+    },
+    {
+      "text": "Oh ! mon enfant",
+      "start": 31043,
+      "end": 31058,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 31165,
+      "end": 31171,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 31190,
+      "end": 31194,
+      "label": "MISC"
+    },
+    {
+      "text": "cria t",
+      "start": 31213,
+      "end": 31219,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 31377,
+      "end": 31385,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 31467,
+      "end": 31480,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 31484,
+      "end": 31488,
+      "label": "MISC"
+    },
+    {
+      "text": "Brigitte",
+      "start": 31537,
+      "end": 31545,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 31801,
+      "end": 31809,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 31957,
+      "end": 31964,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 32000,
+      "end": 32007,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 32052,
+      "end": 32059,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 32103,
+      "end": 32111,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 32119,
+      "end": 32132,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 32134,
+      "end": 32142,
+      "label": "PER"
+    },
+    {
+      "text": "Tais toi",
+      "start": 32159,
+      "end": 32167,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 32356,
+      "end": 32369,
+      "label": "PER"
+    },
+    {
+      "text": "Brigitte",
+      "start": 32917,
+      "end": 32925,
+      "label": "PER"
+    },
+    {
+      "text": "Auguste",
+      "start": 33173,
+      "end": 33180,
+      "label": "PER"
+    },
+    {
+      "text": "Marseillaise",
+      "start": 33205,
+      "end": 33217,
+      "label": "MISC"
+    },
+    {
+      "text": "Brigitte",
+      "start": 33261,
+      "end": 33269,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 33271,
+      "end": 33273,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Dey",
+      "start": 33415,
+      "end": 33428,
+      "label": "PER"
+    },
+    {
+      "text": "Carentan",
+      "start": 33439,
+      "end": 33447,
+      "label": "LOC"
+    },
+    {
+      "text": "Morbihan",
+      "start": 33480,
+      "end": 33488,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 33822,
+      "end": 33827,
+      "label": "LOC"
+    }
+  ]
+}

@@ -1,0 +1,4762 @@
+{
+  "entities": [
+    {
+      "text": "COUSIN PONS",
+      "start": 3,
+      "end": 14,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 217,
+      "end": 225,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 405,
+      "end": 410,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 720,
+      "end": 725,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 828,
+      "end": 836,
+      "label": "LOC"
+    },
+    {
+      "text": "Hyacinthe",
+      "start": 1072,
+      "end": 1081,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 1344,
+      "end": 1349,
+      "label": "LOC"
+    },
+    {
+      "text": "Hyacinthes",
+      "start": 1355,
+      "end": 1365,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 1753,
+      "end": 1761,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 2360,
+      "end": 2368,
+      "label": "PER"
+    },
+    {
+      "text": "paix d'Amiens",
+      "start": 2516,
+      "end": 2529,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 2535,
+      "end": 2542,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 2796,
+      "end": 2802,
+      "label": "LOC"
+    },
+    {
+      "text": "casimir vert",
+      "start": 2997,
+      "end": 3009,
+      "label": "PER"
+    },
+    {
+      "text": "Alcibiade",
+      "start": 3203,
+      "end": 3212,
+      "label": "PER"
+    },
+    {
+      "text": "Empire",
+      "start": 3345,
+      "end": 3351,
+      "label": "PER"
+    },
+    {
+      "text": "Empire",
+      "start": 3376,
+      "end": 3382,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 3408,
+      "end": 3416,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Empire",
+      "start": 3573,
+      "end": 3581,
+      "label": "LOC"
+    },
+    {
+      "text": "Chinois",
+      "start": 4377,
+      "end": 4384,
+      "label": "LOC"
+    },
+    {
+      "text": "Don Quichotte",
+      "start": 4967,
+      "end": 4980,
+      "label": "MISC"
+    },
+    {
+      "text": "Cervantes",
+      "start": 5060,
+      "end": 5069,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 5541,
+      "end": 5549,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 6443,
+      "end": 6448,
+      "label": "LOC"
+    },
+    {
+      "text": "Garat",
+      "start": 6615,
+      "end": 6620,
+      "label": "LOC"
+    },
+    {
+      "text": "Beau pour charmer les femmes charmantes",
+      "start": 6713,
+      "end": 6752,
+      "label": "MISC"
+    },
+    {
+      "text": "Incroyables",
+      "start": 7472,
+      "end": 7483,
+      "label": "LOC"
+    },
+    {
+      "text": "David",
+      "start": 7587,
+      "end": 7592,
+      "label": "PER"
+    },
+    {
+      "text": "Jacob",
+      "start": 7630,
+      "end": 7635,
+      "label": "LOC"
+    },
+    {
+      "text": "Empire",
+      "start": 8718,
+      "end": 8724,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 8835,
+      "end": 8840,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 8976,
+      "end": 8984,
+      "label": "LOC"
+    },
+    {
+      "text": "Art",
+      "start": 9001,
+      "end": 9004,
+      "label": "LOC"
+    },
+    {
+      "text": "gamin de Paris",
+      "start": 9206,
+      "end": 9220,
+      "label": "LOC"
+    },
+    {
+      "text": "Institut",
+      "start": 9451,
+      "end": 9459,
+      "label": "LOC"
+    },
+    {
+      "text": "Académie de Rome",
+      "start": 9489,
+      "end": 9505,
+      "label": "ORG"
+    },
+    {
+      "text": "Sylvain Pons",
+      "start": 9522,
+      "end": 9534,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 9936,
+      "end": 9943,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 10065,
+      "end": 10073,
+      "label": "LOC"
+    },
+    {
+      "text": "Concours",
+      "start": 10224,
+      "end": 10232,
+      "label": "ORG"
+    },
+    {
+      "text": "France",
+      "start": 10253,
+      "end": 10259,
+      "label": "LOC"
+    },
+    {
+      "text": "Poisson de Marigny",
+      "start": 10350,
+      "end": 10368,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 10382,
+      "end": 10401,
+      "label": "PER"
+    },
+    {
+      "text": "Beaux Arts",
+      "start": 10435,
+      "end": 10445,
+      "label": "MISC"
+    },
+    {
+      "text": "Égyptiens",
+      "start": 10807,
+      "end": 10816,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 10986,
+      "end": 10995,
+      "label": "LOC"
+    },
+    {
+      "text": "Concours",
+      "start": 11054,
+      "end": 11062,
+      "label": "ORG"
+    },
+    {
+      "text": "Greuze",
+      "start": 11309,
+      "end": 11315,
+      "label": "LOC"
+    },
+    {
+      "text": "Watteau",
+      "start": 11319,
+      "end": 11326,
+      "label": "LOC"
+    },
+    {
+      "text": "Félicien David",
+      "start": 11328,
+      "end": 11342,
+      "label": "PER"
+    },
+    {
+      "text": "Pagnest",
+      "start": 11346,
+      "end": 11353,
+      "label": "MISC"
+    },
+    {
+      "text": "Géricault",
+      "start": 11355,
+      "end": 11364,
+      "label": "PER"
+    },
+    {
+      "text": "Decamps",
+      "start": 11368,
+      "end": 11375,
+      "label": "LOC"
+    },
+    {
+      "text": "Auber",
+      "start": 11377,
+      "end": 11382,
+      "label": "PER"
+    },
+    {
+      "text": "David d'Angers",
+      "start": 11386,
+      "end": 11400,
+      "label": "PER"
+    },
+    {
+      "text": "Eugène Delacroix",
+      "start": 11402,
+      "end": 11418,
+      "label": "PER"
+    },
+    {
+      "text": "Meissonier",
+      "start": 11422,
+      "end": 11432,
+      "label": "PER"
+    },
+    {
+      "text": "Vocation",
+      "start": 11544,
+      "end": 11552,
+      "label": "MISC"
+    },
+    {
+      "text": "État",
+      "start": 11567,
+      "end": 11571,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 11574,
+      "end": 11578,
+      "label": "LOC"
+    },
+    {
+      "text": "Sylvain Pons",
+      "start": 11612,
+      "end": 11624,
+      "label": "PER"
+    },
+    {
+      "text": "Pensée",
+      "start": 11781,
+      "end": 11787,
+      "label": "LOC"
+    },
+    {
+      "text": "Bric",
+      "start": 11834,
+      "end": 11838,
+      "label": "MISC"
+    },
+    {
+      "text": "Brac",
+      "start": 11841,
+      "end": 11845,
+      "label": "MISC"
+    },
+    {
+      "text": "Euterpe",
+      "start": 11860,
+      "end": 11867,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11882,
+      "end": 11887,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 12068,
+      "end": 12072,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 12293,
+      "end": 12299,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 12340,
+      "end": 12344,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 12373,
+      "end": 12379,
+      "label": "LOC"
+    },
+    {
+      "text": "Milan",
+      "start": 12381,
+      "end": 12386,
+      "label": "LOC"
+    },
+    {
+      "text": "Florence",
+      "start": 12388,
+      "end": 12396,
+      "label": "LOC"
+    },
+    {
+      "text": "Bologne",
+      "start": 12398,
+      "end": 12405,
+      "label": "LOC"
+    },
+    {
+      "text": "Naples",
+      "start": 12407,
+      "end": 12413,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 12593,
+      "end": 12597,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 13200,
+      "end": 13206,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13262,
+      "end": 13267,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 13281,
+      "end": 13285,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 13494,
+      "end": 13498,
+      "label": "PER"
+    },
+    {
+      "text": "Sylvain Pons",
+      "start": 13696,
+      "end": 13708,
+      "label": "PER"
+    },
+    {
+      "text": "Kreisler d'Hoffmann",
+      "start": 14164,
+      "end": 14183,
+      "label": "LOC"
+    },
+    {
+      "text": "Hatchischins",
+      "start": 14258,
+      "end": 14270,
+      "label": "LOC"
+    },
+    {
+      "text": "Tériaskis",
+      "start": 14279,
+      "end": 14288,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 14435,
+      "end": 14440,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 14544,
+      "end": 14548,
+      "label": "PER"
+    },
+    {
+      "text": "Contrepoint",
+      "start": 14728,
+      "end": 14739,
+      "label": "LOC"
+    },
+    {
+      "text": "Rossini",
+      "start": 14929,
+      "end": 14936,
+      "label": "PER"
+    },
+    {
+      "text": "Hérold",
+      "start": 14943,
+      "end": 14949,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 15140,
+      "end": 15147,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 15166,
+      "end": 15170,
+      "label": "PER"
+    },
+    {
+      "text": "Chenavard",
+      "start": 15247,
+      "end": 15256,
+      "label": "PER"
+    },
+    {
+      "text": "Ruysdaël",
+      "start": 15364,
+      "end": 15372,
+      "label": "ORG"
+    },
+    {
+      "text": "Hobbéma",
+      "start": 15377,
+      "end": 15384,
+      "label": "LOC"
+    },
+    {
+      "text": "Holbein",
+      "start": 15389,
+      "end": 15396,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 15401,
+      "end": 15408,
+      "label": "PER"
+    },
+    {
+      "text": "Murillo",
+      "start": 15413,
+      "end": 15420,
+      "label": "PER"
+    },
+    {
+      "text": "Greuze",
+      "start": 15425,
+      "end": 15431,
+      "label": "LOC"
+    },
+    {
+      "text": "Sébastien del Piombo",
+      "start": 15436,
+      "end": 15456,
+      "label": "PER"
+    },
+    {
+      "text": "Giorgione",
+      "start": 15461,
+      "end": 15470,
+      "label": "PER"
+    },
+    {
+      "text": "Albert Durer",
+      "start": 15475,
+      "end": 15487,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 15546,
+      "end": 15550,
+      "label": "PER"
+    },
+    {
+      "text": "Rares",
+      "start": 15784,
+      "end": 15789,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 15984,
+      "end": 15988,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 15997,
+      "end": 16002,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 16070,
+      "end": 16074,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 16110,
+      "end": 16114,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16288,
+      "end": 16293,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 16518,
+      "end": 16524,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnats",
+      "start": 16557,
+      "end": 16567,
+      "label": "LOC"
+    },
+    {
+      "text": "Bande Noire",
+      "start": 16590,
+      "end": 16601,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 16655,
+      "end": 16664,
+      "label": "LOC"
+    },
+    {
+      "text": "Lepautre",
+      "start": 16850,
+      "end": 16858,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavallée Poussin",
+      "start": 16864,
+      "end": 16880,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XV",
+      "start": 16910,
+      "end": 16918,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 16929,
+      "end": 16938,
+      "label": "PER"
+    },
+    {
+      "text": "Cabinet des Estampes",
+      "start": 17064,
+      "end": 17084,
+      "label": "ORG"
+    },
+    {
+      "text": "Pons",
+      "start": 17139,
+      "end": 17143,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 17332,
+      "end": 17336,
+      "label": "PER"
+    },
+    {
+      "text": "Bricabraquologie",
+      "start": 17413,
+      "end": 17429,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 17517,
+      "end": 17521,
+      "label": "PER"
+    },
+    {
+      "text": "Feu Dusommerard",
+      "start": 17563,
+      "end": 17578,
+      "label": "PER"
+    },
+    {
+      "text": "Bric",
+      "start": 17645,
+      "end": 17649,
+      "label": "MISC"
+    },
+    {
+      "text": "Brac",
+      "start": 17652,
+      "end": 17656,
+      "label": "PER"
+    },
+    {
+      "text": "musée Pons",
+      "start": 17695,
+      "end": 17705,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauvageot",
+      "start": 17760,
+      "end": 17769,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 17777,
+      "end": 17781,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvageot",
+      "start": 17794,
+      "end": 17803,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Sauvageot",
+      "start": 17847,
+      "end": 17865,
+      "label": "ORG"
+    },
+    {
+      "text": "Pons",
+      "start": 17882,
+      "end": 17886,
+      "label": "PER"
+    },
+    {
+      "text": "Main",
+      "start": 18196,
+      "end": 18200,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 18232,
+      "end": 18236,
+      "label": "PER"
+    },
+    {
+      "text": "rue des Jeûneurs",
+      "start": 18362,
+      "end": 18378,
+      "label": "LOC"
+    },
+    {
+      "text": "Bric",
+      "start": 18458,
+      "end": 18462,
+      "label": "MISC"
+    },
+    {
+      "text": "Brac",
+      "start": 18465,
+      "end": 18469,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 18977,
+      "end": 18982,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 19476,
+      "end": 19480,
+      "label": "PER"
+    },
+    {
+      "text": "Travail",
+      "start": 19668,
+      "end": 19675,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 19787,
+      "end": 19791,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 19825,
+      "end": 19829,
+      "label": "PER"
+    },
+    {
+      "text": "Bric",
+      "start": 19887,
+      "end": 19891,
+      "label": "MISC"
+    },
+    {
+      "text": "Brac",
+      "start": 19894,
+      "end": 19898,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 20087,
+      "end": 20095,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 20303,
+      "end": 20307,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolo",
+      "start": 20345,
+      "end": 20351,
+      "label": "PER"
+    },
+    {
+      "text": "Paër",
+      "start": 20357,
+      "end": 20361,
+      "label": "MISC"
+    },
+    {
+      "text": "Berton",
+      "start": 20369,
+      "end": 20375,
+      "label": "PER"
+    },
+    {
+      "text": "Feydeau",
+      "start": 20661,
+      "end": 20668,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 20846,
+      "end": 20855,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 20962,
+      "end": 20966,
+      "label": "PER"
+    },
+    {
+      "text": "Molière",
+      "start": 21031,
+      "end": 21038,
+      "label": "PER"
+    },
+    {
+      "text": "Éliante",
+      "start": 21064,
+      "end": 21071,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 21309,
+      "end": 21313,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 21576,
+      "end": 21584,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 21684,
+      "end": 21689,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 21761,
+      "end": 21768,
+      "label": "ORG"
+    },
+    {
+      "text": "Sociétés",
+      "start": 21792,
+      "end": 21800,
+      "label": "ORG"
+    },
+    {
+      "text": "Société linière",
+      "start": 21848,
+      "end": 21863,
+      "label": "ORG"
+    },
+    {
+      "text": "On est arrivé jusqu'à chercher des plaies sociales",
+      "start": 21918,
+      "end": 21968,
+      "label": "MISC"
+    },
+    {
+      "text": "Volupté",
+      "start": 22167,
+      "end": 22174,
+      "label": "LOC"
+    },
+    {
+      "text": "Gueule",
+      "start": 22354,
+      "end": 22360,
+      "label": "LOC"
+    },
+    {
+      "text": "la Table",
+      "start": 22479,
+      "end": 22487,
+      "label": "ORG"
+    },
+    {
+      "text": "La Table",
+      "start": 22498,
+      "end": 22506,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22514,
+      "end": 22519,
+      "label": "LOC"
+    },
+    {
+      "text": "Recette",
+      "start": 22587,
+      "end": 22594,
+      "label": "ORG"
+    },
+    {
+      "text": "Dépense",
+      "start": 22616,
+      "end": 22623,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 22654,
+      "end": 22658,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 23239,
+      "end": 23243,
+      "label": "PER"
+    },
+    {
+      "text": "Habitué",
+      "start": 23372,
+      "end": 23379,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 23858,
+      "end": 23862,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 24296,
+      "end": 24300,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 24776,
+      "end": 24780,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 25203,
+      "end": 25207,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25880,
+      "end": 25885,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 26003,
+      "end": 26007,
+      "label": "PER"
+    },
+    {
+      "text": "Timidité",
+      "start": 26252,
+      "end": 26260,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 26730,
+      "end": 26734,
+      "label": "PER"
+    },
+    {
+      "text": "Porto",
+      "start": 26784,
+      "end": 26789,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandisson",
+      "start": 27253,
+      "end": 27263,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 27277,
+      "end": 27282,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 27395,
+      "end": 27401,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 27456,
+      "end": 27460,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 27547,
+      "end": 27551,
+      "label": "PER"
+    },
+    {
+      "text": "Bric",
+      "start": 28241,
+      "end": 28245,
+      "label": "MISC"
+    },
+    {
+      "text": "Brac",
+      "start": 28248,
+      "end": 28252,
+      "label": "MISC"
+    },
+    {
+      "text": "Brillat Savarin",
+      "start": 28474,
+      "end": 28489,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 29381,
+      "end": 29385,
+      "label": "PER"
+    },
+    {
+      "text": "seuil de la Mort",
+      "start": 29737,
+      "end": 29753,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 29861,
+      "end": 29865,
+      "label": "PER"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 30188,
+      "end": 30199,
+      "label": "PER"
+    },
+    {
+      "text": "DEUX",
+      "start": 30241,
+      "end": 30245,
+      "label": "ORG"
+    },
+    {
+      "text": "DEUX",
+      "start": 30588,
+      "end": 30592,
+      "label": "ORG"
+    },
+    {
+      "text": "Pons",
+      "start": 30758,
+      "end": 30762,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 31156,
+      "end": 31160,
+      "label": "MISC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 31333,
+      "end": 31341,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 31383,
+      "end": 31387,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 31393,
+      "end": 31397,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 31429,
+      "end": 31437,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31676,
+      "end": 31684,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31686,
+      "end": 31694,
+      "label": "LOC"
+    },
+    {
+      "text": "grand Mendelssohn",
+      "start": 31722,
+      "end": 31739,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31741,
+      "end": 31749,
+      "label": "LOC"
+    },
+    {
+      "text": "Steibelt",
+      "start": 31756,
+      "end": 31764,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31766,
+      "end": 31774,
+      "label": "LOC"
+    },
+    {
+      "text": "Mozart",
+      "start": 31781,
+      "end": 31787,
+      "label": "PER"
+    },
+    {
+      "text": "Dusseck",
+      "start": 31791,
+      "end": 31798,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31800,
+      "end": 31808,
+      "label": "LOC"
+    },
+    {
+      "text": "Meyer",
+      "start": 31815,
+      "end": 31820,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 31822,
+      "end": 31830,
+      "label": "LOC"
+    },
+    {
+      "text": "Dœlber",
+      "start": 31837,
+      "end": 31843,
+      "label": "ORG"
+    },
+    {
+      "text": "Allemand",
+      "start": 31845,
+      "end": 31853,
+      "label": "LOC"
+    },
+    {
+      "text": "Thalberg",
+      "start": 31860,
+      "end": 31868,
+      "label": "LOC"
+    },
+    {
+      "text": "Dreschok",
+      "start": 31876,
+      "end": 31884,
+      "label": "ORG"
+    },
+    {
+      "text": "Hiller",
+      "start": 31892,
+      "end": 31898,
+      "label": "PER"
+    },
+    {
+      "text": "Léopold Mayer",
+      "start": 31906,
+      "end": 31919,
+      "label": "PER"
+    },
+    {
+      "text": "Crammer",
+      "start": 31927,
+      "end": 31934,
+      "label": "PER"
+    },
+    {
+      "text": "Zimmerman",
+      "start": 31942,
+      "end": 31951,
+      "label": "PER"
+    },
+    {
+      "text": "Kalkbrenner",
+      "start": 31955,
+      "end": 31966,
+      "label": "PER"
+    },
+    {
+      "text": "Herz",
+      "start": 31974,
+      "end": 31978,
+      "label": "LOC"
+    },
+    {
+      "text": "Woëtz",
+      "start": 31980,
+      "end": 31985,
+      "label": "LOC"
+    },
+    {
+      "text": "Karr",
+      "start": 31987,
+      "end": 31991,
+      "label": "LOC"
+    },
+    {
+      "text": "Wolff",
+      "start": 31993,
+      "end": 31998,
+      "label": "MISC"
+    },
+    {
+      "text": "Pixis",
+      "start": 32000,
+      "end": 32005,
+      "label": "PER"
+    },
+    {
+      "text": "Clara Wieck",
+      "start": 32007,
+      "end": 32018,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 32049,
+      "end": 32058,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 32087,
+      "end": 32095,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 32259,
+      "end": 32268,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 32544,
+      "end": 32550,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 32598,
+      "end": 32607,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 32650,
+      "end": 32658,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 32704,
+      "end": 32708,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 32741,
+      "end": 32749,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 32791,
+      "end": 32799,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 32901,
+      "end": 32906,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 33036,
+      "end": 33040,
+      "label": "PER"
+    },
+    {
+      "text": "UNE FILLE D'ÈVE",
+      "start": 33066,
+      "end": 33081,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 33084,
+      "end": 33088,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 33092,
+      "end": 33100,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 33234,
+      "end": 33243,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Paul Richter",
+      "start": 33782,
+      "end": 33799,
+      "label": "PER"
+    },
+    {
+      "text": "Hoffmann",
+      "start": 33827,
+      "end": 33835,
+      "label": "PER"
+    },
+    {
+      "text": "Allemagne",
+      "start": 33869,
+      "end": 33878,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 33991,
+      "end": 33999,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 34496,
+      "end": 34504,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 34530,
+      "end": 34534,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 34554,
+      "end": 34558,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 34581,
+      "end": 34589,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 34703,
+      "end": 34707,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 34772,
+      "end": 34780,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 34833,
+      "end": 34840,
+      "label": "PER"
+    },
+    {
+      "text": "Bellini",
+      "start": 34845,
+      "end": 34852,
+      "label": "PER"
+    },
+    {
+      "text": "Beethoven",
+      "start": 34857,
+      "end": 34866,
+      "label": "PER"
+    },
+    {
+      "text": "Mozart",
+      "start": 34871,
+      "end": 34877,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 34994,
+      "end": 35002,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 35064,
+      "end": 35068,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Sylvestre",
+      "start": 35163,
+      "end": 35178,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 35215,
+      "end": 35219,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 35402,
+      "end": 35410,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 35419,
+      "end": 35427,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 35573,
+      "end": 35577,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 35597,
+      "end": 35605,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 35848,
+      "end": 35856,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 35878,
+      "end": 35882,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 35902,
+      "end": 35910,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 35967,
+      "end": 35975,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 36013,
+      "end": 36017,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 36151,
+      "end": 36159,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 36302,
+      "end": 36310,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 36544,
+      "end": 36549,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 36655,
+      "end": 36663,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 36667,
+      "end": 36671,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 36905,
+      "end": 36914,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 36919,
+      "end": 36925,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 37148,
+      "end": 37156,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 37170,
+      "end": 37174,
+      "label": "PER"
+    },
+    {
+      "text": "Niobé",
+      "start": 37197,
+      "end": 37202,
+      "label": "PER"
+    },
+    {
+      "text": "statue du",
+      "start": 37215,
+      "end": 37224,
+      "label": "LOC"
+    },
+    {
+      "text": "Vatican",
+      "start": 37225,
+      "end": 37232,
+      "label": "LOC"
+    },
+    {
+      "text": "Vénus",
+      "start": 37243,
+      "end": 37248,
+      "label": "LOC"
+    },
+    {
+      "text": "Tribune",
+      "start": 37255,
+      "end": 37262,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 37264,
+      "end": 37276,
+      "label": "PER"
+    },
+    {
+      "text": "Scène",
+      "start": 37534,
+      "end": 37539,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39305,
+      "end": 39310,
+      "label": "LOC"
+    },
+    {
+      "text": "Levés",
+      "start": 39334,
+      "end": 39339,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 39511,
+      "end": 39515,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 39691,
+      "end": 39695,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 39708,
+      "end": 39716,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 39746,
+      "end": 39750,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 39761,
+      "end": 39769,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 39908,
+      "end": 39915,
+      "label": "PER"
+    },
+    {
+      "text": "révolution de Juillet",
+      "start": 40021,
+      "end": 40042,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 40165,
+      "end": 40170,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 40389,
+      "end": 40399,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 40458,
+      "end": 40465,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 40467,
+      "end": 40474,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 40502,
+      "end": 40511,
+      "label": "LOC"
+    },
+    {
+      "text": "L'ILLUSTRE GAUDISSARD",
+      "start": 40563,
+      "end": 40584,
+      "label": "MISC"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 40798,
+      "end": 40808,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 41076,
+      "end": 41080,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 41102,
+      "end": 41109,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 41153,
+      "end": 41163,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevard",
+      "start": 41232,
+      "end": 41241,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 41449,
+      "end": 41459,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 41527,
+      "end": 41531,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 41549,
+      "end": 41557,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 41668,
+      "end": 41676,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 41696,
+      "end": 41700,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra Comique",
+      "start": 41744,
+      "end": 41757,
+      "label": "ORG"
+    },
+    {
+      "text": "Schmucke",
+      "start": 41816,
+      "end": 41824,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 41831,
+      "end": 41835,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 41871,
+      "end": 41879,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 41906,
+      "end": 41915,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 42004,
+      "end": 42008,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 42218,
+      "end": 42222,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 42226,
+      "end": 42234,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 42324,
+      "end": 42329,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 42611,
+      "end": 42615,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 42869,
+      "end": 42873,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 42996,
+      "end": 43004,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 43026,
+      "end": 43030,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 43072,
+      "end": 43080,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 43126,
+      "end": 43136,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 43217,
+      "end": 43221,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 43334,
+      "end": 43342,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 43459,
+      "end": 43467,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 43591,
+      "end": 43599,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevard",
+      "start": 43677,
+      "end": 43686,
+      "label": "LOC"
+    },
+    {
+      "text": "Sax",
+      "start": 43865,
+      "end": 43868,
+      "label": "MISC"
+    },
+    {
+      "text": "Les Allemands",
+      "start": 43875,
+      "end": 43888,
+      "label": "MISC"
+    },
+    {
+      "text": "de la Liberté",
+      "start": 43939,
+      "end": 43952,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 44505,
+      "end": 44509,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 44648,
+      "end": 44653,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 44892,
+      "end": 44896,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 44916,
+      "end": 44920,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 44961,
+      "end": 44969,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 45137,
+      "end": 45145,
+      "label": "LOC"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 45242,
+      "end": 45252,
+      "label": "LOC"
+    },
+    {
+      "text": "Kehl",
+      "start": 45280,
+      "end": 45284,
+      "label": "LOC"
+    },
+    {
+      "text": "Avant scènes",
+      "start": 45358,
+      "end": 45370,
+      "label": "MISC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 45409,
+      "end": 45417,
+      "label": "LOC"
+    },
+    {
+      "text": "Lorette",
+      "start": 45510,
+      "end": 45517,
+      "label": "LOC"
+    },
+    {
+      "text": "Treizième Arrondissement",
+      "start": 45550,
+      "end": 45574,
+      "label": "ORG"
+    },
+    {
+      "text": "Pons",
+      "start": 45840,
+      "end": 45844,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 45848,
+      "end": 45856,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 46076,
+      "end": 46086,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 46116,
+      "end": 46120,
+      "label": "PER"
+    },
+    {
+      "text": "Benvenuto Cellini",
+      "start": 46152,
+      "end": 46169,
+      "label": "PER"
+    },
+    {
+      "text": "Gaudissard",
+      "start": 46329,
+      "end": 46339,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 46386,
+      "end": 46390,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 46574,
+      "end": 46578,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 46642,
+      "end": 46650,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 46678,
+      "end": 46682,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 46703,
+      "end": 46711,
+      "label": "LOC"
+    },
+    {
+      "text": "Engore",
+      "start": 46753,
+      "end": 46759,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 46809,
+      "end": 46817,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 47073,
+      "end": 47077,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 47168,
+      "end": 47176,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 47211,
+      "end": 47215,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 47250,
+      "end": 47258,
+      "label": "MISC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 47351,
+      "end": 47359,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 47363,
+      "end": 47371,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 47590,
+      "end": 47594,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 47859,
+      "end": 47866,
+      "label": "PER"
+    },
+    {
+      "text": "Bourdonnais",
+      "start": 47912,
+      "end": 47923,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 47940,
+      "end": 47944,
+      "label": "PER"
+    },
+    {
+      "text": "Pons frères",
+      "start": 47979,
+      "end": 47990,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 48108,
+      "end": 48121,
+      "label": "MISC"
+    },
+    {
+      "text": "Rivet",
+      "start": 48163,
+      "end": 48168,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 48202,
+      "end": 48216,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 48221,
+      "end": 48228,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 48375,
+      "end": 48382,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 48396,
+      "end": 48400,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 48560,
+      "end": 48567,
+      "label": "PER"
+    },
+    {
+      "text": "Cardot",
+      "start": 48589,
+      "end": 48595,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 48597,
+      "end": 48601,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 48638,
+      "end": 48645,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 48676,
+      "end": 48682,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 48793,
+      "end": 48800,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 48841,
+      "end": 48855,
+      "label": "PER"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 48885,
+      "end": 48897,
+      "label": "PER"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 48922,
+      "end": 48934,
+      "label": "PER"
+    },
+    {
+      "text": "Anselme Popinot",
+      "start": 49049,
+      "end": 49064,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 49169,
+      "end": 49173,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 49198,
+      "end": 49205,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 49213,
+      "end": 49219,
+      "label": "LOC"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 49229,
+      "end": 49241,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 49263,
+      "end": 49270,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 49476,
+      "end": 49483,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 49490,
+      "end": 49499,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 49568,
+      "end": 49574,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 49631,
+      "end": 49636,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 49665,
+      "end": 49672,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 49713,
+      "end": 49718,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot de Marville",
+      "start": 49802,
+      "end": 49821,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 49887,
+      "end": 49891,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 49918,
+      "end": 49925,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 50038,
+      "end": 50046,
+      "label": "LOC"
+    },
+    {
+      "text": "cour royale de Paris",
+      "start": 50090,
+      "end": 50110,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 50129,
+      "end": 50135,
+      "label": "PER"
+    },
+    {
+      "text": "Berthier",
+      "start": 50182,
+      "end": 50190,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 50192,
+      "end": 50196,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 50312,
+      "end": 50316,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 50492,
+      "end": 50499,
+      "label": "PER"
+    },
+    {
+      "text": "Thirion",
+      "start": 50589,
+      "end": 50596,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 50627,
+      "end": 50638,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 50642,
+      "end": 50651,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 50752,
+      "end": 50756,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 50841,
+      "end": 50848,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 50936,
+      "end": 50940,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 51063,
+      "end": 51072,
+      "label": "LOC"
+    },
+    {
+      "text": "Chose",
+      "start": 51276,
+      "end": 51281,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 51325,
+      "end": 51332,
+      "label": "ORG"
+    },
+    {
+      "text": "Basse du Rempart",
+      "start": 51338,
+      "end": 51354,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 51654,
+      "end": 51662,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Hanovre",
+      "start": 51673,
+      "end": 51687,
+      "label": "LOC"
+    },
+    {
+      "text": "Thirion",
+      "start": 51806,
+      "end": 51813,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 52121,
+      "end": 52129,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 52362,
+      "end": 52370,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandie",
+      "start": 52562,
+      "end": 52571,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 53108,
+      "end": 53113,
+      "label": "LOC"
+    },
+    {
+      "text": "Marville",
+      "start": 53187,
+      "end": 53195,
+      "label": "LOC"
+    },
+    {
+      "text": "Marville",
+      "start": 53338,
+      "end": 53346,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 53558,
+      "end": 53562,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 53756,
+      "end": 53764,
+      "label": "LOC"
+    },
+    {
+      "text": "vicomte Popinot",
+      "start": 53795,
+      "end": 53810,
+      "label": "PER"
+    },
+    {
+      "text": "Lombards",
+      "start": 53898,
+      "end": 53906,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Choiseul",
+      "start": 54007,
+      "end": 54019,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Hanovre",
+      "start": 54050,
+      "end": 54064,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 54066,
+      "end": 54070,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 54555,
+      "end": 54562,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 54588,
+      "end": 54592,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre",
+      "start": 54741,
+      "end": 54747,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 54769,
+      "end": 54773,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine Vivet",
+      "start": 54793,
+      "end": 54808,
+      "label": "PER"
+    },
+    {
+      "text": "madame C. de Marville",
+      "start": 54863,
+      "end": 54884,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 54907,
+      "end": 54916,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 55058,
+      "end": 55062,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 55064,
+      "end": 55073,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 55152,
+      "end": 55156,
+      "label": "PER"
+    },
+    {
+      "text": "Didon",
+      "start": 55213,
+      "end": 55218,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 55337,
+      "end": 55346,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 55373,
+      "end": 55377,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 56033,
+      "end": 56042,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 56067,
+      "end": 56081,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 56188,
+      "end": 56196,
+      "label": "PER"
+    },
+    {
+      "text": "tribunal d'Alençon",
+      "start": 56211,
+      "end": 56229,
+      "label": "MISC"
+    },
+    {
+      "text": "tribunal de Mantes",
+      "start": 56283,
+      "end": 56301,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 56312,
+      "end": 56319,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 56327,
+      "end": 56332,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 56664,
+      "end": 56670,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 56693,
+      "end": 56697,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 56732,
+      "end": 56741,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 56951,
+      "end": 56965,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 57060,
+      "end": 57069,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 57139,
+      "end": 57145,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 57147,
+      "end": 57151,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 57187,
+      "end": 57191,
+      "label": "PER"
+    },
+    {
+      "text": "Minette",
+      "start": 57504,
+      "end": 57511,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh ! pauvre homme !",
+      "start": 57582,
+      "end": 57601,
+      "label": "MISC"
+    },
+    {
+      "text": "Camusot",
+      "start": 57624,
+      "end": 57631,
+      "label": "PER"
+    },
+    {
+      "text": "madame Camusot",
+      "start": 57794,
+      "end": 57808,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 57811,
+      "end": 57820,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile Camusot",
+      "start": 57904,
+      "end": 57918,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 58029,
+      "end": 58033,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 58486,
+      "end": 58490,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 58542,
+      "end": 58548,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Lucie",
+      "start": 58685,
+      "end": 58697,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 58722,
+      "end": 58726,
+      "label": "MISC"
+    },
+    {
+      "text": "Watteau",
+      "start": 59732,
+      "end": 59739,
+      "label": "PER"
+    },
+    {
+      "text": "Grenade",
+      "start": 59927,
+      "end": 59934,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 59968,
+      "end": 59974,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 60082,
+      "end": 60090,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60412,
+      "end": 60417,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 60447,
+      "end": 60451,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 60522,
+      "end": 60528,
+      "label": "PER"
+    },
+    {
+      "text": "Lancret",
+      "start": 60599,
+      "end": 60606,
+      "label": "PER"
+    },
+    {
+      "text": "Pater",
+      "start": 60608,
+      "end": 60613,
+      "label": "LOC"
+    },
+    {
+      "text": "Watteau",
+      "start": 60615,
+      "end": 60622,
+      "label": "LOC"
+    },
+    {
+      "text": "Greuze",
+      "start": 60624,
+      "end": 60630,
+      "label": "LOC"
+    },
+    {
+      "text": "Marville",
+      "start": 60728,
+      "end": 60736,
+      "label": "LOC"
+    },
+    {
+      "text": "Watteau",
+      "start": 60893,
+      "end": 60900,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 61081,
+      "end": 61085,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 61197,
+      "end": 61201,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 61250,
+      "end": 61256,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Marville",
+      "start": 61519,
+      "end": 61537,
+      "label": "PER"
+    },
+    {
+      "text": "blonde",
+      "start": 61557,
+      "end": 61563,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 62153,
+      "end": 62157,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 62462,
+      "end": 62469,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62516,
+      "end": 62521,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 62550,
+      "end": 62557,
+      "label": "PER"
+    },
+    {
+      "text": "Cour de cassation",
+      "start": 62586,
+      "end": 62603,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 62657,
+      "end": 62663,
+      "label": "LOC"
+    },
+    {
+      "text": "Camusot",
+      "start": 62727,
+      "end": 62734,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 62976,
+      "end": 62984,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 63478,
+      "end": 63482,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 63731,
+      "end": 63737,
+      "label": "PER"
+    },
+    {
+      "text": "Rue de Lappe",
+      "start": 63763,
+      "end": 63775,
+      "label": "LOC"
+    },
+    {
+      "text": "Dreux",
+      "start": 63859,
+      "end": 63864,
+      "label": "LOC"
+    },
+    {
+      "text": "Aulnay",
+      "start": 63866,
+      "end": 63872,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 63889,
+      "end": 63908,
+      "label": "PER"
+    },
+    {
+      "text": "Ménars",
+      "start": 63946,
+      "end": 63952,
+      "label": "LOC"
+    },
+    {
+      "text": "Liénard",
+      "start": 64045,
+      "end": 64052,
+      "label": "PER"
+    },
+    {
+      "text": "Mon brocanteur",
+      "start": 64192,
+      "end": 64206,
+      "label": "MISC"
+    },
+    {
+      "text": "Reisener",
+      "start": 64371,
+      "end": 64379,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 64446,
+      "end": 64451,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 64687,
+      "end": 64692,
+      "label": "LOC"
+    },
+    {
+      "text": "Frankenthal",
+      "start": 64712,
+      "end": 64723,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 64805,
+      "end": 64811,
+      "label": "LOC"
+    },
+    {
+      "text": "Frankenthal",
+      "start": 64832,
+      "end": 64843,
+      "label": "LOC"
+    },
+    {
+      "text": "Cécile",
+      "start": 64850,
+      "end": 64856,
+      "label": "PER"
+    },
+    {
+      "text": "Électeur Palatin",
+      "start": 64908,
+      "end": 64924,
+      "label": "PER"
+    },
+    {
+      "text": "Sèvres",
+      "start": 64975,
+      "end": 64981,
+      "label": "LOC"
+    },
+    {
+      "text": "Heidelberg",
+      "start": 65011,
+      "end": 65021,
+      "label": "LOC"
+    },
+    {
+      "text": "Turenne",
+      "start": 65034,
+      "end": 65041,
+      "label": "PER"
+    },
+    {
+      "text": "Versailles",
+      "start": 65085,
+      "end": 65095,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 65097,
+      "end": 65103,
+      "label": "LOC"
+    },
+    {
+      "text": "Frankenthal",
+      "start": 65121,
+      "end": 65132,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemands",
+      "start": 65139,
+      "end": 65148,
+      "label": "LOC"
+    },
+    {
+      "text": "Saxe",
+      "start": 65230,
+      "end": 65234,
+      "label": "LOC"
+    },
+    {
+      "text": "Palatinat",
+      "start": 65246,
+      "end": 65255,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 65301,
+      "end": 65305,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 65368,
+      "end": 65377,
+      "label": "LOC"
+    },
+    {
+      "text": "Frankenthal",
+      "start": 65513,
+      "end": 65524,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 65551,
+      "end": 65555,
+      "label": "PER"
+    },
+    {
+      "text": "Frankenthal",
+      "start": 65616,
+      "end": 65627,
+      "label": "LOC"
+    },
+    {
+      "text": "C",
+      "start": 65637,
+      "end": 65638,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Théodore",
+      "start": 65648,
+      "end": 65664,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Saxe",
+      "start": 65719,
+      "end": 65729,
+      "label": "LOC"
+    },
+    {
+      "text": "Vincennes",
+      "start": 65775,
+      "end": 65784,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 65806,
+      "end": 65812,
+      "label": "LOC"
+    },
+    {
+      "text": "V",
+      "start": 65818,
+      "end": 65819,
+      "label": "PER"
+    },
+    {
+      "text": "Berlin",
+      "start": 65836,
+      "end": 65842,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayence",
+      "start": 65858,
+      "end": 65865,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 65877,
+      "end": 65883,
+      "label": "LOC"
+    },
+    {
+      "text": "LL",
+      "start": 65893,
+      "end": 65895,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 65928,
+      "end": 65929,
+      "label": "LOC"
+    },
+    {
+      "text": "Antoinette",
+      "start": 65944,
+      "end": 65954,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 66035,
+      "end": 66043,
+      "label": "LOC"
+    },
+    {
+      "text": "Watteau",
+      "start": 66124,
+      "end": 66131,
+      "label": "PER"
+    },
+    {
+      "text": "Dresde",
+      "start": 66178,
+      "end": 66184,
+      "label": "LOC"
+    },
+    {
+      "text": "Dresde",
+      "start": 66273,
+      "end": 66279,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah bah !   ",
+      "start": 66379,
+      "end": 66390,
+      "label": "MISC"
+    },
+    {
+      "text": "Oui",
+      "start": 66390,
+      "end": 66393,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 66498,
+      "end": 66505,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 66511,
+      "end": 66517,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 66526,
+      "end": 66535,
+      "label": "PER"
+    },
+    {
+      "text": "Van Eyck",
+      "start": 66544,
+      "end": 66552,
+      "label": "PER"
+    },
+    {
+      "text": "Cranach !",
+      "start": 66561,
+      "end": 66570,
+      "label": "MISC"
+    },
+    {
+      "text": "Chinois",
+      "start": 66586,
+      "end": 66593,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Mandarin",
+      "start": 66705,
+      "end": 66719,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Mandarin",
+      "start": 66747,
+      "end": 66761,
+      "label": "PER"
+    },
+    {
+      "text": "Vous plaisantez !   Cousine",
+      "start": 66880,
+      "end": 66907,
+      "label": "ORG"
+    },
+    {
+      "text": "Sèvres",
+      "start": 67037,
+      "end": 67043,
+      "label": "LOC"
+    },
+    {
+      "text": "Sèvres",
+      "start": 67186,
+      "end": 67192,
+      "label": "LOC"
+    },
+    {
+      "text": "Revenons",
+      "start": 67238,
+      "end": 67246,
+      "label": "LOC"
+    },
+    {
+      "text": "Cécile",
+      "start": 67267,
+      "end": 67273,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 67439,
+      "end": 67443,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 67475,
+      "end": 67480,
+      "label": "LOC"
+    },
+    {
+      "text": "Marie Antoinette",
+      "start": 67611,
+      "end": 67627,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 67730,
+      "end": 67738,
+      "label": "PER"
+    },
+    {
+      "text": "Lappe",
+      "start": 67820,
+      "end": 67825,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat !",
+      "start": 67836,
+      "end": 67847,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 68102,
+      "end": 68106,
+      "label": "PER"
+    },
+    {
+      "text": "Monistrol",
+      "start": 68210,
+      "end": 68219,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 68222,
+      "end": 68226,
+      "label": "LOC"
+    },
+    {
+      "text": "Monistrol",
+      "start": 68384,
+      "end": 68393,
+      "label": "LOC"
+    },
+    {
+      "text": "Liénard",
+      "start": 68413,
+      "end": 68420,
+      "label": "PER"
+    },
+    {
+      "text": "Aulnay",
+      "start": 68531,
+      "end": 68537,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 68589,
+      "end": 68594,
+      "label": "LOC"
+    },
+    {
+      "text": "Boucher",
+      "start": 68807,
+      "end": 68814,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 68892,
+      "end": 68897,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Lucie",
+      "start": 69123,
+      "end": 69135,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 69147,
+      "end": 69152,
+      "label": "LOC"
+    },
+    {
+      "text": "Pompadour",
+      "start": 69167,
+      "end": 69176,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 69215,
+      "end": 69219,
+      "label": "MISC"
+    },
+    {
+      "text": "Monistrol",
+      "start": 69319,
+      "end": 69328,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Pons",
+      "start": 69347,
+      "end": 69358,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 69560,
+      "end": 69565,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 69751,
+      "end": 69770,
+      "label": "PER"
+    },
+    {
+      "text": "Watteau",
+      "start": 69773,
+      "end": 69780,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 69817,
+      "end": 69824,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 69853,
+      "end": 69857,
+      "label": "MISC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 70123,
+      "end": 70132,
+      "label": "MISC"
+    },
+    {
+      "text": "Monistrol",
+      "start": 70268,
+      "end": 70277,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 70559,
+      "end": 70578,
+      "label": "PER"
+    },
+    {
+      "text": "Riesener",
+      "start": 70745,
+      "end": 70753,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat !",
+      "start": 70905,
+      "end": 70916,
+      "label": "MISC"
+    },
+    {
+      "text": "Ça",
+      "start": 71232,
+      "end": 71234,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 71276,
+      "end": 71280,
+      "label": "PER"
+    },
+    {
+      "text": "Normand",
+      "start": 71550,
+      "end": 71557,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 71577,
+      "end": 71586,
+      "label": "MISC"
+    },
+    {
+      "text": "Wat",
+      "start": 71711,
+      "end": 71714,
+      "label": "PER"
+    },
+    {
+      "text": "Watteau",
+      "start": 71741,
+      "end": 71748,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 71825,
+      "end": 71830,
+      "label": "PER"
+    },
+    {
+      "text": "Quels",
+      "start": 72228,
+      "end": 72233,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 72654,
+      "end": 72658,
+      "label": "ORG"
+    },
+    {
+      "text": "Vertu",
+      "start": 72680,
+      "end": 72685,
+      "label": "LOC"
+    },
+    {
+      "text": "Soyez",
+      "start": 72781,
+      "end": 72786,
+      "label": "LOC"
+    },
+    {
+      "text": "Pompadour",
+      "start": 72943,
+      "end": 72952,
+      "label": "LOC"
+    },
+    {
+      "text": "Cécile",
+      "start": 73041,
+      "end": 73047,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 73083,
+      "end": 73092,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 73313,
+      "end": 73317,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 73437,
+      "end": 73443,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 73633,
+      "end": 73637,
+      "label": "PER"
+    },
+    {
+      "text": "Lili",
+      "start": 73714,
+      "end": 73718,
+      "label": "MISC"
+    },
+    {
+      "text": "Cécile",
+      "start": 73807,
+      "end": 73813,
+      "label": "PER"
+    },
+    {
+      "text": "Charmante !",
+      "start": 73817,
+      "end": 73828,
+      "label": "MISC"
+    },
+    {
+      "text": "Cour royale de Paris",
+      "start": 74013,
+      "end": 74033,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 74055,
+      "end": 74071,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 74127,
+      "end": 74136,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 74353,
+      "end": 74360,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 74554,
+      "end": 74558,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 74691,
+      "end": 74698,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 74706,
+      "end": 74710,
+      "label": "MISC"
+    },
+    {
+      "text": "Cécile",
+      "start": 74853,
+      "end": 74859,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 74953,
+      "end": 74957,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 75457,
+      "end": 75461,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 75551,
+      "end": 75562,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Marville",
+      "start": 75763,
+      "end": 75781,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 76001,
+      "end": 76008,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 76094,
+      "end": 76098,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 76879,
+      "end": 76885,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 77446,
+      "end": 77452,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 77539,
+      "end": 77543,
+      "label": "PER"
+    },
+    {
+      "text": "Marville",
+      "start": 78029,
+      "end": 78037,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 78103,
+      "end": 78107,
+      "label": "ORG"
+    },
+    {
+      "text": "Italie",
+      "start": 78244,
+      "end": 78250,
+      "label": "LOC"
+    },
+    {
+      "text": "Bal Mabille",
+      "start": 78281,
+      "end": 78292,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 78585,
+      "end": 78589,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 78713,
+      "end": 78722,
+      "label": "PER"
+    },
+    {
+      "text": "Palais",
+      "start": 78903,
+      "end": 78909,
+      "label": "LOC"
+    },
+    {
+      "text": "Popinot",
+      "start": 79088,
+      "end": 79095,
+      "label": "LOC"
+    },
+    {
+      "text": "Palais",
+      "start": 79194,
+      "end": 79200,
+      "label": "LOC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 79233,
+      "end": 79242,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 79357,
+      "end": 79363,
+      "label": "MISC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 79444,
+      "end": 79453,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 79503,
+      "end": 79507,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher cousin",
+      "start": 79648,
+      "end": 79663,
+      "label": "MISC"
+    },
+    {
+      "text": "Agissez",
+      "start": 79906,
+      "end": 79913,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 80280,
+      "end": 80286,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 80341,
+      "end": 80345,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 80703,
+      "end": 80707,
+      "label": "PER"
+    },
+    {
+      "text": "Cécile",
+      "start": 80878,
+      "end": 80884,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 80990,
+      "end": 80994,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 81153,
+      "end": 81157,
+      "label": "PER"
+    },
+    {
+      "text": "Mot",
+      "start": 81445,
+      "end": 81448,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 81503,
+      "end": 81511,
+      "label": "LOC"
+    },
+    {
+      "text": "Madeleine",
+      "start": 81760,
+      "end": 81769,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 81795,
+      "end": 81799,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 82200,
+      "end": 82202,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah",
+      "start": 82283,
+      "end": 82286,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 82296,
+      "end": 82305,
+      "label": "PER"
+    },
+    {
+      "text": "Madeleine",
+      "start": 82712,
+      "end": 82721,
+      "label": "PER"
+    },
+    {
+      "text": "Temple",
+      "start": 83158,
+      "end": 83164,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 83345,
+      "end": 83349,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 83420,
+      "end": 83432,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Normandie",
+      "start": 83458,
+      "end": 83474,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 83666,
+      "end": 83674,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 83810,
+      "end": 83819,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 83843,
+      "end": 83851,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 84118,
+      "end": 84124,
+      "label": "LOC"
+    },
+    {
+      "text": "Pillerault",
+      "start": 84263,
+      "end": 84273,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur",
+      "start": 84320,
+      "end": 84328,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 84332,
+      "end": 84344,
+      "label": "PER"
+    },
+    {
+      "text": "Marais",
+      "start": 84450,
+      "end": 84456,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 84503,
+      "end": 84508,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 84697,
+      "end": 84702,
+      "label": "PER"
+    },
+    {
+      "text": "ménage Cibot",
+      "start": 85063,
+      "end": 85075,
+      "label": "ORG"
+    },
+    {
+      "text": "Cibot",
+      "start": 85164,
+      "end": 85169,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 85654,
+      "end": 85666,
+      "label": "PER"
+    },
+    {
+      "text": "Cadran",
+      "start": 85720,
+      "end": 85726,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 85747,
+      "end": 85752,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 86213,
+      "end": 86225,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 86341,
+      "end": 86347,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Normandie",
+      "start": 86400,
+      "end": 86416,
+      "label": "LOC"
+    },
+    {
+      "text": "Isigny",
+      "start": 86553,
+      "end": 86559,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 86652,
+      "end": 86664,
+      "label": "PER"
+    },
+    {
+      "text": "Delacroix",
+      "start": 86905,
+      "end": 86914,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 86929,
+      "end": 86941,
+      "label": "PER"
+    },
+    {
+      "text": "Bellone",
+      "start": 86999,
+      "end": 87006,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 87031,
+      "end": 87036,
+      "label": "PER"
+    },
+    {
+      "text": "Rémonencq",
+      "start": 87446,
+      "end": 87455,
+      "label": "LOC"
+    },
+    {
+      "text": "Rémonencq",
+      "start": 87493,
+      "end": 87502,
+      "label": "LOC"
+    },
+    {
+      "text": "braquoise de Pons",
+      "start": 87604,
+      "end": 87621,
+      "label": "PER"
+    },
+    {
+      "text": "ménage Cibot",
+      "start": 87766,
+      "end": 87778,
+      "label": "ORG"
+    },
+    {
+      "text": "Cibot",
+      "start": 87867,
+      "end": 87872,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 88043,
+      "end": 88048,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 88142,
+      "end": 88147,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadran Bleu",
+      "start": 88248,
+      "end": 88259,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibot",
+      "start": 88479,
+      "end": 88484,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 88763,
+      "end": 88775,
+      "label": "PER"
+    },
+    {
+      "text": "N",
+      "start": 88791,
+      "end": 88792,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibot",
+      "start": 89163,
+      "end": 89168,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 89232,
+      "end": 89244,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 89270,
+      "end": 89275,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur !",
+      "start": 89475,
+      "end": 89493,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 89815,
+      "end": 89820,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah çà !",
+      "start": 89824,
+      "end": 89831,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibot",
+      "start": 90186,
+      "end": 90191,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 90236,
+      "end": 90241,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 90345,
+      "end": 90357,
+      "label": "PER"
+    },
+    {
+      "text": "ménage Cibot",
+      "start": 90672,
+      "end": 90684,
+      "label": "ORG"
+    },
+    {
+      "text": "Schmucke",
+      "start": 90701,
+      "end": 90709,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 90740,
+      "end": 90744,
+      "label": "PER"
+    },
+    {
+      "text": "Normandie",
+      "start": 90916,
+      "end": 90925,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 90947,
+      "end": 90959,
+      "label": "PER"
+    },
+    {
+      "text": "Pillerault",
+      "start": 91202,
+      "end": 91212,
+      "label": "MISC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 91232,
+      "end": 91250,
+      "label": "PER"
+    },
+    {
+      "text": "Popinot",
+      "start": 91251,
+      "end": 91258,
+      "label": "PER"
+    },
+    {
+      "text": "Casse noisettes",
+      "start": 91366,
+      "end": 91381,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 91692,
+      "end": 91697,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 91871,
+      "end": 91883,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 92041,
+      "end": 92053,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 92172,
+      "end": 92177,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 92439,
+      "end": 92447,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 92461,
+      "end": 92473,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 92623,
+      "end": 92635,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 92681,
+      "end": 92689,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 92691,
+      "end": 92695,
+      "label": "PER"
+    },
+    {
+      "text": "Casse noisettes",
+      "start": 93105,
+      "end": 93120,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 93349,
+      "end": 93361,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 93458,
+      "end": 93466,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 93526,
+      "end": 93538,
+      "label": "PER"
+    },
+    {
+      "text": "Joignez",
+      "start": 93884,
+      "end": 93891,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 93974,
+      "end": 93979,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 93990,
+      "end": 93998,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 94161,
+      "end": 94167,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 94214,
+      "end": 94219,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Normandie",
+      "start": 94319,
+      "end": 94335,
+      "label": "LOC"
+    },
+    {
+      "text": "Marais",
+      "start": 94340,
+      "end": 94346,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 94380,
+      "end": 94385,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 94388,
+      "end": 94400,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 94446,
+      "end": 94450,
+      "label": "PER"
+    },
+    {
+      "text": "Ah bien !",
+      "start": 94581,
+      "end": 94590,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibot",
+      "start": 94591,
+      "end": 94596,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 94628,
+      "end": 94632,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 94661,
+      "end": 94663,
+      "label": "MISC"
+    },
+    {
+      "text": "Cibot",
+      "start": 94687,
+      "end": 94692,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 94818,
+      "end": 94822,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 94856,
+      "end": 94868,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 94890,
+      "end": 94898,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 95327,
+      "end": 95332,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 95336,
+      "end": 95344,
+      "label": "LOC"
+    },
+    {
+      "text": "Cibot",
+      "start": 95359,
+      "end": 95364,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 95494,
+      "end": 95500,
+      "label": "MISC"
+    },
+    {
+      "text": "Salomon",
+      "start": 95517,
+      "end": 95524,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 95566,
+      "end": 95574,
+      "label": "PER"
+    },
+    {
+      "text": "bouilli",
+      "start": 95594,
+      "end": 95601,
+      "label": "PER"
+    },
+    {
+      "text": "Cibot",
+      "start": 95724,
+      "end": 95729,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Boucherat",
+      "start": 95925,
+      "end": 95938,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 95965,
+      "end": 95973,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 96090,
+      "end": 96102,
+      "label": "PER"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 96256,
+      "end": 96268,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 96312,
+      "end": 96320,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Cibot",
+      "start": 96332,
+      "end": 96344,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 96493,
+      "end": 96501,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 96512,
+      "end": 96516,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as du, mon pon ami ?",
+      "start": 96520,
+      "end": 96543,
+      "label": "MISC"
+    },
+    {
+      "text": "Allemand",
+      "start": 96550,
+      "end": 96558,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 96610,
+      "end": 96614,
+      "label": "PER"
+    },
+    {
+      "text": "Tinner",
+      "start": 96670,
+      "end": 96676,
+      "label": "ORG"
+    },
+    {
+      "text": "Schmucke",
+      "start": 96696,
+      "end": 96704,
+      "label": "PER"
+    },
+    {
+      "text": "Allemand",
+      "start": 96815,
+      "end": 96823,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 96838,
+      "end": 96850,
+      "label": "PER"
+    },
+    {
+      "text": "Montame Zipod",
+      "start": 97055,
+      "end": 97068,
+      "label": "PER"
+    },
+    {
+      "text": "Bons",
+      "start": 97077,
+      "end": 97081,
+      "label": "LOC"
+    },
+    {
+      "text": "Gatran Pleu",
+      "start": 97116,
+      "end": 97127,
+      "label": "MISC"
+    },
+    {
+      "text": "di magaroni",
+      "start": 97174,
+      "end": 97185,
+      "label": "PER"
+    },
+    {
+      "text": "Anvin",
+      "start": 97188,
+      "end": 97193,
+      "label": "LOC"
+    },
+    {
+      "text": "Liquillis",
+      "start": 97207,
+      "end": 97216,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Cibot",
+      "start": 97251,
+      "end": 97263,
+      "label": "PER"
+    },
+    {
+      "text": "Eh pien !",
+      "start": 97267,
+      "end": 97276,
+      "label": "MISC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 97284,
+      "end": 97292,
+      "label": "PER"
+    },
+    {
+      "text": "eine",
+      "start": 97326,
+      "end": 97330,
+      "label": "PER"
+    },
+    {
+      "text": "risse ed ti lard",
+      "start": 97450,
+      "end": 97466,
+      "label": "PER"
+    },
+    {
+      "text": "Bayez !",
+      "start": 97474,
+      "end": 97481,
+      "label": "MISC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 97543,
+      "end": 97551,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 97765,
+      "end": 97773,
+      "label": "PER"
+    },
+    {
+      "text": "Pons",
+      "start": 97793,
+      "end": 97797,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 97846,
+      "end": 97851,
+      "label": "LOC"
+    },
+    {
+      "text": "Schmucke",
+      "start": 98631,
+      "end": 98639,
+      "label": "PER"
+    },
+    {
+      "text": "Céciles",
+      "start": 98853,
+      "end": 98860,
+      "label": "PER"
+    },
+    {
+      "text": "Bordentuère",
+      "start": 98895,
+      "end": 98906,
+      "label": "PER"
+    },
+    {
+      "text": "Fentenesse",
+      "start": 98919,
+      "end": 98929,
+      "label": "MISC"
+    },
+    {
+      "text": "Ti Dilet",
+      "start": 98939,
+      "end": 98947,
+      "label": "PER"
+    },
+    {
+      "text": "Che",
+      "start": 99119,
+      "end": 99122,
+      "label": "PER"
+    },
+    {
+      "text": "Bons",
+      "start": 99202,
+      "end": 99206,
+      "label": "LOC"
+    },
+    {
+      "text": "Pons",
+      "start": 99264,
+      "end": 99268,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 99285,
+      "end": 99293,
+      "label": "LOC"
+    },
+    {
+      "text": "Tinne izi",
+      "start": 99507,
+      "end": 99516,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 99544,
+      "end": 99552,
+      "label": "PER"
+    },
+    {
+      "text": "Schmucke",
+      "start": 99807,
+      "end": 99815,
+      "label": "PER"
+    },
+    {
+      "text": "Bric",
+      "start": 99848,
+      "end": 99852,
+      "label": "MISC"
+    },
+    {
+      "text": "Pons",
+      "start": 99984,
+      "end": 99988,
+      "label": "PER"
+    }
+  ]
+}

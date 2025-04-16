@@ -1,0 +1,3196 @@
+{
+  "entities": [
+    {
+      "text": "CHAT",
+      "start": 13,
+      "end": 17,
+      "label": "ORG"
+    },
+    {
+      "text": "PELOTE",
+      "start": 22,
+      "end": 28,
+      "label": "ORG"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 97,
+      "end": 112,
+      "label": "LOC"
+    },
+    {
+      "text": "Petit Lion",
+      "start": 143,
+      "end": 153,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 279,
+      "end": 284,
+      "label": "LOC"
+    },
+    {
+      "text": "X",
+      "start": 416,
+      "end": 417,
+      "label": "MISC"
+    },
+    {
+      "text": "V",
+      "start": 425,
+      "end": 426,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 768,
+      "end": 773,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 2059,
+      "end": 2065,
+      "label": "LOC"
+    },
+    {
+      "text": "Conservatoire des arts et métiers",
+      "start": 2287,
+      "end": 2320,
+      "label": "LOC"
+    },
+    {
+      "text": "Dessin",
+      "start": 3696,
+      "end": 3702,
+      "label": "LOC"
+    },
+    {
+      "text": "GUILLAUME",
+      "start": 4287,
+      "end": 4296,
+      "label": "MISC"
+    },
+    {
+      "text": "SUCCESSEUR",
+      "start": 4312,
+      "end": 4322,
+      "label": "ORG"
+    },
+    {
+      "text": "SIEUR CHEVREL",
+      "start": 4326,
+      "end": 4339,
+      "label": "ORG"
+    },
+    {
+      "text": "U",
+      "start": 4496,
+      "end": 4497,
+      "label": "ORG"
+    },
+    {
+      "text": "V",
+      "start": 4515,
+      "end": 4516,
+      "label": "MISC"
+    },
+    {
+      "text": "Truie",
+      "start": 4998,
+      "end": 5003,
+      "label": "LOC"
+    },
+    {
+      "text": "Singe vert",
+      "start": 5017,
+      "end": 5027,
+      "label": "ORG"
+    },
+    {
+      "text": "Providence",
+      "start": 5266,
+      "end": 5276,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonne",
+      "start": 5282,
+      "end": 5287,
+      "label": "MISC"
+    },
+    {
+      "text": "Grâce de Dieu",
+      "start": 5297,
+      "end": 5310,
+      "label": "MISC"
+    },
+    {
+      "text": "Décollation",
+      "start": 5318,
+      "end": 5329,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Baptiste",
+      "start": 5339,
+      "end": 5352,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 5378,
+      "end": 5389,
+      "label": "PER"
+    },
+    {
+      "text": "Caracalla",
+      "start": 6016,
+      "end": 6025,
+      "label": "PER"
+    },
+    {
+      "text": "École de David",
+      "start": 6055,
+      "end": 6069,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 6384,
+      "end": 6389,
+      "label": "LOC"
+    },
+    {
+      "text": "Chat",
+      "start": 6586,
+      "end": 6590,
+      "label": "ORG"
+    },
+    {
+      "text": "Chat",
+      "start": 6610,
+      "end": 6614,
+      "label": "ORG"
+    },
+    {
+      "text": "Commerce sculptées",
+      "start": 7757,
+      "end": 7775,
+      "label": "MISC"
+    },
+    {
+      "text": "bouffis semés",
+      "start": 7873,
+      "end": 7886,
+      "label": "PER"
+    },
+    {
+      "text": "Père éternel",
+      "start": 7923,
+      "end": 7935,
+      "label": "MISC"
+    },
+    {
+      "text": "Élevés",
+      "start": 8487,
+      "end": 8493,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 9615,
+      "end": 9622,
+      "label": "PER"
+    },
+    {
+      "text": "Semblable",
+      "start": 9962,
+      "end": 9971,
+      "label": "PER"
+    },
+    {
+      "text": "boutique du Chat",
+      "start": 10807,
+      "end": 10823,
+      "label": "ORG"
+    },
+    {
+      "text": "heurtoir",
+      "start": 10891,
+      "end": 10899,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 11117,
+      "end": 11126,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 11142,
+      "end": 11149,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 11236,
+      "end": 11245,
+      "label": "PER"
+    },
+    {
+      "text": "Océan",
+      "start": 11443,
+      "end": 11448,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 11515,
+      "end": 11524,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 11566,
+      "end": 11571,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 12424,
+      "end": 12435,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 12440,
+      "end": 12444,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 12479,
+      "end": 12488,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Guillaume",
+      "start": 12648,
+      "end": 12666,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 12682,
+      "end": 12693,
+      "label": "LOC"
+    },
+    {
+      "text": "au Havre",
+      "start": 12759,
+      "end": 12767,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 12778,
+      "end": 12787,
+      "label": "LOC"
+    },
+    {
+      "text": "Humboldt",
+      "start": 12976,
+      "end": 12984,
+      "label": "PER"
+    },
+    {
+      "text": "Amérique",
+      "start": 13041,
+      "end": 13049,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Guillaume",
+      "start": 13051,
+      "end": 13069,
+      "label": "PER"
+    },
+    {
+      "text": "Cuvier",
+      "start": 14142,
+      "end": 14148,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 14191,
+      "end": 14200,
+      "label": "PER"
+    },
+    {
+      "text": "Prévôt des Marchands",
+      "start": 14288,
+      "end": 14308,
+      "label": "LOC"
+    },
+    {
+      "text": "Mercure",
+      "start": 14611,
+      "end": 14618,
+      "label": "LOC"
+    },
+    {
+      "text": "Terreur",
+      "start": 15699,
+      "end": 15706,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Guillaume",
+      "start": 15708,
+      "end": 15726,
+      "label": "PER"
+    },
+    {
+      "text": "caisse du Chat",
+      "start": 15802,
+      "end": 15816,
+      "label": "ORG"
+    },
+    {
+      "text": "Guillaume",
+      "start": 15993,
+      "end": 16002,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine Guillaume",
+      "start": 16157,
+      "end": 16176,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 16789,
+      "end": 16798,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 16877,
+      "end": 16884,
+      "label": "MISC"
+    },
+    {
+      "text": "Louviers",
+      "start": 17177,
+      "end": 17185,
+      "label": "LOC"
+    },
+    {
+      "text": "Sedan",
+      "start": 17192,
+      "end": 17197,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 17302,
+      "end": 17311,
+      "label": "PER"
+    },
+    {
+      "text": "Gruyère",
+      "start": 17985,
+      "end": 17992,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 18203,
+      "end": 18212,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 18468,
+      "end": 18484,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 18851,
+      "end": 18860,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 18875,
+      "end": 18884,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 18915,
+      "end": 18923,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 18927,
+      "end": 18936,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 19504,
+      "end": 19520,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 19989,
+      "end": 19994,
+      "label": "LOC"
+    },
+    {
+      "text": "auguste étiquette",
+      "start": 20258,
+      "end": 20275,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 21085,
+      "end": 21094,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 21199,
+      "end": 21211,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 21302,
+      "end": 21310,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 21332,
+      "end": 21338,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 21547,
+      "end": 21556,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 21765,
+      "end": 21774,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 21816,
+      "end": 21824,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 21861,
+      "end": 21877,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 21894,
+      "end": 21901,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 22140,
+      "end": 22156,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Virginie",
+      "start": 22542,
+      "end": 22563,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Augustine",
+      "start": 22907,
+      "end": 22929,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 23125,
+      "end": 23129,
+      "label": "MISC"
+    },
+    {
+      "text": "Augustine",
+      "start": 23149,
+      "end": 23158,
+      "label": "LOC"
+    },
+    {
+      "text": "Gracieuse",
+      "start": 23210,
+      "end": 23219,
+      "label": "ORG"
+    },
+    {
+      "text": "Augustine",
+      "start": 24023,
+      "end": 24032,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 24036,
+      "end": 24044,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 24466,
+      "end": 24475,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Ragois",
+      "start": 24481,
+      "end": 24490,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 25528,
+      "end": 25541,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 25558,
+      "end": 25565,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabourdin",
+      "start": 25646,
+      "end": 25655,
+      "label": "PER"
+    },
+    {
+      "text": "Finances",
+      "start": 25671,
+      "end": 25679,
+      "label": "MISC"
+    },
+    {
+      "text": "César Birotteau",
+      "start": 25691,
+      "end": 25706,
+      "label": "PER"
+    },
+    {
+      "text": "César",
+      "start": 25752,
+      "end": 25757,
+      "label": "PER"
+    },
+    {
+      "text": "Camusot",
+      "start": 25769,
+      "end": 25776,
+      "label": "PER"
+    },
+    {
+      "text": "Bourdonnais",
+      "start": 25828,
+      "end": 25839,
+      "label": "LOC"
+    },
+    {
+      "text": "Saxe",
+      "start": 25980,
+      "end": 25984,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 26376,
+      "end": 26392,
+      "label": "PER"
+    },
+    {
+      "text": "boston",
+      "start": 26567,
+      "end": 26573,
+      "label": "LOC"
+    },
+    {
+      "text": "whist",
+      "start": 26578,
+      "end": 26583,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 26772,
+      "end": 26781,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 27160,
+      "end": 27169,
+      "label": "PER"
+    },
+    {
+      "text": "Oui et Non",
+      "start": 27623,
+      "end": 27633,
+      "label": "MISC"
+    },
+    {
+      "text": "Chat",
+      "start": 27694,
+      "end": 27698,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 28077,
+      "end": 28093,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 28283,
+      "end": 28292,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 28914,
+      "end": 28923,
+      "label": "LOC"
+    },
+    {
+      "text": "Hippolyte",
+      "start": 28973,
+      "end": 28982,
+      "label": "PER"
+    },
+    {
+      "text": "Comte de Comminges",
+      "start": 29006,
+      "end": 29024,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 29050,
+      "end": 29059,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 29115,
+      "end": 29131,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 29362,
+      "end": 29371,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebas",
+      "start": 29413,
+      "end": 29418,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 29495,
+      "end": 29504,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 29778,
+      "end": 29786,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 30499,
+      "end": 30508,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 30548,
+      "end": 30556,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 30709,
+      "end": 30716,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 30763,
+      "end": 30775,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 30779,
+      "end": 30787,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 31002,
+      "end": 31014,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 31082,
+      "end": 31091,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 31172,
+      "end": 31181,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 31508,
+      "end": 31523,
+      "label": "LOC"
+    },
+    {
+      "text": "Trappe",
+      "start": 31566,
+      "end": 31572,
+      "label": "MISC"
+    },
+    {
+      "text": "Chat",
+      "start": 31826,
+      "end": 31830,
+      "label": "ORG"
+    },
+    {
+      "text": "Augustine",
+      "start": 32424,
+      "end": 32433,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 32943,
+      "end": 32947,
+      "label": "LOC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 32998,
+      "end": 33005,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 33012,
+      "end": 33023,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 33372,
+      "end": 33376,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 33541,
+      "end": 33550,
+      "label": "LOC"
+    },
+    {
+      "text": "bouillonnant",
+      "start": 33962,
+      "end": 33974,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 34588,
+      "end": 34604,
+      "label": "PER"
+    },
+    {
+      "text": "Girodet",
+      "start": 34835,
+      "end": 34842,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 34986,
+      "end": 34991,
+      "label": "LOC"
+    },
+    {
+      "text": "Girodet",
+      "start": 35174,
+      "end": 35181,
+      "label": "PER"
+    },
+    {
+      "text": "Girodet",
+      "start": 35349,
+      "end": 35356,
+      "label": "LOC"
+    },
+    {
+      "text": "Titien",
+      "start": 35409,
+      "end": 35415,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 35420,
+      "end": 35427,
+      "label": "PER"
+    },
+    {
+      "text": "Léonard de Vinci",
+      "start": 35434,
+      "end": 35450,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 35619,
+      "end": 35621,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 35677,
+      "end": 35683,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 35739,
+      "end": 35744,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 36034,
+      "end": 36039,
+      "label": "LOC"
+    },
+    {
+      "text": "Anciens !",
+      "start": 36084,
+      "end": 36093,
+      "label": "MISC"
+    },
+    {
+      "text": "Girodet",
+      "start": 36635,
+      "end": 36642,
+      "label": "PER"
+    },
+    {
+      "text": "Thébaïde",
+      "start": 37160,
+      "end": 37168,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 37175,
+      "end": 37190,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 37232,
+      "end": 37248,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 37299,
+      "end": 37308,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 37374,
+      "end": 37387,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 37412,
+      "end": 37421,
+      "label": "LOC"
+    },
+    {
+      "text": "au Louvre",
+      "start": 37523,
+      "end": 37532,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 37598,
+      "end": 37614,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 37934,
+      "end": 37947,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 38566,
+      "end": 38575,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 38612,
+      "end": 38617,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Guillaume",
+      "start": 38733,
+      "end": 38755,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 39139,
+      "end": 39148,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 39419,
+      "end": 39425,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 39468,
+      "end": 39477,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 39792,
+      "end": 39801,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 40540,
+      "end": 40549,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 40884,
+      "end": 40893,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 41586,
+      "end": 41599,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume de la célébrité",
+      "start": 41630,
+      "end": 41662,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 41678,
+      "end": 41682,
+      "label": "ORG"
+    },
+    {
+      "text": "Augustine",
+      "start": 41698,
+      "end": 41707,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 41781,
+      "end": 41786,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 41970,
+      "end": 41979,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 42332,
+      "end": 42344,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 42539,
+      "end": 42548,
+      "label": "LOC"
+    },
+    {
+      "text": "Elle s'initia aux craintes",
+      "start": 42723,
+      "end": 42749,
+      "label": "MISC"
+    },
+    {
+      "text": "Quels",
+      "start": 43026,
+      "end": 43031,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 43331,
+      "end": 43340,
+      "label": "LOC"
+    },
+    {
+      "text": "Salon",
+      "start": 43864,
+      "end": 43869,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 44003,
+      "end": 44019,
+      "label": "PER"
+    },
+    {
+      "text": "Salon",
+      "start": 44126,
+      "end": 44131,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 44141,
+      "end": 44150,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore de Sommervieux",
+      "start": 44292,
+      "end": 44315,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 44379,
+      "end": 44388,
+      "label": "LOC"
+    },
+    {
+      "text": "Chat",
+      "start": 44420,
+      "end": 44424,
+      "label": "ORG"
+    },
+    {
+      "text": "Salon",
+      "start": 44603,
+      "end": 44608,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Guillaume",
+      "start": 44644,
+      "end": 44660,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 44734,
+      "end": 44743,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 44875,
+      "end": 44883,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 44887,
+      "end": 44903,
+      "label": "PER"
+    },
+    {
+      "text": "Habile",
+      "start": 44976,
+      "end": 44982,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 45033,
+      "end": 45041,
+      "label": "PER"
+    },
+    {
+      "text": "Argus",
+      "start": 45161,
+      "end": 45166,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 45237,
+      "end": 45253,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 45558,
+      "end": 45566,
+      "label": "PER"
+    },
+    {
+      "text": "quinzaine",
+      "start": 45843,
+      "end": 45852,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 45902,
+      "end": 45911,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 45915,
+      "end": 45923,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 46062,
+      "end": 46071,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 46105,
+      "end": 46114,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 46139,
+      "end": 46147,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 46521,
+      "end": 46525,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 46541,
+      "end": 46550,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 47196,
+      "end": 47201,
+      "label": "LOC"
+    },
+    {
+      "text": "pavillon du Chat",
+      "start": 47211,
+      "end": 47227,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 47401,
+      "end": 47417,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 47434,
+      "end": 47442,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 47842,
+      "end": 47851,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 48095,
+      "end": 48102,
+      "label": "PER"
+    },
+    {
+      "text": "H N Z",
+      "start": 48105,
+      "end": 48110,
+      "label": "ORG"
+    },
+    {
+      "text": "Enlevé",
+      "start": 48115,
+      "end": 48121,
+      "label": "MISC"
+    },
+    {
+      "text": "Q X",
+      "start": 48143,
+      "end": 48146,
+      "label": "MISC"
+    },
+    {
+      "text": "Portez",
+      "start": 48198,
+      "end": 48204,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 48213,
+      "end": 48214,
+      "label": "LOC"
+    },
+    {
+      "text": "J J",
+      "start": 48220,
+      "end": 48223,
+      "label": "LOC"
+    },
+    {
+      "text": "M P",
+      "start": 48230,
+      "end": 48233,
+      "label": "LOC"
+    },
+    {
+      "text": "V D O. Mille",
+      "start": 48250,
+      "end": 48262,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 48482,
+      "end": 48491,
+      "label": "PER"
+    },
+    {
+      "text": "maison Guillaume",
+      "start": 48740,
+      "end": 48756,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 49275,
+      "end": 49284,
+      "label": "LOC"
+    },
+    {
+      "text": "Argus",
+      "start": 49320,
+      "end": 49325,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 49470,
+      "end": 49479,
+      "label": "PER"
+    },
+    {
+      "text": "Cendrillon",
+      "start": 49783,
+      "end": 49793,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 49798,
+      "end": 49806,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevrel",
+      "start": 51380,
+      "end": 51387,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 51785,
+      "end": 51797,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 52012,
+      "end": 52024,
+      "label": "PER"
+    },
+    {
+      "text": "Asseyez",
+      "start": 52046,
+      "end": 52053,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 52071,
+      "end": 52080,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 52192,
+      "end": 52204,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 52261,
+      "end": 52270,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 52343,
+      "end": 52350,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 52398,
+      "end": 52402,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 52503,
+      "end": 52509,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 52675,
+      "end": 52681,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 52817,
+      "end": 52833,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 52878,
+      "end": 52882,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph ",
+      "start": 52884,
+      "end": 52891,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 52893,
+      "end": 52902,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 52906,
+      "end": 52911,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 53060,
+      "end": 53072,
+      "label": "PER"
+    },
+    {
+      "text": "Ah, monsieur Guillaume !",
+      "start": 53105,
+      "end": 53129,
+      "label": "MISC"
+    },
+    {
+      "text": "Virginie",
+      "start": 53543,
+      "end": 53551,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 53596,
+      "end": 53602,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 53974,
+      "end": 53986,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 53998,
+      "end": 54002,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 54016,
+      "end": 54025,
+      "label": "PER"
+    },
+    {
+      "text": "Lecoq",
+      "start": 54126,
+      "end": 54131,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 54164,
+      "end": 54176,
+      "label": "PER"
+    },
+    {
+      "text": "Étienne",
+      "start": 54931,
+      "end": 54938,
+      "label": "MISC"
+    },
+    {
+      "text": "Joseph",
+      "start": 55480,
+      "end": 55486,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 55557,
+      "end": 55564,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 55665,
+      "end": 55674,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 55757,
+      "end": 55763,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 55802,
+      "end": 55806,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 55838,
+      "end": 55847,
+      "label": "PER"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 55886,
+      "end": 55895,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Augustine",
+      "start": 56078,
+      "end": 56100,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 56115,
+      "end": 56124,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 56135,
+      "end": 56147,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 56341,
+      "end": 56350,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 56383,
+      "end": 56392,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 56439,
+      "end": 56451,
+      "label": "PER"
+    },
+    {
+      "text": "Déconcerté",
+      "start": 56521,
+      "end": 56531,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 56563,
+      "end": 56572,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 56693,
+      "end": 56705,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 56746,
+      "end": 56752,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 56818,
+      "end": 56826,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 56941,
+      "end": 56950,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 56957,
+      "end": 56965,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 57153,
+      "end": 57162,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 57577,
+      "end": 57583,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Chevrel",
+      "start": 57662,
+      "end": 57682,
+      "label": "PER"
+    },
+    {
+      "text": "Céladons",
+      "start": 57961,
+      "end": 57969,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 58002,
+      "end": 58018,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 58037,
+      "end": 58043,
+      "label": "MISC"
+    },
+    {
+      "text": "Augustine",
+      "start": 58092,
+      "end": 58101,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 58175,
+      "end": 58184,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 58279,
+      "end": 58287,
+      "label": "LOC"
+    },
+    {
+      "text": "enfumé",
+      "start": 58335,
+      "end": 58341,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 58486,
+      "end": 58495,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 58586,
+      "end": 58602,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 58606,
+      "end": 58614,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 58737,
+      "end": 58749,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 58896,
+      "end": 58905,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 59066,
+      "end": 59074,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph",
+      "start": 59090,
+      "end": 59096,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 59286,
+      "end": 59295,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 59345,
+      "end": 59354,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 59356,
+      "end": 59372,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 59620,
+      "end": 59629,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 59726,
+      "end": 59735,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 60002,
+      "end": 60007,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Guillaume",
+      "start": 60105,
+      "end": 60123,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 60529,
+      "end": 60535,
+      "label": "PER"
+    },
+    {
+      "text": "Lourdois",
+      "start": 60649,
+      "end": 60657,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 60727,
+      "end": 60736,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 60742,
+      "end": 60758,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 60818,
+      "end": 60827,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 60843,
+      "end": 60851,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebas",
+      "start": 60897,
+      "end": 60902,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 60943,
+      "end": 60952,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 60956,
+      "end": 60964,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 61043,
+      "end": 61047,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 61049,
+      "end": 61065,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 61103,
+      "end": 61112,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 61574,
+      "end": 61583,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 61672,
+      "end": 61681,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 61817,
+      "end": 61822,
+      "label": "LOC"
+    },
+    {
+      "text": "Paroissien",
+      "start": 61946,
+      "end": 61956,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 62291,
+      "end": 62300,
+      "label": "PER"
+    },
+    {
+      "text": "Paroissien trembler",
+      "start": 62553,
+      "end": 62572,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 62667,
+      "end": 62683,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 62788,
+      "end": 62793,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 62833,
+      "end": 62849,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 63064,
+      "end": 63072,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 63410,
+      "end": 63416,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 63478,
+      "end": 63486,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 63559,
+      "end": 63567,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 63612,
+      "end": 63620,
+      "label": "LOC"
+    },
+    {
+      "text": "Lebas",
+      "start": 63702,
+      "end": 63707,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 63715,
+      "end": 63724,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 63827,
+      "end": 63835,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 63836,
+      "end": 63845,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 63856,
+      "end": 63868,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 63895,
+      "end": 63904,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 63923,
+      "end": 63928,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 63980,
+      "end": 63988,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Virginie",
+      "start": 64032,
+      "end": 64053,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph",
+      "start": 64078,
+      "end": 64084,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 64206,
+      "end": 64214,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 64218,
+      "end": 64234,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 64414,
+      "end": 64423,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore de Sommervieux",
+      "start": 64739,
+      "end": 64762,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 64985,
+      "end": 64996,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 65129,
+      "end": 65138,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 65224,
+      "end": 65240,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 65295,
+      "end": 65304,
+      "label": "LOC"
+    },
+    {
+      "text": "M.",
+      "start": 65448,
+      "end": 65450,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Vernet",
+      "start": 65451,
+      "end": 65464,
+      "label": "PER"
+    },
+    {
+      "text": "M. Lekain",
+      "start": 65470,
+      "end": 65479,
+      "label": "PER"
+    },
+    {
+      "text": "M. Noverre",
+      "start": 65487,
+      "end": 65497,
+      "label": "LOC"
+    },
+    {
+      "text": "M.",
+      "start": 65528,
+      "end": 65530,
+      "label": "PER"
+    },
+    {
+      "text": "Noverre",
+      "start": 65531,
+      "end": 65538,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Georges",
+      "start": 65559,
+      "end": 65572,
+      "label": "PER"
+    },
+    {
+      "text": "Philidor",
+      "start": 65588,
+      "end": 65596,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 65633,
+      "end": 65640,
+      "label": "MISC"
+    },
+    {
+      "text": "Ça",
+      "start": 65688,
+      "end": 65690,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 65729,
+      "end": 65733,
+      "label": "MISC"
+    },
+    {
+      "text": "Sumer",
+      "start": 65754,
+      "end": 65759,
+      "label": "PER"
+    },
+    {
+      "text": "Somm",
+      "start": 65763,
+      "end": 65767,
+      "label": "MISC"
+    },
+    {
+      "text": "De Sommervieux",
+      "start": 65773,
+      "end": 65787,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh bien !",
+      "start": 65802,
+      "end": 65811,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Georges",
+      "start": 65903,
+      "end": 65916,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Théodore",
+      "start": 66057,
+      "end": 66074,
+      "label": "PER"
+    },
+    {
+      "text": "chevalier de Sommervieux",
+      "start": 66141,
+      "end": 66165,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 66211,
+      "end": 66220,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 66391,
+      "end": 66400,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 66433,
+      "end": 66442,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 66908,
+      "end": 66921,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Roguin",
+      "start": 67078,
+      "end": 67091,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 67154,
+      "end": 67159,
+      "label": "LOC"
+    },
+    {
+      "text": "répéta t",
+      "start": 67222,
+      "end": 67230,
+      "label": "PER"
+    },
+    {
+      "text": "arche de Noé",
+      "start": 67256,
+      "end": 67268,
+      "label": "MISC"
+    },
+    {
+      "text": "Génie du christianisme",
+      "start": 67347,
+      "end": 67369,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 67402,
+      "end": 67418,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 67505,
+      "end": 67514,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 67726,
+      "end": 67735,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 67877,
+      "end": 67888,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 68074,
+      "end": 68083,
+      "label": "PER"
+    },
+    {
+      "text": "Apprenez",
+      "start": 68159,
+      "end": 68167,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 68235,
+      "end": 68251,
+      "label": "ORG"
+    },
+    {
+      "text": "Salon",
+      "start": 68280,
+      "end": 68285,
+      "label": "LOC"
+    },
+    {
+      "text": "Roguin",
+      "start": 68287,
+      "end": 68293,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 68364,
+      "end": 68375,
+      "label": "LOC"
+    },
+    {
+      "text": "Dupont",
+      "start": 68585,
+      "end": 68591,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 68713,
+      "end": 68719,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 68805,
+      "end": 68814,
+      "label": "PER"
+    },
+    {
+      "text": "madame la duchesse de Carigliano",
+      "start": 68954,
+      "end": 68986,
+      "label": "PER"
+    },
+    {
+      "text": "Chevrel",
+      "start": 69154,
+      "end": 69161,
+      "label": "MISC"
+    },
+    {
+      "text": "Augustine",
+      "start": 69213,
+      "end": 69222,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 69231,
+      "end": 69244,
+      "label": "PER"
+    },
+    {
+      "text": "Vice Connétable",
+      "start": 69375,
+      "end": 69390,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 69541,
+      "end": 69547,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Roguin",
+      "start": 69699,
+      "end": 69712,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 69840,
+      "end": 69856,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 70111,
+      "end": 70119,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 70120,
+      "end": 70129,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 70981,
+      "end": 70985,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 71038,
+      "end": 71051,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 71063,
+      "end": 71079,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 71223,
+      "end": 71234,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 71322,
+      "end": 71334,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 71472,
+      "end": 71478,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 71491,
+      "end": 71497,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 71532,
+      "end": 71541,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 71543,
+      "end": 71555,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 71609,
+      "end": 71617,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71648,
+      "end": 71656,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 71660,
+      "end": 71676,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 71741,
+      "end": 71745,
+      "label": "ORG"
+    },
+    {
+      "text": "Théodore",
+      "start": 71839,
+      "end": 71847,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 72035,
+      "end": 72044,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 72148,
+      "end": 72164,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 72200,
+      "end": 72205,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 72457,
+      "end": 72466,
+      "label": "PER"
+    },
+    {
+      "text": "touchez",
+      "start": 72488,
+      "end": 72495,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 72641,
+      "end": 72645,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 72681,
+      "end": 72683,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 72813,
+      "end": 72825,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 73153,
+      "end": 73162,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 73189,
+      "end": 73205,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 73426,
+      "end": 73435,
+      "label": "PER"
+    },
+    {
+      "text": "Ma chère enfant",
+      "start": 73522,
+      "end": 73537,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 74381,
+      "end": 74386,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecocq",
+      "start": 74607,
+      "end": 74613,
+      "label": "LOC"
+    },
+    {
+      "text": "Chevrel",
+      "start": 75035,
+      "end": 75042,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 75075,
+      "end": 75080,
+      "label": "PER"
+    },
+    {
+      "text": "Promets le moi",
+      "start": 75098,
+      "end": 75112,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 75304,
+      "end": 75312,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 75316,
+      "end": 75332,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Leu",
+      "start": 75396,
+      "end": 75405,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 75451,
+      "end": 75460,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 75464,
+      "end": 75472,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 75652,
+      "end": 75660,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 75811,
+      "end": 75819,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 75820,
+      "end": 75829,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 75902,
+      "end": 75910,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 75928,
+      "end": 75937,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 76154,
+      "end": 76162,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 76317,
+      "end": 76326,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 76414,
+      "end": 76423,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 76579,
+      "end": 76588,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 76849,
+      "end": 76857,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 76861,
+      "end": 76877,
+      "label": "PER"
+    },
+    {
+      "text": "Colombier",
+      "start": 76917,
+      "end": 76926,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 76953,
+      "end": 76961,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 76972,
+      "end": 76977,
+      "label": "PER"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 77034,
+      "end": 77049,
+      "label": "LOC"
+    },
+    {
+      "text": "Chat",
+      "start": 77076,
+      "end": 77080,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 77150,
+      "end": 77159,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Trois Frères",
+      "start": 77203,
+      "end": 77223,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 77302,
+      "end": 77310,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 77488,
+      "end": 77496,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 77784,
+      "end": 77793,
+      "label": "LOC"
+    },
+    {
+      "text": "Heureuse",
+      "start": 78204,
+      "end": 78212,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 78632,
+      "end": 78643,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 78814,
+      "end": 78825,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 79258,
+      "end": 79266,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 79286,
+      "end": 79295,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux sentit un matin la nécessité de reprendre ses travaux et ses habitudes",
+      "start": 79504,
+      "end": 79586,
+      "label": "MISC"
+    },
+    {
+      "text": "duchesse de Carigliano",
+      "start": 79912,
+      "end": 79934,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 79998,
+      "end": 80007,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 80121,
+      "end": 80129,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 80436,
+      "end": 80445,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 80741,
+      "end": 80752,
+      "label": "MISC"
+    },
+    {
+      "text": "Théodore",
+      "start": 81146,
+      "end": 81154,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 81585,
+      "end": 81594,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 81735,
+      "end": 81744,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 81846,
+      "end": 81854,
+      "label": "PER"
+    },
+    {
+      "text": "Nécessité",
+      "start": 82832,
+      "end": 82841,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 83184,
+      "end": 83193,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 83302,
+      "end": 83310,
+      "label": "PER"
+    },
+    {
+      "text": "Transfiguration",
+      "start": 83521,
+      "end": 83536,
+      "label": "MISC"
+    },
+    {
+      "text": "Raphaël",
+      "start": 83540,
+      "end": 83547,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 83594,
+      "end": 83603,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 83774,
+      "end": 83790,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 83936,
+      "end": 83945,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 84201,
+      "end": 84212,
+      "label": "MISC"
+    },
+    {
+      "text": "Théodore",
+      "start": 84447,
+      "end": 84455,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 85042,
+      "end": 85051,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 85250,
+      "end": 85259,
+      "label": "LOC"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 86207,
+      "end": 86218,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 86264,
+      "end": 86273,
+      "label": "LOC"
+    },
+    {
+      "text": "Théodore",
+      "start": 86605,
+      "end": 86613,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 87069,
+      "end": 87078,
+      "label": "PER"
+    },
+    {
+      "text": "madame la duchesse de Carigliano",
+      "start": 87149,
+      "end": 87181,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 87283,
+      "end": 87294,
+      "label": "MISC"
+    },
+    {
+      "text": "Augustine",
+      "start": 87432,
+      "end": 87441,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 88178,
+      "end": 88186,
+      "label": "PER"
+    },
+    {
+      "text": "osa t",
+      "start": 88681,
+      "end": 88686,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Sommervieux",
+      "start": 88996,
+      "end": 89017,
+      "label": "PER"
+    },
+    {
+      "text": "Théodore",
+      "start": 89760,
+      "end": 89768,
+      "label": "PER"
+    },
+    {
+      "text": "Embarrassée",
+      "start": 90024,
+      "end": 90035,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 90166,
+      "end": 90175,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 90291,
+      "end": 90300,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustine",
+      "start": 91254,
+      "end": 91263,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 91652,
+      "end": 91661,
+      "label": "PER"
+    },
+    {
+      "text": "Lebas",
+      "start": 91776,
+      "end": 91781,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 91937,
+      "end": 91946,
+      "label": "LOC"
+    },
+    {
+      "text": "Virginie",
+      "start": 92030,
+      "end": 92038,
+      "label": "LOC"
+    },
+    {
+      "text": "Chat",
+      "start": 92089,
+      "end": 92093,
+      "label": "ORG"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 92220,
+      "end": 92232,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 92428,
+      "end": 92436,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Lebas",
+      "start": 92492,
+      "end": 92504,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 92678,
+      "end": 92687,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 93178,
+      "end": 93186,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 93236,
+      "end": 93248,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 93313,
+      "end": 93322,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Saint Denis",
+      "start": 93433,
+      "end": 93448,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 93505,
+      "end": 93517,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 93680,
+      "end": 93689,
+      "label": "LOC"
+    },
+    {
+      "text": "balance",
+      "start": 93908,
+      "end": 93915,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 94164,
+      "end": 94176,
+      "label": "PER"
+    },
+    {
+      "text": "Colombier",
+      "start": 94389,
+      "end": 94398,
+      "label": "LOC"
+    },
+    {
+      "text": "Maximum",
+      "start": 94963,
+      "end": 94970,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecocq",
+      "start": 95097,
+      "end": 95103,
+      "label": "LOC"
+    },
+    {
+      "text": "bataille de Marengo",
+      "start": 95108,
+      "end": 95127,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 95136,
+      "end": 95145,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 95329,
+      "end": 95340,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 95365,
+      "end": 95374,
+      "label": "PER"
+    },
+    {
+      "text": "Chat",
+      "start": 95424,
+      "end": 95428,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 95758,
+      "end": 95774,
+      "label": "PER"
+    },
+    {
+      "text": "Sommervieux",
+      "start": 95970,
+      "end": 95981,
+      "label": "MISC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 95991,
+      "end": 96000,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 96153,
+      "end": 96169,
+      "label": "PER"
+    },
+    {
+      "text": "Guillaume",
+      "start": 96516,
+      "end": 96525,
+      "label": "PER"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 96806,
+      "end": 96822,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 97208,
+      "end": 97217,
+      "label": "LOC"
+    },
+    {
+      "text": "Joseph Lebas",
+      "start": 97320,
+      "end": 97332,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Guillaume",
+      "start": 97987,
+      "end": 98003,
+      "label": "PER"
+    },
+    {
+      "text": "Hontan",
+      "start": 98147,
+      "end": 98153,
+      "label": "LOC"
+    },
+    {
+      "text": "Canada",
+      "start": 98264,
+      "end": 98270,
+      "label": "LOC"
+    },
+    {
+      "text": "Guillaume",
+      "start": 99055,
+      "end": 99064,
+      "label": "PER"
+    },
+    {
+      "text": "Augustine",
+      "start": 99135,
+      "end": 99144,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Guillaume",
+      "start": 99263,
+      "end": 99279,
+      "label": "PER"
+    }
+  ]
+}

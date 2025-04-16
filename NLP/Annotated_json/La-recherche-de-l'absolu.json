@@ -1,0 +1,2452 @@
+{
+  "entities": [
+    {
+      "text": "ABSOLU",
+      "start": 18,
+      "end": 24,
+      "label": "MISC"
+    },
+    {
+      "text": "NÉE DOUMERC",
+      "start": 61,
+      "end": 72,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 74,
+      "end": 80,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 88,
+      "end": 92,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 594,
+      "end": 600,
+      "label": "MISC"
+    },
+    {
+      "text": "Douai",
+      "start": 620,
+      "end": 625,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Paris",
+      "start": 634,
+      "end": 646,
+      "label": "LOC"
+    },
+    {
+      "text": "Nature",
+      "start": 1263,
+      "end": 1269,
+      "label": "MISC"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 3880,
+      "end": 3891,
+      "label": "PER"
+    },
+    {
+      "text": "Bianca Capello",
+      "start": 3893,
+      "end": 3907,
+      "label": "PER"
+    },
+    {
+      "text": "La Vallière",
+      "start": 3925,
+      "end": 3936,
+      "label": "LOC"
+    },
+    {
+      "text": "Beethowen",
+      "start": 3938,
+      "end": 3947,
+      "label": "PER"
+    },
+    {
+      "text": "Paganini",
+      "start": 3951,
+      "end": 3959,
+      "label": "PER"
+    },
+    {
+      "text": "Flandre",
+      "start": 4519,
+      "end": 4526,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandres",
+      "start": 5597,
+      "end": 5605,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourguignons",
+      "start": 5826,
+      "end": 5838,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 5844,
+      "end": 5853,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 5859,
+      "end": 5867,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemands",
+      "start": 5906,
+      "end": 5915,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 5923,
+      "end": 5933,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 5940,
+      "end": 5947,
+      "label": "LOC"
+    },
+    {
+      "text": "Venise",
+      "start": 6102,
+      "end": 6108,
+      "label": "LOC"
+    },
+    {
+      "text": "Autriche",
+      "start": 6242,
+      "end": 6250,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 6384,
+      "end": 6389,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 6429,
+      "end": 6437,
+      "label": "LOC"
+    },
+    {
+      "text": "Japon",
+      "start": 6460,
+      "end": 6465,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandres",
+      "start": 6555,
+      "end": 6563,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Art",
+      "start": 7134,
+      "end": 7139,
+      "label": "ORG"
+    },
+    {
+      "text": "Forme",
+      "start": 7197,
+      "end": 7202,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 8084,
+      "end": 8092,
+      "label": "LOC"
+    },
+    {
+      "text": "Flamands",
+      "start": 8170,
+      "end": 8178,
+      "label": "LOC"
+    },
+    {
+      "text": "Pays Bas",
+      "start": 8752,
+      "end": 8760,
+      "label": "LOC"
+    },
+    {
+      "text": "Hanse",
+      "start": 8868,
+      "end": 8873,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 9079,
+      "end": 9084,
+      "label": "LOC"
+    },
+    {
+      "text": "département du Nord",
+      "start": 9110,
+      "end": 9129,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 9131,
+      "end": 9136,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9420,
+      "end": 9425,
+      "label": "LOC"
+    },
+    {
+      "text": "Douaisiens",
+      "start": 9474,
+      "end": 9484,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 9607,
+      "end": 9615,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9886,
+      "end": 9891,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 9904,
+      "end": 9909,
+      "label": "LOC"
+    },
+    {
+      "text": "Maison Claës",
+      "start": 9955,
+      "end": 9967,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Claës",
+      "start": 9973,
+      "end": 9982,
+      "label": "PER"
+    },
+    {
+      "text": "Pays Bas",
+      "start": 10051,
+      "end": 10059,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 10165,
+      "end": 10170,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 10195,
+      "end": 10199,
+      "label": "LOC"
+    },
+    {
+      "text": "Tisserands",
+      "start": 10258,
+      "end": 10268,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 10317,
+      "end": 10330,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 10390,
+      "end": 10395,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 10547,
+      "end": 10556,
+      "label": "LOC"
+    },
+    {
+      "text": "Syndic",
+      "start": 10680,
+      "end": 10686,
+      "label": "ORG"
+    },
+    {
+      "text": "Tisserands",
+      "start": 10691,
+      "end": 10701,
+      "label": "MISC"
+    },
+    {
+      "text": "Claës",
+      "start": 10897,
+      "end": 10902,
+      "label": "PER"
+    },
+    {
+      "text": "roi des Espagnes",
+      "start": 10988,
+      "end": 11004,
+      "label": "LOC"
+    },
+    {
+      "text": "Pays Bas",
+      "start": 11055,
+      "end": 11063,
+      "label": "LOC"
+    },
+    {
+      "text": "Philippe II",
+      "start": 11190,
+      "end": 11201,
+      "label": "PER"
+    },
+    {
+      "text": "Douai",
+      "start": 11271,
+      "end": 11276,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 11301,
+      "end": 11306,
+      "label": "LOC"
+    },
+    {
+      "text": "Molina",
+      "start": 11380,
+      "end": 11386,
+      "label": "PER"
+    },
+    {
+      "text": "comté de Nourho",
+      "start": 11469,
+      "end": 11484,
+      "label": "LOC"
+    },
+    {
+      "text": "royaume de Léon",
+      "start": 11532,
+      "end": 11547,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 11671,
+      "end": 11676,
+      "label": "PER"
+    },
+    {
+      "text": "Douai",
+      "start": 11722,
+      "end": 11727,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar Claës Molina",
+      "start": 11757,
+      "end": 11779,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 11834,
+      "end": 11849,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 11955,
+      "end": 11964,
+      "label": "LOC"
+    },
+    {
+      "text": "arrondissement de Douai",
+      "start": 12028,
+      "end": 12051,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de Paris",
+      "start": 12072,
+      "end": 12084,
+      "label": "LOC"
+    },
+    {
+      "text": "royaume de Léon",
+      "start": 12158,
+      "end": 12173,
+      "label": "LOC"
+    },
+    {
+      "text": "Molina de Flandre",
+      "start": 12223,
+      "end": 12240,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 12282,
+      "end": 12289,
+      "label": "LOC"
+    },
+    {
+      "text": "Molina de Léon",
+      "start": 12295,
+      "end": 12309,
+      "label": "PER"
+    },
+    {
+      "text": "Nourho",
+      "start": 12366,
+      "end": 12372,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 12386,
+      "end": 12391,
+      "label": "LOC"
+    },
+    {
+      "text": "État Civil",
+      "start": 12525,
+      "end": 12535,
+      "label": "MISC"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 12550,
+      "end": 12565,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 12797,
+      "end": 12802,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruges",
+      "start": 13110,
+      "end": 13116,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 13122,
+      "end": 13126,
+      "label": "LOC"
+    },
+    {
+      "text": "Liége",
+      "start": 13130,
+      "end": 13135,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 13142,
+      "end": 13150,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 13639,
+      "end": 13644,
+      "label": "LOC"
+    },
+    {
+      "text": "Gayant",
+      "start": 13743,
+      "end": 13749,
+      "label": "PER"
+    },
+    {
+      "text": "Maison Claës",
+      "start": 13783,
+      "end": 13795,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 13820,
+      "end": 13827,
+      "label": "LOC"
+    },
+    {
+      "text": "Moyen",
+      "start": 13995,
+      "end": 14000,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 14143,
+      "end": 14148,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Geneviève",
+      "start": 14396,
+      "end": 14412,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 14829,
+      "end": 14837,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 16986,
+      "end": 16991,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 17456,
+      "end": 17463,
+      "label": "LOC"
+    },
+    {
+      "text": "lingerie",
+      "start": 18866,
+      "end": 18874,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 19408,
+      "end": 19415,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 20248,
+      "end": 20253,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 20392,
+      "end": 20397,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 20676,
+      "end": 20681,
+      "label": "PER"
+    },
+    {
+      "text": "révolte des Gantois",
+      "start": 20835,
+      "end": 20854,
+      "label": "MISC"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 20856,
+      "end": 20867,
+      "label": "PER"
+    },
+    {
+      "text": "vie d'Artewelde",
+      "start": 21004,
+      "end": 21019,
+      "label": "MISC"
+    },
+    {
+      "text": "Flandres",
+      "start": 21052,
+      "end": 21060,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 21200,
+      "end": 21211,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 21261,
+      "end": 21274,
+      "label": "PER"
+    },
+    {
+      "text": "Van Claës",
+      "start": 21367,
+      "end": 21376,
+      "label": "PER"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 21426,
+      "end": 21437,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 21476,
+      "end": 21482,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 21575,
+      "end": 21586,
+      "label": "PER"
+    },
+    {
+      "text": "Van Claës",
+      "start": 21810,
+      "end": 21819,
+      "label": "PER"
+    },
+    {
+      "text": "Titien",
+      "start": 21831,
+      "end": 21837,
+      "label": "PER"
+    },
+    {
+      "text": "tribunal des Parchons",
+      "start": 21871,
+      "end": 21892,
+      "label": "MISC"
+    },
+    {
+      "text": "damas rouge",
+      "start": 22268,
+      "end": 22279,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 22376,
+      "end": 22385,
+      "label": "PER"
+    },
+    {
+      "text": "Van Huysium",
+      "start": 22589,
+      "end": 22600,
+      "label": "PER"
+    },
+    {
+      "text": "Hollande",
+      "start": 22666,
+      "end": 22674,
+      "label": "LOC"
+    },
+    {
+      "text": "le soleil",
+      "start": 23622,
+      "end": 23631,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Claës",
+      "start": 23724,
+      "end": 23736,
+      "label": "LOC"
+    },
+    {
+      "text": "damas",
+      "start": 24341,
+      "end": 24346,
+      "label": "LOC"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 27688,
+      "end": 27697,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 28272,
+      "end": 28276,
+      "label": "MISC"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 31646,
+      "end": 31661,
+      "label": "PER"
+    },
+    {
+      "text": "front brun",
+      "start": 32036,
+      "end": 32046,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 32220,
+      "end": 32229,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 32318,
+      "end": 32323,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Quint",
+      "start": 32384,
+      "end": 32397,
+      "label": "PER"
+    },
+    {
+      "text": "Artewelde",
+      "start": 32413,
+      "end": 32422,
+      "label": "PER"
+    },
+    {
+      "text": "Gall",
+      "start": 33303,
+      "end": 33307,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 34059,
+      "end": 34074,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 35730,
+      "end": 35745,
+      "label": "PER"
+    },
+    {
+      "text": "Génie",
+      "start": 35876,
+      "end": 35881,
+      "label": "LOC"
+    },
+    {
+      "text": "Génie",
+      "start": 36106,
+      "end": 36111,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 36241,
+      "end": 36245,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 36413,
+      "end": 36428,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 36990,
+      "end": 37005,
+      "label": "PER"
+    },
+    {
+      "text": "Lavater",
+      "start": 37063,
+      "end": 37070,
+      "label": "PER"
+    },
+    {
+      "text": "parole de Dieu",
+      "start": 37774,
+      "end": 37788,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyant de l'",
+      "start": 37871,
+      "end": 37883,
+      "label": "MISC"
+    },
+    {
+      "text": "Église Swedenborgienne",
+      "start": 37883,
+      "end": 37905,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 38488,
+      "end": 38503,
+      "label": "PER"
+    },
+    {
+      "text": "Belgique",
+      "start": 38644,
+      "end": 38652,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 39120,
+      "end": 39129,
+      "label": "PER"
+    },
+    {
+      "text": "Flamandes",
+      "start": 39228,
+      "end": 39237,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 39332,
+      "end": 39341,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 39450,
+      "end": 39455,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 39625,
+      "end": 39634,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 40247,
+      "end": 40256,
+      "label": "PER"
+    },
+    {
+      "text": "Vêpres",
+      "start": 40320,
+      "end": 40326,
+      "label": "LOC"
+    },
+    {
+      "text": "Deviendrait",
+      "start": 40616,
+      "end": 40627,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 40822,
+      "end": 40837,
+      "label": "PER"
+    },
+    {
+      "text": "duc de",
+      "start": 40863,
+      "end": 40869,
+      "label": "PER"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 40870,
+      "end": 40879,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar Claës Molina de Nourho",
+      "start": 40906,
+      "end": 40938,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 41013,
+      "end": 41019,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41066,
+      "end": 41071,
+      "label": "LOC"
+    },
+    {
+      "text": "madame d'Egmont",
+      "start": 41125,
+      "end": 41140,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Horn",
+      "start": 41145,
+      "end": 41158,
+      "label": "PER"
+    },
+    {
+      "text": "prince d'Aremberg",
+      "start": 41163,
+      "end": 41180,
+      "label": "PER"
+    },
+    {
+      "text": "d'Espagne",
+      "start": 41199,
+      "end": 41208,
+      "label": "LOC"
+    },
+    {
+      "text": "Helvétius",
+      "start": 41212,
+      "end": 41221,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 41227,
+      "end": 41235,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 41251,
+      "end": 41259,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 41427,
+      "end": 41432,
+      "label": "PER"
+    },
+    {
+      "text": "Lavoisier",
+      "start": 41724,
+      "end": 41733,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 41956,
+      "end": 41965,
+      "label": "PER"
+    },
+    {
+      "text": "Lavoisier",
+      "start": 42009,
+      "end": 42018,
+      "label": "PER"
+    },
+    {
+      "text": "Helvétius",
+      "start": 42095,
+      "end": 42104,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 42123,
+      "end": 42128,
+      "label": "LOC"
+    },
+    {
+      "text": "Lavoisier",
+      "start": 42246,
+      "end": 42255,
+      "label": "PER"
+    },
+    {
+      "text": "Europe",
+      "start": 42493,
+      "end": 42499,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 42592,
+      "end": 42597,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 42599,
+      "end": 42608,
+      "label": "LOC"
+    },
+    {
+      "text": "Flandre",
+      "start": 42782,
+      "end": 42789,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43055,
+      "end": 43060,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 43062,
+      "end": 43067,
+      "label": "LOC"
+    },
+    {
+      "text": "Science, de l'Art ou du Pouvoir",
+      "start": 43186,
+      "end": 43217,
+      "label": "ORG"
+    },
+    {
+      "text": "Flandre",
+      "start": 43234,
+      "end": 43241,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 43251,
+      "end": 43256,
+      "label": "LOC"
+    },
+    {
+      "text": "Gayant",
+      "start": 43339,
+      "end": 43345,
+      "label": "PER"
+    },
+    {
+      "text": "Douai",
+      "start": 43490,
+      "end": 43495,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Claës",
+      "start": 43551,
+      "end": 43563,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 43866,
+      "end": 43870,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruges",
+      "start": 43879,
+      "end": 43885,
+      "label": "LOC"
+    },
+    {
+      "text": "Anvers",
+      "start": 43894,
+      "end": 43900,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 44161,
+      "end": 44165,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruxelles",
+      "start": 44187,
+      "end": 44196,
+      "label": "LOC"
+    },
+    {
+      "text": "Temninck",
+      "start": 44296,
+      "end": 44304,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 44411,
+      "end": 44426,
+      "label": "PER"
+    },
+    {
+      "text": "Temninck",
+      "start": 44818,
+      "end": 44826,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 44951,
+      "end": 44966,
+      "label": "PER"
+    },
+    {
+      "text": "Temninck",
+      "start": 44995,
+      "end": 45003,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine de Temninck",
+      "start": 45077,
+      "end": 45098,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 45158,
+      "end": 45163,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Joséphine",
+      "start": 46968,
+      "end": 46990,
+      "label": "PER"
+    },
+    {
+      "text": "Temninck",
+      "start": 46994,
+      "end": 47002,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 47446,
+      "end": 47455,
+      "label": "LOC"
+    },
+    {
+      "text": "Temninck",
+      "start": 48609,
+      "end": 48617,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 49183,
+      "end": 49192,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 49364,
+      "end": 49369,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 49850,
+      "end": 49859,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 50345,
+      "end": 50354,
+      "label": "PER"
+    },
+    {
+      "text": "Temninck",
+      "start": 50537,
+      "end": 50545,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 51140,
+      "end": 51149,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 51262,
+      "end": 51267,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 51339,
+      "end": 51344,
+      "label": "LOC"
+    },
+    {
+      "text": "Temninck",
+      "start": 51398,
+      "end": 51406,
+      "label": "PER"
+    },
+    {
+      "text": "Murillo",
+      "start": 51446,
+      "end": 51453,
+      "label": "PER"
+    },
+    {
+      "text": "Velasquez",
+      "start": 51460,
+      "end": 51469,
+      "label": "PER"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 51563,
+      "end": 51572,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Claës",
+      "start": 51614,
+      "end": 51626,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 53292,
+      "end": 53301,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 54040,
+      "end": 54046,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 54640,
+      "end": 54649,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 55066,
+      "end": 55081,
+      "label": "PER"
+    },
+    {
+      "text": "Temninck",
+      "start": 55110,
+      "end": 55118,
+      "label": "PER"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 55328,
+      "end": 55337,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar",
+      "start": 55663,
+      "end": 55672,
+      "label": "PER"
+    },
+    {
+      "text": "Oublier",
+      "start": 56578,
+      "end": 56585,
+      "label": "LOC"
+    },
+    {
+      "text": "Évangile des femmes",
+      "start": 56756,
+      "end": 56775,
+      "label": "MISC"
+    },
+    {
+      "text": "Adam",
+      "start": 57184,
+      "end": 57188,
+      "label": "PER"
+    },
+    {
+      "text": "Cléopâtre",
+      "start": 57694,
+      "end": 57703,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanne de Naples",
+      "start": 57705,
+      "end": 57721,
+      "label": "PER"
+    },
+    {
+      "text": "Diane de Poitiers",
+      "start": 57723,
+      "end": 57740,
+      "label": "PER"
+    },
+    {
+      "text": "La Vallière",
+      "start": 57758,
+      "end": 57769,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 57771,
+      "end": 57790,
+      "label": "PER"
+    },
+    {
+      "text": "Mille",
+      "start": 58364,
+      "end": 58369,
+      "label": "LOC"
+    },
+    {
+      "text": "Nuits",
+      "start": 58377,
+      "end": 58382,
+      "label": "MISC"
+    },
+    {
+      "text": "Henri VIII",
+      "start": 58392,
+      "end": 58402,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 58543,
+      "end": 58555,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 59266,
+      "end": 59275,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 59498,
+      "end": 59507,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 59545,
+      "end": 59550,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 59780,
+      "end": 59792,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 60597,
+      "end": 60600,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Claës",
+      "start": 60622,
+      "end": 60634,
+      "label": "PER"
+    },
+    {
+      "text": "Flamande",
+      "start": 60688,
+      "end": 60696,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 60767,
+      "end": 60776,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 60942,
+      "end": 60947,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 61034,
+      "end": 61038,
+      "label": "MISC"
+    },
+    {
+      "text": "Marguerite",
+      "start": 61643,
+      "end": 61653,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Balthazar",
+      "start": 61735,
+      "end": 61749,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 61782,
+      "end": 61794,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 62281,
+      "end": 62293,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 62648,
+      "end": 62663,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 62720,
+      "end": 62729,
+      "label": "PER"
+    },
+    {
+      "text": "maison Claës",
+      "start": 63122,
+      "end": 63134,
+      "label": "LOC"
+    },
+    {
+      "text": "Rubens",
+      "start": 63848,
+      "end": 63854,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruysdaël",
+      "start": 63859,
+      "end": 63867,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Dyck",
+      "start": 63872,
+      "end": 63880,
+      "label": "PER"
+    },
+    {
+      "text": "Terburg",
+      "start": 63885,
+      "end": 63892,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 63897,
+      "end": 63907,
+      "label": "PER"
+    },
+    {
+      "text": "Teniers",
+      "start": 63912,
+      "end": 63919,
+      "label": "LOC"
+    },
+    {
+      "text": "Miéris",
+      "start": 63924,
+      "end": 63930,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul Potter",
+      "start": 63935,
+      "end": 63946,
+      "label": "PER"
+    },
+    {
+      "text": "Wouwermans",
+      "start": 63951,
+      "end": 63961,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 63966,
+      "end": 63975,
+      "label": "PER"
+    },
+    {
+      "text": "Hobbéma",
+      "start": 63979,
+      "end": 63986,
+      "label": "PER"
+    },
+    {
+      "text": "Cranach",
+      "start": 63991,
+      "end": 63998,
+      "label": "PER"
+    },
+    {
+      "text": "Holbein",
+      "start": 64004,
+      "end": 64011,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 64201,
+      "end": 64206,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 64390,
+      "end": 64399,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 64762,
+      "end": 64777,
+      "label": "PER"
+    },
+    {
+      "text": "Orchies",
+      "start": 64835,
+      "end": 64842,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 64869,
+      "end": 64877,
+      "label": "LOC"
+    },
+    {
+      "text": "Code Civil",
+      "start": 65126,
+      "end": 65136,
+      "label": "MISC"
+    },
+    {
+      "text": "Titre des Successions",
+      "start": 65210,
+      "end": 65231,
+      "label": "MISC"
+    },
+    {
+      "text": "musée Claës",
+      "start": 65320,
+      "end": 65331,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 65333,
+      "end": 65342,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 65358,
+      "end": 65370,
+      "label": "PER"
+    },
+    {
+      "text": "maison Claës",
+      "start": 65490,
+      "end": 65502,
+      "label": "LOC"
+    },
+    {
+      "text": "Douai",
+      "start": 65719,
+      "end": 65724,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 65751,
+      "end": 65756,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 66538,
+      "end": 66553,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 66920,
+      "end": 66929,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 67018,
+      "end": 67023,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 67286,
+      "end": 67295,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 67798,
+      "end": 67807,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 67968,
+      "end": 67980,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 68337,
+      "end": 68346,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 68437,
+      "end": 68446,
+      "label": "PER"
+    },
+    {
+      "text": "Pépita moins heureuse",
+      "start": 68532,
+      "end": 68553,
+      "label": "MISC"
+    },
+    {
+      "text": "Claës",
+      "start": 69311,
+      "end": 69316,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 69362,
+      "end": 69371,
+      "label": "LOC"
+    },
+    {
+      "text": "Pépita",
+      "start": 69638,
+      "end": 69644,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 69755,
+      "end": 69760,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 70119,
+      "end": 70128,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 70597,
+      "end": 70606,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 71262,
+      "end": 71271,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 71575,
+      "end": 71584,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 72749,
+      "end": 72758,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 73187,
+      "end": 73196,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 73304,
+      "end": 73316,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Balthazar",
+      "start": 73490,
+      "end": 73508,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 73894,
+      "end": 73899,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 74095,
+      "end": 74104,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 74257,
+      "end": 74266,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 74342,
+      "end": 74354,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 74477,
+      "end": 74482,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Claës",
+      "start": 74822,
+      "end": 74834,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 75178,
+      "end": 75187,
+      "label": "PER"
+    },
+    {
+      "text": "Flamand",
+      "start": 75258,
+      "end": 75265,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma chère",
+      "start": 75307,
+      "end": 75315,
+      "label": "MISC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 75352,
+      "end": 75361,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 75541,
+      "end": 75550,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 75748,
+      "end": 75753,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 75953,
+      "end": 75958,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 76017,
+      "end": 76026,
+      "label": "PER"
+    },
+    {
+      "text": "Quelquefois Balthazar",
+      "start": 76312,
+      "end": 76333,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 76413,
+      "end": 76425,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 76803,
+      "end": 76812,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 77223,
+      "end": 77227,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Claës",
+      "start": 77328,
+      "end": 77340,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 77726,
+      "end": 77735,
+      "label": "PER"
+    },
+    {
+      "text": "Flamandes",
+      "start": 77875,
+      "end": 77884,
+      "label": "LOC"
+    },
+    {
+      "text": "Lemulquinier",
+      "start": 77902,
+      "end": 77914,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 77946,
+      "end": 77955,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 78083,
+      "end": 78092,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 78388,
+      "end": 78397,
+      "label": "LOC"
+    },
+    {
+      "text": "Science",
+      "start": 78505,
+      "end": 78512,
+      "label": "ORG"
+    },
+    {
+      "text": "Science",
+      "start": 78644,
+      "end": 78651,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar",
+      "start": 79168,
+      "end": 79177,
+      "label": "PER"
+    },
+    {
+      "text": "Lemulquinier",
+      "start": 79575,
+      "end": 79587,
+      "label": "LOC"
+    },
+    {
+      "text": "Lemulquinier",
+      "start": 80000,
+      "end": 80012,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 80165,
+      "end": 80174,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 80324,
+      "end": 80328,
+      "label": "MISC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 80358,
+      "end": 80367,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 80431,
+      "end": 80443,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 80806,
+      "end": 80815,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 80958,
+      "end": 80967,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Claës",
+      "start": 81778,
+      "end": 81790,
+      "label": "PER"
+    },
+    {
+      "text": "Science",
+      "start": 81813,
+      "end": 81820,
+      "label": "ORG"
+    },
+    {
+      "text": "Joséphine",
+      "start": 82120,
+      "end": 82129,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 82488,
+      "end": 82500,
+      "label": "PER"
+    },
+    {
+      "text": "maison Claës",
+      "start": 82737,
+      "end": 82749,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Claës",
+      "start": 82931,
+      "end": 82943,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 83124,
+      "end": 83133,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 83347,
+      "end": 83359,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 83588,
+      "end": 83593,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 83656,
+      "end": 83665,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 83736,
+      "end": 83741,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin d'Anvers",
+      "start": 83759,
+      "end": 83776,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin de Douai",
+      "start": 83805,
+      "end": 83822,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 83874,
+      "end": 83879,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Pierquin",
+      "start": 83908,
+      "end": 83925,
+      "label": "PER"
+    },
+    {
+      "text": "maison Claës",
+      "start": 84050,
+      "end": 84062,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Balthazar",
+      "start": 84064,
+      "end": 84080,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 84459,
+      "end": 84464,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 84580,
+      "end": 84592,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin",
+      "start": 84601,
+      "end": 84609,
+      "label": "PER"
+    },
+    {
+      "text": "Protez",
+      "start": 84695,
+      "end": 84701,
+      "label": "MISC"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 84705,
+      "end": 84717,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 84819,
+      "end": 84831,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin",
+      "start": 84835,
+      "end": 84843,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 85560,
+      "end": 85565,
+      "label": "PER"
+    },
+    {
+      "text": "Protez",
+      "start": 85647,
+      "end": 85653,
+      "label": "LOC"
+    },
+    {
+      "text": "Chiffreville",
+      "start": 85657,
+      "end": 85669,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 85769,
+      "end": 85774,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 85864,
+      "end": 85869,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 85904,
+      "end": 85916,
+      "label": "PER"
+    },
+    {
+      "text": "Douai",
+      "start": 85959,
+      "end": 85964,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierquin",
+      "start": 86035,
+      "end": 86043,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 86123,
+      "end": 86128,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 86735,
+      "end": 86744,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 86865,
+      "end": 86877,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 88208,
+      "end": 88220,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 88325,
+      "end": 88334,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 89473,
+      "end": 89477,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 90158,
+      "end": 90163,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean",
+      "start": 90374,
+      "end": 90378,
+      "label": "PER"
+    },
+    {
+      "text": "maison Claës",
+      "start": 90541,
+      "end": 90553,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 90584,
+      "end": 90593,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 90797,
+      "end": 90809,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 91138,
+      "end": 91143,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 91194,
+      "end": 91202,
+      "label": "LOC"
+    },
+    {
+      "text": "Marguerite",
+      "start": 91290,
+      "end": 91300,
+      "label": "PER"
+    },
+    {
+      "text": "Joséphine",
+      "start": 91326,
+      "end": 91335,
+      "label": "PER"
+    },
+    {
+      "text": "Molina",
+      "start": 91456,
+      "end": 91462,
+      "label": "PER"
+    },
+    {
+      "text": "Van Ostrom Temninck",
+      "start": 91468,
+      "end": 91487,
+      "label": "ORG"
+    },
+    {
+      "text": "Casa Réal",
+      "start": 91496,
+      "end": 91505,
+      "label": "ORG"
+    },
+    {
+      "text": "madame Claës",
+      "start": 91676,
+      "end": 91688,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin",
+      "start": 91705,
+      "end": 91713,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Pierre",
+      "start": 91762,
+      "end": 91774,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 92355,
+      "end": 92364,
+      "label": "PER"
+    },
+    {
+      "text": "maison Protez",
+      "start": 92431,
+      "end": 92444,
+      "label": "LOC"
+    },
+    {
+      "text": "Claës",
+      "start": 92549,
+      "end": 92554,
+      "label": "PER"
+    },
+    {
+      "text": "Volta",
+      "start": 92617,
+      "end": 92622,
+      "label": "MISC"
+    },
+    {
+      "text": "Claës",
+      "start": 92836,
+      "end": 92841,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 92928,
+      "end": 92940,
+      "label": "PER"
+    },
+    {
+      "text": "Pierquin",
+      "start": 92975,
+      "end": 92983,
+      "label": "LOC"
+    },
+    {
+      "text": "Gardez",
+      "start": 93019,
+      "end": 93025,
+      "label": "LOC"
+    },
+    {
+      "text": "Science",
+      "start": 94088,
+      "end": 94095,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 94249,
+      "end": 94264,
+      "label": "PER"
+    },
+    {
+      "text": "Renommée",
+      "start": 95091,
+      "end": 95099,
+      "label": "LOC"
+    },
+    {
+      "text": "Balthazar",
+      "start": 95127,
+      "end": 95136,
+      "label": "PER"
+    },
+    {
+      "text": "Pépita",
+      "start": 95845,
+      "end": 95851,
+      "label": "ORG"
+    },
+    {
+      "text": "Balthazar Claës",
+      "start": 95880,
+      "end": 95895,
+      "label": "PER"
+    },
+    {
+      "text": "Science",
+      "start": 95925,
+      "end": 95932,
+      "label": "ORG"
+    },
+    {
+      "text": "renvoya t",
+      "start": 96017,
+      "end": 96026,
+      "label": "PER"
+    },
+    {
+      "text": "Lemulquinier",
+      "start": 96156,
+      "end": 96168,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 96244,
+      "end": 96253,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Claës",
+      "start": 96269,
+      "end": 96281,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 96660,
+      "end": 96669,
+      "label": "PER"
+    },
+    {
+      "text": "Claës",
+      "start": 98130,
+      "end": 98135,
+      "label": "PER"
+    },
+    {
+      "text": "madame Claës",
+      "start": 98605,
+      "end": 98617,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 98641,
+      "end": 98650,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 98932,
+      "end": 98941,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 99131,
+      "end": 99140,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollande",
+      "start": 99371,
+      "end": 99379,
+      "label": "LOC"
+    },
+    {
+      "text": "Belgique",
+      "start": 99389,
+      "end": 99397,
+      "label": "LOC"
+    },
+    {
+      "text": "Joséphine",
+      "start": 99522,
+      "end": 99531,
+      "label": "PER"
+    },
+    {
+      "text": "Balthazar",
+      "start": 99921,
+      "end": 99930,
+      "label": "LOC"
+    }
+  ]
+}

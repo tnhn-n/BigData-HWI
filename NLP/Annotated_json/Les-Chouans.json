@@ -1,0 +1,3820 @@
+{
+  "entities": [
+    {
+      "text": "CHOUANS",
+      "start": 4,
+      "end": 11,
+      "label": "MISC"
+    },
+    {
+      "text": "BRETAGNE",
+      "start": 19,
+      "end": 27,
+      "label": "MISC"
+    },
+    {
+      "text": "DABLIN",
+      "start": 63,
+      "end": 69,
+      "label": "MISC"
+    },
+    {
+      "text": "NÉGOCIANT",
+      "start": 71,
+      "end": 80,
+      "label": "ORG"
+    },
+    {
+      "text": "BALZAC",
+      "start": 121,
+      "end": 127,
+      "label": "MISC"
+    },
+    {
+      "text": "La Bretagne",
+      "start": 367,
+      "end": 378,
+      "label": "LOC"
+    },
+    {
+      "text": "Scènes",
+      "start": 881,
+      "end": 887,
+      "label": "MISC"
+    },
+    {
+      "text": "VENDÉENS",
+      "start": 1106,
+      "end": 1114,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 1116,
+      "end": 1121,
+      "label": "LOC"
+    },
+    {
+      "text": "CHAPITRE",
+      "start": 1137,
+      "end": 1145,
+      "label": "ORG"
+    },
+    {
+      "text": "EMBUSCADE",
+      "start": 1156,
+      "end": 1165,
+      "label": "ORG"
+    },
+    {
+      "text": "VIII",
+      "start": 1198,
+      "end": 1202,
+      "label": "MISC"
+    },
+    {
+      "text": "Fougères",
+      "start": 1401,
+      "end": 1409,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 1427,
+      "end": 1434,
+      "label": "LOC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 1467,
+      "end": 1475,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 1507,
+      "end": 1515,
+      "label": "LOC"
+    },
+    {
+      "text": "Ernée",
+      "start": 1518,
+      "end": 1523,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 2987,
+      "end": 2997,
+      "label": "MISC"
+    },
+    {
+      "text": "Ouest",
+      "start": 3704,
+      "end": 3709,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 4587,
+      "end": 4598,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 6480,
+      "end": 6489,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 6579,
+      "end": 6589,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourgeois et paysans",
+      "start": 7094,
+      "end": 7114,
+      "label": "MISC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 8174,
+      "end": 8181,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 8574,
+      "end": 8587,
+      "label": "MISC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 8777,
+      "end": 8784,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 8834,
+      "end": 8839,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 8878,
+      "end": 8888,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 8894,
+      "end": 8899,
+      "label": "ORG"
+    },
+    {
+      "text": "Bleus",
+      "start": 9060,
+      "end": 9065,
+      "label": "ORG"
+    },
+    {
+      "text": "Mayenne",
+      "start": 9160,
+      "end": 9167,
+      "label": "LOC"
+    },
+    {
+      "text": "district de Fougères",
+      "start": 9381,
+      "end": 9401,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 9438,
+      "end": 9448,
+      "label": "MISC"
+    },
+    {
+      "text": "République française",
+      "start": 9464,
+      "end": 9484,
+      "label": "LOC"
+    },
+    {
+      "text": "Autrichiens",
+      "start": 9674,
+      "end": 9685,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 9689,
+      "end": 9695,
+      "label": "LOC"
+    },
+    {
+      "text": "Prussiens",
+      "start": 9705,
+      "end": 9714,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 9718,
+      "end": 9727,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 9744,
+      "end": 9750,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 9759,
+      "end": 9765,
+      "label": "LOC"
+    },
+    {
+      "text": "Suwarow",
+      "start": 9776,
+      "end": 9783,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 9815,
+      "end": 9824,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 9848,
+      "end": 9853,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 9877,
+      "end": 9883,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 9888,
+      "end": 9896,
+      "label": "LOC"
+    },
+    {
+      "text": "Basse Normandie",
+      "start": 9918,
+      "end": 9933,
+      "label": "LOC"
+    },
+    {
+      "text": "général Hoche",
+      "start": 9978,
+      "end": 9991,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 10126,
+      "end": 10136,
+      "label": "MISC"
+    },
+    {
+      "text": "Ouest",
+      "start": 10830,
+      "end": 10835,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 10883,
+      "end": 10888,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 10921,
+      "end": 10931,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 11000,
+      "end": 11009,
+      "label": "PER"
+    },
+    {
+      "text": "Assemblées",
+      "start": 11017,
+      "end": 11027,
+      "label": "LOC"
+    },
+    {
+      "text": "an VII",
+      "start": 11294,
+      "end": 11300,
+      "label": "PER"
+    },
+    {
+      "text": "Sarthe",
+      "start": 11422,
+      "end": 11428,
+      "label": "LOC"
+    },
+    {
+      "text": "Orne",
+      "start": 11435,
+      "end": 11439,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 11447,
+      "end": 11454,
+      "label": "LOC"
+    },
+    {
+      "text": "Ille",
+      "start": 11458,
+      "end": 11462,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilaine",
+      "start": 11466,
+      "end": 11473,
+      "label": "LOC"
+    },
+    {
+      "text": "Morbihan",
+      "start": 11478,
+      "end": 11486,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire Inférieure",
+      "start": 11494,
+      "end": 11510,
+      "label": "LOC"
+    },
+    {
+      "text": "Maine",
+      "start": 11517,
+      "end": 11522,
+      "label": "LOC"
+    },
+    {
+      "text": "Loire",
+      "start": 11526,
+      "end": 11531,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 11596,
+      "end": 11607,
+      "label": "MISC"
+    },
+    {
+      "text": "Directoire",
+      "start": 11769,
+      "end": 11779,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 11833,
+      "end": 11838,
+      "label": "ORG"
+    },
+    {
+      "text": "Bulletin des Lois",
+      "start": 12007,
+      "end": 12024,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 12171,
+      "end": 12181,
+      "label": "MISC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 12280,
+      "end": 12293,
+      "label": "MISC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 12452,
+      "end": 12459,
+      "label": "LOC"
+    },
+    {
+      "text": "Ille",
+      "start": 12465,
+      "end": 12469,
+      "label": "LOC"
+    },
+    {
+      "text": "Vilaine",
+      "start": 12473,
+      "end": 12480,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 12622,
+      "end": 12633,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 12671,
+      "end": 12679,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 13061,
+      "end": 13072,
+      "label": "LOC"
+    },
+    {
+      "text": "Alençon",
+      "start": 13635,
+      "end": 13642,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 13942,
+      "end": 13948,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 14046,
+      "end": 14053,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 14391,
+      "end": 14399,
+      "label": "LOC"
+    },
+    {
+      "text": "Ernée",
+      "start": 14657,
+      "end": 14662,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 14749,
+      "end": 14760,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 15048,
+      "end": 15053,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 15295,
+      "end": 15300,
+      "label": "PER"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 15324,
+      "end": 15332,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretons",
+      "start": 15519,
+      "end": 15526,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 15607,
+      "end": 15612,
+      "label": "PER"
+    },
+    {
+      "text": "Halte !",
+      "start": 16068,
+      "end": 16075,
+      "label": "MISC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 16204,
+      "end": 16212,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 16571,
+      "end": 16579,
+      "label": "LOC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 16982,
+      "end": 16990,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 17063,
+      "end": 17071,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 17209,
+      "end": 17220,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 17925,
+      "end": 17934,
+      "label": "LOC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 19923,
+      "end": 19931,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 20335,
+      "end": 20345,
+      "label": "LOC"
+    },
+    {
+      "text": "Les oiseaux",
+      "start": 20464,
+      "end": 20475,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 21546,
+      "end": 21551,
+      "label": "PER"
+    },
+    {
+      "text": "Commandant",
+      "start": 21587,
+      "end": 21597,
+      "label": "PER"
+    },
+    {
+      "text": "Chef",
+      "start": 21650,
+      "end": 21654,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 22022,
+      "end": 22031,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 22151,
+      "end": 22157,
+      "label": "PER"
+    },
+    {
+      "text": "Mayenne",
+      "start": 22540,
+      "end": 22547,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 22563,
+      "end": 22573,
+      "label": "MISC"
+    },
+    {
+      "text": "homme trapu",
+      "start": 22588,
+      "end": 22599,
+      "label": "PER"
+    },
+    {
+      "text": "bronzée",
+      "start": 23201,
+      "end": 23208,
+      "label": "PER"
+    },
+    {
+      "text": "Gaulois",
+      "start": 23640,
+      "end": 23647,
+      "label": "LOC"
+    },
+    {
+      "text": "Ernée",
+      "start": 25238,
+      "end": 25243,
+      "label": "LOC"
+    },
+    {
+      "text": "Maine",
+      "start": 25255,
+      "end": 25260,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 25274,
+      "end": 25285,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 26044,
+      "end": 26052,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 26189,
+      "end": 26194,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 26213,
+      "end": 26218,
+      "label": "PER"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 26595,
+      "end": 26606,
+      "label": "LOC"
+    },
+    {
+      "text": "pays des Gars",
+      "start": 26965,
+      "end": 26978,
+      "label": "LOC"
+    },
+    {
+      "text": "Ton",
+      "start": 27030,
+      "end": 27033,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 27042,
+      "end": 27056,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouan",
+      "start": 27109,
+      "end": 27115,
+      "label": "LOC"
+    },
+    {
+      "text": "Fais",
+      "start": 27280,
+      "end": 27284,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 27316,
+      "end": 27324,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre répondit",
+      "start": 27344,
+      "end": 27367,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretons",
+      "start": 27655,
+      "end": 27662,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Amérique",
+      "start": 27930,
+      "end": 27940,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonne Espérance",
+      "start": 27972,
+      "end": 27987,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 28335,
+      "end": 28341,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 28443,
+      "end": 28449,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 28739,
+      "end": 28744,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 28881,
+      "end": 28895,
+      "label": "MISC"
+    },
+    {
+      "text": "Ouest",
+      "start": 28916,
+      "end": 28921,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaëls",
+      "start": 29199,
+      "end": 29204,
+      "label": "LOC"
+    },
+    {
+      "text": "Gaulois",
+      "start": 29208,
+      "end": 29215,
+      "label": "LOC"
+    },
+    {
+      "text": "gas",
+      "start": 29260,
+      "end": 29263,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Staël",
+      "start": 29884,
+      "end": 29899,
+      "label": "PER"
+    },
+    {
+      "text": "canton de Vendômois",
+      "start": 29914,
+      "end": 29933,
+      "label": "LOC"
+    },
+    {
+      "text": "La Bretagne",
+      "start": 29971,
+      "end": 29982,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 29997,
+      "end": 30006,
+      "label": "LOC"
+    },
+    {
+      "text": "Gars",
+      "start": 30257,
+      "end": 30261,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauvages semblables à celui",
+      "start": 30305,
+      "end": 30332,
+      "label": "MISC"
+    },
+    {
+      "text": "Scène",
+      "start": 30369,
+      "end": 30374,
+      "label": "PER"
+    },
+    {
+      "text": "Gars",
+      "start": 30412,
+      "end": 30416,
+      "label": "LOC"
+    },
+    {
+      "text": "Druides",
+      "start": 30812,
+      "end": 30819,
+      "label": "LOC"
+    },
+    {
+      "text": "Mohicans",
+      "start": 31291,
+      "end": 31299,
+      "label": "PER"
+    },
+    {
+      "text": "Peaux rouges de l'Amérique septentrionale",
+      "start": 31307,
+      "end": 31348,
+      "label": "ORG"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 31389,
+      "end": 31400,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Europe",
+      "start": 31421,
+      "end": 31429,
+      "label": "LOC"
+    },
+    {
+      "text": "Canada",
+      "start": 31488,
+      "end": 31494,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 31778,
+      "end": 31787,
+      "label": "LOC"
+    },
+    {
+      "text": "Recteur",
+      "start": 32889,
+      "end": 32896,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 33281,
+      "end": 33291,
+      "label": "MISC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 33315,
+      "end": 33326,
+      "label": "LOC"
+    },
+    {
+      "text": "Cottereau",
+      "start": 33458,
+      "end": 33467,
+      "label": "PER"
+    },
+    {
+      "text": "Laval",
+      "start": 33566,
+      "end": 33571,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 33574,
+      "end": 33582,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendée",
+      "start": 33693,
+      "end": 33699,
+      "label": "LOC"
+    },
+    {
+      "text": "la Bretagne",
+      "start": 33730,
+      "end": 33741,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 33843,
+      "end": 33850,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 34303,
+      "end": 34310,
+      "label": "MISC"
+    },
+    {
+      "text": "Bretagne",
+      "start": 34455,
+      "end": 34463,
+      "label": "LOC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 34613,
+      "end": 34621,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 35124,
+      "end": 35129,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauvages",
+      "start": 35691,
+      "end": 35699,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 35714,
+      "end": 35718,
+      "label": "MISC"
+    },
+    {
+      "text": "Mohicans",
+      "start": 35752,
+      "end": 35760,
+      "label": "PER"
+    },
+    {
+      "text": "paix de Hoche",
+      "start": 35896,
+      "end": 35909,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 36091,
+      "end": 36096,
+      "label": "PER"
+    },
+    {
+      "text": "Marche",
+      "start": 36165,
+      "end": 36171,
+      "label": "LOC"
+    },
+    {
+      "text": "Hoche",
+      "start": 36253,
+      "end": 36258,
+      "label": "LOC"
+    },
+    {
+      "text": "La Révolution",
+      "start": 36410,
+      "end": 36423,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 36558,
+      "end": 36565,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 36616,
+      "end": 36625,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 36630,
+      "end": 36640,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 36662,
+      "end": 36671,
+      "label": "PER"
+    },
+    {
+      "text": "La guerre",
+      "start": 36806,
+      "end": 36815,
+      "label": "MISC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 36932,
+      "end": 36943,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 37066,
+      "end": 37071,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 37169,
+      "end": 37183,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard",
+      "start": 37346,
+      "end": 37352,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 37399,
+      "end": 37404,
+      "label": "PER"
+    },
+    {
+      "text": "Cannibales",
+      "start": 37663,
+      "end": 37673,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 37688,
+      "end": 37693,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 37708,
+      "end": 37714,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 37848,
+      "end": 37862,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 38034,
+      "end": 38039,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 38098,
+      "end": 38108,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 38207,
+      "end": 38214,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard",
+      "start": 38809,
+      "end": 38815,
+      "label": "PER"
+    },
+    {
+      "text": "Peur",
+      "start": 38819,
+      "end": 38823,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 38970,
+      "end": 38975,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 38980,
+      "end": 38985,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 39074,
+      "end": 39080,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 39111,
+      "end": 39116,
+      "label": "PER"
+    },
+    {
+      "text": "Chut",
+      "start": 39162,
+      "end": 39166,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 39513,
+      "end": 39527,
+      "label": "MISC"
+    },
+    {
+      "text": "Gars",
+      "start": 39533,
+      "end": 39537,
+      "label": "LOC"
+    },
+    {
+      "text": "Reste",
+      "start": 39600,
+      "end": 39605,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 39630,
+      "end": 39635,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 39795,
+      "end": 39801,
+      "label": "PER"
+    },
+    {
+      "text": "Mes",
+      "start": 39805,
+      "end": 39808,
+      "label": "ORG"
+    },
+    {
+      "text": "Directoire",
+      "start": 39941,
+      "end": 39951,
+      "label": "MISC"
+    },
+    {
+      "text": "Assemblées",
+      "start": 39999,
+      "end": 40009,
+      "label": "LOC"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 40157,
+      "end": 40167,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 40221,
+      "end": 40227,
+      "label": "PER"
+    },
+    {
+      "text": "Milet Mureau",
+      "start": 40231,
+      "end": 40243,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéens",
+      "start": 40417,
+      "end": 40425,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 40432,
+      "end": 40439,
+      "label": "LOC"
+    },
+    {
+      "text": "Merle",
+      "start": 40567,
+      "end": 40572,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 40628,
+      "end": 40633,
+      "label": "PER"
+    },
+    {
+      "text": "Les Chouans",
+      "start": 40672,
+      "end": 40683,
+      "label": "MISC"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 40817,
+      "end": 40827,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère",
+      "start": 40856,
+      "end": 40865,
+      "label": "MISC"
+    },
+    {
+      "text": "Fouché",
+      "start": 40939,
+      "end": 40945,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 40971,
+      "end": 40982,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 41016,
+      "end": 41021,
+      "label": "LOC"
+    },
+    {
+      "text": "Barras",
+      "start": 41083,
+      "end": 41089,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 41100,
+      "end": 41110,
+      "label": "LOC"
+    },
+    {
+      "text": "Pitt",
+      "start": 41118,
+      "end": 41122,
+      "label": "PER"
+    },
+    {
+      "text": "Vendéens",
+      "start": 41247,
+      "end": 41255,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 41267,
+      "end": 41274,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 41300,
+      "end": 41310,
+      "label": "MISC"
+    },
+    {
+      "text": "Morbihan",
+      "start": 41346,
+      "end": 41354,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 41408,
+      "end": 41413,
+      "label": "LOC"
+    },
+    {
+      "text": "Gars",
+      "start": 41418,
+      "end": 41422,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 41493,
+      "end": 41507,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 41649,
+      "end": 41655,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 41685,
+      "end": 41699,
+      "label": "MISC"
+    },
+    {
+      "text": "Londres",
+      "start": 41971,
+      "end": 41978,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 42332,
+      "end": 42338,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 42479,
+      "end": 42484,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 42549,
+      "end": 42563,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 42568,
+      "end": 42574,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 42994,
+      "end": 42999,
+      "label": "PER"
+    },
+    {
+      "text": "Tonnerre de Dieu",
+      "start": 43038,
+      "end": 43054,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 43201,
+      "end": 43207,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 43520,
+      "end": 43526,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre laissa",
+      "start": 43875,
+      "end": 43896,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard",
+      "start": 44087,
+      "end": 44093,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 44139,
+      "end": 44145,
+      "label": "LOC"
+    },
+    {
+      "text": "Merle",
+      "start": 44176,
+      "end": 44181,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnez",
+      "start": 44186,
+      "end": 44192,
+      "label": "PER"
+    },
+    {
+      "text": "Ernée",
+      "start": 44416,
+      "end": 44421,
+      "label": "LOC"
+    },
+    {
+      "text": "Choisissez",
+      "start": 44423,
+      "end": 44433,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 44718,
+      "end": 44723,
+      "label": "PER"
+    },
+    {
+      "text": "Sauvages",
+      "start": 45384,
+      "end": 45392,
+      "label": "MISC"
+    },
+    {
+      "text": "justifiât",
+      "start": 45529,
+      "end": 45538,
+      "label": "PER"
+    },
+    {
+      "text": "Couësnon",
+      "start": 46472,
+      "end": 46480,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 46664,
+      "end": 46669,
+      "label": "PER"
+    },
+    {
+      "text": "Beau pied",
+      "start": 46686,
+      "end": 46695,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 46850,
+      "end": 46855,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 46927,
+      "end": 46932,
+      "label": "PER"
+    },
+    {
+      "text": "Beau",
+      "start": 46948,
+      "end": 46952,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 47706,
+      "end": 47720,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 47787,
+      "end": 47793,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 47914,
+      "end": 47919,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 47934,
+      "end": 47939,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 48403,
+      "end": 48409,
+      "label": "PER"
+    },
+    {
+      "text": "Lebrun",
+      "start": 48497,
+      "end": 48503,
+      "label": "PER"
+    },
+    {
+      "text": "Hoche",
+      "start": 49141,
+      "end": 49146,
+      "label": "PER"
+    },
+    {
+      "text": "Chasseurs du Roi",
+      "start": 49227,
+      "end": 49243,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 49300,
+      "end": 49305,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 49544,
+      "end": 49553,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 49559,
+      "end": 49565,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 49783,
+      "end": 49787,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 49801,
+      "end": 49806,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 49955,
+      "end": 49962,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 50004,
+      "end": 50009,
+      "label": "PER"
+    },
+    {
+      "text": "Larose",
+      "start": 50465,
+      "end": 50471,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 50490,
+      "end": 50495,
+      "label": "PER"
+    },
+    {
+      "text": "Jemmapes",
+      "start": 51223,
+      "end": 51231,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 51642,
+      "end": 51647,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 51734,
+      "end": 51739,
+      "label": "PER"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 51884,
+      "end": 51892,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 52174,
+      "end": 52180,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 52189,
+      "end": 52203,
+      "label": "MISC"
+    },
+    {
+      "text": "Chuin",
+      "start": 52797,
+      "end": 52802,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 53067,
+      "end": 53081,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 53134,
+      "end": 53140,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 53265,
+      "end": 53271,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 53302,
+      "end": 53308,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 53510,
+      "end": 53524,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard",
+      "start": 53634,
+      "end": 53640,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 53731,
+      "end": 53737,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 53816,
+      "end": 53822,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre d'un air goguenard",
+      "start": 54157,
+      "end": 54190,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 54400,
+      "end": 54404,
+      "label": "MISC"
+    },
+    {
+      "text": "Beau",
+      "start": 54436,
+      "end": 54440,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 54569,
+      "end": 54574,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 54955,
+      "end": 54969,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 55072,
+      "end": 55079,
+      "label": "MISC"
+    },
+    {
+      "text": "grimace",
+      "start": 55361,
+      "end": 55368,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 55434,
+      "end": 55440,
+      "label": "PER"
+    },
+    {
+      "text": "L'Europe",
+      "start": 55660,
+      "end": 55668,
+      "label": "LOC"
+    },
+    {
+      "text": "Directeurs",
+      "start": 55739,
+      "end": 55749,
+      "label": "MISC"
+    },
+    {
+      "text": "Italie",
+      "start": 55933,
+      "end": 55939,
+      "label": "LOC"
+    },
+    {
+      "text": "Mantoue",
+      "start": 55975,
+      "end": 55982,
+      "label": "LOC"
+    },
+    {
+      "text": "Trébia",
+      "start": 56014,
+      "end": 56020,
+      "label": "LOC"
+    },
+    {
+      "text": "Joubert",
+      "start": 56025,
+      "end": 56032,
+      "label": "PER"
+    },
+    {
+      "text": "bataille de Novi",
+      "start": 56052,
+      "end": 56068,
+      "label": "MISC"
+    },
+    {
+      "text": "Masséna",
+      "start": 56083,
+      "end": 56090,
+      "label": "PER"
+    },
+    {
+      "text": "Suisse",
+      "start": 56117,
+      "end": 56123,
+      "label": "LOC"
+    },
+    {
+      "text": "Suwarow",
+      "start": 56136,
+      "end": 56143,
+      "label": "LOC"
+    },
+    {
+      "text": "Rhin",
+      "start": 56173,
+      "end": 56177,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 56182,
+      "end": 56192,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 56204,
+      "end": 56210,
+      "label": "PER"
+    },
+    {
+      "text": "Égypte",
+      "start": 56400,
+      "end": 56406,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 56448,
+      "end": 56458,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 56499,
+      "end": 56508,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 56567,
+      "end": 56573,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 56751,
+      "end": 56760,
+      "label": "LOC"
+    },
+    {
+      "text": "Assemblées",
+      "start": 56934,
+      "end": 56944,
+      "label": "LOC"
+    },
+    {
+      "text": "La France",
+      "start": 56994,
+      "end": 57003,
+      "label": "LOC"
+    },
+    {
+      "text": "Doctrines",
+      "start": 57234,
+      "end": 57243,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 57322,
+      "end": 57327,
+      "label": "PER"
+    },
+    {
+      "text": "Directeurs",
+      "start": 57350,
+      "end": 57360,
+      "label": "MISC"
+    },
+    {
+      "text": "Bernadotte",
+      "start": 57438,
+      "end": 57448,
+      "label": "PER"
+    },
+    {
+      "text": "Carnot",
+      "start": 57450,
+      "end": 57456,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 57481,
+      "end": 57491,
+      "label": "PER"
+    },
+    {
+      "text": "Fouché",
+      "start": 57563,
+      "end": 57569,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 57819,
+      "end": 57825,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 57891,
+      "end": 57904,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 57989,
+      "end": 57994,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 58033,
+      "end": 58041,
+      "label": "MISC"
+    },
+    {
+      "text": "Tonnerre de Dieu",
+      "start": 58043,
+      "end": 58059,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 58189,
+      "end": 58195,
+      "label": "PER"
+    },
+    {
+      "text": "Pichegru",
+      "start": 58316,
+      "end": 58324,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 58456,
+      "end": 58460,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 58548,
+      "end": 58552,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 58576,
+      "end": 58581,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 58650,
+      "end": 58657,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 58721,
+      "end": 58731,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 58791,
+      "end": 58801,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 58976,
+      "end": 58990,
+      "label": "MISC"
+    },
+    {
+      "text": "Lebrun",
+      "start": 59325,
+      "end": 59331,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 60001,
+      "end": 60006,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 60025,
+      "end": 60039,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 60044,
+      "end": 60050,
+      "label": "LOC"
+    },
+    {
+      "text": "Républicains",
+      "start": 60359,
+      "end": 60371,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouan",
+      "start": 60441,
+      "end": 60447,
+      "label": "LOC"
+    },
+    {
+      "text": "Chasseurs du Roi",
+      "start": 60790,
+      "end": 60806,
+      "label": "MISC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 60836,
+      "end": 60847,
+      "label": "MISC"
+    },
+    {
+      "text": "Décrétez",
+      "start": 61225,
+      "end": 61233,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 61280,
+      "end": 61285,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 61288,
+      "end": 61294,
+      "label": "PER"
+    },
+    {
+      "text": "Directoire",
+      "start": 61323,
+      "end": 61333,
+      "label": "MISC"
+    },
+    {
+      "text": "Assemblées",
+      "start": 61393,
+      "end": 61403,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 61503,
+      "end": 61508,
+      "label": "LOC"
+    },
+    {
+      "text": "Beau pied",
+      "start": 61583,
+      "end": 61592,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 62061,
+      "end": 62075,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 62127,
+      "end": 62132,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 62588,
+      "end": 62593,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 62800,
+      "end": 62807,
+      "label": "MISC"
+    },
+    {
+      "text": "Ernée",
+      "start": 63019,
+      "end": 63024,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 63143,
+      "end": 63148,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 63344,
+      "end": 63349,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 63353,
+      "end": 63359,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougerais",
+      "start": 63390,
+      "end": 63399,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 63419,
+      "end": 63430,
+      "label": "MISC"
+    },
+    {
+      "text": "Ernée",
+      "start": 63667,
+      "end": 63672,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 63893,
+      "end": 63901,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 64021,
+      "end": 64028,
+      "label": "MISC"
+    },
+    {
+      "text": "Juges",
+      "start": 64047,
+      "end": 64052,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 64096,
+      "end": 64101,
+      "label": "PER"
+    },
+    {
+      "text": "Gars",
+      "start": 64403,
+      "end": 64407,
+      "label": "LOC"
+    },
+    {
+      "text": "Vitré",
+      "start": 64411,
+      "end": 64416,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougerais",
+      "start": 64425,
+      "end": 64434,
+      "label": "LOC"
+    },
+    {
+      "text": "Bas Normands",
+      "start": 64466,
+      "end": 64478,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 64522,
+      "end": 64527,
+      "label": "PER"
+    },
+    {
+      "text": "Gudin",
+      "start": 64531,
+      "end": 64536,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 64556,
+      "end": 64560,
+      "label": "MISC"
+    },
+    {
+      "text": "Gudin",
+      "start": 64567,
+      "end": 64572,
+      "label": "ORG"
+    },
+    {
+      "text": "Fougères",
+      "start": 64712,
+      "end": 64720,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougerais",
+      "start": 65000,
+      "end": 65009,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretons",
+      "start": 65216,
+      "end": 65223,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 65232,
+      "end": 65237,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 65240,
+      "end": 65246,
+      "label": "PER"
+    },
+    {
+      "text": "Gudin",
+      "start": 65322,
+      "end": 65327,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 65624,
+      "end": 65631,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 65729,
+      "end": 65736,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 65962,
+      "end": 65967,
+      "label": "ORG"
+    },
+    {
+      "text": "Gérard",
+      "start": 66331,
+      "end": 66337,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 66344,
+      "end": 66349,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 66400,
+      "end": 66407,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 66588,
+      "end": 66593,
+      "label": "ORG"
+    },
+    {
+      "text": "les Chouans",
+      "start": 66851,
+      "end": 66862,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 67088,
+      "end": 67095,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 67348,
+      "end": 67355,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 67559,
+      "end": 67564,
+      "label": "ORG"
+    },
+    {
+      "text": "Les Chouans",
+      "start": 67916,
+      "end": 67927,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 67996,
+      "end": 68001,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 68005,
+      "end": 68011,
+      "label": "PER"
+    },
+    {
+      "text": "Bleus",
+      "start": 68117,
+      "end": 68122,
+      "label": "ORG"
+    },
+    {
+      "text": "Chasseurs du Roi",
+      "start": 68370,
+      "end": 68386,
+      "label": "MISC"
+    },
+    {
+      "text": "Bravo",
+      "start": 69210,
+      "end": 69215,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 69231,
+      "end": 69236,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 69293,
+      "end": 69300,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 69614,
+      "end": 69628,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 69891,
+      "end": 69898,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 70209,
+      "end": 70214,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 70291,
+      "end": 70296,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 70469,
+      "end": 70476,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 70688,
+      "end": 70693,
+      "label": "ORG"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 70805,
+      "end": 70819,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 70836,
+      "end": 70843,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 70853,
+      "end": 70858,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 72042,
+      "end": 72047,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 72131,
+      "end": 72141,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 72422,
+      "end": 72427,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 72467,
+      "end": 72473,
+      "label": "ORG"
+    },
+    {
+      "text": "Opéra",
+      "start": 72485,
+      "end": 72490,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 72706,
+      "end": 72711,
+      "label": "ORG"
+    },
+    {
+      "text": "Soudain",
+      "start": 72713,
+      "end": 72720,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 72865,
+      "end": 72872,
+      "label": "MISC"
+    },
+    {
+      "text": "République",
+      "start": 72911,
+      "end": 72921,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 73046,
+      "end": 73051,
+      "label": "PER"
+    },
+    {
+      "text": "les Chouans",
+      "start": 73131,
+      "end": 73142,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 73301,
+      "end": 73307,
+      "label": "MISC"
+    },
+    {
+      "text": "Gérard",
+      "start": 73611,
+      "end": 73617,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 73619,
+      "end": 73624,
+      "label": "PER"
+    },
+    {
+      "text": "formez",
+      "start": 73669,
+      "end": 73675,
+      "label": "PER"
+    },
+    {
+      "text": "ordre de Hulot",
+      "start": 73763,
+      "end": 73777,
+      "label": "MISC"
+    },
+    {
+      "text": "sainte Anne d'Auray",
+      "start": 73880,
+      "end": 73899,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 73982,
+      "end": 73987,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 73991,
+      "end": 73997,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 74080,
+      "end": 74087,
+      "label": "MISC"
+    },
+    {
+      "text": "Merle",
+      "start": 74199,
+      "end": 74204,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard",
+      "start": 74211,
+      "end": 74217,
+      "label": "PER"
+    },
+    {
+      "text": "Taisez",
+      "start": 74294,
+      "end": 74300,
+      "label": "LOC"
+    },
+    {
+      "text": "Beau pied",
+      "start": 74357,
+      "end": 74366,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 74409,
+      "end": 74414,
+      "label": "ORG"
+    },
+    {
+      "text": "Républicains",
+      "start": 74460,
+      "end": 74472,
+      "label": "ORG"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 74535,
+      "end": 74543,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 74753,
+      "end": 74758,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouans",
+      "start": 74762,
+      "end": 74769,
+      "label": "MISC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 74993,
+      "end": 75001,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 75033,
+      "end": 75041,
+      "label": "LOC"
+    },
+    {
+      "text": "Gudin",
+      "start": 75052,
+      "end": 75057,
+      "label": "ORG"
+    },
+    {
+      "text": "Vannier",
+      "start": 75076,
+      "end": 75083,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 75165,
+      "end": 75172,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 75295,
+      "end": 75309,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 75384,
+      "end": 75398,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 75403,
+      "end": 75410,
+      "label": "LOC"
+    },
+    {
+      "text": "Républicains",
+      "start": 75491,
+      "end": 75503,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouans",
+      "start": 75568,
+      "end": 75575,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 75797,
+      "end": 75811,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 75927,
+      "end": 75934,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 76013,
+      "end": 76018,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 76198,
+      "end": 76203,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 76292,
+      "end": 76299,
+      "label": "MISC"
+    },
+    {
+      "text": "Républicains",
+      "start": 76617,
+      "end": 76629,
+      "label": "ORG"
+    },
+    {
+      "text": "garde nationale de Fougères",
+      "start": 76804,
+      "end": 76831,
+      "label": "ORG"
+    },
+    {
+      "text": "Voulez",
+      "start": 77086,
+      "end": 77092,
+      "label": "LOC"
+    },
+    {
+      "text": "République",
+      "start": 77168,
+      "end": 77178,
+      "label": "LOC"
+    },
+    {
+      "text": "baïonnettes",
+      "start": 77294,
+      "end": 77305,
+      "label": "LOC"
+    },
+    {
+      "text": "Vive la République !",
+      "start": 77387,
+      "end": 77407,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 77500,
+      "end": 77505,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 77524,
+      "end": 77530,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 77549,
+      "end": 77553,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 77592,
+      "end": 77597,
+      "label": "LOC"
+    },
+    {
+      "text": "garde nationale de Fougères",
+      "start": 77896,
+      "end": 77923,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 77932,
+      "end": 77937,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 77941,
+      "end": 77947,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 78036,
+      "end": 78047,
+      "label": "MISC"
+    },
+    {
+      "text": "Merci",
+      "start": 78106,
+      "end": 78111,
+      "label": "MISC"
+    },
+    {
+      "text": "Tonnerre de Dieu",
+      "start": 78164,
+      "end": 78180,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 78238,
+      "end": 78244,
+      "label": "PER"
+    },
+    {
+      "text": "Hulot",
+      "start": 78310,
+      "end": 78315,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 78387,
+      "end": 78396,
+      "label": "PER"
+    },
+    {
+      "text": "Gars",
+      "start": 78406,
+      "end": 78410,
+      "label": "LOC"
+    },
+    {
+      "text": "Gars",
+      "start": 78446,
+      "end": 78450,
+      "label": "LOC"
+    },
+    {
+      "text": "Gars",
+      "start": 78462,
+      "end": 78466,
+      "label": "LOC"
+    },
+    {
+      "text": "Chasseur du Roi",
+      "start": 78502,
+      "end": 78517,
+      "label": "MISC"
+    },
+    {
+      "text": "Gars",
+      "start": 78654,
+      "end": 78658,
+      "label": "LOC"
+    },
+    {
+      "text": "Pitt",
+      "start": 78754,
+      "end": 78758,
+      "label": "PER"
+    },
+    {
+      "text": "Cobourg",
+      "start": 78762,
+      "end": 78769,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 78786,
+      "end": 78792,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 78863,
+      "end": 78867,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 78874,
+      "end": 78877,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 79148,
+      "end": 79162,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouan",
+      "start": 79312,
+      "end": 79318,
+      "label": "LOC"
+    },
+    {
+      "text": "Vive le Roi !   ",
+      "start": 79526,
+      "end": 79542,
+      "label": "MISC"
+    },
+    {
+      "text": "Vierge",
+      "start": 79628,
+      "end": 79634,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 79712,
+      "end": 79717,
+      "label": "LOC"
+    },
+    {
+      "text": "Beau pied",
+      "start": 79739,
+      "end": 79748,
+      "label": "MISC"
+    },
+    {
+      "text": "brigand",
+      "start": 79771,
+      "end": 79778,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 79782,
+      "end": 79786,
+      "label": "MISC"
+    },
+    {
+      "text": "La clef des cœurs",
+      "start": 79800,
+      "end": 79817,
+      "label": "MISC"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 79851,
+      "end": 79859,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 79895,
+      "end": 79900,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 79965,
+      "end": 79971,
+      "label": "LOC"
+    },
+    {
+      "text": "Sacré Cœur",
+      "start": 80147,
+      "end": 80157,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 80185,
+      "end": 80190,
+      "label": "PER"
+    },
+    {
+      "text": "Marie Lambrequin",
+      "start": 80202,
+      "end": 80218,
+      "label": "PER"
+    },
+    {
+      "text": "Chouan",
+      "start": 80241,
+      "end": 80247,
+      "label": "LOC"
+    },
+    {
+      "text": "La clef des cœurs !",
+      "start": 80265,
+      "end": 80284,
+      "label": "MISC"
+    },
+    {
+      "text": "Beau pied",
+      "start": 80289,
+      "end": 80298,
+      "label": "MISC"
+    },
+    {
+      "text": "Beau pied",
+      "start": 80525,
+      "end": 80534,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 80710,
+      "end": 80715,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 80789,
+      "end": 80794,
+      "label": "PER"
+    },
+    {
+      "text": "Maine",
+      "start": 81082,
+      "end": 81087,
+      "label": "LOC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 81133,
+      "end": 81141,
+      "label": "LOC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 81162,
+      "end": 81170,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 81172,
+      "end": 81177,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 81208,
+      "end": 81213,
+      "label": "PER"
+    },
+    {
+      "text": "Gérard",
+      "start": 81217,
+      "end": 81223,
+      "label": "PER"
+    },
+    {
+      "text": "Ernée",
+      "start": 81300,
+      "end": 81305,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 81432,
+      "end": 81438,
+      "label": "LOC"
+    },
+    {
+      "text": "Ouest",
+      "start": 81522,
+      "end": 81527,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 81641,
+      "end": 81648,
+      "label": "MISC"
+    },
+    {
+      "text": "Hulot",
+      "start": 81779,
+      "end": 81784,
+      "label": "PER"
+    },
+    {
+      "text": "Gars",
+      "start": 81839,
+      "end": 81843,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 81871,
+      "end": 81877,
+      "label": "LOC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 82212,
+      "end": 82220,
+      "label": "LOC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 82375,
+      "end": 82383,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 82406,
+      "end": 82411,
+      "label": "ORG"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 82446,
+      "end": 82454,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 82560,
+      "end": 82567,
+      "label": "MISC"
+    },
+    {
+      "text": "Tonnerre de Dieu",
+      "start": 82832,
+      "end": 82848,
+      "label": "PER"
+    },
+    {
+      "text": "Merle",
+      "start": 83255,
+      "end": 83260,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 83430,
+      "end": 83435,
+      "label": "PER"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 83523,
+      "end": 83531,
+      "label": "LOC"
+    },
+    {
+      "text": "Tenez",
+      "start": 83535,
+      "end": 83540,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 83677,
+      "end": 83691,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 83704,
+      "end": 83711,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 83743,
+      "end": 83748,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 83772,
+      "end": 83777,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 83922,
+      "end": 83926,
+      "label": "PER"
+    },
+    {
+      "text": "Cobourg",
+      "start": 83930,
+      "end": 83937,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 84070,
+      "end": 84074,
+      "label": "MISC"
+    },
+    {
+      "text": "Ernée",
+      "start": 84175,
+      "end": 84180,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 84225,
+      "end": 84232,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 84345,
+      "end": 84350,
+      "label": "PER"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 84456,
+      "end": 84464,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 84558,
+      "end": 84572,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 84588,
+      "end": 84593,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouans",
+      "start": 84701,
+      "end": 84708,
+      "label": "MISC"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 84834,
+      "end": 84842,
+      "label": "LOC"
+    },
+    {
+      "text": "Couësnon",
+      "start": 84904,
+      "end": 84912,
+      "label": "LOC"
+    },
+    {
+      "text": "Chasseurs du Roi",
+      "start": 84938,
+      "end": 84954,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 84973,
+      "end": 84987,
+      "label": "MISC"
+    },
+    {
+      "text": "Républicains",
+      "start": 85340,
+      "end": 85352,
+      "label": "ORG"
+    },
+    {
+      "text": "Pèlerine",
+      "start": 85379,
+      "end": 85387,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 85516,
+      "end": 85521,
+      "label": "ORG"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 85624,
+      "end": 85638,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Anne d'Auray",
+      "start": 85646,
+      "end": 85665,
+      "label": "PER"
+    },
+    {
+      "text": "Suis",
+      "start": 85858,
+      "end": 85862,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 85876,
+      "end": 85885,
+      "label": "PER"
+    },
+    {
+      "text": "Bleus",
+      "start": 85971,
+      "end": 85976,
+      "label": "ORG"
+    },
+    {
+      "text": "Hulot",
+      "start": 86049,
+      "end": 86054,
+      "label": "PER"
+    },
+    {
+      "text": "Crois",
+      "start": 86117,
+      "end": 86122,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 86316,
+      "end": 86321,
+      "label": "ORG"
+    },
+    {
+      "text": "Groin toi",
+      "start": 86493,
+      "end": 86502,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 86518,
+      "end": 86532,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 86605,
+      "end": 86610,
+      "label": "ORG"
+    },
+    {
+      "text": "Tiens",
+      "start": 86649,
+      "end": 86654,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouan",
+      "start": 86757,
+      "end": 86763,
+      "label": "LOC"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 86878,
+      "end": 86892,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 87168,
+      "end": 87176,
+      "label": "PER"
+    },
+    {
+      "text": "Marche à terre",
+      "start": 87193,
+      "end": 87207,
+      "label": "MISC"
+    },
+    {
+      "text": "Pille",
+      "start": 87307,
+      "end": 87312,
+      "label": "PER"
+    },
+    {
+      "text": "Bleus",
+      "start": 87399,
+      "end": 87404,
+      "label": "ORG"
+    },
+    {
+      "text": "Autel",
+      "start": 87443,
+      "end": 87448,
+      "label": "LOC"
+    },
+    {
+      "text": "Trône",
+      "start": 87455,
+      "end": 87460,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVI",
+      "start": 87492,
+      "end": 87501,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 87794,
+      "end": 87798,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 87805,
+      "end": 87808,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Anne d'Auray",
+      "start": 87842,
+      "end": 87861,
+      "label": "PER"
+    },
+    {
+      "text": "République",
+      "start": 87898,
+      "end": 87908,
+      "label": "MISC"
+    },
+    {
+      "text": "Roi",
+      "start": 88096,
+      "end": 88099,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 88679,
+      "end": 88686,
+      "label": "MISC"
+    },
+    {
+      "text": "demanda t",
+      "start": 88741,
+      "end": 88750,
+      "label": "PER"
+    },
+    {
+      "text": "les Chouans",
+      "start": 88781,
+      "end": 88792,
+      "label": "MISC"
+    },
+    {
+      "text": "Croiriez",
+      "start": 88809,
+      "end": 88817,
+      "label": "PER"
+    },
+    {
+      "text": "Mayenne",
+      "start": 88870,
+      "end": 88877,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 88880,
+      "end": 88888,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 88974,
+      "end": 88982,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 89071,
+      "end": 89076,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 89080,
+      "end": 89084,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 89518,
+      "end": 89525,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 89926,
+      "end": 89933,
+      "label": "MISC"
+    },
+    {
+      "text": "Bleus",
+      "start": 89982,
+      "end": 89987,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouan",
+      "start": 90069,
+      "end": 90075,
+      "label": "LOC"
+    },
+    {
+      "text": "Bleus",
+      "start": 90155,
+      "end": 90160,
+      "label": "ORG"
+    },
+    {
+      "text": "Église",
+      "start": 90200,
+      "end": 90206,
+      "label": "MISC"
+    },
+    {
+      "text": "Chouans",
+      "start": 90334,
+      "end": 90341,
+      "label": "MISC"
+    },
+    {
+      "text": "Vivetière",
+      "start": 90566,
+      "end": 90575,
+      "label": "LOC"
+    },
+    {
+      "text": "Intimé",
+      "start": 90616,
+      "end": 90622,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Jacques",
+      "start": 90624,
+      "end": 90637,
+      "label": "PER"
+    },
+    {
+      "text": "Ferdinand",
+      "start": 90651,
+      "end": 90660,
+      "label": "PER"
+    },
+    {
+      "text": "Permettez",
+      "start": 90664,
+      "end": 90673,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 90845,
+      "end": 90849,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma mère",
+      "start": 90984,
+      "end": 90991,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 91062,
+      "end": 91067,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 91193,
+      "end": 91202,
+      "label": "PER"
+    },
+    {
+      "text": "Piller",
+      "start": 91411,
+      "end": 91417,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 91456,
+      "end": 91463,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 91599,
+      "end": 91606,
+      "label": "LOC"
+    },
+    {
+      "text": "Républicains",
+      "start": 91880,
+      "end": 91892,
+      "label": "ORG"
+    },
+    {
+      "text": "Chouans",
+      "start": 92473,
+      "end": 92480,
+      "label": "MISC"
+    },
+    {
+      "text": "Marche",
+      "start": 92544,
+      "end": 92550,
+      "label": "LOC"
+    },
+    {
+      "text": "République !",
+      "start": 92666,
+      "end": 92678,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouans",
+      "start": 94149,
+      "end": 94156,
+      "label": "MISC"
+    },
+    {
+      "text": "Ernée",
+      "start": 94188,
+      "end": 94193,
+      "label": "LOC"
+    },
+    {
+      "text": "La Révolution",
+      "start": 94373,
+      "end": 94386,
+      "label": "MISC"
+    },
+    {
+      "text": "Turgot",
+      "start": 94474,
+      "end": 94480,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 94533,
+      "end": 94542,
+      "label": "PER"
+    },
+    {
+      "text": "turgotines",
+      "start": 94653,
+      "end": 94663,
+      "label": "LOC"
+    },
+    {
+      "text": "Vouges",
+      "start": 94699,
+      "end": 94705,
+      "label": "LOC"
+    },
+    {
+      "text": "Chanteclaire",
+      "start": 94707,
+      "end": 94719,
+      "label": "LOC"
+    },
+    {
+      "text": "Lacombe",
+      "start": 94729,
+      "end": 94736,
+      "label": "LOC"
+    },
+    {
+      "text": "Mayenne",
+      "start": 94838,
+      "end": 94845,
+      "label": "LOC"
+    },
+    {
+      "text": "Fougères",
+      "start": 94849,
+      "end": 94857,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 94942,
+      "end": 94947,
+      "label": "LOC"
+    },
+    {
+      "text": "Semblable",
+      "start": 96129,
+      "end": 96138,
+      "label": "PER"
+    },
+    {
+      "text": "Ernée",
+      "start": 96448,
+      "end": 96453,
+      "label": "LOC"
+    },
+    {
+      "text": "les Chouans",
+      "start": 96577,
+      "end": 96588,
+      "label": "MISC"
+    },
+    {
+      "text": "Ernée",
+      "start": 96646,
+      "end": 96651,
+      "label": "LOC"
+    },
+    {
+      "text": "Hulot",
+      "start": 96690,
+      "end": 96695,
+      "label": "PER"
+    },
+    {
+      "text": "Fougères",
+      "start": 96718,
+      "end": 96726,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 96730,
+      "end": 96734,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 96954,
+      "end": 96963,
+      "label": "MISC"
+    },
+    {
+      "text": "Brebis comptées",
+      "start": 97034,
+      "end": 97049,
+      "label": "MISC"
+    },
+    {
+      "text": "Seriez",
+      "start": 97440,
+      "end": 97446,
+      "label": "PER"
+    },
+    {
+      "text": "Chouans",
+      "start": 97456,
+      "end": 97463,
+      "label": "MISC"
+    },
+    {
+      "text": "saint Robespierre",
+      "start": 97646,
+      "end": 97663,
+      "label": "PER"
+    },
+    {
+      "text": "Bretons",
+      "start": 97811,
+      "end": 97818,
+      "label": "MISC"
+    },
+    {
+      "text": "Es",
+      "start": 98141,
+      "end": 98143,
+      "label": "LOC"
+    },
+    {
+      "text": "Coupiau",
+      "start": 98167,
+      "end": 98174,
+      "label": "PER"
+    },
+    {
+      "text": "Gudin",
+      "start": 98209,
+      "end": 98214,
+      "label": "LOC"
+    },
+    {
+      "text": "Gudin",
+      "start": 98270,
+      "end": 98275,
+      "label": "PER"
+    },
+    {
+      "text": "Coupiau",
+      "start": 98326,
+      "end": 98333,
+      "label": "PER"
+    },
+    {
+      "text": "Coupiau",
+      "start": 98568,
+      "end": 98575,
+      "label": "PER"
+    },
+    {
+      "text": "Es",
+      "start": 98673,
+      "end": 98675,
+      "label": "LOC"
+    },
+    {
+      "text": "Chouan",
+      "start": 98695,
+      "end": 98701,
+      "label": "LOC"
+    },
+    {
+      "text": "Coupiau",
+      "start": 98794,
+      "end": 98801,
+      "label": "PER"
+    },
+    {
+      "text": "Breton",
+      "start": 98825,
+      "end": 98831,
+      "label": "PER"
+    },
+    {
+      "text": "Bleus",
+      "start": 98876,
+      "end": 98881,
+      "label": "ORG"
+    },
+    {
+      "text": "Gudin",
+      "start": 99324,
+      "end": 99329,
+      "label": "LOC"
+    },
+    {
+      "text": "Gudin",
+      "start": 99700,
+      "end": 99705,
+      "label": "LOC"
+    }
+  ]
+}

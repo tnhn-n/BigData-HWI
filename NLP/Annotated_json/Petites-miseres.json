@@ -1,0 +1,3586 @@
+{
+  "entities": [
+    {
+      "text": "MISÈRES DE LA VIE CONJUGALE",
+      "start": 8,
+      "end": 35,
+      "label": "MISC"
+    },
+    {
+      "text": "CHACUN",
+      "start": 53,
+      "end": 59,
+      "label": "MISC"
+    },
+    {
+      "text": "IMPRESSIONS",
+      "start": 75,
+      "end": 86,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonne famille",
+      "start": 141,
+      "end": 154,
+      "label": "MISC"
+    },
+    {
+      "text": "VOUS",
+      "start": 371,
+      "end": 375,
+      "label": "MISC"
+    },
+    {
+      "text": "BELLE",
+      "start": 483,
+      "end": 488,
+      "label": "MISC"
+    },
+    {
+      "text": "MÈRE",
+      "start": 489,
+      "end": 493,
+      "label": "ORG"
+    },
+    {
+      "text": "VOTRE PÈRE",
+      "start": 677,
+      "end": 687,
+      "label": "MISC"
+    },
+    {
+      "text": "MÈRE",
+      "start": 785,
+      "end": 789,
+      "label": "ORG"
+    },
+    {
+      "text": "JARNAC",
+      "start": 1178,
+      "end": 1184,
+      "label": "MISC"
+    },
+    {
+      "text": "Petite",
+      "start": 1348,
+      "end": 1354,
+      "label": "PER"
+    },
+    {
+      "text": "CAROLINE",
+      "start": 1794,
+      "end": 1802,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 1849,
+      "end": 1857,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 2250,
+      "end": 2255,
+      "label": "LOC"
+    },
+    {
+      "text": "Préface",
+      "start": 2259,
+      "end": 2266,
+      "label": "LOC"
+    },
+    {
+      "text": "ADOLPHE",
+      "start": 2298,
+      "end": 2305,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 2449,
+      "end": 2456,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 2496,
+      "end": 2504,
+      "label": "LOC"
+    },
+    {
+      "text": "Fille",
+      "start": 2537,
+      "end": 2542,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambre",
+      "start": 2624,
+      "end": 2631,
+      "label": "ORG"
+    },
+    {
+      "text": "VOTRE FEMME",
+      "start": 2653,
+      "end": 2664,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 2833,
+      "end": 2841,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi, Dieu",
+      "start": 3333,
+      "end": 3342,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 3442,
+      "end": 3450,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 3468,
+      "end": 3475,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 3498,
+      "end": 3506,
+      "label": "PER"
+    },
+    {
+      "text": "II",
+      "start": 3569,
+      "end": 3571,
+      "label": "MISC"
+    },
+    {
+      "text": "VOUS",
+      "start": 3576,
+      "end": 3580,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 4031,
+      "end": 4039,
+      "label": "LOC"
+    },
+    {
+      "text": "750,000 fr",
+      "start": 4443,
+      "end": 4453,
+      "label": "PER"
+    },
+    {
+      "text": "Total",
+      "start": 4506,
+      "end": 4511,
+      "label": "ORG"
+    },
+    {
+      "text": "Adolphe",
+      "start": 5219,
+      "end": 5226,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 5283,
+      "end": 5291,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 5321,
+      "end": 5328,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 5546,
+      "end": 5553,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 5622,
+      "end": 5630,
+      "label": "PER"
+    },
+    {
+      "text": "Semblables",
+      "start": 5786,
+      "end": 5796,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 6166,
+      "end": 6173,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 6261,
+      "end": 6269,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 6493,
+      "end": 6497,
+      "label": "MISC"
+    },
+    {
+      "text": "Italie",
+      "start": 6808,
+      "end": 6814,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 7022,
+      "end": 7026,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 7602,
+      "end": 7609,
+      "label": "LOC"
+    },
+    {
+      "text": "Berri",
+      "start": 7649,
+      "end": 7654,
+      "label": "LOC"
+    },
+    {
+      "text": "Juillet",
+      "start": 7749,
+      "end": 7756,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri V",
+      "start": 7759,
+      "end": 7766,
+      "label": "PER"
+    },
+    {
+      "text": "Orléans",
+      "start": 7810,
+      "end": 7817,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 7977,
+      "end": 7985,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandrine",
+      "start": 8606,
+      "end": 8617,
+      "label": "PER"
+    },
+    {
+      "text": "DÉCOUVERTES",
+      "start": 8997,
+      "end": 9008,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 10132,
+      "end": 10140,
+      "label": "PER"
+    },
+    {
+      "text": "Minette",
+      "start": 10323,
+      "end": 10330,
+      "label": "LOC"
+    },
+    {
+      "text": "Avez",
+      "start": 10656,
+      "end": 10660,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe ?",
+      "start": 10681,
+      "end": 10690,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 11025,
+      "end": 11033,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 11061,
+      "end": 11083,
+      "label": "PER"
+    },
+    {
+      "text": "Fischtaminel",
+      "start": 11243,
+      "end": 11255,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 11345,
+      "end": 11367,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 11499,
+      "end": 11507,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 11658,
+      "end": 11664,
+      "label": "PER"
+    },
+    {
+      "text": "Tantôt",
+      "start": 11801,
+      "end": 11807,
+      "label": "PER"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 11855,
+      "end": 11870,
+      "label": "PER"
+    },
+    {
+      "text": "Nicolas Jean Jérôme Népomucène Ange Marie",
+      "start": 11922,
+      "end": 11963,
+      "label": "PER"
+    },
+    {
+      "text": "Joseph Deschars",
+      "start": 11976,
+      "end": 11991,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 12245,
+      "end": 12253,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 12325,
+      "end": 12333,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 13244,
+      "end": 13252,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 13265,
+      "end": 13269,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 13417,
+      "end": 13425,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 13747,
+      "end": 13755,
+      "label": "PER"
+    },
+    {
+      "text": "AXIOME",
+      "start": 13763,
+      "end": 13769,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 14022,
+      "end": 14030,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 14551,
+      "end": 14559,
+      "label": "LOC"
+    },
+    {
+      "text": "Chimère",
+      "start": 14828,
+      "end": 14835,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 15116,
+      "end": 15124,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 15675,
+      "end": 15690,
+      "label": "PER"
+    },
+    {
+      "text": "caleçon",
+      "start": 15972,
+      "end": 15979,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 16498,
+      "end": 16513,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Deschars",
+      "start": 16515,
+      "end": 16530,
+      "label": "PER"
+    },
+    {
+      "text": "Fête Dieu",
+      "start": 17028,
+      "end": 17037,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 17224,
+      "end": 17239,
+      "label": "PER"
+    },
+    {
+      "text": "whist",
+      "start": 17293,
+      "end": 17298,
+      "label": "LOC"
+    },
+    {
+      "text": "Où",
+      "start": 17488,
+      "end": 17490,
+      "label": "LOC"
+    },
+    {
+      "text": "Œdipe",
+      "start": 17890,
+      "end": 17895,
+      "label": "PER"
+    },
+    {
+      "text": "MAL",
+      "start": 18040,
+      "end": 18043,
+      "label": "ORG"
+    },
+    {
+      "text": "Sphinx",
+      "start": 18068,
+      "end": 18074,
+      "label": "LOC"
+    },
+    {
+      "text": "De mal",
+      "start": 18226,
+      "end": 18232,
+      "label": "MISC"
+    },
+    {
+      "text": "Et enfin malle",
+      "start": 18330,
+      "end": 18344,
+      "label": "MISC"
+    },
+    {
+      "text": "Delille",
+      "start": 18513,
+      "end": 18520,
+      "label": "PER"
+    },
+    {
+      "text": "Sphinx",
+      "start": 18552,
+      "end": 18558,
+      "label": "LOC"
+    },
+    {
+      "text": "replie",
+      "start": 18609,
+      "end": 18615,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 19163,
+      "end": 19167,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 19175,
+      "end": 19190,
+      "label": "PER"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 19720,
+      "end": 19735,
+      "label": "PER"
+    },
+    {
+      "text": "A",
+      "start": 20190,
+      "end": 20191,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20234,
+      "end": 20235,
+      "label": "LOC"
+    },
+    {
+      "text": "Au papier de ses papillotes",
+      "start": 20250,
+      "end": 20277,
+      "label": "MISC"
+    },
+    {
+      "text": "A",
+      "start": 20279,
+      "end": 20280,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20305,
+      "end": 20306,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20320,
+      "end": 20321,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20335,
+      "end": 20336,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20352,
+      "end": 20353,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 20366,
+      "end": 20367,
+      "label": "LOC"
+    },
+    {
+      "text": "Œdipe",
+      "start": 20494,
+      "end": 20499,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Deschars",
+      "start": 21055,
+      "end": 21070,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 21360,
+      "end": 21368,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Deschars",
+      "start": 21390,
+      "end": 21405,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 21703,
+      "end": 21709,
+      "label": "MISC"
+    },
+    {
+      "text": "Loth",
+      "start": 21761,
+      "end": 21765,
+      "label": "PER"
+    },
+    {
+      "text": "AXIOME",
+      "start": 21910,
+      "end": 21916,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 22067,
+      "end": 22075,
+      "label": "LOC"
+    },
+    {
+      "text": "Nabuchodonosor",
+      "start": 22103,
+      "end": 22117,
+      "label": "PER"
+    },
+    {
+      "text": "Ne pas voir les crochets d'acier",
+      "start": 22890,
+      "end": 22922,
+      "label": "MISC"
+    },
+    {
+      "text": "S'enfoncer dans sa ruelle en se disant",
+      "start": 23058,
+      "end": 23096,
+      "label": "MISC"
+    },
+    {
+      "text": "HIER",
+      "start": 23174,
+      "end": 23178,
+      "label": "MISC"
+    },
+    {
+      "text": "AUJOURD'",
+      "start": 23191,
+      "end": 23199,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon Musard",
+      "start": 24187,
+      "end": 24202,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 24286,
+      "end": 24292,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah ! ventrebleu !",
+      "start": 24580,
+      "end": 24597,
+      "label": "MISC"
+    },
+    {
+      "text": "Chasseur",
+      "start": 24617,
+      "end": 24625,
+      "label": "LOC"
+    },
+    {
+      "text": "Spontanément !",
+      "start": 24836,
+      "end": 24850,
+      "label": "MISC"
+    },
+    {
+      "text": "Chose",
+      "start": 25021,
+      "end": 25026,
+      "label": "PER"
+    },
+    {
+      "text": "Toi",
+      "start": 25625,
+      "end": 25628,
+      "label": "PER"
+    },
+    {
+      "text": "Malheureux Adolphe",
+      "start": 25798,
+      "end": 25816,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 25957,
+      "end": 25965,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 26770,
+      "end": 26777,
+      "label": "PER"
+    },
+    {
+      "text": "Ouhouhi",
+      "start": 26819,
+      "end": 26826,
+      "label": "LOC"
+    },
+    {
+      "text": "Ououhoin",
+      "start": 26830,
+      "end": 26838,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 26844,
+      "end": 26851,
+      "label": "MISC"
+    },
+    {
+      "text": "Ououhouin",
+      "start": 26910,
+      "end": 26919,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 26975,
+      "end": 26981,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 27081,
+      "end": 27087,
+      "label": "ORG"
+    },
+    {
+      "text": "Adolphe !",
+      "start": 27109,
+      "end": 27118,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 27143,
+      "end": 27151,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 27699,
+      "end": 27707,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 28583,
+      "end": 28589,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 28602,
+      "end": 28608,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29063,
+      "end": 29071,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 29381,
+      "end": 29389,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 29533,
+      "end": 29539,
+      "label": "PER"
+    },
+    {
+      "text": "TAQUINAGES",
+      "start": 29864,
+      "end": 29874,
+      "label": "MISC"
+    },
+    {
+      "text": "Champs Elysées",
+      "start": 30230,
+      "end": 30244,
+      "label": "LOC"
+    },
+    {
+      "text": "Sois",
+      "start": 31495,
+      "end": 31499,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 31511,
+      "end": 31518,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 31823,
+      "end": 31830,
+      "label": "MISC"
+    },
+    {
+      "text": "Vincennes",
+      "start": 32161,
+      "end": 32170,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 32186,
+      "end": 32191,
+      "label": "LOC"
+    },
+    {
+      "text": "Vincennes",
+      "start": 32196,
+      "end": 32205,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 32208,
+      "end": 32218,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Maur",
+      "start": 32223,
+      "end": 32233,
+      "label": "PER"
+    },
+    {
+      "text": "Charenton",
+      "start": 32236,
+      "end": 32245,
+      "label": "PER"
+    },
+    {
+      "text": "Charenton",
+      "start": 32250,
+      "end": 32259,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 32416,
+      "end": 32422,
+      "label": "LOC"
+    },
+    {
+      "text": "Maisons",
+      "start": 32425,
+      "end": 32432,
+      "label": "LOC"
+    },
+    {
+      "text": "Maisons",
+      "start": 32471,
+      "end": 32478,
+      "label": "LOC"
+    },
+    {
+      "text": "Alfort",
+      "start": 32487,
+      "end": 32493,
+      "label": "LOC"
+    },
+    {
+      "text": "Coco",
+      "start": 33450,
+      "end": 33454,
+      "label": "LOC"
+    },
+    {
+      "text": "Verrerie",
+      "start": 33974,
+      "end": 33982,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 33998,
+      "end": 34005,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?   J'ai faim",
+      "start": 34146,
+      "end": 34168,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 34562,
+      "end": 34569,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 34658,
+      "end": 34665,
+      "label": "PER"
+    },
+    {
+      "text": "Aimes",
+      "start": 34901,
+      "end": 34906,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 35362,
+      "end": 35369,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 35701,
+      "end": 35709,
+      "label": "LOC"
+    },
+    {
+      "text": "Bon !",
+      "start": 35836,
+      "end": 35841,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 35901,
+      "end": 35908,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 35969,
+      "end": 35977,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 36541,
+      "end": 36549,
+      "label": "LOC"
+    },
+    {
+      "text": "Oreste",
+      "start": 36955,
+      "end": 36961,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Octroi",
+      "start": 36996,
+      "end": 37004,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 37193,
+      "end": 37198,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Schontz",
+      "start": 37434,
+      "end": 37448,
+      "label": "PER"
+    },
+    {
+      "text": "Vincennes",
+      "start": 37645,
+      "end": 37654,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 37874,
+      "end": 37882,
+      "label": "PER"
+    },
+    {
+      "text": "calme toi",
+      "start": 38369,
+      "end": 38378,
+      "label": "PER"
+    },
+    {
+      "text": "CONCLUSUM",
+      "start": 38428,
+      "end": 38437,
+      "label": "ORG"
+    },
+    {
+      "text": "Vénus",
+      "start": 38954,
+      "end": 38959,
+      "label": "LOC"
+    },
+    {
+      "text": "bruyère",
+      "start": 40068,
+      "end": 40075,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 40597,
+      "end": 40605,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 41425,
+      "end": 41432,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 42191,
+      "end": 42199,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 42266,
+      "end": 42272,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 42579,
+      "end": 42585,
+      "label": "LOC"
+    },
+    {
+      "text": "Exposition",
+      "start": 42591,
+      "end": 42601,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre",
+      "start": 42796,
+      "end": 42802,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 42941,
+      "end": 42949,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Adolphe",
+      "start": 43467,
+      "end": 43481,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?   ",
+      "start": 43955,
+      "end": 43968,
+      "label": "MISC"
+    },
+    {
+      "text": "Demandez",
+      "start": 43968,
+      "end": 43976,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 44227,
+      "end": 44234,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 45100,
+      "end": 45110,
+      "label": "MISC"
+    },
+    {
+      "text": "AXIOME",
+      "start": 45111,
+      "end": 45117,
+      "label": "ORG"
+    },
+    {
+      "text": "Froid",
+      "start": 45211,
+      "end": 45216,
+      "label": "MISC"
+    },
+    {
+      "text": "Ouh !",
+      "start": 45257,
+      "end": 45262,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 45334,
+      "end": 45339,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 45697,
+      "end": 45701,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruxelles",
+      "start": 46465,
+      "end": 46474,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 46525,
+      "end": 46533,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 46624,
+      "end": 46630,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 46632,
+      "end": 46638,
+      "label": "PER"
+    },
+    {
+      "text": "Grandes Indes",
+      "start": 46948,
+      "end": 46961,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 47019,
+      "end": 47026,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 47083,
+      "end": 47091,
+      "label": "LOC"
+    },
+    {
+      "text": "Tropique",
+      "start": 47230,
+      "end": 47238,
+      "label": "PER"
+    },
+    {
+      "text": "Équateur",
+      "start": 47267,
+      "end": 47275,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 47327,
+      "end": 47333,
+      "label": "LOC"
+    },
+    {
+      "text": "Suisse",
+      "start": 47469,
+      "end": 47475,
+      "label": "LOC"
+    },
+    {
+      "text": "conférence de Londres",
+      "start": 47534,
+      "end": 47555,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 47717,
+      "end": 47725,
+      "label": "LOC"
+    },
+    {
+      "text": "AXIOME",
+      "start": 47780,
+      "end": 47786,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 47906,
+      "end": 47914,
+      "label": "PER"
+    },
+    {
+      "text": "FEMMES",
+      "start": 48113,
+      "end": 48119,
+      "label": "ORG"
+    },
+    {
+      "text": "croyez",
+      "start": 48126,
+      "end": 48132,
+      "label": "MISC"
+    },
+    {
+      "text": "AXIOME",
+      "start": 48219,
+      "end": 48225,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 48396,
+      "end": 48400,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 48422,
+      "end": 48426,
+      "label": "MISC"
+    },
+    {
+      "text": "Aristote",
+      "start": 48692,
+      "end": 48700,
+      "label": "PER"
+    },
+    {
+      "text": "Ni celle de Ramus",
+      "start": 48702,
+      "end": 48719,
+      "label": "MISC"
+    },
+    {
+      "text": "Ni celle de",
+      "start": 48721,
+      "end": 48732,
+      "label": "MISC"
+    },
+    {
+      "text": "Kant",
+      "start": 48733,
+      "end": 48737,
+      "label": "PER"
+    },
+    {
+      "text": "Ni celle de Condillac",
+      "start": 48739,
+      "end": 48760,
+      "label": "MISC"
+    },
+    {
+      "text": "Ni celle de",
+      "start": 48762,
+      "end": 48773,
+      "label": "MISC"
+    },
+    {
+      "text": "Robespierre",
+      "start": 48774,
+      "end": 48785,
+      "label": "PER"
+    },
+    {
+      "text": "Ni celle",
+      "start": 48787,
+      "end": 48795,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 48799,
+      "end": 48807,
+      "label": "PER"
+    },
+    {
+      "text": "Italiennes",
+      "start": 48952,
+      "end": 48962,
+      "label": "LOC"
+    },
+    {
+      "text": "Normandes",
+      "start": 48968,
+      "end": 48977,
+      "label": "LOC"
+    },
+    {
+      "text": "Bretonnes",
+      "start": 48985,
+      "end": 48994,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 49033,
+      "end": 49044,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 50248,
+      "end": 50254,
+      "label": "LOC"
+    },
+    {
+      "text": "Prends",
+      "start": 50302,
+      "end": 50308,
+      "label": "LOC"
+    },
+    {
+      "text": "Robert Macaire",
+      "start": 50541,
+      "end": 50555,
+      "label": "PER"
+    },
+    {
+      "text": "Bertrand",
+      "start": 50559,
+      "end": 50567,
+      "label": "PER"
+    },
+    {
+      "text": "Fischtaminel",
+      "start": 50910,
+      "end": 50922,
+      "label": "PER"
+    },
+    {
+      "text": "petit drôle sourit",
+      "start": 51446,
+      "end": 51464,
+      "label": "MISC"
+    },
+    {
+      "text": "Accourt",
+      "start": 51536,
+      "end": 51543,
+      "label": "LOC"
+    },
+    {
+      "text": "Hérode",
+      "start": 51749,
+      "end": 51755,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 51862,
+      "end": 51871,
+      "label": "PER"
+    },
+    {
+      "text": "Décidément",
+      "start": 52021,
+      "end": 52031,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 52033,
+      "end": 52041,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 52057,
+      "end": 52064,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 52079,
+      "end": 52086,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 52149,
+      "end": 52156,
+      "label": "PER"
+    },
+    {
+      "text": "roi de Rome",
+      "start": 52529,
+      "end": 52540,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de Rome",
+      "start": 52590,
+      "end": 52601,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 52623,
+      "end": 52633,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 52855,
+      "end": 52862,
+      "label": "MISC"
+    },
+    {
+      "text": "Rome",
+      "start": 52887,
+      "end": 52891,
+      "label": "LOC"
+    },
+    {
+      "text": "roi de",
+      "start": 52937,
+      "end": 52943,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 52944,
+      "end": 52948,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 52998,
+      "end": 53007,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Bordeaux",
+      "start": 53066,
+      "end": 53081,
+      "label": "PER"
+    },
+    {
+      "text": "M.",
+      "start": 53111,
+      "end": 53113,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Rivière",
+      "start": 53117,
+      "end": 53131,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Bordeaux",
+      "start": 53179,
+      "end": 53194,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 53536,
+      "end": 53543,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 53618,
+      "end": 53625,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 53656,
+      "end": 53663,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 53692,
+      "end": 53699,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 53942,
+      "end": 53948,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 54098,
+      "end": 54105,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 54340,
+      "end": 54345,
+      "label": "MISC"
+    },
+    {
+      "text": "Abraham",
+      "start": 54913,
+      "end": 54920,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 55210,
+      "end": 55217,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 55447,
+      "end": 55454,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 55756,
+      "end": 55763,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 55837,
+      "end": 55845,
+      "label": "PER"
+    },
+    {
+      "text": "Jules",
+      "start": 55862,
+      "end": 55867,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 55890,
+      "end": 55895,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 56074,
+      "end": 56082,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 56134,
+      "end": 56141,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 56293,
+      "end": 56300,
+      "label": "PER"
+    },
+    {
+      "text": "AXIOME",
+      "start": 56471,
+      "end": 56477,
+      "label": "ORG"
+    },
+    {
+      "text": "Charles",
+      "start": 56668,
+      "end": 56675,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 56703,
+      "end": 56711,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 56826,
+      "end": 56833,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 57243,
+      "end": 57250,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 57468,
+      "end": 57475,
+      "label": "PER"
+    },
+    {
+      "text": "FEMMES",
+      "start": 58117,
+      "end": 58123,
+      "label": "ORG"
+    },
+    {
+      "text": "essayez",
+      "start": 58613,
+      "end": 58620,
+      "label": "LOC"
+    },
+    {
+      "text": "Connaît",
+      "start": 58855,
+      "end": 58862,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 59342,
+      "end": 59350,
+      "label": "LOC"
+    },
+    {
+      "text": "Ou de ne pas pouvoir remplacer assez souvent son chapeau",
+      "start": 59385,
+      "end": 59441,
+      "label": "MISC"
+    },
+    {
+      "text": "De ne pas pouvoir mettre son enfant en matelot",
+      "start": 59500,
+      "end": 59546,
+      "label": "MISC"
+    },
+    {
+      "text": "Écossais",
+      "start": 59601,
+      "end": 59609,
+      "label": "LOC"
+    },
+    {
+      "text": "De ne pas pouvoir",
+      "start": 59737,
+      "end": 59754,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 59873,
+      "end": 59888,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 59894,
+      "end": 59916,
+      "label": "PER"
+    },
+    {
+      "text": "Ou",
+      "start": 59973,
+      "end": 59975,
+      "label": "LOC"
+    },
+    {
+      "text": "fiacre",
+      "start": 60481,
+      "end": 60487,
+      "label": "LOC"
+    },
+    {
+      "text": "Champs Élysées",
+      "start": 61126,
+      "end": 61140,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 61184,
+      "end": 61206,
+      "label": "PER"
+    },
+    {
+      "text": "Tripier",
+      "start": 61454,
+      "end": 61461,
+      "label": "PER"
+    },
+    {
+      "text": "Merlin",
+      "start": 61467,
+      "end": 61473,
+      "label": "PER"
+    },
+    {
+      "text": "les Juifs",
+      "start": 62058,
+      "end": 62067,
+      "label": "MISC"
+    },
+    {
+      "text": "Grecs",
+      "start": 62073,
+      "end": 62078,
+      "label": "MISC"
+    },
+    {
+      "text": "Arabes",
+      "start": 62140,
+      "end": 62146,
+      "label": "MISC"
+    },
+    {
+      "text": "Suisses",
+      "start": 62228,
+      "end": 62235,
+      "label": "LOC"
+    },
+    {
+      "text": "Génevois",
+      "start": 62241,
+      "end": 62249,
+      "label": "LOC"
+    },
+    {
+      "text": "Génois",
+      "start": 62308,
+      "end": 62314,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 62520,
+      "end": 62528,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 63665,
+      "end": 63673,
+      "label": "PER"
+    },
+    {
+      "text": "AXIOME",
+      "start": 63923,
+      "end": 63929,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 63989,
+      "end": 63997,
+      "label": "PER"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 64235,
+      "end": 64243,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉPOQUE",
+      "start": 64244,
+      "end": 64250,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 64254,
+      "end": 64258,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 64314,
+      "end": 64321,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 64401,
+      "end": 64405,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 64434,
+      "end": 64456,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 64632,
+      "end": 64638,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 64670,
+      "end": 64674,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe !",
+      "start": 64760,
+      "end": 64769,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 64772,
+      "end": 64779,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes bien heureuse",
+      "start": 64826,
+      "end": 64849,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 64915,
+      "end": 64922,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 64960,
+      "end": 64967,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 64989,
+      "end": 64994,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 65112,
+      "end": 65120,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 65299,
+      "end": 65307,
+      "label": "LOC"
+    },
+    {
+      "text": "DEUXIÈME ÉPOQUE",
+      "start": 65573,
+      "end": 65588,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 66148,
+      "end": 66152,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 66355,
+      "end": 66363,
+      "label": "PER"
+    },
+    {
+      "text": "TROISIÈME ÉPOQUE",
+      "start": 66618,
+      "end": 66634,
+      "label": "ORG"
+    },
+    {
+      "text": "Catastrophe",
+      "start": 66638,
+      "end": 66649,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 66869,
+      "end": 66885,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 67000,
+      "end": 67008,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 67032,
+      "end": 67039,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 67054,
+      "end": 67061,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 67107,
+      "end": 67115,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent mille francs de perdus !",
+      "start": 67171,
+      "end": 67200,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 67375,
+      "end": 67379,
+      "label": "MISC"
+    },
+    {
+      "text": "TU NE",
+      "start": 67559,
+      "end": 67564,
+      "label": "MISC"
+    },
+    {
+      "text": "ÉCOUTÉE",
+      "start": 67574,
+      "end": 67581,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieu",
+      "start": 67839,
+      "end": 67843,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 68106,
+      "end": 68113,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 68239,
+      "end": 68247,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 68365,
+      "end": 68373,
+      "label": "LOC"
+    },
+    {
+      "text": "Plaignez Adolphe !",
+      "start": 68426,
+      "end": 68444,
+      "label": "PER"
+    },
+    {
+      "text": "Plaignez",
+      "start": 68445,
+      "end": 68453,
+      "label": "LOC"
+    },
+    {
+      "text": "SOUVENIRS",
+      "start": 68505,
+      "end": 68514,
+      "label": "ORG"
+    },
+    {
+      "text": "REGRETS",
+      "start": 68518,
+      "end": 68525,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 68596,
+      "end": 68604,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevards",
+      "start": 69569,
+      "end": 69579,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 70211,
+      "end": 70219,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 70253,
+      "end": 70261,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 70832,
+      "end": 70840,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 71752,
+      "end": 71760,
+      "label": "LOC"
+    },
+    {
+      "text": "Désir",
+      "start": 72002,
+      "end": 72007,
+      "label": "ORG"
+    },
+    {
+      "text": "PREMIÈRE",
+      "start": 72009,
+      "end": 72017,
+      "label": "MISC"
+    },
+    {
+      "text": "STROPHE",
+      "start": 72018,
+      "end": 72025,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 72029,
+      "end": 72033,
+      "label": "MISC"
+    },
+    {
+      "text": "Turcs",
+      "start": 72194,
+      "end": 72199,
+      "label": "LOC"
+    },
+    {
+      "text": "Coran",
+      "start": 72247,
+      "end": 72252,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 72352,
+      "end": 72360,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline du monde",
+      "start": 72416,
+      "end": 72433,
+      "label": "MISC"
+    },
+    {
+      "text": "TROISIÈME",
+      "start": 72518,
+      "end": 72527,
+      "label": "ORG"
+    },
+    {
+      "text": "STROPHE",
+      "start": 72528,
+      "end": 72535,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 72565,
+      "end": 72573,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu donc ? »",
+      "start": 72746,
+      "end": 72763,
+      "label": "MISC"
+    },
+    {
+      "text": "STROPHE",
+      "start": 72891,
+      "end": 72898,
+      "label": "ORG"
+    },
+    {
+      "text": "Oh !",
+      "start": 73070,
+      "end": 73074,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 73121,
+      "end": 73129,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagne",
+      "start": 73502,
+      "end": 73509,
+      "label": "LOC"
+    },
+    {
+      "text": "Cadix",
+      "start": 73624,
+      "end": 73629,
+      "label": "LOC"
+    },
+    {
+      "text": "CINQUIÉME",
+      "start": 73902,
+      "end": 73911,
+      "label": "ORG"
+    },
+    {
+      "text": "DERNIÈRE",
+      "start": 73915,
+      "end": 73923,
+      "label": "ORG"
+    },
+    {
+      "text": "STROPHE",
+      "start": 73924,
+      "end": 73931,
+      "label": "ORG"
+    },
+    {
+      "text": "Divine",
+      "start": 73935,
+      "end": 73941,
+      "label": "MISC"
+    },
+    {
+      "text": "Existe t",
+      "start": 73955,
+      "end": 73963,
+      "label": "PER"
+    },
+    {
+      "text": "Tour",
+      "start": 74008,
+      "end": 74012,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 74352,
+      "end": 74360,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 74638,
+      "end": 74660,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 74698,
+      "end": 74706,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevard",
+      "start": 74903,
+      "end": 74912,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri Monnier",
+      "start": 75180,
+      "end": 75193,
+      "label": "PER"
+    },
+    {
+      "text": "retombez",
+      "start": 75458,
+      "end": 75466,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 75554,
+      "end": 75576,
+      "label": "PER"
+    },
+    {
+      "text": "étiez garçon",
+      "start": 75644,
+      "end": 75656,
+      "label": "PER"
+    },
+    {
+      "text": "océan conjugal",
+      "start": 75738,
+      "end": 75752,
+      "label": "LOC"
+    },
+    {
+      "text": "EXEMPLES",
+      "start": 76405,
+      "end": 76413,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 76415,
+      "end": 76423,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevard",
+      "start": 76555,
+      "end": 76564,
+      "label": "LOC"
+    },
+    {
+      "text": "Boulevard",
+      "start": 76758,
+      "end": 76767,
+      "label": "LOC"
+    },
+    {
+      "text": "Ou",
+      "start": 76837,
+      "end": 76839,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 76897,
+      "end": 76905,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 76927,
+      "end": 76931,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe !",
+      "start": 76938,
+      "end": 76947,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 77220,
+      "end": 77224,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 77231,
+      "end": 77238,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 77288,
+      "end": 77296,
+      "label": "PER"
+    },
+    {
+      "text": "CONNAISSANCE",
+      "start": 77749,
+      "end": 77761,
+      "label": "ORG"
+    },
+    {
+      "text": "DES TEMPS",
+      "start": 77762,
+      "end": 77771,
+      "label": "MISC"
+    },
+    {
+      "text": "TAON CONJUGAL",
+      "start": 77782,
+      "end": 77795,
+      "label": "MISC"
+    },
+    {
+      "text": "Taon Conjugal",
+      "start": 78029,
+      "end": 78042,
+      "label": "LOC"
+    },
+    {
+      "text": "Taon",
+      "start": 78204,
+      "end": 78208,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 78381,
+      "end": 78389,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Deschars",
+      "start": 78398,
+      "end": 78413,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 78474,
+      "end": 78481,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 78552,
+      "end": 78560,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !   ",
+      "start": 78588,
+      "end": 78595,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 78720,
+      "end": 78727,
+      "label": "PER"
+    },
+    {
+      "text": "Thomas",
+      "start": 78759,
+      "end": 78765,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars !",
+      "start": 78855,
+      "end": 78865,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 78874,
+      "end": 78881,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 78974,
+      "end": 78982,
+      "label": "PER"
+    },
+    {
+      "text": "Quelles",
+      "start": 78996,
+      "end": 79003,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 79028,
+      "end": 79035,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 79162,
+      "end": 79169,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 79193,
+      "end": 79201,
+      "label": "LOC"
+    },
+    {
+      "text": "Deschars",
+      "start": 79275,
+      "end": 79283,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 79334,
+      "end": 79342,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Deschars",
+      "start": 79404,
+      "end": 79421,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 79552,
+      "end": 79560,
+      "label": "LOC"
+    },
+    {
+      "text": "Deschars",
+      "start": 79615,
+      "end": 79623,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 79806,
+      "end": 79814,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 79841,
+      "end": 79847,
+      "label": "LOC"
+    },
+    {
+      "text": "Deschars",
+      "start": 79862,
+      "end": 79870,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 79911,
+      "end": 79919,
+      "label": "PER"
+    },
+    {
+      "text": "Vois",
+      "start": 79995,
+      "end": 79999,
+      "label": "LOC"
+    },
+    {
+      "text": "Deschars",
+      "start": 80024,
+      "end": 80032,
+      "label": "PER"
+    },
+    {
+      "text": "Damoclès",
+      "start": 80071,
+      "end": 80079,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 80365,
+      "end": 80372,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez",
+      "start": 80496,
+      "end": 80501,
+      "label": "LOC"
+    },
+    {
+      "text": "Vauban",
+      "start": 80515,
+      "end": 80521,
+      "label": "PER"
+    },
+    {
+      "text": "Fischtaminel",
+      "start": 80589,
+      "end": 80601,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 80773,
+      "end": 80781,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 81125,
+      "end": 81129,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 81249,
+      "end": 81257,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 81275,
+      "end": 81282,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 81433,
+      "end": 81440,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 81507,
+      "end": 81515,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 81658,
+      "end": 81665,
+      "label": "PER"
+    },
+    {
+      "text": "Caraïbe",
+      "start": 81688,
+      "end": 81695,
+      "label": "LOC"
+    },
+    {
+      "text": "Fischtaminel",
+      "start": 81830,
+      "end": 81842,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 81853,
+      "end": 81861,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 81960,
+      "end": 81968,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 81974,
+      "end": 81978,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 82078,
+      "end": 82085,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 82157,
+      "end": 82179,
+      "label": "PER"
+    },
+    {
+      "text": "Comprenez",
+      "start": 82255,
+      "end": 82264,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 82302,
+      "end": 82310,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 82349,
+      "end": 82357,
+      "label": "PER"
+    },
+    {
+      "text": "rougeaud",
+      "start": 82381,
+      "end": 82389,
+      "label": "PER"
+    },
+    {
+      "text": "Fischtaminel",
+      "start": 82443,
+      "end": 82455,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 82467,
+      "end": 82475,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 82483,
+      "end": 82491,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 82536,
+      "end": 82544,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 82583,
+      "end": 82591,
+      "label": "LOC"
+    },
+    {
+      "text": "Taons",
+      "start": 82629,
+      "end": 82634,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 82741,
+      "end": 82763,
+      "label": "PER"
+    },
+    {
+      "text": "Halle",
+      "start": 82987,
+      "end": 82992,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 83045,
+      "end": 83053,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 83082,
+      "end": 83104,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 83271,
+      "end": 83278,
+      "label": "PER"
+    },
+    {
+      "text": "saint Martin",
+      "start": 83361,
+      "end": 83373,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 83447,
+      "end": 83455,
+      "label": "LOC"
+    },
+    {
+      "text": "TRAVAUX",
+      "start": 83664,
+      "end": 83671,
+      "label": "MISC"
+    },
+    {
+      "text": "AXIOME",
+      "start": 83744,
+      "end": 83750,
+      "label": "ORG"
+    },
+    {
+      "text": "Résignés",
+      "start": 84048,
+      "end": 84056,
+      "label": "ORG"
+    },
+    {
+      "text": "Adolphe",
+      "start": 84058,
+      "end": 84065,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 84357,
+      "end": 84368,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 84370,
+      "end": 84378,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 84386,
+      "end": 84391,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 84627,
+      "end": 84634,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 84701,
+      "end": 84706,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 84708,
+      "end": 84716,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 84801,
+      "end": 84816,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 84868,
+      "end": 84876,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 84981,
+      "end": 84988,
+      "label": "PER"
+    },
+    {
+      "text": "Borrel",
+      "start": 85016,
+      "end": 85022,
+      "label": "PER"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 85027,
+      "end": 85044,
+      "label": "LOC"
+    },
+    {
+      "text": "Variétés",
+      "start": 85097,
+      "end": 85105,
+      "label": "ORG"
+    },
+    {
+      "text": "Adolphe",
+      "start": 85135,
+      "end": 85142,
+      "label": "PER"
+    },
+    {
+      "text": "Boulevards",
+      "start": 85151,
+      "end": 85161,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 85221,
+      "end": 85229,
+      "label": "LOC"
+    },
+    {
+      "text": "Borrel",
+      "start": 85379,
+      "end": 85385,
+      "label": "PER"
+    },
+    {
+      "text": "bruyère",
+      "start": 85823,
+      "end": 85830,
+      "label": "PER"
+    },
+    {
+      "text": "La France",
+      "start": 85955,
+      "end": 85964,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 86241,
+      "end": 86246,
+      "label": "LOC"
+    },
+    {
+      "text": "bouquet",
+      "start": 86566,
+      "end": 86573,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra Comique",
+      "start": 86721,
+      "end": 86734,
+      "label": "ORG"
+    },
+    {
+      "text": "Italiens",
+      "start": 86740,
+      "end": 86748,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 86761,
+      "end": 86766,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 86880,
+      "end": 86888,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 87029,
+      "end": 87036,
+      "label": "PER"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 87264,
+      "end": 87281,
+      "label": "LOC"
+    },
+    {
+      "text": "Véry",
+      "start": 87302,
+      "end": 87306,
+      "label": "PER"
+    },
+    {
+      "text": "Borrel",
+      "start": 87341,
+      "end": 87347,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 87452,
+      "end": 87457,
+      "label": "LOC"
+    },
+    {
+      "text": "GGUILLAUME TELL",
+      "start": 87472,
+      "end": 87487,
+      "label": "MISC"
+    },
+    {
+      "text": "Deschars",
+      "start": 87566,
+      "end": 87574,
+      "label": "PER"
+    },
+    {
+      "text": "châle",
+      "start": 87938,
+      "end": 87943,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi, ma chère",
+      "start": 87978,
+      "end": 87991,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 87993,
+      "end": 88008,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 88048,
+      "end": 88056,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 88109,
+      "end": 88116,
+      "label": "LOC"
+    },
+    {
+      "text": "Mensonge",
+      "start": 88252,
+      "end": 88260,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 88345,
+      "end": 88360,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Roch",
+      "start": 88421,
+      "end": 88431,
+      "label": "LOC"
+    },
+    {
+      "text": "AUTEUR",
+      "start": 88481,
+      "end": 88487,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 88491,
+      "end": 88495,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 88496,
+      "end": 88502,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Fischtaminel",
+      "start": 88508,
+      "end": 88530,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 88602,
+      "end": 88610,
+      "label": "MISC"
+    },
+    {
+      "text": "Deschars",
+      "start": 88639,
+      "end": 88647,
+      "label": "PER"
+    },
+    {
+      "text": "Deschars",
+      "start": 88682,
+      "end": 88690,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 88847,
+      "end": 88855,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 88995,
+      "end": 89002,
+      "label": "PER"
+    },
+    {
+      "text": "Petit Carême",
+      "start": 89073,
+      "end": 89085,
+      "label": "LOC"
+    },
+    {
+      "text": "Autocrate",
+      "start": 89156,
+      "end": 89165,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 89170,
+      "end": 89174,
+      "label": "ORG"
+    },
+    {
+      "text": "AXIOME",
+      "start": 89325,
+      "end": 89331,
+      "label": "ORG"
+    },
+    {
+      "text": "Vice",
+      "start": 89336,
+      "end": 89340,
+      "label": "LOC"
+    },
+    {
+      "text": "Courtisan",
+      "start": 89345,
+      "end": 89354,
+      "label": "LOC"
+    },
+    {
+      "text": "Malheur",
+      "start": 89359,
+      "end": 89366,
+      "label": "LOC"
+    },
+    {
+      "text": "Amour",
+      "start": 89372,
+      "end": 89377,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 89452,
+      "end": 89460,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 89664,
+      "end": 89671,
+      "label": "MISC"
+    },
+    {
+      "text": "Hercule",
+      "start": 89994,
+      "end": 90001,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 90084,
+      "end": 90092,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 90117,
+      "end": 90125,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 90138,
+      "end": 90146,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 90173,
+      "end": 90188,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 90234,
+      "end": 90242,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Deschars",
+      "start": 90289,
+      "end": 90304,
+      "label": "PER"
+    },
+    {
+      "text": "Rubens",
+      "start": 90334,
+      "end": 90340,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 90373,
+      "end": 90380,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigogne",
+      "start": 90448,
+      "end": 90455,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 90494,
+      "end": 90502,
+      "label": "PER"
+    },
+    {
+      "text": "Italiens",
+      "start": 90533,
+      "end": 90541,
+      "label": "LOC"
+    },
+    {
+      "text": "Borrel",
+      "start": 90845,
+      "end": 90851,
+      "label": "PER"
+    },
+    {
+      "text": "Véry",
+      "start": 90855,
+      "end": 90859,
+      "label": "PER"
+    },
+    {
+      "text": "Fourneau",
+      "start": 90882,
+      "end": 90890,
+      "label": "PER"
+    },
+    {
+      "text": "AXIOME",
+      "start": 91200,
+      "end": 91206,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 91243,
+      "end": 91251,
+      "label": "LOC"
+    },
+    {
+      "text": "Excusez Adolphe !",
+      "start": 91336,
+      "end": 91353,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiennes",
+      "start": 91400,
+      "end": 91411,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaucoup d'entre elles ont les oreilles rassasiées de musique",
+      "start": 91607,
+      "end": 91668,
+      "label": "MISC"
+    },
+    {
+      "text": "Italiens",
+      "start": 91685,
+      "end": 91693,
+      "label": "LOC"
+    },
+    {
+      "text": "Rabelais",
+      "start": 92174,
+      "end": 92182,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 92313,
+      "end": 92321,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 92721,
+      "end": 92728,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 92757,
+      "end": 92764,
+      "label": "PER"
+    },
+    {
+      "text": "Languedoc",
+      "start": 92791,
+      "end": 92800,
+      "label": "LOC"
+    },
+    {
+      "text": "Oc",
+      "start": 92887,
+      "end": 92889,
+      "label": "LOC"
+    },
+    {
+      "text": "Troun de Diou",
+      "start": 93032,
+      "end": 93045,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 93123,
+      "end": 93130,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 93261,
+      "end": 93269,
+      "label": "PER"
+    },
+    {
+      "text": "Strasbourg",
+      "start": 93387,
+      "end": 93397,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 93487,
+      "end": 93494,
+      "label": "MISC"
+    },
+    {
+      "text": "Petit Manteau Bleu !",
+      "start": 93654,
+      "end": 93674,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 93683,
+      "end": 93690,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 93788,
+      "end": 93796,
+      "label": "LOC"
+    },
+    {
+      "text": "JAUNES",
+      "start": 94118,
+      "end": 94124,
+      "label": "ORG"
+    },
+    {
+      "text": "Prends",
+      "start": 94467,
+      "end": 94473,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 94487,
+      "end": 94495,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 94501,
+      "end": 94508,
+      "label": "PER"
+    },
+    {
+      "text": "GÉNÉRALE",
+      "start": 94702,
+      "end": 94710,
+      "label": "ORG"
+    },
+    {
+      "text": "Caroline",
+      "start": 95128,
+      "end": 95136,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 95141,
+      "end": 95145,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 95496,
+      "end": 95503,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 95580,
+      "end": 95587,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 95957,
+      "end": 95961,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 95962,
+      "end": 95968,
+      "label": "PER"
+    },
+    {
+      "text": "Londres",
+      "start": 96321,
+      "end": 96328,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 96362,
+      "end": 96368,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 96483,
+      "end": 96490,
+      "label": "PER"
+    },
+    {
+      "text": "bon Dieu",
+      "start": 96507,
+      "end": 96515,
+      "label": "MISC"
+    },
+    {
+      "text": "Gare !   ",
+      "start": 96659,
+      "end": 96668,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 96960,
+      "end": 96967,
+      "label": "PER"
+    },
+    {
+      "text": "Caroline",
+      "start": 97073,
+      "end": 97081,
+      "label": "LOC"
+    },
+    {
+      "text": "whist",
+      "start": 97324,
+      "end": 97329,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 97383,
+      "end": 97391,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 97403,
+      "end": 97413,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 97418,
+      "end": 97425,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 97429,
+      "end": 97435,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 97478,
+      "end": 97486,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 97934,
+      "end": 97941,
+      "label": "PER"
+    },
+    {
+      "text": "Charles XII",
+      "start": 98206,
+      "end": 98217,
+      "label": "PER"
+    },
+    {
+      "text": "Russes",
+      "start": 98225,
+      "end": 98231,
+      "label": "LOC"
+    },
+    {
+      "text": "Caroline",
+      "start": 98233,
+      "end": 98241,
+      "label": "LOC"
+    },
+    {
+      "text": "Souffrez",
+      "start": 98328,
+      "end": 98336,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 98348,
+      "end": 98355,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 98424,
+      "end": 98426,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 98649,
+      "end": 98656,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 98838,
+      "end": 98846,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 98944,
+      "end": 98951,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 98955,
+      "end": 98959,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 99255,
+      "end": 99262,
+      "label": "MISC"
+    },
+    {
+      "text": "Sais",
+      "start": 99277,
+      "end": 99281,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 99416,
+      "end": 99423,
+      "label": "PER"
+    },
+    {
+      "text": "Dodofe",
+      "start": 99692,
+      "end": 99698,
+      "label": "MISC"
+    },
+    {
+      "text": "Caroline",
+      "start": 99809,
+      "end": 99817,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 99826,
+      "end": 99833,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 99848,
+      "end": 99855,
+      "label": "PER"
+    }
+  ]
+}

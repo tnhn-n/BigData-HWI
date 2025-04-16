@@ -1,0 +1,4198 @@
+{
+  "entities": [
+    {
+      "text": "VENDETTA",
+      "start": 3,
+      "end": 11,
+      "label": "ORG"
+    },
+    {
+      "text": "SCULPTEUR",
+      "start": 38,
+      "end": 47,
+      "label": "ORG"
+    },
+    {
+      "text": "Tuileries",
+      "start": 175,
+      "end": 184,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 187,
+      "end": 192,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 357,
+      "end": 377,
+      "label": "PER"
+    },
+    {
+      "text": "Louvre des Valois",
+      "start": 381,
+      "end": 398,
+      "label": "PER"
+    },
+    {
+      "text": "Carraches",
+      "start": 1179,
+      "end": 1188,
+      "label": "LOC"
+    },
+    {
+      "text": "hâlé",
+      "start": 1769,
+      "end": 1773,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 2158,
+      "end": 2167,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 2779,
+      "end": 2788,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 3293,
+      "end": 3302,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 3307,
+      "end": 3328,
+      "label": "PER"
+    },
+    {
+      "text": "Italien",
+      "start": 3356,
+      "end": 3363,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 3425,
+      "end": 3436,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 3597,
+      "end": 3606,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 3727,
+      "end": 3738,
+      "label": "LOC"
+    },
+    {
+      "text": "jardin des Tuileries",
+      "start": 4035,
+      "end": 4055,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 4160,
+      "end": 4181,
+      "label": "PER"
+    },
+    {
+      "text": "Tuileries",
+      "start": 4244,
+      "end": 4253,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien Bonaparte",
+      "start": 4292,
+      "end": 4308,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 4343,
+      "end": 4347,
+      "label": "MISC"
+    },
+    {
+      "text": "Loucian",
+      "start": 4348,
+      "end": 4355,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 4472,
+      "end": 4478,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 4583,
+      "end": 4594,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 4629,
+      "end": 4634,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 4649,
+      "end": 4658,
+      "label": "PER"
+    },
+    {
+      "text": "Murat",
+      "start": 4660,
+      "end": 4665,
+      "label": "PER"
+    },
+    {
+      "text": "Lannes",
+      "start": 4667,
+      "end": 4673,
+      "label": "PER"
+    },
+    {
+      "text": "Rapp",
+      "start": 4675,
+      "end": 4679,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 4746,
+      "end": 4752,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 4799,
+      "end": 4805,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 4830,
+      "end": 4836,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 4842,
+      "end": 4850,
+      "label": "PER"
+    },
+    {
+      "text": "Murat",
+      "start": 5019,
+      "end": 5024,
+      "label": "PER"
+    },
+    {
+      "text": "Lannes",
+      "start": 5028,
+      "end": 5034,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 5108,
+      "end": 5117,
+      "label": "PER"
+    },
+    {
+      "text": "pas de Rapp",
+      "start": 5229,
+      "end": 5240,
+      "label": "MISC"
+    },
+    {
+      "text": "mur",
+      "start": 5300,
+      "end": 5303,
+      "label": "MISC"
+    },
+    {
+      "text": "Un Corse",
+      "start": 5447,
+      "end": 5455,
+      "label": "LOC"
+    },
+    {
+      "text": "viens",
+      "start": 5650,
+      "end": 5655,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 5681,
+      "end": 5692,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 5719,
+      "end": 5725,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 5779,
+      "end": 5784,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 5795,
+      "end": 5806,
+      "label": "LOC"
+    },
+    {
+      "text": "Porta",
+      "start": 5924,
+      "end": 5929,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 5943,
+      "end": 5948,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 6095,
+      "end": 6106,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 6136,
+      "end": 6145,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 6185,
+      "end": 6191,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 6195,
+      "end": 6200,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 6203,
+      "end": 6209,
+      "label": "PER"
+    },
+    {
+      "text": "Viens",
+      "start": 6259,
+      "end": 6264,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 6304,
+      "end": 6313,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 6337,
+      "end": 6346,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 6362,
+      "end": 6368,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 6398,
+      "end": 6404,
+      "label": "LOC"
+    },
+    {
+      "text": "Porta",
+      "start": 6449,
+      "end": 6454,
+      "label": "LOC"
+    },
+    {
+      "text": "Barbanti",
+      "start": 6501,
+      "end": 6509,
+      "label": "LOC"
+    },
+    {
+      "text": "Bastia",
+      "start": 6645,
+      "end": 6651,
+      "label": "LOC"
+    },
+    {
+      "text": "Longone",
+      "start": 6708,
+      "end": 6715,
+      "label": "LOC"
+    },
+    {
+      "text": "Grégorio",
+      "start": 6738,
+      "end": 6746,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 6757,
+      "end": 6764,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 6832,
+      "end": 6838,
+      "label": "LOC"
+    },
+    {
+      "text": "Grégorio",
+      "start": 6982,
+      "end": 6990,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 7033,
+      "end": 7037,
+      "label": "MISC"
+    },
+    {
+      "text": "Porta",
+      "start": 7042,
+      "end": 7047,
+      "label": "LOC"
+    },
+    {
+      "text": "Mâquis",
+      "start": 7108,
+      "end": 7114,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 7191,
+      "end": 7200,
+      "label": "PER"
+    },
+    {
+      "text": "Porta",
+      "start": 7238,
+      "end": 7243,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 7320,
+      "end": 7324,
+      "label": "MISC"
+    },
+    {
+      "text": "Giacomo",
+      "start": 7326,
+      "end": 7333,
+      "label": "PER"
+    },
+    {
+      "text": "Élisa Vanni",
+      "start": 7345,
+      "end": 7356,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 7385,
+      "end": 7390,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi Porta vécût",
+      "start": 7563,
+      "end": 7580,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 7589,
+      "end": 7598,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 7609,
+      "end": 7620,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 7661,
+      "end": 7668,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 7691,
+      "end": 7697,
+      "label": "PER"
+    },
+    {
+      "text": "Sept",
+      "start": 7701,
+      "end": 7705,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 7716,
+      "end": 7722,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 7858,
+      "end": 7862,
+      "label": "MISC"
+    },
+    {
+      "text": "Corses",
+      "start": 7880,
+      "end": 7886,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 7896,
+      "end": 7907,
+      "label": "LOC"
+    },
+    {
+      "text": "Adieu",
+      "start": 7937,
+      "end": 7942,
+      "label": "PER"
+    },
+    {
+      "text": "Marseille",
+      "start": 8051,
+      "end": 8060,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 8086,
+      "end": 8095,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 8179,
+      "end": 8185,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 8196,
+      "end": 8204,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 8353,
+      "end": 8357,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 8367,
+      "end": 8378,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 8419,
+      "end": 8428,
+      "label": "PER"
+    },
+    {
+      "text": "Vendetta",
+      "start": 8447,
+      "end": 8455,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 8498,
+      "end": 8503,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 8586,
+      "end": 8595,
+      "label": "PER"
+    },
+    {
+      "text": "Lucien",
+      "start": 8627,
+      "end": 8633,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 8646,
+      "end": 8652,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Corse",
+      "start": 8670,
+      "end": 8678,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 8794,
+      "end": 8805,
+      "label": "LOC"
+    },
+    {
+      "text": "Vendetta",
+      "start": 8982,
+      "end": 8990,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 9219,
+      "end": 9230,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 9253,
+      "end": 9259,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 9404,
+      "end": 9410,
+      "label": "LOC"
+    },
+    {
+      "text": "front du Corse",
+      "start": 9427,
+      "end": 9441,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9682,
+      "end": 9687,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 9693,
+      "end": 9702,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 9894,
+      "end": 9900,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 9973,
+      "end": 9978,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 9988,
+      "end": 9997,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 10263,
+      "end": 10284,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 10286,
+      "end": 10292,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 10382,
+      "end": 10388,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 10470,
+      "end": 10477,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontainebleau",
+      "start": 10545,
+      "end": 10558,
+      "label": "LOC"
+    },
+    {
+      "text": "Lucien",
+      "start": 10614,
+      "end": 10620,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 10796,
+      "end": 10802,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 10816,
+      "end": 10821,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10870,
+      "end": 10875,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 10931,
+      "end": 10937,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10940,
+      "end": 10945,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 11036,
+      "end": 11042,
+      "label": "LOC"
+    },
+    {
+      "text": "Envoyez",
+      "start": 12435,
+      "end": 12442,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 12451,
+      "end": 12457,
+      "label": "ORG"
+    },
+    {
+      "text": "Servin",
+      "start": 12488,
+      "end": 12494,
+      "label": "LOC"
+    },
+    {
+      "text": "Herbault",
+      "start": 12555,
+      "end": 12563,
+      "label": "PER"
+    },
+    {
+      "text": "Leroy",
+      "start": 12583,
+      "end": 12588,
+      "label": "PER"
+    },
+    {
+      "text": "Chevet",
+      "start": 12607,
+      "end": 12613,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 12703,
+      "end": 12709,
+      "label": "ORG"
+    },
+    {
+      "text": "Musée",
+      "start": 12759,
+      "end": 12764,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 12979,
+      "end": 12984,
+      "label": "LOC"
+    },
+    {
+      "text": "Niobé",
+      "start": 14527,
+      "end": 14532,
+      "label": "PER"
+    },
+    {
+      "text": "Vénus",
+      "start": 14583,
+      "end": 14588,
+      "label": "LOC"
+    },
+    {
+      "text": "Diane",
+      "start": 15334,
+      "end": 15339,
+      "label": "PER"
+    },
+    {
+      "text": "Apollon",
+      "start": 15345,
+      "end": 15352,
+      "label": "PER"
+    },
+    {
+      "text": "vierge française",
+      "start": 17249,
+      "end": 17265,
+      "label": "PER"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 17570,
+      "end": 17578,
+      "label": "PER"
+    },
+    {
+      "text": "Celles",
+      "start": 18099,
+      "end": 18105,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 19365,
+      "end": 19371,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie Thirion",
+      "start": 19580,
+      "end": 19594,
+      "label": "PER"
+    },
+    {
+      "text": "parti de la banque",
+      "start": 19749,
+      "end": 19767,
+      "label": "ORG"
+    },
+    {
+      "text": "Amélie",
+      "start": 19898,
+      "end": 19904,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 20225,
+      "end": 20231,
+      "label": "PER"
+    },
+    {
+      "text": "Prudhon",
+      "start": 20498,
+      "end": 20505,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 20701,
+      "end": 20707,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathilde Roguin",
+      "start": 20748,
+      "end": 20763,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 21184,
+      "end": 21191,
+      "label": "PER"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 21364,
+      "end": 21374,
+      "label": "MISC"
+    },
+    {
+      "text": "Ultras",
+      "start": 21490,
+      "end": 21496,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 21616,
+      "end": 21622,
+      "label": "LOC"
+    },
+    {
+      "text": "Mathilde Roguin",
+      "start": 21660,
+      "end": 21675,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Ginevra",
+      "start": 21763,
+      "end": 21783,
+      "label": "MISC"
+    },
+    {
+      "text": "Eccola",
+      "start": 21892,
+      "end": 21898,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie Thirion",
+      "start": 22197,
+      "end": 22211,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 22326,
+      "end": 22334,
+      "label": "ORG"
+    },
+    {
+      "text": "Ginevra Piombo",
+      "start": 22928,
+      "end": 22942,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 22950,
+      "end": 22958,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 23011,
+      "end": 23021,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 23087,
+      "end": 23093,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 23121,
+      "end": 23129,
+      "label": "PER"
+    },
+    {
+      "text": "île d'Elbe",
+      "start": 23186,
+      "end": 23196,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 23283,
+      "end": 23289,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 23300,
+      "end": 23305,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra Piombo",
+      "start": 23332,
+      "end": 23346,
+      "label": "PER"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 23635,
+      "end": 23644,
+      "label": "PER"
+    },
+    {
+      "text": "Bellérophon",
+      "start": 23652,
+      "end": 23663,
+      "label": "LOC"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 23687,
+      "end": 23697,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23816,
+      "end": 23821,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie Thirion",
+      "start": 24019,
+      "end": 24033,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 24100,
+      "end": 24106,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 24141,
+      "end": 24147,
+      "label": "LOC"
+    },
+    {
+      "text": "Côté Droit",
+      "start": 24604,
+      "end": 24614,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra Piombo",
+      "start": 24629,
+      "end": 24643,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 24673,
+      "end": 24679,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonaparte",
+      "start": 25053,
+      "end": 25062,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 25351,
+      "end": 25358,
+      "label": "PER"
+    },
+    {
+      "text": "Royalistes",
+      "start": 25403,
+      "end": 25413,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 25608,
+      "end": 25615,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 25725,
+      "end": 25731,
+      "label": "LOC"
+    },
+    {
+      "text": "Corses",
+      "start": 25983,
+      "end": 25989,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 26475,
+      "end": 26480,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonjour",
+      "start": 27315,
+      "end": 27322,
+      "label": "MISC"
+    },
+    {
+      "text": "Laure",
+      "start": 27334,
+      "end": 27339,
+      "label": "LOC"
+    },
+    {
+      "text": "Laure",
+      "start": 27546,
+      "end": 27551,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 27574,
+      "end": 27581,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 27705,
+      "end": 27714,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 28638,
+      "end": 28645,
+      "label": "MISC"
+    },
+    {
+      "text": "Roguin",
+      "start": 28694,
+      "end": 28700,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 28715,
+      "end": 28722,
+      "label": "PER"
+    },
+    {
+      "text": "Mathilde",
+      "start": 28993,
+      "end": 29001,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 29134,
+      "end": 29143,
+      "label": "MISC"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 29159,
+      "end": 29171,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 29223,
+      "end": 29230,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 29232,
+      "end": 29243,
+      "label": "MISC"
+    },
+    {
+      "text": "Aladin",
+      "start": 29819,
+      "end": 29825,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 30293,
+      "end": 30300,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 30310,
+      "end": 30315,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 30515,
+      "end": 30520,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde",
+      "start": 31628,
+      "end": 31633,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 31654,
+      "end": 31660,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 32221,
+      "end": 32228,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 32812,
+      "end": 32819,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 33092,
+      "end": 33099,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 33357,
+      "end": 33363,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 33403,
+      "end": 33412,
+      "label": "LOC"
+    },
+    {
+      "text": "Côté Droit",
+      "start": 33623,
+      "end": 33633,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Servin",
+      "start": 33648,
+      "end": 33661,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 33758,
+      "end": 33764,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 33842,
+      "end": 33849,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 33943,
+      "end": 33949,
+      "label": "PER"
+    },
+    {
+      "text": "Ultras",
+      "start": 34077,
+      "end": 34083,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra di Piombo",
+      "start": 34116,
+      "end": 34133,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 34144,
+      "end": 34153,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra di Piombo",
+      "start": 34646,
+      "end": 34663,
+      "label": "PER"
+    },
+    {
+      "text": "madame Servin",
+      "start": 34736,
+      "end": 34749,
+      "label": "PER"
+    },
+    {
+      "text": "madame Servin",
+      "start": 35069,
+      "end": 35082,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 35165,
+      "end": 35172,
+      "label": "PER"
+    },
+    {
+      "text": "Thirion",
+      "start": 35310,
+      "end": 35317,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Servin",
+      "start": 35439,
+      "end": 35452,
+      "label": "PER"
+    },
+    {
+      "text": "Mesdemoiselles",
+      "start": 35456,
+      "end": 35470,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 35491,
+      "end": 35497,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 35738,
+      "end": 35745,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 35802,
+      "end": 35811,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Servin",
+      "start": 36009,
+      "end": 36022,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 36094,
+      "end": 36101,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 36197,
+      "end": 36206,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Servin",
+      "start": 36224,
+      "end": 36237,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Servin",
+      "start": 36416,
+      "end": 36431,
+      "label": "MISC"
+    },
+    {
+      "text": "pensa Ginevra",
+      "start": 36487,
+      "end": 36500,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 36734,
+      "end": 36743,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Servin",
+      "start": 36896,
+      "end": 36909,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 36975,
+      "end": 36982,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle Thirion",
+      "start": 37230,
+      "end": 37250,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 37491,
+      "end": 37498,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 37621,
+      "end": 37630,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Servin",
+      "start": 37735,
+      "end": 37748,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 37876,
+      "end": 37883,
+      "label": "MISC"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 38106,
+      "end": 38118,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 38120,
+      "end": 38126,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 38214,
+      "end": 38221,
+      "label": "PER"
+    },
+    {
+      "text": "Endymion",
+      "start": 38519,
+      "end": 38527,
+      "label": "MISC"
+    },
+    {
+      "text": "Girodet",
+      "start": 38545,
+      "end": 38552,
+      "label": "PER"
+    },
+    {
+      "text": "Proscrire",
+      "start": 38602,
+      "end": 38611,
+      "label": "LOC"
+    },
+    {
+      "text": "Ney",
+      "start": 38684,
+      "end": 38687,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 38764,
+      "end": 38771,
+      "label": "PER"
+    },
+    {
+      "text": "Thirion",
+      "start": 38902,
+      "end": 38909,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 38950,
+      "end": 38957,
+      "label": "PER"
+    },
+    {
+      "text": "Amélie",
+      "start": 39072,
+      "end": 39078,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 39328,
+      "end": 39334,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Ginevra",
+      "start": 39380,
+      "end": 39400,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 39610,
+      "end": 39615,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 39769,
+      "end": 39776,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 39934,
+      "end": 39945,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 40409,
+      "end": 40416,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Thirion",
+      "start": 41095,
+      "end": 41115,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 41182,
+      "end": 41189,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 41320,
+      "end": 41327,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 41561,
+      "end": 41567,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 41763,
+      "end": 41769,
+      "label": "LOC"
+    },
+    {
+      "text": "Salvator Rosa",
+      "start": 41964,
+      "end": 41977,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 42224,
+      "end": 42231,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 42465,
+      "end": 42471,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 42613,
+      "end": 42619,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 42731,
+      "end": 42738,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 42852,
+      "end": 42858,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 42894,
+      "end": 42900,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 42954,
+      "end": 42960,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 43107,
+      "end": 43113,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 43132,
+      "end": 43139,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 43229,
+      "end": 43238,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 43433,
+      "end": 43440,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 43505,
+      "end": 43515,
+      "label": "PER"
+    },
+    {
+      "text": "île d'Elbe",
+      "start": 43625,
+      "end": 43635,
+      "label": "LOC"
+    },
+    {
+      "text": "Garde",
+      "start": 43670,
+      "end": 43675,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 43691,
+      "end": 43699,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 43824,
+      "end": 43831,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 44052,
+      "end": 44057,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 44088,
+      "end": 44097,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 44158,
+      "end": 44167,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 44456,
+      "end": 44466,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 44547,
+      "end": 44554,
+      "label": "PER"
+    },
+    {
+      "text": "Mon beau père",
+      "start": 44633,
+      "end": 44646,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 44945,
+      "end": 44952,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal Feltre",
+      "start": 44968,
+      "end": 44983,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 45128,
+      "end": 45134,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 45142,
+      "end": 45149,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 45600,
+      "end": 45606,
+      "label": "LOC"
+    },
+    {
+      "text": "Vertot",
+      "start": 45786,
+      "end": 45792,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 45914,
+      "end": 45920,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 46053,
+      "end": 46060,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 46195,
+      "end": 46204,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 46439,
+      "end": 46445,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 46650,
+      "end": 46662,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 46698,
+      "end": 46708,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 46722,
+      "end": 46728,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 46797,
+      "end": 46804,
+      "label": "PER"
+    },
+    {
+      "text": "Vous êtes blessé ?",
+      "start": 46827,
+      "end": 46845,
+      "label": "MISC"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 47136,
+      "end": 47146,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 47418,
+      "end": 47425,
+      "label": "MISC"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 47474,
+      "end": 47484,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 47734,
+      "end": 47741,
+      "label": "PER"
+    },
+    {
+      "text": "Rétablirez",
+      "start": 47789,
+      "end": 47799,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 47805,
+      "end": 47815,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 47828,
+      "end": 47834,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 48069,
+      "end": 48079,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 48267,
+      "end": 48277,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 48628,
+      "end": 48635,
+      "label": "PER"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 48679,
+      "end": 48690,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 48882,
+      "end": 48890,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 49154,
+      "end": 49164,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 49309,
+      "end": 49315,
+      "label": "PER"
+    },
+    {
+      "text": "Attendez",
+      "start": 49663,
+      "end": 49671,
+      "label": "MISC"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 50408,
+      "end": 50418,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 50433,
+      "end": 50443,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 50584,
+      "end": 50592,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 50601,
+      "end": 50607,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 50655,
+      "end": 50662,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 50866,
+      "end": 50873,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 50999,
+      "end": 51007,
+      "label": "PER"
+    },
+    {
+      "text": "corse",
+      "start": 51031,
+      "end": 51036,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 51790,
+      "end": 51797,
+      "label": "PER"
+    },
+    {
+      "text": "Labédoyère",
+      "start": 51887,
+      "end": 51897,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 51901,
+      "end": 51908,
+      "label": "PER"
+    },
+    {
+      "text": "Calmez",
+      "start": 51994,
+      "end": 52000,
+      "label": "PER"
+    },
+    {
+      "text": "O Dio !",
+      "start": 52055,
+      "end": 52062,
+      "label": "MISC"
+    },
+    {
+      "text": "veduta !",
+      "start": 52097,
+      "end": 52105,
+      "label": "MISC"
+    },
+    {
+      "text": "O Dieu !",
+      "start": 52107,
+      "end": 52115,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 52233,
+      "end": 52240,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous êtes Corse",
+      "start": 52244,
+      "end": 52259,
+      "label": "MISC"
+    },
+    {
+      "text": "Corse",
+      "start": 52337,
+      "end": 52342,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 52391,
+      "end": 52396,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 52653,
+      "end": 52660,
+      "label": "MISC"
+    },
+    {
+      "text": "Corse",
+      "start": 52765,
+      "end": 52770,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 53045,
+      "end": 53051,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 53226,
+      "end": 53233,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 53523,
+      "end": 53529,
+      "label": "LOC"
+    },
+    {
+      "text": "Italienne",
+      "start": 54201,
+      "end": 54210,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 54783,
+      "end": 54790,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 54863,
+      "end": 54869,
+      "label": "LOC"
+    },
+    {
+      "text": "corse",
+      "start": 55008,
+      "end": 55013,
+      "label": "LOC"
+    },
+    {
+      "text": "Moscou",
+      "start": 55078,
+      "end": 55084,
+      "label": "LOC"
+    },
+    {
+      "text": "Bérézina",
+      "start": 55151,
+      "end": 55159,
+      "label": "LOC"
+    },
+    {
+      "text": "Waterloo",
+      "start": 55326,
+      "end": 55334,
+      "label": "MISC"
+    },
+    {
+      "text": "Italienne",
+      "start": 55367,
+      "end": 55376,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 55397,
+      "end": 55404,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 55648,
+      "end": 55653,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi",
+      "start": 56536,
+      "end": 56541,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 56658,
+      "end": 56665,
+      "label": "MISC"
+    },
+    {
+      "text": "Thirion",
+      "start": 56759,
+      "end": 56766,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra di Piombo",
+      "start": 56817,
+      "end": 56834,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Roguin",
+      "start": 57003,
+      "end": 57022,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 57088,
+      "end": 57095,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 57429,
+      "end": 57438,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 57676,
+      "end": 57682,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 57706,
+      "end": 57711,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 57767,
+      "end": 57772,
+      "label": "PER"
+    },
+    {
+      "text": "Corse",
+      "start": 57875,
+      "end": 57880,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Roguin",
+      "start": 57905,
+      "end": 57924,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 57945,
+      "end": 57950,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 58021,
+      "end": 58028,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 58080,
+      "end": 58085,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 58496,
+      "end": 58502,
+      "label": "LOC"
+    },
+    {
+      "text": "Amélie",
+      "start": 58546,
+      "end": 58552,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 58560,
+      "end": 58567,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 58800,
+      "end": 58806,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 58958,
+      "end": 58965,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Laure",
+      "start": 58969,
+      "end": 58987,
+      "label": "PER"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 59083,
+      "end": 59094,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 59300,
+      "end": 59305,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 59584,
+      "end": 59589,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 59660,
+      "end": 59666,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 59668,
+      "end": 59673,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 59939,
+      "end": 59946,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 59952,
+      "end": 59957,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 59964,
+      "end": 59969,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 60134,
+      "end": 60141,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 60172,
+      "end": 60177,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 60276,
+      "end": 60281,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 60283,
+      "end": 60290,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 60486,
+      "end": 60491,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 60778,
+      "end": 60785,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 60815,
+      "end": 60820,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 60981,
+      "end": 60988,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 61017,
+      "end": 61022,
+      "label": "PER"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 61189,
+      "end": 61200,
+      "label": "MISC"
+    },
+    {
+      "text": "Laure",
+      "start": 61257,
+      "end": 61262,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 61287,
+      "end": 61292,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 61365,
+      "end": 61372,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 61403,
+      "end": 61408,
+      "label": "LOC"
+    },
+    {
+      "text": "Laure",
+      "start": 61630,
+      "end": 61635,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 61766,
+      "end": 61773,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 61948,
+      "end": 61955,
+      "label": "MISC"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 62034,
+      "end": 62045,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 62175,
+      "end": 62181,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 62234,
+      "end": 62241,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 62327,
+      "end": 62334,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 62526,
+      "end": 62532,
+      "label": "LOC"
+    },
+    {
+      "text": "Laure",
+      "start": 62543,
+      "end": 62548,
+      "label": "LOC"
+    },
+    {
+      "text": "A",
+      "start": 62568,
+      "end": 62569,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 62585,
+      "end": 62592,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 62698,
+      "end": 62702,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 62732,
+      "end": 62739,
+      "label": "MISC"
+    },
+    {
+      "text": "Laure",
+      "start": 62765,
+      "end": 62770,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 62894,
+      "end": 62900,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 63059,
+      "end": 63072,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 63246,
+      "end": 63251,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 63612,
+      "end": 63619,
+      "label": "MISC"
+    },
+    {
+      "text": "Laure",
+      "start": 63657,
+      "end": 63662,
+      "label": "LOC"
+    },
+    {
+      "text": "Viens",
+      "start": 63666,
+      "end": 63671,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 63711,
+      "end": 63718,
+      "label": "MISC"
+    },
+    {
+      "text": "Laure",
+      "start": 63727,
+      "end": 63732,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 63744,
+      "end": 63757,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 63804,
+      "end": 63810,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 63904,
+      "end": 63911,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 64051,
+      "end": 64056,
+      "label": "LOC"
+    },
+    {
+      "text": "Laure",
+      "start": 64105,
+      "end": 64110,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 64155,
+      "end": 64162,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 64196,
+      "end": 64201,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 64285,
+      "end": 64291,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Ginevra",
+      "start": 64302,
+      "end": 64322,
+      "label": "PER"
+    },
+    {
+      "text": "Laure",
+      "start": 64490,
+      "end": 64495,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 64520,
+      "end": 64526,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 64593,
+      "end": 64600,
+      "label": "PER"
+    },
+    {
+      "text": "Bah",
+      "start": 64644,
+      "end": 64647,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 64655,
+      "end": 64659,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 64680,
+      "end": 64687,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 64947,
+      "end": 64956,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 65014,
+      "end": 65019,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle",
+      "start": 65113,
+      "end": 65125,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 65397,
+      "end": 65402,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 65581,
+      "end": 65586,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 65599,
+      "end": 65606,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 65812,
+      "end": 65818,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 65957,
+      "end": 65964,
+      "label": "PER"
+    },
+    {
+      "text": "Indemniser",
+      "start": 66012,
+      "end": 66022,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 66036,
+      "end": 66042,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 66172,
+      "end": 66177,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 66248,
+      "end": 66253,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 66423,
+      "end": 66428,
+      "label": "MISC"
+    },
+    {
+      "text": "Italienne",
+      "start": 66650,
+      "end": 66659,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 66677,
+      "end": 66682,
+      "label": "PER"
+    },
+    {
+      "text": "Ah çà, mes chers enfants",
+      "start": 66773,
+      "end": 66797,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 66806,
+      "end": 66812,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 66819,
+      "end": 66825,
+      "label": "MISC"
+    },
+    {
+      "text": "Rassurez",
+      "start": 66943,
+      "end": 66951,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Servin",
+      "start": 67009,
+      "end": 67022,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 67119,
+      "end": 67123,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 67147,
+      "end": 67154,
+      "label": "PER"
+    },
+    {
+      "text": "Demain",
+      "start": 67156,
+      "end": 67162,
+      "label": "PER"
+    },
+    {
+      "text": "madame Roguin",
+      "start": 67164,
+      "end": 67177,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 67378,
+      "end": 67386,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 67387,
+      "end": 67392,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 67733,
+      "end": 67739,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 67794,
+      "end": 67799,
+      "label": "PER"
+    },
+    {
+      "text": "ajouta t",
+      "start": 67880,
+      "end": 67888,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 67911,
+      "end": 67917,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous êtes un ange !",
+      "start": 67996,
+      "end": 68015,
+      "label": "MISC"
+    },
+    {
+      "text": "Servin",
+      "start": 68024,
+      "end": 68030,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 68102,
+      "end": 68109,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 68178,
+      "end": 68185,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 68222,
+      "end": 68233,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 68293,
+      "end": 68299,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 68422,
+      "end": 68433,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 68634,
+      "end": 68639,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 69200,
+      "end": 69211,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 69807,
+      "end": 69813,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 70152,
+      "end": 70160,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 70258,
+      "end": 70264,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 70368,
+      "end": 70376,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 70454,
+      "end": 70465,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 70544,
+      "end": 70552,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 70748,
+      "end": 70754,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbons",
+      "start": 70862,
+      "end": 70870,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 70872,
+      "end": 70883,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 70920,
+      "end": 70936,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Empire",
+      "start": 71031,
+      "end": 71039,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 71163,
+      "end": 71169,
+      "label": "LOC"
+    },
+    {
+      "text": "Daru",
+      "start": 71217,
+      "end": 71221,
+      "label": "MISC"
+    },
+    {
+      "text": "Drouot",
+      "start": 71227,
+      "end": 71233,
+      "label": "MISC"
+    },
+    {
+      "text": "Carnot",
+      "start": 71239,
+      "end": 71245,
+      "label": "PER"
+    },
+    {
+      "text": "Waterloo",
+      "start": 71309,
+      "end": 71317,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 71397,
+      "end": 71418,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame",
+      "start": 71470,
+      "end": 71476,
+      "label": "PER"
+    },
+    {
+      "text": "Corse",
+      "start": 71536,
+      "end": 71541,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Portenduère",
+      "start": 71552,
+      "end": 71572,
+      "label": "LOC"
+    },
+    {
+      "text": "catastrophe de Fontainebleau",
+      "start": 71704,
+      "end": 71732,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 72087,
+      "end": 72096,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 72122,
+      "end": 72133,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 72187,
+      "end": 72195,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 72211,
+      "end": 72221,
+      "label": "MISC"
+    },
+    {
+      "text": "vieux Corse",
+      "start": 72274,
+      "end": 72285,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 72538,
+      "end": 72545,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 72623,
+      "end": 72629,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 72698,
+      "end": 72705,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 73087,
+      "end": 73095,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 73097,
+      "end": 73108,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 73166,
+      "end": 73173,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 73855,
+      "end": 73863,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 74022,
+      "end": 74029,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 74271,
+      "end": 74277,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 74313,
+      "end": 74318,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 74643,
+      "end": 74650,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 74697,
+      "end": 74703,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 74814,
+      "end": 74821,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 74948,
+      "end": 74955,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 75017,
+      "end": 75028,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Corse",
+      "start": 75062,
+      "end": 75070,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 75314,
+      "end": 75321,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 75384,
+      "end": 75390,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 75544,
+      "end": 75555,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 75766,
+      "end": 75773,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 76046,
+      "end": 76053,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 76241,
+      "end": 76246,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 76248,
+      "end": 76254,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 76306,
+      "end": 76313,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Corse",
+      "start": 76720,
+      "end": 76731,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 76888,
+      "end": 76893,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 77055,
+      "end": 77061,
+      "label": "LOC"
+    },
+    {
+      "text": "Schnetz",
+      "start": 77272,
+      "end": 77279,
+      "label": "PER"
+    },
+    {
+      "text": "Shandy",
+      "start": 77425,
+      "end": 77431,
+      "label": "PER"
+    },
+    {
+      "text": "sultane Validé",
+      "start": 77695,
+      "end": 77709,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 77735,
+      "end": 77742,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 77879,
+      "end": 77886,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 78084,
+      "end": 78091,
+      "label": "PER"
+    },
+    {
+      "text": "Jean",
+      "start": 78119,
+      "end": 78123,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 78420,
+      "end": 78427,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 78442,
+      "end": 78453,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 78551,
+      "end": 78558,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevrettina",
+      "start": 78563,
+      "end": 78575,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevrina",
+      "start": 78580,
+      "end": 78589,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevrola",
+      "start": 78594,
+      "end": 78603,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevretta",
+      "start": 78608,
+      "end": 78618,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 78623,
+      "end": 78630,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 78680,
+      "end": 78687,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 78950,
+      "end": 78956,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 79088,
+      "end": 79096,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 79544,
+      "end": 79551,
+      "label": "PER"
+    },
+    {
+      "text": "Signora Piombellina",
+      "start": 79564,
+      "end": 79583,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah",
+      "start": 79653,
+      "end": 79655,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 79664,
+      "end": 79670,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 79876,
+      "end": 79883,
+      "label": "MISC"
+    },
+    {
+      "text": "Corse",
+      "start": 79992,
+      "end": 79997,
+      "label": "LOC"
+    },
+    {
+      "text": "Qu'as tu donc",
+      "start": 80084,
+      "end": 80097,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 80099,
+      "end": 80106,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra Piombo",
+      "start": 80241,
+      "end": 80255,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 80332,
+      "end": 80338,
+      "label": "LOC"
+    },
+    {
+      "text": "Compagnon de Labédoyère",
+      "start": 80825,
+      "end": 80848,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 80881,
+      "end": 80887,
+      "label": "LOC"
+    },
+    {
+      "text": "Servin",
+      "start": 80907,
+      "end": 80913,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 80969,
+      "end": 80975,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 81119,
+      "end": 81126,
+      "label": "MISC"
+    },
+    {
+      "text": "Vous ai je reproché",
+      "start": 81375,
+      "end": 81394,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 81416,
+      "end": 81424,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 81431,
+      "end": 81438,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 81621,
+      "end": 81628,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 81764,
+      "end": 81770,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 81843,
+      "end": 81850,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 82418,
+      "end": 82422,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 82449,
+      "end": 82456,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 82575,
+      "end": 82586,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 82644,
+      "end": 82648,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 82738,
+      "end": 82745,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 83080,
+      "end": 83087,
+      "label": "MISC"
+    },
+    {
+      "text": "Corse",
+      "start": 83101,
+      "end": 83106,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 83167,
+      "end": 83175,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 83425,
+      "end": 83431,
+      "label": "LOC"
+    },
+    {
+      "text": "Élisa",
+      "start": 83522,
+      "end": 83527,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 83728,
+      "end": 83732,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 83785,
+      "end": 83792,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 84066,
+      "end": 84073,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 84146,
+      "end": 84150,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 84233,
+      "end": 84239,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 84431,
+      "end": 84437,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 84531,
+      "end": 84538,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 84643,
+      "end": 84647,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 84829,
+      "end": 84836,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 84898,
+      "end": 84904,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 85024,
+      "end": 85031,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 85151,
+      "end": 85157,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 85159,
+      "end": 85166,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 85331,
+      "end": 85337,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 85363,
+      "end": 85370,
+      "label": "MISC"
+    },
+    {
+      "text": "Corse",
+      "start": 85405,
+      "end": 85410,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 85500,
+      "end": 85507,
+      "label": "MISC"
+    },
+    {
+      "text": "Mon Dieu",
+      "start": 85511,
+      "end": 85519,
+      "label": "MISC"
+    },
+    {
+      "text": "Dieu",
+      "start": 85526,
+      "end": 85530,
+      "label": "MISC"
+    },
+    {
+      "text": "Santa Virgina",
+      "start": 85582,
+      "end": 85595,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 85810,
+      "end": 85817,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra Piombo",
+      "start": 86018,
+      "end": 86032,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 86388,
+      "end": 86395,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 86886,
+      "end": 86892,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 86905,
+      "end": 86912,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 87065,
+      "end": 87072,
+      "label": "MISC"
+    },
+    {
+      "text": "Raison",
+      "start": 87241,
+      "end": 87247,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 87382,
+      "end": 87388,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 87457,
+      "end": 87464,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 87623,
+      "end": 87627,
+      "label": "MISC"
+    },
+    {
+      "text": "O ma Ginevra",
+      "start": 87712,
+      "end": 87724,
+      "label": "MISC"
+    },
+    {
+      "text": "ma Ginevrina",
+      "start": 87736,
+      "end": 87748,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 87759,
+      "end": 87765,
+      "label": "LOC"
+    },
+    {
+      "text": "Pauvre mère !   ",
+      "start": 87927,
+      "end": 87943,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 87943,
+      "end": 87947,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevretta !",
+      "start": 87948,
+      "end": 87960,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 88279,
+      "end": 88284,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 88491,
+      "end": 88496,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 88982,
+      "end": 88991,
+      "label": "LOC"
+    },
+    {
+      "text": "O ma mère !",
+      "start": 89158,
+      "end": 89169,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 89212,
+      "end": 89219,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis",
+      "start": 89294,
+      "end": 89299,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 89397,
+      "end": 89404,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Feltre",
+      "start": 89423,
+      "end": 89436,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 89509,
+      "end": 89514,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 89938,
+      "end": 89944,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 89946,
+      "end": 89953,
+      "label": "PER"
+    },
+    {
+      "text": "O Ginevra !",
+      "start": 90160,
+      "end": 90171,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 90214,
+      "end": 90225,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 90294,
+      "end": 90301,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 90458,
+      "end": 90465,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 90546,
+      "end": 90551,
+      "label": "PER"
+    },
+    {
+      "text": "Mont Saint Jean",
+      "start": 90607,
+      "end": 90622,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 90638,
+      "end": 90644,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis",
+      "start": 90680,
+      "end": 90685,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 90724,
+      "end": 90732,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 90774,
+      "end": 90790,
+      "label": "ORG"
+    },
+    {
+      "text": "Louis",
+      "start": 90812,
+      "end": 90817,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 90849,
+      "end": 90856,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 90971,
+      "end": 90979,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Piombo",
+      "start": 90981,
+      "end": 90994,
+      "label": "PER"
+    },
+    {
+      "text": "Nina Porta",
+      "start": 91145,
+      "end": 91155,
+      "label": "PER"
+    },
+    {
+      "text": "Porta",
+      "start": 91231,
+      "end": 91236,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 91319,
+      "end": 91325,
+      "label": "LOC"
+    },
+    {
+      "text": "Nina était ma sœur",
+      "start": 91340,
+      "end": 91358,
+      "label": "MISC"
+    },
+    {
+      "text": "Luigi Porta",
+      "start": 91370,
+      "end": 91381,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 91413,
+      "end": 91434,
+      "label": "LOC"
+    },
+    {
+      "text": "chancela",
+      "start": 91444,
+      "end": 91452,
+      "label": "PER"
+    },
+    {
+      "text": "Élisa Piombo",
+      "start": 91514,
+      "end": 91526,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi Porta",
+      "start": 91671,
+      "end": 91682,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 91701,
+      "end": 91708,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 92141,
+      "end": 92148,
+      "label": "ORG"
+    },
+    {
+      "text": "Luigi Porta",
+      "start": 92226,
+      "end": 92237,
+      "label": "LOC"
+    },
+    {
+      "text": "Corse",
+      "start": 92359,
+      "end": 92364,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi",
+      "start": 92417,
+      "end": 92422,
+      "label": "PER"
+    },
+    {
+      "text": "Porta",
+      "start": 92489,
+      "end": 92494,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi",
+      "start": 92724,
+      "end": 92729,
+      "label": "LOC"
+    },
+    {
+      "text": "Gênes",
+      "start": 92758,
+      "end": 92763,
+      "label": "LOC"
+    },
+    {
+      "text": "Colonna",
+      "start": 92789,
+      "end": 92796,
+      "label": "PER"
+    },
+    {
+      "text": "Colonna",
+      "start": 92905,
+      "end": 92912,
+      "label": "PER"
+    },
+    {
+      "text": "Colonna",
+      "start": 93062,
+      "end": 93069,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 93188,
+      "end": 93193,
+      "label": "PER"
+    },
+    {
+      "text": "Partez",
+      "start": 93216,
+      "end": 93222,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi",
+      "start": 93232,
+      "end": 93237,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 93247,
+      "end": 93254,
+      "label": "PER"
+    },
+    {
+      "text": "Corses",
+      "start": 93480,
+      "end": 93486,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 93562,
+      "end": 93569,
+      "label": "MISC"
+    },
+    {
+      "text": "O Luigi",
+      "start": 93737,
+      "end": 93744,
+      "label": "MISC"
+    },
+    {
+      "text": "Luigi",
+      "start": 93946,
+      "end": 93951,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 94005,
+      "end": 94012,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 94179,
+      "end": 94184,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 94289,
+      "end": 94296,
+      "label": "PER"
+    },
+    {
+      "text": "Louis",
+      "start": 94367,
+      "end": 94372,
+      "label": "PER"
+    },
+    {
+      "text": "Servin",
+      "start": 94605,
+      "end": 94611,
+      "label": "LOC"
+    },
+    {
+      "text": "Piombo",
+      "start": 95083,
+      "end": 95089,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 95437,
+      "end": 95444,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 95524,
+      "end": 95530,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean",
+      "start": 95659,
+      "end": 95663,
+      "label": "PER"
+    },
+    {
+      "text": "Ginevra",
+      "start": 95721,
+      "end": 95728,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 95853,
+      "end": 95860,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 95973,
+      "end": 95984,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 96312,
+      "end": 96319,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 96369,
+      "end": 96375,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 96603,
+      "end": 96610,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 96664,
+      "end": 96675,
+      "label": "LOC"
+    },
+    {
+      "text": "O",
+      "start": 96679,
+      "end": 96680,
+      "label": "MISC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 96863,
+      "end": 96870,
+      "label": "PER"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 96872,
+      "end": 96883,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 97029,
+      "end": 97036,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 97105,
+      "end": 97110,
+      "label": "PER"
+    },
+    {
+      "text": "Un Porta ?",
+      "start": 97253,
+      "end": 97263,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 97272,
+      "end": 97283,
+      "label": "LOC"
+    },
+    {
+      "text": "Porta",
+      "start": 97405,
+      "end": 97410,
+      "label": "LOC"
+    },
+    {
+      "text": "Un Porta ? dit",
+      "start": 97579,
+      "end": 97593,
+      "label": "MISC"
+    },
+    {
+      "text": "Piombo",
+      "start": 97594,
+      "end": 97600,
+      "label": "LOC"
+    },
+    {
+      "text": "Luigi",
+      "start": 97783,
+      "end": 97788,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 97840,
+      "end": 97845,
+      "label": "PER"
+    },
+    {
+      "text": "Luigi",
+      "start": 98059,
+      "end": 98064,
+      "label": "PER"
+    },
+    {
+      "text": "Piombo",
+      "start": 98105,
+      "end": 98111,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 98157,
+      "end": 98164,
+      "label": "MISC"
+    },
+    {
+      "text": "vieux Corse",
+      "start": 98169,
+      "end": 98180,
+      "label": "LOC"
+    },
+    {
+      "text": "croyez",
+      "start": 98323,
+      "end": 98329,
+      "label": "MISC"
+    },
+    {
+      "text": "Porta",
+      "start": 98403,
+      "end": 98408,
+      "label": "LOC"
+    },
+    {
+      "text": "Bartholoméo di Piombo",
+      "start": 98505,
+      "end": 98526,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 98543,
+      "end": 98550,
+      "label": "MISC"
+    },
+    {
+      "text": "Attachez",
+      "start": 98555,
+      "end": 98563,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 98608,
+      "end": 98617,
+      "label": "PER"
+    },
+    {
+      "text": "Corses",
+      "start": 98735,
+      "end": 98741,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 98775,
+      "end": 98779,
+      "label": "MISC"
+    },
+    {
+      "text": "Luigi Porta",
+      "start": 98900,
+      "end": 98911,
+      "label": "MISC"
+    },
+    {
+      "text": "Bartholoméo",
+      "start": 98987,
+      "end": 98998,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 99059,
+      "end": 99063,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 99078,
+      "end": 99083,
+      "label": "LOC"
+    },
+    {
+      "text": "Ginevra",
+      "start": 99825,
+      "end": 99832,
+      "label": "MISC"
+    }
+  ]
+}

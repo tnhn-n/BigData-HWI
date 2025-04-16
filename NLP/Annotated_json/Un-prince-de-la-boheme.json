@@ -1,0 +1,3838 @@
+{
+  "entities": [
+    {
+      "text": "UN PRINCE",
+      "start": 0,
+      "end": 9,
+      "label": "ORG"
+    },
+    {
+      "text": "BOHÊME",
+      "start": 16,
+      "end": 22,
+      "label": "LOC"
+    },
+    {
+      "text": "HEINE",
+      "start": 32,
+      "end": 37,
+      "label": "MISC"
+    },
+    {
+      "text": "Heine",
+      "start": 48,
+      "end": 53,
+      "label": "PER"
+    },
+    {
+      "text": "Étude",
+      "start": 68,
+      "end": 73,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 100,
+      "end": 105,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 133,
+      "end": 142,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemagne",
+      "start": 152,
+      "end": 161,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 339,
+      "end": 345,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 373,
+      "end": 394,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Rochefide",
+      "start": 906,
+      "end": 927,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 1127,
+      "end": 1146,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de la Baudraye",
+      "start": 1169,
+      "end": 1190,
+      "label": "PER"
+    },
+    {
+      "text": "Chartres du Roule",
+      "start": 1234,
+      "end": 1251,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 1554,
+      "end": 1556,
+      "label": "MISC"
+    },
+    {
+      "text": "Serpentin vert",
+      "start": 1811,
+      "end": 1825,
+      "label": "PER"
+    },
+    {
+      "text": "Bohême",
+      "start": 2171,
+      "end": 2177,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 2182,
+      "end": 2188,
+      "label": "LOC"
+    },
+    {
+      "text": "Doctrine du boulevard des Italiens",
+      "start": 2216,
+      "end": 2250,
+      "label": "MISC"
+    },
+    {
+      "text": "Bohême",
+      "start": 2787,
+      "end": 2793,
+      "label": "LOC"
+    },
+    {
+      "text": "Russie",
+      "start": 2849,
+      "end": 2855,
+      "label": "LOC"
+    },
+    {
+      "text": "la France",
+      "start": 2904,
+      "end": 2913,
+      "label": "LOC"
+    },
+    {
+      "text": "empereur de Russie",
+      "start": 3105,
+      "end": 3123,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 3136,
+      "end": 3142,
+      "label": "LOC"
+    },
+    {
+      "text": "Odessa",
+      "start": 3266,
+      "end": 3272,
+      "label": "LOC"
+    },
+    {
+      "text": "Odessa",
+      "start": 3287,
+      "end": 3293,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3301,
+      "end": 3306,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 3401,
+      "end": 3409,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 3413,
+      "end": 3422,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 3518,
+      "end": 3524,
+      "label": "LOC"
+    },
+    {
+      "text": "Tissot",
+      "start": 3572,
+      "end": 3578,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 3649,
+      "end": 3659,
+      "label": "PER"
+    },
+    {
+      "text": "Charlemagne",
+      "start": 3937,
+      "end": 3948,
+      "label": "PER"
+    },
+    {
+      "text": "Bohême",
+      "start": 3962,
+      "end": 3968,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 3987,
+      "end": 3993,
+      "label": "LOC"
+    },
+    {
+      "text": "L'Espérance",
+      "start": 4027,
+      "end": 4038,
+      "label": "LOC"
+    },
+    {
+      "text": "Foi",
+      "start": 4059,
+      "end": 4062,
+      "label": "LOC"
+    },
+    {
+      "text": "Charité",
+      "start": 4092,
+      "end": 4099,
+      "label": "LOC"
+    },
+    {
+      "text": "Lovelace",
+      "start": 4468,
+      "end": 4476,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 4478,
+      "end": 4486,
+      "label": "PER"
+    },
+    {
+      "text": "Régent",
+      "start": 4491,
+      "end": 4497,
+      "label": "LOC"
+    },
+    {
+      "text": "Werther",
+      "start": 4499,
+      "end": 4506,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Preux",
+      "start": 4508,
+      "end": 4519,
+      "label": "PER"
+    },
+    {
+      "text": "René",
+      "start": 4521,
+      "end": 4525,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Richelieu",
+      "start": 4530,
+      "end": 4551,
+      "label": "PER"
+    },
+    {
+      "text": "Éclectiques",
+      "start": 4638,
+      "end": 4649,
+      "label": "ORG"
+    },
+    {
+      "text": "Stendahl",
+      "start": 4879,
+      "end": 4887,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 5238,
+      "end": 5244,
+      "label": "PER"
+    },
+    {
+      "text": "Gabriel Jean Anne Victor",
+      "start": 5263,
+      "end": 5287,
+      "label": "PER"
+    },
+    {
+      "text": "Georges Ferdinand Charles Édouard Rusticoli",
+      "start": 5297,
+      "end": 5340,
+      "label": "PER"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 5369,
+      "end": 5378,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 5391,
+      "end": 5397,
+      "label": "LOC"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 5403,
+      "end": 5423,
+      "label": "PER"
+    },
+    {
+      "text": "Toscane",
+      "start": 5487,
+      "end": 5494,
+      "label": "LOC"
+    },
+    {
+      "text": "Guise",
+      "start": 5545,
+      "end": 5550,
+      "label": "LOC"
+    },
+    {
+      "text": "Protestants",
+      "start": 5576,
+      "end": 5587,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Barthélemy",
+      "start": 5593,
+      "end": 5609,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles IX",
+      "start": 5614,
+      "end": 5624,
+      "label": "PER"
+    },
+    {
+      "text": "comté de la Palferine",
+      "start": 5653,
+      "end": 5674,
+      "label": "LOC"
+    },
+    {
+      "text": "duc de Savoie",
+      "start": 5693,
+      "end": 5706,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 5715,
+      "end": 5723,
+      "label": "PER"
+    },
+    {
+      "text": "Roi",
+      "start": 5783,
+      "end": 5786,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Savoie",
+      "start": 5823,
+      "end": 5836,
+      "label": "PER"
+    },
+    {
+      "text": "Medici",
+      "start": 5905,
+      "end": 5911,
+      "label": "MISC"
+    },
+    {
+      "text": "croix fleurdelysée d'azur",
+      "start": 5945,
+      "end": 5970,
+      "label": "ORG"
+    },
+    {
+      "text": "Charles IX",
+      "start": 6022,
+      "end": 6032,
+      "label": "PER"
+    },
+    {
+      "text": "IN HOC SIGNO VINCIMUS",
+      "start": 6101,
+      "end": 6122,
+      "label": "ORG"
+    },
+    {
+      "text": "Charges de la Couronne",
+      "start": 6148,
+      "end": 6170,
+      "label": "MISC"
+    },
+    {
+      "text": "Valois",
+      "start": 6231,
+      "end": 6237,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 6266,
+      "end": 6275,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 6310,
+      "end": 6319,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 6335,
+      "end": 6343,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Laguerre",
+      "start": 6419,
+      "end": 6440,
+      "label": "PER"
+    },
+    {
+      "text": "Bouret",
+      "start": 6482,
+      "end": 6488,
+      "label": "LOC"
+    },
+    {
+      "text": "Officier",
+      "start": 6490,
+      "end": 6498,
+      "label": "ORG"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 6539,
+      "end": 6554,
+      "label": "PER"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 6609,
+      "end": 6618,
+      "label": "PER"
+    },
+    {
+      "text": "guerres d'Italie",
+      "start": 6665,
+      "end": 6681,
+      "label": "MISC"
+    },
+    {
+      "text": "Capponi",
+      "start": 6723,
+      "end": 6730,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 6762,
+      "end": 6771,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 6824,
+      "end": 6834,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 6866,
+      "end": 6882,
+      "label": "ORG"
+    },
+    {
+      "text": "comte Rusticoli",
+      "start": 7043,
+      "end": 7058,
+      "label": "PER"
+    },
+    {
+      "text": "Ratisbonne",
+      "start": 7095,
+      "end": 7105,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 7116,
+      "end": 7122,
+      "label": "LOC"
+    },
+    {
+      "text": "bataille de Wagram",
+      "start": 7132,
+      "end": 7150,
+      "label": "MISC"
+    },
+    {
+      "text": "Restauration",
+      "start": 7324,
+      "end": 7336,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 7396,
+      "end": 7405,
+      "label": "LOC"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 7439,
+      "end": 7448,
+      "label": "PER"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 7458,
+      "end": 7467,
+      "label": "PER"
+    },
+    {
+      "text": "royaume de Naples",
+      "start": 7525,
+      "end": 7542,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 7573,
+      "end": 7579,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 7604,
+      "end": 7613,
+      "label": "LOC"
+    },
+    {
+      "text": "Frondeurs",
+      "start": 7623,
+      "end": 7632,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 7668,
+      "end": 7677,
+      "label": "PER"
+    },
+    {
+      "text": "Mazarin",
+      "start": 7680,
+      "end": 7687,
+      "label": "PER"
+    },
+    {
+      "text": "Toscan",
+      "start": 7738,
+      "end": 7744,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Édouard de la Palferine",
+      "start": 7774,
+      "end": 7805,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 7908,
+      "end": 7916,
+      "label": "MISC"
+    },
+    {
+      "text": "Foix Grailly",
+      "start": 7936,
+      "end": 7948,
+      "label": "ORG"
+    },
+    {
+      "text": "Ah !",
+      "start": 7973,
+      "end": 7977,
+      "label": "MISC"
+    },
+    {
+      "text": "Édouard de la Palferine",
+      "start": 8010,
+      "end": 8033,
+      "label": "PER"
+    },
+    {
+      "text": "Bohême",
+      "start": 8140,
+      "end": 8146,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 8192,
+      "end": 8198,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 8253,
+      "end": 8259,
+      "label": "LOC"
+    },
+    {
+      "text": "Nodier",
+      "start": 8309,
+      "end": 8315,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 8459,
+      "end": 8468,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 8510,
+      "end": 8516,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 8521,
+      "end": 8530,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 8572,
+      "end": 8578,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 8656,
+      "end": 8662,
+      "label": "LOC"
+    },
+    {
+      "text": "Un instant",
+      "start": 8739,
+      "end": 8749,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 8758,
+      "end": 8767,
+      "label": "LOC"
+    },
+    {
+      "text": "Lauzun",
+      "start": 8786,
+      "end": 8792,
+      "label": "PER"
+    },
+    {
+      "text": "Lauzun",
+      "start": 8797,
+      "end": 8803,
+      "label": "PER"
+    },
+    {
+      "text": "Godin",
+      "start": 8948,
+      "end": 8953,
+      "label": "PER"
+    },
+    {
+      "text": "Hein",
+      "start": 8957,
+      "end": 8961,
+      "label": "PER"
+    },
+    {
+      "text": "Godin",
+      "start": 8964,
+      "end": 8969,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 8988,
+      "end": 8997,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 9030,
+      "end": 9039,
+      "label": "LOC"
+    },
+    {
+      "text": "Trigaudin",
+      "start": 9072,
+      "end": 9081,
+      "label": "LOC"
+    },
+    {
+      "text": "ducs de Gaëte",
+      "start": 9161,
+      "end": 9174,
+      "label": "LOC"
+    },
+    {
+      "text": "Godin",
+      "start": 9342,
+      "end": 9347,
+      "label": "PER"
+    },
+    {
+      "text": "Godin",
+      "start": 9387,
+      "end": 9392,
+      "label": "PER"
+    },
+    {
+      "text": "Mes",
+      "start": 9523,
+      "end": 9526,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 9538,
+      "end": 9544,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 9574,
+      "end": 9583,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 9950,
+      "end": 9959,
+      "label": "LOC"
+    },
+    {
+      "text": "Roule",
+      "start": 10061,
+      "end": 10066,
+      "label": "LOC"
+    },
+    {
+      "text": "La Palferine",
+      "start": 10170,
+      "end": 10182,
+      "label": "MISC"
+    },
+    {
+      "text": "Allez",
+      "start": 10295,
+      "end": 10300,
+      "label": "LOC"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 10362,
+      "end": 10370,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 10455,
+      "end": 10467,
+      "label": "LOC"
+    },
+    {
+      "text": "Britannicus",
+      "start": 10555,
+      "end": 10566,
+      "label": "PER"
+    },
+    {
+      "text": "Faites attention à l'escalier !",
+      "start": 10585,
+      "end": 10616,
+      "label": "ORG"
+    },
+    {
+      "text": "Remarquez",
+      "start": 10617,
+      "end": 10626,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 10748,
+      "end": 10757,
+      "label": "LOC"
+    },
+    {
+      "text": "Rivarol",
+      "start": 10887,
+      "end": 10894,
+      "label": "LOC"
+    },
+    {
+      "text": "Laffitte",
+      "start": 11005,
+      "end": 11013,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 11391,
+      "end": 11400,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 11616,
+      "end": 11625,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 11655,
+      "end": 11659,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 11660,
+      "end": 11666,
+      "label": "PER"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 12018,
+      "end": 12027,
+      "label": "PER"
+    },
+    {
+      "text": "Sainte Beuve",
+      "start": 12205,
+      "end": 12217,
+      "label": "PER"
+    },
+    {
+      "text": "badin",
+      "start": 12271,
+      "end": 12276,
+      "label": "PER"
+    },
+    {
+      "text": "Parc",
+      "start": 12326,
+      "end": 12330,
+      "label": "LOC"
+    },
+    {
+      "text": "Cerfs",
+      "start": 12335,
+      "end": 12340,
+      "label": "LOC"
+    },
+    {
+      "text": "Rambouillet",
+      "start": 12363,
+      "end": 12374,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 12560,
+      "end": 12569,
+      "label": "PER"
+    },
+    {
+      "text": "Champcenetz",
+      "start": 12733,
+      "end": 12744,
+      "label": "LOC"
+    },
+    {
+      "text": "Valois",
+      "start": 12827,
+      "end": 12833,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 13318,
+      "end": 13327,
+      "label": "LOC"
+    },
+    {
+      "text": "Pascal",
+      "start": 13363,
+      "end": 13369,
+      "label": "PER"
+    },
+    {
+      "text": "Épaminondas",
+      "start": 13416,
+      "end": 13427,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 13626,
+      "end": 13630,
+      "label": "MISC"
+    },
+    {
+      "text": "Nathan",
+      "start": 13644,
+      "end": 13650,
+      "label": "PER"
+    },
+    {
+      "text": "Madame la marquise",
+      "start": 13719,
+      "end": 13737,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 13748,
+      "end": 13754,
+      "label": "MISC"
+    },
+    {
+      "text": "Sainte Beuve",
+      "start": 13831,
+      "end": 13843,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 13973,
+      "end": 13982,
+      "label": "LOC"
+    },
+    {
+      "text": "Pensez",
+      "start": 14050,
+      "end": 14056,
+      "label": "ORG"
+    },
+    {
+      "text": "Remarquez",
+      "start": 14131,
+      "end": 14140,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 14183,
+      "end": 14193,
+      "label": "PER"
+    },
+    {
+      "text": "Buckingham",
+      "start": 14339,
+      "end": 14349,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 14653,
+      "end": 14662,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 14668,
+      "end": 14672,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 14788,
+      "end": 14803,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 14911,
+      "end": 14916,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà",
+      "start": 15628,
+      "end": 15633,
+      "label": "LOC"
+    },
+    {
+      "text": "Sainte Beuve",
+      "start": 15751,
+      "end": 15763,
+      "label": "PER"
+    },
+    {
+      "text": "Raffinés",
+      "start": 15778,
+      "end": 15786,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 16667,
+      "end": 16673,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 16794,
+      "end": 16813,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 16911,
+      "end": 16920,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 17641,
+      "end": 17650,
+      "label": "LOC"
+    },
+    {
+      "text": "Liste civile un employé aux malheurs",
+      "start": 17667,
+      "end": 17703,
+      "label": "ORG"
+    },
+    {
+      "text": "Palferine",
+      "start": 17739,
+      "end": 17748,
+      "label": "LOC"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 17861,
+      "end": 17870,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 17872,
+      "end": 17884,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 17991,
+      "end": 18000,
+      "label": "PER"
+    },
+    {
+      "text": "Orléans",
+      "start": 18024,
+      "end": 18031,
+      "label": "LOC"
+    },
+    {
+      "text": "La Palferine",
+      "start": 18125,
+      "end": 18137,
+      "label": "LOC"
+    },
+    {
+      "text": "Père Anchise",
+      "start": 18207,
+      "end": 18219,
+      "label": "PER"
+    },
+    {
+      "text": "Anchise",
+      "start": 18438,
+      "end": 18445,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 18559,
+      "end": 18568,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 18845,
+      "end": 18849,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 18885,
+      "end": 18894,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 19036,
+      "end": 19045,
+      "label": "LOC"
+    },
+    {
+      "text": "Rusticoli de la Palferine",
+      "start": 19317,
+      "end": 19342,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 19386,
+      "end": 19390,
+      "label": "ORG"
+    },
+    {
+      "text": "Palferine",
+      "start": 19432,
+      "end": 19441,
+      "label": "LOC"
+    },
+    {
+      "text": "Liste civile une Liste incivile",
+      "start": 19464,
+      "end": 19495,
+      "label": "MISC"
+    },
+    {
+      "text": "Antonia",
+      "start": 19573,
+      "end": 19580,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 19598,
+      "end": 19604,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 20044,
+      "end": 20053,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Antonia",
+      "start": 20064,
+      "end": 20078,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 20117,
+      "end": 20123,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 20409,
+      "end": 20414,
+      "label": "PER"
+    },
+    {
+      "text": "CHARLES ÉDOUARD",
+      "start": 20504,
+      "end": 20519,
+      "label": "PER"
+    },
+    {
+      "text": "Assurément",
+      "start": 20523,
+      "end": 20533,
+      "label": "ORG"
+    },
+    {
+      "text": "Sainte Beuve",
+      "start": 20593,
+      "end": 20605,
+      "label": "PER"
+    },
+    {
+      "text": "Sterne",
+      "start": 20650,
+      "end": 20656,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyage sentimental",
+      "start": 20665,
+      "end": 20683,
+      "label": "MISC"
+    },
+    {
+      "text": "Scarron",
+      "start": 20695,
+      "end": 20702,
+      "label": "PER"
+    },
+    {
+      "text": "Molière",
+      "start": 20743,
+      "end": 20750,
+      "label": "PER"
+    },
+    {
+      "text": "Cyrano",
+      "start": 20808,
+      "end": 20814,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 20834,
+      "end": 20843,
+      "label": "PER"
+    },
+    {
+      "text": "Palais Royal",
+      "start": 20941,
+      "end": 20953,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 21030,
+      "end": 21045,
+      "label": "PER"
+    },
+    {
+      "text": "Romains",
+      "start": 21085,
+      "end": 21092,
+      "label": "LOC"
+    },
+    {
+      "text": "Grecs",
+      "start": 21101,
+      "end": 21106,
+      "label": "MISC"
+    },
+    {
+      "text": "Platon",
+      "start": 21146,
+      "end": 21152,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 21401,
+      "end": 21409,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 21418,
+      "end": 21424,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 21517,
+      "end": 21524,
+      "label": "PER"
+    },
+    {
+      "text": "Restauration",
+      "start": 21533,
+      "end": 21545,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 21766,
+      "end": 21775,
+      "label": "LOC"
+    },
+    {
+      "text": "Grammont",
+      "start": 21842,
+      "end": 21850,
+      "label": "LOC"
+    },
+    {
+      "text": "Richelieu",
+      "start": 21861,
+      "end": 21870,
+      "label": "PER"
+    },
+    {
+      "text": "Cour",
+      "start": 22046,
+      "end": 22050,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 22059,
+      "end": 22064,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 22161,
+      "end": 22166,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 22605,
+      "end": 22614,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 22777,
+      "end": 22792,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 22953,
+      "end": 22962,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 22986,
+      "end": 22994,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Bonfalot",
+      "start": 23052,
+      "end": 23070,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 23076,
+      "end": 23080,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de Bonfalot",
+      "start": 23081,
+      "end": 23099,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 23170,
+      "end": 23185,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 23374,
+      "end": 23380,
+      "label": "PER"
+    },
+    {
+      "text": "Confondue",
+      "start": 23487,
+      "end": 23496,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 23649,
+      "end": 23664,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 23769,
+      "end": 23777,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 24027,
+      "end": 24039,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XIII",
+      "start": 24218,
+      "end": 24228,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 24544,
+      "end": 24552,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 24584,
+      "end": 24596,
+      "label": "MISC"
+    },
+    {
+      "text": "Votre",
+      "start": 24816,
+      "end": 24821,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24869,
+      "end": 24873,
+      "label": "MISC"
+    },
+    {
+      "text": "Adieu",
+      "start": 24928,
+      "end": 24933,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25159,
+      "end": 25164,
+      "label": "LOC"
+    },
+    {
+      "text": "Décidément",
+      "start": 25387,
+      "end": 25397,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 25744,
+      "end": 25759,
+      "label": "PER"
+    },
+    {
+      "text": "saint Paul",
+      "start": 25990,
+      "end": 26000,
+      "label": "PER"
+    },
+    {
+      "text": "Heine",
+      "start": 26109,
+      "end": 26114,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 26527,
+      "end": 26542,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 26952,
+      "end": 26967,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 27055,
+      "end": 27064,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 27104,
+      "end": 27112,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 27302,
+      "end": 27310,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 27328,
+      "end": 27343,
+      "label": "PER"
+    },
+    {
+      "text": "Bohême",
+      "start": 27474,
+      "end": 27480,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 27533,
+      "end": 27542,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 27565,
+      "end": 27573,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 27656,
+      "end": 27664,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 27814,
+      "end": 27822,
+      "label": "PER"
+    },
+    {
+      "text": "Hortense",
+      "start": 27824,
+      "end": 27832,
+      "label": "LOC"
+    },
+    {
+      "text": "Baronne",
+      "start": 27837,
+      "end": 27844,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourgeoise",
+      "start": 27849,
+      "end": 27859,
+      "label": "LOC"
+    },
+    {
+      "text": "Lionne",
+      "start": 27879,
+      "end": 27885,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnole",
+      "start": 27889,
+      "end": 27898,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 28090,
+      "end": 28096,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 28592,
+      "end": 28598,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 28636,
+      "end": 28644,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 28695,
+      "end": 28703,
+      "label": "PER"
+    },
+    {
+      "text": "Toujours Claudine",
+      "start": 28727,
+      "end": 28744,
+      "label": "PER"
+    },
+    {
+      "text": "Toujours Gessler",
+      "start": 28767,
+      "end": 28783,
+      "label": "PER"
+    },
+    {
+      "text": "Rossini",
+      "start": 28789,
+      "end": 28796,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 28873,
+      "end": 28882,
+      "label": "LOC"
+    },
+    {
+      "text": "basset",
+      "start": 28937,
+      "end": 28943,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 29131,
+      "end": 29139,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 29972,
+      "end": 29977,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 30201,
+      "end": 30213,
+      "label": "MISC"
+    },
+    {
+      "text": "Lundi",
+      "start": 30395,
+      "end": 30400,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 30412,
+      "end": 30416,
+      "label": "LOC"
+    },
+    {
+      "text": "Savez",
+      "start": 30669,
+      "end": 30674,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 31397,
+      "end": 31402,
+      "label": "LOC"
+    },
+    {
+      "text": "ta Claudine",
+      "start": 31626,
+      "end": 31637,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 31792,
+      "end": 31800,
+      "label": "PER"
+    },
+    {
+      "text": "Mardi",
+      "start": 32011,
+      "end": 32016,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 32058,
+      "end": 32062,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 32803,
+      "end": 32810,
+      "label": "PER"
+    },
+    {
+      "text": "ta Claudine",
+      "start": 33429,
+      "end": 33440,
+      "label": "PER"
+    },
+    {
+      "text": "Charles X",
+      "start": 33703,
+      "end": 33712,
+      "label": "PER"
+    },
+    {
+      "text": "Mercredi",
+      "start": 34162,
+      "end": 34170,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 34174,
+      "end": 34178,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 34464,
+      "end": 34471,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 34615,
+      "end": 34620,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 34676,
+      "end": 34681,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 34815,
+      "end": 34830,
+      "label": "PER"
+    },
+    {
+      "text": "Sauveur",
+      "start": 35818,
+      "end": 35825,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 36002,
+      "end": 36011,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 36248,
+      "end": 36257,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 36332,
+      "end": 36338,
+      "label": "LOC"
+    },
+    {
+      "text": "Voyez",
+      "start": 36381,
+      "end": 36386,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 36618,
+      "end": 36626,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 36639,
+      "end": 36648,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 36894,
+      "end": 36903,
+      "label": "LOC"
+    },
+    {
+      "text": "Raccommode",
+      "start": 36915,
+      "end": 36925,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 36992,
+      "end": 36996,
+      "label": "MISC"
+    },
+    {
+      "text": "Danaë",
+      "start": 37052,
+      "end": 37057,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 37184,
+      "end": 37192,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 37194,
+      "end": 37202,
+      "label": "PER"
+    },
+    {
+      "text": "Charles !",
+      "start": 37465,
+      "end": 37474,
+      "label": "PER"
+    },
+    {
+      "text": "La Palferine",
+      "start": 37477,
+      "end": 37489,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 37547,
+      "end": 37555,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 37641,
+      "end": 37650,
+      "label": "LOC"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 37717,
+      "end": 37728,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 37866,
+      "end": 37875,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 37889,
+      "end": 37897,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 38057,
+      "end": 38065,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 38137,
+      "end": 38145,
+      "label": "PER"
+    },
+    {
+      "text": "duchesse de Berry",
+      "start": 38192,
+      "end": 38209,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 38257,
+      "end": 38265,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de la Palferine",
+      "start": 38330,
+      "end": 38351,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 38353,
+      "end": 38361,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 38372,
+      "end": 38387,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 38389,
+      "end": 38404,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 38434,
+      "end": 38442,
+      "label": "PER"
+    },
+    {
+      "text": "Couper",
+      "start": 38565,
+      "end": 38571,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 38587,
+      "end": 38595,
+      "label": "PER"
+    },
+    {
+      "text": "Bianchon",
+      "start": 38668,
+      "end": 38676,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 38722,
+      "end": 38731,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 38777,
+      "end": 38785,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 39202,
+      "end": 39210,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 39283,
+      "end": 39292,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 39452,
+      "end": 39461,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 39500,
+      "end": 39508,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 39601,
+      "end": 39610,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 39745,
+      "end": 39753,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 39916,
+      "end": 39924,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 39984,
+      "end": 39997,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 40149,
+      "end": 40157,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 40163,
+      "end": 40167,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 40193,
+      "end": 40202,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 40243,
+      "end": 40252,
+      "label": "LOC"
+    },
+    {
+      "text": "laquais",
+      "start": 40360,
+      "end": 40367,
+      "label": "LOC"
+    },
+    {
+      "text": "Donne",
+      "start": 40391,
+      "end": 40396,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 40644,
+      "end": 40649,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 40668,
+      "end": 40673,
+      "label": "LOC"
+    },
+    {
+      "text": "La Palferine",
+      "start": 40877,
+      "end": 40889,
+      "label": "MISC"
+    },
+    {
+      "text": "Claudine",
+      "start": 40948,
+      "end": 40956,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 41392,
+      "end": 41401,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 41622,
+      "end": 41628,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 41699,
+      "end": 41705,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 41769,
+      "end": 41777,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 41882,
+      "end": 41890,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 41979,
+      "end": 41985,
+      "label": "LOC"
+    },
+    {
+      "text": "Continuez",
+      "start": 41991,
+      "end": 42000,
+      "label": "MISC"
+    },
+    {
+      "text": "Palferine",
+      "start": 42085,
+      "end": 42094,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 42151,
+      "end": 42156,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 42233,
+      "end": 42238,
+      "label": "LOC"
+    },
+    {
+      "text": "Cursy",
+      "start": 42291,
+      "end": 42296,
+      "label": "LOC"
+    },
+    {
+      "text": "Restauration",
+      "start": 42323,
+      "end": 42335,
+      "label": "MISC"
+    },
+    {
+      "text": "Ministère",
+      "start": 42382,
+      "end": 42391,
+      "label": "PER"
+    },
+    {
+      "text": "Attaché",
+      "start": 42393,
+      "end": 42400,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 42612,
+      "end": 42620,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 42879,
+      "end": 42885,
+      "label": "PER"
+    },
+    {
+      "text": "Académie royale de musique",
+      "start": 42925,
+      "end": 42951,
+      "label": "ORG"
+    },
+    {
+      "text": "Tullia",
+      "start": 42953,
+      "end": 42959,
+      "label": "PER"
+    },
+    {
+      "text": "Cursy",
+      "start": 43005,
+      "end": 43010,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 43019,
+      "end": 43024,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 43112,
+      "end": 43117,
+      "label": "LOC"
+    },
+    {
+      "text": "Guimard",
+      "start": 43323,
+      "end": 43330,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Réthoré",
+      "start": 43396,
+      "end": 43410,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Chaulieu",
+      "start": 43420,
+      "end": 43435,
+      "label": "PER"
+    },
+    {
+      "text": "Beaux Arts",
+      "start": 43478,
+      "end": 43488,
+      "label": "MISC"
+    },
+    {
+      "text": "Chauchat",
+      "start": 43579,
+      "end": 43587,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 43640,
+      "end": 43645,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 43647,
+      "end": 43655,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Réthoré",
+      "start": 43702,
+      "end": 43716,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 43750,
+      "end": 43755,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaux Arts",
+      "start": 43782,
+      "end": 43792,
+      "label": "MISC"
+    },
+    {
+      "text": "Tullia",
+      "start": 43881,
+      "end": 43887,
+      "label": "PER"
+    },
+    {
+      "text": "Nanterre",
+      "start": 43953,
+      "end": 43961,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 44164,
+      "end": 44169,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 44190,
+      "end": 44196,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 44435,
+      "end": 44441,
+      "label": "PER"
+    },
+    {
+      "text": "Noblet",
+      "start": 44671,
+      "end": 44677,
+      "label": "PER"
+    },
+    {
+      "text": "Danse",
+      "start": 44893,
+      "end": 44898,
+      "label": "LOC"
+    },
+    {
+      "text": "Camargo",
+      "start": 44943,
+      "end": 44950,
+      "label": "LOC"
+    },
+    {
+      "text": "Guimard",
+      "start": 44952,
+      "end": 44959,
+      "label": "PER"
+    },
+    {
+      "text": "Taglioni",
+      "start": 44961,
+      "end": 44969,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 45095,
+      "end": 45101,
+      "label": "PER"
+    },
+    {
+      "text": "Danseuse",
+      "start": 45146,
+      "end": 45154,
+      "label": "PER"
+    },
+    {
+      "text": "gâchis de Juillet",
+      "start": 45256,
+      "end": 45273,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 45295,
+      "end": 45303,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 45415,
+      "end": 45420,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 45436,
+      "end": 45441,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 45550,
+      "end": 45555,
+      "label": "LOC"
+    },
+    {
+      "text": "madame du Bruel",
+      "start": 45599,
+      "end": 45614,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 45890,
+      "end": 45898,
+      "label": "PER"
+    },
+    {
+      "text": "Cursy",
+      "start": 45963,
+      "end": 45968,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra Comique",
+      "start": 46186,
+      "end": 46199,
+      "label": "ORG"
+    },
+    {
+      "text": "Dieppe",
+      "start": 46239,
+      "end": 46245,
+      "label": "LOC"
+    },
+    {
+      "text": "Baden",
+      "start": 46249,
+      "end": 46254,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 46258,
+      "end": 46271,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46452,
+      "end": 46457,
+      "label": "LOC"
+    },
+    {
+      "text": "Finot",
+      "start": 46495,
+      "end": 46500,
+      "label": "PER"
+    },
+    {
+      "text": "Lousteau",
+      "start": 46502,
+      "end": 46510,
+      "label": "PER"
+    },
+    {
+      "text": "Tillet",
+      "start": 46515,
+      "end": 46521,
+      "label": "LOC"
+    },
+    {
+      "text": "Desroches",
+      "start": 46523,
+      "end": 46532,
+      "label": "PER"
+    },
+    {
+      "text": "Bixiou",
+      "start": 46534,
+      "end": 46540,
+      "label": "PER"
+    },
+    {
+      "text": "Blondet",
+      "start": 46542,
+      "end": 46549,
+      "label": "LOC"
+    },
+    {
+      "text": "Couture",
+      "start": 46551,
+      "end": 46558,
+      "label": "LOC"
+    },
+    {
+      "text": "Lupeaulx",
+      "start": 46564,
+      "end": 46572,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 46671,
+      "end": 46677,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel esclave",
+      "start": 46688,
+      "end": 46701,
+      "label": "MISC"
+    },
+    {
+      "text": "Tullia",
+      "start": 46744,
+      "end": 46750,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 46752,
+      "end": 46758,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 46868,
+      "end": 46874,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 46949,
+      "end": 46954,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Bonvalot",
+      "start": 47037,
+      "end": 47055,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Chissé",
+      "start": 47111,
+      "end": 47127,
+      "label": "PER"
+    },
+    {
+      "text": "Comprenez",
+      "start": 47355,
+      "end": 47364,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 47669,
+      "end": 47674,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 47696,
+      "end": 47704,
+      "label": "PER"
+    },
+    {
+      "text": "Maintenon",
+      "start": 47753,
+      "end": 47762,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 47894,
+      "end": 47902,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 47923,
+      "end": 47928,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 48067,
+      "end": 48073,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Bruel",
+      "start": 48083,
+      "end": 48098,
+      "label": "PER"
+    },
+    {
+      "text": "Bonvalot",
+      "start": 48224,
+      "end": 48232,
+      "label": "LOC"
+    },
+    {
+      "text": "Chissé",
+      "start": 48237,
+      "end": 48243,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Bruel",
+      "start": 48250,
+      "end": 48265,
+      "label": "PER"
+    },
+    {
+      "text": "madame du Bruel",
+      "start": 48441,
+      "end": 48456,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 48509,
+      "end": 48514,
+      "label": "LOC"
+    },
+    {
+      "text": "Anselme Popinot",
+      "start": 48580,
+      "end": 48595,
+      "label": "PER"
+    },
+    {
+      "text": "Empire de Napoléon",
+      "start": 48642,
+      "end": 48660,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Garat",
+      "start": 48732,
+      "end": 48744,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Juge",
+      "start": 48756,
+      "end": 48766,
+      "label": "MISC"
+    },
+    {
+      "text": "net",
+      "start": 48800,
+      "end": 48803,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruel",
+      "start": 49154,
+      "end": 49159,
+      "label": "LOC"
+    },
+    {
+      "text": "Guimard",
+      "start": 49315,
+      "end": 49322,
+      "label": "PER"
+    },
+    {
+      "text": "Sophie Arnoult",
+      "start": 49327,
+      "end": 49341,
+      "label": "PER"
+    },
+    {
+      "text": "Duthé",
+      "start": 49347,
+      "end": 49352,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 49466,
+      "end": 49471,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 49574,
+      "end": 49580,
+      "label": "PER"
+    },
+    {
+      "text": "Angleterre",
+      "start": 49681,
+      "end": 49691,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 49757,
+      "end": 49765,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 49865,
+      "end": 49873,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 49955,
+      "end": 49961,
+      "label": "PER"
+    },
+    {
+      "text": "duc de Réthoré",
+      "start": 49985,
+      "end": 49999,
+      "label": "PER"
+    },
+    {
+      "text": "Cursy",
+      "start": 50515,
+      "end": 50520,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 50588,
+      "end": 50593,
+      "label": "LOC"
+    },
+    {
+      "text": "madame du Bruel",
+      "start": 50800,
+      "end": 50815,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 50980,
+      "end": 50986,
+      "label": "PER"
+    },
+    {
+      "text": "Cursy",
+      "start": 51094,
+      "end": 51099,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 51446,
+      "end": 51451,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 51533,
+      "end": 51539,
+      "label": "PER"
+    },
+    {
+      "text": "On y jouait la bouillotte dans un salon",
+      "start": 51700,
+      "end": 51739,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruel",
+      "start": 52066,
+      "end": 52071,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 52412,
+      "end": 52418,
+      "label": "PER"
+    },
+    {
+      "text": "Cursy",
+      "start": 52436,
+      "end": 52441,
+      "label": "MISC"
+    },
+    {
+      "text": "Cursy",
+      "start": 52770,
+      "end": 52775,
+      "label": "MISC"
+    },
+    {
+      "text": "Tullia",
+      "start": 53062,
+      "end": 53068,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 53088,
+      "end": 53093,
+      "label": "LOC"
+    },
+    {
+      "text": "Cursy",
+      "start": 53231,
+      "end": 53236,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 53325,
+      "end": 53331,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 53505,
+      "end": 53511,
+      "label": "PER"
+    },
+    {
+      "text": "Premier Sujet",
+      "start": 53601,
+      "end": 53614,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 53693,
+      "end": 53701,
+      "label": "LOC"
+    },
+    {
+      "text": "boulevard du Bruel",
+      "start": 53736,
+      "end": 53754,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 53875,
+      "end": 53883,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel à moi",
+      "start": 54235,
+      "end": 54246,
+      "label": "MISC"
+    },
+    {
+      "text": "Bixiou",
+      "start": 54267,
+      "end": 54273,
+      "label": "PER"
+    },
+    {
+      "text": "Mon cher",
+      "start": 54279,
+      "end": 54287,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 54377,
+      "end": 54382,
+      "label": "LOC"
+    },
+    {
+      "text": "Commission des auteurs",
+      "start": 54532,
+      "end": 54554,
+      "label": "ORG"
+    },
+    {
+      "text": "chambre de Claudine",
+      "start": 54634,
+      "end": 54653,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 54828,
+      "end": 54836,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 54843,
+      "end": 54851,
+      "label": "PER"
+    },
+    {
+      "text": "Tenez",
+      "start": 54995,
+      "end": 55000,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 55184,
+      "end": 55189,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 55850,
+      "end": 55855,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 55861,
+      "end": 55865,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruel",
+      "start": 55934,
+      "end": 55939,
+      "label": "LOC"
+    },
+    {
+      "text": "Mes",
+      "start": 56048,
+      "end": 56051,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 56252,
+      "end": 56257,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel !",
+      "start": 56312,
+      "end": 56319,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyez",
+      "start": 56450,
+      "end": 56455,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 56465,
+      "end": 56470,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 56589,
+      "end": 56597,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 56679,
+      "end": 56685,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 56796,
+      "end": 56802,
+      "label": "MISC"
+    },
+    {
+      "text": "Je suis bien fâchée",
+      "start": 56864,
+      "end": 56883,
+      "label": "MISC"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 56941,
+      "end": 56958,
+      "label": "LOC"
+    },
+    {
+      "text": "Chacun chez soi",
+      "start": 57122,
+      "end": 57137,
+      "label": "MISC"
+    },
+    {
+      "text": "Opéra",
+      "start": 57242,
+      "end": 57247,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 57299,
+      "end": 57304,
+      "label": "LOC"
+    },
+    {
+      "text": "Victoire",
+      "start": 57429,
+      "end": 57437,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 57716,
+      "end": 57724,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoyard",
+      "start": 57875,
+      "end": 57883,
+      "label": "LOC"
+    },
+    {
+      "text": "Vois",
+      "start": 58002,
+      "end": 58006,
+      "label": "LOC"
+    },
+    {
+      "text": "Dante",
+      "start": 58052,
+      "end": 58057,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 58060,
+      "end": 58065,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 58381,
+      "end": 58389,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 58548,
+      "end": 58550,
+      "label": "MISC"
+    },
+    {
+      "text": "Bien",
+      "start": 58658,
+      "end": 58662,
+      "label": "LOC"
+    },
+    {
+      "text": "Foudroyez",
+      "start": 58712,
+      "end": 58721,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon bonheur",
+      "start": 58843,
+      "end": 58854,
+      "label": "MISC"
+    },
+    {
+      "text": "Cursy",
+      "start": 59175,
+      "end": 59180,
+      "label": "PER"
+    },
+    {
+      "text": "rue de Richelieu",
+      "start": 59236,
+      "end": 59252,
+      "label": "LOC"
+    },
+    {
+      "text": "Mont Blanc",
+      "start": 59271,
+      "end": 59281,
+      "label": "LOC"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 59786,
+      "end": 59803,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 60007,
+      "end": 60011,
+      "label": "MISC"
+    },
+    {
+      "text": "Nathan",
+      "start": 60024,
+      "end": 60030,
+      "label": "PER"
+    },
+    {
+      "text": "Foi",
+      "start": 60175,
+      "end": 60178,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 60182,
+      "end": 60190,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 60404,
+      "end": 60410,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 60447,
+      "end": 60453,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 60621,
+      "end": 60626,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 60778,
+      "end": 60784,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 60847,
+      "end": 60852,
+      "label": "LOC"
+    },
+    {
+      "text": "Envoyez",
+      "start": 60859,
+      "end": 60866,
+      "label": "LOC"
+    },
+    {
+      "text": "Rocher de Cancale",
+      "start": 60870,
+      "end": 60887,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 61327,
+      "end": 61333,
+      "label": "PER"
+    },
+    {
+      "text": "Françaises",
+      "start": 61388,
+      "end": 61398,
+      "label": "MISC"
+    },
+    {
+      "text": "col de reine",
+      "start": 61879,
+      "end": 61891,
+      "label": "LOC"
+    },
+    {
+      "text": "veines",
+      "start": 61894,
+      "end": 61900,
+      "label": "LOC"
+    },
+    {
+      "text": "menton rougi",
+      "start": 61922,
+      "end": 61934,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 62197,
+      "end": 62202,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 62369,
+      "end": 62374,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 62574,
+      "end": 62583,
+      "label": "PER"
+    },
+    {
+      "text": "Variétés",
+      "start": 62853,
+      "end": 62861,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 62998,
+      "end": 63006,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 63099,
+      "end": 63105,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 63111,
+      "end": 63115,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 63406,
+      "end": 63412,
+      "label": "PER"
+    },
+    {
+      "text": "Tullia",
+      "start": 64036,
+      "end": 64042,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 64074,
+      "end": 64079,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 64234,
+      "end": 64242,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 64447,
+      "end": 64451,
+      "label": "MISC"
+    },
+    {
+      "text": "Variétés",
+      "start": 64523,
+      "end": 64531,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 64596,
+      "end": 64601,
+      "label": "LOC"
+    },
+    {
+      "text": "Petites Affiches",
+      "start": 64672,
+      "end": 64688,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 64756,
+      "end": 64761,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean François du Bruel",
+      "start": 64871,
+      "end": 64893,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine Chaffaroux",
+      "start": 64900,
+      "end": 64919,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 64980,
+      "end": 64988,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 65093,
+      "end": 65102,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 65325,
+      "end": 65334,
+      "label": "LOC"
+    },
+    {
+      "text": "Bohême",
+      "start": 65453,
+      "end": 65459,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 65534,
+      "end": 65539,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 65717,
+      "end": 65725,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 65741,
+      "end": 65746,
+      "label": "LOC"
+    },
+    {
+      "text": "Florine",
+      "start": 65802,
+      "end": 65809,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 65889,
+      "end": 65893,
+      "label": "LOC"
+    },
+    {
+      "text": "Mon cher",
+      "start": 65929,
+      "end": 65937,
+      "label": "LOC"
+    },
+    {
+      "text": "fiacre",
+      "start": 65993,
+      "end": 65999,
+      "label": "LOC"
+    },
+    {
+      "text": "Premier Sujet",
+      "start": 66075,
+      "end": 66088,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 66502,
+      "end": 66507,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 66698,
+      "end": 66702,
+      "label": "MISC"
+    },
+    {
+      "text": "Bruel",
+      "start": 66814,
+      "end": 66819,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 67002,
+      "end": 67008,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 67410,
+      "end": 67416,
+      "label": "MISC"
+    },
+    {
+      "text": "Rastignac",
+      "start": 67752,
+      "end": 67761,
+      "label": "LOC"
+    },
+    {
+      "text": "Réthoré",
+      "start": 67769,
+      "end": 67776,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 67782,
+      "end": 67790,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 67825,
+      "end": 67830,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 67875,
+      "end": 67880,
+      "label": "LOC"
+    },
+    {
+      "text": "Tullia",
+      "start": 67948,
+      "end": 67954,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 68094,
+      "end": 68099,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 68143,
+      "end": 68151,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 68189,
+      "end": 68194,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 68535,
+      "end": 68551,
+      "label": "ORG"
+    },
+    {
+      "text": "Chaffaroux",
+      "start": 68616,
+      "end": 68626,
+      "label": "PER"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 68727,
+      "end": 68735,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 68828,
+      "end": 68845,
+      "label": "ORG"
+    },
+    {
+      "text": "Académies de l'Institut",
+      "start": 69025,
+      "end": 69048,
+      "label": "ORG"
+    },
+    {
+      "text": "commandeur de la",
+      "start": 69071,
+      "end": 69087,
+      "label": "ORG"
+    },
+    {
+      "text": "Légion",
+      "start": 69088,
+      "end": 69094,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambre",
+      "start": 69141,
+      "end": 69148,
+      "label": "ORG"
+    },
+    {
+      "text": "de France",
+      "start": 69179,
+      "end": 69188,
+      "label": "LOC"
+    },
+    {
+      "text": "comtesse du Bruel",
+      "start": 69282,
+      "end": 69299,
+      "label": "LOC"
+    },
+    {
+      "text": "Léopold",
+      "start": 69337,
+      "end": 69344,
+      "label": "PER"
+    },
+    {
+      "text": "Isabelle",
+      "start": 69356,
+      "end": 69364,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Wladimir",
+      "start": 69378,
+      "end": 69392,
+      "label": "PER"
+    },
+    {
+      "text": "ordre du Mérite",
+      "start": 69413,
+      "end": 69428,
+      "label": "MISC"
+    },
+    {
+      "text": "Bavière",
+      "start": 69438,
+      "end": 69445,
+      "label": "LOC"
+    },
+    {
+      "text": "Éperon d'Or",
+      "start": 69466,
+      "end": 69477,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 69558,
+      "end": 69566,
+      "label": "PER"
+    },
+    {
+      "text": "porte de la Palferine",
+      "start": 69582,
+      "end": 69603,
+      "label": "LOC"
+    },
+    {
+      "text": "Du Bruel",
+      "start": 69641,
+      "end": 69649,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XIV",
+      "start": 69709,
+      "end": 69718,
+      "label": "PER"
+    },
+    {
+      "text": "Chérin",
+      "start": 69752,
+      "end": 69758,
+      "label": "PER"
+    },
+    {
+      "text": "Comtale",
+      "start": 69774,
+      "end": 69781,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 69863,
+      "end": 69871,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 69993,
+      "end": 70002,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 70163,
+      "end": 70176,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 70224,
+      "end": 70232,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 70311,
+      "end": 70319,
+      "label": "PER"
+    },
+    {
+      "text": "la Croix du Sud",
+      "start": 70347,
+      "end": 70362,
+      "label": "LOC"
+    },
+    {
+      "text": "Palferine",
+      "start": 70424,
+      "end": 70433,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 70626,
+      "end": 70631,
+      "label": "LOC"
+    },
+    {
+      "text": "Cour",
+      "start": 70637,
+      "end": 70641,
+      "label": "LOC"
+    },
+    {
+      "text": "croix du Sud",
+      "start": 70703,
+      "end": 70715,
+      "label": "LOC"
+    },
+    {
+      "text": "Rok",
+      "start": 70977,
+      "end": 70980,
+      "label": "PER"
+    },
+    {
+      "text": "Croix du Sud",
+      "start": 71006,
+      "end": 71018,
+      "label": "LOC"
+    },
+    {
+      "text": "Lactée",
+      "start": 71101,
+      "end": 71107,
+      "label": "LOC"
+    },
+    {
+      "text": "du Sud",
+      "start": 71147,
+      "end": 71153,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 71159,
+      "end": 71163,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 71184,
+      "end": 71191,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 71243,
+      "end": 71252,
+      "label": "LOC"
+    },
+    {
+      "text": "Claudine",
+      "start": 71315,
+      "end": 71323,
+      "label": "PER"
+    },
+    {
+      "text": "Claudine",
+      "start": 71515,
+      "end": 71523,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 71590,
+      "end": 71599,
+      "label": "LOC"
+    },
+    {
+      "text": "Rusticoli",
+      "start": 71657,
+      "end": 71666,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 71685,
+      "end": 71691,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 71780,
+      "end": 71784,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 71808,
+      "end": 71814,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 71817,
+      "end": 71836,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 71858,
+      "end": 71863,
+      "label": "LOC"
+    },
+    {
+      "text": "Bruel",
+      "start": 72267,
+      "end": 72272,
+      "label": "LOC"
+    },
+    {
+      "text": "Cursy",
+      "start": 72290,
+      "end": 72295,
+      "label": "MISC"
+    },
+    {
+      "text": "Chambre des Pairs",
+      "start": 72370,
+      "end": 72387,
+      "label": "LOC"
+    },
+    {
+      "text": "Nathan",
+      "start": 72439,
+      "end": 72445,
+      "label": "PER"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 72448,
+      "end": 72469,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 72548,
+      "end": 72554,
+      "label": "PER"
+    },
+    {
+      "text": "Bruel",
+      "start": 72640,
+      "end": 72645,
+      "label": "LOC"
+    },
+    {
+      "text": "Lousteau",
+      "start": 72675,
+      "end": 72683,
+      "label": "PER"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 72708,
+      "end": 72729,
+      "label": "PER"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 72804,
+      "end": 72825,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 73012,
+      "end": 73018,
+      "label": "PER"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 73044,
+      "end": 73065,
+      "label": "PER"
+    },
+    {
+      "text": "marquise de Rochefide",
+      "start": 73072,
+      "end": 73093,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Édouard",
+      "start": 73107,
+      "end": 73122,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 73162,
+      "end": 73166,
+      "label": "MISC"
+    },
+    {
+      "text": "madame de la Baudraye",
+      "start": 73192,
+      "end": 73213,
+      "label": "PER"
+    },
+    {
+      "text": "Nathan",
+      "start": 73242,
+      "end": 73248,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 73254,
+      "end": 73272,
+      "label": "PER"
+    },
+    {
+      "text": "Palferine",
+      "start": 73279,
+      "end": 73288,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Schontz",
+      "start": 73318,
+      "end": 73332,
+      "label": "PER"
+    },
+    {
+      "text": "Béatrix",
+      "start": 73363,
+      "end": 73370,
+      "label": "PER"
+    },
+    {
+      "text": "Voyez BÉATRIX",
+      "start": 73373,
+      "end": 73386,
+      "label": "MISC"
+    },
+    {
+      "text": "Scènes",
+      "start": 73388,
+      "end": 73394,
+      "label": "MISC"
+    },
+    {
+      "text": "Vie Privée",
+      "start": 73401,
+      "end": 73411,
+      "label": "MISC"
+    }
+  ]
+}

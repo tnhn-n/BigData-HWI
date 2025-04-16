@@ -1,0 +1,5506 @@
+{
+  "entities": [
+    {
+      "text": "DÉBUT",
+      "start": 3,
+      "end": 8,
+      "label": "MISC"
+    },
+    {
+      "text": "LAURE",
+      "start": 30,
+      "end": 35,
+      "label": "ORG"
+    },
+    {
+      "text": "FRÈRE",
+      "start": 133,
+      "end": 138,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 380,
+      "end": 385,
+      "label": "LOC"
+    },
+    {
+      "text": "Scène",
+      "start": 461,
+      "end": 466,
+      "label": "PER"
+    },
+    {
+      "text": "place de la Concorde",
+      "start": 699,
+      "end": 719,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours la Reine",
+      "start": 737,
+      "end": 751,
+      "label": "MISC"
+    },
+    {
+      "text": "Environs",
+      "start": 995,
+      "end": 1003,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1007,
+      "end": 1012,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard père et fils",
+      "start": 1088,
+      "end": 1109,
+      "label": "MISC"
+    },
+    {
+      "text": "Faubourg Saint Denis",
+      "start": 1293,
+      "end": 1313,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard",
+      "start": 1446,
+      "end": 1454,
+      "label": "ORG"
+    },
+    {
+      "text": "Faubourg  Saint Denis",
+      "start": 1486,
+      "end": 1507,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 1595,
+      "end": 1603,
+      "label": "LOC"
+    },
+    {
+      "text": "Petites Messageries",
+      "start": 1701,
+      "end": 1720,
+      "label": "MISC"
+    },
+    {
+      "text": "Touchard",
+      "start": 1751,
+      "end": 1759,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandes Messageries",
+      "start": 1787,
+      "end": 1806,
+      "label": "MISC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 1813,
+      "end": 1827,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard",
+      "start": 1858,
+      "end": 1866,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 1948,
+      "end": 1953,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 2042,
+      "end": 2047,
+      "label": "LOC"
+    },
+    {
+      "text": "coucou",
+      "start": 2223,
+      "end": 2229,
+      "label": "LOC"
+    },
+    {
+      "text": "coucou",
+      "start": 2471,
+      "end": 2477,
+      "label": "LOC"
+    },
+    {
+      "text": "Cuvier",
+      "start": 2702,
+      "end": 2708,
+      "label": "PER"
+    },
+    {
+      "text": "Montmartre",
+      "start": 2756,
+      "end": 2766,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard père et fils",
+      "start": 2856,
+      "end": 2877,
+      "label": "MISC"
+    },
+    {
+      "text": "Messageries Touchard",
+      "start": 3288,
+      "end": 3308,
+      "label": "ORG"
+    },
+    {
+      "text": "Touchard père et fils",
+      "start": 3794,
+      "end": 3815,
+      "label": "MISC"
+    },
+    {
+      "text": "Toulouse",
+      "start": 3902,
+      "end": 3910,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3944,
+      "end": 3949,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 3952,
+      "end": 3960,
+      "label": "LOC"
+    },
+    {
+      "text": "Oise",
+      "start": 3965,
+      "end": 3969,
+      "label": "LOC"
+    },
+    {
+      "text": "Petites Messageries",
+      "start": 4062,
+      "end": 4081,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 4316,
+      "end": 4327,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Brice",
+      "start": 4331,
+      "end": 4342,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrefitte",
+      "start": 4363,
+      "end": 4374,
+      "label": "LOC"
+    },
+    {
+      "text": "Groslay",
+      "start": 4376,
+      "end": 4383,
+      "label": "LOC"
+    },
+    {
+      "text": "Écouen",
+      "start": 4385,
+      "end": 4391,
+      "label": "LOC"
+    },
+    {
+      "text": "Poncelles",
+      "start": 4393,
+      "end": 4402,
+      "label": "LOC"
+    },
+    {
+      "text": "Moisselles",
+      "start": 4404,
+      "end": 4414,
+      "label": "LOC"
+    },
+    {
+      "text": "Baillet",
+      "start": 4416,
+      "end": 4423,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsoult",
+      "start": 4425,
+      "end": 4433,
+      "label": "LOC"
+    },
+    {
+      "text": "Maffliers",
+      "start": 4435,
+      "end": 4444,
+      "label": "LOC"
+    },
+    {
+      "text": "Franconville",
+      "start": 4446,
+      "end": 4458,
+      "label": "LOC"
+    },
+    {
+      "text": "Presle",
+      "start": 4460,
+      "end": 4466,
+      "label": "LOC"
+    },
+    {
+      "text": "Nointel",
+      "start": 4468,
+      "end": 4475,
+      "label": "LOC"
+    },
+    {
+      "text": "Nerville",
+      "start": 4477,
+      "end": 4485,
+      "label": "LOC"
+    },
+    {
+      "text": "Les Messageries Touchard",
+      "start": 4492,
+      "end": 4516,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 4551,
+      "end": 4556,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambly",
+      "start": 4559,
+      "end": 4566,
+      "label": "LOC"
+    },
+    {
+      "text": "Chambly",
+      "start": 4596,
+      "end": 4603,
+      "label": "LOC"
+    },
+    {
+      "text": "Toulouse",
+      "start": 4621,
+      "end": 4629,
+      "label": "LOC"
+    },
+    {
+      "text": "Beauvais",
+      "start": 4643,
+      "end": 4651,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 4678,
+      "end": 4688,
+      "label": "LOC"
+    },
+    {
+      "text": "La Cave",
+      "start": 4750,
+      "end": 4757,
+      "label": "LOC"
+    },
+    {
+      "text": "Oise",
+      "start": 4843,
+      "end": 4847,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 4872,
+      "end": 4881,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 4945,
+      "end": 4954,
+      "label": "LOC"
+    },
+    {
+      "text": "Bourbon Conti",
+      "start": 4988,
+      "end": 5001,
+      "label": "MISC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 5005,
+      "end": 5014,
+      "label": "LOC"
+    },
+    {
+      "text": "Nogent",
+      "start": 5086,
+      "end": 5092,
+      "label": "LOC"
+    },
+    {
+      "text": "Parmain",
+      "start": 5105,
+      "end": 5112,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 5222,
+      "end": 5227,
+      "label": "LOC"
+    },
+    {
+      "text": "théâtre de Bruxelles",
+      "start": 5299,
+      "end": 5319,
+      "label": "LOC"
+    },
+    {
+      "text": "Nogent",
+      "start": 5338,
+      "end": 5344,
+      "label": "LOC"
+    },
+    {
+      "text": "Cassan",
+      "start": 5487,
+      "end": 5493,
+      "label": "LOC"
+    },
+    {
+      "text": "Stors",
+      "start": 5495,
+      "end": 5500,
+      "label": "LOC"
+    },
+    {
+      "text": "Le Val",
+      "start": 5502,
+      "end": 5508,
+      "label": "LOC"
+    },
+    {
+      "text": "Nointel",
+      "start": 5510,
+      "end": 5517,
+      "label": "LOC"
+    },
+    {
+      "text": "Persan",
+      "start": 5519,
+      "end": 5525,
+      "label": "MISC"
+    },
+    {
+      "text": "La Cave",
+      "start": 5717,
+      "end": 5724,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 5763,
+      "end": 5773,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 5843,
+      "end": 5852,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 5972,
+      "end": 5981,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée de Montmorency",
+      "start": 6094,
+      "end": 6115,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 6133,
+      "end": 6142,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 6147,
+      "end": 6158,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Leu Taverny",
+      "start": 6173,
+      "end": 6190,
+      "label": "PER"
+    },
+    {
+      "text": "Méru",
+      "start": 6192,
+      "end": 6196,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 6200,
+      "end": 6209,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 6225,
+      "end": 6233,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Oise",
+      "start": 6246,
+      "end": 6252,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 6301,
+      "end": 6310,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 6345,
+      "end": 6354,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 6389,
+      "end": 6394,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 6399,
+      "end": 6408,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 6449,
+      "end": 6458,
+      "label": "LOC"
+    },
+    {
+      "text": "Stors",
+      "start": 6497,
+      "end": 6502,
+      "label": "LOC"
+    },
+    {
+      "text": "Val",
+      "start": 6507,
+      "end": 6510,
+      "label": "LOC"
+    },
+    {
+      "text": "Parmain",
+      "start": 6512,
+      "end": 6519,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 6521,
+      "end": 6530,
+      "label": "LOC"
+    },
+    {
+      "text": "Mours",
+      "start": 6532,
+      "end": 6537,
+      "label": "LOC"
+    },
+    {
+      "text": "Prérolles",
+      "start": 6539,
+      "end": 6548,
+      "label": "LOC"
+    },
+    {
+      "text": "Nogent",
+      "start": 6550,
+      "end": 6556,
+      "label": "LOC"
+    },
+    {
+      "text": "Nerville",
+      "start": 6558,
+      "end": 6566,
+      "label": "LOC"
+    },
+    {
+      "text": "Maffliers",
+      "start": 6570,
+      "end": 6579,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 6581,
+      "end": 6590,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsoult",
+      "start": 6628,
+      "end": 6636,
+      "label": "LOC"
+    },
+    {
+      "text": "Moisselles",
+      "start": 6641,
+      "end": 6651,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Brice",
+      "start": 6658,
+      "end": 6669,
+      "label": "PER"
+    },
+    {
+      "text": "Beaumont",
+      "start": 6821,
+      "end": 6829,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 6849,
+      "end": 6858,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 6905,
+      "end": 6914,
+      "label": "PER"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 6928,
+      "end": 6937,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 6964,
+      "end": 6969,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 7026,
+      "end": 7035,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 7338,
+      "end": 7343,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 7477,
+      "end": 7486,
+      "label": "LOC"
+    },
+    {
+      "text": "rue d'Enghien",
+      "start": 7615,
+      "end": 7628,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 7660,
+      "end": 7673,
+      "label": "MISC"
+    },
+    {
+      "text": "Dammartin",
+      "start": 7824,
+      "end": 7833,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard",
+      "start": 7864,
+      "end": 7872,
+      "label": "MISC"
+    },
+    {
+      "text": "Petites Messageries",
+      "start": 7896,
+      "end": 7915,
+      "label": "MISC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 8014,
+      "end": 8023,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 8057,
+      "end": 8066,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 8809,
+      "end": 8818,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 9102,
+      "end": 9111,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 9455,
+      "end": 9464,
+      "label": "PER"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 9633,
+      "end": 9642,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 9645,
+      "end": 9650,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 9780,
+      "end": 9789,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 9892,
+      "end": 9901,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 10480,
+      "end": 10489,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 10827,
+      "end": 10836,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 11422,
+      "end": 11431,
+      "label": "LOC"
+    },
+    {
+      "text": "Farry",
+      "start": 11589,
+      "end": 11594,
+      "label": "MISC"
+    },
+    {
+      "text": "Breilmann",
+      "start": 11596,
+      "end": 11605,
+      "label": "MISC"
+    },
+    {
+      "text": "Compagnie",
+      "start": 11609,
+      "end": 11618,
+      "label": "ORG"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 11732,
+      "end": 11741,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 11847,
+      "end": 11851,
+      "label": "LOC"
+    },
+    {
+      "text": "Utrecht jaune",
+      "start": 12049,
+      "end": 12062,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 12304,
+      "end": 12313,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 12869,
+      "end": 12878,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 13251,
+      "end": 13260,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 13385,
+      "end": 13394,
+      "label": "PER"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 13809,
+      "end": 13818,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 13821,
+      "end": 13826,
+      "label": "LOC"
+    },
+    {
+      "text": "Service de l'Isle Adam",
+      "start": 13842,
+      "end": 13864,
+      "label": "ORG"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 13992,
+      "end": 14001,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 14193,
+      "end": 14202,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 14630,
+      "end": 14639,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 14729,
+      "end": 14738,
+      "label": "LOC"
+    },
+    {
+      "text": "Rougeot",
+      "start": 14891,
+      "end": 14898,
+      "label": "LOC"
+    },
+    {
+      "text": "Bichette",
+      "start": 15034,
+      "end": 15042,
+      "label": "PER"
+    },
+    {
+      "text": "Rougeot",
+      "start": 15193,
+      "end": 15200,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 15215,
+      "end": 15224,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle",
+      "start": 15535,
+      "end": 15539,
+      "label": "LOC"
+    },
+    {
+      "text": "Voilà Pierrotin !",
+      "start": 15557,
+      "end": 15574,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 16052,
+      "end": 16061,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 16140,
+      "end": 16149,
+      "label": "PER"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 16246,
+      "end": 16255,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 16773,
+      "end": 16777,
+      "label": "LOC"
+    },
+    {
+      "text": "Fisc",
+      "start": 16991,
+      "end": 16995,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 17174,
+      "end": 17183,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 17293,
+      "end": 17304,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 17349,
+      "end": 17358,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 17441,
+      "end": 17450,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Brice",
+      "start": 17635,
+      "end": 17646,
+      "label": "PER"
+    },
+    {
+      "text": "Moisselle",
+      "start": 17650,
+      "end": 17659,
+      "label": "LOC"
+    },
+    {
+      "text": "La Cave",
+      "start": 17665,
+      "end": 17672,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel du Lion d'Argent",
+      "start": 17676,
+      "end": 17698,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 17804,
+      "end": 17815,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 18127,
+      "end": 18140,
+      "label": "MISC"
+    },
+    {
+      "text": "Enghien",
+      "start": 18624,
+      "end": 18631,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 18764,
+      "end": 18773,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 18868,
+      "end": 18881,
+      "label": "MISC"
+    },
+    {
+      "text": "Touchard",
+      "start": 19114,
+      "end": 19122,
+      "label": "PER"
+    },
+    {
+      "text": "Hôtel du Lion d'Argent",
+      "start": 19231,
+      "end": 19253,
+      "label": "LOC"
+    },
+    {
+      "text": "Faut",
+      "start": 19448,
+      "end": 19452,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 19483,
+      "end": 19492,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 19624,
+      "end": 19633,
+      "label": "LOC"
+    },
+    {
+      "text": "Attelle",
+      "start": 19661,
+      "end": 19668,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 20129,
+      "end": 20138,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 20176,
+      "end": 20185,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 20224,
+      "end": 20233,
+      "label": "MISC"
+    },
+    {
+      "text": "Vieux",
+      "start": 20310,
+      "end": 20315,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 20404,
+      "end": 20408,
+      "label": "MISC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 20464,
+      "end": 20473,
+      "label": "MISC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 20512,
+      "end": 20520,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard",
+      "start": 20597,
+      "end": 20605,
+      "label": "LOC"
+    },
+    {
+      "text": "Rougeot",
+      "start": 20669,
+      "end": 20676,
+      "label": "LOC"
+    },
+    {
+      "text": "Bichette",
+      "start": 20681,
+      "end": 20689,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 20745,
+      "end": 20754,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 20789,
+      "end": 20800,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 20942,
+      "end": 20955,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 21005,
+      "end": 21010,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous êtes",
+      "start": 21076,
+      "end": 21085,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 21187,
+      "end": 21196,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 21212,
+      "end": 21221,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 21504,
+      "end": 21513,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 21550,
+      "end": 21559,
+      "label": "LOC"
+    },
+    {
+      "text": "Touchard",
+      "start": 21631,
+      "end": 21639,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 21866,
+      "end": 21875,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 21898,
+      "end": 21907,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 22035,
+      "end": 22044,
+      "label": "LOC"
+    },
+    {
+      "text": "Farry",
+      "start": 22114,
+      "end": 22119,
+      "label": "PER"
+    },
+    {
+      "text": "Breilmann",
+      "start": 22121,
+      "end": 22130,
+      "label": "PER"
+    },
+    {
+      "text": "Anglais",
+      "start": 22212,
+      "end": 22219,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 22546,
+      "end": 22555,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 22955,
+      "end": 22964,
+      "label": "LOC"
+    },
+    {
+      "text": "Endetté",
+      "start": 22967,
+      "end": 22974,
+      "label": "LOC"
+    },
+    {
+      "text": "Rougeot",
+      "start": 23184,
+      "end": 23191,
+      "label": "MISC"
+    },
+    {
+      "text": "vrais",
+      "start": 23654,
+      "end": 23659,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 23700,
+      "end": 23706,
+      "label": "PER"
+    },
+    {
+      "text": "Presle",
+      "start": 23724,
+      "end": 23730,
+      "label": "PER"
+    },
+    {
+      "text": "Touchard",
+      "start": 23937,
+      "end": 23945,
+      "label": "ORG"
+    },
+    {
+      "text": "Chambly",
+      "start": 23998,
+      "end": 24005,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 24070,
+      "end": 24079,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 24096,
+      "end": 24105,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 24389,
+      "end": 24398,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 24504,
+      "end": 24508,
+      "label": "MISC"
+    },
+    {
+      "text": "voila",
+      "start": 24515,
+      "end": 24520,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin souleva",
+      "start": 24579,
+      "end": 24596,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 24615,
+      "end": 24620,
+      "label": "MISC"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 24819,
+      "end": 24830,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 24852,
+      "end": 24857,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 24891,
+      "end": 24900,
+      "label": "LOC"
+    },
+    {
+      "text": "Garçon",
+      "start": 24977,
+      "end": 24983,
+      "label": "LOC"
+    },
+    {
+      "text": "cria t",
+      "start": 25002,
+      "end": 25008,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 25102,
+      "end": 25111,
+      "label": "LOC"
+    },
+    {
+      "text": "vallée d'Orge",
+      "start": 25301,
+      "end": 25314,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 25358,
+      "end": 25363,
+      "label": "LOC"
+    },
+    {
+      "text": "Versailles",
+      "start": 25373,
+      "end": 25383,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 25459,
+      "end": 25465,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles, dit Pierrotin",
+      "start": 25485,
+      "end": 25507,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 25511,
+      "end": 25515,
+      "label": "MISC"
+    },
+    {
+      "text": "Presle",
+      "start": 25563,
+      "end": 25569,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 25573,
+      "end": 25577,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 25595,
+      "end": 25610,
+      "label": "PER"
+    },
+    {
+      "text": "cognito",
+      "start": 25805,
+      "end": 25812,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 25887,
+      "end": 25891,
+      "label": "MISC"
+    },
+    {
+      "text": "Léger",
+      "start": 25968,
+      "end": 25973,
+      "label": "PER"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 25987,
+      "end": 25997,
+      "label": "LOC"
+    },
+    {
+      "text": "la Daumont",
+      "start": 26184,
+      "end": 26194,
+      "label": "LOC"
+    },
+    {
+      "text": "Presle",
+      "start": 26209,
+      "end": 26215,
+      "label": "LOC"
+    },
+    {
+      "text": "Sa Seigneurie",
+      "start": 26239,
+      "end": 26252,
+      "label": "PER"
+    },
+    {
+      "text": "Augustin",
+      "start": 26270,
+      "end": 26278,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 26675,
+      "end": 26683,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 26687,
+      "end": 26693,
+      "label": "LOC"
+    },
+    {
+      "text": "Presle",
+      "start": 26716,
+      "end": 26722,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 26772,
+      "end": 26781,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 26945,
+      "end": 26963,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 26985,
+      "end": 26991,
+      "label": "LOC"
+    },
+    {
+      "text": "Brave",
+      "start": 27057,
+      "end": 27062,
+      "label": "MISC"
+    },
+    {
+      "text": "monsieur Moreau !",
+      "start": 27070,
+      "end": 27087,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 27095,
+      "end": 27104,
+      "label": "LOC"
+    },
+    {
+      "text": "Brave",
+      "start": 27304,
+      "end": 27309,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 27337,
+      "end": 27342,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 27454,
+      "end": 27459,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 27529,
+      "end": 27535,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 27613,
+      "end": 27619,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 27934,
+      "end": 27936,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 27979,
+      "end": 27985,
+      "label": "PER"
+    },
+    {
+      "text": "Presle",
+      "start": 28062,
+      "end": 28068,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 28168,
+      "end": 28177,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 28286,
+      "end": 28292,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 28373,
+      "end": 28382,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Chaussée d'Antin",
+      "start": 28399,
+      "end": 28425,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 28486,
+      "end": 28492,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 28496,
+      "end": 28504,
+      "label": "PER"
+    },
+    {
+      "text": "la Daumont",
+      "start": 28730,
+      "end": 28740,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 28784,
+      "end": 28793,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 29065,
+      "end": 29074,
+      "label": "PER"
+    },
+    {
+      "text": "Pair de France",
+      "start": 29076,
+      "end": 29090,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Moreau... mon Dieu",
+      "start": 29177,
+      "end": 29204,
+      "label": "MISC"
+    },
+    {
+      "text": "Vingt bon Dieu",
+      "start": 29255,
+      "end": 29269,
+      "label": "MISC"
+    },
+    {
+      "text": "Bah",
+      "start": 29408,
+      "end": 29411,
+      "label": "MISC"
+    },
+    {
+      "text": "Seigneurie",
+      "start": 29701,
+      "end": 29711,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 30035,
+      "end": 30050,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 30076,
+      "end": 30085,
+      "label": "LOC"
+    },
+    {
+      "text": "terre de Presles",
+      "start": 30110,
+      "end": 30126,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 30130,
+      "end": 30136,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 30154,
+      "end": 30163,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 30223,
+      "end": 30238,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 30363,
+      "end": 30372,
+      "label": "LOC"
+    },
+    {
+      "text": "Hugret de Sérisy",
+      "start": 30383,
+      "end": 30399,
+      "label": "PER"
+    },
+    {
+      "text": "Hugret",
+      "start": 30445,
+      "end": 30451,
+      "label": "PER"
+    },
+    {
+      "text": "François Ier",
+      "start": 30465,
+      "end": 30477,
+      "label": "PER"
+    },
+    {
+      "text": "I",
+      "start": 30594,
+      "end": 30595,
+      "label": "LOC"
+    },
+    {
+      "text": "SEMPER MELIUS ERIS",
+      "start": 30597,
+      "end": 30615,
+      "label": "ORG"
+    },
+    {
+      "text": "Ordres",
+      "start": 30742,
+      "end": 30748,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 30781,
+      "end": 30785,
+      "label": "LOC"
+    },
+    {
+      "text": "ERIS",
+      "start": 30844,
+      "end": 30848,
+      "label": "ORG"
+    },
+    {
+      "text": "I",
+      "start": 30870,
+      "end": 30871,
+      "label": "LOC"
+    },
+    {
+      "text": "Melius",
+      "start": 30904,
+      "end": 30910,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 30931,
+      "end": 30937,
+      "label": "LOC"
+    },
+    {
+      "text": "Premier Président",
+      "start": 30991,
+      "end": 31008,
+      "label": "PER"
+    },
+    {
+      "text": "Parlement",
+      "start": 31014,
+      "end": 31023,
+      "label": "ORG"
+    },
+    {
+      "text": "la Révolution",
+      "start": 31030,
+      "end": 31043,
+      "label": "MISC"
+    },
+    {
+      "text": "Conseiller",
+      "start": 31063,
+      "end": 31073,
+      "label": "ORG"
+    },
+    {
+      "text": "État",
+      "start": 31076,
+      "end": 31080,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Conseil",
+      "start": 31084,
+      "end": 31097,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 31237,
+      "end": 31250,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 31281,
+      "end": 31287,
+      "label": "LOC"
+    },
+    {
+      "text": "Arpajon",
+      "start": 31291,
+      "end": 31298,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 31428,
+      "end": 31434,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil des Cinq Cents",
+      "start": 31490,
+      "end": 31512,
+      "label": "ORG"
+    },
+    {
+      "text": "Dix Huit Brumaire",
+      "start": 31582,
+      "end": 31599,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 31613,
+      "end": 31619,
+      "label": "LOC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 31704,
+      "end": 31718,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 31741,
+      "end": 31755,
+      "label": "ORG"
+    },
+    {
+      "text": "Napoléon",
+      "start": 31959,
+      "end": 31967,
+      "label": "PER"
+    },
+    {
+      "text": "Conseiller d'État",
+      "start": 31978,
+      "end": 31995,
+      "label": "ORG"
+    },
+    {
+      "text": "Ministère",
+      "start": 32043,
+      "end": 32052,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 32081,
+      "end": 32091,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Ronquerolles",
+      "start": 32224,
+      "end": 32247,
+      "label": "PER"
+    },
+    {
+      "text": "Gaubert",
+      "start": 32270,
+      "end": 32277,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 32420,
+      "end": 32435,
+      "label": "PER"
+    },
+    {
+      "text": "Rouvre",
+      "start": 32482,
+      "end": 32488,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 32520,
+      "end": 32530,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 32583,
+      "end": 32589,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 32699,
+      "end": 32709,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 32733,
+      "end": 32738,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 32742,
+      "end": 32750,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 32918,
+      "end": 32933,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33040,
+      "end": 33048,
+      "label": "PER"
+    },
+    {
+      "text": "Bourbons",
+      "start": 33067,
+      "end": 33075,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 33087,
+      "end": 33098,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 33119,
+      "end": 33125,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 33197,
+      "end": 33206,
+      "label": "LOC"
+    },
+    {
+      "text": "Ministre d'État",
+      "start": 33284,
+      "end": 33299,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérisy",
+      "start": 33325,
+      "end": 33331,
+      "label": "LOC"
+    },
+    {
+      "text": "Gand",
+      "start": 33347,
+      "end": 33351,
+      "label": "LOC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 33364,
+      "end": 33372,
+      "label": "PER"
+    },
+    {
+      "text": "maison de Bourbon",
+      "start": 33399,
+      "end": 33416,
+      "label": "MISC"
+    },
+    {
+      "text": "Cent Jours",
+      "start": 33459,
+      "end": 33469,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 33515,
+      "end": 33521,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 33549,
+      "end": 33559,
+      "label": "PER"
+    },
+    {
+      "text": "Conseil",
+      "start": 33597,
+      "end": 33604,
+      "label": "ORG"
+    },
+    {
+      "text": "Vice",
+      "start": 33622,
+      "end": 33626,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 33640,
+      "end": 33654,
+      "label": "ORG"
+    },
+    {
+      "text": "la France",
+      "start": 33689,
+      "end": 33698,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 34242,
+      "end": 34251,
+      "label": "LOC"
+    },
+    {
+      "text": "Vice",
+      "start": 34258,
+      "end": 34262,
+      "label": "ORG"
+    },
+    {
+      "text": "Conseil d'État",
+      "start": 34276,
+      "end": 34290,
+      "label": "ORG"
+    },
+    {
+      "text": "Ordres",
+      "start": 34393,
+      "end": 34399,
+      "label": "ORG"
+    },
+    {
+      "text": "Sérisy",
+      "start": 34413,
+      "end": 34419,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand'Croix",
+      "start": 34444,
+      "end": 34455,
+      "label": "LOC"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 34462,
+      "end": 34478,
+      "label": "ORG"
+    },
+    {
+      "text": "ordre de la Toison d'Or",
+      "start": 34492,
+      "end": 34515,
+      "label": "ORG"
+    },
+    {
+      "text": "Aigle de Prusse",
+      "start": 34562,
+      "end": 34577,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 34621,
+      "end": 34627,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 35243,
+      "end": 35249,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36566,
+      "end": 36571,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Sérisy",
+      "start": 37188,
+      "end": 37204,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 37330,
+      "end": 37342,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 37605,
+      "end": 37613,
+      "label": "LOC"
+    },
+    {
+      "text": "Oise",
+      "start": 37618,
+      "end": 37622,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 37630,
+      "end": 37635,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 37766,
+      "end": 37773,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 37817,
+      "end": 37825,
+      "label": "LOC"
+    },
+    {
+      "text": "Oise",
+      "start": 37830,
+      "end": 37834,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 37843,
+      "end": 37852,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 37869,
+      "end": 37874,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 38017,
+      "end": 38022,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 38075,
+      "end": 38081,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 38260,
+      "end": 38269,
+      "label": "PER"
+    },
+    {
+      "text": "Senlis",
+      "start": 38370,
+      "end": 38376,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 38378,
+      "end": 38384,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 38457,
+      "end": 38462,
+      "label": "PER"
+    },
+    {
+      "text": "Margueron fils",
+      "start": 38657,
+      "end": 38671,
+      "label": "PER"
+    },
+    {
+      "text": "Alexandre Crottat",
+      "start": 38751,
+      "end": 38768,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 38773,
+      "end": 38781,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 38852,
+      "end": 38860,
+      "label": "PER"
+    },
+    {
+      "text": "Crottat",
+      "start": 38864,
+      "end": 38871,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 38992,
+      "end": 38998,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 39060,
+      "end": 39062,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 39085,
+      "end": 39093,
+      "label": "PER"
+    },
+    {
+      "text": "Votre Seigneurie",
+      "start": 39110,
+      "end": 39126,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 39147,
+      "end": 39154,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 39180,
+      "end": 39189,
+      "label": "LOC"
+    },
+    {
+      "text": "Crottat",
+      "start": 39191,
+      "end": 39198,
+      "label": "LOC"
+    },
+    {
+      "text": "Votre Excellence",
+      "start": 39371,
+      "end": 39387,
+      "label": "MISC"
+    },
+    {
+      "text": "Banque",
+      "start": 39447,
+      "end": 39453,
+      "label": "LOC"
+    },
+    {
+      "text": "Recette de Senlis",
+      "start": 39498,
+      "end": 39515,
+      "label": "LOC"
+    },
+    {
+      "text": "Crottat",
+      "start": 39688,
+      "end": 39695,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 39751,
+      "end": 39760,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 39770,
+      "end": 39779,
+      "label": "LOC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 39858,
+      "end": 39866,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 39876,
+      "end": 39882,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 39915,
+      "end": 39924,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 39957,
+      "end": 39967,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 40046,
+      "end": 40053,
+      "label": "LOC"
+    },
+    {
+      "text": "Grindot",
+      "start": 40082,
+      "end": 40089,
+      "label": "MISC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 40200,
+      "end": 40206,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 40345,
+      "end": 40352,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 40505,
+      "end": 40512,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 40561,
+      "end": 40570,
+      "label": "LOC"
+    },
+    {
+      "text": "terre de Presles",
+      "start": 40670,
+      "end": 40686,
+      "label": "LOC"
+    },
+    {
+      "text": "Révolution procureur syndic",
+      "start": 40742,
+      "end": 40769,
+      "label": "MISC"
+    },
+    {
+      "text": "Versailles",
+      "start": 40772,
+      "end": 40782,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau père",
+      "start": 40802,
+      "end": 40813,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 40870,
+      "end": 40876,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 40902,
+      "end": 40908,
+      "label": "PER"
+    },
+    {
+      "text": "Danton",
+      "start": 40930,
+      "end": 40936,
+      "label": "PER"
+    },
+    {
+      "text": "Roberspierre",
+      "start": 40939,
+      "end": 40951,
+      "label": "MISC"
+    },
+    {
+      "text": "Versailles",
+      "start": 41037,
+      "end": 41047,
+      "label": "LOC"
+    },
+    {
+      "text": "Premier Consul",
+      "start": 41163,
+      "end": 41177,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 41231,
+      "end": 41237,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 41305,
+      "end": 41311,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 41575,
+      "end": 41581,
+      "label": "LOC"
+    },
+    {
+      "text": "terre de Presles",
+      "start": 41812,
+      "end": 41828,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 41987,
+      "end": 41994,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 42065,
+      "end": 42071,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 42103,
+      "end": 42108,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 42138,
+      "end": 42144,
+      "label": "LOC"
+    },
+    {
+      "text": "la Révolution",
+      "start": 42214,
+      "end": 42227,
+      "label": "MISC"
+    },
+    {
+      "text": "Étude",
+      "start": 42263,
+      "end": 42268,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 42295,
+      "end": 42301,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 42496,
+      "end": 42502,
+      "label": "LOC"
+    },
+    {
+      "text": "Sous Préfet",
+      "start": 42755,
+      "end": 42766,
+      "label": "MISC"
+    },
+    {
+      "text": "Presles",
+      "start": 42875,
+      "end": 42882,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 43040,
+      "end": 43046,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 43119,
+      "end": 43125,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 43223,
+      "end": 43230,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 43272,
+      "end": 43278,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 43387,
+      "end": 43394,
+      "label": "LOC"
+    },
+    {
+      "text": "terre de Presles",
+      "start": 43582,
+      "end": 43598,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 43616,
+      "end": 43622,
+      "label": "PER"
+    },
+    {
+      "text": "Champagne",
+      "start": 43944,
+      "end": 43953,
+      "label": "LOC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 43985,
+      "end": 43994,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Oise",
+      "start": 44018,
+      "end": 44024,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Moreau",
+      "start": 44134,
+      "end": 44147,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Lô",
+      "start": 44221,
+      "end": 44229,
+      "label": "PER"
+    },
+    {
+      "text": "Code",
+      "start": 44710,
+      "end": 44714,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 44868,
+      "end": 44873,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 45068,
+      "end": 45074,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 45321,
+      "end": 45329,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 45333,
+      "end": 45339,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 45347,
+      "end": 45353,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 45395,
+      "end": 45401,
+      "label": "PER"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 45479,
+      "end": 45490,
+      "label": "LOC"
+    },
+    {
+      "text": "Collége Henri IV",
+      "start": 45711,
+      "end": 45727,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 45743,
+      "end": 45749,
+      "label": "PER"
+    },
+    {
+      "text": "Tiers Consolidé",
+      "start": 45810,
+      "end": 45825,
+      "label": "ORG"
+    },
+    {
+      "text": "Champagne",
+      "start": 45957,
+      "end": 45966,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 46197,
+      "end": 46207,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 46369,
+      "end": 46376,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 46649,
+      "end": 46653,
+      "label": "LOC"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 46697,
+      "end": 46707,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 46717,
+      "end": 46722,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 46940,
+      "end": 46946,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 47051,
+      "end": 47056,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi",
+      "start": 47355,
+      "end": 47361,
+      "label": "MISC"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 47449,
+      "end": 47459,
+      "label": "PER"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 47551,
+      "end": 47560,
+      "label": "LOC"
+    },
+    {
+      "text": "Nogent",
+      "start": 47581,
+      "end": 47587,
+      "label": "LOC"
+    },
+    {
+      "text": "prince de Conti",
+      "start": 47650,
+      "end": 47665,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 47737,
+      "end": 47739,
+      "label": "MISC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 47784,
+      "end": 47794,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 47930,
+      "end": 47935,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagne",
+      "start": 47965,
+      "end": 47974,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 47989,
+      "end": 47995,
+      "label": "LOC"
+    },
+    {
+      "text": "Mours",
+      "start": 48069,
+      "end": 48074,
+      "label": "ORG"
+    },
+    {
+      "text": "Grand Livre",
+      "start": 48270,
+      "end": 48281,
+      "label": "LOC"
+    },
+    {
+      "text": "Juge de paix",
+      "start": 48333,
+      "end": 48345,
+      "label": "MISC"
+    },
+    {
+      "text": "Isle Adam",
+      "start": 48350,
+      "end": 48359,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 48426,
+      "end": 48430,
+      "label": "MISC"
+    },
+    {
+      "text": "Presles",
+      "start": 48519,
+      "end": 48526,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 48551,
+      "end": 48560,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 48582,
+      "end": 48588,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 48739,
+      "end": 48745,
+      "label": "LOC"
+    },
+    {
+      "text": "Augustin",
+      "start": 48781,
+      "end": 48789,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 48866,
+      "end": 48872,
+      "label": "PER"
+    },
+    {
+      "text": "Margueron",
+      "start": 48953,
+      "end": 48962,
+      "label": "PER"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 49020,
+      "end": 49030,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 49248,
+      "end": 49255,
+      "label": "LOC"
+    },
+    {
+      "text": "Reybert",
+      "start": 49301,
+      "end": 49308,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 49404,
+      "end": 49412,
+      "label": "PER"
+    },
+    {
+      "text": "Reybert",
+      "start": 49416,
+      "end": 49423,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 49478,
+      "end": 49484,
+      "label": "LOC"
+    },
+    {
+      "text": "Reybert",
+      "start": 49645,
+      "end": 49652,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 49672,
+      "end": 49678,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 49703,
+      "end": 49718,
+      "label": "PER"
+    },
+    {
+      "text": "Reybert",
+      "start": 49720,
+      "end": 49727,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 49748,
+      "end": 49753,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Reybert",
+      "start": 49755,
+      "end": 49772,
+      "label": "PER"
+    },
+    {
+      "text": "Sa Seigneurie",
+      "start": 49941,
+      "end": 49954,
+      "label": "PER"
+    },
+    {
+      "text": "Monseigneur",
+      "start": 49960,
+      "end": 49971,
+      "label": "PER"
+    },
+    {
+      "text": "Ministre d'État",
+      "start": 49991,
+      "end": 50006,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Reybert",
+      "start": 50088,
+      "end": 50105,
+      "label": "PER"
+    },
+    {
+      "text": "Corroy",
+      "start": 50114,
+      "end": 50120,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 50185,
+      "end": 50192,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 50288,
+      "end": 50296,
+      "label": "PER"
+    },
+    {
+      "text": "Reybert",
+      "start": 50300,
+      "end": 50307,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 50458,
+      "end": 50468,
+      "label": "PER"
+    },
+    {
+      "text": "Reybert",
+      "start": 50667,
+      "end": 50674,
+      "label": "PER"
+    },
+    {
+      "text": "Moulineaux",
+      "start": 50970,
+      "end": 50980,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 51059,
+      "end": 51064,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 51068,
+      "end": 51074,
+      "label": "PER"
+    },
+    {
+      "text": "Margueron",
+      "start": 51100,
+      "end": 51109,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 51132,
+      "end": 51139,
+      "label": "LOC"
+    },
+    {
+      "text": "Margueron",
+      "start": 51154,
+      "end": 51163,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 51183,
+      "end": 51188,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 51257,
+      "end": 51262,
+      "label": "LOC"
+    },
+    {
+      "text": "État",
+      "start": 51402,
+      "end": 51406,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Reybert",
+      "start": 51535,
+      "end": 51552,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 51678,
+      "end": 51686,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 51998,
+      "end": 52004,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Reybert",
+      "start": 52105,
+      "end": 52122,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 52309,
+      "end": 52316,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Reybert",
+      "start": 52390,
+      "end": 52407,
+      "label": "PER"
+    },
+    {
+      "text": "Reybert",
+      "start": 52511,
+      "end": 52518,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Reybert",
+      "start": 52714,
+      "end": 52731,
+      "label": "PER"
+    },
+    {
+      "text": "Corroy",
+      "start": 52740,
+      "end": 52746,
+      "label": "LOC"
+    },
+    {
+      "text": "Courrier français",
+      "start": 53201,
+      "end": 53218,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Reybert",
+      "start": 53443,
+      "end": 53460,
+      "label": "PER"
+    },
+    {
+      "text": "Corroy",
+      "start": 53507,
+      "end": 53513,
+      "label": "LOC"
+    },
+    {
+      "text": "pays Messin",
+      "start": 53554,
+      "end": 53565,
+      "label": "LOC"
+    },
+    {
+      "text": "Reybert",
+      "start": 53629,
+      "end": 53636,
+      "label": "PER"
+    },
+    {
+      "text": "Ministère de la Guerre",
+      "start": 53856,
+      "end": 53878,
+      "label": "ORG"
+    },
+    {
+      "text": "Madame",
+      "start": 53919,
+      "end": 53925,
+      "label": "PER"
+    },
+    {
+      "text": "Presles",
+      "start": 53988,
+      "end": 53995,
+      "label": "LOC"
+    },
+    {
+      "text": "Presles",
+      "start": 54136,
+      "end": 54143,
+      "label": "LOC"
+    },
+    {
+      "text": "Reybert",
+      "start": 54173,
+      "end": 54180,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 54242,
+      "end": 54248,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 54470,
+      "end": 54479,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 54502,
+      "end": 54515,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 55315,
+      "end": 55320,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 55449,
+      "end": 55458,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 56211,
+      "end": 56220,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 56261,
+      "end": 56265,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 56283,
+      "end": 56292,
+      "label": "LOC"
+    },
+    {
+      "text": "Ça",
+      "start": 56382,
+      "end": 56384,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 56394,
+      "end": 56408,
+      "label": "PER"
+    },
+    {
+      "text": "Oui",
+      "start": 56515,
+      "end": 56518,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 56520,
+      "end": 56529,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 56553,
+      "end": 56558,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 56596,
+      "end": 56600,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 56628,
+      "end": 56634,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Moreau",
+      "start": 56742,
+      "end": 56755,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 56783,
+      "end": 56792,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 56960,
+      "end": 56969,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 57026,
+      "end": 57040,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 57095,
+      "end": 57104,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 57387,
+      "end": 57401,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 57528,
+      "end": 57537,
+      "label": "LOC"
+    },
+    {
+      "text": "La Cave",
+      "start": 57549,
+      "end": 57556,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 57590,
+      "end": 57595,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 57697,
+      "end": 57706,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 57871,
+      "end": 57880,
+      "label": "LOC"
+    },
+    {
+      "text": "Barrière",
+      "start": 57947,
+      "end": 57955,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Octroi",
+      "start": 58000,
+      "end": 58008,
+      "label": "PER"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 58190,
+      "end": 58204,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 58293,
+      "end": 58302,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Cerisaie",
+      "start": 58382,
+      "end": 58400,
+      "label": "LOC"
+    },
+    {
+      "text": "Arsenal",
+      "start": 58427,
+      "end": 58434,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 58876,
+      "end": 58885,
+      "label": "PER"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 58931,
+      "end": 58945,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 58961,
+      "end": 58967,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Cerisaie",
+      "start": 59030,
+      "end": 59048,
+      "label": "LOC"
+    },
+    {
+      "text": "Arsenal",
+      "start": 59127,
+      "end": 59134,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 59136,
+      "end": 59150,
+      "label": "PER"
+    },
+    {
+      "text": "palais des Tournelles",
+      "start": 59347,
+      "end": 59368,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Paul",
+      "start": 59383,
+      "end": 59393,
+      "label": "PER"
+    },
+    {
+      "text": "Cerisaie",
+      "start": 59586,
+      "end": 59594,
+      "label": "PER"
+    },
+    {
+      "text": "Beautreillis",
+      "start": 59596,
+      "end": 59608,
+      "label": "PER"
+    },
+    {
+      "text": "Lions",
+      "start": 59614,
+      "end": 59619,
+      "label": "ORG"
+    },
+    {
+      "text": "Oscar",
+      "start": 59856,
+      "end": 59861,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 59915,
+      "end": 59920,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 60169,
+      "end": 60175,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 60196,
+      "end": 60201,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 60203,
+      "end": 60212,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empire",
+      "start": 60463,
+      "end": 60471,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 60595,
+      "end": 60604,
+      "label": "PER"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 60984,
+      "end": 60998,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Clapart",
+      "start": 61267,
+      "end": 61283,
+      "label": "PER"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 61807,
+      "end": 61821,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 61924,
+      "end": 61933,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 62103,
+      "end": 62112,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 62136,
+      "end": 62141,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 62267,
+      "end": 62276,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 62447,
+      "end": 62454,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 62569,
+      "end": 62575,
+      "label": "PER"
+    },
+    {
+      "text": "Bien",
+      "start": 63339,
+      "end": 63343,
+      "label": "LOC"
+    },
+    {
+      "text": "Grâces",
+      "start": 63379,
+      "end": 63385,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 63434,
+      "end": 63440,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 63659,
+      "end": 63669,
+      "label": "MISC"
+    },
+    {
+      "text": "Napoléon",
+      "start": 63812,
+      "end": 63820,
+      "label": "PER"
+    },
+    {
+      "text": "Husson",
+      "start": 63853,
+      "end": 63859,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 63939,
+      "end": 63944,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Husson",
+      "start": 63966,
+      "end": 63979,
+      "label": "PER"
+    },
+    {
+      "text": "madame Husson",
+      "start": 64021,
+      "end": 64034,
+      "label": "PER"
+    },
+    {
+      "text": "la France",
+      "start": 64148,
+      "end": 64157,
+      "label": "LOC"
+    },
+    {
+      "text": "Agée",
+      "start": 64178,
+      "end": 64182,
+      "label": "PER"
+    },
+    {
+      "text": "madame Husson",
+      "start": 64202,
+      "end": 64215,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 64259,
+      "end": 64266,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 64488,
+      "end": 64498,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 64531,
+      "end": 64538,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Husson",
+      "start": 64613,
+      "end": 64626,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 64829,
+      "end": 64836,
+      "label": "LOC"
+    },
+    {
+      "text": "Bureau des Finances",
+      "start": 64862,
+      "end": 64881,
+      "label": "ORG"
+    },
+    {
+      "text": "Moreau",
+      "start": 64967,
+      "end": 64973,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 64990,
+      "end": 65005,
+      "label": "PER"
+    },
+    {
+      "text": "madame Husson",
+      "start": 65061,
+      "end": 65074,
+      "label": "PER"
+    },
+    {
+      "text": "MADAME",
+      "start": 65151,
+      "end": 65157,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 65167,
+      "end": 65177,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 65214,
+      "end": 65221,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 65322,
+      "end": 65332,
+      "label": "PER"
+    },
+    {
+      "text": "Aspasie",
+      "start": 65347,
+      "end": 65354,
+      "label": "LOC"
+    },
+    {
+      "text": "Directoire",
+      "start": 65358,
+      "end": 65368,
+      "label": "MISC"
+    },
+    {
+      "text": "Clapart",
+      "start": 65464,
+      "end": 65471,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 65490,
+      "end": 65505,
+      "label": "PER"
+    },
+    {
+      "text": "Bureaux de la Ville de Paris",
+      "start": 65516,
+      "end": 65544,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar Husson",
+      "start": 65646,
+      "end": 65658,
+      "label": "PER"
+    },
+    {
+      "text": "la Ville de",
+      "start": 65683,
+      "end": 65694,
+      "label": "LOC"
+    },
+    {
+      "text": "Henri IV",
+      "start": 65712,
+      "end": 65720,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 65741,
+      "end": 65750,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Cerisaie",
+      "start": 65752,
+      "end": 65770,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 65842,
+      "end": 65847,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 66038,
+      "end": 66043,
+      "label": "PER"
+    },
+    {
+      "text": "Clapart",
+      "start": 66150,
+      "end": 66157,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 66282,
+      "end": 66296,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar au comte",
+      "start": 66447,
+      "end": 66461,
+      "label": "MISC"
+    },
+    {
+      "text": "Diable",
+      "start": 66515,
+      "end": 66521,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 66527,
+      "end": 66531,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 66634,
+      "end": 66639,
+      "label": "MISC"
+    },
+    {
+      "text": "MADAME",
+      "start": 66694,
+      "end": 66700,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Empereur",
+      "start": 66710,
+      "end": 66720,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 67291,
+      "end": 67296,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 67799,
+      "end": 67804,
+      "label": "LOC"
+    },
+    {
+      "text": "Moreau",
+      "start": 67894,
+      "end": 67900,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 67992,
+      "end": 68001,
+      "label": "PER"
+    },
+    {
+      "text": "Moreau",
+      "start": 68103,
+      "end": 68109,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 68341,
+      "end": 68350,
+      "label": "PER"
+    },
+    {
+      "text": "Barrières",
+      "start": 68616,
+      "end": 68625,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 68688,
+      "end": 68697,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 68946,
+      "end": 68955,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 68983,
+      "end": 68989,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 69026,
+      "end": 69031,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Moreau",
+      "start": 69190,
+      "end": 69203,
+      "label": "PER"
+    },
+    {
+      "text": "Belleville",
+      "start": 69292,
+      "end": 69302,
+      "label": "LOC"
+    },
+    {
+      "text": "Cardot",
+      "start": 69318,
+      "end": 69324,
+      "label": "LOC"
+    },
+    {
+      "text": "Songe",
+      "start": 69412,
+      "end": 69417,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Moreau",
+      "start": 69436,
+      "end": 69449,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 69492,
+      "end": 69497,
+      "label": "MISC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 69654,
+      "end": 69667,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 69671,
+      "end": 69675,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 69803,
+      "end": 69814,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 69829,
+      "end": 69834,
+      "label": "MISC"
+    },
+    {
+      "text": "Tiens",
+      "start": 69894,
+      "end": 69899,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 70080,
+      "end": 70085,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar le monde entier",
+      "start": 70530,
+      "end": 70551,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 70639,
+      "end": 70644,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 70742,
+      "end": 70756,
+      "label": "PER"
+    },
+    {
+      "text": "Qu'as tu donc",
+      "start": 70853,
+      "end": 70866,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 70868,
+      "end": 70873,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 71076,
+      "end": 71081,
+      "label": "MISC"
+    },
+    {
+      "text": "bravade",
+      "start": 71233,
+      "end": 71240,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 71852,
+      "end": 71857,
+      "label": "MISC"
+    },
+    {
+      "text": "Maman",
+      "start": 71954,
+      "end": 71959,
+      "label": "LOC"
+    },
+    {
+      "text": "Écris",
+      "start": 72345,
+      "end": 72350,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Moreau",
+      "start": 72556,
+      "end": 72571,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 72657,
+      "end": 72662,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 72984,
+      "end": 72989,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 73032,
+      "end": 73041,
+      "label": "LOC"
+    },
+    {
+      "text": "Mets toi",
+      "start": 73043,
+      "end": 73051,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 73100,
+      "end": 73105,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 73162,
+      "end": 73167,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 73445,
+      "end": 73450,
+      "label": "PER"
+    },
+    {
+      "text": "Jolie",
+      "start": 73516,
+      "end": 73521,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 73577,
+      "end": 73582,
+      "label": "MISC"
+    },
+    {
+      "text": "Qu'as tu ?",
+      "start": 73611,
+      "end": 73621,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 73634,
+      "end": 73648,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 73650,
+      "end": 73655,
+      "label": "PER"
+    },
+    {
+      "text": "madame Clapart",
+      "start": 73735,
+      "end": 73749,
+      "label": "PER"
+    },
+    {
+      "text": "Aimes",
+      "start": 73823,
+      "end": 73828,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 73933,
+      "end": 73938,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 74027,
+      "end": 74032,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 74207,
+      "end": 74212,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 74799,
+      "end": 74806,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 74870,
+      "end": 74877,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 74894,
+      "end": 74899,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 75575,
+      "end": 75580,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 75835,
+      "end": 75840,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 75880,
+      "end": 75885,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 76127,
+      "end": 76132,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 76173,
+      "end": 76178,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de la Cerisaie",
+      "start": 76373,
+      "end": 76391,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 76467,
+      "end": 76472,
+      "label": "MISC"
+    },
+    {
+      "text": "Moreau",
+      "start": 76616,
+      "end": 76622,
+      "label": "LOC"
+    },
+    {
+      "text": "Ambigu Comique",
+      "start": 76721,
+      "end": 76735,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Empire",
+      "start": 76924,
+      "end": 76932,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 77167,
+      "end": 77172,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 77389,
+      "end": 77394,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 77450,
+      "end": 77455,
+      "label": "MISC"
+    },
+    {
+      "text": "brandebourgs",
+      "start": 78370,
+      "end": 78382,
+      "label": "LOC"
+    },
+    {
+      "text": "Rousseau de Genève",
+      "start": 78653,
+      "end": 78671,
+      "label": "PER"
+    },
+    {
+      "text": "Venture",
+      "start": 78692,
+      "end": 78699,
+      "label": "PER"
+    },
+    {
+      "text": "Bacle",
+      "start": 78703,
+      "end": 78708,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 78716,
+      "end": 78721,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 79069,
+      "end": 79074,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 79096,
+      "end": 79101,
+      "label": "MISC"
+    },
+    {
+      "text": "Libéraux",
+      "start": 79285,
+      "end": 79293,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 79328,
+      "end": 79336,
+      "label": "PER"
+    },
+    {
+      "text": "Rousseau",
+      "start": 79355,
+      "end": 79363,
+      "label": "PER"
+    },
+    {
+      "text": "Tiens",
+      "start": 79437,
+      "end": 79442,
+      "label": "LOC"
+    },
+    {
+      "text": "Opéra",
+      "start": 79482,
+      "end": 79487,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 79526,
+      "end": 79531,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 79565,
+      "end": 79574,
+      "label": "LOC"
+    },
+    {
+      "text": "rue d'Enghien",
+      "start": 79693,
+      "end": 79706,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 79941,
+      "end": 79950,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 80317,
+      "end": 80322,
+      "label": "MISC"
+    },
+    {
+      "text": "Figaro",
+      "start": 81100,
+      "end": 81106,
+      "label": "PER"
+    },
+    {
+      "text": "Vocation",
+      "start": 81386,
+      "end": 81394,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris !",
+      "start": 81901,
+      "end": 81912,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 82572,
+      "end": 82581,
+      "label": "LOC"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 83059,
+      "end": 83072,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 83136,
+      "end": 83145,
+      "label": "PER"
+    },
+    {
+      "text": "Joli !",
+      "start": 83194,
+      "end": 83200,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 83205,
+      "end": 83214,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 83296,
+      "end": 83305,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 83506,
+      "end": 83515,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 83548,
+      "end": 83557,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 83604,
+      "end": 83613,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83681,
+      "end": 83686,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 83776,
+      "end": 83783,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 83826,
+      "end": 83835,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 83839,
+      "end": 83843,
+      "label": "MISC"
+    },
+    {
+      "text": "Rougeot",
+      "start": 84165,
+      "end": 84172,
+      "label": "MISC"
+    },
+    {
+      "text": "Bichette",
+      "start": 84239,
+      "end": 84247,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 84309,
+      "end": 84318,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 84369,
+      "end": 84374,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 84428,
+      "end": 84433,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 84440,
+      "end": 84447,
+      "label": "MISC"
+    },
+    {
+      "text": "Beaumont",
+      "start": 84520,
+      "end": 84528,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 84534,
+      "end": 84543,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 84574,
+      "end": 84581,
+      "label": "MISC"
+    },
+    {
+      "text": "Bichette",
+      "start": 84622,
+      "end": 84630,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 84632,
+      "end": 84639,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 84831,
+      "end": 84836,
+      "label": "MISC"
+    },
+    {
+      "text": "Léger",
+      "start": 84848,
+      "end": 84853,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 84941,
+      "end": 84946,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 84975,
+      "end": 84982,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 85002,
+      "end": 85011,
+      "label": "LOC"
+    },
+    {
+      "text": "Bichette",
+      "start": 85028,
+      "end": 85036,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 85136,
+      "end": 85141,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 85610,
+      "end": 85615,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 85635,
+      "end": 85642,
+      "label": "MISC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 85796,
+      "end": 85807,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 85970,
+      "end": 85976,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 86016,
+      "end": 86025,
+      "label": "LOC"
+    },
+    {
+      "text": "Haoup !",
+      "start": 86096,
+      "end": 86103,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 86137,
+      "end": 86144,
+      "label": "MISC"
+    },
+    {
+      "text": "La Cave",
+      "start": 86197,
+      "end": 86204,
+      "label": "LOC"
+    },
+    {
+      "text": "France",
+      "start": 86271,
+      "end": 86277,
+      "label": "LOC"
+    },
+    {
+      "text": "Mettez",
+      "start": 86318,
+      "end": 86324,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 86343,
+      "end": 86352,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 86409,
+      "end": 86416,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 86464,
+      "end": 86469,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 86486,
+      "end": 86495,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 86537,
+      "end": 86544,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 86555,
+      "end": 86559,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 86666,
+      "end": 86675,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 86887,
+      "end": 86896,
+      "label": "LOC"
+    },
+    {
+      "text": "Rougeot",
+      "start": 87028,
+      "end": 87035,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 87193,
+      "end": 87202,
+      "label": "PER"
+    },
+    {
+      "text": "Lion d'Argent",
+      "start": 87229,
+      "end": 87242,
+      "label": "LOC"
+    },
+    {
+      "text": "rue d'Enghien",
+      "start": 87307,
+      "end": 87320,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 87385,
+      "end": 87389,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 87454,
+      "end": 87463,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 87534,
+      "end": 87543,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 87635,
+      "end": 87644,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 87920,
+      "end": 87925,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 87977,
+      "end": 87986,
+      "label": "PER"
+    },
+    {
+      "text": "rue de l'Échiquier",
+      "start": 88033,
+      "end": 88051,
+      "label": "LOC"
+    },
+    {
+      "text": "Père Léger",
+      "start": 88124,
+      "end": 88134,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 88297,
+      "end": 88304,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 88560,
+      "end": 88564,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecomte",
+      "start": 88639,
+      "end": 88646,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 88666,
+      "end": 88674,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 88691,
+      "end": 88700,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 88790,
+      "end": 88799,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 88840,
+      "end": 88849,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 88894,
+      "end": 88902,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 88906,
+      "end": 88912,
+      "label": "LOC"
+    },
+    {
+      "text": "Lecomte",
+      "start": 88989,
+      "end": 88996,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 89037,
+      "end": 89046,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 89092,
+      "end": 89098,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 89100,
+      "end": 89109,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 89317,
+      "end": 89326,
+      "label": "PER"
+    },
+    {
+      "text": "auguste vieillard",
+      "start": 89468,
+      "end": 89485,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 89508,
+      "end": 89514,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 89518,
+      "end": 89527,
+      "label": "LOC"
+    },
+    {
+      "text": "Les Arts",
+      "start": 89529,
+      "end": 89537,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 89642,
+      "end": 89651,
+      "label": "PER"
+    },
+    {
+      "text": "État",
+      "start": 89694,
+      "end": 89698,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 89772,
+      "end": 89777,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 89781,
+      "end": 89788,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 89840,
+      "end": 89845,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 89932,
+      "end": 89939,
+      "label": "MISC"
+    },
+    {
+      "text": "comte de Sérisy",
+      "start": 89976,
+      "end": 89991,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 90187,
+      "end": 90196,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 90221,
+      "end": 90232,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 90314,
+      "end": 90323,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 90436,
+      "end": 90445,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 90447,
+      "end": 90454,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 90458,
+      "end": 90463,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 90535,
+      "end": 90542,
+      "label": "MISC"
+    },
+    {
+      "text": "Oscar",
+      "start": 90545,
+      "end": 90550,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 90587,
+      "end": 90594,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 90611,
+      "end": 90620,
+      "label": "PER"
+    },
+    {
+      "text": "Parbleu",
+      "start": 90799,
+      "end": 90806,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 90896,
+      "end": 90903,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 90933,
+      "end": 90942,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 90957,
+      "end": 90962,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 90964,
+      "end": 90973,
+      "label": "PER"
+    },
+    {
+      "text": "Bichette",
+      "start": 91007,
+      "end": 91015,
+      "label": "PER"
+    },
+    {
+      "text": "Rougeot",
+      "start": 91019,
+      "end": 91026,
+      "label": "MISC"
+    },
+    {
+      "text": "daim",
+      "start": 92350,
+      "end": 92354,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 92452,
+      "end": 92461,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 92510,
+      "end": 92515,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 92682,
+      "end": 92687,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 92691,
+      "end": 92698,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 92851,
+      "end": 92860,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 92894,
+      "end": 92899,
+      "label": "LOC"
+    },
+    {
+      "text": "Léger",
+      "start": 92919,
+      "end": 92924,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 93039,
+      "end": 93046,
+      "label": "MISC"
+    },
+    {
+      "text": "Alexandre Crottat",
+      "start": 93116,
+      "end": 93133,
+      "label": "PER"
+    },
+    {
+      "text": "Léger",
+      "start": 93142,
+      "end": 93147,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93153,
+      "end": 93162,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 93204,
+      "end": 93215,
+      "label": "LOC"
+    },
+    {
+      "text": "hein",
+      "start": 93253,
+      "end": 93257,
+      "label": "LOC"
+    },
+    {
+      "text": "Ah !",
+      "start": 93347,
+      "end": 93351,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 93427,
+      "end": 93434,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93460,
+      "end": 93469,
+      "label": "LOC"
+    },
+    {
+      "text": "Dix louis pour toi",
+      "start": 93501,
+      "end": 93519,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93616,
+      "end": 93625,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 93641,
+      "end": 93645,
+      "label": "MISC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93671,
+      "end": 93680,
+      "label": "LOC"
+    },
+    {
+      "text": "Sérisy",
+      "start": 93724,
+      "end": 93730,
+      "label": "LOC"
+    },
+    {
+      "text": "Comptez",
+      "start": 93769,
+      "end": 93776,
+      "label": "LOC"
+    },
+    {
+      "text": "Oscar",
+      "start": 93787,
+      "end": 93792,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 93796,
+      "end": 93803,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 93833,
+      "end": 93840,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93842,
+      "end": 93851,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 93861,
+      "end": 93870,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 93887,
+      "end": 93894,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 94045,
+      "end": 94056,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 94134,
+      "end": 94138,
+      "label": "MISC"
+    },
+    {
+      "text": "Léger",
+      "start": 94169,
+      "end": 94174,
+      "label": "PER"
+    },
+    {
+      "text": "Jamais",
+      "start": 94218,
+      "end": 94224,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 94278,
+      "end": 94287,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 94348,
+      "end": 94355,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 94459,
+      "end": 94468,
+      "label": "PER"
+    },
+    {
+      "text": "coucou",
+      "start": 94552,
+      "end": 94558,
+      "label": "LOC"
+    },
+    {
+      "text": "Français",
+      "start": 94570,
+      "end": 94578,
+      "label": "MISC"
+    },
+    {
+      "text": "Charte",
+      "start": 94589,
+      "end": 94595,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 94601,
+      "end": 94608,
+      "label": "MISC"
+    },
+    {
+      "text": "Soyez",
+      "start": 94612,
+      "end": 94617,
+      "label": "ORG"
+    },
+    {
+      "text": "Léger",
+      "start": 94642,
+      "end": 94647,
+      "label": "PER"
+    },
+    {
+      "text": "Chapelle",
+      "start": 94675,
+      "end": 94683,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapelle",
+      "start": 94699,
+      "end": 94707,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 94745,
+      "end": 94756,
+      "label": "LOC"
+    },
+    {
+      "text": "Anglais",
+      "start": 95559,
+      "end": 95566,
+      "label": "LOC"
+    },
+    {
+      "text": "Allemand",
+      "start": 95620,
+      "end": 95628,
+      "label": "LOC"
+    },
+    {
+      "text": "Italiens",
+      "start": 95659,
+      "end": 95667,
+      "label": "LOC"
+    },
+    {
+      "text": "Espagnols",
+      "start": 95705,
+      "end": 95714,
+      "label": "LOC"
+    },
+    {
+      "text": "Russes",
+      "start": 95754,
+      "end": 95760,
+      "label": "LOC"
+    },
+    {
+      "text": "de France",
+      "start": 95833,
+      "end": 95842,
+      "label": "LOC"
+    },
+    {
+      "text": "babillard",
+      "start": 95860,
+      "end": 95869,
+      "label": "PER"
+    },
+    {
+      "text": "Police",
+      "start": 96064,
+      "end": 96070,
+      "label": "ORG"
+    },
+    {
+      "text": "Tribune",
+      "start": 96111,
+      "end": 96118,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 96234,
+      "end": 96241,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 96344,
+      "end": 96351,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 96553,
+      "end": 96562,
+      "label": "PER"
+    },
+    {
+      "text": "Oscar",
+      "start": 96584,
+      "end": 96589,
+      "label": "MISC"
+    },
+    {
+      "text": "Voyons",
+      "start": 96751,
+      "end": 96757,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 96794,
+      "end": 96803,
+      "label": "LOC"
+    },
+    {
+      "text": "Chapelle",
+      "start": 96821,
+      "end": 96829,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Denis",
+      "start": 96859,
+      "end": 96870,
+      "label": "LOC"
+    },
+    {
+      "text": "Étienne",
+      "start": 96901,
+      "end": 96908,
+      "label": "PER"
+    },
+    {
+      "text": "Béranger",
+      "start": 96912,
+      "end": 96920,
+      "label": "PER"
+    },
+    {
+      "text": "Carbonaro",
+      "start": 96988,
+      "end": 96997,
+      "label": "LOC"
+    },
+    {
+      "text": "Ney",
+      "start": 97079,
+      "end": 97082,
+      "label": "PER"
+    },
+    {
+      "text": "Bah !",
+      "start": 97088,
+      "end": 97093,
+      "label": "MISC"
+    },
+    {
+      "text": "Ça",
+      "start": 97150,
+      "end": 97152,
+      "label": "MISC"
+    },
+    {
+      "text": "Champ d'Asile",
+      "start": 97192,
+      "end": 97205,
+      "label": "LOC"
+    },
+    {
+      "text": "Alexandre",
+      "start": 97371,
+      "end": 97380,
+      "label": "PER"
+    },
+    {
+      "text": "Cousin",
+      "start": 97406,
+      "end": 97412,
+      "label": "LOC"
+    },
+    {
+      "text": "Cours de la Sorbonne",
+      "start": 97568,
+      "end": 97588,
+      "label": "MISC"
+    },
+    {
+      "text": "Anglais",
+      "start": 97666,
+      "end": 97673,
+      "label": "MISC"
+    },
+    {
+      "text": "Byron",
+      "start": 97701,
+      "end": 97706,
+      "label": "PER"
+    },
+    {
+      "text": "Sacristi",
+      "start": 97730,
+      "end": 97738,
+      "label": "LOC"
+    },
+    {
+      "text": "Ali",
+      "start": 97896,
+      "end": 97899,
+      "label": "PER"
+    },
+    {
+      "text": "Janina !",
+      "start": 97910,
+      "end": 97918,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 98083,
+      "end": 98092,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 98096,
+      "end": 98104,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 98239,
+      "end": 98245,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 98261,
+      "end": 98270,
+      "label": "LOC"
+    },
+    {
+      "text": "Levant",
+      "start": 98329,
+      "end": 98335,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 98343,
+      "end": 98350,
+      "label": "MISC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 98416,
+      "end": 98425,
+      "label": "PER"
+    },
+    {
+      "text": "Georges",
+      "start": 98442,
+      "end": 98449,
+      "label": "MISC"
+    },
+    {
+      "text": "Levant",
+      "start": 98468,
+      "end": 98474,
+      "label": "LOC"
+    },
+    {
+      "text": "Georges",
+      "start": 98499,
+      "end": 98506,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 98641,
+      "end": 98649,
+      "label": "PER"
+    },
+    {
+      "text": "Levant",
+      "start": 98659,
+      "end": 98665,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 98672,
+      "end": 98681,
+      "label": "PER"
+    },
+    {
+      "text": "Ponant",
+      "start": 98767,
+      "end": 98773,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 98848,
+      "end": 98857,
+      "label": "PER"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 99052,
+      "end": 99061,
+      "label": "LOC"
+    },
+    {
+      "text": "Allez",
+      "start": 99075,
+      "end": 99080,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierrotin",
+      "start": 99082,
+      "end": 99091,
+      "label": "LOC"
+    },
+    {
+      "text": "Mistigris",
+      "start": 99100,
+      "end": 99109,
+      "label": "PER"
+    },
+    {
+      "text": "Sérisy",
+      "start": 99189,
+      "end": 99195,
+      "label": "LOC"
+    },
+    {
+      "text": "Peste",
+      "start": 99310,
+      "end": 99315,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris",
+      "start": 99343,
+      "end": 99352,
+      "label": "PER"
+    },
+    {
+      "text": "Mistigris !",
+      "start": 99356,
+      "end": 99367,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 99474,
+      "end": 99481,
+      "label": "MISC"
+    },
+    {
+      "text": "Orient",
+      "start": 99508,
+      "end": 99514,
+      "label": "MISC"
+    },
+    {
+      "text": "Égypte",
+      "start": 99545,
+      "end": 99551,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce",
+      "start": 99564,
+      "end": 99569,
+      "label": "LOC"
+    },
+    {
+      "text": "Ali",
+      "start": 99584,
+      "end": 99587,
+      "label": "PER"
+    },
+    {
+      "text": "Janina",
+      "start": 99598,
+      "end": 99604,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 99785,
+      "end": 99789,
+      "label": "MISC"
+    },
+    {
+      "text": "Georges",
+      "start": 99885,
+      "end": 99892,
+      "label": "MISC"
+    }
+  ]
+}

@@ -1,0 +1,2848 @@
+{
+  "entities": [
+    {
+      "text": "GOBSECK",
+      "start": 0,
+      "end": 7,
+      "label": "ORG"
+    },
+    {
+      "text": "BARON BARCHOU",
+      "start": 29,
+      "end": 42,
+      "label": "MISC"
+    },
+    {
+      "text": "PENHOEN",
+      "start": 46,
+      "end": 53,
+      "label": "MISC"
+    },
+    {
+      "text": "Vendôme",
+      "start": 80,
+      "end": 87,
+      "label": "LOC"
+    },
+    {
+      "text": "De viris !",
+      "start": 264,
+      "end": 274,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 607,
+      "end": 613,
+      "label": "ORG"
+    },
+    {
+      "text": "Camille",
+      "start": 1195,
+      "end": 1202,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 1253,
+      "end": 1260,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 1340,
+      "end": 1347,
+      "label": "LOC"
+    },
+    {
+      "text": "Restaud",
+      "start": 1597,
+      "end": 1604,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 1678,
+      "end": 1684,
+      "label": "MISC"
+    },
+    {
+      "text": "Restaud",
+      "start": 2129,
+      "end": 2136,
+      "label": "PER"
+    },
+    {
+      "text": "Grandlieu",
+      "start": 2272,
+      "end": 2281,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille",
+      "start": 2592,
+      "end": 2599,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 2639,
+      "end": 2647,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 2741,
+      "end": 2760,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 2810,
+      "end": 2818,
+      "label": "PER"
+    },
+    {
+      "text": "madame la vicomtesse",
+      "start": 2836,
+      "end": 2856,
+      "label": "PER"
+    },
+    {
+      "text": "Ernest de Restaud",
+      "start": 2964,
+      "end": 2981,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 3008,
+      "end": 3015,
+      "label": "PER"
+    },
+    {
+      "text": "Commencez",
+      "start": 3017,
+      "end": 3026,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 3048,
+      "end": 3056,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 3066,
+      "end": 3085,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 3281,
+      "end": 3294,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3343,
+      "end": 3348,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame de Grandlieu",
+      "start": 3485,
+      "end": 3504,
+      "label": "PER"
+    },
+    {
+      "text": "France",
+      "start": 3517,
+      "end": 3523,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3568,
+      "end": 3573,
+      "label": "LOC"
+    },
+    {
+      "text": "Louis XVIII",
+      "start": 3632,
+      "end": 3643,
+      "label": "PER"
+    },
+    {
+      "text": "Liste Civile",
+      "start": 3664,
+      "end": 3676,
+      "label": "ORG"
+    },
+    {
+      "text": "hôtel de Grandlieu",
+      "start": 3818,
+      "end": 3836,
+      "label": "LOC"
+    },
+    {
+      "text": "forêt de Grandlieu",
+      "start": 4059,
+      "end": 4077,
+      "label": "LOC"
+    },
+    {
+      "text": "canal d'Orléans",
+      "start": 4133,
+      "end": 4148,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 4314,
+      "end": 4333,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 4600,
+      "end": 4619,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Germain",
+      "start": 4695,
+      "end": 4708,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel de Grandlieu",
+      "start": 5005,
+      "end": 5023,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 5211,
+      "end": 5230,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 5292,
+      "end": 5300,
+      "label": "PER"
+    },
+    {
+      "text": "Ernest de Restaud",
+      "start": 5350,
+      "end": 5367,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 5413,
+      "end": 5421,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 5454,
+      "end": 5461,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 5517,
+      "end": 5536,
+      "label": "PER"
+    },
+    {
+      "text": "Chaussée d'Antin",
+      "start": 5569,
+      "end": 5585,
+      "label": "LOC"
+    },
+    {
+      "text": "Camille",
+      "start": 5708,
+      "end": 5715,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 5920,
+      "end": 5927,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 6242,
+      "end": 6249,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle de Grandlieu",
+      "start": 6409,
+      "end": 6434,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 6579,
+      "end": 6585,
+      "label": "ORG"
+    },
+    {
+      "text": "Camille",
+      "start": 6594,
+      "end": 6601,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 6656,
+      "end": 6664,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 6682,
+      "end": 6689,
+      "label": "PER"
+    },
+    {
+      "text": "Ernest de Restaud",
+      "start": 6810,
+      "end": 6827,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 6906,
+      "end": 6914,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 7248,
+      "end": 7256,
+      "label": "PER"
+    },
+    {
+      "text": "Saisirez",
+      "start": 7625,
+      "end": 7633,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 7938,
+      "end": 7948,
+      "label": "PER"
+    },
+    {
+      "text": "Rembrandt",
+      "start": 8330,
+      "end": 8339,
+      "label": "PER"
+    },
+    {
+      "text": "Metzu",
+      "start": 8347,
+      "end": 8352,
+      "label": "PER"
+    },
+    {
+      "text": "Fontenelle",
+      "start": 9293,
+      "end": 9303,
+      "label": "PER"
+    },
+    {
+      "text": "Bas de Cuir",
+      "start": 10021,
+      "end": 10032,
+      "label": "LOC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 10235,
+      "end": 10247,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 10330,
+      "end": 10335,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 11446,
+      "end": 11452,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 11503,
+      "end": 11508,
+      "label": "LOC"
+    },
+    {
+      "text": "napoléon",
+      "start": 11645,
+      "end": 11653,
+      "label": "PER"
+    },
+    {
+      "text": "Vivrais",
+      "start": 11875,
+      "end": 11882,
+      "label": "LOC"
+    },
+    {
+      "text": "Sterne",
+      "start": 12181,
+      "end": 12187,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 12241,
+      "end": 12248,
+      "label": "PER"
+    },
+    {
+      "text": "Anvers",
+      "start": 12412,
+      "end": 12418,
+      "label": "LOC"
+    },
+    {
+      "text": "Juive",
+      "start": 12426,
+      "end": 12431,
+      "label": "MISC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 12440,
+      "end": 12450,
+      "label": "LOC"
+    },
+    {
+      "text": "Jean Esther Van Gobseck",
+      "start": 12466,
+      "end": 12489,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 12510,
+      "end": 12515,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandaise",
+      "start": 12569,
+      "end": 12580,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandaise",
+      "start": 12880,
+      "end": 12891,
+      "label": "PER"
+    },
+    {
+      "text": "Sara Van Gobseck",
+      "start": 12912,
+      "end": 12928,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 13471,
+      "end": 13476,
+      "label": "LOC"
+    },
+    {
+      "text": "M. de Lally",
+      "start": 13916,
+      "end": 13927,
+      "label": "PER"
+    },
+    {
+      "text": "Kergarouët",
+      "start": 13935,
+      "end": 13945,
+      "label": "PER"
+    },
+    {
+      "text": "M. d'Estaing",
+      "start": 13947,
+      "end": 13959,
+      "label": "PER"
+    },
+    {
+      "text": "Suffren",
+      "start": 13974,
+      "end": 13981,
+      "label": "LOC"
+    },
+    {
+      "text": "M. de Portenduère",
+      "start": 13983,
+      "end": 14000,
+      "label": "PER"
+    },
+    {
+      "text": "Cornwallis",
+      "start": 14007,
+      "end": 14017,
+      "label": "PER"
+    },
+    {
+      "text": "lord Hastings",
+      "start": 14019,
+      "end": 14032,
+      "label": "PER"
+    },
+    {
+      "text": "Tippo Saeb",
+      "start": 14045,
+      "end": 14055,
+      "label": "LOC"
+    },
+    {
+      "text": "Tippo Saeb",
+      "start": 14059,
+      "end": 14069,
+      "label": "LOC"
+    },
+    {
+      "text": "Savoyard",
+      "start": 14083,
+      "end": 14091,
+      "label": "PER"
+    },
+    {
+      "text": "Madhadjy Sindiah",
+      "start": 14104,
+      "end": 14120,
+      "label": "PER"
+    },
+    {
+      "text": "Delhy",
+      "start": 14132,
+      "end": 14137,
+      "label": "LOC"
+    },
+    {
+      "text": "Marhattes",
+      "start": 14183,
+      "end": 14192,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor Hughes",
+      "start": 14259,
+      "end": 14272,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Thomas",
+      "start": 14341,
+      "end": 14353,
+      "label": "PER"
+    },
+    {
+      "text": "Buenos Ayres",
+      "start": 14494,
+      "end": 14506,
+      "label": "LOC"
+    },
+    {
+      "text": "Indes",
+      "start": 14626,
+      "end": 14631,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Amérique",
+      "start": 14638,
+      "end": 14648,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 15557,
+      "end": 15564,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 15991,
+      "end": 15995,
+      "label": "MISC"
+    },
+    {
+      "text": "Banque",
+      "start": 16148,
+      "end": 16154,
+      "label": "ORG"
+    },
+    {
+      "text": "Bonjour",
+      "start": 16264,
+      "end": 16271,
+      "label": "MISC"
+    },
+    {
+      "text": "Méridional",
+      "start": 16459,
+      "end": 16469,
+      "label": "LOC"
+    },
+    {
+      "text": "Victime",
+      "start": 16645,
+      "end": 16652,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 16960,
+      "end": 16964,
+      "label": "LOC"
+    },
+    {
+      "text": "Croyez",
+      "start": 17327,
+      "end": 17333,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 17827,
+      "end": 17833,
+      "label": "MISC"
+    },
+    {
+      "text": "Gardez",
+      "start": 17866,
+      "end": 17872,
+      "label": "ORG"
+    },
+    {
+      "text": "l'Asie",
+      "start": 18381,
+      "end": 18387,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 18419,
+      "end": 18424,
+      "label": "LOC"
+    },
+    {
+      "text": "Açores",
+      "start": 18465,
+      "end": 18471,
+      "label": "LOC"
+    },
+    {
+      "text": "L'OR",
+      "start": 19044,
+      "end": 19048,
+      "label": "ORG"
+    },
+    {
+      "text": "Parisiens",
+      "start": 20813,
+      "end": 20822,
+      "label": "LOC"
+    },
+    {
+      "text": "Art ou la Science, la Passion",
+      "start": 21250,
+      "end": 21279,
+      "label": "MISC"
+    },
+    {
+      "text": "Calme",
+      "start": 21286,
+      "end": 21291,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Humanité",
+      "start": 21589,
+      "end": 21599,
+      "label": "ORG"
+    },
+    {
+      "text": "Écoutez",
+      "start": 21692,
+      "end": 21699,
+      "label": "LOC"
+    },
+    {
+      "text": "tringle",
+      "start": 21906,
+      "end": 21913,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22272,
+      "end": 22277,
+      "label": "LOC"
+    },
+    {
+      "text": "lorgnon",
+      "start": 22484,
+      "end": 22491,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 22574,
+      "end": 22579,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny Malvaut",
+      "start": 23035,
+      "end": 23048,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 23163,
+      "end": 23169,
+      "label": "ORG"
+    },
+    {
+      "text": "Helder",
+      "start": 23471,
+      "end": 23477,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny rue Montmartre",
+      "start": 23485,
+      "end": 23505,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 23710,
+      "end": 23717,
+      "label": "ORG"
+    },
+    {
+      "text": "Je suis là comme un vengeur",
+      "start": 24059,
+      "end": 24086,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame la comtesse",
+      "start": 24154,
+      "end": 24172,
+      "label": "PER"
+    },
+    {
+      "text": "A midi",
+      "start": 24247,
+      "end": 24253,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame la comtesse",
+      "start": 24257,
+      "end": 24275,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 24375,
+      "end": 24382,
+      "label": "LOC"
+    },
+    {
+      "text": "Nécessité",
+      "start": 24623,
+      "end": 24632,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Montmartre",
+      "start": 24642,
+      "end": 24656,
+      "label": "LOC"
+    },
+    {
+      "text": "brun",
+      "start": 24917,
+      "end": 24921,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle Fanny Malvaut",
+      "start": 24934,
+      "end": 24960,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 25325,
+      "end": 25331,
+      "label": "PER"
+    },
+    {
+      "text": "Entrez",
+      "start": 25546,
+      "end": 25552,
+      "label": "PER"
+    },
+    {
+      "text": "Combien",
+      "start": 25647,
+      "end": 25654,
+      "label": "PER"
+    },
+    {
+      "text": "cachemire",
+      "start": 25754,
+      "end": 25763,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantale",
+      "start": 27717,
+      "end": 27724,
+      "label": "PER"
+    },
+    {
+      "text": "brun",
+      "start": 27905,
+      "end": 27909,
+      "label": "PER"
+    },
+    {
+      "text": "Hérodiades",
+      "start": 28152,
+      "end": 28162,
+      "label": "LOC"
+    },
+    {
+      "text": "Léonard de Vinci",
+      "start": 28182,
+      "end": 28198,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 28573,
+      "end": 28581,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 28688,
+      "end": 28694,
+      "label": "PER"
+    },
+    {
+      "text": "Paie ton luxe",
+      "start": 28844,
+      "end": 28857,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 29385,
+      "end": 29387,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 29406,
+      "end": 29412,
+      "label": "PER"
+    },
+    {
+      "text": "Anastasie",
+      "start": 29636,
+      "end": 29645,
+      "label": "LOC"
+    },
+    {
+      "text": "Pondichéry",
+      "start": 30058,
+      "end": 30068,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 30434,
+      "end": 30442,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 30635,
+      "end": 30641,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 30932,
+      "end": 30937,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 31304,
+      "end": 31312,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 31401,
+      "end": 31419,
+      "label": "PER"
+    },
+    {
+      "text": "Montmartre",
+      "start": 31978,
+      "end": 31988,
+      "label": "LOC"
+    },
+    {
+      "text": "mademoiselle Fanny",
+      "start": 31995,
+      "end": 32013,
+      "label": "PER"
+    },
+    {
+      "text": "Fanny",
+      "start": 32295,
+      "end": 32300,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 32978,
+      "end": 32990,
+      "label": "PER"
+    },
+    {
+      "text": "buis",
+      "start": 33704,
+      "end": 33708,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny Malvaut",
+      "start": 34222,
+      "end": 34235,
+      "label": "PER"
+    },
+    {
+      "text": "croyez",
+      "start": 34505,
+      "end": 34511,
+      "label": "PER"
+    },
+    {
+      "text": "la Seine",
+      "start": 34778,
+      "end": 34786,
+      "label": "LOC"
+    },
+    {
+      "text": "Dimanche",
+      "start": 35083,
+      "end": 35091,
+      "label": "PER"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 35370,
+      "end": 35378,
+      "label": "PER"
+    },
+    {
+      "text": "Vergniaud",
+      "start": 35380,
+      "end": 35389,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 35860,
+      "end": 35864,
+      "label": "MISC"
+    },
+    {
+      "text": "Plaisir",
+      "start": 36228,
+      "end": 36235,
+      "label": "MISC"
+    },
+    {
+      "text": "Pouvoir",
+      "start": 36241,
+      "end": 36248,
+      "label": "LOC"
+    },
+    {
+      "text": "le Plaisir",
+      "start": 36252,
+      "end": 36262,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 36326,
+      "end": 36331,
+      "label": "LOC"
+    },
+    {
+      "text": "café Thémis",
+      "start": 36767,
+      "end": 36778,
+      "label": "PER"
+    },
+    {
+      "text": "Pont Neuf",
+      "start": 36788,
+      "end": 36797,
+      "label": "LOC"
+    },
+    {
+      "text": "Banque",
+      "start": 37049,
+      "end": 37055,
+      "label": "LOC"
+    },
+    {
+      "text": "Commerce",
+      "start": 37064,
+      "end": 37072,
+      "label": "MISC"
+    },
+    {
+      "text": "Bourse",
+      "start": 37090,
+      "end": 37096,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Office",
+      "start": 37114,
+      "end": 37126,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 37533,
+      "end": 37538,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 38445,
+      "end": 38450,
+      "label": "LOC"
+    },
+    {
+      "text": "Croyez",
+      "start": 38464,
+      "end": 38470,
+      "label": "MISC"
+    },
+    {
+      "text": "Fanny",
+      "start": 39234,
+      "end": 39239,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 39303,
+      "end": 39309,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 39373,
+      "end": 39381,
+      "label": "PER"
+    },
+    {
+      "text": "Volontiers",
+      "start": 39385,
+      "end": 39395,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 39474,
+      "end": 39493,
+      "label": "PER"
+    },
+    {
+      "text": "Sardanapale",
+      "start": 39508,
+      "end": 39519,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 39530,
+      "end": 39538,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 39597,
+      "end": 39604,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 39661,
+      "end": 39668,
+      "label": "MISC"
+    },
+    {
+      "text": "Restaud",
+      "start": 39748,
+      "end": 39755,
+      "label": "PER"
+    },
+    {
+      "text": "Fanny Malvaut",
+      "start": 39843,
+      "end": 39856,
+      "label": "PER"
+    },
+    {
+      "text": "Buvez",
+      "start": 40056,
+      "end": 40061,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 40081,
+      "end": 40089,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 40192,
+      "end": 40198,
+      "label": "LOC"
+    },
+    {
+      "text": "Hollandais",
+      "start": 40368,
+      "end": 40378,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 40407,
+      "end": 40415,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 40441,
+      "end": 40446,
+      "label": "ORG"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 40988,
+      "end": 41000,
+      "label": "LOC"
+    },
+    {
+      "text": "Études",
+      "start": 41763,
+      "end": 41769,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi, le septième enfant d'un petit bourgeois de Noyon",
+      "start": 42107,
+      "end": 42160,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 42257,
+      "end": 42264,
+      "label": "MISC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 42416,
+      "end": 42428,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 42731,
+      "end": 42735,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 42908,
+      "end": 42915,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé !",
+      "start": 43100,
+      "end": 43104,
+      "label": "MISC"
+    },
+    {
+      "text": "Étude",
+      "start": 43169,
+      "end": 43174,
+      "label": "MISC"
+    },
+    {
+      "text": "Écoutez",
+      "start": 43520,
+      "end": 43527,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 43542,
+      "end": 43549,
+      "label": "PER"
+    },
+    {
+      "text": "Parlez",
+      "start": 43736,
+      "end": 43742,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 44524,
+      "end": 44531,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 44905,
+      "end": 44907,
+      "label": "MISC"
+    },
+    {
+      "text": "Possible",
+      "start": 44919,
+      "end": 44927,
+      "label": "LOC"
+    },
+    {
+      "text": "Ma foi",
+      "start": 44931,
+      "end": 44937,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 45724,
+      "end": 45728,
+      "label": "MISC"
+    },
+    {
+      "text": "Grotius",
+      "start": 45887,
+      "end": 45894,
+      "label": "PER"
+    },
+    {
+      "text": "Grotius",
+      "start": 45911,
+      "end": 45918,
+      "label": "PER"
+    },
+    {
+      "text": "Parbleu !",
+      "start": 46144,
+      "end": 46153,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonsoir",
+      "start": 46343,
+      "end": 46350,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 46367,
+      "end": 46374,
+      "label": "LOC"
+    },
+    {
+      "text": "Werbrust",
+      "start": 46941,
+      "end": 46949,
+      "label": "MISC"
+    },
+    {
+      "text": "Palma",
+      "start": 46951,
+      "end": 46956,
+      "label": "PER"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 46958,
+      "end": 46966,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 47025,
+      "end": 47029,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 47327,
+      "end": 47334,
+      "label": "MISC"
+    },
+    {
+      "text": "Pourvu",
+      "start": 47701,
+      "end": 47707,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 47763,
+      "end": 47770,
+      "label": "PER"
+    },
+    {
+      "text": "Venez",
+      "start": 48360,
+      "end": 48365,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 48377,
+      "end": 48381,
+      "label": "MISC"
+    },
+    {
+      "text": "Moi j'ai mes amis",
+      "start": 48459,
+      "end": 48476,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 48595,
+      "end": 48602,
+      "label": "PER"
+    },
+    {
+      "text": "Bourse",
+      "start": 48613,
+      "end": 48619,
+      "label": "LOC"
+    },
+    {
+      "text": "Donnez",
+      "start": 48787,
+      "end": 48793,
+      "label": "PER"
+    },
+    {
+      "text": "de Champagne",
+      "start": 48837,
+      "end": 48849,
+      "label": "MISC"
+    },
+    {
+      "text": "de Champagne",
+      "start": 49032,
+      "end": 49044,
+      "label": "MISC"
+    },
+    {
+      "text": "Jean Esther Van Gobseck",
+      "start": 49577,
+      "end": 49600,
+      "label": "PER"
+    },
+    {
+      "text": "Combien la jeunesse",
+      "start": 49662,
+      "end": 49681,
+      "label": "MISC"
+    },
+    {
+      "text": "Apprenez",
+      "start": 49694,
+      "end": 49702,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 50012,
+      "end": 50018,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 50192,
+      "end": 50199,
+      "label": "LOC"
+    },
+    {
+      "text": "Fanny Malvaut",
+      "start": 50267,
+      "end": 50280,
+      "label": "PER"
+    },
+    {
+      "text": "Revenons",
+      "start": 50666,
+      "end": 50674,
+      "label": "LOC"
+    },
+    {
+      "text": "Trailles",
+      "start": 50945,
+      "end": 50953,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 51160,
+      "end": 51166,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 51626,
+      "end": 51644,
+      "label": "PER"
+    },
+    {
+      "text": "Anneau",
+      "start": 52004,
+      "end": 52010,
+      "label": "PER"
+    },
+    {
+      "text": "Bagne",
+      "start": 52041,
+      "end": 52046,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime de Trailles",
+      "start": 52067,
+      "end": 52085,
+      "label": "PER"
+    },
+    {
+      "text": "Mirabeau",
+      "start": 52180,
+      "end": 52188,
+      "label": "PER"
+    },
+    {
+      "text": "Pitt",
+      "start": 52193,
+      "end": 52197,
+      "label": "PER"
+    },
+    {
+      "text": "Richelieu",
+      "start": 52202,
+      "end": 52211,
+      "label": "PER"
+    },
+    {
+      "text": "Horn",
+      "start": 52260,
+      "end": 52264,
+      "label": "LOC"
+    },
+    {
+      "text": "Fouquier Tinville",
+      "start": 52270,
+      "end": 52287,
+      "label": "PER"
+    },
+    {
+      "text": "Coignard",
+      "start": 52295,
+      "end": 52303,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 52307,
+      "end": 52311,
+      "label": "MISC"
+    },
+    {
+      "text": "Derville",
+      "start": 52325,
+      "end": 52333,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 52431,
+      "end": 52437,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 52797,
+      "end": 52803,
+      "label": "PER"
+    },
+    {
+      "text": "Trailles",
+      "start": 54242,
+      "end": 54250,
+      "label": "MISC"
+    },
+    {
+      "text": "Grignon",
+      "start": 54543,
+      "end": 54550,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 54676,
+      "end": 54683,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 55600,
+      "end": 55607,
+      "label": "MISC"
+    },
+    {
+      "text": "Trailles",
+      "start": 55679,
+      "end": 55687,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 55697,
+      "end": 55705,
+      "label": "PER"
+    },
+    {
+      "text": "Van Gobseck",
+      "start": 55844,
+      "end": 55855,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 56012,
+      "end": 56020,
+      "label": "PER"
+    },
+    {
+      "text": "Sardanapale",
+      "start": 56145,
+      "end": 56156,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 56340,
+      "end": 56347,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 56406,
+      "end": 56411,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 56582,
+      "end": 56590,
+      "label": "PER"
+    },
+    {
+      "text": "Trailles",
+      "start": 56594,
+      "end": 56602,
+      "label": "MISC"
+    },
+    {
+      "text": "rue des Grès",
+      "start": 56739,
+      "end": 56751,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 56999,
+      "end": 57006,
+      "label": "LOC"
+    },
+    {
+      "text": "Grés",
+      "start": 57084,
+      "end": 57088,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Gobseck",
+      "start": 57351,
+      "end": 57367,
+      "label": "PER"
+    },
+    {
+      "text": "Trailles",
+      "start": 57644,
+      "end": 57652,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 57804,
+      "end": 57811,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 57875,
+      "end": 57882,
+      "label": "PER"
+    },
+    {
+      "text": "Voltaire",
+      "start": 57910,
+      "end": 57918,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre Français",
+      "start": 57952,
+      "end": 57968,
+      "label": "LOC"
+    },
+    {
+      "text": "Ruiner !",
+      "start": 58308,
+      "end": 58316,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 58324,
+      "end": 58331,
+      "label": "PER"
+    },
+    {
+      "text": "Allez",
+      "start": 58353,
+      "end": 58358,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 58460,
+      "end": 58465,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 58629,
+      "end": 58636,
+      "label": "PER"
+    },
+    {
+      "text": "Ronquerolles",
+      "start": 58672,
+      "end": 58684,
+      "label": "LOC"
+    },
+    {
+      "text": "Marsay",
+      "start": 58693,
+      "end": 58699,
+      "label": "LOC"
+    },
+    {
+      "text": "Franchessini",
+      "start": 58705,
+      "end": 58717,
+      "label": "MISC"
+    },
+    {
+      "text": "Vandenesse",
+      "start": 58728,
+      "end": 58738,
+      "label": "PER"
+    },
+    {
+      "text": "Ajuda Pinto",
+      "start": 58744,
+      "end": 58755,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 58812,
+      "end": 58817,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 58915,
+      "end": 58922,
+      "label": "LOC"
+    },
+    {
+      "text": "Carlsbad",
+      "start": 58926,
+      "end": 58934,
+      "label": "LOC"
+    },
+    {
+      "text": "Baden",
+      "start": 58938,
+      "end": 58943,
+      "label": "LOC"
+    },
+    {
+      "text": "Bath",
+      "start": 58947,
+      "end": 58951,
+      "label": "LOC"
+    },
+    {
+      "text": "Vrai",
+      "start": 59003,
+      "end": 59007,
+      "label": "LOC"
+    },
+    {
+      "text": "Possible",
+      "start": 59212,
+      "end": 59220,
+      "label": "LOC"
+    },
+    {
+      "text": "Juste",
+      "start": 59314,
+      "end": 59319,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 59323,
+      "end": 59329,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 59367,
+      "end": 59374,
+      "label": "LOC"
+    },
+    {
+      "text": "Girard",
+      "start": 59496,
+      "end": 59502,
+      "label": "PER"
+    },
+    {
+      "text": "Palma",
+      "start": 59504,
+      "end": 59509,
+      "label": "PER"
+    },
+    {
+      "text": "Werbrust",
+      "start": 59511,
+      "end": 59519,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 59523,
+      "end": 59531,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 59766,
+      "end": 59773,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 59950,
+      "end": 59958,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 59962,
+      "end": 59970,
+      "label": "PER"
+    },
+    {
+      "text": "Mes lettres de change",
+      "start": 60113,
+      "end": 60134,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 60526,
+      "end": 60533,
+      "label": "PER"
+    },
+    {
+      "text": "Werbrust",
+      "start": 60664,
+      "end": 60672,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 60676,
+      "end": 60684,
+      "label": "MISC"
+    },
+    {
+      "text": "Faites moi le plaisir",
+      "start": 60952,
+      "end": 60973,
+      "label": "ORG"
+    },
+    {
+      "text": "Gobseck",
+      "start": 61595,
+      "end": 61602,
+      "label": "PER"
+    },
+    {
+      "text": "Goriot",
+      "start": 61638,
+      "end": 61644,
+      "label": "MISC"
+    },
+    {
+      "text": "Maxime",
+      "start": 61842,
+      "end": 61848,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 62096,
+      "end": 62103,
+      "label": "LOC"
+    },
+    {
+      "text": "Probablement",
+      "start": 62212,
+      "end": 62224,
+      "label": "ORG"
+    },
+    {
+      "text": "Derville",
+      "start": 62673,
+      "end": 62681,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 62724,
+      "end": 62743,
+      "label": "PER"
+    },
+    {
+      "text": "Maures",
+      "start": 63238,
+      "end": 63244,
+      "label": "MISC"
+    },
+    {
+      "text": "Saint Office",
+      "start": 63273,
+      "end": 63285,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 63289,
+      "end": 63297,
+      "label": "PER"
+    },
+    {
+      "text": "Taisez",
+      "start": 63635,
+      "end": 63641,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 63970,
+      "end": 63976,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 64111,
+      "end": 64118,
+      "label": "PER"
+    },
+    {
+      "text": "Beaux diamants !",
+      "start": 64901,
+      "end": 64917,
+      "label": "MISC"
+    },
+    {
+      "text": "Asie",
+      "start": 65019,
+      "end": 65023,
+      "label": "LOC"
+    },
+    {
+      "text": "Golconde",
+      "start": 65033,
+      "end": 65041,
+      "label": "PER"
+    },
+    {
+      "text": "Visapour",
+      "start": 65048,
+      "end": 65056,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 65098,
+      "end": 65105,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 65120,
+      "end": 65125,
+      "label": "LOC"
+    },
+    {
+      "text": "Brésil",
+      "start": 65338,
+      "end": 65344,
+      "label": "LOC"
+    },
+    {
+      "text": "Inde",
+      "start": 65441,
+      "end": 65445,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 65490,
+      "end": 65496,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 66005,
+      "end": 66009,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 66058,
+      "end": 66065,
+      "label": "LOC"
+    },
+    {
+      "text": "Combien",
+      "start": 66223,
+      "end": 66230,
+      "label": "LOC"
+    },
+    {
+      "text": "Cent mille francs",
+      "start": 66248,
+      "end": 66265,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 66314,
+      "end": 66321,
+      "label": "LOC"
+    },
+    {
+      "text": "Dieu",
+      "start": 66467,
+      "end": 66471,
+      "label": "MISC"
+    },
+    {
+      "text": "Faites le réméré",
+      "start": 67036,
+      "end": 67052,
+      "label": "ORG"
+    },
+    {
+      "text": "Gobseck",
+      "start": 67070,
+      "end": 67077,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 67128,
+      "end": 67134,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 67269,
+      "end": 67276,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 67663,
+      "end": 67670,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 68011,
+      "end": 68018,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 68448,
+      "end": 68453,
+      "label": "PER"
+    },
+    {
+      "text": "Anastasie",
+      "start": 68461,
+      "end": 68470,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 68537,
+      "end": 68545,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 68587,
+      "end": 68594,
+      "label": "LOC"
+    },
+    {
+      "text": "Allons",
+      "start": 68620,
+      "end": 68626,
+      "label": "ORG"
+    },
+    {
+      "text": "Banque",
+      "start": 68759,
+      "end": 68765,
+      "label": "LOC"
+    },
+    {
+      "text": "Voltaire",
+      "start": 68864,
+      "end": 68872,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 69019,
+      "end": 69027,
+      "label": "PER"
+    },
+    {
+      "text": "Mes lettres",
+      "start": 69047,
+      "end": 69058,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 69364,
+      "end": 69371,
+      "label": "LOC"
+    },
+    {
+      "text": "Maxime",
+      "start": 69505,
+      "end": 69511,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 69714,
+      "end": 69721,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 69878,
+      "end": 69886,
+      "label": "PER"
+    },
+    {
+      "text": "Trailles",
+      "start": 69890,
+      "end": 69898,
+      "label": "PER"
+    },
+    {
+      "text": "Amen",
+      "start": 70048,
+      "end": 70052,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 70067,
+      "end": 70074,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 70253,
+      "end": 70260,
+      "label": "PER"
+    },
+    {
+      "text": "Werbrust",
+      "start": 70402,
+      "end": 70410,
+      "label": "MISC"
+    },
+    {
+      "text": "Gigonnet",
+      "start": 70414,
+      "end": 70422,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 70461,
+      "end": 70468,
+      "label": "LOC"
+    },
+    {
+      "text": "Voulez",
+      "start": 71214,
+      "end": 71220,
+      "label": "LOC"
+    },
+    {
+      "text": "Merci",
+      "start": 71299,
+      "end": 71304,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 71456,
+      "end": 71463,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 71899,
+      "end": 71907,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 71934,
+      "end": 71941,
+      "label": "LOC"
+    },
+    {
+      "text": "Possible",
+      "start": 71982,
+      "end": 71990,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 71994,
+      "end": 71998,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 72079,
+      "end": 72085,
+      "label": "PER"
+    },
+    {
+      "text": "Trêve",
+      "start": 72329,
+      "end": 72334,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 72560,
+      "end": 72567,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 72864,
+      "end": 72871,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 73280,
+      "end": 73288,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 73529,
+      "end": 73547,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 73666,
+      "end": 73674,
+      "label": "PER"
+    },
+    {
+      "text": "Possible",
+      "start": 73766,
+      "end": 73774,
+      "label": "LOC"
+    },
+    {
+      "text": "Eh !",
+      "start": 73846,
+      "end": 73850,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 73870,
+      "end": 73874,
+      "label": "LOC"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 74044,
+      "end": 74062,
+      "label": "PER"
+    },
+    {
+      "text": "Adieu",
+      "start": 74199,
+      "end": 74204,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 74282,
+      "end": 74290,
+      "label": "PER"
+    },
+    {
+      "text": "Possible",
+      "start": 74358,
+      "end": 74366,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 74552,
+      "end": 74559,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 74884,
+      "end": 74891,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Gobseck",
+      "start": 75100,
+      "end": 75116,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur Gobseck",
+      "start": 75385,
+      "end": 75401,
+      "label": "PER"
+    },
+    {
+      "text": "madame la comtesse",
+      "start": 75621,
+      "end": 75639,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 76083,
+      "end": 76090,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 76265,
+      "end": 76272,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 76504,
+      "end": 76511,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 76650,
+      "end": 76658,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 76674,
+      "end": 76681,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 76880,
+      "end": 76884,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 76897,
+      "end": 76904,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 77263,
+      "end": 77270,
+      "label": "LOC"
+    },
+    {
+      "text": "demanda t",
+      "start": 77658,
+      "end": 77667,
+      "label": "PER"
+    },
+    {
+      "text": "Ça",
+      "start": 77852,
+      "end": 77854,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 77919,
+      "end": 77926,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 78249,
+      "end": 78257,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Grandlieu",
+      "start": 78443,
+      "end": 78462,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 78521,
+      "end": 78527,
+      "label": "PER"
+    },
+    {
+      "text": "Eh !",
+      "start": 78728,
+      "end": 78732,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 78905,
+      "end": 78912,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 78981,
+      "end": 78989,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 79013,
+      "end": 79020,
+      "label": "LOC"
+    },
+    {
+      "text": "Parlez",
+      "start": 79171,
+      "end": 79177,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 79225,
+      "end": 79232,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 79986,
+      "end": 79991,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 80187,
+      "end": 80194,
+      "label": "LOC"
+    },
+    {
+      "text": "Préparez",
+      "start": 81059,
+      "end": 81067,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 81109,
+      "end": 81116,
+      "label": "LOC"
+    },
+    {
+      "text": "Oserais",
+      "start": 81615,
+      "end": 81622,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 81680,
+      "end": 81687,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 82056,
+      "end": 82064,
+      "label": "PER"
+    },
+    {
+      "text": "Voila",
+      "start": 83007,
+      "end": 83012,
+      "label": "PER"
+    },
+    {
+      "text": "Camille",
+      "start": 83014,
+      "end": 83021,
+      "label": "PER"
+    },
+    {
+      "text": "Honte",
+      "start": 83328,
+      "end": 83333,
+      "label": "LOC"
+    },
+    {
+      "text": "Remords",
+      "start": 83338,
+      "end": 83345,
+      "label": "LOC"
+    },
+    {
+      "text": "Misère",
+      "start": 83352,
+      "end": 83358,
+      "label": "PER"
+    },
+    {
+      "text": "Furies entre les mains desquelles doivent infailliblement",
+      "start": 83370,
+      "end": 83427,
+      "label": "MISC"
+    },
+    {
+      "text": "Camille",
+      "start": 83503,
+      "end": 83510,
+      "label": "PER"
+    },
+    {
+      "text": "Camille de Grandlieu",
+      "start": 83676,
+      "end": 83696,
+      "label": "PER"
+    },
+    {
+      "text": "Derville",
+      "start": 83774,
+      "end": 83782,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre Derville",
+      "start": 83906,
+      "end": 83921,
+      "label": "PER"
+    },
+    {
+      "text": "Croyez",
+      "start": 83993,
+      "end": 83999,
+      "label": "PER"
+    },
+    {
+      "text": "Continuez",
+      "start": 84045,
+      "end": 84054,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 84170,
+      "end": 84177,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de",
+      "start": 84205,
+      "end": 84213,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 84214,
+      "end": 84221,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 84413,
+      "end": 84418,
+      "label": "LOC"
+    },
+    {
+      "text": "Restaud",
+      "start": 84768,
+      "end": 84775,
+      "label": "PER"
+    },
+    {
+      "text": "Liban",
+      "start": 85409,
+      "end": 85414,
+      "label": "LOC"
+    },
+    {
+      "text": "Possible",
+      "start": 85480,
+      "end": 85488,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 85494,
+      "end": 85501,
+      "label": "PER"
+    },
+    {
+      "text": "Expliquez",
+      "start": 85607,
+      "end": 85616,
+      "label": "MISC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 85862,
+      "end": 85869,
+      "label": "PER"
+    },
+    {
+      "text": "Helder",
+      "start": 86046,
+      "end": 86052,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 86589,
+      "end": 86595,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 86738,
+      "end": 86745,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 87122,
+      "end": 87129,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 87196,
+      "end": 87202,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 87220,
+      "end": 87227,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 87494,
+      "end": 87500,
+      "label": "PER"
+    },
+    {
+      "text": "Mes",
+      "start": 87746,
+      "end": 87749,
+      "label": "ORG"
+    },
+    {
+      "text": "Oserai",
+      "start": 88445,
+      "end": 88451,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 88851,
+      "end": 88858,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de",
+      "start": 88908,
+      "end": 88916,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 88917,
+      "end": 88924,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 89490,
+      "end": 89497,
+      "label": "PER"
+    },
+    {
+      "text": "Madame de Restaud",
+      "start": 89579,
+      "end": 89596,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 89724,
+      "end": 89731,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 89859,
+      "end": 89867,
+      "label": "PER"
+    },
+    {
+      "text": "Trailles",
+      "start": 89871,
+      "end": 89879,
+      "label": "MISC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 89951,
+      "end": 89961,
+      "label": "LOC"
+    },
+    {
+      "text": "Gobseck",
+      "start": 90035,
+      "end": 90042,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 90073,
+      "end": 90080,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 90426,
+      "end": 90432,
+      "label": "ORG"
+    },
+    {
+      "text": "Restaud",
+      "start": 90467,
+      "end": 90474,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 91245,
+      "end": 91252,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 92461,
+      "end": 92468,
+      "label": "PER"
+    },
+    {
+      "text": "Maxime",
+      "start": 92552,
+      "end": 92558,
+      "label": "PER"
+    },
+    {
+      "text": "Ernest",
+      "start": 93115,
+      "end": 93121,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 93650,
+      "end": 93657,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 93874,
+      "end": 93881,
+      "label": "LOC"
+    },
+    {
+      "text": "Derville",
+      "start": 94222,
+      "end": 94230,
+      "label": "PER"
+    },
+    {
+      "text": "Restaud",
+      "start": 96812,
+      "end": 96819,
+      "label": "PER"
+    },
+    {
+      "text": "Gobseck",
+      "start": 96853,
+      "end": 96860,
+      "label": "LOC"
+    },
+    {
+      "text": "Restaud",
+      "start": 98003,
+      "end": 98010,
+      "label": "PER"
+    },
+    {
+      "text": "Jadis",
+      "start": 98527,
+      "end": 98532,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 99731,
+      "end": 99736,
+      "label": "LOC"
+    },
+    {
+      "text": "Ernest",
+      "start": 99859,
+      "end": 99865,
+      "label": "PER"
+    },
+    {
+      "text": "Souffrez",
+      "start": 99943,
+      "end": 99951,
+      "label": "LOC"
+    }
+  ]
+}

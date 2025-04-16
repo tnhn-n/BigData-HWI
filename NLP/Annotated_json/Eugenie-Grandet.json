@@ -1,0 +1,4372 @@
+{
+  "entities": [
+    {
+      "text": "Que votre nom, vous",
+      "start": 32,
+      "end": 51,
+      "label": "MISC"
+    },
+    {
+      "text": "buis",
+      "start": 140,
+      "end": 144,
+      "label": "LOC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 310,
+      "end": 316,
+      "label": "MISC"
+    },
+    {
+      "text": "Saumur",
+      "start": 984,
+      "end": 990,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 1559,
+      "end": 1565,
+      "label": "LOC"
+    },
+    {
+      "text": "Tantôt",
+      "start": 2494,
+      "end": 2500,
+      "label": "PER"
+    },
+    {
+      "text": "Henri IV",
+      "start": 2562,
+      "end": 2570,
+      "label": "PER"
+    },
+    {
+      "text": "Histoire de France",
+      "start": 2678,
+      "end": 2696,
+      "label": "MISC"
+    },
+    {
+      "text": "Entrez",
+      "start": 4159,
+      "end": 4165,
+      "label": "PER"
+    },
+    {
+      "text": "Anjou",
+      "start": 4735,
+      "end": 4740,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 4987,
+      "end": 4995,
+      "label": "LOC"
+    },
+    {
+      "text": "déride",
+      "start": 5479,
+      "end": 5485,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 5581,
+      "end": 5587,
+      "label": "LOC"
+    },
+    {
+      "text": "louis",
+      "start": 5702,
+      "end": 5707,
+      "label": "PER"
+    },
+    {
+      "text": "Angers",
+      "start": 6844,
+      "end": 6850,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 7564,
+      "end": 7571,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 7685,
+      "end": 7692,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 7694,
+      "end": 7710,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 7723,
+      "end": 7729,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 7877,
+      "end": 7893,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 7935,
+      "end": 7942,
+      "label": "PER"
+    },
+    {
+      "text": "République française",
+      "start": 8096,
+      "end": 8116,
+      "label": "LOC"
+    },
+    {
+      "text": "arrondissement de Saumur",
+      "start": 8138,
+      "end": 8162,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 8285,
+      "end": 8292,
+      "label": "PER"
+    },
+    {
+      "text": "louis d'or",
+      "start": 8359,
+      "end": 8369,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 8417,
+      "end": 8422,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 8691,
+      "end": 8697,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 8734,
+      "end": 8741,
+      "label": "PER"
+    },
+    {
+      "text": "district de Saumur",
+      "start": 8958,
+      "end": 8976,
+      "label": "LOC"
+    },
+    {
+      "text": "Consulat",
+      "start": 9383,
+      "end": 9391,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 9405,
+      "end": 9412,
+      "label": "PER"
+    },
+    {
+      "text": "administra",
+      "start": 9427,
+      "end": 9437,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 9478,
+      "end": 9486,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 9504,
+      "end": 9511,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 9513,
+      "end": 9521,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 9575,
+      "end": 9582,
+      "label": "PER"
+    },
+    {
+      "text": "l'Empire",
+      "start": 9697,
+      "end": 9705,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 9707,
+      "end": 9723,
+      "label": "MISC"
+    },
+    {
+      "text": "croix de la Légion d'Honneur",
+      "start": 10197,
+      "end": 10225,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandet",
+      "start": 10268,
+      "end": 10275,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 10414,
+      "end": 10430,
+      "label": "MISC"
+    },
+    {
+      "text": "Providence",
+      "start": 10439,
+      "end": 10449,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de La Gaudinière",
+      "start": 10553,
+      "end": 10576,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 10585,
+      "end": 10599,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 10616,
+      "end": 10623,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 10649,
+      "end": 10663,
+      "label": "MISC"
+    },
+    {
+      "text": "madame Gentillet",
+      "start": 10699,
+      "end": 10715,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 10972,
+      "end": 10986,
+      "label": "MISC"
+    },
+    {
+      "text": "Saumur",
+      "start": 11126,
+      "end": 11132,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 11211,
+      "end": 11227,
+      "label": "MISC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 11951,
+      "end": 11958,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 12012,
+      "end": 12019,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 12044,
+      "end": 12052,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 12080,
+      "end": 12086,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 12182,
+      "end": 12189,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 12206,
+      "end": 12214,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 12348,
+      "end": 12355,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 12546,
+      "end": 12552,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 12595,
+      "end": 12602,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 12655,
+      "end": 12660,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 13258,
+      "end": 13274,
+      "label": "MISC"
+    },
+    {
+      "text": "vieux vigneron",
+      "start": 13404,
+      "end": 13418,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 14020,
+      "end": 14027,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 14418,
+      "end": 14424,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 14509,
+      "end": 14516,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 14623,
+      "end": 14631,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Grandet",
+      "start": 14754,
+      "end": 14770,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 15060,
+      "end": 15068,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 15146,
+      "end": 15153,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 15238,
+      "end": 15244,
+      "label": "LOC"
+    },
+    {
+      "text": "boston",
+      "start": 15566,
+      "end": 15572,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 15642,
+      "end": 15649,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 15694,
+      "end": 15701,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 15715,
+      "end": 15722,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 15854,
+      "end": 15861,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 15878,
+      "end": 15886,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 15924,
+      "end": 15932,
+      "label": "PER"
+    },
+    {
+      "text": "Rotschild",
+      "start": 15948,
+      "end": 15957,
+      "label": "ORG"
+    },
+    {
+      "text": "Laffitte",
+      "start": 15973,
+      "end": 15981,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 15995,
+      "end": 16001,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 16054,
+      "end": 16061,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 16069,
+      "end": 16077,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 16441,
+      "end": 16448,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 16810,
+      "end": 16817,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 16873,
+      "end": 16880,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 16938,
+      "end": 16954,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 17283,
+      "end": 17288,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 17403,
+      "end": 17419,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 18070,
+      "end": 18075,
+      "label": "PER"
+    },
+    {
+      "text": "Révolution",
+      "start": 18580,
+      "end": 18590,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 20311,
+      "end": 20318,
+      "label": "PER"
+    },
+    {
+      "text": "trapu",
+      "start": 20349,
+      "end": 20354,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 20953,
+      "end": 20960,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 21308,
+      "end": 21315,
+      "label": "PER"
+    },
+    {
+      "text": "Attitude",
+      "start": 21337,
+      "end": 21345,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 21556,
+      "end": 21563,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 22212,
+      "end": 22218,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 22397,
+      "end": 22404,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 22476,
+      "end": 22482,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 22521,
+      "end": 22528,
+      "label": "PER"
+    },
+    {
+      "text": "Bonfons",
+      "start": 22538,
+      "end": 22545,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonfons sur Cruchot",
+      "start": 22580,
+      "end": 22599,
+      "label": "MISC"
+    },
+    {
+      "text": "Bonfons",
+      "start": 22623,
+      "end": 22630,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 22683,
+      "end": 22690,
+      "label": "PER"
+    },
+    {
+      "text": "Bonfons",
+      "start": 22901,
+      "end": 22908,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 22910,
+      "end": 22918,
+      "label": "PER"
+    },
+    {
+      "text": "Bonfons",
+      "start": 22987,
+      "end": 22994,
+      "label": "LOC"
+    },
+    {
+      "text": "Boni Fontis",
+      "start": 22996,
+      "end": 23007,
+      "label": "ORG"
+    },
+    {
+      "text": "Cruchot",
+      "start": 23126,
+      "end": 23133,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Martin de Tours",
+      "start": 23161,
+      "end": 23182,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 23242,
+      "end": 23249,
+      "label": "PER"
+    },
+    {
+      "text": "Florence",
+      "start": 23357,
+      "end": 23365,
+      "label": "LOC"
+    },
+    {
+      "text": "Médicis",
+      "start": 23370,
+      "end": 23377,
+      "label": "PER"
+    },
+    {
+      "text": "Médicis",
+      "start": 23394,
+      "end": 23401,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 23407,
+      "end": 23414,
+      "label": "PER"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 23436,
+      "end": 23455,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 23559,
+      "end": 23566,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 23593,
+      "end": 23600,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Eugénie",
+      "start": 23606,
+      "end": 23626,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 23641,
+      "end": 23649,
+      "label": "MISC"
+    },
+    {
+      "text": "Grassins",
+      "start": 23844,
+      "end": 23852,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 23937,
+      "end": 23944,
+      "label": "PER"
+    },
+    {
+      "text": "Talleyrand",
+      "start": 23957,
+      "end": 23967,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 24162,
+      "end": 24169,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 24181,
+      "end": 24189,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie Grandet",
+      "start": 24220,
+      "end": 24235,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 24285,
+      "end": 24291,
+      "label": "LOC"
+    },
+    {
+      "text": "Mademoiselle Grandet",
+      "start": 24293,
+      "end": 24313,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe des Grassins",
+      "start": 24364,
+      "end": 24384,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 24435,
+      "end": 24442,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 24575,
+      "end": 24584,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 24692,
+      "end": 24699,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 24727,
+      "end": 24735,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 24750,
+      "end": 24758,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 24798,
+      "end": 24805,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 24973,
+      "end": 24979,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot de Bonfons",
+      "start": 25106,
+      "end": 25124,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 25246,
+      "end": 25265,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 25306,
+      "end": 25313,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 25322,
+      "end": 25329,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 25441,
+      "end": 25448,
+      "label": "PER"
+    },
+    {
+      "text": "manche",
+      "start": 25566,
+      "end": 25572,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 25598,
+      "end": 25604,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 25663,
+      "end": 25670,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie Grandet de Saumur",
+      "start": 25751,
+      "end": 25776,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 25811,
+      "end": 25818,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 25822,
+      "end": 25827,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchotins",
+      "start": 25871,
+      "end": 25881,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassinistes",
+      "start": 25889,
+      "end": 25901,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandet",
+      "start": 26005,
+      "end": 26012,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 26016,
+      "end": 26021,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet de Saumur",
+      "start": 26174,
+      "end": 26191,
+      "label": "PER"
+    },
+    {
+      "text": "Napoléon",
+      "start": 26254,
+      "end": 26262,
+      "label": "PER"
+    },
+    {
+      "text": "Angers",
+      "start": 26384,
+      "end": 26390,
+      "label": "LOC"
+    },
+    {
+      "text": "Blois",
+      "start": 26393,
+      "end": 26398,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchotins",
+      "start": 26444,
+      "end": 26454,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassinistes",
+      "start": 26496,
+      "end": 26508,
+      "label": "ORG"
+    },
+    {
+      "text": "marquis de Froidfond",
+      "start": 26677,
+      "end": 26697,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 26738,
+      "end": 26745,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 26760,
+      "end": 26767,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 26776,
+      "end": 26783,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 27079,
+      "end": 27086,
+      "label": "PER"
+    },
+    {
+      "text": "Froidfond",
+      "start": 27185,
+      "end": 27194,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 27241,
+      "end": 27248,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 27278,
+      "end": 27284,
+      "label": "LOC"
+    },
+    {
+      "text": "Nantes",
+      "start": 27370,
+      "end": 27376,
+      "label": "LOC"
+    },
+    {
+      "text": "Orléans",
+      "start": 27382,
+      "end": 27389,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 27400,
+      "end": 27407,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 27550,
+      "end": 27556,
+      "label": "LOC"
+    },
+    {
+      "text": "Froidfond",
+      "start": 27658,
+      "end": 27667,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 27938,
+      "end": 27945,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 28211,
+      "end": 28216,
+      "label": "LOC"
+    },
+    {
+      "text": "Saisons",
+      "start": 28633,
+      "end": 28640,
+      "label": "ORG"
+    },
+    {
+      "text": "brune",
+      "start": 28938,
+      "end": 28943,
+      "label": "PER"
+    },
+    {
+      "text": "Jacquemart",
+      "start": 29423,
+      "end": 29433,
+      "label": "PER"
+    },
+    {
+      "text": "Anjou",
+      "start": 30320,
+      "end": 30325,
+      "label": "LOC"
+    },
+    {
+      "text": "Touraine",
+      "start": 30333,
+      "end": 30341,
+      "label": "LOC"
+    },
+    {
+      "text": "Berry",
+      "start": 30348,
+      "end": 30353,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 30588,
+      "end": 30595,
+      "label": "PER"
+    },
+    {
+      "text": "La Fontaine",
+      "start": 31672,
+      "end": 31683,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 32394,
+      "end": 32401,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 32424,
+      "end": 32438,
+      "label": "LOC"
+    },
+    {
+      "text": "Gentillet",
+      "start": 32494,
+      "end": 32503,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 32572,
+      "end": 32577,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 32704,
+      "end": 32711,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 33000,
+      "end": 33007,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie Grandet",
+      "start": 33152,
+      "end": 33167,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 33495,
+      "end": 33502,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 33757,
+      "end": 33769,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 33812,
+      "end": 33818,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 33835,
+      "end": 33842,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 34085,
+      "end": 34092,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 34306,
+      "end": 34318,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 34428,
+      "end": 34440,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 34579,
+      "end": 34586,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 34591,
+      "end": 34603,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 34686,
+      "end": 34693,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 34817,
+      "end": 34823,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 34962,
+      "end": 34969,
+      "label": "PER"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 35027,
+      "end": 35039,
+      "label": "LOC"
+    },
+    {
+      "text": "Forcée",
+      "start": 35496,
+      "end": 35502,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 35574,
+      "end": 35580,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 35672,
+      "end": 35679,
+      "label": "PER"
+    },
+    {
+      "text": "Hercule",
+      "start": 35917,
+      "end": 35924,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 36232,
+      "end": 36237,
+      "label": "LOC"
+    },
+    {
+      "text": "Grande Nanon",
+      "start": 36465,
+      "end": 36477,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 36584,
+      "end": 36589,
+      "label": "PER"
+    },
+    {
+      "text": "Loire",
+      "start": 36686,
+      "end": 36691,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 37135,
+      "end": 37142,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 37181,
+      "end": 37186,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 37371,
+      "end": 37378,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 37471,
+      "end": 37478,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 37529,
+      "end": 37534,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 37634,
+      "end": 37641,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 37856,
+      "end": 37861,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 37916,
+      "end": 37923,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 38175,
+      "end": 38181,
+      "label": "ORG"
+    },
+    {
+      "text": "Nanon",
+      "start": 38195,
+      "end": 38200,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 38489,
+      "end": 38496,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 38574,
+      "end": 38579,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 38715,
+      "end": 38722,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 38884,
+      "end": 38891,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 39078,
+      "end": 39082,
+      "label": "MISC"
+    },
+    {
+      "text": "Vierge Marie",
+      "start": 39114,
+      "end": 39126,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 39139,
+      "end": 39146,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 39204,
+      "end": 39209,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 39491,
+      "end": 39498,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 39673,
+      "end": 39678,
+      "label": "PER"
+    },
+    {
+      "text": "Pauvre Nanon",
+      "start": 39724,
+      "end": 39736,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 39739,
+      "end": 39743,
+      "label": "MISC"
+    },
+    {
+      "text": "Saumur",
+      "start": 39841,
+      "end": 39847,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 40034,
+      "end": 40041,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 40066,
+      "end": 40071,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 40310,
+      "end": 40315,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 41256,
+      "end": 41261,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchotins",
+      "start": 41375,
+      "end": 41385,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassinistes",
+      "start": 41393,
+      "end": 41405,
+      "label": "ORG"
+    },
+    {
+      "text": "Saumur",
+      "start": 41570,
+      "end": 41576,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 41609,
+      "end": 41616,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 41634,
+      "end": 41639,
+      "label": "PER"
+    },
+    {
+      "text": "mademoiselle Eugénie",
+      "start": 41774,
+      "end": 41794,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 41854,
+      "end": 41861,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 41870,
+      "end": 41877,
+      "label": "PER"
+    },
+    {
+      "text": "Bonfons",
+      "start": 41896,
+      "end": 41903,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 41947,
+      "end": 41955,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 41980,
+      "end": 41987,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 42222,
+      "end": 42229,
+      "label": "PER"
+    },
+    {
+      "text": "fête d'Eugénie",
+      "start": 42301,
+      "end": 42315,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 42469,
+      "end": 42483,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 42725,
+      "end": 42732,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 42973,
+      "end": 42987,
+      "label": "MISC"
+    },
+    {
+      "text": "la France",
+      "start": 43151,
+      "end": 43160,
+      "label": "LOC"
+    },
+    {
+      "text": "Berry",
+      "start": 43165,
+      "end": 43170,
+      "label": "LOC"
+    },
+    {
+      "text": "Anjou",
+      "start": 43175,
+      "end": 43180,
+      "label": "LOC"
+    },
+    {
+      "text": "Issoudun",
+      "start": 43512,
+      "end": 43520,
+      "label": "LOC"
+    },
+    {
+      "text": "Clément VII",
+      "start": 43641,
+      "end": 43652,
+      "label": "PER"
+    },
+    {
+      "text": "Catherine de Médicis",
+      "start": 43663,
+      "end": 43683,
+      "label": "PER"
+    },
+    {
+      "text": "Henri II",
+      "start": 43718,
+      "end": 43726,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 43847,
+      "end": 43854,
+      "label": "MISC"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 43980,
+      "end": 43992,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 44043,
+      "end": 44048,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 44152,
+      "end": 44158,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 44176,
+      "end": 44183,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 44320,
+      "end": 44327,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 44531,
+      "end": 44545,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 45004,
+      "end": 45018,
+      "label": "MISC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 45027,
+      "end": 45034,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 45510,
+      "end": 45517,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 45790,
+      "end": 45797,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 45911,
+      "end": 45918,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 45959,
+      "end": 45973,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 46323,
+      "end": 46330,
+      "label": "PER"
+    },
+    {
+      "text": "Hollandais",
+      "start": 46573,
+      "end": 46583,
+      "label": "LOC"
+    },
+    {
+      "text": "Belge",
+      "start": 46590,
+      "end": 46595,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 46621,
+      "end": 46628,
+      "label": "PER"
+    },
+    {
+      "text": "madame Grandet",
+      "start": 46676,
+      "end": 46690,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 46729,
+      "end": 46734,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 47068,
+      "end": 47075,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 47359,
+      "end": 47366,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 47452,
+      "end": 47459,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 47538,
+      "end": 47543,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 47556,
+      "end": 47563,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 47569,
+      "end": 47576,
+      "label": "MISC"
+    },
+    {
+      "text": "Providence",
+      "start": 47657,
+      "end": 47667,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 47742,
+      "end": 47749,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 47751,
+      "end": 47756,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 47823,
+      "end": 47830,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 47961,
+      "end": 47969,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 48054,
+      "end": 48061,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 48124,
+      "end": 48131,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 48163,
+      "end": 48168,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 48174,
+      "end": 48181,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 48184,
+      "end": 48189,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 48244,
+      "end": 48251,
+      "label": "MISC"
+    },
+    {
+      "text": "Ma foi, je l'ai bien gagné",
+      "start": 48336,
+      "end": 48362,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 48368,
+      "end": 48373,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 48519,
+      "end": 48524,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 48531,
+      "end": 48538,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 48594,
+      "end": 48601,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 48697,
+      "end": 48699,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 48737,
+      "end": 48744,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 48750,
+      "end": 48757,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 48898,
+      "end": 48905,
+      "label": "PER"
+    },
+    {
+      "text": "Faut",
+      "start": 49108,
+      "end": 49112,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 49138,
+      "end": 49143,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 49255,
+      "end": 49262,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 49375,
+      "end": 49382,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 49431,
+      "end": 49438,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 49449,
+      "end": 49454,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 49520,
+      "end": 49525,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 49614,
+      "end": 49621,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 49659,
+      "end": 49663,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 49695,
+      "end": 49700,
+      "label": "PER"
+    },
+    {
+      "text": "Excusez",
+      "start": 49726,
+      "end": 49733,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 49751,
+      "end": 49758,
+      "label": "PER"
+    },
+    {
+      "text": "Faites",
+      "start": 49887,
+      "end": 49893,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandet",
+      "start": 49912,
+      "end": 49919,
+      "label": "PER"
+    },
+    {
+      "text": "Charbonnier",
+      "start": 49921,
+      "end": 49932,
+      "label": "LOC"
+    },
+    {
+      "text": "Maire",
+      "start": 49937,
+      "end": 49942,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 50047,
+      "end": 50053,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 50070,
+      "end": 50077,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 50143,
+      "end": 50150,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 50371,
+      "end": 50377,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie honteuse",
+      "start": 50492,
+      "end": 50508,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 50619,
+      "end": 50626,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 50745,
+      "end": 50752,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 50855,
+      "end": 50862,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 50879,
+      "end": 50886,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 51055,
+      "end": 51062,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 51330,
+      "end": 51335,
+      "label": "PER"
+    },
+    {
+      "text": "alluma",
+      "start": 51424,
+      "end": 51430,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 51549,
+      "end": 51556,
+      "label": "PER"
+    },
+    {
+      "text": "grassouillet",
+      "start": 51576,
+      "end": 51588,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 51747,
+      "end": 51755,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 51794,
+      "end": 51801,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 51941,
+      "end": 51948,
+      "label": "PER"
+    },
+    {
+      "text": "Bonfons",
+      "start": 52010,
+      "end": 52017,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 52020,
+      "end": 52027,
+      "label": "PER"
+    },
+    {
+      "text": "Partout",
+      "start": 52031,
+      "end": 52038,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux vigneron",
+      "start": 52052,
+      "end": 52066,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 52283,
+      "end": 52288,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 52388,
+      "end": 52393,
+      "label": "PER"
+    },
+    {
+      "text": "Adam",
+      "start": 52644,
+      "end": 52648,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 52665,
+      "end": 52672,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 52713,
+      "end": 52717,
+      "label": "LOC"
+    },
+    {
+      "text": "Belges",
+      "start": 52934,
+      "end": 52940,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 53051,
+      "end": 53058,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 53127,
+      "end": 53134,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 53192,
+      "end": 53200,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Grandet",
+      "start": 53263,
+      "end": 53277,
+      "label": "PER"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 53289,
+      "end": 53308,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 53731,
+      "end": 53736,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 53767,
+      "end": 53773,
+      "label": "LOC"
+    },
+    {
+      "text": "Austerlitz",
+      "start": 53875,
+      "end": 53885,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 53940,
+      "end": 53947,
+      "label": "PER"
+    },
+    {
+      "text": "Bonjour",
+      "start": 53989,
+      "end": 53996,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 53998,
+      "end": 54005,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 54125,
+      "end": 54132,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 54136,
+      "end": 54148,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 54159,
+      "end": 54166,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 54192,
+      "end": 54199,
+      "label": "PER"
+    },
+    {
+      "text": "Cap",
+      "start": 54384,
+      "end": 54387,
+      "label": "LOC"
+    },
+    {
+      "text": "Europe",
+      "start": 54420,
+      "end": 54426,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 54441,
+      "end": 54460,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 54491,
+      "end": 54498,
+      "label": "MISC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 54534,
+      "end": 54541,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 54716,
+      "end": 54721,
+      "label": "LOC"
+    },
+    {
+      "text": "Droit",
+      "start": 54750,
+      "end": 54755,
+      "label": "ORG"
+    },
+    {
+      "text": "Eugénie",
+      "start": 54818,
+      "end": 54825,
+      "label": "LOC"
+    },
+    {
+      "text": "E. G. gothique",
+      "start": 55004,
+      "end": 55018,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 55097,
+      "end": 55104,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 55314,
+      "end": 55321,
+      "label": "PER"
+    },
+    {
+      "text": "Prends",
+      "start": 55331,
+      "end": 55337,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 55400,
+      "end": 55407,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe des Grassins",
+      "start": 55475,
+      "end": 55495,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 55560,
+      "end": 55568,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 55573,
+      "end": 55581,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 55591,
+      "end": 55598,
+      "label": "PER"
+    },
+    {
+      "text": "Légion d'Honneur",
+      "start": 55678,
+      "end": 55694,
+      "label": "ORG"
+    },
+    {
+      "text": "Cruchot",
+      "start": 55759,
+      "end": 55766,
+      "label": "PER"
+    },
+    {
+      "text": "Parez",
+      "start": 55798,
+      "end": 55803,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 55825,
+      "end": 55844,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 55908,
+      "end": 55915,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 56030,
+      "end": 56037,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 56135,
+      "end": 56142,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 56233,
+      "end": 56241,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 56553,
+      "end": 56560,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 56819,
+      "end": 56826,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 56843,
+      "end": 56851,
+      "label": "LOC"
+    },
+    {
+      "text": "Puisque",
+      "start": 56915,
+      "end": 56922,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 56987,
+      "end": 56994,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 57097,
+      "end": 57104,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 57116,
+      "end": 57121,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 57179,
+      "end": 57184,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 57210,
+      "end": 57218,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 57267,
+      "end": 57274,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 57388,
+      "end": 57395,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 57417,
+      "end": 57422,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 57462,
+      "end": 57470,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 57719,
+      "end": 57727,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 57848,
+      "end": 57856,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 58084,
+      "end": 58092,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 58133,
+      "end": 58140,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 58437,
+      "end": 58444,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 58532,
+      "end": 58551,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 58591,
+      "end": 58598,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 58990,
+      "end": 58995,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 59044,
+      "end": 59051,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 59491,
+      "end": 59498,
+      "label": "PER"
+    },
+    {
+      "text": "Argent",
+      "start": 59669,
+      "end": 59675,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 59848,
+      "end": 59853,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 59857,
+      "end": 59864,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 59978,
+      "end": 59985,
+      "label": "PER"
+    },
+    {
+      "text": "madame Grandet",
+      "start": 60456,
+      "end": 60470,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 60582,
+      "end": 60587,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 60611,
+      "end": 60617,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 60799,
+      "end": 60805,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 60871,
+      "end": 60876,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 60942,
+      "end": 60949,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 60951,
+      "end": 60956,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 61017,
+      "end": 61024,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 61028,
+      "end": 61035,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 61037,
+      "end": 61044,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 61213,
+      "end": 61221,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 61302,
+      "end": 61310,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 61452,
+      "end": 61459,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 61513,
+      "end": 61527,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 61727,
+      "end": 61733,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 61748,
+      "end": 61756,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 61829,
+      "end": 61834,
+      "label": "LOC"
+    },
+    {
+      "text": "Grand Bureau",
+      "start": 62005,
+      "end": 62017,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 62089,
+      "end": 62096,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 62127,
+      "end": 62135,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 62208,
+      "end": 62213,
+      "label": "PER"
+    },
+    {
+      "text": "dit Eugénie",
+      "start": 62230,
+      "end": 62241,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 62340,
+      "end": 62354,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 62388,
+      "end": 62395,
+      "label": "PER"
+    },
+    {
+      "text": "Mademoiselle",
+      "start": 62500,
+      "end": 62512,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 62518,
+      "end": 62525,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 62572,
+      "end": 62579,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 62640,
+      "end": 62648,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 62650,
+      "end": 62657,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 62770,
+      "end": 62774,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 62842,
+      "end": 62849,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 62872,
+      "end": 62877,
+      "label": "PER"
+    },
+    {
+      "text": "Asseyez",
+      "start": 63269,
+      "end": 63276,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 63305,
+      "end": 63312,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 63554,
+      "end": 63561,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 63594,
+      "end": 63599,
+      "label": "LOC"
+    },
+    {
+      "text": "vieux vigneron",
+      "start": 63625,
+      "end": 63639,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 63802,
+      "end": 63809,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 64167,
+      "end": 64174,
+      "label": "LOC"
+    },
+    {
+      "text": "Tours",
+      "start": 64221,
+      "end": 64226,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 64257,
+      "end": 64264,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 64323,
+      "end": 64331,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur Charles",
+      "start": 64383,
+      "end": 64399,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 64438,
+      "end": 64445,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 64449,
+      "end": 64454,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 64695,
+      "end": 64703,
+      "label": "LOC"
+    },
+    {
+      "text": "ajouta t il",
+      "start": 64783,
+      "end": 64794,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 64930,
+      "end": 64938,
+      "label": "LOC"
+    },
+    {
+      "text": "Quarante",
+      "start": 64976,
+      "end": 64984,
+      "label": "LOC"
+    },
+    {
+      "text": "Marquez",
+      "start": 65011,
+      "end": 65018,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 65036,
+      "end": 65044,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 65087,
+      "end": 65095,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 65212,
+      "end": 65217,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 65221,
+      "end": 65228,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles Grandet",
+      "start": 65431,
+      "end": 65446,
+      "label": "PER"
+    },
+    {
+      "text": "Charles Grandet",
+      "start": 65944,
+      "end": 65959,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 66064,
+      "end": 66070,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 66091,
+      "end": 66098,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66102,
+      "end": 66107,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 66121,
+      "end": 66128,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 66130,
+      "end": 66137,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 66434,
+      "end": 66440,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 66460,
+      "end": 66465,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 66628,
+      "end": 66635,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 66746,
+      "end": 66751,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 66929,
+      "end": 66934,
+      "label": "LOC"
+    },
+    {
+      "text": "Buisson",
+      "start": 67119,
+      "end": 67126,
+      "label": "LOC"
+    },
+    {
+      "text": "Annette",
+      "start": 67383,
+      "end": 67390,
+      "label": "PER"
+    },
+    {
+      "text": "Écosse",
+      "start": 67441,
+      "end": 67447,
+      "label": "LOC"
+    },
+    {
+      "text": "Annette",
+      "start": 68134,
+      "end": 68141,
+      "label": "PER"
+    },
+    {
+      "text": "Eaux de Baden",
+      "start": 68218,
+      "end": 68231,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 68233,
+      "end": 68240,
+      "label": "PER"
+    },
+    {
+      "text": "courre",
+      "start": 68302,
+      "end": 68308,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 68406,
+      "end": 68412,
+      "label": "LOC"
+    },
+    {
+      "text": "Froidfond",
+      "start": 68476,
+      "end": 68485,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 68610,
+      "end": 68616,
+      "label": "LOC"
+    },
+    {
+      "text": "Froidfond",
+      "start": 68625,
+      "end": 68634,
+      "label": "PER"
+    },
+    {
+      "text": "Tours",
+      "start": 68842,
+      "end": 68847,
+      "label": "LOC"
+    },
+    {
+      "text": "cachemire",
+      "start": 69157,
+      "end": 69166,
+      "label": "LOC"
+    },
+    {
+      "text": "châle",
+      "start": 69169,
+      "end": 69174,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 69614,
+      "end": 69622,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 69627,
+      "end": 69635,
+      "label": "LOC"
+    },
+    {
+      "text": "Annette",
+      "start": 69883,
+      "end": 69890,
+      "label": "PER"
+    },
+    {
+      "text": "Saumurois",
+      "start": 69962,
+      "end": 69971,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 69984,
+      "end": 69992,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 70186,
+      "end": 70193,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 71206,
+      "end": 71213,
+      "label": "PER"
+    },
+    {
+      "text": "Grassinistes",
+      "start": 71271,
+      "end": 71283,
+      "label": "ORG"
+    },
+    {
+      "text": "Cruchotins",
+      "start": 71291,
+      "end": 71301,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisien",
+      "start": 71334,
+      "end": 71342,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Encyclopédie méthodique",
+      "start": 71560,
+      "end": 71585,
+      "label": "MISC"
+    },
+    {
+      "text": "Moniteur",
+      "start": 71592,
+      "end": 71600,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 71750,
+      "end": 71758,
+      "label": "MISC"
+    },
+    {
+      "text": "Voilà",
+      "start": 72064,
+      "end": 72069,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 72087,
+      "end": 72092,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 72129,
+      "end": 72136,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 72193,
+      "end": 72200,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 72775,
+      "end": 72782,
+      "label": "PER"
+    },
+    {
+      "text": "Westall",
+      "start": 73311,
+      "end": 73318,
+      "label": "PER"
+    },
+    {
+      "text": "Keepsake",
+      "start": 73328,
+      "end": 73336,
+      "label": "MISC"
+    },
+    {
+      "text": "Finden",
+      "start": 73364,
+      "end": 73370,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 73476,
+      "end": 73483,
+      "label": "PER"
+    },
+    {
+      "text": "Écosse",
+      "start": 73555,
+      "end": 73561,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 73646,
+      "end": 73653,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 73742,
+      "end": 73749,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 74002,
+      "end": 74009,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 74021,
+      "end": 74029,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 74208,
+      "end": 74213,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 74241,
+      "end": 74247,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 74313,
+      "end": 74327,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 74335,
+      "end": 74340,
+      "label": "PER"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 74342,
+      "end": 74361,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 74615,
+      "end": 74622,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 74679,
+      "end": 74687,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 74720,
+      "end": 74727,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 74899,
+      "end": 74904,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 75030,
+      "end": 75035,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 75294,
+      "end": 75301,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 75452,
+      "end": 75457,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 75553,
+      "end": 75558,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 75680,
+      "end": 75685,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 75818,
+      "end": 75823,
+      "label": "PER"
+    },
+    {
+      "text": "La Bertellière",
+      "start": 76042,
+      "end": 76056,
+      "label": "MISC"
+    },
+    {
+      "text": "Maman",
+      "start": 76348,
+      "end": 76353,
+      "label": "LOC"
+    },
+    {
+      "text": "Tiens",
+      "start": 76579,
+      "end": 76584,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 76586,
+      "end": 76591,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Grandet",
+      "start": 76682,
+      "end": 76696,
+      "label": "PER"
+    },
+    {
+      "text": "Sèvres",
+      "start": 76744,
+      "end": 76750,
+      "label": "LOC"
+    },
+    {
+      "text": "Froidfond",
+      "start": 76774,
+      "end": 76783,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 76788,
+      "end": 76795,
+      "label": "PER"
+    },
+    {
+      "text": "Maman",
+      "start": 76849,
+      "end": 76854,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 76856,
+      "end": 76861,
+      "label": "PER"
+    },
+    {
+      "text": "Serait",
+      "start": 76929,
+      "end": 76935,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 77073,
+      "end": 77080,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 77101,
+      "end": 77106,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 77162,
+      "end": 77167,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 77193,
+      "end": 77198,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 77332,
+      "end": 77339,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 77409,
+      "end": 77416,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 77430,
+      "end": 77437,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 77476,
+      "end": 77495,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 77654,
+      "end": 77660,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 78031,
+      "end": 78038,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 78204,
+      "end": 78212,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 78424,
+      "end": 78432,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 78554,
+      "end": 78561,
+      "label": "PER"
+    },
+    {
+      "text": "Saumurois",
+      "start": 78832,
+      "end": 78841,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 78846,
+      "end": 78854,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 79009,
+      "end": 79015,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 79361,
+      "end": 79368,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 79396,
+      "end": 79400,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles Grandet",
+      "start": 79698,
+      "end": 79713,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 79746,
+      "end": 79765,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 79815,
+      "end": 79823,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 80101,
+      "end": 80107,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 80159,
+      "end": 80165,
+      "label": "LOC"
+    },
+    {
+      "text": "Ha !",
+      "start": 80170,
+      "end": 80174,
+      "label": "MISC"
+    },
+    {
+      "text": "Grassins",
+      "start": 80243,
+      "end": 80251,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 80326,
+      "end": 80332,
+      "label": "PER"
+    },
+    {
+      "text": "Saumur",
+      "start": 80351,
+      "end": 80357,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 80421,
+      "end": 80428,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 80482,
+      "end": 80489,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 80526,
+      "end": 80533,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 80540,
+      "end": 80559,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80563,
+      "end": 80571,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 80583,
+      "end": 80590,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 80593,
+      "end": 80600,
+      "label": "PER"
+    },
+    {
+      "text": "Nucingen",
+      "start": 80785,
+      "end": 80793,
+      "label": "LOC"
+    },
+    {
+      "text": "Parfaitement",
+      "start": 80803,
+      "end": 80815,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 80850,
+      "end": 80857,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 80920,
+      "end": 80928,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 80946,
+      "end": 80955,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 80961,
+      "end": 80980,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 81079,
+      "end": 81084,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 81094,
+      "end": 81101,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 81119,
+      "end": 81126,
+      "label": "PER"
+    },
+    {
+      "text": "Babylone",
+      "start": 81189,
+      "end": 81197,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 81227,
+      "end": 81246,
+      "label": "PER"
+    },
+    {
+      "text": "Licenciés",
+      "start": 81476,
+      "end": 81485,
+      "label": "PER"
+    },
+    {
+      "text": "Droit",
+      "start": 81489,
+      "end": 81494,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 81617,
+      "end": 81623,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 81721,
+      "end": 81725,
+      "label": "MISC"
+    },
+    {
+      "text": "Grassins",
+      "start": 81777,
+      "end": 81785,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 81856,
+      "end": 81862,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 81874,
+      "end": 81881,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 82019,
+      "end": 82029,
+      "label": "PER"
+    },
+    {
+      "text": "Chantrey",
+      "start": 82034,
+      "end": 82042,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 82066,
+      "end": 82073,
+      "label": "PER"
+    },
+    {
+      "text": "Roguin",
+      "start": 83183,
+      "end": 83189,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 83508,
+      "end": 83513,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur Grandet",
+      "start": 83523,
+      "end": 83539,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 84043,
+      "end": 84050,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 84104,
+      "end": 84111,
+      "label": "PER"
+    },
+    {
+      "text": "Charles !",
+      "start": 84430,
+      "end": 84439,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 84644,
+      "end": 84651,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 84716,
+      "end": 84723,
+      "label": "PER"
+    },
+    {
+      "text": "Sache",
+      "start": 84901,
+      "end": 84906,
+      "label": "ORG"
+    },
+    {
+      "text": "Grandet",
+      "start": 84983,
+      "end": 84990,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 85005,
+      "end": 85012,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 85127,
+      "end": 85134,
+      "label": "PER"
+    },
+    {
+      "text": "Folie",
+      "start": 85676,
+      "end": 85681,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 85721,
+      "end": 85728,
+      "label": "PER"
+    },
+    {
+      "text": "Sois",
+      "start": 85826,
+      "end": 85830,
+      "label": "LOC"
+    },
+    {
+      "text": "créances",
+      "start": 85968,
+      "end": 85976,
+      "label": "LOC"
+    },
+    {
+      "text": "Révèle",
+      "start": 86210,
+      "end": 86216,
+      "label": "PER"
+    },
+    {
+      "text": "Indes",
+      "start": 86580,
+      "end": 86585,
+      "label": "LOC"
+    },
+    {
+      "text": "Charles",
+      "start": 86599,
+      "end": 86606,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 86783,
+      "end": 86790,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 86931,
+      "end": 86935,
+      "label": "MISC"
+    },
+    {
+      "text": "Si",
+      "start": 86950,
+      "end": 86952,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 87339,
+      "end": 87346,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 87536,
+      "end": 87543,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 87595,
+      "end": 87599,
+      "label": "MISC"
+    },
+    {
+      "text": "Victor Ange Guillaume GRANDET",
+      "start": 87823,
+      "end": 87852,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 87889,
+      "end": 87896,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 88154,
+      "end": 88156,
+      "label": "MISC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 88263,
+      "end": 88270,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 88281,
+      "end": 88288,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 88402,
+      "end": 88404,
+      "label": "MISC"
+    },
+    {
+      "text": "Nanon",
+      "start": 88446,
+      "end": 88451,
+      "label": "PER"
+    },
+    {
+      "text": "Dame",
+      "start": 88486,
+      "end": 88490,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 88672,
+      "end": 88679,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 88963,
+      "end": 88971,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame des Grassins",
+      "start": 88991,
+      "end": 89010,
+      "label": "PER"
+    },
+    {
+      "text": "Voulez",
+      "start": 89128,
+      "end": 89134,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 89200,
+      "end": 89207,
+      "label": "PER"
+    },
+    {
+      "text": "madame des Grassins",
+      "start": 89210,
+      "end": 89229,
+      "label": "PER"
+    },
+    {
+      "text": "Merci",
+      "start": 89233,
+      "end": 89238,
+      "label": "LOC"
+    },
+    {
+      "text": "Donne",
+      "start": 89362,
+      "end": 89367,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchot",
+      "start": 89392,
+      "end": 89399,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 89555,
+      "end": 89561,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 89677,
+      "end": 89684,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 89686,
+      "end": 89693,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 89707,
+      "end": 89715,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisienne",
+      "start": 89763,
+      "end": 89773,
+      "label": "LOC"
+    },
+    {
+      "text": "Adolphe",
+      "start": 89786,
+      "end": 89793,
+      "label": "PER"
+    },
+    {
+      "text": "Laissez",
+      "start": 89837,
+      "end": 89844,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 89916,
+      "end": 89923,
+      "label": "MISC"
+    },
+    {
+      "text": "Mettez",
+      "start": 90123,
+      "end": 90129,
+      "label": "LOC"
+    },
+    {
+      "text": "Eugénie",
+      "start": 90153,
+      "end": 90160,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 90162,
+      "end": 90168,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 90353,
+      "end": 90357,
+      "label": "MISC"
+    },
+    {
+      "text": "vouliez",
+      "start": 90366,
+      "end": 90373,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 90375,
+      "end": 90381,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 90585,
+      "end": 90589,
+      "label": "MISC"
+    },
+    {
+      "text": "Grand Mogol",
+      "start": 90658,
+      "end": 90669,
+      "label": "MISC"
+    },
+    {
+      "text": "Faublas",
+      "start": 90844,
+      "end": 90851,
+      "label": "PER"
+    },
+    {
+      "text": "Faublas",
+      "start": 90873,
+      "end": 90880,
+      "label": "MISC"
+    },
+    {
+      "text": "Liaisons Dangereuses",
+      "start": 90927,
+      "end": 90947,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 90951,
+      "end": 90955,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 91328,
+      "end": 91333,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 91490,
+      "end": 91496,
+      "label": "PER"
+    },
+    {
+      "text": "Adolphe",
+      "start": 91540,
+      "end": 91547,
+      "label": "PER"
+    },
+    {
+      "text": "Madame",
+      "start": 91613,
+      "end": 91619,
+      "label": "PER"
+    },
+    {
+      "text": "Vous croyez",
+      "start": 91918,
+      "end": 91929,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 91954,
+      "end": 91960,
+      "label": "PER"
+    },
+    {
+      "text": "Permettez",
+      "start": 92014,
+      "end": 92023,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 92060,
+      "end": 92066,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 92312,
+      "end": 92319,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 92323,
+      "end": 92328,
+      "label": "LOC"
+    },
+    {
+      "text": "Saumur",
+      "start": 92347,
+      "end": 92353,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 92527,
+      "end": 92535,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassins",
+      "start": 92571,
+      "end": 92579,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Larsonnière",
+      "start": 92672,
+      "end": 92693,
+      "label": "PER"
+    },
+    {
+      "text": "Hautoy",
+      "start": 92705,
+      "end": 92711,
+      "label": "LOC"
+    },
+    {
+      "text": "Hautoy",
+      "start": 92741,
+      "end": 92747,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 92977,
+      "end": 92984,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 93010,
+      "end": 93016,
+      "label": "PER"
+    },
+    {
+      "text": "Grassins",
+      "start": 93066,
+      "end": 93074,
+      "label": "LOC"
+    },
+    {
+      "text": "Cruchot",
+      "start": 93086,
+      "end": 93093,
+      "label": "PER"
+    },
+    {
+      "text": "Cruchotins",
+      "start": 93303,
+      "end": 93313,
+      "label": "LOC"
+    },
+    {
+      "text": "Grassinistes",
+      "start": 93321,
+      "end": 93333,
+      "label": "ORG"
+    },
+    {
+      "text": "Eugénie",
+      "start": 93552,
+      "end": 93559,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 93583,
+      "end": 93590,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 93619,
+      "end": 93627,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 93967,
+      "end": 93974,
+      "label": "PER"
+    },
+    {
+      "text": "Parisiens",
+      "start": 94287,
+      "end": 94296,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 94567,
+      "end": 94574,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 94592,
+      "end": 94599,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 94914,
+      "end": 94919,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 95023,
+      "end": 95030,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 95093,
+      "end": 95098,
+      "label": "PER"
+    },
+    {
+      "text": "Permettez",
+      "start": 95185,
+      "end": 95194,
+      "label": "MISC"
+    },
+    {
+      "text": "Charles",
+      "start": 95262,
+      "end": 95269,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 95288,
+      "end": 95293,
+      "label": "PER"
+    },
+    {
+      "text": "d'Anjou",
+      "start": 95325,
+      "end": 95332,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandet",
+      "start": 95421,
+      "end": 95428,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 95639,
+      "end": 95646,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 96059,
+      "end": 96064,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 96265,
+      "end": 96270,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 96323,
+      "end": 96330,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 97356,
+      "end": 97363,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 97540,
+      "end": 97547,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 97945,
+      "end": 97952,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 98053,
+      "end": 98058,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 98155,
+      "end": 98161,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 98178,
+      "end": 98185,
+      "label": "PER"
+    },
+    {
+      "text": "cuver",
+      "start": 98262,
+      "end": 98267,
+      "label": "LOC"
+    },
+    {
+      "text": "d'Eugénie",
+      "start": 98551,
+      "end": 98560,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grandet",
+      "start": 98699,
+      "end": 98713,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 98751,
+      "end": 98758,
+      "label": "LOC"
+    },
+    {
+      "text": "Grandet",
+      "start": 98927,
+      "end": 98934,
+      "label": "PER"
+    },
+    {
+      "text": "Eugénie",
+      "start": 99115,
+      "end": 99122,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 99229,
+      "end": 99236,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 99412,
+      "end": 99419,
+      "label": "PER"
+    },
+    {
+      "text": "Charles",
+      "start": 99422,
+      "end": 99429,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 99504,
+      "end": 99509,
+      "label": "PER"
+    },
+    {
+      "text": "Dormez",
+      "start": 99592,
+      "end": 99598,
+      "label": "LOC"
+    },
+    {
+      "text": "Bonsoir",
+      "start": 99605,
+      "end": 99612,
+      "label": "LOC"
+    },
+    {
+      "text": "Nanon",
+      "start": 99690,
+      "end": 99695,
+      "label": "PER"
+    },
+    {
+      "text": "Grandet",
+      "start": 99772,
+      "end": 99779,
+      "label": "PER"
+    },
+    {
+      "text": "Prenez",
+      "start": 99781,
+      "end": 99787,
+      "label": "PER"
+    },
+    {
+      "text": "Veux",
+      "start": 99831,
+      "end": 99835,
+      "label": "PER"
+    },
+    {
+      "text": "Nanon",
+      "start": 99865,
+      "end": 99870,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 99968,
+      "end": 99974,
+      "label": "MISC"
+    }
+  ]
+}

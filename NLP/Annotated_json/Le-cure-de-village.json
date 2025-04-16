@@ -1,0 +1,3538 @@
+{
+  "entities": [
+    {
+      "text": "CURÉ",
+      "start": 3,
+      "end": 7,
+      "label": "ORG"
+    },
+    {
+      "text": "VILLAGE",
+      "start": 11,
+      "end": 18,
+      "label": "ORG"
+    },
+    {
+      "text": "HÉLÈNE",
+      "start": 28,
+      "end": 34,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 193,
+      "end": 199,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 367,
+      "end": 373,
+      "label": "MISC"
+    },
+    {
+      "text": "BALZAC",
+      "start": 448,
+      "end": 454,
+      "label": "MISC"
+    },
+    {
+      "text": "I VÉRONIQUE",
+      "start": 471,
+      "end": 482,
+      "label": "MISC"
+    },
+    {
+      "text": "Bas Limoges",
+      "start": 491,
+      "end": 502,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de la Vieille Poste",
+      "start": 518,
+      "end": 541,
+      "label": "LOC"
+    },
+    {
+      "text": "rue de la Cité",
+      "start": 551,
+      "end": 565,
+      "label": "LOC"
+    },
+    {
+      "text": "Bâtis",
+      "start": 1174,
+      "end": 1179,
+      "label": "PER"
+    },
+    {
+      "text": "la Révolution",
+      "start": 2432,
+      "end": 2445,
+      "label": "MISC"
+    },
+    {
+      "text": "rue de la Cité",
+      "start": 2991,
+      "end": 3005,
+      "label": "LOC"
+    },
+    {
+      "text": "Vieille Poste",
+      "start": 3032,
+      "end": 3045,
+      "label": "ORG"
+    },
+    {
+      "text": "Limousins",
+      "start": 4059,
+      "end": 4068,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 4697,
+      "end": 4704,
+      "label": "ORG"
+    },
+    {
+      "text": "Auvergne",
+      "start": 4814,
+      "end": 4822,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 5052,
+      "end": 5061,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat joignit",
+      "start": 5312,
+      "end": 5327,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 5648,
+      "end": 5653,
+      "label": "LOC"
+    },
+    {
+      "text": "Bande Noire",
+      "start": 5665,
+      "end": 5676,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 5744,
+      "end": 5751,
+      "label": "ORG"
+    },
+    {
+      "text": "Limoges",
+      "start": 5781,
+      "end": 5788,
+      "label": "LOC"
+    },
+    {
+      "text": "Brézac",
+      "start": 6202,
+      "end": 6208,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 6258,
+      "end": 6267,
+      "label": "MISC"
+    },
+    {
+      "text": "Limoges",
+      "start": 6280,
+      "end": 6287,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagnac",
+      "start": 6357,
+      "end": 6367,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 6574,
+      "end": 6581,
+      "label": "PER"
+    },
+    {
+      "text": "vieux Champagnac",
+      "start": 6645,
+      "end": 6661,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagnac",
+      "start": 6750,
+      "end": 6760,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergne",
+      "start": 6774,
+      "end": 6782,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 6947,
+      "end": 6954,
+      "label": "ORG"
+    },
+    {
+      "text": "fourgon",
+      "start": 7046,
+      "end": 7053,
+      "label": "PER"
+    },
+    {
+      "text": "Brune",
+      "start": 7125,
+      "end": 7130,
+      "label": "PER"
+    },
+    {
+      "text": "Champagnac",
+      "start": 7173,
+      "end": 7183,
+      "label": "LOC"
+    },
+    {
+      "text": "Harpagon",
+      "start": 7456,
+      "end": 7464,
+      "label": "LOC"
+    },
+    {
+      "text": "lu Molière",
+      "start": 7508,
+      "end": 7518,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 7520,
+      "end": 7527,
+      "label": "PER"
+    },
+    {
+      "text": "serge verte",
+      "start": 7890,
+      "end": 7901,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 8358,
+      "end": 8365,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 8813,
+      "end": 8820,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 9026,
+      "end": 9033,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 9187,
+      "end": 9194,
+      "label": "ORG"
+    },
+    {
+      "text": "Vieille Poste",
+      "start": 9291,
+      "end": 9304,
+      "label": "ORG"
+    },
+    {
+      "text": "rue de la Cité",
+      "start": 9308,
+      "end": 9322,
+      "label": "LOC"
+    },
+    {
+      "text": "Champagnac",
+      "start": 9803,
+      "end": 9813,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 9819,
+      "end": 9826,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 10059,
+      "end": 10066,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 10076,
+      "end": 10081,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10276,
+      "end": 10281,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 10375,
+      "end": 10380,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 10382,
+      "end": 10391,
+      "label": "LOC"
+    },
+    {
+      "text": "Brézac",
+      "start": 10462,
+      "end": 10468,
+      "label": "PER"
+    },
+    {
+      "text": "Bande Noire",
+      "start": 10521,
+      "end": 10532,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 10591,
+      "end": 10598,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 10621,
+      "end": 10628,
+      "label": "ORG"
+    },
+    {
+      "text": "saint Pierre",
+      "start": 11126,
+      "end": 11138,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 11886,
+      "end": 11893,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 12064,
+      "end": 12071,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 12211,
+      "end": 12218,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 12475,
+      "end": 12482,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 12815,
+      "end": 12822,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 13065,
+      "end": 13072,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 13289,
+      "end": 13296,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 13619,
+      "end": 13628,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 13758,
+      "end": 13765,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 14034,
+      "end": 14043,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 14188,
+      "end": 14197,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 14589,
+      "end": 14598,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 14946,
+      "end": 14953,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 15015,
+      "end": 15022,
+      "label": "ORG"
+    },
+    {
+      "text": "contumace",
+      "start": 15408,
+      "end": 15417,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint",
+      "start": 15698,
+      "end": 15703,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 15755,
+      "end": 15762,
+      "label": "ORG"
+    },
+    {
+      "text": "Vierge",
+      "start": 15903,
+      "end": 15909,
+      "label": "LOC"
+    },
+    {
+      "text": "buis",
+      "start": 15966,
+      "end": 15970,
+      "label": "LOC"
+    },
+    {
+      "text": "Pâques",
+      "start": 15973,
+      "end": 15979,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 16127,
+      "end": 16136,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 16159,
+      "end": 16166,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique Sauviat",
+      "start": 16322,
+      "end": 16339,
+      "label": "PER"
+    },
+    {
+      "text": "grise auvergnate",
+      "start": 16431,
+      "end": 16447,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 16458,
+      "end": 16465,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 16753,
+      "end": 16762,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 16804,
+      "end": 16808,
+      "label": "MISC"
+    },
+    {
+      "text": "Catéchisme",
+      "start": 16813,
+      "end": 16823,
+      "label": "MISC"
+    },
+    {
+      "text": "Ancien",
+      "start": 16827,
+      "end": 16833,
+      "label": "MISC"
+    },
+    {
+      "text": "Nouveau Testament",
+      "start": 16840,
+      "end": 16857,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 16960,
+      "end": 16969,
+      "label": "PER"
+    },
+    {
+      "text": "Chacun",
+      "start": 17004,
+      "end": 17010,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge",
+      "start": 17145,
+      "end": 17151,
+      "label": "LOC"
+    },
+    {
+      "text": "Quiconque",
+      "start": 17364,
+      "end": 17373,
+      "label": "LOC"
+    },
+    {
+      "text": "Vierge de Titien",
+      "start": 17397,
+      "end": 17413,
+      "label": "PER"
+    },
+    {
+      "text": "Présentation au Temple",
+      "start": 17443,
+      "end": 17465,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 17484,
+      "end": 17493,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 17707,
+      "end": 17713,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 17771,
+      "end": 17778,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 17837,
+      "end": 17844,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 18179,
+      "end": 18188,
+      "label": "PER"
+    },
+    {
+      "text": "Marthe",
+      "start": 18202,
+      "end": 18208,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 18347,
+      "end": 18354,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 18589,
+      "end": 18598,
+      "label": "PER"
+    },
+    {
+      "text": "le brun",
+      "start": 18683,
+      "end": 18690,
+      "label": "PER"
+    },
+    {
+      "text": "fléau",
+      "start": 18889,
+      "end": 18894,
+      "label": "MISC"
+    },
+    {
+      "text": "brun",
+      "start": 18906,
+      "end": 18910,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 19370,
+      "end": 19379,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 19562,
+      "end": 19569,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 19778,
+      "end": 19785,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 20031,
+      "end": 20040,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 20087,
+      "end": 20094,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 20175,
+      "end": 20184,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 20646,
+      "end": 20655,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 20890,
+      "end": 20899,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 20974,
+      "end": 20981,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 21162,
+      "end": 21171,
+      "label": "PER"
+    },
+    {
+      "text": "Vienne",
+      "start": 21432,
+      "end": 21438,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Étienne",
+      "start": 21817,
+      "end": 21830,
+      "label": "MISC"
+    },
+    {
+      "text": "Marthe",
+      "start": 21857,
+      "end": 21863,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 21901,
+      "end": 21908,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 21915,
+      "end": 21924,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 22241,
+      "end": 22250,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 22296,
+      "end": 22305,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 22344,
+      "end": 22351,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 22423,
+      "end": 22432,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 22530,
+      "end": 22537,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 22709,
+      "end": 22718,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 23095,
+      "end": 23101,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 23124,
+      "end": 23131,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 23412,
+      "end": 23419,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 23497,
+      "end": 23501,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 23630,
+      "end": 23639,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 23743,
+      "end": 23750,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 23850,
+      "end": 23855,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 23981,
+      "end": 23990,
+      "label": "PER"
+    },
+    {
+      "text": "Vie des Saints",
+      "start": 24238,
+      "end": 24252,
+      "label": "MISC"
+    },
+    {
+      "text": "Lettres édifiantes",
+      "start": 24258,
+      "end": 24276,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 24334,
+      "end": 24341,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 24754,
+      "end": 24763,
+      "label": "PER"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 24869,
+      "end": 24882,
+      "label": "PER"
+    },
+    {
+      "text": "Nature",
+      "start": 25194,
+      "end": 25200,
+      "label": "MISC"
+    },
+    {
+      "text": "Vraie",
+      "start": 25420,
+      "end": 25425,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 25446,
+      "end": 25455,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnates",
+      "start": 25674,
+      "end": 25685,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 26273,
+      "end": 26282,
+      "label": "PER"
+    },
+    {
+      "text": "brille",
+      "start": 26725,
+      "end": 26731,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 26802,
+      "end": 26811,
+      "label": "PER"
+    },
+    {
+      "text": "Vierge",
+      "start": 26861,
+      "end": 26867,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 27520,
+      "end": 27529,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 27596,
+      "end": 27600,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 27929,
+      "end": 27938,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 28503,
+      "end": 28512,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Cité",
+      "start": 28833,
+      "end": 28847,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 28896,
+      "end": 28903,
+      "label": "ORG"
+    },
+    {
+      "text": "Mieris",
+      "start": 29492,
+      "end": 29498,
+      "label": "LOC"
+    },
+    {
+      "text": "Van Ostade",
+      "start": 29503,
+      "end": 29513,
+      "label": "PER"
+    },
+    {
+      "text": "Terburg",
+      "start": 29518,
+      "end": 29525,
+      "label": "LOC"
+    },
+    {
+      "text": "Gérard Dow",
+      "start": 29532,
+      "end": 29542,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 29762,
+      "end": 29769,
+      "label": "ORG"
+    },
+    {
+      "text": "Auvergne",
+      "start": 29985,
+      "end": 29993,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé !",
+      "start": 30000,
+      "end": 30004,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 30115,
+      "end": 30124,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 30357,
+      "end": 30364,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 30424,
+      "end": 30433,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 30525,
+      "end": 30529,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 30533,
+      "end": 30541,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 30872,
+      "end": 30881,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 31082,
+      "end": 31091,
+      "label": "MISC"
+    },
+    {
+      "text": "Nature",
+      "start": 31191,
+      "end": 31197,
+      "label": "MISC"
+    },
+    {
+      "text": "Marthe",
+      "start": 32327,
+      "end": 32333,
+      "label": "PER"
+    },
+    {
+      "text": "Saint Étienne",
+      "start": 32355,
+      "end": 32368,
+      "label": "MISC"
+    },
+    {
+      "text": "Génie",
+      "start": 32473,
+      "end": 32478,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 32785,
+      "end": 32794,
+      "label": "PER"
+    },
+    {
+      "text": "Paul",
+      "start": 32876,
+      "end": 32880,
+      "label": "PER"
+    },
+    {
+      "text": "Virginie",
+      "start": 32884,
+      "end": 32892,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 33058,
+      "end": 33067,
+      "label": "MISC"
+    },
+    {
+      "text": "Idéal",
+      "start": 33145,
+      "end": 33150,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 33240,
+      "end": 33244,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 33380,
+      "end": 33387,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martial",
+      "start": 33417,
+      "end": 33430,
+      "label": "PER"
+    },
+    {
+      "text": "Ile de France",
+      "start": 33434,
+      "end": 33447,
+      "label": "LOC"
+    },
+    {
+      "text": "Paul",
+      "start": 34249,
+      "end": 34253,
+      "label": "PER"
+    },
+    {
+      "text": "Vienne",
+      "start": 34872,
+      "end": 34878,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 35431,
+      "end": 35436,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 35446,
+      "end": 35453,
+      "label": "ORG"
+    },
+    {
+      "text": "Pensez",
+      "start": 35576,
+      "end": 35582,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat !",
+      "start": 35605,
+      "end": 35614,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 35716,
+      "end": 35725,
+      "label": "PER"
+    },
+    {
+      "text": "Nous la marierons",
+      "start": 35852,
+      "end": 35869,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 35986,
+      "end": 35993,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 36025,
+      "end": 36030,
+      "label": "LOC"
+    },
+    {
+      "text": "Jérôme Baptiste Sauviat",
+      "start": 36034,
+      "end": 36057,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 36281,
+      "end": 36290,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 36572,
+      "end": 36581,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 36652,
+      "end": 36659,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 36704,
+      "end": 36713,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 36791,
+      "end": 36798,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 36836,
+      "end": 36845,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 37071,
+      "end": 37078,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 37103,
+      "end": 37110,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 37121,
+      "end": 37128,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 37148,
+      "end": 37155,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 37169,
+      "end": 37176,
+      "label": "ORG"
+    },
+    {
+      "text": "Auvergne",
+      "start": 37209,
+      "end": 37217,
+      "label": "LOC"
+    },
+    {
+      "text": "Caissier",
+      "start": 37434,
+      "end": 37442,
+      "label": "PER"
+    },
+    {
+      "text": "Perret",
+      "start": 37497,
+      "end": 37503,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 37507,
+      "end": 37517,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 37717,
+      "end": 37731,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 37847,
+      "end": 37861,
+      "label": "PER"
+    },
+    {
+      "text": "Département",
+      "start": 37898,
+      "end": 37909,
+      "label": "LOC"
+    },
+    {
+      "text": "Arbres",
+      "start": 38020,
+      "end": 38026,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 38047,
+      "end": 38054,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 38224,
+      "end": 38238,
+      "label": "PER"
+    },
+    {
+      "text": "chaussée",
+      "start": 38911,
+      "end": 38919,
+      "label": "LOC"
+    },
+    {
+      "text": "rue Montantmanigne",
+      "start": 38949,
+      "end": 38967,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 38992,
+      "end": 38999,
+      "label": "PER"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 39141,
+      "end": 39155,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 39315,
+      "end": 39322,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 39528,
+      "end": 39535,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 39661,
+      "end": 39668,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 39673,
+      "end": 39680,
+      "label": "ORG"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 39971,
+      "end": 39985,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 40282,
+      "end": 40289,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnate",
+      "start": 40332,
+      "end": 40342,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnate",
+      "start": 40477,
+      "end": 40487,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 41069,
+      "end": 41076,
+      "label": "PER"
+    },
+    {
+      "text": "Receveur général",
+      "start": 41186,
+      "end": 41202,
+      "label": "MISC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 41300,
+      "end": 41310,
+      "label": "LOC"
+    },
+    {
+      "text": "Conseil",
+      "start": 41342,
+      "end": 41349,
+      "label": "ORG"
+    },
+    {
+      "text": "Département",
+      "start": 41361,
+      "end": 41372,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 41617,
+      "end": 41624,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 41691,
+      "end": 41698,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 41758,
+      "end": 41765,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 41827,
+      "end": 41832,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 41842,
+      "end": 41849,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 41901,
+      "end": 41908,
+      "label": "LOC"
+    },
+    {
+      "text": "Limousin",
+      "start": 42196,
+      "end": 42204,
+      "label": "LOC"
+    },
+    {
+      "text": "Perret",
+      "start": 42327,
+      "end": 42333,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 42337,
+      "end": 42347,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 42378,
+      "end": 42385,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 42504,
+      "end": 42511,
+      "label": "PER"
+    },
+    {
+      "text": "Perret",
+      "start": 42553,
+      "end": 42559,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 42570,
+      "end": 42580,
+      "label": "MISC"
+    },
+    {
+      "text": "Graslin",
+      "start": 42620,
+      "end": 42627,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 42662,
+      "end": 42669,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 42816,
+      "end": 42823,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 43008,
+      "end": 43015,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 43050,
+      "end": 43057,
+      "label": "ORG"
+    },
+    {
+      "text": "Auvergne",
+      "start": 43171,
+      "end": 43179,
+      "label": "LOC"
+    },
+    {
+      "text": "Receveur",
+      "start": 43200,
+      "end": 43208,
+      "label": "PER"
+    },
+    {
+      "text": "Bourges",
+      "start": 43220,
+      "end": 43227,
+      "label": "LOC"
+    },
+    {
+      "text": "Grossetête",
+      "start": 43254,
+      "end": 43264,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Fontaine",
+      "start": 43317,
+      "end": 43334,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 43336,
+      "end": 43343,
+      "label": "ORG"
+    },
+    {
+      "text": "Grossetête",
+      "start": 43359,
+      "end": 43369,
+      "label": "MISC"
+    },
+    {
+      "text": "Graslin",
+      "start": 43402,
+      "end": 43409,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 43475,
+      "end": 43482,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 43563,
+      "end": 43572,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 43585,
+      "end": 43592,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 43596,
+      "end": 43610,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat stupéfaite",
+      "start": 43629,
+      "end": 43647,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 43673,
+      "end": 43682,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 43704,
+      "end": 43711,
+      "label": "PER"
+    },
+    {
+      "text": "Rothschild",
+      "start": 43801,
+      "end": 43811,
+      "label": "ORG"
+    },
+    {
+      "text": "Paris",
+      "start": 43838,
+      "end": 43843,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 43892,
+      "end": 43899,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 43901,
+      "end": 43908,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 43995,
+      "end": 44000,
+      "label": "LOC"
+    },
+    {
+      "text": "Limousin",
+      "start": 44030,
+      "end": 44038,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 44133,
+      "end": 44142,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 44163,
+      "end": 44170,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 44231,
+      "end": 44238,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 44359,
+      "end": 44368,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat partit",
+      "start": 44478,
+      "end": 44492,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 44498,
+      "end": 44503,
+      "label": "LOC"
+    },
+    {
+      "text": "Pierre Graslin",
+      "start": 44547,
+      "end": 44561,
+      "label": "PER"
+    },
+    {
+      "text": "Chose",
+      "start": 44639,
+      "end": 44644,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 44723,
+      "end": 44730,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 44759,
+      "end": 44772,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 44830,
+      "end": 44835,
+      "label": "LOC"
+    },
+    {
+      "text": "maison Odiot",
+      "start": 45029,
+      "end": 45041,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur Graslin",
+      "start": 45213,
+      "end": 45229,
+      "label": "MISC"
+    },
+    {
+      "text": "Limousin",
+      "start": 45427,
+      "end": 45435,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 45507,
+      "end": 45514,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 45529,
+      "end": 45536,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 45578,
+      "end": 45585,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 45611,
+      "end": 45620,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 46193,
+      "end": 46200,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 46306,
+      "end": 46315,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 46486,
+      "end": 46493,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 46516,
+      "end": 46525,
+      "label": "PER"
+    },
+    {
+      "text": "Bernardin de Saint Pierre",
+      "start": 46574,
+      "end": 46599,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 46654,
+      "end": 46661,
+      "label": "PER"
+    },
+    {
+      "text": "Eaux",
+      "start": 47595,
+      "end": 47599,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 47916,
+      "end": 47923,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 48980,
+      "end": 48989,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 49126,
+      "end": 49135,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 49152,
+      "end": 49159,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 49184,
+      "end": 49191,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 49193,
+      "end": 49202,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 49320,
+      "end": 49327,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 49509,
+      "end": 49516,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 50055,
+      "end": 50062,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 50155,
+      "end": 50164,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 50343,
+      "end": 50350,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat inquiet",
+      "start": 50370,
+      "end": 50385,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 50634,
+      "end": 50643,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 50733,
+      "end": 50740,
+      "label": "PER"
+    },
+    {
+      "text": "Alpes",
+      "start": 50907,
+      "end": 50912,
+      "label": "LOC"
+    },
+    {
+      "text": "Açores",
+      "start": 50944,
+      "end": 50950,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 51101,
+      "end": 51108,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 51116,
+      "end": 51125,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 51209,
+      "end": 51216,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 51284,
+      "end": 51291,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 51399,
+      "end": 51406,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 51464,
+      "end": 51473,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 51479,
+      "end": 51486,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 51516,
+      "end": 51525,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 51544,
+      "end": 51551,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 51605,
+      "end": 51614,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 51730,
+      "end": 51737,
+      "label": "LOC"
+    },
+    {
+      "text": "Grossetête",
+      "start": 51854,
+      "end": 51864,
+      "label": "MISC"
+    },
+    {
+      "text": "Graslin",
+      "start": 51890,
+      "end": 51897,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 52100,
+      "end": 52109,
+      "label": "PER"
+    },
+    {
+      "text": "Grand",
+      "start": 52263,
+      "end": 52268,
+      "label": "LOC"
+    },
+    {
+      "text": "Brézac",
+      "start": 52339,
+      "end": 52345,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 52547,
+      "end": 52554,
+      "label": "PER"
+    },
+    {
+      "text": "Brézac",
+      "start": 52613,
+      "end": 52619,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 52754,
+      "end": 52763,
+      "label": "MISC"
+    },
+    {
+      "text": "louis",
+      "start": 52846,
+      "end": 52851,
+      "label": "PER"
+    },
+    {
+      "text": "Grand",
+      "start": 52931,
+      "end": 52936,
+      "label": "LOC"
+    },
+    {
+      "text": "succession Champagnac",
+      "start": 52950,
+      "end": 52971,
+      "label": "MISC"
+    },
+    {
+      "text": "Brézac",
+      "start": 53067,
+      "end": 53073,
+      "label": "PER"
+    },
+    {
+      "text": "Brézac",
+      "start": 53075,
+      "end": 53081,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 53093,
+      "end": 53100,
+      "label": "PER"
+    },
+    {
+      "text": "Auvergnats",
+      "start": 53136,
+      "end": 53146,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 53170,
+      "end": 53177,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 53205,
+      "end": 53218,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 53251,
+      "end": 53260,
+      "label": "PER"
+    },
+    {
+      "text": "Limousin",
+      "start": 53319,
+      "end": 53327,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 53431,
+      "end": 53438,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 53499,
+      "end": 53508,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 53510,
+      "end": 53519,
+      "label": "PER"
+    },
+    {
+      "text": "Ève",
+      "start": 53743,
+      "end": 53746,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Étienne",
+      "start": 53981,
+      "end": 53994,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 54007,
+      "end": 54014,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 54083,
+      "end": 54092,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 54141,
+      "end": 54148,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 54209,
+      "end": 54218,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 55371,
+      "end": 55380,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 55447,
+      "end": 55454,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 55577,
+      "end": 55586,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 55659,
+      "end": 55666,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 55727,
+      "end": 55732,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 55784,
+      "end": 55791,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 56025,
+      "end": 56038,
+      "label": "LOC"
+    },
+    {
+      "text": "la Chine",
+      "start": 56183,
+      "end": 56191,
+      "label": "LOC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 56237,
+      "end": 56245,
+      "label": "PER"
+    },
+    {
+      "text": "madame Grossetête",
+      "start": 56249,
+      "end": 56266,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 56298,
+      "end": 56305,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 56341,
+      "end": 56348,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 56364,
+      "end": 56371,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Grossetête",
+      "start": 56373,
+      "end": 56390,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 56420,
+      "end": 56429,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 56463,
+      "end": 56469,
+      "label": "MISC"
+    },
+    {
+      "text": "Famille",
+      "start": 56474,
+      "end": 56481,
+      "label": "LOC"
+    },
+    {
+      "text": "Monde",
+      "start": 56486,
+      "end": 56491,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 56645,
+      "end": 56652,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 56764,
+      "end": 56774,
+      "label": "MISC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 56987,
+      "end": 56994,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 57030,
+      "end": 57037,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 57122,
+      "end": 57132,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 57152,
+      "end": 57161,
+      "label": "PER"
+    },
+    {
+      "text": "Évêque",
+      "start": 57321,
+      "end": 57327,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 57354,
+      "end": 57361,
+      "label": "ORG"
+    },
+    {
+      "text": "Véronique",
+      "start": 57379,
+      "end": 57388,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 57546,
+      "end": 57553,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 57580,
+      "end": 57587,
+      "label": "LOC"
+    },
+    {
+      "text": "Évêque",
+      "start": 57609,
+      "end": 57615,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfet",
+      "start": 57620,
+      "end": 57626,
+      "label": "LOC"
+    },
+    {
+      "text": "Président de la Cour",
+      "start": 57631,
+      "end": 57651,
+      "label": "PER"
+    },
+    {
+      "text": "Procureur général",
+      "start": 57656,
+      "end": 57673,
+      "label": "LOC"
+    },
+    {
+      "text": "Maire",
+      "start": 57678,
+      "end": 57683,
+      "label": "LOC"
+    },
+    {
+      "text": "Général",
+      "start": 57688,
+      "end": 57695,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 57720,
+      "end": 57727,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 57907,
+      "end": 57916,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 58092,
+      "end": 58102,
+      "label": "MISC"
+    },
+    {
+      "text": "Limousin",
+      "start": 58305,
+      "end": 58313,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 58335,
+      "end": 58342,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 58513,
+      "end": 58520,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 58560,
+      "end": 58567,
+      "label": "PER"
+    },
+    {
+      "text": "la Ville",
+      "start": 58618,
+      "end": 58626,
+      "label": "LOC"
+    },
+    {
+      "text": "la Vienne",
+      "start": 58660,
+      "end": 58669,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 58706,
+      "end": 58713,
+      "label": "LOC"
+    },
+    {
+      "text": "Cluzeau",
+      "start": 58720,
+      "end": 58727,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martial",
+      "start": 58755,
+      "end": 58768,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 58878,
+      "end": 58891,
+      "label": "LOC"
+    },
+    {
+      "text": "Heureusement Graslin",
+      "start": 59047,
+      "end": 59067,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 59378,
+      "end": 59385,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 59429,
+      "end": 59436,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Martial",
+      "start": 59592,
+      "end": 59605,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 59730,
+      "end": 59737,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 59861,
+      "end": 59868,
+      "label": "ORG"
+    },
+    {
+      "text": "Sauviat",
+      "start": 60023,
+      "end": 60030,
+      "label": "PER"
+    },
+    {
+      "text": "Sauviat",
+      "start": 60798,
+      "end": 60805,
+      "label": "PER"
+    },
+    {
+      "text": "la Vienne",
+      "start": 60989,
+      "end": 60998,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 61043,
+      "end": 61052,
+      "label": "PER"
+    },
+    {
+      "text": "Ile de France",
+      "start": 61095,
+      "end": 61108,
+      "label": "LOC"
+    },
+    {
+      "text": "Sauviat",
+      "start": 61209,
+      "end": 61216,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 61379,
+      "end": 61386,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 61483,
+      "end": 61492,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 61655,
+      "end": 61662,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 61760,
+      "end": 61767,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 61878,
+      "end": 61887,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 61991,
+      "end": 61998,
+      "label": "PER"
+    },
+    {
+      "text": "Banque",
+      "start": 62206,
+      "end": 62212,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 62456,
+      "end": 62469,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 62799,
+      "end": 62806,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 62863,
+      "end": 62868,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 63117,
+      "end": 63124,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 63234,
+      "end": 63248,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 63297,
+      "end": 63306,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 63424,
+      "end": 63433,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 64037,
+      "end": 64043,
+      "label": "MISC"
+    },
+    {
+      "text": "Code",
+      "start": 64048,
+      "end": 64052,
+      "label": "MISC"
+    },
+    {
+      "text": "Fontenelle",
+      "start": 64459,
+      "end": 64469,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 64731,
+      "end": 64737,
+      "label": "MISC"
+    },
+    {
+      "text": "Avez",
+      "start": 65189,
+      "end": 65193,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 65218,
+      "end": 65225,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 65377,
+      "end": 65384,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 65447,
+      "end": 65454,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 65559,
+      "end": 65568,
+      "label": "PER"
+    },
+    {
+      "text": "Walter Scott",
+      "start": 66076,
+      "end": 66088,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 66104,
+      "end": 66114,
+      "label": "PER"
+    },
+    {
+      "text": "Schiller",
+      "start": 66130,
+      "end": 66138,
+      "label": "PER"
+    },
+    {
+      "text": "Goëthe",
+      "start": 66145,
+      "end": 66151,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 67463,
+      "end": 67470,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 68523,
+      "end": 68537,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 68895,
+      "end": 68904,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 69370,
+      "end": 69377,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 69459,
+      "end": 69465,
+      "label": "MISC"
+    },
+    {
+      "text": "Graslin",
+      "start": 69867,
+      "end": 69874,
+      "label": "PER"
+    },
+    {
+      "text": "Ultras",
+      "start": 69937,
+      "end": 69943,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 69971,
+      "end": 69980,
+      "label": "PER"
+    },
+    {
+      "text": "Curiosité",
+      "start": 70402,
+      "end": 70411,
+      "label": "LOC"
+    },
+    {
+      "text": "monsieur Grossetête",
+      "start": 70510,
+      "end": 70529,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 70732,
+      "end": 70741,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 71032,
+      "end": 71042,
+      "label": "PER"
+    },
+    {
+      "text": "Dieu",
+      "start": 71625,
+      "end": 71629,
+      "label": "MISC"
+    },
+    {
+      "text": "Rêve",
+      "start": 74439,
+      "end": 74443,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 74500,
+      "end": 74507,
+      "label": "PER"
+    },
+    {
+      "text": "Évêque",
+      "start": 74680,
+      "end": 74686,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 74956,
+      "end": 74970,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 75133,
+      "end": 75140,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 75353,
+      "end": 75360,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 75367,
+      "end": 75376,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 75384,
+      "end": 75391,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 75849,
+      "end": 75858,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 76144,
+      "end": 76153,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 76177,
+      "end": 76184,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 76477,
+      "end": 76486,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 76524,
+      "end": 76531,
+      "label": "PER"
+    },
+    {
+      "text": "assortis",
+      "start": 76712,
+      "end": 76720,
+      "label": "PER"
+    },
+    {
+      "text": "Heureuse",
+      "start": 77279,
+      "end": 77287,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 77329,
+      "end": 77338,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 77485,
+      "end": 77492,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 77497,
+      "end": 77504,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 77841,
+      "end": 77848,
+      "label": "PER"
+    },
+    {
+      "text": "Espagne",
+      "start": 78027,
+      "end": 78034,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnate",
+      "start": 78346,
+      "end": 78356,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 78731,
+      "end": 78740,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 78983,
+      "end": 78993,
+      "label": "MISC"
+    },
+    {
+      "text": "Grands vicaires",
+      "start": 79095,
+      "end": 79110,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 79131,
+      "end": 79143,
+      "label": "PER"
+    },
+    {
+      "text": "Église",
+      "start": 79271,
+      "end": 79277,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 79479,
+      "end": 79491,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 79542,
+      "end": 79546,
+      "label": "LOC"
+    },
+    {
+      "text": "Libéraux de la ville",
+      "start": 79991,
+      "end": 80011,
+      "label": "MISC"
+    },
+    {
+      "text": "Aimé",
+      "start": 80179,
+      "end": 80183,
+      "label": "MISC"
+    },
+    {
+      "text": "Évêque",
+      "start": 80297,
+      "end": 80303,
+      "label": "LOC"
+    },
+    {
+      "text": "Trône",
+      "start": 80489,
+      "end": 80494,
+      "label": "LOC"
+    },
+    {
+      "text": "Clergé",
+      "start": 80501,
+      "end": 80507,
+      "label": "LOC"
+    },
+    {
+      "text": "Cassandre",
+      "start": 80615,
+      "end": 80624,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 80710,
+      "end": 80722,
+      "label": "PER"
+    },
+    {
+      "text": "cour de",
+      "start": 81081,
+      "end": 81088,
+      "label": "LOC"
+    },
+    {
+      "text": "Rome",
+      "start": 81089,
+      "end": 81093,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 81097,
+      "end": 81109,
+      "label": "PER"
+    },
+    {
+      "text": "Thorwaldsen",
+      "start": 81470,
+      "end": 81481,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 81774,
+      "end": 81786,
+      "label": "PER"
+    },
+    {
+      "text": "brun",
+      "start": 81884,
+      "end": 81888,
+      "label": "PER"
+    },
+    {
+      "text": "Vicaire général",
+      "start": 82767,
+      "end": 82782,
+      "label": "MISC"
+    },
+    {
+      "text": "abbé de Grancour",
+      "start": 82786,
+      "end": 82802,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 82909,
+      "end": 82921,
+      "label": "PER"
+    },
+    {
+      "text": "Évêque",
+      "start": 83028,
+      "end": 83034,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé de Grancour",
+      "start": 83070,
+      "end": 83086,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 83393,
+      "end": 83405,
+      "label": "PER"
+    },
+    {
+      "text": "abbé de Grancour",
+      "start": 83409,
+      "end": 83425,
+      "label": "LOC"
+    },
+    {
+      "text": "Vicaire général",
+      "start": 83471,
+      "end": 83486,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 83510,
+      "end": 83519,
+      "label": "PER"
+    },
+    {
+      "text": "Évêque",
+      "start": 83599,
+      "end": 83605,
+      "label": "LOC"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 83690,
+      "end": 83702,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 83763,
+      "end": 83772,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 83923,
+      "end": 83930,
+      "label": "PER"
+    },
+    {
+      "text": "Aline",
+      "start": 84030,
+      "end": 84035,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 84702,
+      "end": 84709,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 85162,
+      "end": 85175,
+      "label": "LOC"
+    },
+    {
+      "text": "Auvergnat",
+      "start": 85549,
+      "end": 85558,
+      "label": "MISC"
+    },
+    {
+      "text": "maison Graslin",
+      "start": 85587,
+      "end": 85601,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 85745,
+      "end": 85759,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 85872,
+      "end": 85881,
+      "label": "PER"
+    },
+    {
+      "text": "rue de la Cité ",
+      "start": 86006,
+      "end": 86021,
+      "label": "LOC"
+    },
+    {
+      "text": "Vicaires généraux",
+      "start": 86470,
+      "end": 86487,
+      "label": "MISC"
+    },
+    {
+      "text": "Grossetête",
+      "start": 86500,
+      "end": 86510,
+      "label": "MISC"
+    },
+    {
+      "text": "Évêque",
+      "start": 86592,
+      "end": 86598,
+      "label": "LOC"
+    },
+    {
+      "text": "Graslin",
+      "start": 86772,
+      "end": 86779,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 86927,
+      "end": 86936,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Grandville",
+      "start": 87029,
+      "end": 87050,
+      "label": "PER"
+    },
+    {
+      "text": "Substitut",
+      "start": 87105,
+      "end": 87114,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 87141,
+      "end": 87148,
+      "label": "LOC"
+    },
+    {
+      "text": "Parisiens",
+      "start": 87221,
+      "end": 87230,
+      "label": "LOC"
+    },
+    {
+      "text": "Préfecture",
+      "start": 87286,
+      "end": 87296,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 87432,
+      "end": 87439,
+      "label": "PER"
+    },
+    {
+      "text": "Receveur général",
+      "start": 87509,
+      "end": 87525,
+      "label": "MISC"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 87607,
+      "end": 87621,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 87724,
+      "end": 87738,
+      "label": "PER"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 87817,
+      "end": 87831,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 88338,
+      "end": 88347,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 88411,
+      "end": 88418,
+      "label": "LOC"
+    },
+    {
+      "text": "Substitut",
+      "start": 88450,
+      "end": 88459,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat",
+      "start": 88478,
+      "end": 88484,
+      "label": "LOC"
+    },
+    {
+      "text": "vicomte de Grandville",
+      "start": 89035,
+      "end": 89056,
+      "label": "PER"
+    },
+    {
+      "text": "Madame Graslin",
+      "start": 89116,
+      "end": 89130,
+      "label": "PER"
+    },
+    {
+      "text": "Parisien",
+      "start": 89163,
+      "end": 89171,
+      "label": "LOC"
+    },
+    {
+      "text": "Substitut",
+      "start": 89273,
+      "end": 89282,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 89352,
+      "end": 89361,
+      "label": "PER"
+    },
+    {
+      "text": "abbé Dutheil",
+      "start": 89380,
+      "end": 89392,
+      "label": "PER"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 89464,
+      "end": 89478,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 89480,
+      "end": 89489,
+      "label": "PER"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 89608,
+      "end": 89622,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 89795,
+      "end": 89804,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 90082,
+      "end": 90091,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 90238,
+      "end": 90245,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 90308,
+      "end": 90315,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 90451,
+      "end": 90456,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 90704,
+      "end": 90717,
+      "label": "LOC"
+    },
+    {
+      "text": "Limoges",
+      "start": 91123,
+      "end": 91130,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 91219,
+      "end": 91233,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 91636,
+      "end": 91643,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 91711,
+      "end": 91718,
+      "label": "PER"
+    },
+    {
+      "text": "Brézac",
+      "start": 91938,
+      "end": 91944,
+      "label": "PER"
+    },
+    {
+      "text": "Spéculation",
+      "start": 92167,
+      "end": 92178,
+      "label": "ORG"
+    },
+    {
+      "text": "Graslin",
+      "start": 92256,
+      "end": 92263,
+      "label": "PER"
+    },
+    {
+      "text": "Raphaël",
+      "start": 93044,
+      "end": 93051,
+      "label": "PER"
+    },
+    {
+      "text": "Temps encrasse",
+      "start": 93092,
+      "end": 93106,
+      "label": "MISC"
+    },
+    {
+      "text": "Grandville",
+      "start": 93364,
+      "end": 93374,
+      "label": "PER"
+    },
+    {
+      "text": "Véronique",
+      "start": 93435,
+      "end": 93444,
+      "label": "PER"
+    },
+    {
+      "text": "Substitut",
+      "start": 93494,
+      "end": 93503,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Graslin",
+      "start": 93767,
+      "end": 93781,
+      "label": "PER"
+    },
+    {
+      "text": "vicomte de Grandville",
+      "start": 93853,
+      "end": 93874,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 94046,
+      "end": 94053,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 94094,
+      "end": 94101,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 94178,
+      "end": 94187,
+      "label": "PER"
+    },
+    {
+      "text": "hôtel Graslin",
+      "start": 94698,
+      "end": 94711,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 94770,
+      "end": 94779,
+      "label": "PER"
+    },
+    {
+      "text": "Substitut",
+      "start": 95150,
+      "end": 95159,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat",
+      "start": 95176,
+      "end": 95182,
+      "label": "PER"
+    },
+    {
+      "text": "Justice",
+      "start": 95298,
+      "end": 95305,
+      "label": "PER"
+    },
+    {
+      "text": "Grossetête",
+      "start": 95455,
+      "end": 95465,
+      "label": "MISC"
+    },
+    {
+      "text": "Véronique",
+      "start": 95721,
+      "end": 95730,
+      "label": "PER"
+    },
+    {
+      "text": "Graslin",
+      "start": 95908,
+      "end": 95915,
+      "label": "PER"
+    },
+    {
+      "text": "Limoges",
+      "start": 96084,
+      "end": 96091,
+      "label": "LOC"
+    },
+    {
+      "text": "Avocat",
+      "start": 96368,
+      "end": 96374,
+      "label": "LOC"
+    },
+    {
+      "text": "Limousin",
+      "start": 96463,
+      "end": 96471,
+      "label": "LOC"
+    },
+    {
+      "text": "whist",
+      "start": 96542,
+      "end": 96547,
+      "label": "LOC"
+    },
+    {
+      "text": "Véronique",
+      "start": 96794,
+      "end": 96803,
+      "label": "PER"
+    },
+    {
+      "text": "CHAPITRE II",
+      "start": 97107,
+      "end": 97118,
+      "label": "MISC"
+    },
+    {
+      "text": "Limoges",
+      "start": 97152,
+      "end": 97159,
+      "label": "LOC"
+    },
+    {
+      "text": "procès Tascheron",
+      "start": 97211,
+      "end": 97227,
+      "label": "MISC"
+    },
+    {
+      "text": "Procureur",
+      "start": 97305,
+      "end": 97314,
+      "label": "LOC"
+    },
+    {
+      "text": "Saint Étienne",
+      "start": 97385,
+      "end": 97398,
+      "label": "MISC"
+    },
+    {
+      "text": "Pingret",
+      "start": 97921,
+      "end": 97928,
+      "label": "MISC"
+    },
+    {
+      "text": "Vanneaulx",
+      "start": 98317,
+      "end": 98326,
+      "label": "LOC"
+    },
+    {
+      "text": "Vanneaulx",
+      "start": 98694,
+      "end": 98703,
+      "label": "LOC"
+    },
+    {
+      "text": "madame des Vanneaulx",
+      "start": 98929,
+      "end": 98949,
+      "label": "PER"
+    },
+    {
+      "text": "Madame des Vanneaulx",
+      "start": 99079,
+      "end": 99099,
+      "label": "PER"
+    },
+    {
+      "text": "Théâtre Italien",
+      "start": 99159,
+      "end": 99174,
+      "label": "LOC"
+    },
+    {
+      "text": "Pingret",
+      "start": 99316,
+      "end": 99323,
+      "label": "MISC"
+    },
+    {
+      "text": "Jeanne Malassis",
+      "start": 99394,
+      "end": 99409,
+      "label": "PER"
+    },
+    {
+      "text": "Votre oncle",
+      "start": 99429,
+      "end": 99440,
+      "label": "MISC"
+    },
+    {
+      "text": "madame des Vanneaulx",
+      "start": 99502,
+      "end": 99522,
+      "label": "PER"
+    },
+    {
+      "text": "Pingret",
+      "start": 99593,
+      "end": 99600,
+      "label": "MISC"
+    }
+  ]
+}

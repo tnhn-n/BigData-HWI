@@ -1,0 +1,2362 @@
+{
+  "entities": [
+    {
+      "text": "SARRASINE",
+      "start": 0,
+      "end": 9,
+      "label": "ORG"
+    },
+    {
+      "text": "BERNARD",
+      "start": 39,
+      "end": 46,
+      "label": "MISC"
+    },
+    {
+      "text": "GRAIL",
+      "start": 50,
+      "end": 55,
+      "label": "MISC"
+    },
+    {
+      "text": "Minuit",
+      "start": 207,
+      "end": 213,
+      "label": "PER"
+    },
+    {
+      "text": "Élysée Bourbon",
+      "start": 248,
+      "end": 262,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 1005,
+      "end": 1010,
+      "label": "LOC"
+    },
+    {
+      "text": "Moi, sur la frontière de ces deux tableaux si disparates",
+      "start": 2110,
+      "end": 2166,
+      "label": "MISC"
+    },
+    {
+      "text": "Paris",
+      "start": 2222,
+      "end": 2227,
+      "label": "LOC"
+    },
+    {
+      "text": "macédoine",
+      "start": 2304,
+      "end": 2313,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanty",
+      "start": 2669,
+      "end": 2674,
+      "label": "PER"
+    },
+    {
+      "text": "maréchal de Carigliano",
+      "start": 2735,
+      "end": 2757,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 2778,
+      "end": 2782,
+      "label": "MISC"
+    },
+    {
+      "text": "croyez",
+      "start": 2908,
+      "end": 2914,
+      "label": "MISC"
+    },
+    {
+      "text": "Nucingen",
+      "start": 2957,
+      "end": 2965,
+      "label": "LOC"
+    },
+    {
+      "text": "Gondreville",
+      "start": 2981,
+      "end": 2992,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 3126,
+      "end": 3131,
+      "label": "LOC"
+    },
+    {
+      "text": "Pourquoi",
+      "start": 3160,
+      "end": 3168,
+      "label": "MISC"
+    },
+    {
+      "text": "Comment",
+      "start": 3175,
+      "end": 3182,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanty",
+      "start": 3481,
+      "end": 3486,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Lanty",
+      "start": 3991,
+      "end": 4005,
+      "label": "PER"
+    },
+    {
+      "text": "Casauba",
+      "start": 4030,
+      "end": 4037,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianina",
+      "start": 4113,
+      "end": 4122,
+      "label": "PER"
+    },
+    {
+      "text": "Lampe",
+      "start": 4270,
+      "end": 4275,
+      "label": "LOC"
+    },
+    {
+      "text": "Malibran",
+      "start": 4371,
+      "end": 4379,
+      "label": "LOC"
+    },
+    {
+      "text": "Sontag",
+      "start": 4385,
+      "end": 4391,
+      "label": "PER"
+    },
+    {
+      "text": "Fodor",
+      "start": 4397,
+      "end": 4402,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianina",
+      "start": 4500,
+      "end": 4509,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 4861,
+      "end": 4870,
+      "label": "PER"
+    },
+    {
+      "text": "Avez",
+      "start": 4894,
+      "end": 4898,
+      "label": "LOC"
+    },
+    {
+      "text": "Jaucourt",
+      "start": 5866,
+      "end": 5874,
+      "label": "PER"
+    },
+    {
+      "text": "Aimer",
+      "start": 6004,
+      "end": 6009,
+      "label": "PER"
+    },
+    {
+      "text": "Telle",
+      "start": 6125,
+      "end": 6130,
+      "label": "PER"
+    },
+    {
+      "text": "comtesse de Lanty",
+      "start": 6140,
+      "end": 6157,
+      "label": "LOC"
+    },
+    {
+      "text": "Filippo",
+      "start": 6159,
+      "end": 6166,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 6177,
+      "end": 6186,
+      "label": "PER"
+    },
+    {
+      "text": "Antinoüs",
+      "start": 6323,
+      "end": 6331,
+      "label": "PER"
+    },
+    {
+      "text": "Filippo",
+      "start": 6585,
+      "end": 6592,
+      "label": "PER"
+    },
+    {
+      "text": "de France",
+      "start": 6740,
+      "end": 6749,
+      "label": "LOC"
+    },
+    {
+      "text": "comte de Lanty",
+      "start": 6852,
+      "end": 6866,
+      "label": "PER"
+    },
+    {
+      "text": "Espagnol",
+      "start": 6912,
+      "end": 6920,
+      "label": "MISC"
+    },
+    {
+      "text": "Metternich",
+      "start": 7068,
+      "end": 7078,
+      "label": "PER"
+    },
+    {
+      "text": "Wellington",
+      "start": 7082,
+      "end": 7092,
+      "label": "PER"
+    },
+    {
+      "text": "lord Byron",
+      "start": 7155,
+      "end": 7165,
+      "label": "PER"
+    },
+    {
+      "text": "monsieur",
+      "start": 7332,
+      "end": 7340,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 7344,
+      "end": 7359,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 7518,
+      "end": 7523,
+      "label": "LOC"
+    },
+    {
+      "text": "Vespasien",
+      "start": 7559,
+      "end": 7568,
+      "label": "PER"
+    },
+    {
+      "text": "Pourvu",
+      "start": 7675,
+      "end": 7681,
+      "label": "PER"
+    },
+    {
+      "text": "Lanty",
+      "start": 8262,
+      "end": 8267,
+      "label": "PER"
+    },
+    {
+      "text": "Anne Radcliffe",
+      "start": 8348,
+      "end": 8362,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 8862,
+      "end": 8871,
+      "label": "PER"
+    },
+    {
+      "text": "Voilà",
+      "start": 9017,
+      "end": 9022,
+      "label": "LOC"
+    },
+    {
+      "text": "Faust",
+      "start": 9552,
+      "end": 9557,
+      "label": "PER"
+    },
+    {
+      "text": "Robin",
+      "start": 9564,
+      "end": 9569,
+      "label": "PER"
+    },
+    {
+      "text": "Allemands",
+      "start": 9704,
+      "end": 9713,
+      "label": "LOC"
+    },
+    {
+      "text": "Mysore",
+      "start": 10243,
+      "end": 10249,
+      "label": "LOC"
+    },
+    {
+      "text": "Bah !",
+      "start": 10324,
+      "end": 10329,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 10443,
+      "end": 10451,
+      "label": "PER"
+    },
+    {
+      "text": "Monsieur",
+      "start": 10577,
+      "end": 10585,
+      "label": "PER"
+    },
+    {
+      "text": "madame d'Espard",
+      "start": 10757,
+      "end": 10772,
+      "label": "PER"
+    },
+    {
+      "text": "Balsamo",
+      "start": 10900,
+      "end": 10907,
+      "label": "MISC"
+    },
+    {
+      "text": "Basalmo",
+      "start": 10909,
+      "end": 10916,
+      "label": "PER"
+    },
+    {
+      "text": "Cagliostro",
+      "start": 10923,
+      "end": 10933,
+      "label": "PER"
+    },
+    {
+      "text": "Ferette",
+      "start": 11084,
+      "end": 11091,
+      "label": "PER"
+    },
+    {
+      "text": "Lanty",
+      "start": 11347,
+      "end": 11352,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel de Lanty",
+      "start": 11691,
+      "end": 11705,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianina",
+      "start": 11831,
+      "end": 11840,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 11842,
+      "end": 11857,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 12808,
+      "end": 12817,
+      "label": "PER"
+    },
+    {
+      "text": "Filippo",
+      "start": 12912,
+      "end": 12919,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 13487,
+      "end": 13502,
+      "label": "PER"
+    },
+    {
+      "text": "comte de Lanty",
+      "start": 13794,
+      "end": 13808,
+      "label": "PER"
+    },
+    {
+      "text": "gobe mouches",
+      "start": 14103,
+      "end": 14115,
+      "label": "LOC"
+    },
+    {
+      "text": "punch",
+      "start": 14387,
+      "end": 14392,
+      "label": "MISC"
+    },
+    {
+      "text": "Monsieur",
+      "start": 14722,
+      "end": 14730,
+      "label": "PER"
+    },
+    {
+      "text": "louis",
+      "start": 14749,
+      "end": 14754,
+      "label": "PER"
+    },
+    {
+      "text": "Ma foi !",
+      "start": 14784,
+      "end": 14792,
+      "label": "MISC"
+    },
+    {
+      "text": "Hé",
+      "start": 14847,
+      "end": 14849,
+      "label": "MISC"
+    },
+    {
+      "text": "Esprit",
+      "start": 14992,
+      "end": 14998,
+      "label": "ORG"
+    },
+    {
+      "text": "Croyez",
+      "start": 15000,
+      "end": 15006,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 15043,
+      "end": 15045,
+      "label": "MISC"
+    },
+    {
+      "text": "Minerve",
+      "start": 15830,
+      "end": 15837,
+      "label": "PER"
+    },
+    {
+      "text": "Jupiter",
+      "start": 15852,
+      "end": 15859,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianina",
+      "start": 16114,
+      "end": 16123,
+      "label": "PER"
+    },
+    {
+      "text": "Tancrède",
+      "start": 16154,
+      "end": 16162,
+      "label": "PER"
+    },
+    {
+      "text": "Immobile",
+      "start": 16246,
+      "end": 16254,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 16579,
+      "end": 16584,
+      "label": "LOC"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 17097,
+      "end": 17112,
+      "label": "PER"
+    },
+    {
+      "text": "nacre ternie",
+      "start": 18259,
+      "end": 18271,
+      "label": "LOC"
+    },
+    {
+      "text": "Angleterre",
+      "start": 19724,
+      "end": 19734,
+      "label": "LOC"
+    },
+    {
+      "text": "Marianina",
+      "start": 23963,
+      "end": 23972,
+      "label": "PER"
+    },
+    {
+      "text": "Filippo",
+      "start": 23974,
+      "end": 23981,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 23985,
+      "end": 24000,
+      "label": "PER"
+    },
+    {
+      "text": "Seine",
+      "start": 24119,
+      "end": 24124,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 24408,
+      "end": 24414,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 24548,
+      "end": 24563,
+      "label": "PER"
+    },
+    {
+      "text": "Allons",
+      "start": 24617,
+      "end": 24623,
+      "label": "LOC"
+    },
+    {
+      "text": "Taisez",
+      "start": 24710,
+      "end": 24716,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 24980,
+      "end": 24984,
+      "label": "MISC"
+    },
+    {
+      "text": "Adonis",
+      "start": 25241,
+      "end": 25247,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 25500,
+      "end": 25509,
+      "label": "PER"
+    },
+    {
+      "text": "Vien",
+      "start": 26110,
+      "end": 26114,
+      "label": "PER"
+    },
+    {
+      "text": "Adonis",
+      "start": 26396,
+      "end": 26402,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 26439,
+      "end": 26454,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 26780,
+      "end": 26789,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 27233,
+      "end": 27242,
+      "label": "PER"
+    },
+    {
+      "text": "Addio",
+      "start": 27586,
+      "end": 27591,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 28138,
+      "end": 28147,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 28365,
+      "end": 28369,
+      "label": "MISC"
+    },
+    {
+      "text": "madame",
+      "start": 28671,
+      "end": 28677,
+      "label": "PER"
+    },
+    {
+      "text": "Parisienne",
+      "start": 28946,
+      "end": 28956,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 28995,
+      "end": 29001,
+      "label": "LOC"
+    },
+    {
+      "text": "l'Espagne",
+      "start": 29008,
+      "end": 29017,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh !",
+      "start": 29167,
+      "end": 29171,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 29261,
+      "end": 29265,
+      "label": "MISC"
+    },
+    {
+      "text": "Midi",
+      "start": 29478,
+      "end": 29482,
+      "label": "LOC"
+    },
+    {
+      "text": "Hé",
+      "start": 29506,
+      "end": 29508,
+      "label": "MISC"
+    },
+    {
+      "text": "Allons",
+      "start": 30953,
+      "end": 30959,
+      "label": "MISC"
+    },
+    {
+      "text": "Parlez",
+      "start": 31108,
+      "end": 31114,
+      "label": "MISC"
+    },
+    {
+      "text": "Franche Comté",
+      "start": 31189,
+      "end": 31202,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 31389,
+      "end": 31398,
+      "label": "PER"
+    },
+    {
+      "text": "Matthieu Sarrasine",
+      "start": 31577,
+      "end": 31595,
+      "label": "PER"
+    },
+    {
+      "text": "Parlement",
+      "start": 31704,
+      "end": 31713,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 31780,
+      "end": 31789,
+      "label": "PER"
+    },
+    {
+      "text": "Jésuites",
+      "start": 31817,
+      "end": 31825,
+      "label": "ORG"
+    },
+    {
+      "text": "Homère",
+      "start": 32147,
+      "end": 32153,
+      "label": "PER"
+    },
+    {
+      "text": "Thucydide",
+      "start": 32675,
+      "end": 32684,
+      "label": "PER"
+    },
+    {
+      "text": "Seigneur à l'église",
+      "start": 32848,
+      "end": 32867,
+      "label": "MISC"
+    },
+    {
+      "text": "Christ",
+      "start": 33572,
+      "end": 33578,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 33776,
+      "end": 33785,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 33802,
+      "end": 33807,
+      "label": "LOC"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 33996,
+      "end": 34006,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 34093,
+      "end": 34103,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 34325,
+      "end": 34334,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 34450,
+      "end": 34460,
+      "label": "PER"
+    },
+    {
+      "text": "Besançon",
+      "start": 34596,
+      "end": 34604,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 34956,
+      "end": 34965,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 34967,
+      "end": 34977,
+      "label": "PER"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 35120,
+      "end": 35131,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 35254,
+      "end": 35263,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 35728,
+      "end": 35737,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 35791,
+      "end": 35801,
+      "label": "PER"
+    },
+    {
+      "text": "marquis de Marigny",
+      "start": 35925,
+      "end": 35943,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Pompadour",
+      "start": 35957,
+      "end": 35976,
+      "label": "PER"
+    },
+    {
+      "text": "Arts",
+      "start": 36000,
+      "end": 36004,
+      "label": "PER"
+    },
+    {
+      "text": "Diderot",
+      "start": 36006,
+      "end": 36013,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 36066,
+      "end": 36076,
+      "label": "PER"
+    },
+    {
+      "text": "l'Italie",
+      "start": 36158,
+      "end": 36166,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 36268,
+      "end": 36277,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 36315,
+      "end": 36325,
+      "label": "PER"
+    },
+    {
+      "text": "Fanatique",
+      "start": 36327,
+      "end": 36336,
+      "label": "LOC"
+    },
+    {
+      "text": "Canova",
+      "start": 36354,
+      "end": 36360,
+      "label": "MISC"
+    },
+    {
+      "text": "Comédie Française",
+      "start": 36499,
+      "end": 36516,
+      "label": "LOC"
+    },
+    {
+      "text": "madame Geoffrin",
+      "start": 36581,
+      "end": 36596,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 36623,
+      "end": 36633,
+      "label": "PER"
+    },
+    {
+      "text": "Sculpture",
+      "start": 36776,
+      "end": 36785,
+      "label": "PER"
+    },
+    {
+      "text": "Clotilde",
+      "start": 36789,
+      "end": 36797,
+      "label": "PER"
+    },
+    {
+      "text": "Opéra",
+      "start": 36825,
+      "end": 36830,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 36874,
+      "end": 36883,
+      "label": "PER"
+    },
+    {
+      "text": "Arts",
+      "start": 37078,
+      "end": 37082,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 37217,
+      "end": 37226,
+      "label": "PER"
+    },
+    {
+      "text": "Arts",
+      "start": 37403,
+      "end": 37407,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 37494,
+      "end": 37498,
+      "label": "LOC"
+    },
+    {
+      "text": "Michel Ange",
+      "start": 37555,
+      "end": 37566,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 37582,
+      "end": 37592,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 37725,
+      "end": 37729,
+      "label": "LOC"
+    },
+    {
+      "text": "théâtre d'Argentina",
+      "start": 37890,
+      "end": 37909,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 38037,
+      "end": 38047,
+      "label": "PER"
+    },
+    {
+      "text": "Jomelli",
+      "start": 38050,
+      "end": 38057,
+      "label": "PER"
+    },
+    {
+      "text": "Jean Jacques Rousseau",
+      "start": 38283,
+      "end": 38304,
+      "label": "PER"
+    },
+    {
+      "text": "baron d'Holbach",
+      "start": 38371,
+      "end": 38386,
+      "label": "PER"
+    },
+    {
+      "text": "Jomelli",
+      "start": 38493,
+      "end": 38500,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 39172,
+      "end": 39181,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 39634,
+      "end": 39639,
+      "label": "LOC"
+    },
+    {
+      "text": "Grèce antique",
+      "start": 39677,
+      "end": 39690,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 39695,
+      "end": 39705,
+      "label": "ORG"
+    },
+    {
+      "text": "Vénus",
+      "start": 40085,
+      "end": 40090,
+      "label": "LOC"
+    },
+    {
+      "text": "Grecs",
+      "start": 40129,
+      "end": 40134,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 40681,
+      "end": 40690,
+      "label": "PER"
+    },
+    {
+      "text": "Pygmalion",
+      "start": 40722,
+      "end": 40731,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 40779,
+      "end": 40789,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 41150,
+      "end": 41159,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 41598,
+      "end": 41607,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 41804,
+      "end": 41814,
+      "label": "ORG"
+    },
+    {
+      "text": "Zambinella",
+      "start": 43458,
+      "end": 43468,
+      "label": "ORG"
+    },
+    {
+      "text": "Zambinella",
+      "start": 43546,
+      "end": 43556,
+      "label": "ORG"
+    },
+    {
+      "text": "Raphaël",
+      "start": 43637,
+      "end": 43644,
+      "label": "PER"
+    },
+    {
+      "text": "Giorgion",
+      "start": 43653,
+      "end": 43661,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 43805,
+      "end": 43814,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 44155,
+      "end": 44165,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 44832,
+      "end": 44841,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 45122,
+      "end": 45132,
+      "label": "ORG"
+    },
+    {
+      "text": "Turc",
+      "start": 45325,
+      "end": 45329,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 46161,
+      "end": 46171,
+      "label": "ORG"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 46496,
+      "end": 46515,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 46556,
+      "end": 46565,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 46757,
+      "end": 46766,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 46890,
+      "end": 46900,
+      "label": "PER"
+    },
+    {
+      "text": "Paris",
+      "start": 46932,
+      "end": 46937,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 46982,
+      "end": 46988,
+      "label": "LOC"
+    },
+    {
+      "text": "madame",
+      "start": 46990,
+      "end": 46996,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 47256,
+      "end": 47264,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 47392,
+      "end": 47402,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 47446,
+      "end": 47455,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 47594,
+      "end": 47603,
+      "label": "PER"
+    },
+    {
+      "text": "pensa t",
+      "start": 47646,
+      "end": 47653,
+      "label": "PER"
+    },
+    {
+      "text": "Jeune homme",
+      "start": 47976,
+      "end": 47987,
+      "label": "MISC"
+    },
+    {
+      "text": "Corso",
+      "start": 48177,
+      "end": 48182,
+      "label": "LOC"
+    },
+    {
+      "text": "hôtel d'Espagne",
+      "start": 48193,
+      "end": 48208,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 48361,
+      "end": 48371,
+      "label": "ORG"
+    },
+    {
+      "text": "Prenez",
+      "start": 48635,
+      "end": 48641,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 48665,
+      "end": 48673,
+      "label": "MISC"
+    },
+    {
+      "text": "Cicognara",
+      "start": 48740,
+      "end": 48749,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 48820,
+      "end": 48829,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 48836,
+      "end": 48846,
+      "label": "ORG"
+    },
+    {
+      "text": "Semblable",
+      "start": 48925,
+      "end": 48934,
+      "label": "PER"
+    },
+    {
+      "text": "Homère",
+      "start": 48972,
+      "end": 48978,
+      "label": "PER"
+    },
+    {
+      "text": "Poverino",
+      "start": 49147,
+      "end": 49155,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 49286,
+      "end": 49295,
+      "label": "PER"
+    },
+    {
+      "text": "Bouchardon",
+      "start": 49383,
+      "end": 49393,
+      "label": "PER"
+    },
+    {
+      "text": "Clotilde",
+      "start": 49407,
+      "end": 49415,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 49689,
+      "end": 49698,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 49853,
+      "end": 49861,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 49992,
+      "end": 50001,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 50291,
+      "end": 50300,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 50778,
+      "end": 50787,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 51087,
+      "end": 51097,
+      "label": "ORG"
+    },
+    {
+      "text": "Zambinella",
+      "start": 51536,
+      "end": 51546,
+      "label": "ORG"
+    },
+    {
+      "text": "madame",
+      "start": 51688,
+      "end": 51694,
+      "label": "PER"
+    },
+    {
+      "text": "Louis XV",
+      "start": 51947,
+      "end": 51955,
+      "label": "PER"
+    },
+    {
+      "text": "l'Europe",
+      "start": 52001,
+      "end": 52009,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 52084,
+      "end": 52094,
+      "label": "ORG"
+    },
+    {
+      "text": "madame du Barry",
+      "start": 52650,
+      "end": 52665,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 52854,
+      "end": 52863,
+      "label": "PER"
+    },
+    {
+      "text": "Vitagliani",
+      "start": 53113,
+      "end": 53123,
+      "label": "LOC"
+    },
+    {
+      "text": "Ténor sourit",
+      "start": 53223,
+      "end": 53235,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 53456,
+      "end": 53465,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 53656,
+      "end": 53666,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 53975,
+      "end": 53984,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 53991,
+      "end": 54001,
+      "label": "ORG"
+    },
+    {
+      "text": "Vitagliani",
+      "start": 54367,
+      "end": 54377,
+      "label": "PER"
+    },
+    {
+      "text": "Champagne",
+      "start": 54419,
+      "end": 54428,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 54430,
+      "end": 54439,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 54724,
+      "end": 54732,
+      "label": "LOC"
+    },
+    {
+      "text": "Vous disposerez de ma puissance",
+      "start": 54790,
+      "end": 54821,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 54924,
+      "end": 54933,
+      "label": "PER"
+    },
+    {
+      "text": "Italienne",
+      "start": 54990,
+      "end": 54999,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 55381,
+      "end": 55391,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 55635,
+      "end": 55644,
+      "label": "PER"
+    },
+    {
+      "text": "pedro ximenès",
+      "start": 55803,
+      "end": 55816,
+      "label": "LOC"
+    },
+    {
+      "text": "Calabre",
+      "start": 55864,
+      "end": 55871,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 56191,
+      "end": 56196,
+      "label": "LOC"
+    },
+    {
+      "text": "Londres",
+      "start": 56212,
+      "end": 56219,
+      "label": "LOC"
+    },
+    {
+      "text": "Vienne",
+      "start": 56238,
+      "end": 56244,
+      "label": "LOC"
+    },
+    {
+      "text": "sainte Vierge",
+      "start": 56391,
+      "end": 56404,
+      "label": "PER"
+    },
+    {
+      "text": "al Bambino",
+      "start": 56408,
+      "end": 56418,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 56591,
+      "end": 56601,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 56796,
+      "end": 56805,
+      "label": "PER"
+    },
+    {
+      "text": "Vitagliani",
+      "start": 57062,
+      "end": 57072,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 57181,
+      "end": 57190,
+      "label": "PER"
+    },
+    {
+      "text": "L'Italienne",
+      "start": 57413,
+      "end": 57424,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 57685,
+      "end": 57689,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 57699,
+      "end": 57708,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 58002,
+      "end": 58010,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 58012,
+      "end": 58021,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 58065,
+      "end": 58075,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 58151,
+      "end": 58160,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 58240,
+      "end": 58250,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 58367,
+      "end": 58376,
+      "label": "PER"
+    },
+    {
+      "text": "Vitagliani",
+      "start": 58443,
+      "end": 58453,
+      "label": "LOC"
+    },
+    {
+      "text": "Frascati",
+      "start": 59015,
+      "end": 59023,
+      "label": "ORG"
+    },
+    {
+      "text": "Ludovisi",
+      "start": 59109,
+      "end": 59117,
+      "label": "LOC"
+    },
+    {
+      "text": "Vitagliani",
+      "start": 59119,
+      "end": 59129,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 59165,
+      "end": 59174,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 59205,
+      "end": 59215,
+      "label": "ORG"
+    },
+    {
+      "text": "Rome",
+      "start": 59252,
+      "end": 59256,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 59642,
+      "end": 59651,
+      "label": "PER"
+    },
+    {
+      "text": "Aimeriez",
+      "start": 59653,
+      "end": 59661,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 59978,
+      "end": 59987,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 60315,
+      "end": 60323,
+      "label": "LOC"
+    },
+    {
+      "text": "Souvenez",
+      "start": 60764,
+      "end": 60772,
+      "label": "PER"
+    },
+    {
+      "text": "Soyez",
+      "start": 60974,
+      "end": 60979,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 61049,
+      "end": 61058,
+      "label": "PER"
+    },
+    {
+      "text": "Si",
+      "start": 61109,
+      "end": 61111,
+      "label": "MISC"
+    },
+    {
+      "text": "Dis",
+      "start": 61202,
+      "end": 61205,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 61367,
+      "end": 61377,
+      "label": "MISC"
+    },
+    {
+      "text": "Veux",
+      "start": 61506,
+      "end": 61510,
+      "label": "PER"
+    },
+    {
+      "text": "Parle",
+      "start": 61545,
+      "end": 61550,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 61606,
+      "end": 61616,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 61682,
+      "end": 61691,
+      "label": "PER"
+    },
+    {
+      "text": "Fatale beauté !",
+      "start": 61966,
+      "end": 61981,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 62104,
+      "end": 62113,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 62873,
+      "end": 62883,
+      "label": "PER"
+    },
+    {
+      "text": "Frascati",
+      "start": 63074,
+      "end": 63082,
+      "label": "ORG"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 63454,
+      "end": 63463,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 63563,
+      "end": 63573,
+      "label": "ORG"
+    },
+    {
+      "text": "Eh !",
+      "start": 63631,
+      "end": 63635,
+      "label": "MISC"
+    },
+    {
+      "text": "villa Ludovisi",
+      "start": 63796,
+      "end": 63810,
+      "label": "LOC"
+    },
+    {
+      "text": "Cicognara",
+      "start": 63846,
+      "end": 63855,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 64569,
+      "end": 64578,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 64607,
+      "end": 64617,
+      "label": "ORG"
+    },
+    {
+      "text": "Expliquez",
+      "start": 64820,
+      "end": 64829,
+      "label": "MISC"
+    },
+    {
+      "text": "Oh !",
+      "start": 65040,
+      "end": 65044,
+      "label": "MISC"
+    },
+    {
+      "text": "Sapho",
+      "start": 65220,
+      "end": 65225,
+      "label": "MISC"
+    },
+    {
+      "text": "Cessez",
+      "start": 65492,
+      "end": 65498,
+      "label": "PER"
+    },
+    {
+      "text": "Écoutez",
+      "start": 65677,
+      "end": 65684,
+      "label": "LOC"
+    },
+    {
+      "text": "Oh ! tais toi",
+      "start": 65725,
+      "end": 65738,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 65811,
+      "end": 65821,
+      "label": "ORG"
+    },
+    {
+      "text": "Rome",
+      "start": 65974,
+      "end": 65978,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 66138,
+      "end": 66147,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 66169,
+      "end": 66179,
+      "label": "ORG"
+    },
+    {
+      "text": "Mon cher",
+      "start": 66472,
+      "end": 66480,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 66633,
+      "end": 66643,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 66656,
+      "end": 66666,
+      "label": "MISC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 66677,
+      "end": 66686,
+      "label": "PER"
+    },
+    {
+      "text": "Vien",
+      "start": 66814,
+      "end": 66818,
+      "label": "MISC"
+    },
+    {
+      "text": "Lauterbourg",
+      "start": 66820,
+      "end": 66831,
+      "label": "LOC"
+    },
+    {
+      "text": "Allegrain",
+      "start": 66835,
+      "end": 66844,
+      "label": "LOC"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 66924,
+      "end": 66933,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 66996,
+      "end": 67005,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 67316,
+      "end": 67320,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 67480,
+      "end": 67490,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 67597,
+      "end": 67606,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 67785,
+      "end": 67794,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 67801,
+      "end": 67811,
+      "label": "ORG"
+    },
+    {
+      "text": "Zambinella",
+      "start": 67818,
+      "end": 67828,
+      "label": "ORG"
+    },
+    {
+      "text": "Rome",
+      "start": 67942,
+      "end": 67946,
+      "label": "LOC"
+    },
+    {
+      "text": "États du pape",
+      "start": 68033,
+      "end": 68046,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 68082,
+      "end": 68092,
+      "label": "PER"
+    },
+    {
+      "text": "Chigi",
+      "start": 68359,
+      "end": 68364,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 68403,
+      "end": 68412,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 68649,
+      "end": 68659,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 68718,
+      "end": 68727,
+      "label": "LOC"
+    },
+    {
+      "text": "Cicognara",
+      "start": 68938,
+      "end": 68947,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 69046,
+      "end": 69054,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 69315,
+      "end": 69325,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 69739,
+      "end": 69748,
+      "label": "PER"
+    },
+    {
+      "text": "Cicognara",
+      "start": 69825,
+      "end": 69834,
+      "label": "PER"
+    },
+    {
+      "text": "Rome",
+      "start": 69871,
+      "end": 69875,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 69983,
+      "end": 69993,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 70021,
+      "end": 70030,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 70348,
+      "end": 70357,
+      "label": "PER"
+    },
+    {
+      "text": "Glacé",
+      "start": 70359,
+      "end": 70364,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 70376,
+      "end": 70386,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 70542,
+      "end": 70552,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 70565,
+      "end": 70574,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 70836,
+      "end": 70845,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 70904,
+      "end": 70914,
+      "label": "PER"
+    },
+    {
+      "text": "demanda t",
+      "start": 70937,
+      "end": 70946,
+      "label": "PER"
+    },
+    {
+      "text": "Cicognara",
+      "start": 71010,
+      "end": 71019,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 71023,
+      "end": 71033,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 71097,
+      "end": 71101,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 71235,
+      "end": 71239,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 71264,
+      "end": 71274,
+      "label": "PER"
+    },
+    {
+      "text": "Rire !",
+      "start": 71381,
+      "end": 71387,
+      "label": "LOC"
+    },
+    {
+      "text": "Rire",
+      "start": 71448,
+      "end": 71452,
+      "label": "PER"
+    },
+    {
+      "text": "Oh !",
+      "start": 71511,
+      "end": 71515,
+      "label": "MISC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 71533,
+      "end": 71543,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 71581,
+      "end": 71590,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 71842,
+      "end": 71851,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 72005,
+      "end": 72015,
+      "label": "MISC"
+    },
+    {
+      "text": "Eh !",
+      "start": 72115,
+      "end": 72119,
+      "label": "LOC"
+    },
+    {
+      "text": "Aimer",
+      "start": 72466,
+      "end": 72471,
+      "label": "PER"
+    },
+    {
+      "text": "Sarrasine",
+      "start": 72959,
+      "end": 72968,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 73466,
+      "end": 73476,
+      "label": "PER"
+    },
+    {
+      "text": "Cicognara",
+      "start": 73625,
+      "end": 73634,
+      "label": "PER"
+    },
+    {
+      "text": "Français",
+      "start": 73705,
+      "end": 73713,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 73762,
+      "end": 73772,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Rochefide",
+      "start": 73927,
+      "end": 73946,
+      "label": "PER"
+    },
+    {
+      "text": "Lanty",
+      "start": 74043,
+      "end": 74048,
+      "label": "LOC"
+    },
+    {
+      "text": "Madame",
+      "start": 74053,
+      "end": 74059,
+      "label": "PER"
+    },
+    {
+      "text": "Cicognara",
+      "start": 74073,
+      "end": 74082,
+      "label": "PER"
+    },
+    {
+      "text": "statue de Zambinella",
+      "start": 74106,
+      "end": 74126,
+      "label": "LOC"
+    },
+    {
+      "text": "musée Albani",
+      "start": 74186,
+      "end": 74198,
+      "label": "LOC"
+    },
+    {
+      "text": "Lanty",
+      "start": 74231,
+      "end": 74236,
+      "label": "PER"
+    },
+    {
+      "text": "Vien",
+      "start": 74258,
+      "end": 74262,
+      "label": "PER"
+    },
+    {
+      "text": "Zambinella",
+      "start": 74307,
+      "end": 74317,
+      "label": "PER"
+    },
+    {
+      "text": "Endymion de Girodet",
+      "start": 74396,
+      "end": 74415,
+      "label": "MISC"
+    },
+    {
+      "text": "l'Adonis",
+      "start": 74458,
+      "end": 74466,
+      "label": "LOC"
+    },
+    {
+      "text": "Zambinella",
+      "start": 74487,
+      "end": 74497,
+      "label": "PER"
+    },
+    {
+      "text": "madame",
+      "start": 74519,
+      "end": 74525,
+      "label": "PER"
+    },
+    {
+      "text": "Marianina",
+      "start": 74549,
+      "end": 74558,
+      "label": "PER"
+    },
+    {
+      "text": "madame de Lanty",
+      "start": 74606,
+      "end": 74621,
+      "label": "PER"
+    },
+    {
+      "text": "Hé",
+      "start": 74807,
+      "end": 74809,
+      "label": "MISC"
+    },
+    {
+      "text": "Ah !",
+      "start": 74833,
+      "end": 74837,
+      "label": "MISC"
+    },
+    {
+      "text": "Mères",
+      "start": 75133,
+      "end": 75138,
+      "label": "LOC"
+    },
+    {
+      "text": "Amantes",
+      "start": 75251,
+      "end": 75258,
+      "label": "LOC"
+    },
+    {
+      "text": "Laissez",
+      "start": 75535,
+      "end": 75542,
+      "label": "PER"
+    },
+    {
+      "text": "Ah !",
+      "start": 75556,
+      "end": 75560,
+      "label": "MISC"
+    },
+    {
+      "text": "Aurais",
+      "start": 75593,
+      "end": 75599,
+      "label": "LOC"
+    },
+    {
+      "text": "Italie",
+      "start": 75700,
+      "end": 75706,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 75841,
+      "end": 75846,
+      "label": "LOC"
+    },
+    {
+      "text": "Paris",
+      "start": 76202,
+      "end": 76207,
+      "label": "LOC"
+    }
+  ]
+}
