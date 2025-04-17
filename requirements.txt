@@ -1,8 +1,7 @@
 pandas
-spacy
-plotly
 altair
 matplotlib
-numpy
-concurrent-log-handler
-scikit-learn
+wordcloud
+tqdm
+spacy
+textstat
