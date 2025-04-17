@@ -23,28 +23,11 @@ engine: knitr
 jupyter: python3
 ---
 ```{r}
+#| label: library_r
+
 # Load reticulate so that R and Python can talk to each other
 library(reticulate)
 ```
-
-```{python}
-#| label: library
-#| include: false
-#| eval: false
-import os
-import json
-import pandas as pd
-import altair as alt
-from dask import delayed, compute
-from itertools import islice
-import spacy
-import json
-from pathlib import Path
-from spacy import displacy
-from dask import delayed
-
-```
-
 
 
 #  Introduction: 
@@ -104,8 +87,8 @@ stopwords = set([
 ])
 
 # Directories
-raw_dir = 'D:/ParisC/Projects/BigData-HWI/DATA/Raw'
-cleaned_dir = 'D:/ParisC/Projects/BigData-HWI/DATA/Cleaned'
+raw_dir = './DATA/Raw'
+cleaned_dir = './DATA/Cleaned'
 
 # Function to clean the text
 def clean_text_file(path):
@@ -161,8 +144,8 @@ Key Terms:
 nlp = spacy.load('fr_core_news_sm')
 
 # Directories for input and output
-input_dir = Path('D:/ParisC/Projects/BigData-HWI/DATA/Cleaned')
-output_dir = Path('D:/ParisC/Projects/BigData-HWI/NLP/annotated')
+input_dir = Path('./DATA/Cleaned')
+output_dir = Path('./NLP/annotated')
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Get sorted list of text files to annotate
@@ -249,8 +232,8 @@ from collections import Counter
 import pandas as pd
 
 # Directories
-cleaned_dir = Path("D:/ParisC/Projects/BigData-HWI/DATA/Cleaned")
-output_dir = Path("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results")
+cleaned_dir = Path("./DATA/Cleaned")
+output_dir = Path("./NLP/Stylo_Analysis_results")
 output_dir.mkdir(parents=True, exist_ok=True)
 
 # Load spaCy model
@@ -310,7 +293,7 @@ import os
 import random
 
 # Load the analysis results
-with open("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
+with open("./NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
     data = json.load(f)
 
 # Function to clean file names
@@ -399,7 +382,7 @@ import random
 import os
 
 # Load your data
-with open("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
+with open("./NLP/Stylo_Analysis_results/analysis_results.json", encoding='utf-8') as f:
     data = json.load(f)
 
 # Function to clean and format the text titles
@@ -543,8 +526,8 @@ from tqdm.auto import tqdm
  nlp = spacy.load("fr_core_news_lg", disable=["parser", "ner"])
 
 # Paths
-cleaned_dir = Path("D:/ParisC/Projects/BigData-HWI/DATA/Cleaned")
-output_image_path = Path("D:/ParisC/Projects/BigData-HWI/NLP/Visualisations/wordcloud_spacy_all.png")
+cleaned_dir = Path("./DATA/Cleaned")
+output_image_path = Path("./NLP/Visualisations/wordcloud_spacy_all.png")
 output_image_path.parent.mkdir(parents=True, exist_ok=True)
 
  Get all .txt files
