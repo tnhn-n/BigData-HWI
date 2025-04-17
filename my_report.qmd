@@ -219,7 +219,6 @@ results = compute(*tasks)
 print(results)
 ")
 
-
 ```
 
 
@@ -294,6 +293,11 @@ print(" Stylometric analysis complete!")
 
 
 ## Average Sentence Length Distribution
+
+The Average Sentence Length Distribution chart offers a glimpse into the syntactic structure of the sampled texts. Sentence length can reflect an author's stylistic tendencies —**longer sentences** often suggest more **complex**, descriptive, or formal writing, while **shorter sentences** can indicate a more **direct**, accessible, or dialogic style. 
+
+Interestingly, the average sentence length across the sampled texts aligns closely with general expectations for written language, typically ranging from **15 to 25** words. While 19th-century French literature is often known for long, elaborate sentences, the results here suggest a more moderate style, possibly influenced by sections of dialogue or narrative simplicity. This balance contributes to a writing style that remains accessible while still rich in detail — a hallmark of Balzac’s ability to blend complexity with readability.
+
 ```{python}
 #| label: Average_Sentence_Length_Distribution
 #| appendix: true
@@ -339,8 +343,7 @@ alt.Chart(avg_sentence_df).mark_bar().encode(
 
 ## Average Word Length Distribution
 
-After conducting the stylometric analysis, we can visualize the distribution of the average sentence length across the texts. 
-This graphic illustrates how sentence length varies within the analyzed works. A **peak** in the distribution indicates a common sentence length used throughout the text, while a **wider** spread suggests more variability. By examining this distribution, we can gain insights into the author's writing style, such as whether they tend to favor shorter, punchy sentences or longer, more complex structures. 
+The Average Word Length Distribution plot helps us understand the **lexical complexity** of Balzac's writing. Most texts cluster around an average word length of approximately 4 characters, suggesting a consistent use of relatively short words throughout his work. This is characteristic of natural dialogue and narrative prose, where common functional words such as *être*, *avoir*, and *faire* appear frequently. While shorter words might indicate a simpler vocabulary, in Balzac's case, they often serve as building blocks for more nuanced and layered sentence structures. The distribution highlights the balance between accessibility and stylistic richness in his writing.
 
 ```{python}
 #| label: Average_Word_Length_Distribution
@@ -352,9 +355,9 @@ import os
 import altair as alt
 # Function to clean up file names
 def clean_title(filename):
-    name = os.path.splitext(filename)[0]  # Remove .txt extension
-    name = name.replace('_', ' ')         # Replace underscores with spaces
-    return name.capitalize()              # Capitalize the first letter
+    name = os.path.splitext(filename)[0]  
+    name = name.replace('_', ' ')         
+    return name.capitalize()              
 
 # Sample 20 random texts
 sampled_data = random.sample(list(data.items()), 20)
@@ -439,7 +442,7 @@ rule = alt.Chart(pd.DataFrame({'y': [avg_score]})).mark_rule(color='red').encode
 ## POS Distribution (Grouped by Text)
 
 
-To better understand the grammatical makeup of Balzac's writing, I analyzed the distribution of key part-of-speech tags—nouns, verbs, adjectives, and adverbs across all the texts (but only showing 10 randomly sampled ones here for clearer visualization; [Here’s the link to view all visualizations]("D:/ParisC/Projects/BigData-HWI/NLP/Stylo_Analysis_results/POS_Distribution.html")). Each small chart represents one of these texts and breaks down how frequently each type of word appears. This visualization gives a quick snapshot of how language is structured in different works: for instance, some texts may rely heavily on descriptive language (adjectives), while others may lean more on action (verbs) or narrative detail (nouns). By comparing these patterns, we start to see how Balzac’s use of grammar varies from one novel to another, and how certain stylistic tendencies might emerge depending on the theme or genre of the piece.
+To better understand the grammatical makeup of Balzac's writing, I analyzed the distribution of key part-of-speech tags—nouns, verbs, adjectives, and adverbs across all the texts (but only showing 10 randomly sampled ones here for clearer visualization). Each small chart represents one of these texts and breaks down how frequently each type of word appears. This visualization gives a quick snapshot of how language is structured in different works: for instance, some texts may rely heavily on descriptive language (adjectives), while others may lean more on action (verbs) or narrative detail (nouns). By comparing these patterns, we start to see how Balzac’s use of grammar varies from one novel to another, and how certain stylistic tendencies might emerge depending on the theme or genre of the piece.
 
 ```{python}
 #| label: POS_Distribution 
@@ -478,30 +481,48 @@ alt.Chart(pos_df).mark_bar().encode(
 
 ## Type-Token Ratio (TTR) Distribution
 
+TTR is the ratio of distinct words (types) to the total number of words (tokens), and it serves as an indicator of how varied the vocabulary is across different texts. 
+
+A **higher** TTR suggests a **greater** use of unique words, indicating a more diverse vocabulary and potentially a richer style of writing. Conversely, a **lower** TTR may point to a more repetitive use of words, suggesting a **simpler** or more constrained writing style. 
+
+In the case of the sampled texts, most TTR values fall between **0.1** and **0.3**, which is typical for longer literary works. Lower TTR values are expected as the length of a text increases, due to natural word repetition. This range still offers useful insights into Balzac’s writing style—some texts display slightly higher TTRs, indicating more varied vocabulary, while others are more repetitive, possibly reflecting genre conventions or narrative focus.
 
 ```{python}
 #| label: TTR_Distribution
 #| appendix: true
 #| echo: false
- 
+import random
+
+# Sample 10 random items from the data
+sampled_data = random.sample(list(data.items()), 10)
+
+# Create the DataFrame using the sampled data
 ttr_df = pd.DataFrame({
-    "Text": list(data.keys()),
-    "TTR": [v["TTR"] for v in data.values()]
+    "Text": [os.path.splitext(k)[0].replace('_', ' ').capitalize() for k, _ in sampled_data],
+    "TTR": [v["TTR"] for _, v in sampled_data]
 })
 
+# Chart
 alt.Chart(ttr_df).mark_bar().encode(
     x=alt.X('Text:N', sort='-y'),
     y=alt.Y('TTR:Q'),
     tooltip=['Text', 'TTR']
-).properties(title="Type-Token Ratio Distribution", width=600)
+).properties(title="Type-Token Ratio Distribution (10 Sampled Texts)", width=600)
+
 ```
 
 
 ## Global Word Cloud
 
-Here is the global word cloud generated from all 92 Balzac novels:
+The word cloud visualization provides a graphical representation of the most frequent terms across the selected texts. 
+The largest words, such as **monsieur**, **être**, **faire**, **bien**, **femme**, **avoir**, and **voir**, are particularly significant as they highlight the recurring themes and linguistic patterns in the texts. **Monsieur** appears frequently, reflecting the formal, respectful tone often used in 19th-century French literature.
+Similarly, verbs like **être**, **faire**, and **avoir** are foundational in French, often used in everyday speech and writing. The presence of **bien** and voir suggests a focus on description, perception, and actions that are central to character development and narrative progression. 
+Additionally, the prominence of **femme** could point to the themes of gender and social dynamics, which are often explored in the works of authors like Balzac. 
+These words collectively shed light on the linguistic characteristics and thematic preoccupations within the texts, offering a unique snapshot of their content and style.
 
-![Word Cloud](D:/ParisC/Projects/BigData-HWI/NLP/Visualisations/wordcloud_spacy_all.png)
+
+![Wordcloud Image](https://raw.githubusercontent.com/tnhn-n/BigData-HWI/main/NLP/Visualisations/wordcloud_spacy_all.png)
+
 
 
 ```{python}
@@ -567,7 +588,10 @@ else:
 
 ```
 
-# Appendix {-}
+To explore these visualizations in detail, and to see how they relate to each other, please visit the [GitHub repository here](https://github.com/tnhn-n/BigData-HWI/tree/main/NLP/Visualisations). These charts collectively offer insights into the variability and consistency of Balzac’s stylistic choices across different works.
+
+
+# Appendix 
 
 ```{r}
 #| label: appendix-code

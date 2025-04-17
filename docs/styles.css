@@ -1,0 +1,101 @@
+/* General Page Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f5f5f0;  /* Light beige background color for the page */
+    color: #333333;  /* Darker text color for readability */
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+/* Header Style */
+header {
+    background-color: #f8e8d7;  /* Light beige background for the header */
+    color: #3b2a1a;  /* Darker brown text for the header */
+    padding: 20px;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 15px
+}
+
+h1, h2, h3 {
+    font-weight: bold;
+    color: #3b2a1a;  /* Darker brown for headings */
+}
+
+/* Content Box Styles */
+.content-box {
+    background-color: #fff9e6;  /* Very light beige background for content boxes */
+    border: 2px solid #d8b79d;  /* Soft beige border around the content boxes */
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;  /* Rounded corners for content boxes */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);  /* Subtle shadow for the content boxes */
+}
+
+.content-box h2 {
+    color: #8f7655;  /* Darker beige for subheadings in content boxes */
+}
+
+/* Table of Contents (TOC) Box */
+.toc-box {
+    background-color: #f9f0e1;  /* Soft beige background for TOC */
+    border: 2px solid #e2c8a0;  /* Slightly darker beige border */
+    color: #3b2a1a;  /* Darker brown text for TOC */
+    padding: 15px;
+    margin-bottom: 20px;
+    border-radius: 10px;  /* Rounded corners for TOC box */
+}
+
+.toc-box h2 {
+    color: #3b2a1a;  /* Darker brown color for TOC title */
+}
+
+/* Appendix Box */
+.appendix-box {
+    background-color: #f7f5f1;  /* Very light beige background for Appendix */
+    border: 2px solid #d8b79d;  /* Soft beige border */
+    color: #fffdfd;  /* Darker text color for the Appendix */
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 8px;  /* Rounded corners for the Appendix box */
+}
+
+/* Links */
+a {
+    color: #3b2a1a;  /* Dark brown for links */
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+/* Footer Styles */
+footer {
+    background-color: #7f6a4f;  /* Darker beige footer */
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Styling for lists (like table of contents) */
+ul, ol {
+    margin: 0;
+    padding-left: 20px;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Responsive Design: Make sure it adapts to smaller screens */
+@media (max-width: 768px) {
+    body {
+        font-size: 14px;
+    }
+    
+    .content-box, .toc-box, .appendix-box {
+        padding: 15px;
+    }
+}
